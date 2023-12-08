@@ -1,4 +1,4 @@
-# `bobcat-redirects` test fixtures
+# [bobcat-redirects](https://github.com/NYULibraries/bobcat-redirects) test fixtures
 
 Files that can be used in [bobcat\-redirects/testutils/testdata/fixtures /primo\-fake\-responses/](https://github.com/NYULibraries/bobcat-redirects/tree/main).
 
