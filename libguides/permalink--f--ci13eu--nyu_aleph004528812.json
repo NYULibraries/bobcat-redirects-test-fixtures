@@ -1,0 +1,196 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045288120107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "West India colonies slave insurrection : return to addresses to His Majesty, dated 9 & 15 March 1832." ],
+        "subject" : [ "Slavery -- West Indies, British", "Slave insurrections -- West Indies, British$$QSlave insurrections -- West Indies, British -- Sources", "Slaves -- Emancipation -- West Indies, British", "West Indies, British -- Social conditions -- History", "Great Britain -- Colonies -- West Indies -- Administration" ],
+        "format" : [ "1 online resource (60 p.) ; 34 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)785638161" ],
+        "creationdate" : [ "1832" ],
+        "publisher" : [ "London : Printed for the House of Commons" ],
+        "mms" : [ "990045288120107871" ],
+        "contributor" : [ "Great Britain. Parliament. House of Commons.$$QGreat Britain. Parliament. House of Commons.", "Great Britain. Colonial Office.$$QGreat Britain. Colonial Office." ],
+        "series" : [ "[House of Commons reports and papers ; no.] 285$$Q[House of Commons reports and papers ", "Slavery and anti-slavery: a transnational archive: Part II: Slave trade in the Atlantic world$$QSlavery and anti-slavery: a transnational archive: Part II: Slave trade in the Atlantic world", "Slavery and anti-slavery: a transnational archive: Part II: Slave trade in the Atlantic world.$$QSlavery and anti-slavery: a transnational archive: Part II: Slave trade in the Atlantic world." ],
+        "genre" : [ "Sources" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galeprim", "aleph004528812" ],
+        "lds60" : [ "\"For address 9 March 1832: Copies of a circular despatch addressed by Viscount Goderich to the Governors of West India Colonies ... Copies of the despatches from the Governor of Jamaica to Viscount Goderich, conveying information to the latest period of the colony. Of the proclamation issued by the Governor in consequence of that rebellion ... Address 15 March 1832; Copies of any despatches which may have been received from other of the West India colonies besides Jamaica ...\"", "Reproduction of the original from the Oberlin College Library." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045288120107871" ],
+        "recordid" : [ "alma990045288120107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004528812-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1832" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Printed for the House of Commons" ],
+        "oclcid" : [ "(ocolc)785638161" ],
+        "seriestitle" : [ "[House of Commons reports and papers ; no.] 285" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "West India colonies slave insurrection : return to addresses to His Majesty, dated 9 & 15 March 1832." ]
+      },
+      "sort" : {
+        "title" : [ "West India colonies slave insurrection : return to addresses to His Majesty, dated 9 & 15 March 1832." ],
+        "author" : [ "Great Britain. Parliament. House of Commons." ],
+        "creationdate" : [ "1832" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045288120107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:785638161,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "98",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "304",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 335,
+    "COMBINED_SEARCH_TIME" : 338,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1832",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Great Britain Colonies West Indies Administration",
+      "count" : "1"
+    }, {
+      "value" : "Slave Insurrections West Indies British Sources",
+      "count" : "1"
+    }, {
+      "value" : "Slavery West Indies British",
+      "count" : "1"
+    }, {
+      "value" : "Slaves Emancipation West Indies British",
+      "count" : "1"
+    }, {
+      "value" : "West Indies British Social Conditions History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Great Britain Colonial Office",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Parliament House Of Commons",
+      "count" : "1"
+    } ]
+  } ]
+}

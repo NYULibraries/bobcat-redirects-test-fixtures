@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050887830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of African history " ],
+        "subject" : [ "Africa -- History$$QAfrica -- History -- Encyclopedias", "Afrique -- Histoire$$QAfrique -- Histoire -- Encyclopédies", "Africa", "Afrika" ],
+        "format" : [ "1 online resource (3 volumes) : illustrations, maps", "data file" ],
+        "identifier" : [ "$$CISBN$$V9781849722209;$$CISBN$$V184972220X;$$CISBN$$V9780203483862;$$CISBN$$V0203483863;$$CISBN$$V9786610289684;$$CISBN$$V6610289689;$$COCLC$$V(OCoLC)436851429;$$CISBN$$V1579582451;$$CISBN$$V1579584535" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "New York : Fitzroy Dearborn/Routledge" ],
+        "description" : [ "Covering the entire continent from Morocco, Libya, and Egypt in the north to the Cape of Good Hope in the south, and the surrounding islands from Cape Verde in the west to Madagascar, Mauritius, and Seychelles in the east, the Encyclopedia of African History is a new A-Z reference resource on the history of the entire African continent. With entries ranging from the earliest evolution of human beings in Africa to the beginning of the twenty-first century, this comprehensive three volume Encyclopedia is the first reference of this scale and scope. Also includes 99 maps." ],
+        "mms" : [ "990050887830107871" ],
+        "contributor" : [ "Shillington, Kevin.$$QShillington, Kevin." ],
+        "contents" : [ "v. 1. A-G -- v. 2. H-O -- v. 3. P-Z, index." ],
+        "genre" : [ "Electronic books", "encyclopedias", "History", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VEncyclopedia of African history. New York : Fitzroy Dearborn, 2005$$QEncyclopedia of African history.$$Z990011669010107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "aleph005088783" ],
+        "lds60" : [ "Includes graphical cross-reference mapper." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050887830107871" ],
+        "recordid" : [ "alma990050887830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005088783-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Shillington" ],
+        "aufirst" : [ "Kevin." ],
+        "auinit" : [ "K" ],
+        "addau" : [ "Shillington, Kevin." ],
+        "contributorfull" : [ "$$NShillington, Kevin.$$LShillington$$FKevin.$$Rcontributor" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "9781849722209", "184972220X", "9780203483862", "0203483863", "9786610289684", "6610289689", "1579582451", "1579584535" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Covering the entire continent from Morocco, Libya, and Egypt in the north to the Cape of Good Hope in the south, and the surrounding islands from Cape Verde in the west to Madagascar, Mauritius, and Seychelles in the east, the Encyclopedia of African History is a new A-Z reference resource on the history of the entire African continent. With entries ranging from the earliest evolution of human beings in Africa to the beginning of the twenty-first century, this comprehensive three volume Encyclopedia is the first reference of this scale and scope. Also includes 99 maps." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Fitzroy Dearborn/Routledge" ],
+        "oclcid" : [ "(ocolc)436851429" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of African history" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of African history /" ],
+        "author" : [ "Shillington, Kevin." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050887830107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050887830107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:184972220X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dt!20ǂ e53 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "181",
+    "CALL_SOLR_GET_IDS_LIST" : "60",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "49",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "333",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 366,
+    "COMBINED_SEARCH_TIME" : 369,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa",
+      "count" : "1"
+    }, {
+      "value" : "Africa History Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Afrika",
+      "count" : "1"
+    }, {
+      "value" : "Afrique Histoire Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Shillington Kevin",
+      "count" : "1"
+    } ]
+  } ]
+}

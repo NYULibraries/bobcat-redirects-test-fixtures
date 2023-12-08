@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990017643030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare and his contemporaries in performance " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Stage history$$QShakespeare, William, 1564-1616 -- Stage history -- Congresses", "Shakespeare, William, 1564-1616 -- Contemporaries$$QShakespeare, William, 1564-1616 -- Contemporaries -- Congresses", "Shakespeare, William, 1564-1616 -- Dramatic production$$QShakespeare, William, 1564-1616 -- Dramatic production -- Congresses", "English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism$$QEnglish drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism -- Congresses", "Shakespeare, William, 1564-1616 -- Dramatic production -- History and criticism" ],
+        "format" : [ "xii, 364 p. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V00108814;$$CISBN$$V0754600467 (acid-free paper);$$COCLC$$V(OCoLC)ocm45328569" ],
+        "creationdate" : [ "c2000" ],
+        "publisher" : [ "Aldershot, Hants, England ; Burlington, Vt. : Ashgate" ],
+        "mms" : [ "990017643030107871" ],
+        "contributor" : [ "Esche, Edward J., 1953-$$QEsche, Edward J." ],
+        "contents" : [ "Illustrations -- Acknowledgements -- List of contributors -- Editor's preface / Edward J. Esche -- Introduction: Shakespeare and cultural tourism / Dennis Kennedy -- Shakespeare on film. 1. The recent films / H.R. Coursen ; 2. (En)gendering desire in performance: King Lear, Akira Kurosawa's Ran, Tadashi Suzuki's The tale of Lear / Yoko Takakuwa -- Nineteenth- and twentieth-century contexts. 3. Touring in Asia: The Miln Company's Shakespearean productions in Japan / Kaori Kobayashi ; 4. Interculturalism or indigenization: Modes of exchange, Shakespeare East and West / Poonam Trivedi ; 5. Berlin-Zürich-Düsseldorf: Aspects of German theatre during the Nazi period and after / Wilhelm Hortmann ; 6. Gentlemen you are welcome to Elsinore: Hamlet in performance at Kronborg Castle, Elsinore / Niels B. Hansen ; 7. Culture clustering, gender crossing: Hamlet meets globalization in Robert Lepage's Elsinore / Nigel Wheale ; 8. 'The homestead of history': Shakespearean medievalism on the mid-Victorian stage / Richard W. Schoch -- Renaissance contexts. 9. Falstaff's page as early modern youth at risk / Mark H. Lawhorn ; 10. Fashion, nation and theatre in late sixteenth-century London / Janette Dillon ; 11. The Italian job: the poetics of graced performance in the Commedia dell'arte and in Jonson's Humour plays / Rocco Coronato ; 12. The true physiognomy of a man: Richard Tarlton and his legend / Peter Thomson ; 13. ''Tis a pageant / To keep us in false gaze': Othello, virtual history and the Jacobean audience's Turkish expectations / Mark Hutchings -- From text to performance. 14. Don Pedro, Don John and Don ... who? - noting a stranger in Much adoodle-do / Pamela Mason ; 15. 'The silent griefs which cut the heart strings': John Ford's The broken heart in performance / Kristin Crouch ; 16. Cunning with pistols: observations on Gale Edwards's 1996-7 RSC production of John Webster's The white devil / Nick Tippler ; 17. The nineteenth-century productions of A Yorkshire tragedy (1608) / Barry Gaines ; 18. The magnetick lady: is the unperformed performable? / Peter Happé -- Female roles. 10. 'A woman's generall: what should we feare?': Queen Margaret thatcherized in recent productions of 3 Henry VI / Randall Martin ; 20. The disappearing queen: looking for Isabel in Henry V / Diana E. Henderson -- Index." ],
+        "genre" : [ "Congresses" ],
+        "place" : [ "Aldershot, Hants, England ; Burlington, Vt. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001764303" ],
+        "lds53" : [ "001764303" ],
+        "lds60" : [ "Selection of papers from an international conference held at St. John's College, Cambridge in August 1997." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990017643030107871" ],
+        "recordid" : [ "alma990017643030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001764303-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Esche" ],
+        "aufirst" : [ "Edward J." ],
+        "auinit" : [ "E" ],
+        "addau" : [ "Esche, Edward J." ],
+        "contributorfull" : [ "$$NEsche, Edward J.$$LEsche$$FEdward J.$$Rcontributor" ],
+        "date" : [ "2000", "c2000" ],
+        "isbn" : [ "0754600467" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Aldershot, Hants, England ;" ],
+        "pub" : [ "Ashgate" ],
+        "oclcid" : [ "(ocolc)45328569" ],
+        "lccn" : [ "00108814" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare and his contemporaries in performance" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare and his contemporaries in performance /" ],
+        "author" : [ "Esche, Edward J., 1953-" ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990017643030107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990017643030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0754600467,OCLC:,LCCN:00108814&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#3091ǂ s33 2000",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "58",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "273",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 299,
+    "COMBINED_SEARCH_TIME" : 303,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "English Drama Early Modern And Elizabethan 1500 1600 History And Criticism Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Contemporaries Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Dramatic Production Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Dramatic Production History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Stage History Congresses",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Esche Edward J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

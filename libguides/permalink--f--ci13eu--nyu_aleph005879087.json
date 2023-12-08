@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058790870107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Real luxury : how luxury brands can create value for the long term " ],
+        "subject" : [ "Produits de luxe", "BUSINESS & ECONOMICS -- Industries -- General", "Luxuries", "Merkartikelen", "Merken (commercie)", "Economische waarde", "Marketing", "Sales & marketing", "Business innovation", "Business strategy", "Business and Management" ],
+        "format" : [ "1 online resource (viii, 228 pages) : illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9781137395573;$$CISBN$$V1137395575;$$CISBN$$V1349484237;$$CISBN$$V9781349484232;$$CISBN$$V1137395567;$$COCLC$$V(OCoLC)886336639;$$CISBN$$V9781137395566" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Pinkhasov, Misha, author.$$QPinkhasov, Misha" ],
+        "publisher" : [ "Basingstoke : Palgrave Macmillan" ],
+        "description" : [ "Real Luxury examines what 'luxury brands' are from a new perspective: from economic, sociological and psychological standpoints. It spells out the challenges the luxury sector is facing and puts forward a brand new and practical model to revive and protect luxury brands in the long term, based on the authors' experience with leading global luxury brands. Linking luxury with market forces including sustainability, the globalized economy, and the impact of technology, this book provides an accessible and innovative way of thinking about luxury brand management, with insights from current thought leaders and innovators behind the luxury brands." ],
+        "mms" : [ "990058790870107871" ],
+        "contributor" : [ "Nair, Rachna Joshi, author.$$QNair, Rachna Joshi" ],
+        "contents" : [ "Introduction -- 1. A Dilemma Across Time and Culture -- 2. The Strengths and Weaknesses of Luxury -- 3. The Environment for Luxury -- 4. Luxury and the Search for Meaning -- 5. Towards a Socially Valuable Business -- 6. Creating a Culture of Shared Value -- 7. Adapting the Business Model -- 8. The Outlook for Luxury." ],
+        "relation" : [ "$$Cform$$VPrint version: Pinkhasov, Misha. Real luxury : how luxury brands can create value for the long term. Hampshire, England ; New York, New York : Palgrave Macmillan, ©2014 viii, 228 pages$$QReal luxury : how luxury brands can create value for the long term.$$Z990040824490107871" ],
+        "place" : [ "Basingstoke] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "skillbp", "sprnglnk", "aleph005879087" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058790870107871" ],
+        "recordid" : [ "alma990058790870107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005879087-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Pinkhasov" ],
+        "aufirst" : [ "Misha" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Pinkhasov, Misha" ],
+        "addau" : [ "Nair, Rachna Joshi" ],
+        "creatorfull" : [ "$$NPinkhasov, Misha$$LPinkhasov$$FMisha$$Rauthor" ],
+        "contributorfull" : [ "$$NNair, Rachna Joshi$$LNair$$FRachna Joshi$$Rcontributor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781137395573", "1137395575", "1349484237", "9781349484232", "1137395567", "9781137395566" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Real Luxury examines what 'luxury brands' are from a new perspective: from economic, sociological and psychological standpoints. It spells out the challenges the luxury sector is facing and puts forward a brand new and practical model to revive and protect luxury brands in the long term, based on the authors' experience with leading global luxury brands. Linking luxury with market forces including sustainability, the globalized economy, and the impact of technology, this book provides an accessible and innovative way of thinking about luxury brand management, with insights from current thought leaders and innovators behind the luxury brands." ],
+        "cop" : [ "Basingstoke" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)886336639" ],
+        "doi" : [ "10.1057/9781137395573" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Real luxury : how luxury brands can create value for the long term" ]
+      },
+      "sort" : {
+        "title" : [ "Real luxury : how luxury brands can create value for the long term /" ],
+        "author" : [ "Pinkhasov, Misha, author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058790870107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1137395575,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hb\"841",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "235",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "56",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "101",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "470",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 503,
+    "COMBINED_SEARCH_TIME" : 506,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business And Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Industries General",
+      "count" : "1"
+    }, {
+      "value" : "Business Innovation",
+      "count" : "1"
+    }, {
+      "value" : "Business Strategy",
+      "count" : "1"
+    }, {
+      "value" : "Economische Waarde",
+      "count" : "1"
+    }, {
+      "value" : "Luxuries",
+      "count" : "1"
+    }, {
+      "value" : "Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Merkartikelen",
+      "count" : "1"
+    }, {
+      "value" : "Merken Commercie",
+      "count" : "1"
+    }, {
+      "value" : "Produits De Luxe",
+      "count" : "1"
+    }, {
+      "value" : "Sales Marketing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Nair Rachna Joshi",
+      "count" : "1"
+    }, {
+      "value" : "Pinkhasov Misha",
+      "count" : "1"
+    } ]
+  } ]
+}

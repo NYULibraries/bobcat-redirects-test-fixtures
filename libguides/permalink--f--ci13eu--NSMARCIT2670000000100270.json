@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995641455307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Short film studies." ],
+        "subject" : [ "Motion pictures$$QMotion pictures -- Periodicals", "Short films$$QShort films -- Periodicals", "Courts métrages$$QCourts métrages -- Périodiques", "Cinéma$$QCinéma -- Périodiques", "Motion pictures", "Short films", "Cinéma", "Court métrage" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2017207414;$$CISSN$$V2042-7832;$$COCLC$$V(OCoLC)809591642;$$CISSN$$V2042-7824" ],
+        "creationdate" : [ "2010-" ],
+        "publisher" : [ "Bristol : Intellect Ltd.", "Began with: Volume 1, number 1 (June 2010)." ],
+        "mms" : [ "9995641455307871" ],
+        "contributor" : [ "Intellect (Firm), issuing body.$$QIntellect (Firm)" ],
+        "frequency" : [ "Semiannual" ],
+        "genre" : [ "Périodiques", "Periodicals", "Ressource Internet (Descripteur de forme)", "Périodique électronique (Descripteur de forme)" ],
+        "place" : [ "Bristol :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)2670000000100270" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995641455307871" ],
+        "recordid" : [ "alma9995641455307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "992670000000100270" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2010", "2010-" ],
+        "issn" : [ "2042-7832", "2042-7824" ],
+        "cop" : [ "Bristol" ],
+        "pub" : [ "Intellect Ltd." ],
+        "oclcid" : [ "(ocolc)809591642" ],
+        "lccn" : [ "2017207414" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Short film studies." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Short film studies." ],
+        "author" : [ "Intellect (Firm), issuing body." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641455307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641455307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641455307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2017207414&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "66",
+    "CALL_SOLR_GET_IDS_LIST" : "118",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "75",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "49",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "313",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 347,
+    "COMBINED_SEARCH_TIME" : 350,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma",
+      "count" : "1"
+    }, {
+      "value" : "Cinéma Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Court Métrage",
+      "count" : "1"
+    }, {
+      "value" : "Courts Métrages Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Short Films",
+      "count" : "1"
+    }, {
+      "value" : "Short Films Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Intellect Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

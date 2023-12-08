@@ -1,0 +1,204 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075146390107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Essentials of Business Research Methods" ],
+        "subject" : [ "Affaires -- Recherche", "Business -- Research" ],
+        "format" : [ "1 online resource (521 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780429511950;$$CISBN$$V0429511957;$$CISBN$$V9780429515385;$$CISBN$$V0429515383;$$COCLC$$V(OCoLC)1128704178;$$CISBN$$V9780367196172" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Hair Jr., Joe F.$$QHair Jr., Joe F." ],
+        "publisher" : [ "Milton : Routledge" ],
+        "mms" : [ "990075146390107871" ],
+        "contributor" : [ "Page, Michael.$$QPage, Michael.", "Brunsveld, Niek.$$QBrunsveld, Niek." ],
+        "edition" : [ "4th ed." ],
+        "relation" : [ "$$Cform$$VPrint version: Hair Jr., Joe F. Essentials of Business Research Methods. Milton : Routledge, ©2019$$QEssentials of Business Research Methods.$$Z9995678946607871" ],
+        "place" : [ "Milton :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph007514639" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075146390107871" ],
+        "recordid" : [ "alma990075146390107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007514639-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hair Jr." ],
+        "aufirst" : [ "Joe F." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Hair Jr., Joe F." ],
+        "addau" : [ "Page, Michael.", "Brunsveld, Niek." ],
+        "creatorfull" : [ "$$NHair Jr., Joe F.$$LHair Jr.$$FJoe F.$$Rauthor" ],
+        "contributorfull" : [ "$$NPage, Michael.$$LPage$$FMichael.$$Rcontributor", "$$NBrunsveld, Niek.$$Rcontributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9780429511950", "0429511957", "9780429515385", "0429515383", "9780367196172" ],
+        "cop" : [ "Milton" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)1128704178" ],
+        "doi" : [ "10.4324/9780429203374." ],
+        "edition" : [ "4th ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Essentials of Business Research Methods" ]
+      },
+      "sort" : {
+        "title" : [ "Essentials of Business Research Methods" ],
+        "author" : [ "Hair Jr., Joe F." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075146390107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0429511957,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4ǂ h357 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "250",
+    "CALL_SOLR_GET_IDS_LIST" : "117",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "69",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "141",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "556",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 585,
+    "COMBINED_SEARCH_TIME" : 588,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Business Research",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brunsveld Niek",
+      "count" : "1"
+    }, {
+      "value" : "Hair Jr Joe F",
+      "count" : "1"
+    }, {
+      "value" : "Page Michael",
+      "count" : "1"
+    } ]
+  } ]
+}

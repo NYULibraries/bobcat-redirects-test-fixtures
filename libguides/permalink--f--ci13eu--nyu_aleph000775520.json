@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990007755200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Uta Hagen's acting class" ],
+        "subject" : [ "Acting -- Study and teaching" ],
+        "format" : [ "2 videocassettes (90 min. each) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$CISBN$$V1557835004;$$CPUBNUM$$VHL00314495;$$COCLC$$V(OCoLC)ocm49202370" ],
+        "creationdate" : [ "c2002" ],
+        "publisher" : [ "United States : Hal Leonard Corporation : Applause Theatre & Cinema Books" ],
+        "description" : [ "\"In Uta Hagen's acting class, the revered actress explains and personally demonstrates her approach to acting. The videos put you in a front-row seat for carefully edited teaching examples selected from almost two hundred hours of recorded classes. Scenes as well as all ten of her famous 'object exercises' are performed by her students, critiqued and then reworked--and always with better results\"--Container." ],
+        "mms" : [ "990007755200107871" ],
+        "contributor" : [ "Hagen, Uta, 1919-2004.$$QHagen, Uta", "HB Studio.$$QHB Studio.", "Hal Leonard Publishing Corporation.$$QHal Leonard Publishing Corporation.", "Applause Theatre Books (Firm)$$QApplause Theatre Books (Firm)" ],
+        "place" : [ "United States] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000775520" ],
+        "lds53" : [ "000775520" ],
+        "lds60" : [ "Date on container: c2002." ],
+        "lds64" : [ "Music, Jeff Layton ; editor, Bernadine Colish." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990007755200107871" ],
+        "recordid" : [ "alma990007755200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000775520-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hagen" ],
+        "aufirst" : [ "Uta" ],
+        "auinit" : [ "U" ],
+        "addau" : [ "Hagen, Uta" ],
+        "contributorfull" : [ "$$NHagen, Uta$$LHagen$$FUta$$Rcontributor" ],
+        "date" : [ "2002", "c2002" ],
+        "isbn" : [ "1557835004" ],
+        "abstract" : [ "\"In Uta Hagen's acting class, the revered actress explains and personally demonstrates her approach to acting. The videos put you in a front-row seat for carefully edited teaching examples selected from almost two hundred hours of recorded classes. Scenes as well as all ten of her famous 'object exercises' are performed by her students, critiqued and then reworked--and always with better results\"--Container." ],
+        "cop" : [ "United States" ],
+        "pub" : [ "Hal Leonard Corporation" ],
+        "oclcid" : [ "(ocolc)49202370" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Uta Hagen's acting class" ]
+      },
+      "sort" : {
+        "title" : [ "Uta Hagen's acting class" ],
+        "author" : [ "Hagen, Uta, 1919-2004." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990007755200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1557835004,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn000000002075.u000000000083000000002001",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "255",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "252",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "85",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "534",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 558,
+    "COMBINED_SEARCH_TIME" : 561,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting Study And Teaching",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Applause Theatre Books Firm",
+      "count" : "1"
+    }, {
+      "value" : "Hagen Uta",
+      "count" : "1"
+    }, {
+      "value" : "Hal Leonard Publishing Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Hb Studio",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,299 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990063659410107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "How nonprofits work : case studies in nonprofit organizations " ],
+        "subject" : [ "Charities, Medical$$QCharities, Medical -- Case studies", "Voluntary health agencies$$QVoluntary health agencies -- Case studies", "Nonprofit organizations$$QNonprofit organizations -- Case studies", "Aide médicale$$QAide médicale -- Études de cas", "Associations sans but lucratif pour la santé publique$$QAssociations sans but lucratif pour la santé publique -- Études de cas", "Associations sans but lucratif$$QAssociations sans but lucratif -- Études de cas", "Associations sans but lucratif", "Associations sans but lucratif pour la santé publique", "nonprofit organizations", "HEALTH & FITNESS -- Diseases -- General", "HEALTH & FITNESS -- Health Care Issues", "MEDICAL -- Diseases", "MEDICAL -- Health Care Delivery", "MEDICAL -- Health Policy", "MEDICAL -- Public Health", "SOCIAL SCIENCE -- Disease & Health Issues", "Charities, Medical", "Nonprofit organizations", "Voluntary health agencies", "Gesundheitswesen", "Nonprofit-Organisation", "USA" ],
+        "format" : [ "1 online resource (viii, 233 p.)", "data file" ],
+        "identifier" : [ "$$CLC$$V2021679651;$$CISBN$$V9781442221062;$$CISBN$$V1442221062;$$COCLC$$V(OCoLC)827842003" ],
+        "creationdate" : [ "c2013" ],
+        "creator" : [ "Budrys, Grace, 1943-$$QBudrys, Grace" ],
+        "publisher" : [ "Lanham : Rowman & Littlefield Publishers" ],
+        "description" : [ "How Nonprofits Work looks at nonprofit organizations through a sociological lens, identifying characteristics that make some nonprofits successful and characteristics that cause challenges, focusing on nonprofts in the health services sector. The book opens with helpful background information about nonprofit organizations, then shares case studies that take readers more deeply into the challenges and successes of various organizations. Given the trials nonprofits face in the current economic climate, this timel." ],
+        "mms" : [ "990063659410107871" ],
+        "contents" : [ "Introduction -- What makes nonprofit organizations special? -- The size and scope of the nonprofit sector -- Analytical framework -- The case presentation framework -- Two classic case studies -- Delivering nursing case in a person's home -- Confronting a highly contagious disease -- Needs of people with a significant physical impairment -- Helping people with various disabilities -- Battling the spread of HIV/AIDS -- Helping to overcome hunger -- Addressing the need for affordable housing -- Conclusion." ],
+        "genre" : [ "Études de cas", "Case studies" ],
+        "relation" : [ "$$Cform$$VPrint version: How nonprofits work Lanham : Rowman & Littlefield Publishers, c2013.$$QHow nonprofits work" ],
+        "mesh" : [ "Organizations, Nonprofit", "Voluntary Health Agencies", "Charities" ],
+        "place" : [ "Lanham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph006365941" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990063659410107871" ],
+        "recordid" : [ "alma990063659410107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006365941-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Budrys" ],
+        "aufirst" : [ "Grace" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Budrys, Grace" ],
+        "creatorfull" : [ "$$NBudrys, Grace$$LBudrys$$FGrace$$Rauthor" ],
+        "date" : [ "2013", "c2013" ],
+        "isbn" : [ "9781442221062", "1442221062" ],
+        "notes" : [ "Includes bibliographical references (p. 225-228) and index." ],
+        "abstract" : [ "How Nonprofits Work looks at nonprofit organizations through a sociological lens, identifying characteristics that make some nonprofits successful and characteristics that cause challenges, focusing on nonprofts in the health services sector. The book opens with helpful background information about nonprofit organizations, then shares case studies that take readers more deeply into the challenges and successes of various organizations. Given the trials nonprofits face in the current economic climate, this timel." ],
+        "cop" : [ "Lanham" ],
+        "pub" : [ "Rowman & Littlefield Publishers" ],
+        "oclcid" : [ "(ocolc)827842003" ],
+        "lccn" : [ "2021679651" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "How nonprofits work : case studies in nonprofit organizations" ]
+      },
+      "sort" : {
+        "title" : [ "How nonprofits work : case studies in nonprofit organizations /" ],
+        "author" : [ "Budrys, Grace, 1943-" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659410107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659410107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659410107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659410107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659410107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781442221062,OCLC:,LCCN:2021679651&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv\"687",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "199",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "133",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "132",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "56",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "36",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "97",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "146",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "582",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 609,
+    "COMBINED_SEARCH_TIME" : 612,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Aide Médicale Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Associations Sans But Lucratif",
+      "count" : "1"
+    }, {
+      "value" : "Associations Sans But Lucratif Pour La Santé Publique",
+      "count" : "1"
+    }, {
+      "value" : "Associations Sans But Lucratif Pour La Santé Publique Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Associations Sans But Lucratif Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Charities",
+      "count" : "1"
+    }, {
+      "value" : "Charities Medical",
+      "count" : "1"
+    }, {
+      "value" : "Charities Medical Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Gesundheitswesen",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Diseases General",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Health Care Issues",
+      "count" : "1"
+    }, {
+      "value" : "Medical Diseases",
+      "count" : "1"
+    }, {
+      "value" : "Medical Health Care Delivery",
+      "count" : "1"
+    }, {
+      "value" : "Medical Health Policy",
+      "count" : "1"
+    }, {
+      "value" : "Medical Public Health",
+      "count" : "1"
+    }, {
+      "value" : "Nonprofit Organisation",
+      "count" : "1"
+    }, {
+      "value" : "Nonprofit Organizations",
+      "count" : "1"
+    }, {
+      "value" : "Nonprofit Organizations Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Organizations Nonprofit",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Disease Health Issues",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Budrys Grace",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

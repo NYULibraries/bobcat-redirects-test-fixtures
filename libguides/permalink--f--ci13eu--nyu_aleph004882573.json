@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048825730107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "I talk to animals : a portrait of Samantha Khury " ],
+        "subject" : [ "Communication animale", "Communication avec les animaux", "Animal communication", "Human-animal communication" ],
+        "format" : [ "1 online resource (54 min.)", "data file" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)747797820" ],
+        "creationdate" : [ "1992" ],
+        "creator" : [ "Friedman, Peter.$$QFriedman, Peter." ],
+        "publisher" : [ "New York, NY : Filmakers Library" ],
+        "description" : [ "Samantha Khury has made a profession of being an animal therapist. She may not be a Freudian, but she does seem to have established communication with a variety of species, including race horses, goats, dogs and cats. Their owners call on her to discover what is troubling their animals. You may be skeptical that Samantha is really getting information directly from the animals. How else did Samantha discover that one mournful cat missed greeting customers at its owner s store, or that a dog was bereft at the loss of its stuffed toy? Even professional horse trainers listen to Samantha when their animals seem down in the mouth. We watch Samantha talk to a race horse who wasn't eating. She discovered that he craved more time off from his rigorous training. His appetite came back to normal after his schedule was adjusted. Samantha has a loyal following among pet owners and those who depend on animals for their livelihood. Even if you re not convinced of Samantha s gifts, you ll enjoy this foray into the mysteries of the animal psyche." ],
+        "mms" : [ "990048825730107871" ],
+        "series" : [ "Filmakers Library online.$$QFilmakers Library online." ],
+        "genre" : [ "Streaming videos", "Documentary" ],
+        "mesh" : [ "Animal Communication" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspleased", "aspowned", "aleph004882573" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048825730107871" ],
+        "recordid" : [ "alma990048825730107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004882573-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Friedman" ],
+        "aufirst" : [ "Peter." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Friedman, Peter." ],
+        "creatorfull" : [ "$$NFriedman, Peter.$$LFriedman$$FPeter.$$Rauthor" ],
+        "date" : [ "1992" ],
+        "abstract" : [ "Samantha Khury has made a profession of being an animal therapist. She may not be a Freudian, but she does seem to have established communication with a variety of species, including race horses, goats, dogs and cats. Their owners call on her to discover what is troubling their animals. You may be skeptical that Samantha is really getting information directly from the animals. How else did Samantha discover that one mournful cat missed greeting customers at its owner s store, or that a dog was bereft at the loss of its stuffed toy? Even professional horse trainers listen to Samantha when their animals seem down in the mouth. We watch Samantha talk to a race horse who wasn't eating. She discovered that he craved more time off from his rigorous training. His appetite came back to normal after his schedule was adjusted. Samantha has a loyal following among pet owners and those who depend on animals for their livelihood. Even if you re not convinced of Samantha s gifts, you ll enjoy this foray into the mysteries of the animal psyche." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Filmakers Library" ],
+        "oclcid" : [ "(ocolc)747797820" ],
+        "seriestitle" : [ "Filmakers Library online." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "I talk to animals : a portrait of Samantha Khury" ]
+      },
+      "sort" : {
+        "title" : [ "I talk to animals : a portrait of Samantha Khury /" ],
+        "author" : [ "Friedman, Peter." ],
+        "creationdate" : [ "1992" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048825730107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048825730107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048825730107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:747797820,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "internet accessǂaegmct 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "76",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "5",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "36",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 332,
+    "COMBINED_SEARCH_TIME" : 335,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1992",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animal Communication",
+      "count" : "1"
+    }, {
+      "value" : "Communication Animale",
+      "count" : "1"
+    }, {
+      "value" : "Communication Avec Les Animaux",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Communication",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Friedman Peter",
+      "count" : "1"
+    } ]
+  } ]
+}

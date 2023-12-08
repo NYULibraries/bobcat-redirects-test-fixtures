@@ -1,0 +1,271 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995633095307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Evidence-based complementary and alternative medicine (Online)" ],
+        "subject" : [ "Alternative medicine$$QAlternative medicine -- Periodicals", "Evidence-based medicine$$QEvidence-based medicine -- Periodicals", "Complementary & Alternative Medicine", "Alternative medicine", "Evidence-based medicine", "Médecine douce", "Médecine factuelle" ],
+        "identifier" : [ "$$CLC$$V  2004700269;$$CISSN$$V1741-4288;$$COCLC$$V(OCoLC)55647292;$$CISSN$$V1741-427X" ],
+        "creationdate" : [ "2004-" ],
+        "publisher" : [ "New York, NY : Hindawi Publishing Corporation", "Began with vol. 2004." ],
+        "mms" : [ "9995633095307871" ],
+        "contributor" : [ "Hindawi Publishing Corporation.$$QHindawi Publishing Corporation." ],
+        "addtitle" : [ "ECAM" ],
+        "genre" : [ "Computer network resources", "Periodicals", "Périodique électronique (Descripteur de forme)", "Ressource Internet (Descripteur de forme)" ],
+        "mesh" : [ "Complementary Therapies", "Evidence-Based Medicine", "Periodical" ],
+        "unititle" : [ "Evidence-based complementary and alternative medicine (Online)" ],
+        "place" : [ "New York, NY : Hindawi Publishing Corporation" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)111065713082006" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995633095307871" ],
+        "recordid" : [ "alma9995633095307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99111065713082006" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ECAM", "NEW EVIDENCE BASED COMPLEMENTARY AND ALTERNATIVE MEDICINE", "EVID BASED COMPLEMENT ALTERNAT MED", "EVIDENCE-BASED COMPLEMENTARY & ALTERNATIVE MEDICINE", "EVIDENCE-BASED COMPLEMENTARY AND ALTERNATIVE MEDICINE", "EVID-BASED COMPL ALT", "BASED COMPL ALT", "EVID.-BASED COMPLEMENT ALTERN. MED" ],
+        "addtitle" : [ "ECAM" ],
+        "date" : [ "2004", "2004-" ],
+        "issn" : [ "1741-4288", "1741-427X" ],
+        "cop" : [ "Oxford, UK" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)55647292" ],
+        "lccn" : [ "2004700269" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Evidence-based complementary and alternative medicine (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Evidence-based complementary and alternative medicine (Online)" ],
+        "author" : [ "Hindawi Publishing Corporation." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633095307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004700269&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"733",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "47",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "216",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "190",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "36",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "405",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 439,
+    "COMBINED_SEARCH_TIME" : 441,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Alternative Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Alternative Medicine Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Complementary Alternative Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Complementary Therapies",
+      "count" : "1"
+    }, {
+      "value" : "Evidence Based Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Evidence Based Medicine Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Douce",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Factuelle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hindawi Publishing Corporation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

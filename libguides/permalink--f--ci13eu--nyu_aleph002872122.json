@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028721220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Urban land." ],
+        "subject" : [ "City planning$$QCity planning -- Periodicals", "Urban policy -- United States$$QUrban policy -- United States -- Periodicals", "City planning -- United States$$QCity planning -- United States -- Periodicals" ],
+        "format" : [ "v. 28 cm." ],
+        "identifier" : [ "$$CLC$$Vsn 80008286;$$CISSN$$V0042-0891;$$COCLC$$V(OCoLC)6026301" ],
+        "creationdate" : [ "1974-" ],
+        "publisher" : [ "Washington, D.C. : Urban Land Institute", "Vol. 3, no. 1 (Jan.-Feb. 1944)-" ],
+        "mms" : [ "990028721220107871" ],
+        "contributor" : [ "Urban Land Institute.$$QUrban Land Institute." ],
+        "frequency" : [ "Monthly, with a combined issue in Nov./Dec. 1999-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VMultifamily trends.$$Z990000162340107871", "$$Cearlier_title$$VUrban Land Institute. Urban Land Institute bulletin$$QUrban Land Institute bulletin" ],
+        "place" : [ "Washington, D.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002872122" ],
+        "lds53" : [ "002872122" ],
+        "lds60" : [ "Title from caption." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028721220107871" ],
+        "recordid" : [ "alma990028721220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002872122-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Urban land" ],
+        "date" : [ "1944", "1974-" ],
+        "issn" : [ "0042-0891" ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Urban Land Institute" ],
+        "oclcid" : [ "(ocolc)6026301" ],
+        "lccn" : [ "sn 80008286" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Urban land." ]
+      },
+      "sort" : {
+        "title" : [ "Urban land." ],
+        "author" : [ "Urban Land Institute." ],
+        "creationdate" : [ "1944" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028721220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 80008286&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000003/000000000003/000000000092t000000000010/000000000017/000000000090t000000000009/000000000005/000000000090ct000000000003/000000000008/000000000090ct000000000002/000000000004/000000000088ct000000000008/000000000020/000000000092t",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "132",
+    "CALL_SOLR_GET_IDS_LIST" : "182",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "39",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "35",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "26",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "388",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 413,
+    "COMBINED_SEARCH_TIME" : 415,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1944",
+      "count" : "1"
+    }, {
+      "value" : "1974",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "City Planning Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "City Planning United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Urban Policy United States Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Urban Land Institute",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163050350007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

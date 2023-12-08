@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019190770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Theatre record." ],
+        "subject" : [ "Theater -- England -- London$$QTheater -- England -- London -- Reviews Periodicals", "Theater -- England$$QTheater -- England -- Reviews Periodicals", "Theater", "England", "England -- London", "Theater -- Great Britain$$QTheater -- Great Britain -- Periodicals", "Theater -- Great Britain -- Reviews$$QTheater -- Great Britain -- Reviews -- Periodicals" ],
+        "format" : [ "volumes : illustrations ; 30 cm" ],
+        "identifier" : [ "$$CLC$$V91640821;$$CISSN$$V0962-1792;$$COCLC$$V(OCoLC)23266174" ],
+        "creationdate" : [ "©1991-" ],
+        "publisher" : [ "London : Theatre Record Ltd.", "Vol. 11, issue 1 (1-14 Jan. 1991)-", "Ceased with Vol. XXXVIII, double issue 23/24 (December 2018)." ],
+        "mms" : [ "990019190770107871" ],
+        "contributor" : [ "Edinburgh International Festival.$$QEdinburgh International Festival.", "Edinburgh Fringe (Festival)$$QEdinburgh Fringe (Festival)" ],
+        "addtitle" : [ "Theatre index." ],
+        "frequency" : [ "Biweekly" ],
+        "genre" : [ "Reviews", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VLondon theatre record$$QLondon theatre record$$Z990026991420107871", "$$Cform$$VContinued online: Theatre record$$QTheatre record", "$$Cform$$VTheatre record.$$Z9995618612607871", "$$Cother_relationship$$VHas annual index with title: Theatre index$$QTheatre index$$Z990032469860107871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001919077" ],
+        "lds53" : [ "001919077" ],
+        "lds60" : [ "Title from cover.", "Print version ceased in 2018; continued online only in 2019." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019190770107871" ],
+        "recordid" : [ "alma990019190770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001919077-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Theatre rec." ],
+        "date" : [ "1991 - 2018", "©1991-" ],
+        "issn" : [ "0962-1792" ],
+        "cop" : [ "Middlesex, England" ],
+        "pub" : [ "I. Herbert" ],
+        "oclcid" : [ "(ocolc)23266174" ],
+        "lccn" : [ "91640821", "sn 91037065" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Theatre record." ]
+      },
+      "sort" : {
+        "title" : [ "Theatre record." ],
+        "author" : [ "Edinburgh International Festival." ],
+        "creationdate" : [ "1991" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019190770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:91640821&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2596 l6ǂl66",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "300",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "42",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "11",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "48",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "473",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 497,
+    "COMBINED_SEARCH_TIME" : 500,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1991",
+      "count" : "1"
+    }, {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "England",
+      "count" : "1"
+    }, {
+      "value" : "England London",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater England London Reviews Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Theater England Reviews Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Theater Great Britain Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Theater Great Britain Reviews Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Edinburgh Fringe Festival",
+      "count" : "1"
+    }, {
+      "value" : "Edinburgh International Festival",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

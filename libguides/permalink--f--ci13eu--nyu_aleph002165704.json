@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021657040107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The philosopher's index." ],
+        "subject" : [ "Philosophy -- Periodicals$$QPhilosophy -- Periodicals -- Indexes Periodicals" ],
+        "format" : [ "v. ; 24-28 cm." ],
+        "identifier" : [ "$$CLC$$Vsf 85003080;$$CISSN$$V0031-7993;$$COCLC$$V(OCoLC)4187784" ],
+        "creationdate" : [ "1967-" ],
+        "publisher" : [ "Bowling Green, Ohio : Philosophy Documentation Center, Bowling Green University", "Vol. 1 (spring 1967)-" ],
+        "description" : [ "Covering 1940 to the present, The Philosopher's Index online provides indexing and abstracts from books and journals of philosophy and related fields. It covers teh areas of ethics, aestehtics, epistemology, logic, and metaphysics as well as material on the philosophy of disciplines, such as law, religion, science, history, and education." ],
+        "mms" : [ "990021657040107871" ],
+        "contributor" : [ "Bowling Green State University.$$QBowling Green State University.", "Bowling Green State University. Philosophy Documentation Center.$$QBowling Green State University. Philosophy Documentation Center." ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Indexes", "Periodicals" ],
+        "relation" : [ "$$Cform$$VCD-ROM ed.", "$$Cother_relationship$$VPhilosopher's index (Cumulative ed.)$$QPhilosopher's index (Cumulative ed.)" ],
+        "place" : [ "Bowling Green, Ohio :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002165704" ],
+        "lds53" : [ "002165704" ],
+        "lds60" : [ "\"An international index to philosophical periodicals.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021657040107871" ],
+        "recordid" : [ "alma990021657040107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002165704-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1967", "1967-" ],
+        "issn" : [ "0031-7993" ],
+        "abstract" : [ "Covering 1940 to the present, The Philosopher's Index online provides indexing and abstracts from books and journals of philosophy and related fields. It covers teh areas of ethics, aestehtics, epistemology, logic, and metaphysics as well as material on the philosophy of disciplines, such as law, religion, science, history, and education." ],
+        "cop" : [ "Bowling Green, Ohio" ],
+        "pub" : [ "Philosophy Documentation Center, Bowling Green University" ],
+        "oclcid" : [ "(ocolc)4187784" ],
+        "lccn" : [ "sf 85003080", "sc80001619" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The philosopher's index." ]
+      },
+      "sort" : {
+        "title" : [ "philosopher's index." ],
+        "author" : [ "Bowling Green State University." ],
+        "creationdate" : [ "1967" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021657040107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sf 85003080&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "current issues only 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "110",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "120",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "354",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 385,
+    "COMBINED_SEARCH_TIME" : 388,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1967",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Philosophy Periodicals Indexes Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bowling Green State University",
+      "count" : "1"
+    }, {
+      "value" : "Bowling Green State University Philosophy Documentation Center",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

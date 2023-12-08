@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990018277050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ford list of British parliamentary papers, 1974-1983 : together with special commentaries " ],
+        "subject" : [ "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Bibliography", "Great Britain -- Politics and government -- 1964-1979$$QGreat Britain -- Politics and government -- 1964-1979 -- Bibliography", "Great Britain -- Politics and government -- 1979-1997$$QGreat Britain -- Politics and government -- 1979-1997 -- Bibliography" ],
+        "format" : [ "xlviii, 694 p. ; 27 cm." ],
+        "identifier" : [ "$$CLC$$VGB 89041207;$$CISBN$$V0859641880 :;$$COCLC$$V(OCoLC)153675180" ],
+        "creationdate" : [ "1989" ],
+        "publisher" : [ "Cambridge : Chadwyck-Healey" ],
+        "mms" : [ "990018277050107871" ],
+        "contributor" : [ "Ford, P. (Percy), 1894-$$QFord, P.", "Copping, Debbie A.$$QCopping, Debbie A.", "Richards, Peter G.$$QRichards, Peter G.", "Marshallsay, Diana, 1930-$$QMarshallsay, Diana" ],
+        "series" : [ "Southampton University studies in parliamentary papers$$QSouthampton University studies in parliamentary papers", "Southampton University studies in parliamentary papers.$$QSouthampton University studies in parliamentary papers." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Cambridge :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001827705" ],
+        "lds53" : [ "001827705" ],
+        "lds60" : [ "Includes bibliography and index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990018277050107871" ],
+        "recordid" : [ "alma990018277050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001827705-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ford", "Copping", "Richards", "Marshallsay" ],
+        "aufirst" : [ "P.", "Debbie A.", "Peter G.", "Diana" ],
+        "auinit" : [ "P", "D" ],
+        "addau" : [ "Ford, P. (Percy)", "Copping, Debbie A.", "Richards, Peter G.", "Marshallsay, Diana" ],
+        "contributorfull" : [ "$$NFord, P. (Percy)$$LFord$$FP.$$Rcontributor", "$$NCopping, Debbie A.$$Rcontributor", "$$NRichards, Peter G.$$Rcontributor", "$$NMarshallsay, Diana$$Rcontributor" ],
+        "date" : [ "1989" ],
+        "isbn" : [ "0859641880" ],
+        "cop" : [ "Cambridge" ],
+        "pub" : [ "Chadwyck-Healey" ],
+        "oclcid" : [ "(ocolc)153675180" ],
+        "lccn" : [ "GB 89041207" ],
+        "seriestitle" : [ "Southampton University studies in parliamentary papers" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ford list of British parliamentary papers, 1974-1983 : together with special commentaries" ]
+      },
+      "sort" : {
+        "title" : [ "Ford list of British parliamentary papers, 1974-1983 : together with special commentaries /" ],
+        "author" : [ "Ford, P. (Percy), 1894-" ],
+        "creationdate" : [ "1989" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990018277050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0859641880,OCLC:,LCCN:GB&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "71",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "269",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 295,
+    "COMBINED_SEARCH_TIME" : 298,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1989",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Publications Great Britain Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Politics And Government 1964 1979 Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Politics And Government 1979 1997 Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Copping Debbie A",
+      "count" : "1"
+    }, {
+      "value" : "Ford P",
+      "count" : "1"
+    }, {
+      "value" : "Marshallsay Diana",
+      "count" : "1"
+    }, {
+      "value" : "Richards Peter G",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

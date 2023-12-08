@@ -1,0 +1,277 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990033240920107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Claudette Colvin : twice toward justice " ],
+        "subject" : [ "Colvin, Claudette, 1939-$$QColvin, Claudette, 1939- -- Juvenile literature", "African Americans -- Alabama -- Montgomery$$QAfrican Americans -- Alabama -- Montgomery -- Biography Juvenile literature", "African American civil rights workers -- Alabama -- Montgomery$$QAfrican American civil rights workers -- Alabama -- Montgomery -- Biography Juvenile literature", "African American teenage girls -- Alabama -- Montgomery$$QAfrican American teenage girls -- Alabama -- Montgomery -- Biography Juvenile literature", "African Americans -- Segregation -- Alabama -- Montgomery -- History$$QAfrican Americans -- Segregation -- Alabama -- Montgomery -- History -- Juvenile literature", "Segregation in transportation -- Alabama -- Montgomery -- History$$QSegregation in transportation -- Alabama -- Montgomery -- History -- Juvenile literature", "Montgomery (Ala.)$$QMontgomery (Ala.) -- Biography Juvenile literature", "Montgomery (Ala.) -- Race relations -- History -- 20th century$$QMontgomery (Ala.) -- Race relations -- History -- 20th century -- Juvenile literature", "Colvin, Claudette, 1939-", "African Americans -- Alabama -- Montgomery$$QAfrican Americans -- Alabama -- Montgomery -- Biography", "African American civil rights workers -- Alabama -- Montgomery$$QAfrican American civil rights workers -- Alabama -- Montgomery -- Biography", "Teenage girls -- Alabama -- Montgomery$$QTeenage girls -- Alabama -- Montgomery -- Biography", "African Americans -- Segregation -- History", "Montgomery (Ala.)$$QMontgomery (Ala.) -- Biography", "Montgomery (Ala.) -- Race relations" ],
+        "format" : [ "133 p. : ill. ; 24 x 22 cm." ],
+        "identifier" : [ "$$CLC$$V2008005435;$$CISBN$$V9780374313227 (hbk.);$$CISBN$$V0374313229 (hbk.);$$COCLC$$V(OCoLC)212627066" ],
+        "creationdate" : [ "2009" ],
+        "creator" : [ "Hoose, Phillip M., 1947-$$QHoose, Phillip M." ],
+        "publisher" : [ "New York : Melanie Kroupa Books/Farrar Straus Giroux" ],
+        "description" : [ "Based on extensive interviews with Claudette Colvin and many others, Phillip Hoose presents the first in-depth account of an important yet largely unknown civil rights figure, skillfully weaving her dramatic story into the fabric of the historic Montgomery bus boycott and court case that would change the course of American history." ],
+        "mms" : [ "990033240920107871" ],
+        "edition" : [ "1st ed." ],
+        "contents" : [ "First cry: Jim Crow and the detested number ten -- Coot -- \"We seemed to hate ourselves\" -- \"It's my constitutional right!\" -- \"There's the girl who got arrested\" -- \"Crazy\" times -- \"Another Negro woman has been arrested\" -- Second front, second chance -- Playing for keeps: Browder v. Gayle -- Rage in Montgomery -- History's door." ],
+        "genre" : [ "Juvenile literature", "Biography" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003324092" ],
+        "lds53" : [ "003324092" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990033240920107871" ],
+        "recordid" : [ "alma990033240920107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003324092-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hoose" ],
+        "aufirst" : [ "Phillip M." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Hoose, Phillip M." ],
+        "creatorfull" : [ "$$NHoose, Phillip M.$$LHoose$$FPhillip M.$$Rauthor" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9780374313227", "0374313229" ],
+        "notes" : [ "Includes bibliographical references (p. [109]-121) and index." ],
+        "abstract" : [ "Based on extensive interviews with Claudette Colvin and many others, Phillip Hoose presents the first in-depth account of an important yet largely unknown civil rights figure, skillfully weaving her dramatic story into the fabric of the historic Montgomery bus boycott and court case that would change the course of American history." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Melanie Kroupa Books/Farrar Straus Giroux" ],
+        "oclcid" : [ "(ocolc)212627066" ],
+        "lccn" : [ "2008005435" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Claudette Colvin : twice toward justice" ]
+      },
+      "sort" : {
+        "title" : [ "Claudette Colvin : twice toward justice /" ],
+        "author" : [ "Hoose, Phillip M., 1947-" ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990033240920107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0374313229,OCLC:,LCCN:2008005435&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/enhancements/fy0902/2008005435-b.html",
+        "displayLabel" : "Contributor biographical information"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/enhancements/fy0902/2008005435-d.html",
+        "displayLabel" : "Publisher description"
+      }, {
+        "@id" : ":_3",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/enhancements/fy1003/2008005435-s.html",
+        "displayLabel" : "Sample text"
+      }, {
+        "@id" : ":_4",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/toc/ecip0812/2008005435.html",
+        "displayLabel" : "Table of contents only"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f\"334 m753ǂc6554 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "193",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "59",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "109",
+    "RETRIVE_FROM_DB_RELATIONS" : "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "55",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "134",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "493",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 520,
+    "COMBINED_SEARCH_TIME" : 524,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Civil Rights Workers Alabama Montgomery Biography",
+      "count" : "1"
+    }, {
+      "value" : "African American Civil Rights Workers Alabama Montgomery Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "African American Teenage Girls Alabama Montgomery Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Alabama Montgomery Biography",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Alabama Montgomery Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Segregation Alabama Montgomery History Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Segregation History",
+      "count" : "1"
+    }, {
+      "value" : "Colvin Claudette 1939",
+      "count" : "1"
+    }, {
+      "value" : "Colvin Claudette 1939 Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Montgomery Ala Biography",
+      "count" : "1"
+    }, {
+      "value" : "Montgomery Ala Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Montgomery Ala Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Montgomery Ala Race Relations History 20th Century Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Segregation In Transportation Alabama Montgomery History Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Teenage Girls Alabama Montgomery Biography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hoose Phillip M",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

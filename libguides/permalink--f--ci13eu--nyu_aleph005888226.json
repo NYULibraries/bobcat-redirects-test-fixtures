@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058882260107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Rip the resume : job search & interview power prep " ],
+        "subject" : [ "BUSINESS & ECONOMICS -- Careers -- Resumes", "Employment interviewing", "Job hunting", "Résumés (Employment)" ],
+        "format" : [ "xi, 96 pages ; 23 cm" ],
+        "identifier" : [ "$$CISBN$$V9780768941111;$$CISBN$$V0768941113;$$COCLC$$V(OCoLC)935195851" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Ellis, Torin, author.$$QEllis, Torin" ],
+        "publisher" : [ "Albany, NY : Peterson's" ],
+        "description" : [ "Infused with real-life examples, self-analysis exercises, and advice from an industry professional, Rip the Resume is more than a \"how to write a better resume\" book; it's a proven system designed to challenge job seekers to take complete control and responsibility during a job search. Follow a ground-breaking roadmap on your journey to becoming the candidate that employers are seeking-whether you are a millennial looking to launch an exciting and fulfilling career or an experienced individual exploring greater career opportunities. Rip the Resume provides the tools you need to transform yourself into the candidate that employers are searching for: Cutting-edge guidance for job seekers in any field; Vital resume deconstruction techniques to highlight important areas and downplay others to render a stronger document; Winning conversation strategies to make a lasting impression during the interview; Practical advice for using social media wisely, both in the job search and in building your personal brand." ],
+        "mms" : [ "990058882260107871" ],
+        "contributor" : [ "Peterson's (Firm : 2006- ), publisher.$$QPeterson's (Firm : 2006- )" ],
+        "addtitle" : [ "Peterson's rip the resume : job search and interview power prep" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "Candidate foundation -- Resume deconstruction -- Big paper -- Stage one : reconnaissance -- Stage two : the interview -- Stage three : the close -- Give 'em that #boom -- Before we go ..." ],
+        "place" : [ "Albany, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005888226" ],
+        "lds53" : [ "005888226" ],
+        "lds60" : [ "At head of title: Peterson's." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058882260107871" ],
+        "recordid" : [ "alma990058882260107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005888226-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ellis" ],
+        "aufirst" : [ "Torin" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Ellis, Torin" ],
+        "creatorfull" : [ "$$NEllis, Torin$$LEllis$$FTorin$$Rauthor" ],
+        "addtitle" : [ "Peterson's rip the resume : job search and interview power prep" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9780768941111", "0768941113" ],
+        "abstract" : [ "Infused with real-life examples, self-analysis exercises, and advice from an industry professional, Rip the Resume is more than a \"how to write a better resume\" book; it's a proven system designed to challenge job seekers to take complete control and responsibility during a job search. Follow a ground-breaking roadmap on your journey to becoming the candidate that employers are seeking-whether you are a millennial looking to launch an exciting and fulfilling career or an experienced individual exploring greater career opportunities. Rip the Resume provides the tools you need to transform yourself into the candidate that employers are searching for: Cutting-edge guidance for job seekers in any field; Vital resume deconstruction techniques to highlight important areas and downplay others to render a stronger document; Winning conversation strategies to make a lasting impression during the interview; Practical advice for using social media wisely, both in the job search and in building your personal brand." ],
+        "cop" : [ "Albany, NY" ],
+        "pub" : [ "Peterson's" ],
+        "oclcid" : [ "(ocolc)935195851" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Rip the resume : job search & interview power prep" ]
+      },
+      "sort" : {
+        "title" : [ "Rip the resume : job search & interview power prep /" ],
+        "author" : [ "Ellis, Torin, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990058882260107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0768941113,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5383ǂ e443 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "171",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "167",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "34",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "355",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 389,
+    "COMBINED_SEARCH_TIME" : 393,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Careers Resumes",
+      "count" : "1"
+    }, {
+      "value" : "Employment Interviewing",
+      "count" : "1"
+    }, {
+      "value" : "Job Hunting",
+      "count" : "1"
+    }, {
+      "value" : "Résumés Employment",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ellis Torin",
+      "count" : "1"
+    }, {
+      "value" : "Petersons Firm 2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

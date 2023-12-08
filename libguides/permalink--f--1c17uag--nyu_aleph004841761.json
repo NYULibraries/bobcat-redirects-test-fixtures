@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048417610107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Every man out of his humour " ],
+        "subject" : [ "Jonson, Ben, 1573?-1637 Every man out of his humor" ],
+        "format" : [ "xvi, 400 pages : illustrations ; 22 cm" ],
+        "identifier" : [ "$$CISBN$$V9780719078392;$$CISBN$$V0719078393;$$COCLC$$V(OCoLC)191243508" ],
+        "creationdate" : [ "2008" ],
+        "creator" : [ "Jonson, Ben, 1573?-1637, author.$$QJonson, Ben" ],
+        "publisher" : [ "Manchester ; New York : Manchester University Press ; New York : Distributed exclusively in the USA by Palgrave" ],
+        "description" : [ "Jonson's Every Man Out of His Humour is a comical satire about envy and aspiration among the ambitious middle classes, who seek happiness in fame and material fortune. This first critical edition of the play conveys early modern obsessions with wealth and self-display through historical contexts. The book offers an intriguing look at the course of urban comedy, and a wealth of information about social relationships and colloquial language at the end of the Elizabethan period." ],
+        "mms" : [ "990048417610107871" ],
+        "contributor" : [ "Ostovich, Helen, editor.$$QOstovich, Helen" ],
+        "edition" : [ "First paperback edition." ],
+        "series" : [ "Revels plays.$$QRevels plays.", "The Revels plays$$QThe Revels plays" ],
+        "unititle" : [ "Every man out of his humor" ],
+        "includes" : [ "Jonson, Ben, 1573?-1637, Every man out of his humor$$QJonson, Ben, 1573?-1637, Every man out of his humor" ],
+        "place" : [ "Manchester ; New York : New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004841761" ],
+        "lds53" : [ "004841761" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048417610107871" ],
+        "recordid" : [ "alma990048417610107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004841761-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jonson" ],
+        "aufirst" : [ "Ben" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Jonson, Ben" ],
+        "addau" : [ "Ostovich, Helen" ],
+        "creatorfull" : [ "$$NJonson, Ben$$LJonson$$FBen$$Rauthor" ],
+        "contributorfull" : [ "$$NOstovich, Helen$$LOstovich$$FHelen$$Reditor" ],
+        "date" : [ "2008 - 2001", "2008" ],
+        "isbn" : [ "9780719078392", "0719078393" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Jonson's Every Man Out of His Humour is a comical satire about envy and aspiration among the ambitious middle classes, who seek happiness in fame and material fortune. This first critical edition of the play conveys early modern obsessions with wealth and self-display through historical contexts. The book offers an intriguing look at the course of urban comedy, and a wealth of information about social relationships and colloquial language at the end of the Elizabethan period." ],
+        "cop" : [ "Manchester ;" ],
+        "pub" : [ "Manchester University Press" ],
+        "oclcid" : [ "(ocolc)191243508" ],
+        "edition" : [ "First paperback edition." ],
+        "seriestitle" : [ "The Revels plays" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Every man out of his humour" ]
+      },
+      "sort" : {
+        "title" : [ "Every man out of his humour /" ],
+        "author" : [ "Jonson, Ben, 1573?-1637, author." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990048417610107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0719078393,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2614 a2ǂo88 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "146",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "74",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "359",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 393,
+    "COMBINED_SEARCH_TIME" : 396,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    }, {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Jonson Ben 1573 1637 Every Man Out Of His Humor",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jonson Ben",
+      "count" : "1"
+    }, {
+      "value" : "Ostovich Helen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

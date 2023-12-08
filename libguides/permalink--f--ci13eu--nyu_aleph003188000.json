@@ -1,0 +1,209 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990031880000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Hutchinson pocket dictionary of cinema." ],
+        "subject" : [ "Motion pictures$$QMotion pictures -- Dictionaries", "PERFORMING ARTS -- Film & Video -- Reference", "Motion pictures" ],
+        "format" : [ "1 online resource", "data file" ],
+        "identifier" : [ "$$CISBN$$V1423711262;$$CISBN$$V9781423711261;$$CISBN$$V1859865623;$$CISBN$$V9781859865620;$$CISBN$$V1280542802;$$CISBN$$V9781280542800;$$CISBN$$V9786610542802;$$CISBN$$V6610542805;$$COCLC$$V(OCoLC)60771012" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "Oxford : Helicon Pub." ],
+        "description" : [ "Guide to the cinema, from silent movies to the present day." ],
+        "mms" : [ "990031880000107871" ],
+        "addtitle" : [ "Pocket dictionary of cinema", "Dictionary of cinema" ],
+        "contents" : [ "The Hutchinson Pocket Dictionary of Cinema; Preface; Table of contents; A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; Y; Z." ],
+        "genre" : [ "dictionaries", "Dictionaries", "Dictionnaires" ],
+        "relation" : [ "$$Cform$$VHutchinson Pocket Dictionary of Cinema$$Z9995685616907871", "$$Cform$$VPrint version: Publishing, Helicon. Hutchinson Pocket Dictionary of Cinema. Abingdon : Helicon Publishing, ©2005$$QHutchinson Pocket Dictionary of Cinema." ],
+        "place" : [ "Oxford :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph003188000" ],
+        "lds60" : [ "Title from e-book title screen (viewed June 29, 2005)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990031880000107871" ],
+        "recordid" : [ "alma990031880000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003188000-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Pocket dictionary of cinema", "Dictionary of cinema" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "1423711262", "9781423711261", "1859865623", "9781859865620", "1280542802", "9781280542800", "9786610542802", "6610542805" ],
+        "abstract" : [ "Guide to the cinema, from silent movies to the present day." ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Helicon Pub." ],
+        "oclcid" : [ "(ocolc)60771012" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Hutchinson pocket dictionary of cinema." ]
+      },
+      "sort" : {
+        "title" : [ "Hutchinson pocket dictionary of cinema." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031880000107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031880000107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031880000107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781423711261,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993.45ǂh88 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "263",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "56",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "459",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 483,
+    "COMBINED_SEARCH_TIME" : 486,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Film Video Reference",
+      "count" : "1"
+    } ]
+  } ]
+}

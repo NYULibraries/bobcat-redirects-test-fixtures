@@ -1,0 +1,196 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990025979010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Manuel de diplomatique; diplômes et chartes, chronologie technique, éléments critiques, et parties constitutives de la teneur des chartes, les chancelleries, les actes privés." ],
+        "subject" : [ "Diplomatics" ],
+        "format" : [ "xvi, 944 p. illus." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)7251911" ],
+        "creationdate" : [ "n.d" ],
+        "creator" : [ "Giry, Arthur, 1848-1899.$$QGiry, Arthur" ],
+        "publisher" : [ "N. Y., B. Franklin" ],
+        "mms" : [ "990025979010107871" ],
+        "series" : [ "Burt Franklin bibliography & reference series ; 85.$$QBurt Franklin bibliography & reference series ", "Burt Franklin: Bibliography and reference series. No. 85$$QBurt Franklin: Bibliography and reference series." ],
+        "place" : [ "N. Y.," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002597901" ],
+        "lds53" : [ "002597901" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990025979010107871" ],
+        "recordid" : [ "alma990025979010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002597901-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Giry" ],
+        "aufirst" : [ "Arthur" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Giry, Arthur" ],
+        "creatorfull" : [ "$$NGiry, Arthur$$LGiry$$FArthur$$Rauthor" ],
+        "date" : [ "n.d" ],
+        "cop" : [ "N. Y" ],
+        "pub" : [ "B. Franklin" ],
+        "oclcid" : [ "(ocolc)7251911" ],
+        "seriestitle" : [ "Burt Franklin: Bibliography and reference series. No. 85" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Manuel de diplomatique; diplômes et chartes, chronologie technique, éléments critiques, et parties constitutives de la teneur des chartes, les chancelleries, les actes privés." ]
+      },
+      "sort" : {
+        "title" : [ "Manuel de diplomatique; diplômes et chartes, chronologie technique, éléments critiques, et parties constitutives de la teneur des chartes, les chancelleries, les actes privés." ],
+        "author" : [ "Giry, Arthur, 1848-1899." ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990025979010107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:7251911,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "62",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "6",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "283",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 307,
+    "COMBINED_SEARCH_TIME" : 311,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Diplomatics",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Giry Arthur",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

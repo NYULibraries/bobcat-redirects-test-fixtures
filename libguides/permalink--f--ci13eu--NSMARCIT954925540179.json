@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616027207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of film and video (Online)" ],
+        "subject" : [ "Motion pictures$$QMotion pictures -- Periodicals", "Television$$QTelevision -- Periodicals", "Video recordings$$QVideo recordings -- Periodicals", "Cinéma$$QCinéma -- Périodiques", "Télévision$$QTélévision -- Périodiques", "Vidéos$$QVidéos -- Périodiques", "Motion pictures", "Television", "Video recordings", "Filmkunst", "Videokunst" ],
+        "identifier" : [ "$$CLC$$V  2007216130;$$CISSN$$V1934-6018;$$COCLC$$V(OCoLC)50408878;$$CISSN$$V0742-4671" ],
+        "creationdate" : [ "1984-" ],
+        "publisher" : [ "Carbondale, IL : University Film and Video Association", "Vol. 36, no. 1 (winter 1984)-" ],
+        "mms" : [ "9995616027207871" ],
+        "contributor" : [ "University Film and Video Association.$$QUniversity Film and Video Association." ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of the University Film and Video Association$$QJournal of the University Film and Video Association$$Z9995633838607871", "$$Cform$$VLink to related record$$Z990027957780107871" ],
+        "unititle" : [ "Journal of film and video (Online)" ],
+        "place" : [ "Carbondale, IL] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925540179" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616027207871" ],
+        "recordid" : [ "alma9995616027207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925540179" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "JOURNAL OF FILM & VIDEO" ],
+        "date" : [ "1984", "1984-" ],
+        "issn" : [ "1934-6018", "0742-4671" ],
+        "cop" : [ "Carbondale, IL" ],
+        "pub" : [ "University Film and Video Association" ],
+        "oclcid" : [ "(ocolc)50408878" ],
+        "lccn" : [ "2007216130" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of film and video (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of film and video (Online)" ],
+        "author" : [ "University Film and Video Association." ],
+        "creationdate" : [ "1984" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616027207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616027207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616027207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616027207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007216130&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993ǂ u63",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "235",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "264",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "235",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "67",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "662",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 695,
+    "COMBINED_SEARCH_TIME" : 698,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1984",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Filmkunst",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Television",
+      "count" : "1"
+    }, {
+      "value" : "Television Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Télévision Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Video Recordings",
+      "count" : "1"
+    }, {
+      "value" : "Video Recordings Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Videokunst",
+      "count" : "1"
+    }, {
+      "value" : "Vidéos Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "University Film And Video Association",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

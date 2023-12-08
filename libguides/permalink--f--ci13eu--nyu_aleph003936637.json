@@ -1,0 +1,297 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039366370107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare and the rival playwrights, 1600-1606 " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Criticism and interpretation", "Shakespeare, William, 1564-1616 -- Contemporaries", "Shakespeare, William 1564-1616 -- Crítica e interpretación", "Shakespeare, William, 1564-1616", "Shakespeare, William, (1564-1616) -- Critique et interprétation", "Shakespeare, William", "Theater -- England -- History -- 17th century", "Théâtre -- Angleterre -- Histoire -- 17e siècle", "LITERARY CRITICISM -- Shakespeare", "DRAMA -- Shakespeare", "Teatro inglés -- S.XVI-XVII -- Historia y crítica", "Contemporaries", "Zeitgenossen", "England", "Theater", "Drama", "Englisch", "1600-1699", "Geschichte 1600-1606", "Drama in English Shakespeare, William, 1564-1616 - Critical studies" ],
+        "format" : [ "1 online resource (vi, 226 pages)" ],
+        "identifier" : [ "$$CISBN$$V0203159977;$$CISBN$$V9780203159972;$$CISBN$$V9780415040501;$$COCLC$$V(OCoLC)51273638;$$CISBN$$V0415040507" ],
+        "creationdate" : [ "1990" ],
+        "creator" : [ "Farley-Hills, David.$$QFarley-Hills, David." ],
+        "publisher" : [ "London ; New York : Routledge" ],
+        "description" : [ "David Farley-Hills argues that Shakespeare did not work in splendid isolation, but responded as any other playwright to the commercial and artistic pressures of his time. In this book he offers an interpretation of seven of Shakespeare's plays in the light of pressures exerted by his major contemporary rivals. The plays discussed are Hamlet, Troilus and Cressida, All's Well That Ends Well, Othello, Measure for Measure, Timon of Athens, and King Lear." ],
+        "mms" : [ "990039366370107871" ],
+        "contents" : [ "1. Hamlet and the little Eyases -- 2. Portrait of the Iron Age : Troilus and Cressida -- 3. The word ... will bring on summer : All's well that ends well and Chapman's mythic comedy -- 4. Othello : a man killed with kindness -- 5. Royal measures : Measure for measure and Middleton's comedy of disillusionment -- 6. Anger's privilege : Timon of Athens and King Lear." ],
+        "genre" : [ "Electronic books", "Criticism, interpretation, etc", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Farley-Hills, David. Shakespeare and the rival playwrights, 1600-1606. London ; New York : Routledge, 1990$$QShakespeare and the rival playwrights, 1600-1606.$$Z990018976880107871", "$$Cform$$VShakespeare and the rival playwrights, 1600-1606$$Z9995668701607871" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph003936637" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039366370107871" ],
+        "recordid" : [ "alma990039366370107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003936637-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Farley-Hills" ],
+        "aufirst" : [ "David." ],
+        "auinit" : [ "D" ],
+        "au" : [ "Farley-Hills, David." ],
+        "creatorfull" : [ "$$NFarley-Hills, David.$$LFarley-Hills$$FDavid.$$Rauthor" ],
+        "date" : [ "1990" ],
+        "isbn" : [ "0203159977", "9780203159972", "9780415040501", "0415040507" ],
+        "notes" : [ "Includes bibliographical references (pages 207-219) and index." ],
+        "abstract" : [ "David Farley-Hills argues that Shakespeare did not work in splendid isolation, but responded as any other playwright to the commercial and artistic pressures of his time. In this book he offers an interpretation of seven of Shakespeare's plays in the light of pressures exerted by his major contemporary rivals. The plays discussed are Hamlet, Troilus and Cressida, All's Well That Ends Well, Othello, Measure for Measure, Timon of Athens, and King Lear." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)51273638" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare and the rival playwrights, 1600-1606" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare and the rival playwrights, 1600-1606 /" ],
+        "author" : [ "Farley-Hills, David." ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039366370107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039366370107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039366370107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039366370107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039366370107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203159972,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2976ǂ f28 1990eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "306",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "90",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "38",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "66",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "130",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "630",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 655,
+    "COMBINED_SEARCH_TIME" : 657,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1600 1699",
+      "count" : "1"
+    }, {
+      "value" : "Contemporaries",
+      "count" : "1"
+    }, {
+      "value" : "Drama",
+      "count" : "1"
+    }, {
+      "value" : "Drama In English Shakespeare William 1564 1616 Critical Studies",
+      "count" : "1"
+    }, {
+      "value" : "Drama Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "England",
+      "count" : "1"
+    }, {
+      "value" : "Englisch",
+      "count" : "1"
+    }, {
+      "value" : "Geschichte 1600 1606",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Contemporaries",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Criticism And Interpretation",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Critique Et Interprétation",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Crítica E Interpretación",
+      "count" : "1"
+    }, {
+      "value" : "Teatro Inglés S Xvi Xvii Historia Y Crítica",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater England History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Angleterre Histoire 17e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Zeitgenossen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Farley Hills David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

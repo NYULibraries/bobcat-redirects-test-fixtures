@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995640161607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of engineering mechanics (Online)" ],
+        "subject" : [ "Mechanics, Applied$$QMechanics, Applied -- Periodicals" ],
+        "identifier" : [ "$$CLC$$V2008202193;$$CISSN$$V1943-7889;$$COCLC$$V(OCoLC)43266779;$$CISSN$$V0733-9399" ],
+        "creationdate" : [ "1983" ],
+        "publisher" : [ "Reston, Va. : American Society of Civil Engineers", "Print began with vol. 109, no. 1 (Feb. 1983)." ],
+        "mms" : [ "9995640161607871" ],
+        "contributor" : [ "American Society of Civil Engineers.$$QAmerican Society of Civil Engineers.", "American Society of Civil Engineers. Engineering Mechanics Division.$$QAmerican Society of Civil Engineers. Engineering Mechanics Division." ],
+        "addtitle" : [ "ASCE engineering mechanics", "A.S.C.E. engineering mechanics 1983-", "ASCE journal of engineering mechanics <Jan. 2000->" ],
+        "frequency" : [ "Monthly" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of the Engineering Mechanics Division$$QJournal of the Engineering Mechanics Division" ],
+        "unititle" : [ "Journal of engineering mechanics (Online)" ],
+        "place" : [ "Reston, Va. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925234017" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995640161607871" ],
+        "recordid" : [ "alma9995640161607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925234017" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "J ENG MECH-ASCE", "JOURNAL OF ENGINEERING MECHANICS PROCEEDINGS OF THE ASCE", "JOURNAL OF ENGINEERING MECHANICS ASCE", "J ENG MECH ASCE", "J ENG MEC", "J ENG MECH", "J. eng. mech.", "J. eng. mech. (Online)", "ASCE", "J. ENG. MECH" ],
+        "addtitle" : [ "ASCE engineering mechanics", "A.S.C.E. engineering mechanics", "ASCE journal of engineering mechanics" ],
+        "date" : [ "1983" ],
+        "issn" : [ "1943-7889", "0733-9399" ],
+        "cop" : [ "Reston, Va" ],
+        "pub" : [ "American Society of Civil Engineers" ],
+        "oclcid" : [ "(ocolc)43266779" ],
+        "lccn" : [ "2008202193" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of engineering mechanics (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of engineering mechanics (Online)" ],
+        "author" : [ "American Society of Civil Engineers." ],
+        "creationdate" : [ "1983" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640161607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640161607871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640161607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640161607871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640161607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008202193&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "46",
+    "CALL_SOLR_GET_IDS_LIST" : "66",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "189",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "179",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "10",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "42",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "356",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 389,
+    "COMBINED_SEARCH_TIME" : 391,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1983",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mechanics Applied Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Society Of Civil Engineers",
+      "count" : "1"
+    }, {
+      "value" : "American Society Of Civil Engineers Engineering Mechanics Division",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

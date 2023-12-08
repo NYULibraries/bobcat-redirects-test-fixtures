@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043695490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A scientific approach to scientific writing " ],
+        "subject" : [ "Rédaction technique", "technical writing", "LANGUAGE ARTS & DISCIPLINES -- Composition & Creative Writing", "LANGUAGE ARTS & DISCIPLINES -- Rhetoric", "REFERENCE -- Writing Skills", "Technical writing", "natuurwetenschappelijk onderwijs", "science education", "biomedische wetenschappen", "biomedicine", "levenswetenschappen", "life sciences", "Medicine (General)", "Geneeskunde (algemeen)" ],
+        "format" : [ "1 online resource (ix, 112 pages)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9781441997883;$$CISBN$$V1441997881;$$CISBN$$V1441997873;$$CISBN$$V9781441997876;$$COCLC$$V(OCoLC)733543638" ],
+        "creationdate" : [ "©2011" ],
+        "creator" : [ "Blackwell, John (John Robert)$$QBlackwell, John" ],
+        "publisher" : [ "New York : Springer" ],
+        "description" : [ "This volume systematically guides readers through the process of writing scientific papers for submission to peer-reviewed journals, and addressing referees' responses. Beyond merely listing elements required for successful scientific writing, A Scientific Approach to Scientific Writing offers researchers a full framework for constructing papers, starting from brief statements regarding the rationale, objectives, findings and implications of the study. The writing process is illustrated through four exemplar studies of increasing complexity, worked through from title to conclusions. The book does not focus primarily on grammar, but includes sections on important facets, such as 'voices' and tenses. It also addresses problems associated with writing other texts (reports, reviews, emails, social/professional networking communications etc.). Composed (with inputs from numerous senior scientists) by authors who have written, revised or edited more than 4,000 papers, A Scientific Approach to Scientific Writing will be essential reading for non-native English-speaking students and researchers of all disciplines, and a valuable resource for those with English as a first language." ],
+        "mms" : [ "990043695490107871" ],
+        "contributor" : [ "Martin, Jan.$$QMartin, Jan." ],
+        "contents" : [ "Maximizing Chances of Publication -- Essential Steps Before Writing a Paper -- Drafting Papers -- Complex Studies -- Linguistic Points -- Covering Letters and Referees' Objections -- Other Kinds of Written Scientific Communication." ],
+        "genre" : [ "Internet Resources", "Handbooks" ],
+        "relation" : [ "$$Cform$$VA Scientific Approach to Scientific Writing$$Z9995662173207871", "$$Cform$$VPrint version: Blackwell, John. Scientific approach to scientific writing. New York : Springer, 2011$$QScientific approach to scientific writing." ],
+        "mesh" : [ "Writing -- standards" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004369549" ],
+        "lds63" : [ "University staff and students only. Requires University Computer Account login off-campus." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043695490107871" ],
+        "recordid" : [ "alma990043695490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004369549-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Blackwell" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Blackwell, John (John Robert)" ],
+        "addau" : [ "Martin, Jan." ],
+        "creatorfull" : [ "$$NBlackwell, John (John Robert)$$LBlackwell$$FJohn$$Rauthor" ],
+        "contributorfull" : [ "$$NMartin, Jan.$$LMartin$$FJan.$$Rcontributor" ],
+        "date" : [ "2011", "©2011" ],
+        "isbn" : [ "9781441997883", "1441997881", "1441997873", "9781441997876" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This volume systematically guides readers through the process of writing scientific papers for submission to peer-reviewed journals, and addressing referees' responses. Beyond merely listing elements required for successful scientific writing, A Scientific Approach to Scientific Writing offers researchers a full framework for constructing papers, starting from brief statements regarding the rationale, objectives, findings and implications of the study. The writing process is illustrated through four exemplar studies of increasing complexity, worked through from title to conclusions. The book does not focus primarily on grammar, but includes sections on important facets, such as 'voices' and tenses. It also addresses problems associated with writing other texts (reports, reviews, emails, social/professional networking communications etc.). Composed (with inputs from numerous senior scientists) by authors who have written, revised or edited more than 4,000 papers, A Scientific Approach to Scientific Writing will be essential reading for non-native English-speaking students and researchers of all disciplines, and a valuable resource for those with English as a first language." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)733543638" ],
+        "doi" : [ "10.1007/978-1-4419-9788-3" ],
+        "lccn" : [ "2011926358" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A scientific approach to scientific writing" ]
+      },
+      "sort" : {
+        "title" : [ "scientific approach to scientific writing /" ],
+        "author" : [ "Blackwell, John (John Robert)" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043695490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043695490107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043695490107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1441997881,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "t!11ǂ b53 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "427",
+    "CALL_SOLR_GET_IDS_LIST" : "184",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "70",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "76",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "61",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "9",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "779",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 808,
+    "COMBINED_SEARCH_TIME" : 812,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biomedicine",
+      "count" : "1"
+    }, {
+      "value" : "Biomedische Wetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Geneeskunde Algemeen",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Composition Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Levenswetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Life Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Medicine General",
+      "count" : "1"
+    }, {
+      "value" : "Natuurwetenschappelijk Onderwijs",
+      "count" : "1"
+    }, {
+      "value" : "Reference Writing Skills",
+      "count" : "1"
+    }, {
+      "value" : "Rédaction Technique",
+      "count" : "1"
+    }, {
+      "value" : "Science Education",
+      "count" : "1"
+    }, {
+      "value" : "Technical Writing",
+      "count" : "1"
+    }, {
+      "value" : "Writing Standards",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Blackwell John",
+      "count" : "1"
+    }, {
+      "value" : "Martin Jan",
+      "count" : "1"
+    } ]
+  } ]
+}

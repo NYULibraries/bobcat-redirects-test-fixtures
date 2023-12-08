@@ -1,0 +1,271 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080890570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The city creative : the rise of urban placemaking in contemporary America " ],
+        "subject" : [ "City planning -- United States -- History -- 21st century", "City planning -- United States -- History -- 20th century", "Community development, Urban -- United States", "Public spaces -- Social aspects -- United States", "Développement communautaire urbain -- États-Unis", "Urbanisme participatif", "Rénovation urbaine -- Participation des citoyens", "Espaces publics -- Aspect social -- États-Unis", "ARCHITECTURE -- General", "City planning", "City planning -- Citizen participation", "Community development, Urban", "Public spaces -- Social aspects", "Urban renewal -- Citizen participation", "United States", "1900-2099" ],
+        "format" : [ "1 online resource (319 pages) : color illustrations." ],
+        "identifier" : [ "$$CISBN$$V022672736X;$$CISBN$$V9780226727363;$$COCLC$$V(OCoLC)1235592925;$$CISBN$$V9780226727226" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Carriere, Michael H., author.$$QCarriere, Michael H." ],
+        "publisher" : [ "Chicago : The University of Chicago Press" ],
+        "description" : [ "In the wake of the Great Recession, American cities from Philadelphia to San Diego saw an upsurge in hyperlocal placemaking - small-scale interventions aimed at encouraging greater equity and community engagement in growth and renewal. But the projects that were the most successful at achieving these lofty ambitions weren't usually established by politicians, urban planners, or real estate developers; they were initiated by community activists, artists, and neighbours. In order to figure out why, 'The City Creative' mounts a comprehensive study of placemaking in urban America, tracing its intellectual history and contrasting it with the efforts of people making positive change in their communities today." ],
+        "mms" : [ "990080890570107871" ],
+        "contributor" : [ "Schalliol, David, author.$$QSchalliol, David" ],
+        "contents" : [ "Introduction : a brief history of the recent past -- The (near) death and life of postwar American cities : the roots of contemporary placemaking -- The roaring '90s -- Into the twenty-first century -- Growing place : toward a counterhistory of contemporary placemaking -- Producing place -- Creating place -- Conclusion : Placemaking is for people." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Carriere, Michael H. City creative. Chicago ; London : The University of Chicago Press, 2021$$QCity creative.$$Z990080943780107871" ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebceb", "oxfacad", "aleph008089057" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080890570107871" ],
+        "recordid" : [ "alma990080890570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008089057-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Carriere" ],
+        "aufirst" : [ "Michael H." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Carriere, Michael H." ],
+        "addau" : [ "Schalliol, David" ],
+        "creatorfull" : [ "$$NCarriere, Michael H.$$LCarriere$$FMichael H.$$Rauthor" ],
+        "contributorfull" : [ "$$NSchalliol, David$$LSchalliol$$FDavid$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "022672736X", "9780226727363", "9780226727226" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "In the wake of the Great Recession, American cities from Philadelphia to San Diego saw an upsurge in hyperlocal placemaking - small-scale interventions aimed at encouraging greater equity and community engagement in growth and renewal. But the projects that were the most successful at achieving these lofty ambitions weren't usually established by politicians, urban planners, or real estate developers; they were initiated by community activists, artists, and neighbours. In order to figure out why, 'The City Creative' mounts a comprehensive study of placemaking in urban America, tracing its intellectual history and contrasting it with the efforts of people making positive change in their communities today." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)1235592925" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The city creative : the rise of urban placemaking in contemporary America" ]
+      },
+      "sort" : {
+        "title" : [ "city creative : the rise of urban placemaking in contemporary America /" ],
+        "author" : [ "Carriere, Michael H., author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080890570107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080890570107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080890570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780226727363,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"167ǂ c37 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "246",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "109",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "66",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "24",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "87",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "527",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 554,
+    "COMBINED_SEARCH_TIME" : 556,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 2099",
+      "count" : "1"
+    }, {
+      "value" : "Architecture General",
+      "count" : "1"
+    }, {
+      "value" : "City Planning",
+      "count" : "1"
+    }, {
+      "value" : "City Planning Citizen Participation",
+      "count" : "1"
+    }, {
+      "value" : "City Planning United States History 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "City Planning United States History 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "Community Development Urban",
+      "count" : "1"
+    }, {
+      "value" : "Community Development Urban United States",
+      "count" : "1"
+    }, {
+      "value" : "Développement Communautaire Urbain États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Espaces Publics Aspect Social États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Public Spaces Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Public Spaces Social Aspects United States",
+      "count" : "1"
+    }, {
+      "value" : "Rénovation Urbaine Participation Des Citoyens",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Urban Renewal Citizen Participation",
+      "count" : "1"
+    }, {
+      "value" : "Urbanisme Participatif",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carriere Michael H",
+      "count" : "1"
+    }, {
+      "value" : "Schalliol David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

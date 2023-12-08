@@ -1,0 +1,241 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035530270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Anya's ghost " ],
+        "subject" : [ "Interpersonal relations$$QInterpersonal relations -- Comic books, strips, etc", "Self-esteem$$QSelf-esteem -- Comic books, strips, etc", "Ghosts$$QGhosts -- Comic books, strips, etc", "Schools$$QSchools -- Comic books, strips, etc", "Russian Americans$$QRussian Americans -- Comic books, strips, etc" ],
+        "format" : [ "221 p. : ill. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2010036251;$$CISBN$$V9781596437135;$$CISBN$$V1596437138;$$CISBN$$V9781596435520 (pbk);$$CISBN$$V1596435526 (pbk);$$CISBN$$V9781596437708;$$CISBN$$V1596437707;$$COCLC$$V(OCoLC)664665171" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Brosgol, Vera.$$QBrosgol, Vera." ],
+        "publisher" : [ "New York : First Second" ],
+        "description" : [ "Anya, embarrassed by her Russian immigrant family and self-conscious about her body, has given up on fitting in at school but falling down a well and making friends with the ghost there just may be worse." ],
+        "mms" : [ "990035530270107871" ],
+        "edition" : [ "1st ed." ],
+        "genre" : [ "Comic books, strips, etc", "Graphic novels -- Russia (Federation)", "Ghost stories" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003553027" ],
+        "lds53" : [ "003553027" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035530270107871" ],
+        "recordid" : [ "alma990035530270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003553027-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brosgol" ],
+        "aufirst" : [ "Vera." ],
+        "auinit" : [ "V" ],
+        "au" : [ "Brosgol, Vera." ],
+        "creatorfull" : [ "$$NBrosgol, Vera.$$LBrosgol$$FVera.$$Rauthor" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9781596437135", "1596437138", "9781596435520", "1596435526", "9781596437708", "1596437707" ],
+        "abstract" : [ "Anya, embarrassed by her Russian immigrant family and self-conscious about her body, has given up on fitting in at school but falling down a well and making friends with the ghost there just may be worse." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "First Second" ],
+        "oclcid" : [ "(ocolc)664665171" ],
+        "lccn" : [ "2010036251" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Anya's ghost" ]
+      },
+      "sort" : {
+        "title" : [ "Anya's ghost /" ],
+        "author" : [ "Brosgol, Vera." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035530270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035530270107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1596437138,OCLC:,LCCN:2010036251&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6727 b756ǂa59 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "94",
+    "CALL_SOLR_GET_IDS_LIST" : "136",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "73",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "358",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 384,
+    "COMBINED_SEARCH_TIME" : 386,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ghosts Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Interpersonal Relations Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Russian Americans Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Schools Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Self Esteem Comic Books Strips Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brosgol Vera",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

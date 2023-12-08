@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990025067440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Letters in exile : an introductory reader on the history of Pilipinos in America : a project of resource development and publications, UCLA Asian American Studies Center." ],
+        "subject" : [ "Filipino Americans", "United States -- Race relations" ],
+        "format" : [ "158 p. : ill. ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V76150149;$$COCLC$$V(OCoLC)2595546" ],
+        "creationdate" : [ "c1976" ],
+        "publisher" : [ "Los Angeles : The Center" ],
+        "mms" : [ "990025067440107871" ],
+        "contributor" : [ "University of California, Los Angeles. Asian American Studies Center.$$QUniversity of California, Los Angeles. Asian American Studies Center." ],
+        "contents" : [ "Conflict and contact: Francisco, L. The first Vietnam--the Philippine-American War of 1899-1902. Buaken, M. Lure of America. Bulosan, C. America is in the heart, chapter 13, chapter 14.--Exile and exclusion: Melendy, H. B. California's discrimination against Filipinos, 1927-1935. Buaken, M. No orientals are wanted. Bogardus, E. S. Anti-Filipino race riots. The staff. Anti-miscegenation laws and the Pilipino. Goethe, C. M. Filipino immigration viewed as peril. Clifford, M. D. The Hawaii Sugar Planters Association and Filipino exclusion. Bunuan, V. J. Justice for Filipinos. Santos, B. N. Filipinos at war. Quinsaat, J. G. How to join the Navy and still not see the world.--Crisis and construction: Santos, B. N. The day the dancers came. Weaver, J. and Constantino, A. Health care problems of the elderly. Galedo, L. and Mar, T. Filipinos in a farm labor camp. Morita, B. and Braga, C. Agbayani Village. Pilipino highlights." ],
+        "place" : [ "Los Angeles] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002506744" ],
+        "lds53" : [ "002506744" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990025067440107871" ],
+        "recordid" : [ "alma990025067440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002506744-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1976", "c1976" ],
+        "notes" : [ "Bibliography: p. [151]-158." ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "The Center" ],
+        "oclcid" : [ "(ocolc)2595546" ],
+        "lccn" : [ "76150149" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Letters in exile : an introductory reader on the history of Pilipinos in America : a project of resource development and publications, UCLA Asian American Studies Center." ]
+      },
+      "sort" : {
+        "title" : [ "Letters in exile : an introductory reader on the history of Pilipinos in America : a project of resource development and publications, UCLA Asian American Studies Center." ],
+        "author" : [ "University of California, Los Angeles. Asian American Studies Center." ],
+        "creationdate" : [ "1976" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990025067440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:76150149&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 f4ǂl48",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "80",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "85",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "286",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 318,
+    "COMBINED_SEARCH_TIME" : 321,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1976",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Filipino Americans",
+      "count" : "1"
+    }, {
+      "value" : "United States Race Relations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "University Of California Los Angeles Asian American Studies Center",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

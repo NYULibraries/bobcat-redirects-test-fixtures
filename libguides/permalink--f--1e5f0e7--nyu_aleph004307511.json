@@ -1,0 +1,279 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043075110107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "101 careers in social work " ],
+        "subject" : [ "Social service -- Vocational guidance -- United States", "Vocational guidance -- United States", "Job hunting -- United States", "Service social -- Orientation professionnelle -- États-Unis", "Recherche d'emploi -- États-Unis", "POLITICAL SCIENCE -- Public Policy -- Social Services & Welfare", "SOCIAL SCIENCE -- Human Services", "Job hunting", "Social service -- Vocational guidance", "Vocational guidance", "United States" ],
+        "format" : [ "1 online resource (xix, 294 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780826129062;$$CISBN$$V0826129064;$$CISBN$$V9781322434261;$$CISBN$$V1322434263;$$CISBN$$V1786840294;$$CISBN$$V9781786840295;$$COCLC$$V(OCoLC)897820908;$$CISBN$$V9780826129055" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Ritter, Jessica A., author.$$QRitter, Jessica A." ],
+        "publisher" : [ "New York : Springer Publishing Company" ],
+        "description" : [ "This guide to social work careers conforms to accreditation standards, core competencies, and licensing requirements, along with presenting opportunities for social workers resulting from health care reform and the Affordable Care Act. With a focus on the interdisciplinary nature of social work, the book describes both traditional careers and those that are off the beaten path in such arenas as forensic social work, entrepreneurship, working in political systems, international careers, and community planning. The authors also reflect upon the impact of the social and economic climate on the profession.--description provided by publisher." ],
+        "mms" : [ "990043075110107871" ],
+        "contributor" : [ "Vakalahi, Halaevalu F. Ofahengaue, author.$$QVakalahi, Halaevalu F. Ofahengaue" ],
+        "addtitle" : [ "One hundred one careers in social work" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "The profession of social work. What is social work? ; Got social work? ; Follow the yellow brick road : education and licensure for social workers -- Careers in social work. Careers in child welfare ; School-based and school-linked services ; Social work with older adults ; Social work in health care ; Social work in mental health and addiction ; Careers in crisis intervention ; Careers in criminal justice and the legal arena ; Careers in international social work and human rights ; Careers in poverty and homelessness ; Careers in the political arena ; Careers in community practice ; Leadership in human service organizations ; Careers in research and academia ; \"Out of the box\" social work careers -- Where do we go from here? Paying for your social work education ; Job hunting tips." ],
+        "relation" : [ "$$Cform$$V101 careers in social work$$Z9995659310907871", "$$Cform$$VPrint version: Ritter, Jessica A. 101 careers in social work. Second Edition$$Q101 careers in social work." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph004307511" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043075110107871" ],
+        "recordid" : [ "alma990043075110107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004307511-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ritter" ],
+        "aufirst" : [ "Jessica A." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Ritter, Jessica A." ],
+        "addau" : [ "Vakalahi, Halaevalu F. Ofahengaue" ],
+        "creatorfull" : [ "$$NRitter, Jessica A.$$LRitter$$FJessica A.$$Rauthor" ],
+        "contributorfull" : [ "$$NVakalahi, Halaevalu F. Ofahengaue$$LVakalahi$$FHalaevalu F. Ofahengaue$$Rcontributor" ],
+        "addtitle" : [ "One hundred one careers in social work" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9780826129062", "0826129064", "9781322434261", "1322434263", "1786840294", "9781786840295", "9780826129055" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This guide to social work careers conforms to accreditation standards, core competencies, and licensing requirements, along with presenting opportunities for social workers resulting from health care reform and the Affordable Care Act. With a focus on the interdisciplinary nature of social work, the book describes both traditional careers and those that are off the beaten path in such arenas as forensic social work, entrepreneurship, working in political systems, international careers, and community planning. The authors also reflect upon the impact of the social and economic climate on the profession.--description provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Springer Publishing Company" ],
+        "oclcid" : [ "(ocolc)897820908" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "101 careers in social work" ]
+      },
+      "sort" : {
+        "title" : [ "101 careers in social work /" ],
+        "author" : [ "Ritter, Jessica A., author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043075110107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043075110107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043075110107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043075110107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043075110107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0826129064,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv!10.5ǂ r58 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "302",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "302",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "67",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "277",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "112",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "828",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 856,
+    "COMBINED_SEARCH_TIME" : 859,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Job Hunting",
+      "count" : "1"
+    }, {
+      "value" : "Job Hunting United States",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Public Policy Social Services Welfare",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Demploi États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Service Social Orientation Professionnelle États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Human Services",
+      "count" : "1"
+    }, {
+      "value" : "Social Service Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Social Service Vocational Guidance United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Vocational Guidance United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ritter Jessica A",
+      "count" : "1"
+    }, {
+      "value" : "Vakalahi Halaevalu F Ofahengaue",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

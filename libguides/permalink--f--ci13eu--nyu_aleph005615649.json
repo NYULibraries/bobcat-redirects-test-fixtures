@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056156490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "How Ukraine can open its door to NATO " ],
+        "subject" : [ "North Atlantic Treaty Organization -- Relations -- Ukraine", "North Atlantic Treaty Organization", "Ukraine -- Politics and government -- 21st century", "Political stability -- Ukraine", "Ukraine -- Politique et gouvernement -- 21e siècle", "Stabilité politique -- Ukraine", "Political stability", "Politics and government", "Relations", "Ukraine", "2000-2099" ],
+        "format" : [ "1 online resource (iv, 10 pages)", "text file", "PDF" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)953262378" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Lété, Bruno, author.$$QLété, Bruno" ],
+        "publisher" : [ "Washington, DC : The German Marshall Fund of the United States" ],
+        "description" : [ "Ukraine's top priority needs to be its domestic policy. Success at home will determine the rest, including strengthening Ukraine's partnership with NATO. To make a case that Kyiv is a reliable partner of the Alliance, it must first start to modernize all fields of government, military, and the private sector. Ukraine must continue to demonstrate to NATO, and itself, that it can carry out reform and fight corruption. If it cannot, Allies' political willingness to invest in the NATO-Ukraine partnership will decline." ],
+        "mms" : [ "990056156490107871" ],
+        "contributor" : [ "German Marshall Fund of the United States, publisher.$$QGerman Marshall Fund of the United States", "NATO Information and Documentation Centre (Kiev)$$QNATO Information and Documentation Centre (Kiev)" ],
+        "contents" : [ "Executive summary. -- Introduction. -- Strategic vulnerabilities in the NATO-Ukraine partnership before and beyond the Moscow Summit. -- Must-do's for Ukraine to strengthen its NATO partnership." ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "jstorsec", "aleph005615649" ],
+        "lds60" : [ "\"No. 129.\"", "\"June 2016.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056156490107871" ],
+        "recordid" : [ "alma990056156490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005615649-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lété" ],
+        "aufirst" : [ "Bruno" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Lété, Bruno" ],
+        "creatorfull" : [ "$$NLété, Bruno$$LLété$$FBruno$$Rauthor" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Ukraine's top priority needs to be its domestic policy. Success at home will determine the rest, including strengthening Ukraine's partnership with NATO. To make a case that Kyiv is a reliable partner of the Alliance, it must first start to modernize all fields of government, military, and the private sector. Ukraine must continue to demonstrate to NATO, and itself, that it can carry out reform and fight corruption. If it cannot, Allies' political willingness to invest in the NATO-Ukraine partnership will decline." ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "The German Marshall Fund of the United States" ],
+        "oclcid" : [ "(ocolc)953262378" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "How Ukraine can open its door to NATO" ]
+      },
+      "sort" : {
+        "title" : [ "How Ukraine can open its door to NATO /" ],
+        "author" : [ "Lété, Bruno, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056156490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:953262378,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "129",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "333",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 358,
+    "COMBINED_SEARCH_TIME" : 361,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2000 2099",
+      "count" : "1"
+    }, {
+      "value" : "North Atlantic Treaty Organization",
+      "count" : "1"
+    }, {
+      "value" : "North Atlantic Treaty Organization Relations Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Political Stability",
+      "count" : "1"
+    }, {
+      "value" : "Political Stability Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Politics And Government",
+      "count" : "1"
+    }, {
+      "value" : "Relations",
+      "count" : "1"
+    }, {
+      "value" : "Stabilité Politique Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Politics And Government 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Politique Et Gouvernement 21e Siècle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "German Marshall Fund Of The United States",
+      "count" : "1"
+    }, {
+      "value" : "Lété Bruno",
+      "count" : "1"
+    }, {
+      "value" : "Nato Information And Documentation Centre Kiev",
+      "count" : "1"
+    } ]
+  } ]
+}

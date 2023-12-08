@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002283730107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Sixteenth-century Spanish writers " ],
+        "subject" : [ "Spanish literature -- Classical period, 1500-1700$$QSpanish literature -- Classical period, 1500-1700 -- Bio-bibliography Dictionaries", "Authors, Spanish -- Classical period, 1500-1700$$QAuthors, Spanish -- Classical period, 1500-1700 -- Biography Dictionaries" ],
+        "format" : [ "xxiii, 439 p. : ill. ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V2005015169;$$CISBN$$V0787681369 (hardcover : alk. paper);$$COCLC$$V(OCoLC)60550521" ],
+        "creationdate" : [ "2005, c2006" ],
+        "publisher" : [ "Detroit : Thomson Gale" ],
+        "mms" : [ "990002283730107871" ],
+        "contributor" : [ "Kaplan, Gregory B., 1966-$$QKaplan, Gregory B." ],
+        "addtitle" : [ "16th-century Spanish writers" ],
+        "series" : [ "Dictionary of literary biography ; v. 318$$QDictionary of literary biography ", "Dictionary of literary biography ; v. 318.$$QDictionary of literary biography " ],
+        "contents" : [ "José de Acosta (1540-1600) -- Francisco de Aldana (1537-1578) -- Juan Boscán (circa 1490-1542) -- Cristóbal de Castillejo (1490?-1550) -- Gutierre de Cetina (1514/17?-1556) -- Christopher Columbus (1451-1506) -- Juan de la Cueva (1543-1612) -- Francisco Delicado (circa 1475-circa 1540?) -- Bernal Díaz del Castillo (circa 1496-1584) -- Garcilaso de la Vega (1499 or 1503-1536) -- Inca Garcilaso de la Vega (1539-1616) -- Alvar Gómez de Ciudad Real (Alvar Gómez de Guadalajara) (circa 1488-1538) -- Fray Luis de Granada (1504-1588) -- Fray Antonio de Guevara (1480?-1545) -- León Hebreo (circa 1460-1520) -- Fernando de Herrera (1534?-1597) -- San Juan de la Cruz (1542-1591) -- Fray Bartolomé de Las Casas (1474-1566) -- Fray Luis de León (1527-1591) -- Lope de Rueda (1510?-1565?) -- Juan de Mariana (1535 or 1536-1624) -- Pedro Mejía (1497-1551) -- Diego Hurtado de Mendoza (1504-1575) -- Jorge de Montemayer (1521?-1561?) -- Gonzalo Fernández de Oviedo (1478-1557) -- Juan Gutiérrez Rufo (1547?-1620?) -- Diego Sánchez de Badajoz (?-1522?) -- St. Teresa of Ávila (1515-1582) -- Francisco de la Torre (fl. late sixteenth century) -- Bartolomé de Torres Naharro (1485?-1523?) -- Alfonso de Valdés (circa 1490?-1532) -- Juan de Valdés (circa 1508-1541) -- Gil Vicente (1465-1536/1540?) -- Antonio de Villegas (fl. 1560s) -- Juan Luis Vives (1493-1540) -- The Spanish Byzantine novel -- The sixteenth-century Spanish epic -- Sixteenth-century Spanish humanism -- The Moorish novel of the sixteenth century -- The pastoral novel of the sixteenth century -- Sentimental fiction of the sixteenth century -- La vida de Lazarillo de Tormes -- Women writers in sixteenth-century Spain." ],
+        "genre" : [ "Bio-bibliography", "Biography", "Dictionaries" ],
+        "relation" : [ "$$Cform$$VSixteenth-century Spanish writers$$Z9995623623307871" ],
+        "place" : [ "Detroit :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000228373" ],
+        "lds53" : [ "000228373" ],
+        "lds60" : [ "\"A Bruccoli Clark Layman book.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002283730107871" ],
+        "recordid" : [ "alma990002283730107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000228373-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kaplan" ],
+        "aufirst" : [ "Gregory B." ],
+        "auinit" : [ "G" ],
+        "addau" : [ "Kaplan, Gregory B." ],
+        "contributorfull" : [ "$$NKaplan, Gregory B.$$LKaplan$$FGregory B.$$Rcontributor" ],
+        "addtitle" : [ "16th-century Spanish writers" ],
+        "date" : [ "2005", "2005, c2006" ],
+        "isbn" : [ "0787681369" ],
+        "notes" : [ "Includes bibliographical references (p. 343-346) and index." ],
+        "cop" : [ "Detroit" ],
+        "pub" : [ "Thomson Gale" ],
+        "oclcid" : [ "(ocolc)60550521" ],
+        "lccn" : [ "2005015169" ],
+        "seriestitle" : [ "Dictionary of literary biography ; v. 318" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Sixteenth-century Spanish writers" ]
+      },
+      "sort" : {
+        "title" : [ "Sixteenth-century Spanish writers /" ],
+        "author" : [ "Kaplan, Gregory B., 1966-" ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002283730107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0787681369,OCLC:,LCCN:2005015169&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#6064ǂ s59 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "231",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "35",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "105",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "498",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 524,
+    "COMBINED_SEARCH_TIME" : 527,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Authors Spanish Classical Period 1500 1700 Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Spanish Literature Classical Period 1500 1700 Bio Bibliography Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kaplan Gregory B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

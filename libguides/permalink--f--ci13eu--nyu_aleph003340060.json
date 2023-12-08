@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990033400600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Avalanche." ],
+        "subject" : [ "Art$$QArt -- Periodicals" ],
+        "format" : [ "1 case (9 pieces) : ill. ; 25 x 48 x 5 cm." ],
+        "identifier" : [ "$$CISBN$$V9780978869748;$$CISBN$$V0978869745;$$COCLC$$V(OCoLC)495780285" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "S.l. : Primary Information" ],
+        "mms" : [ "990033400600107871" ],
+        "contributor" : [ "Béar, Liza.$$QBéar, Liza.", "Sharp, Willoughby, 1936-2008.$$QSharp, Willoughby" ],
+        "addtitle" : [ "Title from back of case: Avalanche, 1970-1976", "Avalanche (New York, N.Y.)" ],
+        "genre" : [ "Periodicals" ],
+        "place" : [ "S.l.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003340060" ],
+        "lds53" : [ "003340060" ],
+        "lds60" : [ "Fall 1970: Carl Andre, Joseph Beuys, Jan Dibbets, Michael Heizer, Richard Long, Robert Morris, Dennis Oppenheim, Robert SmithsonWinter 1971: Vito Acconci, Terry Fox, Yves Klein, Bruce McLean, Bruce Nauman, Dennis Oppenheim, Klaus Rinke, John Van Saun, Richard Serra, William Wegman, 112 Greene StreetFall 1971: Bill Beckley, Joel Fisher, Gordon Matta-Clark, Ulrich Rückriem, Italo Scanga, George Trakas, David Tremlett, Barry Le VaSpring 1972: Alice Aycock, Stanley Brouwn, Hanne Darboven, Walter de Maria, Howard Fried, Sol Lewitt, Franz Erhard Walther, Lawrence Weiner, Jackie WinsorSummer 1972: Joseph Beuys, Braco Dimitrijevic, Phil Glass, Jannis Kounellis, Yvonne Rainer, Keith SonnierFall 1972: Vito AcconciWinter/Spring 1973: Lowell Darling, General Idea, Edward Ruscha, Van Schley, William WegmanSummer/Fall 1973: Chris Burden, Gilbert George, Tina Girouard, Robert Morris, Richard Serra, Robert Smithson, The Grand Union, The Western FrontMay/June 1974: Vito Acconci, Robert Bell, Joseph Beuys, Chris Burden, Dennis Oppenheim, Ulrike Rosenbach, Richard Serra, Willoughby Sharp, Keith Sonnier, William Wegman December 1974: Daniel Buren, Joel Fisher, Simone Forti, Terry Fox, Hans Haacke, Stephen Laub, Gordon Matta-Clark, Jack Smith, Phil Glass EnsambleSummer 1975: Laurie Anderson, On Kawara, Darcy Lange, Steve Paxton, Alan Saret, Joel Shapiro, Contact ImprovisationWinter 1975: Barabra Dilley, Christopher Knowles, Michael McClard, Rita Myers, Alexis Smith, Robert Wilson, Robin WintersSummer 1976: Bas Jan Ader, Diego Cortez, Coleen Fitzgibbon, Meredith Monk, Jim Roche, Reiner Ruthenbeck", "Title from cover of Fall 1970.", "A case of 13 volumes of the art journal Avalanche, originally published from 1970 to 1976.", "\"Edited by Liza Béar and Willoughby Sharp\"--Back of case.", "Facsimile ed. of Avalanche periodical which was originally edited by Liza Bear and Willoughby Sharp, and published 1970-1976; issues 1-8 are individually printed while issues 9-13 are gathered in a single newsprint-style paperback." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990033400600107871" ],
+        "recordid" : [ "alma990033400600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003340060-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Béar", "Sharp" ],
+        "aufirst" : [ "Liza.", "Willoughby" ],
+        "auinit" : [ "L", "W" ],
+        "addau" : [ "Béar, Liza.", "Sharp, Willoughby" ],
+        "contributorfull" : [ "$$NBéar, Liza.$$LBéar$$FLiza.$$Rcontributor", "$$NSharp, Willoughby$$Rcontributor" ],
+        "addtitle" : [ "Avalanche, 1970-1976" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9780978869748", "0978869745" ],
+        "cop" : [ "S.l" ],
+        "pub" : [ "Primary Information" ],
+        "oclcid" : [ "(ocolc)495780285" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Avalanche." ]
+      },
+      "sort" : {
+        "title" : [ "Avalanche." ],
+        "author" : [ "Béar, Liza." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990033400600107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990033400600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0978869745,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n 1ǂ a95 2010",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "50",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "270",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 293,
+    "COMBINED_SEARCH_TIME" : 296,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Béar Liza",
+      "count" : "1"
+    }, {
+      "value" : "Sharp Willoughby",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7874–112295960007874",
+      "count" : "1"
+    }, {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7874",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

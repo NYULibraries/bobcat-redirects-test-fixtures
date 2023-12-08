@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990087951440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Skills of a successful software engineer " ],
+        "subject" : [ "Software engineering -- Vocational guidance", "Génie logiciel -- Orientation professionnelle" ],
+        "format" : [ "1 online resource (192 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V1617299707;$$CISBN$$V9781638350644;$$CISBN$$V1638350647;$$COCLC$$V(OCoLC)1337561024;$$CISBN$$V9781617299704" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Doglio, Fernando, author.$$QDoglio, Fernando" ],
+        "publisher" : [ "Shelter Island, NY : Manning Publications" ],
+        "description" : [ "Skills of a Successful Software Engineer is a best practices guide for succeeding on a software development team. The book reveals how to optimize both your code and your career, from achieving a good work-life balance to writing the kind of bug-free code delivered by pros. You’ll master essential skills that you might not have learned as a solo coder, including meaningful code commenting, unit testing, and using refactoring to speed up feature delivery. Timeless advice on acing interviews and setting yourself up for leadership will help you throughout your career. Crack open this one-of-a-kind guide, and you’ll soon be working in the professional manner that software managers expect." ],
+        "mms" : [ "990087951440107871" ],
+        "edition" : [ "[First edition]." ],
+        "contents" : [ "Becoming a successful software engineer -- Writing code everyone can read -- Unit testing: delivering code that works -- Refactoring existing code (or Refactoring doesn't mean rewriting code) -- Tackling the personal side of coding -- Interviewing for your place on the team -- Working as part of a team -- Understanding team leadership." ],
+        "relation" : [ "$$Cform$$VPrint version: Doglio, Fernando Skills of a Successful Software Engineer New York : Manning Publications Co. LLC,c2022$$QSkills of a Successful Software Engineer", "$$Cform$$VSkills of a successful software engineer$$Z9995873667107871" ],
+        "place" : [ "Shelter Island, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "skillit", "aleph008795144" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990087951440107871" ],
+        "recordid" : [ "alma990087951440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008795144-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Doglio" ],
+        "aufirst" : [ "Fernando" ],
+        "auinit" : [ "F" ],
+        "au" : [ "Doglio, Fernando" ],
+        "creatorfull" : [ "$$NDoglio, Fernando$$LDoglio$$FFernando$$Rauthor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "1617299707", "9781638350644", "1638350647", "9781617299704" ],
+        "abstract" : [ "Skills of a Successful Software Engineer is a best practices guide for succeeding on a software development team. The book reveals how to optimize both your code and your career, from achieving a good work-life balance to writing the kind of bug-free code delivered by pros. You’ll master essential skills that you might not have learned as a solo coder, including meaningful code commenting, unit testing, and using refactoring to speed up feature delivery. Timeless advice on acing interviews and setting yourself up for leadership will help you throughout your career. Crack open this one-of-a-kind guide, and you’ll soon be working in the professional manner that software managers expect." ],
+        "cop" : [ "Shelter Island, NY" ],
+        "pub" : [ "Manning Publications" ],
+        "oclcid" : [ "(ocolc)1337561024" ],
+        "edition" : [ "[First edition]." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Skills of a successful software engineer" ]
+      },
+      "sort" : {
+        "title" : [ "Skills of a successful software engineer /" ],
+        "author" : [ "Doglio, Fernando, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087951440107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087951440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087951440107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087951440107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1638350647,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.758",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "285",
+    "CALL_SOLR_GET_IDS_LIST" : "124",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "190",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "76",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "160",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "30",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "683",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 719,
+    "COMBINED_SEARCH_TIME" : 722,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Génie Logiciel Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Software Engineering Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Doglio Fernando",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

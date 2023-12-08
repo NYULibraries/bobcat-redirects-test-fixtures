@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995633500707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "fre" ],
+        "title" : [ "Monde (Paris, France)" ],
+        "subject" : [ "Paris (France)$$QParis (France) -- Newspapers", "French newspapers -- France -- Paris", "Journaux français -- France -- Paris", "French newspapers", "France -- Paris", "Zeitung", "Frankreich" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2011267057;$$CISSN$$V1950-6244;$$COCLC$$V(OCoLC)137349884;$$CISSN$$V0395-2037" ],
+        "creationdate" : [ "1944" ],
+        "publisher" : [ "Paris : Imp. sp. du \"Monde\"", "Began with 1. année, no 1 (19 déc. 1944)." ],
+        "mms" : [ "9995633500707871" ],
+        "frequency" : [ "Daily (combined Sunday/Monday issue)" ],
+        "genre" : [ "Periodicals", "newspapers", "Newspapers", "Journaux" ],
+        "relation" : [ "$$Ccomplete_edition$$VLe Monde. Sélection hebdomadaire$$QLe Monde. Sélection hebdomadaire", "$$Cearlier_title$$V", "Temps (Paris. 1861)$$Q", "Temps (Paris. 1861)$$Z9995638805007871", "$$Cform$$VLink to related record$$Z990021656490107871", "$$Csupp_parent$$VLe Monde des Livres$$QLe Monde des Livres", "$$Csupplement$$VLe Monde Dossiers et Documents$$QLe Monde Dossiers et Documents", "$$Csupplement$$VM Le Magazine du Monde$$QM Le Magazine du Monde", "$$Csupplement$$V", "Monde diplomatique$$Q", "Monde diplomatique" ],
+        "mesh" : [ "Periodical" ],
+        "unititle" : [ "Monde (Paris, France)" ],
+        "place" : [ "Paris :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978979778907" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995633500707871" ],
+        "recordid" : [ "alma9995633500707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978979778907" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "LE MONDE ECONOMIE", "Le Monde des Livres", "Monde (En ligne)" ],
+        "date" : [ "1944" ],
+        "issn" : [ "1950-6244", "0395-2037" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "Imp. sp. du \"Monde\"" ],
+        "oclcid" : [ "(ocolc)137349884" ],
+        "lccn" : [ "2011267057" ],
+        "btitle" : [ "Monde (Paris, France)" ]
+      },
+      "sort" : {
+        "title" : [ "Monde (Paris, France)" ],
+        "creationdate" : [ "1944" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633500707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633500707871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633500707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633500707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633500707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2011267057&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dc\"701ǂ m66",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "218",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "395",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "51",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "35",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "360",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "772",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 811,
+    "COMBINED_SEARCH_TIME" : 814,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1944",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "France Paris",
+      "count" : "1"
+    }, {
+      "value" : "Frankreich",
+      "count" : "1"
+    }, {
+      "value" : "French Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "French Newspapers France Paris",
+      "count" : "1"
+    }, {
+      "value" : "Journaux Français France Paris",
+      "count" : "1"
+    }, {
+      "value" : "Paris France Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "Zeitung",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

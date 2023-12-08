@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995614731807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "ger;eng" ],
+        "title" : [ "Archäologischer Anzeiger." ],
+        "subject" : [ "Antiquities", "Archaeology", "Classical antiquities", "Middle East", "Archaeology$$QArchaeology -- Periodicals", "Classical antiquities$$QClassical antiquities -- Periodicals", "Middle East -- Antiquities$$QMiddle East -- Antiquities -- Periodicals" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V2510-4713;$$CISSN$$V0003-8105" ],
+        "creationdate" : [ "1849-1918" ],
+        "publisher" : [ "Wiesbaden : Reichert Verlag", "Began with no. 1 (Januar 1849)." ],
+        "mms" : [ "9995614731807871" ],
+        "contributor" : [ "Deutsches Archäologisches Institut, issuing body.$$QDeutsches Archäologisches Institut" ],
+        "addtitle" : [ "AA", "Jahrbuch des Kaiserlich Deutschen Archäologischen Instituts.", "Jahrbuch des Deutschen Archäologischen Instituts." ],
+        "frequency" : [ "Two no. a year, 2002-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990028877930107871", "$$Clater_title$$VJahresbericht des Deutschen Archäologischen Instituts$$QJahresbericht des Deutschen Archäologischen Instituts$$Z9995746478707871", "$$Csupp_parent$$VJahrbuch des Deutschen Archäologischen Instituts$$QJahrbuch des Deutschen Archäologischen Instituts", "$$Csupp_parent$$VJahrbuch des Kaiserlich Deutschen Archäologischen Instituts$$QJahrbuch des Kaiserlich Deutschen Archäologischen Instituts$$Z9995732075807871" ],
+        "place" : [ "Wiesbaden :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978976471477" ],
+        "lds60" : [ "Volumes for <1962-> include the <1961-> annual report of the Deutsches Archäologisches Institut." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995614731807871" ],
+        "recordid" : [ "alma9995614731807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978976471477" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ARCHAEOLOGISCHER ANZEIGER", "ARCHAEOL ANZ", "Archäol. Anz." ],
+        "addtitle" : [ "AA" ],
+        "date" : [ "1849", "1849-1918" ],
+        "issn" : [ "2510-4713", "0003-8105" ],
+        "cop" : [ "Berlin" ],
+        "pub" : [ "G. Reimer" ],
+        "oclcid" : [ "(de-599)zdb2752050-x", "(ckb)110978976471477", "(conser)---86644876-" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Archäologischer Anzeiger." ]
+      },
+      "sort" : {
+        "title" : [ "Archäologischer Anzeiger." ],
+        "author" : [ "Deutsches Archäologisches Institut, issuing body." ],
+        "creationdate" : [ "1849" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614731807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614731807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614731807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614731807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614731807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "cc 5ǂ a74",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "304",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "83",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "80",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "50",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "542",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 565,
+    "COMBINED_SEARCH_TIME" : 569,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "ger",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1849",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Antiquities",
+      "count" : "1"
+    }, {
+      "value" : "Archaeology",
+      "count" : "1"
+    }, {
+      "value" : "Archaeology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Classical Antiquities",
+      "count" : "1"
+    }, {
+      "value" : "Classical Antiquities Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Middle East",
+      "count" : "1"
+    }, {
+      "value" : "Middle East Antiquities Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Deutsches Archäologisches Institut",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

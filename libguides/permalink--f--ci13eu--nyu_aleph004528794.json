@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045287940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The African repository and colonial journal." ],
+        "subject" : [ "African Americans -- Colonization -- Africa$$QAfrican Americans -- Colonization -- Africa -- Periodicals", "Slavery -- United States$$QSlavery -- United States -- Periodicals", "Liberia$$QLiberia -- Periodicals", "African Americans -- Colonization", "Slavery", "Africa", "Liberia", "United States" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2008233057;$$COCLC$$V(OCoLC)55945435;$$CISSN$$V2154-851X" ],
+        "creationdate" : [ "1825-1850" ],
+        "publisher" : [ "Washington City : American Colonization Society", "Vol. 1, no. 1 (Mar. 1825)-v. 26, no. 8 (Aug. 1850)." ],
+        "mms" : [ "990045287940107871" ],
+        "contributor" : [ "American Colonization Society.$$QAmerican Colonization Society." ],
+        "addtitle" : [ "Some providers list under title: African repository", "Colonial journal" ],
+        "frequency" : [ "Monthly, Mar. 1842-Aug. 1850" ],
+        "genre" : [ "Antislavery periodicals", "African American periodicals", "Periodicals", "Printed wrappers (Binding)" ],
+        "relation" : [ "$$Cearlier_title$$VChristian statesman (Washington, D.C. : Online) Aug. 1839$$QChristian statesman (Washington, D.C. : Online)", "$$Cearlier_title$$VColonization herald (Online) Aug. 1839$$QColonization herald (Online)", "$$Cform$$VPrint version: African repository and colonial journal$$QAfrican repository and colonial journal", "$$Clater_title$$VAfrican repository (Online)$$QAfrican repository (Online)" ],
+        "place" : [ "Washington City :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galeprim", "aleph004528794" ],
+        "lds60" : [ "Title from pdf caption (ProQuest APS Online, viewed Jan. 7, 2008)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045287940107871" ],
+        "recordid" : [ "alma990045287940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004528794-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "African repository", "Colonial journal" ],
+        "date" : [ "1825 - 1850", "1825-1850" ],
+        "issn" : [ "2154-851X" ],
+        "cop" : [ "Washington City" ],
+        "pub" : [ "American Colonization Society" ],
+        "oclcid" : [ "(ocolc)55945435" ],
+        "lccn" : [ "2008233057" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The African repository and colonial journal." ]
+      },
+      "sort" : {
+        "title" : [ "African repository and colonial journal." ],
+        "author" : [ "American Colonization Society." ],
+        "creationdate" : [ "1825" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045287940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008233057&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"448",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "64",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "45",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "26",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "293",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 318,
+    "COMBINED_SEARCH_TIME" : 320,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1825",
+      "count" : "1"
+    }, {
+      "value" : "1850",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Colonization",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Colonization Africa Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Liberia",
+      "count" : "1"
+    }, {
+      "value" : "Liberia Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Slavery",
+      "count" : "1"
+    }, {
+      "value" : "Slavery United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Colonization Society",
+      "count" : "1"
+    } ]
+  } ]
+}

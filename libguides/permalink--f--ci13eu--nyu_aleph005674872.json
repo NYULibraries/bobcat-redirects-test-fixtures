@@ -1,0 +1,274 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056748720107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Costume in performance : materiality, culture, and the body " ],
+        "subject" : [ "Costume -- History", "ART -- Performance", "DESIGN -- Fashion", "PERFORMING ARTS -- Theater -- Miming", "Costume" ],
+        "format" : [ "xxv, 238 pages : illustrations ; 26 cm" ],
+        "identifier" : [ "$$CLC$$V2016043616;$$CISBN$$V9780857855107;$$CISBN$$V0857855107;$$CISBN$$V9781474236874;$$CISBN$$V1474236871;$$COCLC$$V(OCoLC)957546103" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Barbieri, Donatella, author.$$QBarbieri, Donatella" ],
+        "publisher" : [ "London ; New York, NY : Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc" ],
+        "description" : [ "\"This beautifully illustrated book conveys the centrality of costume to live performance. Finding associations between contemporary practices and historical manifestations, costume is explored in six thematic chapters, examining the transformative ritual of costuming; choruses as reflective of society; the grotesque, transgressive costume; the female sublime as emancipation; costume as sculptural art in motion; and the here-and-now as history. Viewing the material costume as a crucial aspect in the preparation, presentation and reception of live performance, the book brings together costumed performances through history. These range from ancient Greece to modern experimental productions, from medieval theatre to modernist dance, from the 'fashion plays' to contemporary Shakespeare, marking developments in both culture and performance. Revealing the relationship between dress, the body and human existence, and acknowledging a global as well as an Anglo and Eurocentric perspective, this book shows costume's ability to cross both geographical and disciplinary borders. Through it, we come to question the extent to which the material costume actually co-authors the performance itself, speaking of embodied histories, states of being and never-before imagined futures, which come to life in the temporary space of the performance. With a contribution by Melissa Trimingham, University of Kent, UK\"-- Provided by publisher." ],
+        "mms" : [ "990056748720107871" ],
+        "contents" : [ "Machine generated contents note: -- Preface Introduction -- 1 The First Costume: Ritual and Reinvention -- 2 Costuming Choruses: Spectacle and the Social Landscape on Stage -- 3 The Grotesque Costume: The Comical and Conflicted 'Other' Body -- 4 The Flight off the Pedestal -- 5 Agency and Empathy: Artists Touch the Body -- 6 A Different Performativity: Society, Culture and History on Stage Notes -- Selected Bibliography -- Index." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VCostume in performance : materiality, culture, and the body$$Z990088703730107871", "$$Cform$$VCostume in performance : materiality, culture, and the body$$Z990090349070107871", "$$Cform$$VCostume in performance : materiality, culture, and the body$$Z9995671642307871" ],
+        "place" : [ "London ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005674872" ],
+        "lds53" : [ "005674872" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056748720107871" ],
+        "recordid" : [ "alma990056748720107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005674872-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Barbieri" ],
+        "aufirst" : [ "Donatella" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Barbieri, Donatella" ],
+        "creatorfull" : [ "$$NBarbieri, Donatella$$LBarbieri$$FDonatella$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9780857855107", "0857855107", "9781474236874", "1474236871" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This beautifully illustrated book conveys the centrality of costume to live performance. Finding associations between contemporary practices and historical manifestations, costume is explored in six thematic chapters, examining the transformative ritual of costuming; choruses as reflective of society; the grotesque, transgressive costume; the female sublime as emancipation; costume as sculptural art in motion; and the here-and-now as history. Viewing the material costume as a crucial aspect in the preparation, presentation and reception of live performance, the book brings together costumed performances through history. These range from ancient Greece to modern experimental productions, from medieval theatre to modernist dance, from the 'fashion plays' to contemporary Shakespeare, marking developments in both culture and performance. Revealing the relationship between dress, the body and human existence, and acknowledging a global as well as an Anglo and Eurocentric perspective, this book shows costume's ability to cross both geographical and disciplinary borders. Through it, we come to question the extent to which the material costume actually co-authors the performance itself, speaking of embodied histories, states of being and never-before imagined futures, which come to life in the temporary space of the performance. With a contribution by Melissa Trimingham, University of Kent, UK\"-- Provided by publisher." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc" ],
+        "oclcid" : [ "(ocolc)957546103" ],
+        "lccn" : [ "2016043616" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Costume in performance : materiality, culture, and the body" ]
+      },
+      "sort" : {
+        "title" : [ "Costume in performance : materiality, culture, and the body /" ],
+        "author" : [ "Barbieri, Donatella, author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990056748720107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990056748720107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990056748720107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990056748720107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0857855107,OCLC:,LCCN:2016043616&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2067ǂ b23 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "409",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "89",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "9",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "635",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 660,
+    "COMBINED_SEARCH_TIME" : 663,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Performance",
+      "count" : "1"
+    }, {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Costume History",
+      "count" : "1"
+    }, {
+      "value" : "Design Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater Miming",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barbieri Donatella",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990030893790107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Gorillas in the mist the story of Dian Fossey " ],
+        "subject" : [ "Fossey, Dian$$QFossey, Dian -- Drama", "Zoologists -- United States$$QZoologists -- United States -- Drama", "Gorilla -- Behavior$$QGorilla -- Behavior -- Drama", "Feature films" ],
+        "format" : [ "1 videodisc (130 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CISBN$$V0783233523;$$CISBN$$V9780783233529;$$CPUBNUM$$V20421;$$COCLC$$V(OCoLC)41631744" ],
+        "creationdate" : [ "1999, c1988" ],
+        "publisher" : [ "Universal City, CA : Universal" ],
+        "description" : [ "Based on the true story of young anthropologist Dian Fossey who travels to the African mountains to study the rare gorillas." ],
+        "mms" : [ "990030893790107871" ],
+        "contributor" : [ "Weaver, Sigourney, 1949-$$QWeaver, Sigourney", "Brown, Bryan, 1955-$$QBrown, Bryan", "Harris, Julie, 1925-2013.$$QHarris, Julie", "Apted, Michael.$$QApted, Michael.", "Phelan, Anna Hamilton.$$QPhelan, Anna Hamilton.", "Murphy, Tab.$$QMurphy, Tab.", "Fossey, Dian.$$QFossey, Dian.", "Hayes, Harold.$$QHayes, Harold.", "Warner Bros.$$QWarner Bros.", "Universal Pictures Corporation.$$QUniversal Pictures Corporation." ],
+        "addtitle" : [ "Story of Dian Fossey", "Subtitle on disc and container: Adventure of Dian Fossey" ],
+        "genre" : [ "Drama", "Video recordings for the hearing impaired" ],
+        "place" : [ "Universal City, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003089379" ],
+        "lds53" : [ "003089379" ],
+        "lds60" : [ "Based on the work by Dian Fossey, and the article by Harold T.P. Hayes.", "Originally produced as a motion picture in 1988.", "Widescreen.", "Bonus material: featurette ; production notes ; cast and filmmakers information ; theatrical trailer." ],
+        "lds64" : [ "Director of photography, John Seale ; editef by Stuart Baird ; original music by Maurice Jarre." ],
+        "lds65" : [ "Sigourney Weaver, Bryan Brown, Julie Harris." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990030893790107871" ],
+        "recordid" : [ "alma990030893790107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003089379-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Weaver", "Brown", "Harris", "Apted", "Phelan", "Murphy", "Fossey", "Hayes" ],
+        "aufirst" : [ "Sigourney", "Bryan", "Julie", "Michael.", "Anna Hamilton.", "Tab.", "Dian.", "Harold." ],
+        "auinit" : [ "S", "B", "J", "M", "A", "T", "D", "H" ],
+        "addau" : [ "Weaver, Sigourney", "Brown, Bryan", "Harris, Julie", "Apted, Michael.", "Phelan, Anna Hamilton.", "Murphy, Tab.", "Fossey, Dian.", "Hayes, Harold." ],
+        "contributorfull" : [ "$$NWeaver, Sigourney$$LWeaver$$FSigourney$$Rcontributor", "$$NBrown, Bryan$$Rcontributor", "$$NHarris, Julie$$Rcontributor", "$$NApted, Michael.$$Rcontributor", "$$NPhelan, Anna Hamilton.$$Rcontributor", "$$NMurphy, Tab.$$Rcontributor", "$$NFossey, Dian.$$Rcontributor", "$$NHayes, Harold.$$Rcontributor" ],
+        "addtitle" : [ "Story of Dian Fossey", "Adventure of Dian Fossey" ],
+        "date" : [ "1999 - 1988", "1999, c1988" ],
+        "isbn" : [ "0783233523", "9780783233529" ],
+        "abstract" : [ "Based on the true story of young anthropologist Dian Fossey who travels to the African mountains to study the rare gorillas." ],
+        "cop" : [ "Universal City, CA" ],
+        "pub" : [ "Universal" ],
+        "oclcid" : [ "(ocolc)41631744" ],
+        "upcid" : [ "025192042126" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Gorillas in the mist the story of Dian Fossey" ]
+      },
+      "sort" : {
+        "title" : [ "Gorillas in the mist the story of Dian Fossey /" ],
+        "author" : [ "Weaver, Sigourney, 1949-" ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990030893790107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780783233529,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ql\"737 p96ǂ f671 1999",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "20",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 327,
+    "COMBINED_SEARCH_TIME" : 329,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1988",
+      "count" : "1"
+    }, {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Feature Films",
+      "count" : "1"
+    }, {
+      "value" : "Fossey Dian Drama",
+      "count" : "1"
+    }, {
+      "value" : "Gorilla Behavior Drama",
+      "count" : "1"
+    }, {
+      "value" : "Zoologists United States Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Apted Michael",
+      "count" : "1"
+    }, {
+      "value" : "Brown Bryan",
+      "count" : "1"
+    }, {
+      "value" : "Fossey Dian",
+      "count" : "1"
+    }, {
+      "value" : "Harris Julie",
+      "count" : "1"
+    }, {
+      "value" : "Hayes Harold",
+      "count" : "1"
+    }, {
+      "value" : "Murphy Tab",
+      "count" : "1"
+    }, {
+      "value" : "Phelan Anna Hamilton",
+      "count" : "1"
+    }, {
+      "value" : "Universal Pictures Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Warner Bros",
+      "count" : "1"
+    }, {
+      "value" : "Weaver Sigourney",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,249 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062487880107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng;spa;por" ],
+        "title" : [ "Latin American women writers." ],
+        "subject" : [ "Latin American literature -- Women authors$$QLatin American literature -- Women authors -- Databases", "Latin American literature -- Women authors", "Littérature$$QLittérature -- Bases de données", "Comparative Literature", "Gender & Sexuality Studies", "Latin American and Caribbean Studies", "Spanish & Portuguese Language & Literature", "Theatre" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2009238962;$$COCLC$$V(OCoLC)60857356" ],
+        "creationdate" : [ "2006-2021" ],
+        "publisher" : [ "Alexandria, Virginia : Alexander Street Press", "Began in 2006?" ],
+        "description" : [ "\"Latin American Women Writers is an extensive searchable collection of prose, poetry, and drama composed by women writing in Mexico, Central America, and South America. Also included are essays by Latin American feminists and revolutionaries, who address both the universal concerns of women in every age and the distinctive issues of their struggles in the region\"--Home page.", "Latin American Women Writers is a searchable collection of prose, poetry, and drama composed by women writing in Mexico, Central America, the Caribbean, and South America. It also includes essays by Latin American feminists that address the concerns of women broadly as well as the distinctive issues pertaining to women's struggles in the region. -- Description from NYU Libraries." ],
+        "mms" : [ "990062487880107871" ],
+        "contributor" : [ "ProQuest (Firm), issuing body.$$QProQuest (Firm)", "Alexander Street Press, issuing body.$$QAlexander Street Press", "University of Chicago, contributor.$$QUniversity of Chicago" ],
+        "addtitle" : [ "Also known as: LAWW" ],
+        "genre" : [ "Bases de données", "Electronic reference sources", "Databases", "Literature" ],
+        "place" : [ "Alexandria, Virginia :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006248788" ],
+        "lds60" : [ "\"Produced in collaboration with the University of Chicago.\"" ],
+        "lds63" : [ "Access restricted to subscribers." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062487880107871" ],
+        "recordid" : [ "alma990062487880107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006248788-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "LAWW" ],
+        "date" : [ "2006", "2006-2021" ],
+        "abstract" : [ "\"Latin American Women Writers is an extensive searchable collection of prose, poetry, and drama composed by women writing in Mexico, Central America, and South America. Also included are essays by Latin American feminists and revolutionaries, who address both the universal concerns of women in every age and the distinctive issues of their struggles in the region\"--Home page.", "Latin American Women Writers is a searchable collection of prose, poetry, and drama composed by women writing in Mexico, Central America, the Caribbean, and South America. It also includes essays by Latin American feminists that address the concerns of women broadly as well as the distinctive issues pertaining to women's struggles in the region. -- Description from NYU Libraries." ],
+        "cop" : [ "Alexandria, Virginia" ],
+        "pub" : [ "Alexander Street Press" ],
+        "oclcid" : [ "(ocolc)60857356" ],
+        "lccn" : [ "2009238962" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "Latin American women writers." ]
+      },
+      "sort" : {
+        "title" : [ "Latin American women writers." ],
+        "author" : [ "ProQuest (Firm), issuing body." ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487880107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487880107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487880107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2009238962&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#7083ǂ l37",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "85",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "21",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "24",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "287",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 315,
+    "COMBINED_SEARCH_TIME" : 318,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "por",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Comparative Literature",
+      "count" : "1"
+    }, {
+      "value" : "Gender Sexuality Studies",
+      "count" : "1"
+    }, {
+      "value" : "Latin American And Caribbean Studies",
+      "count" : "1"
+    }, {
+      "value" : "Latin American Literature Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "Latin American Literature Women Authors Databases",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Bases De Données",
+      "count" : "1"
+    }, {
+      "value" : "Spanish Portuguese Language Literature",
+      "count" : "1"
+    }, {
+      "value" : "Theatre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Alexander Street Press",
+      "count" : "1"
+    }, {
+      "value" : "Proquest Firm",
+      "count" : "1"
+    }, {
+      "value" : "University Of Chicago",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

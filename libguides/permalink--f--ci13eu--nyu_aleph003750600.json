@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037506000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The archival records of the African slave trade to Mexico at Santiago el Pescador, 1692-1799 " ],
+        "subject" : [ "Slave trade -- Mexico -- Tamiahua -- History$$QSlave trade -- Mexico -- Tamiahua -- History -- Sources", "Slavery -- Mexico -- Tamiahua -- History$$QSlavery -- Mexico -- Tamiahua -- History -- Sources", "Blacks -- Mexico -- Tamiahua -- History$$QBlacks -- Mexico -- Tamiahua -- History -- Sources", "Tamiahua (Mexico) -- History$$QTamiahua (Mexico) -- History -- Sources", "Cathedrals -- Mexico -- Tamiahua" ],
+        "format" : [ "i, 93 p. : chiefly fasims. ; 27 cm." ],
+        "identifier" : [ "$$CLC$$V2012955250;$$CISBN$$V9780773440906 (pbk.);$$CISBN$$V0773440909 (pbk.)" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Hall, Raymond A.$$QHall, Raymond A." ],
+        "publisher" : [ "Lewiston, N.Y. : The Edwin Mellen Pess" ],
+        "description" : [ "\"The author has made available to the public a reproduction of the archives from the Santiago el Pescador Cathedral in Tamiahua, Veracruz, Mexico. This will allow scholars to examine the hitherto largely ignored African legacy of the Mexican people and the Afromestizo population, particularly in the state of Veracruz.\"--http://books.google.com/books/about/The_Archival_Records_of_the_African_Slav.html?id=WTeRkQEACAAJ.", "\"These records were lost forever due to a hurricane that hit Tamiahua, Mexico shortly after they were transcribed. The records of the slave trade in Mexico were sparse, but the author has compiled as much information as was there before it was destroyed. These are archival records tracking the slave trade in Tamiahua, Mexico. It documents the early stages of slavery in Mexico which due to the introduction of new diseases brought a significant reduction in the indigenous population. The eventual effects of the population shortages combined with other negative aspects of the conquest caused the Spanish to look elsewhere to supplement their labor force and maintain productivity, which included importing slaves.\"--http://www.amazon.com/books/dp/0773440909." ],
+        "mms" : [ "990037506000107871" ],
+        "addtitle" : [ "Records of the African slave trade to Mexico at Santiago el Pescador, 1692-1799", "Santiago el Pescador, 1692-1799" ],
+        "genre" : [ "Sources" ],
+        "place" : [ "Lewiston, N.Y. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003750600" ],
+        "lds53" : [ "003750600" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037506000107871" ],
+        "recordid" : [ "alma990037506000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003750600-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hall" ],
+        "aufirst" : [ "Raymond A." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Hall, Raymond A." ],
+        "creatorfull" : [ "$$NHall, Raymond A.$$LHall$$FRaymond A.$$Rauthor" ],
+        "addtitle" : [ "Records of the African slave trade to Mexico at Santiago el Pescador, 1692-1799", "Santiago el Pescador, 1692-1799" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780773440906", "0773440909" ],
+        "notes" : [ "Includes bibliographical references (p. 92) and index." ],
+        "abstract" : [ "\"The author has made available to the public a reproduction of the archives from the Santiago el Pescador Cathedral in Tamiahua, Veracruz, Mexico. This will allow scholars to examine the hitherto largely ignored African legacy of the Mexican people and the Afromestizo population, particularly in the state of Veracruz.\"--http://books.google.com/books/about/The_Archival_Records_of_the_African_Slav.html?id=WTeRkQEACAAJ.", "\"These records were lost forever due to a hurricane that hit Tamiahua, Mexico shortly after they were transcribed. The records of the slave trade in Mexico were sparse, but the author has compiled as much information as was there before it was destroyed. These are archival records tracking the slave trade in Tamiahua, Mexico. It documents the early stages of slavery in Mexico which due to the introduction of new diseases brought a significant reduction in the indigenous population. The eventual effects of the population shortages combined with other negative aspects of the conquest caused the Spanish to look elsewhere to supplement their labor force and maintain productivity, which included importing slaves.\"--http://www.amazon.com/books/dp/0773440909." ],
+        "cop" : [ "Lewiston, N.Y" ],
+        "pub" : [ "The Edwin Mellen Pess" ],
+        "lccn" : [ "2012955250" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The archival records of the African slave trade to Mexico at Santiago el Pescador, 1692-1799" ]
+      },
+      "sort" : {
+        "title" : [ "archival records of the African slave trade to Mexico at Santiago el Pescador, 1692-1799 /" ],
+        "author" : [ "Hall, Raymond A." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990037506000107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0773440909,OCLC:,LCCN:2012955250&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht#1054 t36ǂh355 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "54",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "50",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "338",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 369,
+    "COMBINED_SEARCH_TIME" : 372,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Blacks Mexico Tamiahua History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Cathedrals Mexico Tamiahua",
+      "count" : "1"
+    }, {
+      "value" : "Slave Trade Mexico Tamiahua History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Slavery Mexico Tamiahua History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Tamiahua Mexico History Sources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hall Raymond A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

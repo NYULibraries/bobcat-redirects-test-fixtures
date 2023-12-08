@@ -1,0 +1,267 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995639573307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Higher education management and policy (Online)" ],
+        "subject" : [ "Universities and colleges -- Administration$$QUniversities and colleges -- Administration -- Periodicals", "Universities and colleges -- Administration", "Administration scolaire", "Enseignement supérieur", "Politique éducative", "Education" ],
+        "identifier" : [ "$$CLC$$V  2006264553;$$CISSN$$V1726-9822;$$COCLC$$V(OCoLC)49827891;$$CISSN$$V1682-3451" ],
+        "creationdate" : [ "©2002-" ],
+        "publisher" : [ "Paris : OECD", "Vol. 14, no. 1 (2002)-" ],
+        "mms" : [ "9995639573307871" ],
+        "contributor" : [ "Programme on Institutional Management in Higher Education.$$QProgramme on Institutional Management in Higher Education." ],
+        "frequency" : [ "Three times a year" ],
+        "series" : [ "Education and skills$$QEducation and skills", "Education and skills.$$QEducation and skills." ],
+        "genre" : [ "Periodicals", "Périodique électronique (Descripteur de forme)", "Ressource internet (Descripteur de forme)" ],
+        "relation" : [ "$$Cearlier_title$$VHigher education management$$QHigher education management$$Z9995636301007871", "$$Cform$$VLink to related record$$Z990007820370107871", "$$Csub_series$$VHigher Education Management and Policy, Volume 17 Issue 3 1-280-35767-3$$QHigher Education Management and Policy, Volume 17 Issue 3", "$$Csub_series$$VHigher Education Management and Policy, Volume 20 Issue 2 1-281-78446-X$$QHigher Education Management and Policy, Volume 20 Issue 2" ],
+        "unititle" : [ "Higher education management and policy (Online)" ],
+        "place" : [ "Paris :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)111024950809014" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from PDF title page (publisher website, viewed Mar. 30, 2006)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995639573307871" ],
+        "recordid" : [ "alma9995639573307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99111024950809014" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "HIGHER EDUCATION MANAGEMENT & POLICY", "High. educ. manag. policy (Online)" ],
+        "date" : [ "2002", "©2002-" ],
+        "issn" : [ "1726-9822", "1682-3451" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "OECD" ],
+        "oclcid" : [ "(ocolc)49827891" ],
+        "doi" : [ "10.1787/17269822" ],
+        "lccn" : [ "2006264553" ],
+        "seriestitle" : [ "Education and skills" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Higher education management and policy (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Higher education management and policy (Online)" ],
+        "author" : [ "Programme on Institutional Management in Higher Education." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639573307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2006264553&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb 1ǂ h638",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "231",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "101",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "24",
+    "RETRIVE_FROM_DB_RELATIONS" : "55",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "79",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "512",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 553,
+    "COMBINED_SEARCH_TIME" : 557,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Administration Scolaire",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Enseignement Supérieur",
+      "count" : "1"
+    }, {
+      "value" : "Politique Éducative",
+      "count" : "1"
+    }, {
+      "value" : "Universities And Colleges Administration",
+      "count" : "1"
+    }, {
+      "value" : "Universities And Colleges Administration Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Programme On Institutional Management In Higher Education",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

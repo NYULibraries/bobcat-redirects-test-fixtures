@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002836260107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Documents on British West Indian history, 1807-1833 : (select documents from the Public Record Office, London, England, relating to the colonies of Barbados, British Guiana, Jamaica, and Trinidad) " ],
+        "subject" : [ "West Indies, British -- History$$QWest Indies, British -- History -- Sources", "Slavery -- History$$QSlavery -- History -- Sources" ],
+        "format" : [ "xxii, 406 p. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$Va 55003881;$$COCLC$$V(OCoLC)1857499" ],
+        "creationdate" : [ "1952" ],
+        "creator" : [ "Williams, Eric Eustace, 1911-1981.$$QWilliams, Eric Eustace" ],
+        "publisher" : [ "Port-of-Spain : Trinidad Publishing" ],
+        "mms" : [ "990002836260107871" ],
+        "contributor" : [ "Great Britain. Public Record Office.$$QGreat Britain. Public Record Office.", "Historical Society of Trinidad and Tobago.$$QHistorical Society of Trinidad and Tobago.", "Research Institute for the Study of Man, former owner.$$QResearch Institute for the Study of Man" ],
+        "addtitle" : [ "At head of title : Historical Society of Trinidad and Tobago, in collaboration with Social Science Research Centre, University of Puerto Rico" ],
+        "genre" : [ "Sources" ],
+        "relation" : [ "$$Cform$$VDocuments on British West Indian history, 1807-1833 [microform].$$QDocuments on British West Indian history, 1807-1833" ],
+        "place" : [ "Port-of-Spain :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000283626" ],
+        "lds53" : [ "000283626" ],
+        "lds60" : [ "Includes index.", "Bobst copy from the collection of the Research Institute for the Study of Man." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002836260107871" ],
+        "recordid" : [ "alma990002836260107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000283626-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Williams" ],
+        "aufirst" : [ "Eric Eustace" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Williams, Eric Eustace" ],
+        "creatorfull" : [ "$$NWilliams, Eric Eustace$$LWilliams$$FEric Eustace$$Rauthor" ],
+        "addtitle" : [ "Historical Society of Trinidad and Tobago, in collaboration with Social Science Research Centre, University of Puerto Rico" ],
+        "date" : [ "1952" ],
+        "cop" : [ "Port-of-Spain" ],
+        "pub" : [ "Trinidad Publishing" ],
+        "oclcid" : [ "(ocolc)1857499" ],
+        "lccn" : [ "a 55003881" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Documents on British West Indian history, 1807-1833 : (select documents from the Public Record Office, London, England, relating to the colonies of Barbados, British Guiana, Jamaica, and Trinidad)" ]
+      },
+      "sort" : {
+        "title" : [ "Documents on British West Indian history, 1807-1833 : (select documents from the Public Record Office, London, England, relating to the colonies of Barbados, British Guiana, Jamaica, and Trinidad) /" ],
+        "author" : [ "Williams, Eric Eustace, 1911-1981." ],
+        "creationdate" : [ "1952" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002836260107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:a 55003881&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#2131ǂ w383 1952",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "74",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "8",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "255",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 292,
+    "COMBINED_SEARCH_TIME" : 294,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1952",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Slavery History Sources",
+      "count" : "1"
+    }, {
+      "value" : "West Indies British History Sources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Great Britain Public Record Office",
+      "count" : "1"
+    }, {
+      "value" : "Historical Society Of Trinidad And Tobago",
+      "count" : "1"
+    }, {
+      "value" : "Research Institute For The Study Of Man",
+      "count" : "1"
+    }, {
+      "value" : "Williams Eric Eustace",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

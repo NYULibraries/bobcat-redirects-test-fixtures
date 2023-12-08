@@ -1,0 +1,284 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990087309210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "I married a witch " ],
+        "subject" : [ "Smith, Thorne, 1892-1934$$QSmith, Thorne, 1892-1934 -- Film adaptations", "Smith, Thorne, 1892-1934", "Witches$$QWitches -- Drama", "Blessing and cursing$$QBlessing and cursing -- Drama", "Man-woman relationships$$QMan-woman relationships -- Drama", "Witches", "Man-woman relationships", "Blessing and cursing", "Motion pictures" ],
+        "format" : [ "1 online resource (1 video file, approximately 77 min.) : sound, black and white" ],
+        "identifier" : [ "$$CPUBNUM$$V1214685;$$COCLC$$V(OCoLC)956906140" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "San Francisco, California, USA : Kanopy Streaming" ],
+        "description" : [ "Veronica Lake casts a seductive spell as a charmingly vengeful sorceress in this supernatural screwball classic. Many centuries after cursing the male descendants of the Salem puritan who sent her to the stake, this blonde bombshell with a broomstick finds herself drawn to one of them--a prospective governor (Fredric March) about to marry a spoiled socialite (Susan Hayward). The most delightful of the films the innovative French director Rene Clair made in Hollywood, I Married a Witch is a comic confection bursting with playful special effects and sparkling witticisms." ],
+        "mms" : [ "990087309210107871" ],
+        "contributor" : [ "Clair, René, 1898-1981, film producer, film director.$$QClair, René", "Pirosh, Robert, screenwriter.$$QPirosh, Robert", "Connelly, Marc, 1890-1980, screenwriter.$$QConnelly, Marc", "March, Fredric, 1897-1975, actor.$$QMarch, Fredric", "Lake, Veronica, actor.$$QLake, Veronica", "Benchley, Robert, 1889-1945, actor.$$QBenchley, Robert", "Hayward, Susan, 1917-1975, actor.$$QHayward, Susan", "Tetzlaff, Ted, 1903-1995, cinematographer.$$QTetzlaff, Ted", "Webb, Roy, 1888-1982, composer (expression)$$QWebb, Roy", "Warren, Eda, film editor.$$QWarren, Eda", "Smith, Thorne, 1892-1934.$$QSmith, Thorne", "Matson, Norman, 1893-1965.$$QMatson, Norman", "Kanopy (Firm)$$QKanopy (Firm)", "United Artists Corporation, production company.$$QUnited Artists Corporation", "Cinema Guild, production company.$$QCinema Guild" ],
+        "genre" : [ "Film adaptations", "Drama", "Feature films" ],
+        "relatedwork" : [ "Smith, Thorne, 1892-1934. Passionate witch.$$QSmith, Thorne, 1892-1934. Passionate witch.", "Matson, Norman, 1893-1965. Passionate witch.$$QMatson, Norman, 1893-1965. Passionate witch." ],
+        "place" : [ "San Francisco, California, USA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "knpyvid", "aleph008730921" ],
+        "lds60" : [ "Title from title frames.", "Based upon a story by Thorne Smith / \"Passionate witch\" ; completed by Norman Matson." ],
+        "lds64" : [ "Director of photography, Ted Tetzlaff ; music score by Roy Webb ; edited by Eda Warren." ],
+        "lds65" : [ "Fredric March, Veronica Lake, Robert Benchley, Susan Hayward." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990087309210107871" ],
+        "recordid" : [ "alma990087309210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008730921-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clair", "Pirosh", "Connelly", "March", "Lake", "Benchley", "Hayward", "Tetzlaff", "Webb", "Warren", "Smith", "Matson" ],
+        "aufirst" : [ "René", "Marc", "Fredric", "Veronica", "Robert", "Susan", "Ted", "Roy", "Eda", "Thorne", "Norman" ],
+        "auinit" : [ "M", "F", "V", "S", "R", "E", "T", "N" ],
+        "addau" : [ "Clair, René", "Pirosh, Robert", "Connelly, Marc", "March, Fredric", "Lake, Veronica", "Benchley, Robert", "Hayward, Susan", "Tetzlaff, Ted", "Webb, Roy", "Warren, Eda", "Smith, Thorne", "Matson, Norman" ],
+        "contributorfull" : [ "$$NClair, René$$LClair$$FRené$$Rcontributor", "$$NPirosh, Robert$$Rcontributor", "$$NConnelly, Marc$$Rcontributor", "$$NMarch, Fredric$$Rcontributor", "$$NLake, Veronica$$Rcontributor", "$$NBenchley, Robert$$Rcontributor", "$$NHayward, Susan$$Rcontributor", "$$NTetzlaff, Ted$$Rcontributor", "$$NWebb, Roy$$Rcontributor", "$$NWarren, Eda$$Rcontributor", "$$NSmith, Thorne$$Rcontributor", "$$NMatson, Norman$$Rcontributor" ],
+        "date" : [ "2016 - 1942", "2016" ],
+        "abstract" : [ "Veronica Lake casts a seductive spell as a charmingly vengeful sorceress in this supernatural screwball classic. Many centuries after cursing the male descendants of the Salem puritan who sent her to the stake, this blonde bombshell with a broomstick finds herself drawn to one of them--a prospective governor (Fredric March) about to marry a spoiled socialite (Susan Hayward). The most delightful of the films the innovative French director Rene Clair made in Hollywood, I Married a Witch is a comic confection bursting with playful special effects and sparkling witticisms." ],
+        "cop" : [ "San Francisco, California, USA" ],
+        "pub" : [ "Kanopy Streaming" ],
+        "oclcid" : [ "(ocolc)956906140" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "I married a witch" ]
+      },
+      "sort" : {
+        "title" : [ "I married a witch /" ],
+        "author" : [ "Clair, René, 1898-1981, film producer, film director." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087309210107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087309210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087309210107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:956906140,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "108",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "64",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "30",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "383",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1942",
+      "count" : "1"
+    }, {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Blessing And Cursing",
+      "count" : "1"
+    }, {
+      "value" : "Blessing And Cursing Drama",
+      "count" : "1"
+    }, {
+      "value" : "Man Woman Relationships",
+      "count" : "1"
+    }, {
+      "value" : "Man Woman Relationships Drama",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Smith Thorne 1892 1934",
+      "count" : "1"
+    }, {
+      "value" : "Smith Thorne 1892 1934 Film Adaptations",
+      "count" : "1"
+    }, {
+      "value" : "Witches",
+      "count" : "1"
+    }, {
+      "value" : "Witches Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Benchley Robert",
+      "count" : "1"
+    }, {
+      "value" : "Cinema Guild",
+      "count" : "1"
+    }, {
+      "value" : "Clair René",
+      "count" : "1"
+    }, {
+      "value" : "Connelly Marc",
+      "count" : "1"
+    }, {
+      "value" : "Hayward Susan",
+      "count" : "1"
+    }, {
+      "value" : "Kanopy Firm",
+      "count" : "1"
+    }, {
+      "value" : "Lake Veronica",
+      "count" : "1"
+    }, {
+      "value" : "March Fredric",
+      "count" : "1"
+    }, {
+      "value" : "Matson Norman",
+      "count" : "1"
+    }, {
+      "value" : "Pirosh Robert",
+      "count" : "1"
+    }, {
+      "value" : "Smith Thorne",
+      "count" : "1"
+    }, {
+      "value" : "Tetzlaff Ted",
+      "count" : "1"
+    }, {
+      "value" : "United Artists Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Warren Eda",
+      "count" : "1"
+    }, {
+      "value" : "Webb Roy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

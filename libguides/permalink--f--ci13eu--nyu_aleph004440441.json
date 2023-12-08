@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990044404410107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of phenomenology " ],
+        "subject" : [ "Phenomenology$$QPhenomenology -- Encyclopedias", "Philosophers$$QPhilosophers -- Biography Encyclopedias", "Philosophes$$QPhilosophes -- Biographies Encyclopédies", "Phénoménologie$$QPhénoménologie -- Encyclopédies", "Phenomenology", "Philosophers", "Fenomenologie", "Phénoménologie", "Philosophe", "Philosophie" ],
+        "format" : [ "1 online resource (xiv, 764 pages)" ],
+        "identifier" : [ "$$CISBN$$V9789401588812;$$CISBN$$V9401588813;$$COCLC$$V(OCoLC)861705820;$$CISBN$$V0792329562" ],
+        "creationdate" : [ "1997" ],
+        "publisher" : [ "Dordrecht ; Boston : Kluwer Academic Publishers" ],
+        "description" : [ "The Encyclopedia of Phenomenology presents phenomenological thought and the phenomenological movement within philosophy and within more than a score of other disciplines on a level accessible to professional colleagues of other orientations as well as to advanced undergraduate and graduate students. Entries average 3,000 words. In practically all cases, they include lists of works `For Further Study'. The Introduction briefly chronicles the changing phenomenological agenda and compares phenomenology with other 20th Century movements. The 166 entries are about matters of seven sorts: the four broad tendencies and periods within the phenomenological movement; twenty-three national traditions of phenomenology; twenty-two philosophical sub-disciplines, including those referred to with the formula `the philosophy of x'; phenomenological tendencies within twenty-one non-philosophical disciplines; forty major phenomenological topics; twenty-eight leading phenomenological figures; and twenty-seven non-phenomenological figures and movements of interesting similarities and differences with phenomenology. Concerning persons, years of birth and death are given upon first mention in an entry of the names of deceased non-phenomenologists. The names of persons believed to be phenomenologists and also, for cross-referencing purposes, the titles of other entries are printed entirely in SMALL CAPITAL letters, also upon first mention. In addition, all words thus occurring in all small capital letters are listed in the index with the numbers of all pages on which they occur. To facilitate indexing, Chinese, Hungarian and Japanese names have been re-arranged so that the personal name precedes the family name. Concerning works referred to, the complete titles of books and articles are given in the original language or in a transliteration into Roman script, followed by literalistic translations and the year of original publication in parentheses or, where the date of composition is substantially earlier than that of publication, by the year of composition between brackets." ],
+        "mms" : [ "990044404410107871" ],
+        "contributor" : [ "Embree, Lester E.$$QEmbree, Lester E." ],
+        "series" : [ "Contributions to phenomenology ; v. 18.$$QContributions to phenomenology ", "Contributions to phenomenology ; volume 18$$QContributions to phenomenology " ],
+        "genre" : [ "Biography", "encyclopedias", "Encyclopedias", "Encyclopédie (Descripteur de forme)", "Encyclopédies", "Biographies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of phenomenology$$QEncyclopedia of phenomenology$$Z990012451960107871" ],
+        "mesh" : [ "Encyclopedia", "Biography" ],
+        "place" : [ "Dordrecht ; Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "sprnglnk", "aleph004440441" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990044404410107871" ],
+        "recordid" : [ "alma990044404410107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004440441-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Embree" ],
+        "aufirst" : [ "Lester E." ],
+        "auinit" : [ "L" ],
+        "addau" : [ "Embree, Lester E." ],
+        "contributorfull" : [ "$$NEmbree, Lester E.$$LEmbree$$FLester E.$$Rcontributor" ],
+        "date" : [ "1997" ],
+        "isbn" : [ "9789401588812", "9401588813", "0792329562" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The Encyclopedia of Phenomenology presents phenomenological thought and the phenomenological movement within philosophy and within more than a score of other disciplines on a level accessible to professional colleagues of other orientations as well as to advanced undergraduate and graduate students. Entries average 3,000 words. In practically all cases, they include lists of works `For Further Study'. The Introduction briefly chronicles the changing phenomenological agenda and compares phenomenology with other 20th Century movements. The 166 entries are about matters of seven sorts: the four broad tendencies and periods within the phenomenological movement; twenty-three national traditions of phenomenology; twenty-two philosophical sub-disciplines, including those referred to with the formula `the philosophy of x'; phenomenological tendencies within twenty-one non-philosophical disciplines; forty major phenomenological topics; twenty-eight leading phenomenological figures; and twenty-seven non-phenomenological figures and movements of interesting similarities and differences with phenomenology. Concerning persons, years of birth and death are given upon first mention in an entry of the names of deceased non-phenomenologists. The names of persons believed to be phenomenologists and also, for cross-referencing purposes, the titles of other entries are printed entirely in SMALL CAPITAL letters, also upon first mention. In addition, all words thus occurring in all small capital letters are listed in the index with the numbers of all pages on which they occur. To facilitate indexing, Chinese, Hungarian and Japanese names have been re-arranged so that the personal name precedes the family name. Concerning works referred to, the complete titles of books and articles are given in the original language or in a transliteration into Roman script, followed by literalistic translations and the year of original publication in parentheses or, where the date of composition is substantially earlier than that of publication, by the year of composition between brackets." ],
+        "cop" : [ "Dordrecht ;" ],
+        "pub" : [ "Kluwer Academic Publishers" ],
+        "oclcid" : [ "(ocolc)861705820" ],
+        "doi" : [ "10.1007/978-94-015-8881-2" ],
+        "seriestitle" : [ "Contributions to phenomenology ; volume 18" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of phenomenology" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of phenomenology /" ],
+        "author" : [ "Embree, Lester E." ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044404410107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9401588813,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b\"829.5ǂ e53 1997eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "156",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "94",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "384",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 421,
+    "COMBINED_SEARCH_TIME" : 423,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fenomenologie",
+      "count" : "1"
+    }, {
+      "value" : "Phenomenology",
+      "count" : "1"
+    }, {
+      "value" : "Phenomenology Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Philosophe",
+      "count" : "1"
+    }, {
+      "value" : "Philosophers",
+      "count" : "1"
+    }, {
+      "value" : "Philosophers Biography Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Philosophes Biographies Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Phénoménologie",
+      "count" : "1"
+    }, {
+      "value" : "Phénoménologie Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Embree Lester E",
+      "count" : "1"
+    } ]
+  } ]
+}

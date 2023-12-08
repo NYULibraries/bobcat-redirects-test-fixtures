@@ -1,0 +1,264 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990031887010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Italian national cinema 1896-1996 " ],
+        "subject" : [ "Motion pictures -- Italy -- History", "Cinéma -- Italie -- Histoire", "PERFORMING ARTS -- Film & Video -- Reference", "Motion pictures", "Italy", "Filmkunst", "Filmindustrie", "Theatre, Film and Television Studies" ],
+        "format" : [ "1 online resource (viii, 202 pages) : illustrations", "data file" ],
+        "identifier" : [ "$$CISBN$$V0203134664;$$CISBN$$V9780203134665;$$CISBN$$V9780415116978;$$CISBN$$V9780415116985;$$CISBN$$V9786610506071;$$CISBN$$V6610506078;$$CISBN$$V9781134817788;$$CISBN$$V1134817789;$$CISBN$$V9781134817733;$$CISBN$$V1134817738;$$CISBN$$V9781134817771;$$CISBN$$V1134817770;$$CISBN$$V1280506075;$$CISBN$$V9781280506079;$$COCLC$$V(OCoLC)71231955;$$CISBN$$V041511697X;$$CISBN$$V0415116988" ],
+        "creationdate" : [ "1996" ],
+        "creator" : [ "Sorlin, Pierre.$$QSorlin, Pierre." ],
+        "publisher" : [ "London ; New York : Routledge" ],
+        "description" : [ "\"From such films as La dolce vita and Bicycle Thieves to Cinema Paradiso and Dear Diary, Italian cinema has provided striking images of Italy as a nation and a people. In the first comprehensive study of Italian cinema from 1896 to the present, Pierre Sorlin explores the changing relationship of Italian cinema and Italian society and asks whether the national cinema really does represent Italian interests and culture.\" \"Sorlin discusses the work of major filmmakers such as de Sica, Visconti, Fellini, Antonioni and Moretti in the context of national film output, considering both films which became internationally acclaimed and those which, though popular with the domestic audience, were never released outside Italy. Beginning with the evolution of the cinema audience and the development of domestic production, Sorlin examines Italian cinema from the dark years of Fascism through to postwar Neorealism and big-budget commercial films. In the final section he discusses the place of cinema in the context of the rise of television, contemporary political crises in Italy, and Berlusconi's attempts to dominate the media landscape.\" \"Italian National Cinema provides a challenging vision of national cinema, not just as a reflection of Italian culture but for the crucial part it played in the transformation of contemporary Italy. It includes a filmography and bibliography of Italian cinema.\"--Jacket" ],
+        "mms" : [ "990031887010107871" ],
+        "series" : [ "National cinemas series$$QNational cinemas series", "National cinemas series.$$QNational cinemas series." ],
+        "contents" : [ "1. First generation : the world in a dark room -- 2. Second generation : their master's voice -- 3. Third generation : the most popular form of entertainment -- 4. Fourth generation : the sweet life -- 5. Fifth generation : the world in the box." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VItalian national cinema 1896-1996$$Z9995663371807871", "$$Cform$$VPrint version: Sorlin, Pierre. Italian national cinema 1896-1996. London ; New York : Routledge, 1996$$QItalian national cinema 1896-1996.$$Z990023135270107871" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph003188701" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990031887010107871" ],
+        "recordid" : [ "alma990031887010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003188701-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sorlin" ],
+        "aufirst" : [ "Pierre." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Sorlin, Pierre." ],
+        "creatorfull" : [ "$$NSorlin, Pierre.$$LSorlin$$FPierre.$$Rauthor" ],
+        "date" : [ "1996" ],
+        "isbn" : [ "0203134664", "9780203134665", "9780415116978", "9780415116985", "9786610506071", "6610506078", "9781134817788", "1134817789", "9781134817733", "1134817738", "9781134817771", "1134817770", "1280506075", "9781280506079", "041511697X", "0415116988" ],
+        "notes" : [ "Filmography: pages 181-186.", "Includes bibliographical references (pages 187-192) and indexes." ],
+        "abstract" : [ "\"From such films as La dolce vita and Bicycle Thieves to Cinema Paradiso and Dear Diary, Italian cinema has provided striking images of Italy as a nation and a people. In the first comprehensive study of Italian cinema from 1896 to the present, Pierre Sorlin explores the changing relationship of Italian cinema and Italian society and asks whether the national cinema really does represent Italian interests and culture.\" \"Sorlin discusses the work of major filmmakers such as de Sica, Visconti, Fellini, Antonioni and Moretti in the context of national film output, considering both films which became internationally acclaimed and those which, though popular with the domestic audience, were never released outside Italy. Beginning with the evolution of the cinema audience and the development of domestic production, Sorlin examines Italian cinema from the dark years of Fascism through to postwar Neorealism and big-budget commercial films. In the final section he discusses the place of cinema in the context of the rise of television, contemporary political crises in Italy, and Berlusconi's attempts to dominate the media landscape.\" \"Italian National Cinema provides a challenging vision of national cinema, not just as a reflection of Italian culture but for the crucial part it played in the transformation of contemporary Italy. It includes a filmography and bibliography of Italian cinema.\"--Jacket" ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)71231955" ],
+        "lccn" : [ "95043288" ],
+        "seriestitle" : [ "National cinemas series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Italian national cinema 1896-1996" ]
+      },
+      "sort" : {
+        "title" : [ "Italian national cinema 1896-1996 /" ],
+        "author" : [ "Sorlin, Pierre." ],
+        "creationdate" : [ "1996" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031887010107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031887010107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031887010107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031887010107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990031887010107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203134665,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993.5 i88ǂs66 1996eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "31",
+    "CALL_SOLR_GET_IDS_LIST" : "53",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "10",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "9",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "14",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "147",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 177,
+    "COMBINED_SEARCH_TIME" : 181,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1996",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Italie Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Filmindustrie",
+      "count" : "1"
+    }, {
+      "value" : "Filmkunst",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Italy History",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Film Video Reference",
+      "count" : "1"
+    }, {
+      "value" : "Theatre Film And Television Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Sorlin Pierre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

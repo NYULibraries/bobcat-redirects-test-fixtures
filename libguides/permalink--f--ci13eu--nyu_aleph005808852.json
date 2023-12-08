@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058088520107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Art of the Deal : a Practical Guide to Business Etiquette and the 36 Martial Strategies Employed by Chinese Businessme." ],
+        "subject" : [ "Business etiquette -- China", "Businesspeople -- China -- Attitudes", "China -- Economic conditions -- 2000-", "Corporate culture -- China", "Negotiation -- Social aspects -- China", "Negotiation in business -- China", "Business", "Savoir-vivre -- Affaires -- Chine", "Négociations (Affaires) -- Chine", "Business etiquette", "Negotiation in business", "China" ],
+        "format" : [ "1 online resource (161 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781462900589;$$CISBN$$V1462900585;$$COCLC$$V(OCoLC)753480118;$$CISBN$$V9780804839020" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Brahm, Laurence.$$QBrahm, Laurence." ],
+        "publisher" : [ "New York : Tuttle Pub." ],
+        "description" : [ "China has recently exploded into the world scene, and its presence is only getting bigger. The Chinese economy is rapidly expanding, inspiring many Western businesses to negotiate deals in and around China. The Art of the Deal in China is a practical guide to the traditional strategies employed by Chinese businessmen and officials." ],
+        "mms" : [ "990058088520107871" ],
+        "contents" : [ "Foreword; INTRODUCTION The Anatomy of a Negotiation in China; Frontline Negotiations; Backdoor Liaison; PART I Enter the Dragon: The Etiquette of What to Do and Not Do When Meeting PRC Officials; When Entering the Province, One Should Follow the Customs; The Dog Acts Fierce When the Master is Present; Obedience is Better Than a Show of Respect; PART II The Art of Negotiating in China; China Hands; Sleeping in the Same Bed but Dreaming Different Dreams; The Art of Saying \"Yes\"; Contractual Protection; Developing a Legal System-from Scratch; Protracted Negotiations." ],
+        "relation" : [ "$$Cform$$VPrint version: Brahm, Laurence. Art of the Deal : A Practical Guide to Business Etiquette and the 36 Martial Strategies Employed by Chinese Businessme. New York : Tuttle Publishing, ©2011$$QArt of the Deal : A Practical Guide to Business Etiquette and the 36 Martial Strategies Employed by Chinese Businessme." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph005808852" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058088520107871" ],
+        "recordid" : [ "alma990058088520107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005808852-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brahm" ],
+        "aufirst" : [ "Laurence." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Brahm, Laurence." ],
+        "creatorfull" : [ "$$NBrahm, Laurence.$$LBrahm$$FLaurence.$$Rauthor" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9781462900589", "1462900585", "9780804839020" ],
+        "abstract" : [ "China has recently exploded into the world scene, and its presence is only getting bigger. The Chinese economy is rapidly expanding, inspiring many Western businesses to negotiate deals in and around China. The Art of the Deal in China is a practical guide to the traditional strategies employed by Chinese businessmen and officials." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Tuttle Pub." ],
+        "oclcid" : [ "(ocolc)753480118" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Art of the Deal : a Practical Guide to Business Etiquette and the 36 Martial Strategies Employed by Chinese Businessme." ]
+      },
+      "sort" : {
+        "title" : [ "Art of the Deal : a Practical Guide to Business Etiquette and the 36 Martial Strategies Employed by Chinese Businessme." ],
+        "author" : [ "Brahm, Laurence." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058088520107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058088520107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058088520107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058088520107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1462900585,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hc\"427 b73 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "122",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "21",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "90",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "370",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 405,
+    "COMBINED_SEARCH_TIME" : 409,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business",
+      "count" : "1"
+    }, {
+      "value" : "Business Etiquette",
+      "count" : "1"
+    }, {
+      "value" : "Business Etiquette China",
+      "count" : "1"
+    }, {
+      "value" : "Businesspeople China Attitudes",
+      "count" : "1"
+    }, {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "China Economic Conditions 2000",
+      "count" : "1"
+    }, {
+      "value" : "Corporate Culture China",
+      "count" : "1"
+    }, {
+      "value" : "Negotiation In Business",
+      "count" : "1"
+    }, {
+      "value" : "Negotiation In Business China",
+      "count" : "1"
+    }, {
+      "value" : "Negotiation Social Aspects China",
+      "count" : "1"
+    }, {
+      "value" : "Négociations Affaires Chine",
+      "count" : "1"
+    }, {
+      "value" : "Savoir Vivre Affaires Chine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brahm Laurence",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

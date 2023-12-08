@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050891210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Thames and Hudson dictionary of fashion and fashion designers " ],
+        "subject" : [ "Fashion$$QFashion -- Dictionaries", "Fashion designers$$QFashion designers -- Dictionaries", "Clothing and dress -- History -- 19th century$$QClothing and dress -- History -- 19th century -- Dictionaries", "Clothing and dress -- History -- 20th century$$QClothing and dress -- History -- 20th century -- Dictionaries", "Clothing and dress", "Fashion", "Fashion designers", "1800-1999" ],
+        "format" : [ "1 online resource (1279 entries) : 371 images", "data file" ],
+        "identifier" : [ "$$CISBN$$V9781849722476;$$CISBN$$V1849722471;$$COCLC$$V(OCoLC)897123749;$$CISBN$$V9780500203132;$$CISBN$$V050020313X" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Callan, Georgina O'Hara, author.$$QCallan, Georgina O'Hara" ],
+        "publisher" : [ "Boston, Massachusetts : Credo Reference" ],
+        "description" : [ "This indispensable guide to fashion provides in many entries detailed information on the life and work of every important designer from 1840 up to the present day, including not only couturiers (Yves Saint Laurent) but also shoe (Manolo Blahnik), hat and knitwear specialists, costume designers, jewelers (Elsa Peretti) and hairdressers. It also covers the fashion media (Gazette du bon ton), photographers (Norman Parkinson) and illustrators, influential art movements (Cubism), fashion terms, garmet and accessory styles, technical processes, and every kind of fabric, as well as personalities who have influenced fashion or promoted a style (Twiggy; Queen Victoria). International in scope, it is an essential sourcebook for designers, students, collectors and enthusiasts. Its full cross-referencing and wide ranging bibliography provide invaluable additional information." ],
+        "mms" : [ "990050891210107871" ],
+        "contributor" : [ "Callan, Georgina O'Hara.$$QCallan, Georgina O'Hara." ],
+        "addtitle" : [ "Dictionary of fashion and fashion designers", "Fashion and fashion designers" ],
+        "edition" : [ "Revised, expanded and updated edition.", "[Enhanced Credo edition]" ],
+        "series" : [ "World of art$$QWorld of art", "World of art.$$QWorld of art." ],
+        "genre" : [ "Electronic reference work", "dictionaries", "History", "Dictionaries", "Dictionnaires" ],
+        "relation" : [ "$$Cform$$VPrint version: 272 pages : illustrations (some color)$$Z990014465620107871" ],
+        "relatedwork" : [ "Callan, Georgina O'Hara. Encyclopaedia of fashion.$$QCallan, Georgina O'Hara. Encyclopaedia of fashion." ],
+        "place" : [ "Boston, Massachusetts :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "aleph005089121" ],
+        "lds60" : [ "Previous edition published under title: The encyclopaedia of fashion.", "A-Z." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050891210107871" ],
+        "recordid" : [ "alma990050891210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005089121-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Callan" ],
+        "aufirst" : [ "Georgina O'Hara" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Callan, Georgina O'Hara" ],
+        "addau" : [ "Callan, Georgina O'Hara." ],
+        "creatorfull" : [ "$$NCallan, Georgina O'Hara$$LCallan$$FGeorgina O'Hara$$Rauthor" ],
+        "contributorfull" : [ "$$NCallan, Georgina O'Hara.$$LCallan$$FGeorgina O'Hara.$$Rcontributor" ],
+        "addtitle" : [ "Dictionary of fashion and fashion designers", "Fashion and fashion designers" ],
+        "date" : [ "2014 - 2007", "2007" ],
+        "isbn" : [ "9781849722476", "1849722471", "9780500203132", "050020313X" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This indispensable guide to fashion provides in many entries detailed information on the life and work of every important designer from 1840 up to the present day, including not only couturiers (Yves Saint Laurent) but also shoe (Manolo Blahnik), hat and knitwear specialists, costume designers, jewelers (Elsa Peretti) and hairdressers. It also covers the fashion media (Gazette du bon ton), photographers (Norman Parkinson) and illustrators, influential art movements (Cubism), fashion terms, garmet and accessory styles, technical processes, and every kind of fabric, as well as personalities who have influenced fashion or promoted a style (Twiggy; Queen Victoria). International in scope, it is an essential sourcebook for designers, students, collectors and enthusiasts. Its full cross-referencing and wide ranging bibliography provide invaluable additional information." ],
+        "cop" : [ "New York [New York" ],
+        "pub" : [ "Thames and Hudson" ],
+        "oclcid" : [ "(ocolc)897123749" ],
+        "edition" : [ "Revised, expanded and updated edition." ],
+        "seriestitle" : [ "World of art" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Thames and Hudson dictionary of fashion and fashion designers" ]
+      },
+      "sort" : {
+        "title" : [ "Thames and Hudson dictionary of fashion and fashion designers /" ],
+        "author" : [ "Callan, Georgina O'Hara, author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050891210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050891210107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1849722471,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"507ǂ c35 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "304",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "73",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "154",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "648",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 677,
+    "COMBINED_SEARCH_TIME" : 681,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    }, {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1800 1999",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress History 19th Century Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress History 20th Century Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Designers",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Designers Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Callan Georgina Ohara",
+      "count" : "1"
+    } ]
+  } ]
+}

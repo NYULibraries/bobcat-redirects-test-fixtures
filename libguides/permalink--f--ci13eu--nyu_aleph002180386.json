@@ -1,0 +1,246 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021803860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The unwelcome immigrant; the American image of the Chinese, 1785-1882." ],
+        "subject" : [ "Chinese -- United States", "China -- Foreign public opinion, American" ],
+        "format" : [ "x, 259 p., 24 cm." ],
+        "identifier" : [ "$$CLC$$V76081763;$$COCLC$$V(OCoLC)31388" ],
+        "creationdate" : [ "1969" ],
+        "creator" : [ "Miller, Stuart Creighton, 1927-$$QMiller, Stuart Creighton" ],
+        "publisher" : [ "Berkeley, University of California Press" ],
+        "mms" : [ "990021803860107871" ],
+        "place" : [ "Berkeley," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002180386" ],
+        "lds53" : [ "002180386" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021803860107871" ],
+        "recordid" : [ "alma990021803860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002180386-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Miller" ],
+        "aufirst" : [ "Stuart Creighton" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Miller, Stuart Creighton" ],
+        "creatorfull" : [ "$$NMiller, Stuart Creighton$$LMiller$$FStuart Creighton$$Rauthor" ],
+        "date" : [ "1969" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Berkeley" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)31388" ],
+        "lccn" : [ "76081763" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The unwelcome immigrant; the American image of the Chinese, 1785-1882." ]
+      },
+      "sort" : {
+        "title" : [ "unwelcome immigrant; the American image of the Chinese, 1785-1882." ],
+        "author" : [ "Miller, Stuart Creighton, 1927-" ],
+        "creationdate" : [ "1969" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021803860107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021803860107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021803860107871"
+        } ],
+        "instCode" : "01NYU_NYHS",
+        "instName" : "New York Historical Society",
+        "instId" : "7873",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:76081763&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 c5ǂm5",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "38",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "329",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 354,
+    "COMBINED_SEARCH_TIME" : 356,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1969",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China Foreign Public Opinion American",
+      "count" : "1"
+    }, {
+      "value" : "Chinese United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Miller Stuart Creighton",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7873–112286170007873",
+      "count" : "1"
+    }, {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163047900007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7873",
+      "count" : "1"
+    }, {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

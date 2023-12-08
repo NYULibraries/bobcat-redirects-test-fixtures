@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022416750107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "spa" ],
+        "title" : [ "Serie estadística (Quito, Ecuador)" ],
+        "subject" : [ "Ecuador$$QEcuador -- Statistics Periodicals" ],
+        "format" : [ "25 v. ; 22 x 32 cm." ],
+        "identifier" : [ "$$CLC$$V95656310;$$COCLC$$V(OCoLC)4061953" ],
+        "creationdate" : [ "1972-1996" ],
+        "publisher" : [ "Quito : El Instituto", "1967/72-1991/93." ],
+        "mms" : [ "990022416750107871" ],
+        "contributor" : [ "Instituto Nacional de Estadística (Ecuador)$$QInstituto Nacional de Estadística (Ecuador)", "Instituto Nacional de Estadística y Censos (Ecuador)$$QInstituto Nacional de Estadística y Censos (Ecuador)" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Statistics", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VAnuario de estadísticas (Instituto Nacional de Estadística (Ecuador))$$QAnuario de estadísticas (Instituto Nacional de Estadística (Ecuador))", "$$Cform$$VOnline version: Serie estadística (Quito, Ecuador)$$QSerie estadística (Quito, Ecuador)", "$$Clater_title$$VAnuário estadístico del Ecuador$$QAnuário estadístico del Ecuador" ],
+        "unititle" : [ "Serie estadística (Quito, Ecuador)" ],
+        "place" : [ "Quito :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002241675" ],
+        "lds53" : [ "002241675" ],
+        "lds60" : [ "Title from cover." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022416750107871" ],
+        "recordid" : [ "alma990022416750107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002241675-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1972 - 1993", "1972-1996" ],
+        "cop" : [ "Quito" ],
+        "pub" : [ "El Instituto" ],
+        "oclcid" : [ "(ocolc)4061953" ],
+        "lccn" : [ "95656310", "sn 85019014" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Serie estadística (Quito, Ecuador)" ]
+      },
+      "sort" : {
+        "title" : [ "Serie estadística (Quito, Ecuador)" ],
+        "author" : [ "Instituto Nacional de Estadística (Ecuador)" ],
+        "creationdate" : [ "1972" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022416750107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:95656310&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ha#1025ǂ i55",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "79",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "276",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 304,
+    "COMBINED_SEARCH_TIME" : 307,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1972",
+      "count" : "1"
+    }, {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ecuador Statistics Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Instituto Nacional De Estadística Ecuador",
+      "count" : "1"
+    }, {
+      "value" : "Instituto Nacional De Estadística Y Censos Ecuador",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

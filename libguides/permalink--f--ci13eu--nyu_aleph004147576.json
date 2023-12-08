@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041475760107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Toward. Some. Air. : remarks on poetics of mad affect, militancy, feminism, demotic rhythms, emptying, intervention, reluctance, indigeneity, immediacy, lyric conceptualism, commons, pastoral margins, desire, ambivalence, disability, the digital, and other practices " ],
+        "subject" : [ "English poetry -- 21st century", "American poetry -- 21st century", "Canadian poetry -- 21st century", "American poetry", "Canadian poetry", "English poetry", "Poetics", "Poetry -- Social aspects", "2000 - 2099" ],
+        "format" : [ "xi, 343 pages ; 23 cm" ],
+        "identifier" : [ "$$CISBN$$V9781894773805;$$CISBN$$V1894773802;$$COCLC$$V(OCoLC)904182377" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Banff, Alberta : Banff Centre Press" ],
+        "description" : [ "\"Toward. Some. Air. is an unprecedented collection of contemporary poetics from Canada, the United States, and the United Kingdom. Here, poet and scholar Amy De'Ath and former Parliamentary Poet Laureate Fred Wah collect a wide range of conversations, statements, essays, profiles, and poems and place these often radical and interdisciplinary approaches in proximal relation to each other. The result is an open invitation to consider the contours and meanings of Anglophone poetic practice as a mode of interpreting the world, its potential for transforming subjectivity, or something else entirely. With over forty renowned contributors it is an invaluable resource for students, teachers, and writers.\"-- Provided by publisher." ],
+        "mms" : [ "990041475760107871" ],
+        "contributor" : [ "Wah, Fred, 1939- editor.$$QWah, Fred", "De'Ath, Amy, 1985- editor.$$QDe'Ath, Amy" ],
+        "relation" : [ "$$Cform$$VToward. Some. Air..$$QToward. Some. Air.." ],
+        "place" : [ "Banff, Alberta :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004147576" ],
+        "lds53" : [ "004147576" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041475760107871" ],
+        "recordid" : [ "alma990041475760107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004147576-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wah", "De'Ath" ],
+        "aufirst" : [ "Fred", "Amy" ],
+        "auinit" : [ "F", "A" ],
+        "addau" : [ "Wah, Fred", "De'Ath, Amy" ],
+        "contributorfull" : [ "$$NWah, Fred$$LWah$$FFred$$Reditor", "$$NDe'Ath, Amy$$Reditor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781894773805", "1894773802" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Toward. Some. Air. is an unprecedented collection of contemporary poetics from Canada, the United States, and the United Kingdom. Here, poet and scholar Amy De'Ath and former Parliamentary Poet Laureate Fred Wah collect a wide range of conversations, statements, essays, profiles, and poems and place these often radical and interdisciplinary approaches in proximal relation to each other. The result is an open invitation to consider the contours and meanings of Anglophone poetic practice as a mode of interpreting the world, its potential for transforming subjectivity, or something else entirely. With over forty renowned contributors it is an invaluable resource for students, teachers, and writers.\"-- Provided by publisher." ],
+        "cop" : [ "Banff, Alberta" ],
+        "pub" : [ "Banff Centre Press" ],
+        "oclcid" : [ "(ocolc)904182377" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Toward. Some. Air. : remarks on poetics of mad affect, militancy, feminism, demotic rhythms, emptying, intervention, reluctance, indigeneity, immediacy, lyric conceptualism, commons, pastoral margins, desire, ambivalence, disability, the digital, and other practices" ]
+      },
+      "sort" : {
+        "title" : [ "Toward. Some. Air. : remarks on poetics of mad affect, militancy, feminism, demotic rhythms, emptying, intervention, reluctance, indigeneity, immediacy, lyric conceptualism, commons, pastoral margins, desire, ambivalence, disability, the digital, and other practices /" ],
+        "author" : [ "Wah, Fred, 1939- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041475760107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1894773802,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1042ǂ t69 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "121",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "58",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 342,
+    "COMBINED_SEARCH_TIME" : 344,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2000 2099",
+      "count" : "1"
+    }, {
+      "value" : "American Poetry",
+      "count" : "1"
+    }, {
+      "value" : "American Poetry 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "Canadian Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Canadian Poetry 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "English Poetry",
+      "count" : "1"
+    }, {
+      "value" : "English Poetry 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "Poetics",
+      "count" : "1"
+    }, {
+      "value" : "Poetry Social Aspects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Death Amy",
+      "count" : "1"
+    }, {
+      "value" : "Wah Fred",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

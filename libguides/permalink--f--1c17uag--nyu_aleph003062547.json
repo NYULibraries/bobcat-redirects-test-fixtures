@@ -1,0 +1,319 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990030625470107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "MLA style manual and guide to scholarly publishing." ],
+        "subject" : [ "Authorship$$QAuthorship -- Style manuals", "Humanities literature -- Authorship$$QHumanities literature -- Authorship -- Handbooks, manuals, etc", "Academic writing$$QAcademic writing -- Handbooks, manuals, etc", "Academic writing", "Authorship", "Humanities literature -- Authorship", "Scholarly publishing", "Humaniora", "Wetenschappelijke teksten", "Publicaties", "Scholarly publishing$$QScholarly publishing -- Handbooks, manuals, etc", "Manuskriptteknik", "Redigeringsteknik", "Vetenskaplig publicering$$QVetenskaplig publicering -- handböcker, manualer, etc", "Vetenskapligt skrivande$$QVetenskapligt skrivande -- handböcker, manualer, etc", "Wissenschaftliches Manuskript" ],
+        "format" : [ "xxiv, 336 pages ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2008002894;$$CISBN$$V9780873522977;$$CISBN$$V0873522974;$$COCLC$$V(OCoLC)191090459" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "New York : Modern Language Association of America" ],
+        "description" : [ "Provides information on stylistic aspects of research papers, theses, and dissertations, including sections on writing fundamentals, MLA documentation style, and copyright law." ],
+        "mms" : [ "990030625470107871" ],
+        "contributor" : [ "Gibaldi, Joseph, 1942-$$QGibaldi, Joseph" ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "pt. 1. Scholarly publishing -- Scholars and scholarly publishing -- Refereed and nonrefereed publications -- Deciding to submit a manuscript -- Placing a manuscript with a journal -- Placing a manuscript with a press -- Production and publication -- Conclusion ---- pt. 2. Legal issues in scholarly publishing -- Introduction -- Copyright -- Publishing Contracts -- Defamation -- Right of privacy -- Further guidance -- pt. 3. Basics of scholarly writing -- Audience, genre, and the conventions of scholarship -- Language and style -- Spelling -- Punctuation -- Italics -- Names of persons -- Capitalization -- Titles of works in the manuscript -- Quotations -- Numbers -- Romanization -- Further guidance ---- pt. 4. Preparation of scholarly manuscripts -- Introduction -- Physical characteristics of the printed manuscript -- Manuscripts for publication -- pt. 5. Preparation of theses and dissertations -- Student works as professional documents -- Prescribed guidelines -- Selecting a topic -- Preparing a prospectus -- Special format requirements -- Publishing the dissertation through ProQuest -- pt. 6. Documentation : preparing the list of works cited -- The purposes of documentation -- Documentation and ethics -- MLA style -- The list of works cited -- Citing periodical print publications -- Citing nonperiodical print publications -- Citing web publications -- Citing additional common sources -- A work in more than one publication medium -- pt. 7. Documentation : citing sources in the text -- Parenthetical documentation and the list of works cited -- Information required in parenthetical documentation -- Readability -- Sample references -- Using notes with parenthetical documentation -- pt. 8 Abbreviations -- Introduction -- Time designations -- Geographic names -- Common scholarly abbreviations and reference words -- Publishers' names -- Titles of works -- Names of languages -- Proofreading symbols -- Appendix : Specialized style manuals -- Sources of Examples in 3.4-5." ],
+        "genre" : [ "Handbooks, manuals, etc", "handböcker, manualer, etc", "Handbooks and manuals", "Style manuals", "Reference works" ],
+        "relation" : [ "$$Cform$$VOnline version: MLA style manual and guide to scholarly publishing. 3rd ed. New York : Modern Language Association of America, 2008$$QMLA style manual and guide to scholarly publishing." ],
+        "mesh" : [ "Writing" ],
+        "relatedwork" : [ "Gibaldi, Joseph, 1942- MLA style manual and guide to scholarly publishing.$$QGibaldi, Joseph, 1942- MLA style manual and guide to scholarly publishing." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003062547" ],
+        "lds53" : [ "003062547" ],
+        "lds60" : [ "Revised edition of: MLA style manual and guide to scholarly publishing / Joseph Gibaldi. 2nd ed. 1998.", "\"Large print\"--Cover." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990030625470107871" ],
+        "recordid" : [ "alma990030625470107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003062547-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gibaldi" ],
+        "aufirst" : [ "Joseph" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Gibaldi, Joseph" ],
+        "contributorfull" : [ "$$NGibaldi, Joseph$$LGibaldi$$FJoseph$$Rcontributor" ],
+        "date" : [ "2008 - 2008", "2008" ],
+        "isbn" : [ "9780873522977", "0873522974" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Provides information on stylistic aspects of research papers, theses, and dissertations, including sections on writing fundamentals, MLA documentation style, and copyright law." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Modern Language Association of America" ],
+        "oclcid" : [ "(ocolc)191090459" ],
+        "lccn" : [ "2008002894" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "MLA style manual and guide to scholarly publishing." ]
+      },
+      "sort" : {
+        "title" : [ "MLA style manual and guide to scholarly publishing." ],
+        "author" : [ "Gibaldi, Joseph, 1942-" ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990030625470107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990030625470107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990030625470107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0873522974,OCLC:,LCCN:2008002894&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://bvbr.bib-bvb.de:8991/F?func=service&doc%5Flibrary=BVB01&doc%5Fnumber=016567193&line%5Fnumber=0001&func%5Fcode=DB%5FRECORDS&service%5Ftype=MEDIA",
+        "displayLabel" : "Inhaltsverzeichnis"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=016567193&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+        "displayLabel" : "Table of contents"
+      }, {
+        "@id" : ":_3",
+        "linkType" : "addlink",
+        "linkURL" : "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=016567193&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+        "displayLabel" : "Table of contents"
+      }, {
+        "@id" : ":_4",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/toc/ecip089/2008002894.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn\"147ǂ g444 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "197",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "55",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "44",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "113",
+    "RETRIVE_FROM_DB_RELATIONS" : "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "51",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "487",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 519,
+    "COMBINED_SEARCH_TIME" : 523,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Academic Writing",
+      "count" : "1"
+    }, {
+      "value" : "Academic Writing Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Authorship Style Manuals",
+      "count" : "1"
+    }, {
+      "value" : "Humaniora",
+      "count" : "1"
+    }, {
+      "value" : "Humanities Literature Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Humanities Literature Authorship Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Manuskriptteknik",
+      "count" : "1"
+    }, {
+      "value" : "Publicaties",
+      "count" : "1"
+    }, {
+      "value" : "Redigeringsteknik",
+      "count" : "1"
+    }, {
+      "value" : "Scholarly Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Scholarly Publishing Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Vetenskaplig Publicering Handböcker Manualer Etc",
+      "count" : "1"
+    }, {
+      "value" : "Vetenskapligt Skrivande Handböcker Manualer Etc",
+      "count" : "1"
+    }, {
+      "value" : "Wetenschappelijke Teksten",
+      "count" : "1"
+    }, {
+      "value" : "Wissenschaftliches Manuskript",
+      "count" : "1"
+    }, {
+      "value" : "Writing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gibaldi Joseph",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

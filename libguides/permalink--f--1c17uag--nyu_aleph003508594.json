@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035085940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Fifth Chinese daughter " ],
+        "subject" : [ "Wong, Jade Snow", "Potters -- California$$QPotters -- California -- Biography" ],
+        "format" : [ "xiii, 246 p. : ill. ; 21 cm." ],
+        "identifier" : [ "$$CLC$$V89005302;$$CISBN$$V0295968265 (pbk.) :;$$CISBN$$V9780295968261 (pbk.);$$COCLC$$V(OCoLC)19122376" ],
+        "creationdate" : [ "1989" ],
+        "creator" : [ "Wong, Jade Snow.$$QWong, Jade Snow." ],
+        "publisher" : [ "Seattle : University of Washington Press" ],
+        "description" : [ "Reprint of the Harper edition of 1950. The narrative shows how members of a typical Chinese family in San Francisco adapt themselves to American conditions." ],
+        "mms" : [ "990035085940107871" ],
+        "contents" : [ "World was new -- World grows -- Forgiveness from heaven -- Grandmother and her world back home -- Lucky to be born a Chinese -- Uncle Kwok -- Learning to be a Chinese housewife -- Taste of independence -- Saturday's reward and Sunday's holiday -- \"One who or that which slips\" -- With eyes on China -- Cousin Kee -- Person as well as a female -- Girl meets boy -- Measure of freedom -- Marriage old and new style -- Unexpected offer - and a decision -- \"Learning can never be poor or exhausted\" -- Musicians on and off stage -- She finds her hands -- Summer of excitements -- Sending the ships to war -- \"Little child shall lead them\" -- Rediscovering Chinatown -- Sanctum of harmonious spring -- Alas, she was born to tall -- Life plan is cast -- \"Work of one day is gazed upon for one thousand days.\"" ],
+        "genre" : [ "Biography" ],
+        "relation" : [ "$$Cform$$VFifth Chinese daughter$$Z990084566350107871" ],
+        "place" : [ "Seattle :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003508594" ],
+        "lds53" : [ "003508594" ],
+        "lds60" : [ "Reprint. Originally published: New York : Harper, 1950." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035085940107871" ],
+        "recordid" : [ "alma990035085940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003508594-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wong" ],
+        "aufirst" : [ "Jade Snow." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Wong, Jade Snow." ],
+        "creatorfull" : [ "$$NWong, Jade Snow.$$LWong$$FJade Snow.$$Rauthor" ],
+        "date" : [ "1989 - 1950", "1989" ],
+        "isbn" : [ "0295968265", "9780295968261" ],
+        "abstract" : [ "Reprint of the Harper edition of 1950. The narrative shows how members of a typical Chinese family in San Francisco adapt themselves to American conditions." ],
+        "cop" : [ "Seattle" ],
+        "pub" : [ "University of Washington Press" ],
+        "oclcid" : [ "(ocolc)19122376" ],
+        "lccn" : [ "89005302" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fifth Chinese daughter" ]
+      },
+      "sort" : {
+        "title" : [ "Fifth Chinese daughter /" ],
+        "author" : [ "Wong, Jade Snow." ],
+        "creationdate" : [ "1989" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035085940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780295968261,OCLC:,LCCN:89005302&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nk#4210 w55ǂa2 1989",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "282",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "60",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "99",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "489",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 515,
+    "COMBINED_SEARCH_TIME" : 519,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1950",
+      "count" : "1"
+    }, {
+      "value" : "1989",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Potters California Biography",
+      "count" : "1"
+    }, {
+      "value" : "Wong Jade Snow",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wong Jade Snow",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

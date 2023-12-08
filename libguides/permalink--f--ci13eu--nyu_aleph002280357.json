@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022803570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Publishing and book development in Sub-Saharan Africa : an annotated bibliography " ],
+        "subject" : [ "Publishers and publishing -- Africa, Sub-Saharan$$QPublishers and publishing -- Africa, Sub-Saharan -- Bibliography", "Book industries and trade -- Africa, Sub-Saharan$$QBook industries and trade -- Africa, Sub-Saharan -- Bibliography" ],
+        "format" : [ "x, 409 p. ; 25 cm." ],
+        "identifier" : [ "$$CLC$$V95032734;$$CISBN$$V1873836465" ],
+        "creationdate" : [ "1996" ],
+        "creator" : [ "Zell, Hans M.$$QZell, Hans M." ],
+        "publisher" : [ "London ; New Providence, N.J. : H. Zell Publishers" ],
+        "mms" : [ "990022803570107871" ],
+        "contributor" : [ "Zell, Hans M.$$QZell, Hans M.", "Lomer, Cécile.$$QLomer, Cécile." ],
+        "series" : [ "Hans Zell studies on publishing ; no. 3$$QHans Zell studies on publishing ", "Hans Zell studies on publishing ; no. 3.$$QHans Zell studies on publishing " ],
+        "genre" : [ "Bibliography" ],
+        "relatedwork" : [ "Zell, Hans M. Publishing & book development in Africa.$$QZell, Hans M. Publishing & book development in Africa." ],
+        "place" : [ "London ; New Providence, N.J.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002280357" ],
+        "lds53" : [ "002280357" ],
+        "lds60" : [ "Rev. and updated ed. of: Publishing & book development in Africa. c1984." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022803570107871" ],
+        "recordid" : [ "alma990022803570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002280357-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zell" ],
+        "aufirst" : [ "Hans M." ],
+        "auinit" : [ "H" ],
+        "au" : [ "Zell, Hans M." ],
+        "addau" : [ "Zell, Hans M.", "Lomer, Cécile." ],
+        "creatorfull" : [ "$$NZell, Hans M.$$LZell$$FHans M.$$Rauthor" ],
+        "contributorfull" : [ "$$NZell, Hans M.$$LZell$$FHans M.$$Rcontributor", "$$NLomer, Cécile.$$Rcontributor" ],
+        "date" : [ "1996" ],
+        "isbn" : [ "1873836465" ],
+        "notes" : [ "Includes index." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "H. Zell Publishers" ],
+        "oclcid" : [ "nyub11372612", "dclc9532734-b" ],
+        "lccn" : [ "95032734" ],
+        "seriestitle" : [ "Hans Zell studies on publishing ; no. 3" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Publishing and book development in Sub-Saharan Africa : an annotated bibliography" ]
+      },
+      "sort" : {
+        "title" : [ "Publishing and book development in Sub-Saharan Africa : an annotated bibliography /" ],
+        "author" : [ "Zell, Hans M." ],
+        "creationdate" : [ "1996" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022803570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1873836465,OCLC:,LCCN:95032734&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z\"465.2ǂ z44 1995",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "91",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "329",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 361,
+    "COMBINED_SEARCH_TIME" : 364,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1996",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Book Industries And Trade Africa Sub Saharan Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Publishers And Publishing Africa Sub Saharan Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lomer Cécile",
+      "count" : "1"
+    }, {
+      "value" : "Zell Hans M",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

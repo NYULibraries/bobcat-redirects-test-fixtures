@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046825210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare's bawdy " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Language$$QShakespeare, William, 1564-1616 -- Language -- Glossaries, etc", "Shakespeare, William, 1564-1616", "English language -- Early modern, 1500-1700 -- Obscene words", "Bawdy poetry, English -- History and criticism", "Anglais (Langue) -- 1500-1700 (Moderne) -- Mots obscènes", "Poésie licencieuse anglaise -- Histoire et critique", "Vulgarité dans la littérature", "Sexualité dans la littérature", "LITERARY CRITICISM -- Shakespeare", "DRAMA -- Shakespeare", "Bawdy poetry, English", "English language -- Early modern -- Obscene words", "Language and languages", "Sex in literature", "Vulgarity in literature", "Seksualiteit" ],
+        "format" : [ "1 online resource (xii, 291 pages)" ],
+        "identifier" : [ "$$CISBN$$V020399597X;$$CISBN$$V9780203995976;$$CISBN$$V9780415254007;$$CISBN$$V0415254000;$$COCLC$$V(OCoLC)252958871" ],
+        "creationdate" : [ "2001" ],
+        "creator" : [ "Partridge, Eric, 1894-1979, author.$$QPartridge, Eric" ],
+        "publisher" : [ "London ; New York : Routledge" ],
+        "description" : [ "This classic of Shakespeare scholarship begins with a masterly introductory essay analysing and exemplifying the various categories of sexual and non-sexual bawdy expressions and allusions in Shakespeare's plays and sonnets. The main body of the work consists of an alphabetical glossary of all words and phrases used in a sexual or scatological sense, with full explanations and cross-references." ],
+        "mms" : [ "990046825210107871" ],
+        "series" : [ "Routledge classics$$QRoutledge classics", "Routledge classics.$$QRoutledge classics." ],
+        "contents" : [ "Chapter 1 INTRODUCTORY -- chapter 2 NON-SEXUAL BAWDY -- chapter 3 HOMOSEXUAL -- chapter 4 SEXUAL -- chapter 5 GENERAL -- chapter 6 VALEDICTORY." ],
+        "genre" : [ "Glossaries, etc", "Electronic books", "controlled vocabularies", "Criticism, interpretation, etc", "Glossaries, vocabularies, etc", "Controlled vocabularies", "Vocabulaires contrôlés" ],
+        "relation" : [ "$$Cform$$VPrint version: Partridge, Eric, 1894-1979. Shakespeare's bawdy. London ; New York : Routledge, 2001$$QShakespeare's bawdy." ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004682521" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046825210107871" ],
+        "recordid" : [ "alma990046825210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004682521-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Partridge" ],
+        "aufirst" : [ "Eric" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Partridge, Eric" ],
+        "creatorfull" : [ "$$NPartridge, Eric$$LPartridge$$FEric$$Rauthor" ],
+        "date" : [ "2001 - 1947", "2001" ],
+        "isbn" : [ "020399597X", "9780203995976", "9780415254007", "0415254000" ],
+        "abstract" : [ "This classic of Shakespeare scholarship begins with a masterly introductory essay analysing and exemplifying the various categories of sexual and non-sexual bawdy expressions and allusions in Shakespeare's plays and sonnets. The main body of the work consists of an alphabetical glossary of all words and phrases used in a sexual or scatological sense, with full explanations and cross-references." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)252958871" ],
+        "seriestitle" : [ "Routledge classics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare's bawdy" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare's bawdy /" ],
+        "author" : [ "Partridge, Eric, 1894-1979, author." ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046825210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203995976,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2892ǂ p27 2001eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "234",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "107",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "474",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 500,
+    "COMBINED_SEARCH_TIME" : 502,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1947",
+      "count" : "1"
+    }, {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Anglais Langue 1500 1700 Moderne Mots Obscènes",
+      "count" : "1"
+    }, {
+      "value" : "Bawdy Poetry English",
+      "count" : "1"
+    }, {
+      "value" : "Bawdy Poetry English History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Drama Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "English Language Early Modern 1500 1700 Obscene Words",
+      "count" : "1"
+    }, {
+      "value" : "English Language Early Modern Obscene Words",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "Poésie Licencieuse Anglaise Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Seksualiteit",
+      "count" : "1"
+    }, {
+      "value" : "Sex In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Sexualité Dans La Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Language Glossaries Etc",
+      "count" : "1"
+    }, {
+      "value" : "Vulgarity In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Vulgarité Dans La Littérature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Partridge Eric",
+      "count" : "1"
+    } ]
+  } ]
+}

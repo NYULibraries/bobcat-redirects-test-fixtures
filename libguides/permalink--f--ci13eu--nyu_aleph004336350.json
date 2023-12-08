@@ -1,0 +1,250 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043363500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of semantic web technologies " ],
+        "subject" : [ "Web sémantique", "Informatique", "Semantic Web", "Computer science", "Data mining", "Information systems", "Artificial intelligence", "Management information systems", "Information Systems Applications (incl. Internet)", "Artificial Intelligence (incl. Robotics)", "Data Mining and Knowledge Discovery", "Business Information Systems", "e-Commerce/e-business", "Computer Applications" ],
+        "format" : [ "1 online resource (xx, 1056 pages) : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9783540929130;$$CISBN$$V3540929134;$$CISBN$$V3540929126;$$CISBN$$V9783540929123;$$COCLC$$V(OCoLC)769756125" ],
+        "creationdate" : [ "©2011" ],
+        "publisher" : [ "Heidelberg ; New York : Springer-Verlag Berlin Heidelberg" ],
+        "description" : [ "After years of mostly theoretical research, Semantic Web Technologies are now reaching out into application areas like bioinformatics, eCommerce, eGovernment, or Social Webs. Applications like genomic ontologies, semantic web services, automated catalogue alignment, ontology matching, or blogs and social networks are constantly increasing, often driven or at least backed up by companies like Google, Amazon, YouTube, Facebook, LinkedIn and others. The need to leverage the potential of combining information in a meaningful way in order to be able to benefit from the Web will create further demand for and interest in Semantic Web research. This movement, based on the growing maturity of related research results, necessitates a reliable reference source from which beginners to the field can draw a first basic knowledge of the main underlying technologies as well as state-of-the-art application areas. This handbook, put together by three leading authorities in the field, and supported by an advisory board of highly reputed researchers, fulfils exactly this need. It is the first dedicated reference work in this field, collecting contributions about both the technical foundations of the Semantic Web as well as their main usage in other scientific fields like life sciences, engineering, business, or education." ],
+        "mms" : [ "990043363500107871" ],
+        "contributor" : [ "Domingue, John.$$QDomingue, John.", "Fensel, Dieter.$$QFensel, Dieter.", "Hendler, James A.$$QHendler, James A." ],
+        "series" : [ "Springer reference$$QSpringer reference", "Springer reference.$$QSpringer reference." ],
+        "contents" : [ "v. 1. Foundations and technologies -- v. 2. Semantic web applications." ],
+        "relation" : [ "$$Cform$$VHandbook of Semantic Web Technologies$$Z9995686316207871" ],
+        "place" : [ "Heidelberg ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004336350" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043363500107871" ],
+        "recordid" : [ "alma990043363500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004336350-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Domingue", "Fensel", "Hendler" ],
+        "aufirst" : [ "John.", "Dieter.", "James A." ],
+        "auinit" : [ "D", "J" ],
+        "addau" : [ "Domingue, John.", "Fensel, Dieter.", "Hendler, James A." ],
+        "contributorfull" : [ "$$NDomingue, John.$$LDomingue$$FJohn.$$Rcontributor", "$$NFensel, Dieter.$$Rcontributor", "$$NHendler, James A.$$Rcontributor" ],
+        "date" : [ "2011", "©2011" ],
+        "isbn" : [ "9783540929130", "3540929134", "3540929126", "9783540929123" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "After years of mostly theoretical research, Semantic Web Technologies are now reaching out into application areas like bioinformatics, eCommerce, eGovernment, or Social Webs. Applications like genomic ontologies, semantic web services, automated catalogue alignment, ontology matching, or blogs and social networks are constantly increasing, often driven or at least backed up by companies like Google, Amazon, YouTube, Facebook, LinkedIn and others. The need to leverage the potential of combining information in a meaningful way in order to be able to benefit from the Web will create further demand for and interest in Semantic Web research. This movement, based on the growing maturity of related research results, necessitates a reliable reference source from which beginners to the field can draw a first basic knowledge of the main underlying technologies as well as state-of-the-art application areas. This handbook, put together by three leading authorities in the field, and supported by an advisory board of highly reputed researchers, fulfils exactly this need. It is the first dedicated reference work in this field, collecting contributions about both the technical foundations of the Semantic Web as well as their main usage in other scientific fields like life sciences, engineering, business, or education." ],
+        "cop" : [ "Heidelberg ;" ],
+        "pub" : [ "Springer-Verlag Berlin Heidelberg" ],
+        "oclcid" : [ "(ocolc)769756125" ],
+        "seriestitle" : [ "Springer reference" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook of semantic web technologies" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of semantic web technologies /" ],
+        "author" : [ "Domingue, John." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043363500107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043363500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3540929134,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tk#5105.88815ǂ h36 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "258",
+    "CALL_SOLR_GET_IDS_LIST" : "104",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "37",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "487",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 523,
+    "COMBINED_SEARCH_TIME" : 527,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artificial Intelligence",
+      "count" : "1"
+    }, {
+      "value" : "Artificial Intelligence Incl Robotics",
+      "count" : "1"
+    }, {
+      "value" : "Business Information Systems",
+      "count" : "1"
+    }, {
+      "value" : "Computer Applications",
+      "count" : "1"
+    }, {
+      "value" : "Computer Science",
+      "count" : "1"
+    }, {
+      "value" : "Data Mining",
+      "count" : "1"
+    }, {
+      "value" : "Data Mining And Knowledge Discovery",
+      "count" : "1"
+    }, {
+      "value" : "E Commerce E Business",
+      "count" : "1"
+    }, {
+      "value" : "Information Systems",
+      "count" : "1"
+    }, {
+      "value" : "Information Systems Applications Incl Internet",
+      "count" : "1"
+    }, {
+      "value" : "Informatique",
+      "count" : "1"
+    }, {
+      "value" : "Management Information Systems",
+      "count" : "1"
+    }, {
+      "value" : "Semantic Web",
+      "count" : "1"
+    }, {
+      "value" : "Web Sémantique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Domingue John",
+      "count" : "1"
+    }, {
+      "value" : "Fensel Dieter",
+      "count" : "1"
+    }, {
+      "value" : "Hendler James A",
+      "count" : "1"
+    } ]
+  } ]
+}

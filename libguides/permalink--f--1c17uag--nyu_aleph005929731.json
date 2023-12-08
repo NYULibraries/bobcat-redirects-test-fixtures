@@ -1,0 +1,231 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059297310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Interpretations of luxury : exploring the consumer perspective " ],
+        "subject" : [ "Produits de luxe -- Industrie", "Consommateurs -- Comportement", "BUSINESS & ECONOMICS -- Industries -- General", "Consumer behavior", "Luxuries -- Marketing", "Luxury goods industry" ],
+        "format" : [ "1 online resource", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783319608709;$$CISBN$$V3319608703;$$COCLC$$V(OCoLC)1004360330;$$CISBN$$V331960869X;$$CISBN$$V9783319608693" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Turunen, Linda Lisa Maria.$$QTurunen, Linda Lisa Maria." ],
+        "publisher" : [ "Cham : Palgrave Macmillan" ],
+        "description" : [ "Exploring the elements that constitute the perceived luxuriousness of a brand, this book addresses the changing definitions of the term 'luxury' in today's world. Taking the approach that the concept of luxury evolves from the consumer, the author introduces a conceptual model which explains how the consumer interprets the luxuriousness of a brand. This innovative study analyses the key elements that influence luxury branding, such as extended product, perceived uniqueness, authenticity and context specificity. By critically reflecting on the existing definitions of luxury and its challenges, this book makes a unique contribution to research and an essential read for marketing students and scholars." ],
+        "mms" : [ "990059297310107871" ],
+        "series" : [ "Palgrave advances in luxury$$QPalgrave advances in luxury", "Palgrave advances in luxury.$$QPalgrave advances in luxury." ],
+        "contents" : [ "Part I. Fundamentals of Luxury- 1. Introduction -- 2. Concept of Luxury through the Lens of History -- 3. Evolution of Global Luxury Brands -- 4. Luxury Consumption and Consumption of Luxury Goods -- Part II. Interpreting the Luxuriousness of a Brand- 5. Defining Luxuriousness -- 6. Extended Product: Value in Use and Consumption -- 7. Perceived Authenticity -- 8. Perceived Uniqueness -- 9. Context Specificity of Luxuriousness -- 10. Conclusion: Reflections of Luxury." ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph005929731" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059297310107871" ],
+        "recordid" : [ "alma990059297310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005929731-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Turunen" ],
+        "aufirst" : [ "Linda Lisa Maria." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Turunen, Linda Lisa Maria." ],
+        "creatorfull" : [ "$$NTurunen, Linda Lisa Maria.$$LTurunen$$FLinda Lisa Maria.$$Rauthor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9783319608709", "3319608703", "331960869X", "9783319608693" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Exploring the elements that constitute the perceived luxuriousness of a brand, this book addresses the changing definitions of the term 'luxury' in today's world. Taking the approach that the concept of luxury evolves from the consumer, the author introduces a conceptual model which explains how the consumer interprets the luxuriousness of a brand. This innovative study analyses the key elements that influence luxury branding, such as extended product, perceived uniqueness, authenticity and context specificity. By critically reflecting on the existing definitions of luxury and its challenges, this book makes a unique contribution to research and an essential read for marketing students and scholars." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)1004360330" ],
+        "doi" : [ "10.1007/978-3-319-60870-9" ],
+        "seriestitle" : [ "Palgrave advances in luxury" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Interpretations of luxury : exploring the consumer perspective" ]
+      },
+      "sort" : {
+        "title" : [ "Interpretations of luxury : exploring the consumer perspective /" ],
+        "author" : [ "Turunen, Linda Lisa Maria." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059297310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059297310107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059297310107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3319608703,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#9999 l852",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "104",
+    "CALL_SOLR_GET_IDS_LIST" : "140",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "91",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "85",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "458",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 562,
+    "COMBINED_SEARCH_TIME" : 565,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industries General",
+      "count" : "1"
+    }, {
+      "value" : "Consommateurs Comportement",
+      "count" : "1"
+    }, {
+      "value" : "Consumer Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Luxuries Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Luxury Goods Industry",
+      "count" : "1"
+    }, {
+      "value" : "Produits De Luxe Industrie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Turunen Linda Lisa Maria",
+      "count" : "1"
+    } ]
+  } ]
+}

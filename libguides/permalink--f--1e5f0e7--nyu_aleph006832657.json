@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068326570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "IBM SPSS for Introductory Statistics : Use and Interpretation " ],
+        "subject" : [ "SPSS (Computer file)", "SPSS for Windows", "Sciences sociales -- Méthodes statistiques -- Logiciels", "PSYCHOLOGY -- Statistics", "EDUCATION -- Statistics", "SOCIAL SCIENCE -- Statistics", "Social sciences -- Statistical methods -- Computer programs" ],
+        "format" : [ "1 online resource (267 pages)" ],
+        "identifier" : [ "$$CISBN$$V1000004910;$$CISBN$$V9781000004915;$$CISBN$$V9780429287657;$$CISBN$$V0429287658;$$CISBN$$V9781000018271;$$CISBN$$V100001827X;$$CISBN$$V9781000011753;$$CISBN$$V1000011755;$$COCLC$$V(OCoLC)1109787684;$$CISBN$$V9781138578210" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Morgan, George A.$$QMorgan, George A." ],
+        "publisher" : [ "New York, NY : Routledge" ],
+        "description" : [ "IBM SPSS for Introductory Statistics is designed to help students learn how to analyze and interpret research. In easy-to-understand language, the authors show readers how to choose the appropriate statistic based on the design, and to interpret outputs appropriately. There is such a wide variety of options and statistics in SPSS, that knowing which ones to use and how to interpret the outputs can be difficult. This book assists students with these challenges. Comprehensive and user-friendly, the book prepares readers for each step in the research process: design, entering and checking data, testing assumptions, assessing reliability and validity, computing descriptive and inferential parametric and nonparametric statistics, and writing about results. Dialog windows and SPSS syntax, along with the output, are provided. Several realistic data sets, available online, are used to solve the chapter problems. This new edition includes updated screenshots and instructions for IBM SPSS 25, as well as updated pedagogy, such as callout boxes for each chapter indicating crucial elements of APA style and referencing outputs. IBM SPSS for Introductory Statistics is an invaluable supplemental (or lab text) book for students. In addition, this book and its companion, IBM SPSS for Intermediate Statistics, are useful as guides/reminders to faculty and professionals regarding the specific steps to take to use SPSS and/or how to use and interpret parts of SPSS with which they are unfamiliar." ],
+        "mms" : [ "990068326570107871" ],
+        "contributor" : [ "Barrett, Karen Caplovitz.$$QBarrett, Karen Caplovitz.", "Leech, Nancy L.$$QLeech, Nancy L.", "Gloeckner, Gene W.$$QGloeckner, Gene W." ],
+        "edition" : [ "Sixth edition." ],
+        "relation" : [ "$$Cform$$VPrint version: Morgan, George A. IBM SPSS for Introductory Statistics : Use and Interpretation. Milton : Routledge, ©2019$$QIBM SPSS for Introductory Statistics : Use and Interpretation." ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph006832657" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068326570107871" ],
+        "recordid" : [ "alma990068326570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006832657-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Morgan" ],
+        "aufirst" : [ "George A." ],
+        "auinit" : [ "G" ],
+        "au" : [ "Morgan, George A." ],
+        "addau" : [ "Barrett, Karen Caplovitz.", "Leech, Nancy L.", "Gloeckner, Gene W." ],
+        "creatorfull" : [ "$$NMorgan, George A.$$LMorgan$$FGeorge A.$$Rauthor" ],
+        "contributorfull" : [ "$$NBarrett, Karen Caplovitz.$$LBarrett$$FKaren Caplovitz.$$Rcontributor", "$$NLeech, Nancy L.$$Rcontributor", "$$NGloeckner, Gene W.$$Rcontributor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "1000004910", "9781000004915", "9780429287657", "0429287658", "9781000018271", "100001827X", "9781000011753", "1000011755", "9781138578210" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "IBM SPSS for Introductory Statistics is designed to help students learn how to analyze and interpret research. In easy-to-understand language, the authors show readers how to choose the appropriate statistic based on the design, and to interpret outputs appropriately. There is such a wide variety of options and statistics in SPSS, that knowing which ones to use and how to interpret the outputs can be difficult. This book assists students with these challenges. Comprehensive and user-friendly, the book prepares readers for each step in the research process: design, entering and checking data, testing assumptions, assessing reliability and validity, computing descriptive and inferential parametric and nonparametric statistics, and writing about results. Dialog windows and SPSS syntax, along with the output, are provided. Several realistic data sets, available online, are used to solve the chapter problems. This new edition includes updated screenshots and instructions for IBM SPSS 25, as well as updated pedagogy, such as callout boxes for each chapter indicating crucial elements of APA style and referencing outputs. IBM SPSS for Introductory Statistics is an invaluable supplemental (or lab text) book for students. In addition, this book and its companion, IBM SPSS for Intermediate Statistics, are useful as guides/reminders to faculty and professionals regarding the specific steps to take to use SPSS and/or how to use and interpret parts of SPSS with which they are unfamiliar." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)1109787684" ],
+        "edition" : [ "Sixth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "IBM SPSS for Introductory Statistics : Use and Interpretation" ]
+      },
+      "sort" : {
+        "title" : [ "IBM SPSS for Introductory Statistics : Use and Interpretation /" ],
+        "author" : [ "Morgan, George A." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068326570107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068326570107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068326570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781000004915,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ha!32ǂ s572 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "369",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "93",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "188",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "157",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "60",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "113",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "706",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 727,
+    "COMBINED_SEARCH_TIME" : 730,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Méthodes Statistiques Logiciels",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Statistical Methods Computer Programs",
+      "count" : "1"
+    }, {
+      "value" : "Spss Computer File",
+      "count" : "1"
+    }, {
+      "value" : "Spss For Windows",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barrett Karen Caplovitz",
+      "count" : "1"
+    }, {
+      "value" : "Gloeckner Gene W",
+      "count" : "1"
+    }, {
+      "value" : "Leech Nancy L",
+      "count" : "1"
+    }, {
+      "value" : "Morgan George A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

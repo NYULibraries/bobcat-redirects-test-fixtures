@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045067940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Wiley encyclopedia of clinical trials " ],
+        "subject" : [ "Clinical trials$$QClinical trials -- Encyclopedias", "Études cliniques$$QÉtudes cliniques -- Encyclopédies", "Génie biomédical", "biomedical engineering", "Biomedical engineering", "Clinical trials" ],
+        "format" : [ "1 online resource (volumes <1-4>) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780471462422;$$CISBN$$V047146242X;$$COCLC$$V(OCoLC)751970362;$$CISBN$$V9780471352037" ],
+        "creationdate" : [ "©2008-" ],
+        "publisher" : [ "Hoboken, N.J. : Wiley" ],
+        "mms" : [ "990045067940107871" ],
+        "contributor" : [ "D'Agostino, Ralph B.$$QD'Agostino, Ralph B.", "Sullivan, Lisa M. (Lisa Marie), 1961-$$QSullivan, Lisa M.", "Massaro, Joseph M. (Joseph Michael), 1963-$$QMassaro, Joseph M." ],
+        "addtitle" : [ "Encyclopedia of clinical trials", "Also known as: EoCT" ],
+        "contents" : [ "v. 1. A-C -- v. 2. D-I -- v. 3. K-P -- v. 4. Q-Z; index." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Wiley encyclopedia of clinical trials. Hoboken, N.J. : Wiley, ©2008-$$QWiley encyclopedia of clinical trials." ],
+        "mesh" : [ "Biomedical Research", "Clinical Trials as Topic", "Biomedical Technology", "Encyclopedia" ],
+        "place" : [ "Hoboken, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "wileyeb", "wileymrw", "aleph004506794" ],
+        "lds60" : [ "Title from title screen (viewed on September 6, 2011)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045067940107871" ],
+        "recordid" : [ "alma990045067940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004506794-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "D'Agostino", "Sullivan", "Massaro" ],
+        "aufirst" : [ "Ralph B.", "Lisa M.", "Joseph M." ],
+        "auinit" : [ "R", "L", "J" ],
+        "addau" : [ "D'Agostino, Ralph B.", "Sullivan, Lisa M. (Lisa Marie)", "Massaro, Joseph M. (Joseph Michael)" ],
+        "contributorfull" : [ "$$ND'Agostino, Ralph B.$$LD'Agostino$$FRalph B.$$Rcontributor", "$$NSullivan, Lisa M. (Lisa Marie)$$Rcontributor", "$$NMassaro, Joseph M. (Joseph Michael)$$Rcontributor" ],
+        "addtitle" : [ "Encyclopedia of clinical trials", "EoCT" ],
+        "date" : [ "2008", "©2008-" ],
+        "isbn" : [ "9780471462422", "047146242X", "9780471352037" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Hoboken, N.J" ],
+        "pub" : [ "Wiley" ],
+        "oclcid" : [ "(ocolc)751970362" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Wiley encyclopedia of clinical trials" ]
+      },
+      "sort" : {
+        "title" : [ "Wiley encyclopedia of clinical trials /" ],
+        "author" : [ "D'Agostino, Ralph B." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045067940107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045067940107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045067940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:047146242X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"853 c55ǂ w55 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "52",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "24",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "260",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 283,
+    "COMBINED_SEARCH_TIME" : 286,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biomedical Engineering",
+      "count" : "1"
+    }, {
+      "value" : "Biomedical Research",
+      "count" : "1"
+    }, {
+      "value" : "Biomedical Technology",
+      "count" : "1"
+    }, {
+      "value" : "Clinical Trials",
+      "count" : "1"
+    }, {
+      "value" : "Clinical Trials As Topic",
+      "count" : "1"
+    }, {
+      "value" : "Clinical Trials Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Génie Biomédical",
+      "count" : "1"
+    }, {
+      "value" : "Études Cliniques Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dagostino Ralph B",
+      "count" : "1"
+    }, {
+      "value" : "Massaro Joseph M",
+      "count" : "1"
+    }, {
+      "value" : "Sullivan Lisa M",
+      "count" : "1"
+    } ]
+  } ]
+}

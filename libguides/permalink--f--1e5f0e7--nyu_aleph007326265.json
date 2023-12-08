@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073262650107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Smart retailing : technologies and strategies " ],
+        "subject" : [ "Commerce de détail -- Innovations", "Retail trade -- Technological innovations" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9783030126087;$$CISBN$$V3030126080;$$COCLC$$V(OCoLC)1096311754;$$CISBN$$V3030126072;$$CISBN$$V9783030126070" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Pantano, Eleonora.$$QPantano, Eleonora." ],
+        "publisher" : [ "Cham : Palgrave Macmillan" ],
+        "description" : [ "By providing a comprehensive theoretical framework, this book aims to map the most relevant technologies that have the potential to reshape the retail industry. The authors demonstrate how technology is pushing innovation, and examine how smart technologies can be fruitfully applied both in-store and through digital channels. The aim of the book is to synthesise theory and practice, and provide a richer understanding of new digital opportunities offered by the 'smart' experience. An accessible resource for researchers who want to understand this phenomenon as part of their expertise in digital marketing and e-commerce, Smart Retailing also provides insights for practitioners who are experiencing the dramatic effects of new technologies on their retail strategies." ],
+        "mms" : [ "990073262650107871" ],
+        "contributor" : [ "Dennis, Charles (Charles E.)$$QDennis, Charles" ],
+        "series" : [ "Palgrave pivot$$QPalgrave pivot", "Palgrave pivot.$$QPalgrave pivot." ],
+        "contents" : [ "Intro; Foreword; Preface; Acknowledgment; Contents; List of Figures; List of Tables; 1: Introduction; 1.1 Book Aim; 1.2 Today and Tomorrow; 1.3 Benefits and Consequences of New Technologies in Retailing; 1.3.1 Consumer Perspective; 1.3.2 Retailer Perspective; References; 2: Technological Background; 2.1 In-Store Technology; 2.2 Outside Technology; 2.3 Pervasive Technology; 2.4 Omnichannel Retailing; References; 3: Retail As an Innovative Sector; 3.1 Innovation Around the Corner; 3.2 Knowledge Push Curve; 3.3 Innovation Introduction Process in Retailing; References", "4: A Smart Retailing Model4.1 From Smart City to Smart Retailing; 4.2 Smart Retailing Building Blocks; 4.2.1 Organizational Processes; 4.2.2 Selling Activities; 4.2.3 Smart Retail Model; 4.3 Benefits and Challenges of Smart Retail Approach; 4.4 Smart Retail Strategy; References; 5: Luxury Retailing As a Smart (Sub)Sector; 5.1 Luxury Retailing; 5.2 Luxury Retailers Approaching Smart Retailing; 5.3 Smart Retailing Results for Luxury Retailers; References; 6: Toward a Smart Store; 6.1 Smart Store As Part of Smart Retailing; 6.2 Smart Places; 6.3 Smart Store Building Blocks", "6.4 Smart Store Benefits and Challenges6.4.1 Enhancement and Entertaining Environment; 6.4.2 Interaction and Consumers' Mobility Within the Store; 6.4.3 Positive Consumer Behavioral Response; References; 7: Toward the Future; 7.1 Pillars of Change; 7.2 Marketing Intelligence; 7.3 Customer Assistance; 7.4 In-Store Social Interactions; References; 8: The Case of Tommy Hilfiger; 8.1 History of the Brand; 8.1.1 Retail Stores; 8.2 Digital Innovation; 8.3 Tommy's Smart Retailing Approach; References; 9: Conclusion; 9.1 What Smart Retailing Means; 9.2 Why Smart Retailing Matters", "9.3 How to Put Smart Retailing into PracticeReferences; Index" ],
+        "relation" : [ "$$Cform$$VPrint version: Pantano, Eleonora. Smart retailing. [Place of publication not identified] : PALGRAVE PIVOT, 2019$$QSmart retailing.$$Z990073409140107871" ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph007326265" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073262650107871" ],
+        "recordid" : [ "alma990073262650107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007326265-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Pantano" ],
+        "aufirst" : [ "Eleonora." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Pantano, Eleonora." ],
+        "addau" : [ "Dennis, Charles (Charles E.)" ],
+        "creatorfull" : [ "$$NPantano, Eleonora.$$LPantano$$FEleonora.$$Rauthor" ],
+        "contributorfull" : [ "$$NDennis, Charles (Charles E.)$$LDennis$$FCharles$$Rcontributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9783030126087", "3030126080", "3030126072", "9783030126070" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "By providing a comprehensive theoretical framework, this book aims to map the most relevant technologies that have the potential to reshape the retail industry. The authors demonstrate how technology is pushing innovation, and examine how smart technologies can be fruitfully applied both in-store and through digital channels. The aim of the book is to synthesise theory and practice, and provide a richer understanding of new digital opportunities offered by the 'smart' experience. An accessible resource for researchers who want to understand this phenomenon as part of their expertise in digital marketing and e-commerce, Smart Retailing also provides insights for practitioners who are experiencing the dramatic effects of new technologies on their retail strategies." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)1096311754" ],
+        "seriestitle" : [ "Palgrave pivot" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Smart retailing : technologies and strategies" ]
+      },
+      "sort" : {
+        "title" : [ "Smart retailing : technologies and strategies /" ],
+        "author" : [ "Pantano, Eleonora." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073262650107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073262650107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030126080,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5429.15ǂ p36 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "196",
+    "CALL_SOLR_GET_IDS_LIST" : "135",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "62",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "433",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 460,
+    "COMBINED_SEARCH_TIME" : 463,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Commerce De Détail Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Retail Trade Technological Innovations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dennis Charles",
+      "count" : "1"
+    }, {
+      "value" : "Pantano Eleonora",
+      "count" : "1"
+    } ]
+  } ]
+}

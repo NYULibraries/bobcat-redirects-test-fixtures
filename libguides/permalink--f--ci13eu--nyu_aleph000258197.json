@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002581970107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of Asian American/Pacific islander mental health " ],
+        "subject" : [ "Asian Americans -- Mental health$$QAsian Americans -- Mental health -- Abstracts", "Asian Americans -- Attitudes$$QAsian Americans -- Attitudes -- Abstracts", "Pacific Islander Americans -- Mental health$$QPacific Islander Americans -- Mental health -- Abstracts", "Pacific Islander Americans -- Attitudes$$QPacific Islander Americans -- Attitudes -- Abstracts" ],
+        "format" : [ "v. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V79604211;$$COCLC$$V(OCoLC)6329422;$$CGOVDOC$$VHE 20.8108:As 4/v.1-" ],
+        "creationdate" : [ "1979-" ],
+        "creator" : [ "University of Washington. Department of Psychology.$$QUniversity of Washington. Department of Psychology." ],
+        "publisher" : [ "Rockville, Md. : U.S. Dept. of Health and Human Services, Public Health Service, Alcohol, Drug Abuse, and Mental Health Administration, National Institute of Mental Health ; Washington, D.C. : for sale by the Supt. of Docs., U.S. Govt. Print. Off." ],
+        "mms" : [ "990002581970107871" ],
+        "contributor" : [ "Morishima, James K.$$QMorishima, James K.", "United States. Department of Health and Human Services$$QUnited States. Department of Health and Human Services", "National Institute of Mental Health (U.S.)$$QNational Institute of Mental Health (U.S.)" ],
+        "series" : [ "DHHS publication ; no. (ADM) 80-754$$QDHHS publication ; no. (ADM) 80-754" ],
+        "genre" : [ "Abstracts" ],
+        "mesh" : [ "Asian Continental Ancestry Group", "Mental Disorders", "Mental Health", "Minority Groups" ],
+        "place" : [ "Rockville, Md. : Washington, D.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000258197" ],
+        "lds53" : [ "000258197" ],
+        "lds60" : [ "Includes indexes.", "Reprint of 1979 Dept. of Health, Education, and Welfare (DHEW) publication, no. (ADM) 79-754." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002581970107871" ],
+        "recordid" : [ "alma990002581970107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000258197-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Morishima" ],
+        "aufirst" : [ "James K." ],
+        "auinit" : [ "J" ],
+        "aucorp" : [ "University of Washington. Department of Psychology." ],
+        "addau" : [ "Morishima, James K." ],
+        "contributorfull" : [ "$$NMorishima, James K.$$LMorishima$$FJames K.$$Rcontributor" ],
+        "date" : [ "1980 - 1979", "1979-" ],
+        "cop" : [ "Rockville, Md" ],
+        "pub" : [ "U.S. Dept. of Health and Human Services, Public Health Service, Alcohol, Drug Abuse, and Mental Health Administration, National Institute of Mental Health" ],
+        "oclcid" : [ "(ocolc)6329422" ],
+        "lccn" : [ "79604211" ],
+        "seriestitle" : [ "DHHS publication ; no. (ADM) 80-754" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook of Asian American/Pacific islander mental health" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of Asian American/Pacific islander mental health /" ],
+        "author" : [ "University of Washington. Department of Psychology." ],
+        "creationdate" : [ "1980" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002581970107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:79604211&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"451.5 a75ǂw37 1979",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "272",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 305,
+    "COMBINED_SEARCH_TIME" : 307,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1979",
+      "count" : "1"
+    }, {
+      "value" : "1980",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Asian Americans Attitudes Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Asian Americans Mental Health Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Asian Continental Ancestry Group Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Mental Disorders Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Mental Health Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Minority Groups Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Pacific Islander Americans Attitudes Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Pacific Islander Americans Mental Health Abstracts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Morishima James K",
+      "count" : "1"
+    }, {
+      "value" : "National Institute Of Mental Health U S",
+      "count" : "1"
+    }, {
+      "value" : "United States Department Of Health And Human Services",
+      "count" : "1"
+    }, {
+      "value" : "University Of Washington Department Of Psychology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

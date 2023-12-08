@@ -1,0 +1,304 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995635456707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of migration and health (Online)" ],
+        "subject" : [ "Emigration and immigration -- Health aspects$$QEmigration and immigration -- Health aspects -- Periodicals", "Immigrants -- Health and hygiene$$QImmigrants -- Health and hygiene -- Periodicals", "Communicable diseases$$QCommunicable diseases -- Periodicals", "Mental health$$QMental health -- Periodicals", "Health services accessibility -- Mental health$$QHealth services accessibility -- Mental health -- Periodicals", "Medical care", "Health services accessibility", "Public health", "Maladies infectieuses$$QMaladies infectieuses -- Périodiques", "Santé mentale$$QSanté mentale -- Périodiques", "Services de santé -- Accessibilité -- Santé mentale$$QServices de santé -- Accessibilité -- Santé mentale -- Périodiques", "Prestation de soins", "Services de santé -- Accessibilité", "Santé publique", "Santé mentale", "public health", "mental health", "Communicable diseases", "Emigration and immigration -- Health aspects", "Immigrants -- Health and hygiene", "Mental health" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2021229566;$$CISSN$$V2666-6235;$$COCLC$$V(OCoLC)1229815942" ],
+        "creationdate" : [ "2020-" ],
+        "publisher" : [ "Oxford : Elsevier Ltd.", "Began with Volume 1/2 (2020)." ],
+        "mms" : [ "9995635456707871" ],
+        "addtitle" : [ "Migration and health" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "mesh" : [ "Delivery of Health Care", "Emigration and Immigration", "Health Services Accessibility", "Public Health", "Mental Health", "Periodical" ],
+        "unititle" : [ "Journal of migration and health (Online)" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)4100000011492954" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995635456707871" ],
+        "recordid" : [ "alma9995635456707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "994100000011492954" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "J Migr Health" ],
+        "addtitle" : [ "Migration and health" ],
+        "date" : [ "2020", "2020-" ],
+        "issn" : [ "2666-6235" ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Elsevier Ltd." ],
+        "oclcid" : [ "(ocolc)1229815942" ],
+        "lccn" : [ "2021229566" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of migration and health (Online)" ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of migration and health (Online)" ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635456707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2021229566&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jv#6225",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "153",
+    "CALL_SOLR_GET_IDS_LIST" : "131",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "167",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "91",
+    "RETRIVE_FROM_DB_RELATIONS" : "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "137",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "129",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "591",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 619,
+    "COMBINED_SEARCH_TIME" : 621,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Communicable Diseases",
+      "count" : "1"
+    }, {
+      "value" : "Communicable Diseases Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Delivery Of Health Care",
+      "count" : "1"
+    }, {
+      "value" : "Emigration And Immigration",
+      "count" : "1"
+    }, {
+      "value" : "Emigration And Immigration Health Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Emigration And Immigration Health Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Health Services Accessibility",
+      "count" : "1"
+    }, {
+      "value" : "Health Services Accessibility Mental Health Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Immigrants Health And Hygiene",
+      "count" : "1"
+    }, {
+      "value" : "Immigrants Health And Hygiene Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Maladies Infectieuses Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Medical Care",
+      "count" : "1"
+    }, {
+      "value" : "Mental Health",
+      "count" : "1"
+    }, {
+      "value" : "Mental Health Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Prestation De Soins",
+      "count" : "1"
+    }, {
+      "value" : "Public Health",
+      "count" : "1"
+    }, {
+      "value" : "Santé Mentale",
+      "count" : "1"
+    }, {
+      "value" : "Santé Mentale Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Santé Publique",
+      "count" : "1"
+    }, {
+      "value" : "Services De Santé Accessibilité",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

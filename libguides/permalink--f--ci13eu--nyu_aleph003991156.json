@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039911560107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "It happens at Comic-Con : ethnographic essays on a pop culture phenomenon " ],
+        "subject" : [ "San Diego Comic-Con", "Popular culture -- United States", "Bandes dessinées -- Fans", "Culture populaire -- États-Unis", "ART -- Techniques -- Drawing", "Collectors and collecting -- Social aspects", "Comic book fans", "Comic books, strips, etc -- Marketing", "Popular culture", "United States" ],
+        "format" : [ "1 online resource (206 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781476614472;$$CISBN$$V1476614474;$$COCLC$$V(OCoLC)870588215;$$CISBN$$V9780786476947" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "Jefferson, North Carolina : McFarland & Company, Inc., Publishers" ],
+        "description" : [ "\"This collection of 13 new essays employs ethnographic methods to investigate San Diego's Comic-Con International, the largest annual celebration of the popular arts in North America. Working from a common grounding in fan studies, these individual explorations examine a range of cultural practices at an event drawing crowds of nearly 125,000 each summer. Investigations range from the practices of fans costuming themselves to the talk of corporate marketers. The collection seeks to expand fan studies, exploring Comic-Con International more deeply than any publication before it\"--Provided by publisher" ],
+        "mms" : [ "990039911560107871" ],
+        "contributor" : [ "Bolling, Ben, editor.$$QBolling, Ben", "Smith, Matthew J., 1971- editor.$$QSmith, Matthew J." ],
+        "contents" : [ "Foreword: visiting Comic-Con, revisiting comic book culture / Matthew Pustz -- Introduction: the pilgrimage to comic-con / Matthew J. Smith -- Part I. Identity and play at Comic-Con. Actualized fantasy at Comic-Con and the confessions of a \"sad cosplayer\" / Kane Anderson ; \"Love to mess with minds\": en(gendering) identities through crossplay / Catherine Thomas -- Part II. Gendered fandom. Queer conversations: LGBTIQ consumer/producer interface at Comic-Con and the intransitive writing of comics / Ben Bolling ; Soaring to new heights: cute, tough, geek girls and post-feminist discourse / Lisa H. Kaplan ; You don't own me: the representation of Twilight fandom / Melissa Miller -- Part III. Negotiating fandom through communicative practice. \"What can you tell me about (blank)?\": exploring the social rules of fan talk / Brian Swafford ; Facing front true believers: panels as exercises in image management / Jon Judy and Brad Palmer ; \"You are not a true geek, I am\": the role of communicative aggression in geek culture / Chad Wertley -- Part IV. Technology and participation. \"Ask me about my zombie plan\": fan dissection and female participation in RedvsBlue / Cameron Catalfu ; Where are the web shows? / Tanya D. Zuk -- Part V. Attending Con. What are we waiting for?: a look at line culture / Regina C. Gasser ; Tense proximities between CCI's comic book consumers, fans and creators / Christian Sager ; The volunteer experience: meaning, motivation and role conflict in a temporary organization / Michael J. Tornes -- Afterword / Randy Duncan and Peter M. Coogan -- References -- About the contibutors -- Index." ],
+        "relation" : [ "$$Cform$$VPrint version: It happens at Comic-Con. Jefferson, North Carolina : McFarland & Company, Inc., Publishers, [2014]$$QIt happens at Comic-Con." ],
+        "place" : [ "Jefferson, North Carolina :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph003991156" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039911560107871" ],
+        "recordid" : [ "alma990039911560107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003991156-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bolling", "Smith" ],
+        "aufirst" : [ "Ben", "Matthew J." ],
+        "auinit" : [ "B", "M" ],
+        "addau" : [ "Bolling, Ben", "Smith, Matthew J." ],
+        "contributorfull" : [ "$$NBolling, Ben$$LBolling$$FBen$$Reditor", "$$NSmith, Matthew J.$$Reditor" ],
+        "date" : [ "2014 - 2014", "2014" ],
+        "isbn" : [ "9781476614472", "1476614474", "9780786476947" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This collection of 13 new essays employs ethnographic methods to investigate San Diego's Comic-Con International, the largest annual celebration of the popular arts in North America. Working from a common grounding in fan studies, these individual explorations examine a range of cultural practices at an event drawing crowds of nearly 125,000 each summer. Investigations range from the practices of fans costuming themselves to the talk of corporate marketers. The collection seeks to expand fan studies, exploring Comic-Con International more deeply than any publication before it\"--Provided by publisher" ],
+        "cop" : [ "Jefferson, North Carolina" ],
+        "pub" : [ "McFarland & Company, Inc., Publishers" ],
+        "oclcid" : [ "(ocolc)870588215" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "It happens at Comic-Con : ethnographic essays on a pop culture phenomenon" ]
+      },
+      "sort" : {
+        "title" : [ "It happens at Comic-Con : ethnographic essays on a pop culture phenomenon /" ],
+        "author" : [ "Bolling, Ben, editor." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039911560107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1476614474,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6714ǂ i8 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "59",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 343,
+    "COMBINED_SEARCH_TIME" : 346,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Techniques Drawing",
+      "count" : "1"
+    }, {
+      "value" : "Bandes Dessinées Fans",
+      "count" : "1"
+    }, {
+      "value" : "Collectors And Collecting Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Comic Book Fans",
+      "count" : "1"
+    }, {
+      "value" : "Comic Books Strips Etc Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Culture Populaire États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Popular Culture",
+      "count" : "1"
+    }, {
+      "value" : "Popular Culture United States",
+      "count" : "1"
+    }, {
+      "value" : "San Diego Comic Con",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bolling Ben",
+      "count" : "1"
+    }, {
+      "value" : "Smith Matthew J",
+      "count" : "1"
+    } ]
+  } ]
+}

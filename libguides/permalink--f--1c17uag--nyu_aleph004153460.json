@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041534600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The welfare of animals used in research : practice and ethics " ],
+        "subject" : [ "Expérimentation animale -- Aspect moral", "Animaux de laboratoire", "PHILOSOPHY -- Ethics & Moral Philosophy", "Laboratory animals", "Animal experimentation -- Moral and ethical aspects" ],
+        "format" : [ "1 online resource (x, 271 pages) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2014000687;$$CISBN$$V9781118783030;$$CISBN$$V1118783034;$$CISBN$$V9781118783047;$$CISBN$$V1118783042;$$COCLC$$V(OCoLC)867852798;$$CISBN$$V9781119967071" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Hubrecht, R., author.$$QHubrecht, R." ],
+        "publisher" : [ "Ames, Iowa : John Wiley & Sons Inc." ],
+        "description" : [ "The Welfare of Animals used in Research: Practice and Ethics gives a complete and balanced overview of the issues surrounding the use of animals in scientific research. The focus of the book is on the animal welfare implications and ethics of animals in research. It covers the topics with sufficient depth to show a real understanding of varied and complex subjects, but conveys the information in a beautifully reader-friendly manner. Key features: Provides those who are not working in the field with a reasonable understanding as to why and how animals are used in res." ],
+        "mms" : [ "990041534600107871" ],
+        "series" : [ "UFAW Animal Welfare$$QUFAW Animal Welfare", "UFAW animal welfare series.$$QUFAW animal welfare series." ],
+        "contents" : [ "The use of legislative and other controls on animal research to meet public expectations and improve animal welfare -- Animal rights and animal welfare : philosophy and science -- Species choice and animal welfare -- The harm/benefit judgement -- Improving the welfare of animals used in research : the 3Rs -- Science and animal welfare : a partnership." ],
+        "genre" : [ "Internet Resources" ],
+        "relation" : [ "$$Cform$$VPrint version: Hubrecht, R. Welfare of animals used in research. Ames, Iowa : John Wiley & Sons Inc., 2014$$QWelfare of animals used in research.$$Z990039827310107871" ],
+        "mesh" : [ "Animal Welfare", "Animals, Laboratory" ],
+        "place" : [ "Ames, Iowa :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoeb", "aleph004153460" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041534600107871" ],
+        "recordid" : [ "alma990041534600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004153460-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hubrecht" ],
+        "aufirst" : [ "R." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Hubrecht, R." ],
+        "creatorfull" : [ "$$NHubrecht, R.$$LHubrecht$$FR.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781118783030", "1118783034", "9781118783047", "1118783042", "9781119967071" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The Welfare of Animals used in Research: Practice and Ethics gives a complete and balanced overview of the issues surrounding the use of animals in scientific research. The focus of the book is on the animal welfare implications and ethics of animals in research. It covers the topics with sufficient depth to show a real understanding of varied and complex subjects, but conveys the information in a beautifully reader-friendly manner. Key features: Provides those who are not working in the field with a reasonable understanding as to why and how animals are used in res." ],
+        "cop" : [ "Ames, Iowa" ],
+        "pub" : [ "John Wiley & Sons Inc." ],
+        "oclcid" : [ "(ocolc)867852798" ],
+        "lccn" : [ "2014000687" ],
+        "seriestitle" : [ "UFAW Animal Welfare" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The welfare of animals used in research : practice and ethics" ]
+      },
+      "sort" : {
+        "title" : [ "welfare of animals used in research : practice and ethics /" ],
+        "author" : [ "Hubrecht, R., author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041534600107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041534600107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041534600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1118783034,OCLC:,LCCN:2014000687&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"853 a53",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "233",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "41",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "39",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "466",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 502,
+    "COMBINED_SEARCH_TIME" : 505,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animal Experimentation Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Animal Welfare",
+      "count" : "1"
+    }, {
+      "value" : "Animals Laboratory",
+      "count" : "1"
+    }, {
+      "value" : "Animaux De Laboratoire",
+      "count" : "1"
+    }, {
+      "value" : "Expérimentation Animale Aspect Moral",
+      "count" : "1"
+    }, {
+      "value" : "Laboratory Animals",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Ethics Moral Philosophy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hubrecht R",
+      "count" : "1"
+    } ]
+  } ]
+}

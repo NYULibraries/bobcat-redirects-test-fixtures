@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990078246930107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Rethinking luxury fashion : the role of cultural intelligence in creative strategy " ],
+        "subject" : [ "Luxury goods industry -- Marketing", "Stratégie de marque", "Culture matérielle", "branding", "material culture (discipline)", "Sales & marketing", "Business strategy", "Manufacturing industries", "Business & Economics -- Marketing -- General", "Business & Economics -- Management", "Business & Economics -- Industries -- General", "Branding (Marketing)", "Clothing trade -- Marketing", "Leadership", "Material culture" ],
+        "format" : [ "1 online resource (xxii, 191 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9783030453015;$$CISBN$$V3030453014;$$COCLC$$V(OCoLC)1193125935;$$CISBN$$V3030453006" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Serdari, Thomaï, author.$$QSerdari, Thomaï" ],
+        "publisher" : [ "Cham, Switzerland : Palgrave Macmillan" ],
+        "description" : [ "Using the field of material culture as its methodological departure point, this Palgrave Pivot explains the strategic advantages that brands can set in place when their executives are fully in command of how to move from strategy to tactics. Specifically, it studies the brands, their products and signature experiences as well as their relationship with the consumer in an attempt to define the greater powers that have pushed fashion labels in and out of fashion. It focuses on case analysis of specific luxury fashion brands and attempts to link those to the greater context of material culture while also elaborating on theoretical discussions. Bridging theory and practice, this book explores the relationship between creative strategy and cultural intelligence." ],
+        "mms" : [ "990078246930107871" ],
+        "series" : [ "Palgrave Advances in Luxury$$QPalgrave Advances in Luxury", "Palgrave advances in luxury.$$QPalgrave advances in luxury." ],
+        "contents" : [ "Part I. Background of Luxury Fashion as a Field of Material Culture -- Defining Fashion, Luxury, and Luxury Fashion -- Established Methods of Classifying Luxury Fashion Brands -- A New Method for the Classification of Luxury Fashion Brands -- Part II. Production and Consumption of Luxury Fashion -- The Producers of \"Newness\" in Luxury Fashion -- What Do We Really Consume Through Luxury Fashion? -- How Do We Consume Luxury Fashion? -- Part III. Cultural Intelligence and Creativity -- A Close Look at Cultural Intelligence -- Cultural Hyperobjects -- Luxury Fashion Products Addressing Cultural Changes -- Luxury Marketing Strategies Based on Cultural Intelligence -- Part IV. The Future of Luxury Fashion -- Step by Step Application of the Framework." ],
+        "relation" : [ "$$Cform$$VPrint version: Serdari, Thomaï. Rethinking Luxury Fashion. New York : Palgrave Macmillan, 2020$$QRethinking Luxury Fashion." ],
+        "place" : [ "Cham, Switzerland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph007824693" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990078246930107871" ],
+        "recordid" : [ "alma990078246930107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007824693-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Serdari" ],
+        "aufirst" : [ "Thomaï" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Serdari, Thomaï" ],
+        "creatorfull" : [ "$$NSerdari, Thomaï$$LSerdari$$FThomaï$$Rauthor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9783030453015", "3030453014", "3030453006" ],
+        "abstract" : [ "Using the field of material culture as its methodological departure point, this Palgrave Pivot explains the strategic advantages that brands can set in place when their executives are fully in command of how to move from strategy to tactics. Specifically, it studies the brands, their products and signature experiences as well as their relationship with the consumer in an attempt to define the greater powers that have pushed fashion labels in and out of fashion. It focuses on case analysis of specific luxury fashion brands and attempts to link those to the greater context of material culture while also elaborating on theoretical discussions. Bridging theory and practice, this book explores the relationship between creative strategy and cultural intelligence." ],
+        "cop" : [ "Cham, Switzerland" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)1193125935" ],
+        "seriestitle" : [ "Palgrave Advances in Luxury" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Rethinking luxury fashion : the role of cultural intelligence in creative strategy" ]
+      },
+      "sort" : {
+        "title" : [ "Rethinking luxury fashion : the role of cultural intelligence in creative strategy /" ],
+        "author" : [ "Serdari, Thomaï, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990078246930107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990078246930107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990078246930107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030453014,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#9940 a2ǂs47 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "135",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "70",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "63",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "63",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "389",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 416,
+    "COMBINED_SEARCH_TIME" : 419,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Branding",
+      "count" : "1"
+    }, {
+      "value" : "Branding Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Industries General",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Marketing General",
+      "count" : "1"
+    }, {
+      "value" : "Business Strategy",
+      "count" : "1"
+    }, {
+      "value" : "Clothing Trade Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Culture Matérielle",
+      "count" : "1"
+    }, {
+      "value" : "Leadership",
+      "count" : "1"
+    }, {
+      "value" : "Luxury Goods Industry Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Manufacturing Industries",
+      "count" : "1"
+    }, {
+      "value" : "Material Culture",
+      "count" : "1"
+    }, {
+      "value" : "Material Culture Discipline",
+      "count" : "1"
+    }, {
+      "value" : "Sales Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Stratégie De Marque",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Serdari Thomaï",
+      "count" : "1"
+    } ]
+  } ]
+}

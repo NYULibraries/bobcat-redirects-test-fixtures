@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039259660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Asian Americans : an encyclopedia of social, cultural, economic, and political history " ],
+        "subject" : [ "Asian Americans$$QAsian Americans -- Encyclopedias" ],
+        "format" : [ "3 volumes (lxxviii, 1401 pages) : illustrations, portraits ; 29 cm" ],
+        "identifier" : [ "$$CLC$$V2013012894;$$CISBN$$V9781598842395 (set : cloth : alk. paper);$$CISBN$$V1598842390 (set : cloth : alk. paper);$$COCLC$$V(OCoLC)836261675" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "Santa Barbara, California : Greenwood, an imprint of ABC-CLIO, LLC" ],
+        "mms" : [ "990039259660107871" ],
+        "contributor" : [ "Zhao, Xiaojian, 1953- editor of compilation.$$QZhao, Xiaojian", "Park, Edward J. W., editor of compilation.$$QPark, Edward J. W." ],
+        "genre" : [ "Encyclopedias" ],
+        "place" : [ "Santa Barbara, California :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003925966" ],
+        "lds53" : [ "003925966" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039259660107871" ],
+        "recordid" : [ "alma990039259660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003925966-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zhao", "Park" ],
+        "aufirst" : [ "Xiaojian", "Edward J. W." ],
+        "auinit" : [ "X", "E" ],
+        "addau" : [ "Zhao, Xiaojian", "Park, Edward J. W." ],
+        "contributorfull" : [ "$$NZhao, Xiaojian$$LZhao$$FXiaojian$$Reditor", "$$NPark, Edward J. W.$$Reditor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781598842395", "1598842390" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Santa Barbara, California" ],
+        "pub" : [ "Greenwood, an imprint of ABC-CLIO, LLC" ],
+        "oclcid" : [ "(ocolc)836261675" ],
+        "lccn" : [ "2013012894" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Asian Americans : an encyclopedia of social, cultural, economic, and political history" ]
+      },
+      "sort" : {
+        "title" : [ "Asian Americans : an encyclopedia of social, cultural, economic, and political history /" ],
+        "author" : [ "Zhao, Xiaojian, 1953- editor of compilation." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990039259660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1598842390,OCLC:,LCCN:2013012894&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 a75ǂa842648 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "105",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "317",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 347,
+    "COMBINED_SEARCH_TIME" : 348,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Asian Americans Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Park Edward J W",
+      "count" : "1"
+    }, {
+      "value" : "Zhao Xiaojian",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,210 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022860830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dance words " ],
+        "subject" : [ "Dance$$QDance -- Dictionaries", "Dance notation$$QDance notation -- Dictionaries" ],
+        "format" : [ "xx, 718 p. ; 26 cm." ],
+        "identifier" : [ "$$CISBN$$V3718656019;$$CISBN$$V3718656051 (pbk.);$$COCLC$$V(OCoLC)32943565" ],
+        "creationdate" : [ "c1995" ],
+        "creator" : [ "Preston-Dunlop, Valerie Monthland.$$QPreston-Dunlop, Valerie Monthland." ],
+        "publisher" : [ "Chur, Switzerland ; Philadelphia, Pa. : Harwood Academic Publishers" ],
+        "mms" : [ "990022860830107871" ],
+        "series" : [ "Choreography and dance studies ; v. 8$$QChoreography and dance studies ", "Choreography and dance studies ; v. 8.$$QChoreography and dance studies " ],
+        "contents" : [ "The dance domain -- Dance people -- The performer -- The performer and the movement -- Technique -- Costume -- Movement and the moving body -- Dynamics and timing of movement -- Space-in-the-body and the dancer in space -- Notation -- Choreographic form -- Some ensemble, group, duo and solo dance concerns -- Choreographic processes -- The dance sound -- The sound and the movement -- The dance space -- Repertory, revival, and tradition --The nexus and the emergence of style -- Communication -- Dance research." ],
+        "genre" : [ "Dictionaries" ],
+        "place" : [ "Chur, Switzerland ; Philadelphia, Pa.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002286083" ],
+        "lds53" : [ "002286083" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022860830107871" ],
+        "recordid" : [ "alma990022860830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002286083-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Preston-Dunlop" ],
+        "aufirst" : [ "Valerie Monthland." ],
+        "auinit" : [ "V" ],
+        "au" : [ "Preston-Dunlop, Valerie Monthland." ],
+        "creatorfull" : [ "$$NPreston-Dunlop, Valerie Monthland.$$LPreston-Dunlop$$FValerie Monthland.$$Rauthor" ],
+        "date" : [ "1995", "c1995" ],
+        "isbn" : [ "3718656019", "3718656051" ],
+        "notes" : [ "Includes bibliographical references (p. 617-640) and indexes." ],
+        "cop" : [ "Chur, Switzerland ;" ],
+        "pub" : [ "Harwood Academic Publishers" ],
+        "oclcid" : [ "(ocolc)32943565" ],
+        "seriestitle" : [ "Choreography and dance studies ; v. 8" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dance words" ]
+      },
+      "sort" : {
+        "title" : [ "Dance words /" ],
+        "author" : [ "Preston-Dunlop, Valerie Monthland." ],
+        "creationdate" : [ "1995" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022860830107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3718656019,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "61",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "46",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "4",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "43",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "67",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "256",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 284,
+    "COMBINED_SEARCH_TIME" : 288,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1995",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Dance Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Dance Notation Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Preston Dunlop Valerie Monthland",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990063439680107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "chi" ],
+        "title" : [ "Yu yuan lu " ],
+        "subject" : [ "Streets -- China -- Shanghai -- History", "Shanghai (China) -- History -- Bibliography" ],
+        "format" : [ "357 pages : illustrations, maps ; 22 cm." ],
+        "identifier" : [ "$$CISBN$$V9787547915820;$$CISBN$$V7547915825;$$COCLC$$V(OCoLC)1056098782" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Xu, Jinjiang, author.$$QXu, Jinjiang", "徐锦江, author.$$Q徐锦江" ],
+        "publisher" : [ "Shanghai : Shanghai shu hua chu ban she", "上海 : 上海书画出版社" ],
+        "mms" : [ "990063439680107871" ],
+        "vertitle" : [ "愚园路 / 徐锦江著." ],
+        "edition" : [ "Di 1 ban.", "第1版." ],
+        "place" : [ "Shanghai :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006343968" ],
+        "lds53" : [ "006343968" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990063439680107871" ],
+        "recordid" : [ "alma990063439680107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006343968-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Xu" ],
+        "aufirst" : [ "Jinjiang" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Xu, Jinjiang" ],
+        "creatorfull" : [ "$$NXu, Jinjiang$$LXu$$FJinjiang$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9787547915820", "7547915825" ],
+        "notes" : [ "includes bibliographical references." ],
+        "cop" : [ "Shanghai" ],
+        "pub" : [ "Shanghai shu hua chu ban she" ],
+        "oclcid" : [ "(ocolc)1056098782" ],
+        "edition" : [ "Di 1 ban." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Yu yuan lu" ]
+      },
+      "sort" : {
+        "title" : [ "Yu yuan lu /" ],
+        "author" : [ "Xu, Jinjiang, author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990063439680107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:7547915825,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ds\"796 s275ǂx85 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "123",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "126",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "381",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Shanghai China History Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Streets China Shanghai History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Xu Jinjiang",
+      "count" : "1"
+    }, {
+      "value" : "徐锦江",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

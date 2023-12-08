@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990015412430107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Sources for debates of the House of Commons, 1768-1774 " ],
+        "subject" : [ "Great Britain -- Politics and government -- 1760-1820$$QGreat Britain -- Politics and government -- 1760-1820 -- Bibliography", "Great Britain Parliament$$QGreat Britain Parliament -- Bibliography" ],
+        "format" : [ "xiii, 98 p. ; 25 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)2948495" ],
+        "creationdate" : [ "1959" ],
+        "creator" : [ "Thomas, Peter David Garner.$$QThomas, Peter David Garner." ],
+        "publisher" : [ "London : The Athlone Press" ],
+        "mms" : [ "990015412430107871" ],
+        "series" : [ "Bulletin of the Institute of Historial Research : special supplement ; no. 4$$QBulletin of the Institute of Historial Research : special supplement ", "Bulletin of the Institute of Historical Research. Special supplement ; no. 4.$$QBulletin of the Institute of Historical Research." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001541243" ],
+        "lds53" : [ "001541243" ],
+        "lds60" : [ "\"This work forms part of a thesis accepted for the Ph. D. degree of the University of London.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990015412430107871" ],
+        "recordid" : [ "alma990015412430107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001541243-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Thomas" ],
+        "aufirst" : [ "Peter David Garner." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Thomas, Peter David Garner." ],
+        "creatorfull" : [ "$$NThomas, Peter David Garner.$$LThomas$$FPeter David Garner.$$Rauthor" ],
+        "date" : [ "1959" ],
+        "cop" : [ "London" ],
+        "pub" : [ "The Athlone Press" ],
+        "oclcid" : [ "(ocolc)2948495" ],
+        "seriestitle" : [ "Bulletin of the Institute of Historial Research : special supplement ; no. 4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Sources for debates of the House of Commons, 1768-1774" ]
+      },
+      "sort" : {
+        "title" : [ "Sources for debates of the House of Commons, 1768-1774 /" ],
+        "author" : [ "Thomas, Peter David Garner." ],
+        "creationdate" : [ "1959" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990015412430107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:2948495,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "016.3284102",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "81",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 342,
+    "COMBINED_SEARCH_TIME" : 345,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1959",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Great Britain Parliament Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Politics And Government 1760 1820 Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Thomas Peter David Garner",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

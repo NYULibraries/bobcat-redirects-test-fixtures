@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058882310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "There is life after college : what parents and students should know about navigating school to prepare for the jobs of tomorrow " ],
+        "subject" : [ "College student orientation -- United States", "College students -- Vocational guidance -- United States", "College graduates -- Employment -- United States", "Vocational guidance -- United States", "BUSINESS & ECONOMICS -- Careers -- General", "BUSINESS & ECONOMICS -- Careers -- Job Hunting", "College graduates -- Employment", "College student orientation", "College students -- Vocational guidance", "EDUCATION -- Higher", "United States" ],
+        "format" : [ "xix, 297 pages ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2015046199;$$CISBN$$V0062388851;$$CISBN$$V006238886X;$$CISBN$$V9780062388858;$$CISBN$$V9780062388865;$$COCLC$$V(OCoLC)937058620" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Selingo, Jeffrey J., author.$$QSelingo, Jeffrey J." ],
+        "publisher" : [ "New York, NY : William Morrow, an imprint of HarperCollins Publishers" ],
+        "description" : [ "\"From the bestselling author of College Unbound comes a hopeful, inspiring blueprint to help alleviate parents' anxiety and prepare their college-educated child to successfully land a good job after graduation. Saddled with thousands of dollars of debt, today's college students are graduating into an uncertain job market that is leaving them financially dependent on their parents for years to come--a reality that has left moms and dads wondering: What did I pay all that money for?There Is Life After College offers students, parents, and even recent graduates the practical advice and insight they need to jumpstart their careers. Education expert Jeffrey Selingo answers key questions--Why is the transition to post-college life so difficult for many recent graduates? How can graduates market themselves to employers that are reluctant to provide on-the-job training? What can institutions and individuals do to end the current educational and economic stalemate?--and offers a practical step-by-step plan every young professional can follow. From the end of high school through college graduation, he lays out exactly what students need to do to acquire the skills companies want. Full of tips, advice, and insight, this wise, practical guide will help every student, no matter their major or degree, find real employment--and give their parents some peace of mind\"-- Provided by publisher.", "\"The antidote to parents' anxiety about their kids being prepared for the job market upon leaving college -- a hopeful and inspiring guide on what to do right, from Jeffrey J. Selingo, bestselling author of College Unbound\"-- Provided by publisher." ],
+        "mms" : [ "990058882310107871" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "The Sprinters, Wanderers, And Stragglers -- What The Economy Needs, What Employers Want -- The Benefits Of A Detour -- Why A College's Location Matters -- Hands-On Learning For A Career -- Learning To Launch -- Redesigning The Bachelor's Degree -- Education, Delivered Just In Time -- How Employers Hire -- Telling Your Career Story." ],
+        "mesh" : [ "Employment" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005888231" ],
+        "lds53" : [ "005888231" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058882310107871" ],
+        "recordid" : [ "alma990058882310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005888231-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Selingo" ],
+        "aufirst" : [ "Jeffrey J." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Selingo, Jeffrey J." ],
+        "creatorfull" : [ "$$NSelingo, Jeffrey J.$$LSelingo$$FJeffrey J.$$Rauthor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "0062388851", "006238886X", "9780062388858", "9780062388865" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"From the bestselling author of College Unbound comes a hopeful, inspiring blueprint to help alleviate parents' anxiety and prepare their college-educated child to successfully land a good job after graduation. Saddled with thousands of dollars of debt, today's college students are graduating into an uncertain job market that is leaving them financially dependent on their parents for years to come--a reality that has left moms and dads wondering: What did I pay all that money for?There Is Life After College offers students, parents, and even recent graduates the practical advice and insight they need to jumpstart their careers. Education expert Jeffrey Selingo answers key questions--Why is the transition to post-college life so difficult for many recent graduates? How can graduates market themselves to employers that are reluctant to provide on-the-job training? What can institutions and individuals do to end the current educational and economic stalemate?--and offers a practical step-by-step plan every young professional can follow. From the end of high school through college graduation, he lays out exactly what students need to do to acquire the skills companies want. Full of tips, advice, and insight, this wise, practical guide will help every student, no matter their major or degree, find real employment--and give their parents some peace of mind\"-- Provided by publisher.", "\"The antidote to parents' anxiety about their kids being prepared for the job market upon leaving college -- a hopeful and inspiring guide on what to do right, from Jeffrey J. Selingo, bestselling author of College Unbound\"-- Provided by publisher." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "William Morrow, an imprint of HarperCollins Publishers" ],
+        "oclcid" : [ "(ocolc)937058620" ],
+        "lccn" : [ "2015046199" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "There is life after college : what parents and students should know about navigating school to prepare for the jobs of tomorrow" ]
+      },
+      "sort" : {
+        "title" : [ "There is life after college : what parents and students should know about navigating school to prepare for the jobs of tomorrow /" ],
+        "author" : [ "Selingo, Jeffrey J., author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990058882310107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780062388858,OCLC:,LCCN:2015046199&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://static.harpercollins.com/harperimages/isbn/large/5/9780062388865.jpg",
+        "displayLabel" : "Cover image"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#2343ǂ s45 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "69",
+    "CALL_SOLR_GET_IDS_LIST" : "66",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "83",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "81",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "11",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "237",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 266,
+    "COMBINED_SEARCH_TIME" : 268,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Careers General",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Careers Job Hunting",
+      "count" : "1"
+    }, {
+      "value" : "College Graduates Employment",
+      "count" : "1"
+    }, {
+      "value" : "College Graduates Employment United States",
+      "count" : "1"
+    }, {
+      "value" : "College Student Orientation",
+      "count" : "1"
+    }, {
+      "value" : "College Student Orientation United States",
+      "count" : "1"
+    }, {
+      "value" : "College Students Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "College Students Vocational Guidance United States",
+      "count" : "1"
+    }, {
+      "value" : "Education Higher",
+      "count" : "1"
+    }, {
+      "value" : "Employment",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Vocational Guidance United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Selingo Jeffrey J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

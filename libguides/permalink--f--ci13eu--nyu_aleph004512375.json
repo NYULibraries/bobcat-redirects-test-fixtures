@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045123750107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ghost stories of an antiquary. I " ],
+        "subject" : [ "James, M. R (Montague Rhodes), 1862-1936$$QJames, M. R (Montague Rhodes), 1862-1936 -- Adaptations Comic books, strips, etc", "Ghosts$$QGhosts -- Comic books, strips, etc" ],
+        "format" : [ "1 volume (unpaged) : color illustrations ; 24 cm" ],
+        "identifier" : [ "$$CISBN$$V1910593184;$$CISBN$$V9781910593189;$$COCLC$$V(OCoLC)938991579" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Moore, Leah., adapter.$$QMoore, Leah." ],
+        "publisher" : [ "London : SelfMadeHero" ],
+        "description" : [ "M. R. James is the acknowledged master of the English ghost story. Disdaining gore in favour of atmosphere and suggestion, his enduring supernatural tales are masterpieces of understated horror. Ghost Stories of an Antiquary, Volume 1 collects graphic retellings of four spine-chilling tales by the renowned medievalist and writer. At once true to their source and powerfully reimagined for a visual medium, Leah Moore and John Reppion's subtly crafted adaptations give a new lease of life to these classic stories of vanishing children, spectral works of art and vengeance from beyond the grave." ],
+        "mms" : [ "990045123750107871" ],
+        "contributor" : [ "James, M. R. (Montague Rhodes), 1862-1936.$$QJames, M. R.", "Reppion, John, adapter.$$QReppion, John", "Aneke, illustrator.$$QAneke", "Buss, Kit, illustrator.$$QBuss, Kit", "Mezher, Fouad, illustrator.$$QMezher, Fouad", "Wood, Alisdair, illustrator.$$QWood, Alisdair" ],
+        "addtitle" : [ "Ghost stories of an antiquary 1" ],
+        "contents" : [ "Canon Alberic's Scrap-book / illustrated by Aneke -- Lost Hearts / illustrated by Kit Buss -- The Mezzotint / illustrated by Fouad Mezher -- The Ash-tree / illustrated by Alisdair Wood." ],
+        "genre" : [ "Adaptations", "Ghost stories, English", "Paranormal fiction", "Comic books, strips, etc" ],
+        "relatedwork" : [ "Graphic novelization of (work) : James, M. R. (Montague Rhodes), 1862-1936. Ghost stories of an antiquary.$$QJames, M. R. (Montague Rhodes), 1862-1936. Ghost stories of an antiquary." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004512375" ],
+        "lds53" : [ "004512375" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045123750107871" ],
+        "recordid" : [ "alma990045123750107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004512375-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Moore" ],
+        "aufirst" : [ "Leah." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Moore, Leah." ],
+        "addau" : [ "James, M. R. (Montague Rhodes)", "Reppion, John", "Aneke", "Buss, Kit", "Mezher, Fouad", "Wood, Alisdair" ],
+        "creatorfull" : [ "$$NMoore, Leah.$$LMoore$$FLeah.$$Rauthor" ],
+        "contributorfull" : [ "$$NJames, M. R. (Montague Rhodes)$$LJames$$FM. R.$$Rcontributor", "$$NReppion, John$$Rcontributor", "$$NAneke$$Rillustrator", "$$NBuss, Kit$$Rillustrator", "$$NMezher, Fouad$$Rillustrator", "$$NWood, Alisdair$$Rillustrator" ],
+        "addtitle" : [ "Ghost stories of an antiquary 1" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "1910593184", "9781910593189" ],
+        "abstract" : [ "M. R. James is the acknowledged master of the English ghost story. Disdaining gore in favour of atmosphere and suggestion, his enduring supernatural tales are masterpieces of understated horror. Ghost Stories of an Antiquary, Volume 1 collects graphic retellings of four spine-chilling tales by the renowned medievalist and writer. At once true to their source and powerfully reimagined for a visual medium, Leah Moore and John Reppion's subtly crafted adaptations give a new lease of life to these classic stories of vanishing children, spectral works of art and vengeance from beyond the grave." ],
+        "cop" : [ "London" ],
+        "pub" : [ "SelfMadeHero" ],
+        "oclcid" : [ "(ocolc)938991579" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ghost stories of an antiquary. I" ]
+      },
+      "sort" : {
+        "title" : [ "Ghost stories of an antiquary. I /" ],
+        "author" : [ "Moore, Leah., adapter." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990045123750107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781910593189,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6737 m663ǂg46 bk 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "66",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "287",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 320,
+    "COMBINED_SEARCH_TIME" : 323,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ghosts Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "James M R Montague Rhodes 1862 1936 Adaptations Comic Books Strips Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aneke",
+      "count" : "1"
+    }, {
+      "value" : "Buss Kit",
+      "count" : "1"
+    }, {
+      "value" : "James M R",
+      "count" : "1"
+    }, {
+      "value" : "Mezher Fouad",
+      "count" : "1"
+    }, {
+      "value" : "Moore Leah",
+      "count" : "1"
+    }, {
+      "value" : "Reppion John",
+      "count" : "1"
+    }, {
+      "value" : "Wood Alisdair",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

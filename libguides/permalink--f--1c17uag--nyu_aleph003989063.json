@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039890630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "From dissertation to book " ],
+        "subject" : [ "Édition", "Art d'écrire -- Marketing", "Écriture savante", "LANGUAGE ARTS & DISCIPLINES -- Composition & Creative Writing", "LANGUAGE ARTS & DISCIPLINES -- Rhetoric", "REFERENCE -- Writing Skills", "Academic writing", "Authorship -- Marketing", "Editing", "Dissertation", "Edition", "Marketing", "Wissenschaftliche Literatur" ],
+        "format" : [ "1 online resource (x, 167 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780226062181;$$CISBN$$V022606218X;$$CISBN$$V9781306540568;$$CISBN$$V1306540569;$$COCLC$$V(OCoLC)871257633;$$CISBN$$V9780226062044" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Germano, William P., 1950-$$QGermano, William P." ],
+        "publisher" : [ "Chicago ; London : The University of Chicago Press" ],
+        "mms" : [ "990039890630107871" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "Chicago guides to writing, editing and publishing$$QChicago guides to writing, editing and publishing", "Chicago guides to writing, editing, and publishing.$$QChicago guides to writing, editing, and publishing." ],
+        "contents" : [ "Why this book -- Getting started, again? -- Nagging doubts -- The basic options -- Reading with an editor's eyes -- Planning and doing -- Getting into shape -- Making prose speak -- The snow globe and the machine -- What happens next -- Checklists." ],
+        "relation" : [ "$$Cform$$VPrint version: Germano, William P., 1950- From dissertation to book. Second edition$$QFrom dissertation to book.$$Z990042746850107871" ],
+        "mesh" : [ "Publishing" ],
+        "place" : [ "Chicago ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph003989063" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039890630107871" ],
+        "recordid" : [ "alma990039890630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003989063-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Germano" ],
+        "aufirst" : [ "William P." ],
+        "auinit" : [ "W" ],
+        "au" : [ "Germano, William P." ],
+        "creatorfull" : [ "$$NGermano, William P.$$LGermano$$FWilliam P.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780226062181", "022606218X", "9781306540568", "1306540569", "9780226062044" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Chicago ;" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)871257633" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "Chicago guides to writing, editing and publishing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "From dissertation to book" ]
+      },
+      "sort" : {
+        "title" : [ "From dissertation to book /" ],
+        "author" : [ "Germano, William P., 1950-" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039890630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:022606218X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn\"162ǂ g37 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "229",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "39",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "35",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "155",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "530",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 564,
+    "COMBINED_SEARCH_TIME" : 568,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Academic Writing",
+      "count" : "1"
+    }, {
+      "value" : "Art Décrire Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Authorship Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Dissertation",
+      "count" : "1"
+    }, {
+      "value" : "Editing",
+      "count" : "1"
+    }, {
+      "value" : "Edition",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Composition Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Reference Writing Skills",
+      "count" : "1"
+    }, {
+      "value" : "Wissenschaftliche Literatur",
+      "count" : "1"
+    }, {
+      "value" : "Écriture Savante",
+      "count" : "1"
+    }, {
+      "value" : "Édition",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Germano William P",
+      "count" : "1"
+    } ]
+  } ]
+}

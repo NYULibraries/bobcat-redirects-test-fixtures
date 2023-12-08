@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045556810107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Modernism and poetic inspiration : the shadow mouth " ],
+        "subject" : [ "Poetry, Modern -- History and criticism", "Poétique", "Modernisme (Littérature)", "Literary studies: poetry & poets", "LITERARY CRITICISM -- Poetry", "Literature", "Creation (Literary, artistic, etc.)", "Modernism (Literature)", "Poetics", "Poetry, Modern", "Moderne", "Lyrik", "Inspiration" ],
+        "format" : [ "1 online resource (xvi, 251 pages) : illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9780230622197;$$CISBN$$V0230622194;$$COCLC$$V(OCoLC)427853291;$$CISBN$$V0230610943;$$CISBN$$V9780230610941" ],
+        "creationdate" : [ "2009" ],
+        "creator" : [ "Rasula, Jed.$$QRasula, Jed." ],
+        "publisher" : [ "New York, NY : Palgrave Macmillan" ],
+        "description" : [ "A major provocation to modern poetics is the inspirational bounty of destruction (effacement, negation, undoing) bequeathed by Mallarmé. Modernist poets and artists explored this initiative through strategic explorations in the materiality of the medium, as well as dislocations of sensibility. Informing these maneuvers is the most ancient legacy of the muses, the supposition of a guiding voice, a shadow mouth. This legacy nourishes a fantasy of inspiration as privileged access to the murmur of pre-signifying meaning, a speech without words, a picture without images, or images that are so deep as to defy scrutiny. The sites of inspiration documented in Modernism and Poetic Inspiration range from nineteenth century linguistic theory to postmodern strategies of conceptual writing, encompassing well known instances of modernist poetics (Mallarmé, Pound, Olson) alongside obscure but revealing figures like Otto Nebel and Henri-Martin Barzun." ],
+        "mms" : [ "990045556810107871" ],
+        "edition" : [ "1st ed." ],
+        "series" : [ "Modern and contemporary poetry and poetics$$QModern and contemporary poetry and poetics", "Modern and contemporary poetry and poetics.$$QModern and contemporary poetry and poetics." ],
+        "contents" : [ "Introduction: The Shadow Mouth -- The Murmur: Modernist Alchemies of the Word -- Drawing a Blank: Episodes in the Poetics of Unworking -- Poetry's Voice-Over: Techniques of Inspiration -- Gendering the Muse Medusa's Gaze: Deep Image, or Traveling in the Dark -- \"When the mind is like a hall\": Places of a Possible Poetics." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Rasula, Jed. Modernism and poetic inspiration. 1st ed. New York, NY : Palgrave Macmillan, 2009$$QModernism and poetic inspiration.$$Z990032421300107871" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004555681" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045556810107871" ],
+        "recordid" : [ "alma990045556810107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004555681-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rasula" ],
+        "aufirst" : [ "Jed." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Rasula, Jed." ],
+        "creatorfull" : [ "$$NRasula, Jed.$$LRasula$$FJed.$$Rauthor" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9780230622197", "0230622194", "0230610943", "9780230610941" ],
+        "notes" : [ "Includes bibliographical references (pages 219-239) and index." ],
+        "abstract" : [ "A major provocation to modern poetics is the inspirational bounty of destruction (effacement, negation, undoing) bequeathed by Mallarmé. Modernist poets and artists explored this initiative through strategic explorations in the materiality of the medium, as well as dislocations of sensibility. Informing these maneuvers is the most ancient legacy of the muses, the supposition of a guiding voice, a shadow mouth. This legacy nourishes a fantasy of inspiration as privileged access to the murmur of pre-signifying meaning, a speech without words, a picture without images, or images that are so deep as to defy scrutiny. The sites of inspiration documented in Modernism and Poetic Inspiration range from nineteenth century linguistic theory to postmodern strategies of conceptual writing, encompassing well known instances of modernist poetics (Mallarmé, Pound, Olson) alongside obscure but revealing figures like Otto Nebel and Henri-Martin Barzun." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)427853291" ],
+        "doi" : [ "10.1057/9780230622197" ],
+        "edition" : [ "1st ed." ],
+        "seriestitle" : [ "Modern and contemporary poetry and poetics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Modernism and poetic inspiration : the shadow mouth" ]
+      },
+      "sort" : {
+        "title" : [ "Modernism and poetic inspiration : the shadow mouth /" ],
+        "author" : [ "Rasula, Jed." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045556810107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0230622194,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1042ǂ r26 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "131",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "169",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "420",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 454,
+    "COMBINED_SEARCH_TIME" : 456,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Creation Literary Artistic Etc",
+      "count" : "1"
+    }, {
+      "value" : "Inspiration",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Literary Studies Poetry Poets",
+      "count" : "1"
+    }, {
+      "value" : "Literature",
+      "count" : "1"
+    }, {
+      "value" : "Lyrik",
+      "count" : "1"
+    }, {
+      "value" : "Moderne",
+      "count" : "1"
+    }, {
+      "value" : "Modernism Literature",
+      "count" : "1"
+    }, {
+      "value" : "Modernisme Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Poetics",
+      "count" : "1"
+    }, {
+      "value" : "Poetry Modern",
+      "count" : "1"
+    }, {
+      "value" : "Poetry Modern History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Poétique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rasula Jed",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021919230107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Statistical handbook on aging Americans " ],
+        "subject" : [ "Older people -- United States$$QOlder people -- United States -- Statistics", "Aging -- United States$$QAging -- United States -- Handbooks, manuals, etc" ],
+        "format" : [ "xxii, 335 p. : ill., maps ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V93036711;$$CISBN$$V0897747216 (alk. ppaer);$$COCLC$$V(OCoLC)28963864" ],
+        "creationdate" : [ "1994" ],
+        "publisher" : [ "Phoenix, Ariz. : Oryx Press" ],
+        "mms" : [ "990021919230107871" ],
+        "contributor" : [ "Schick, Frank Leopold, 1918-1992.$$QSchick, Frank Leopold", "Schick, Renee.$$QSchick, Renee." ],
+        "edition" : [ "1994 ed. / compiled by Renee Schick." ],
+        "series" : [ "Statistical handbook series ; no. 5$$QStatistical handbook series ", "Statistical handbook series ; no. 5.$$QStatistical handbook series " ],
+        "genre" : [ "Statistics", "Handbooks, manuals, etc" ],
+        "place" : [ "Phoenix, Ariz. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002191923" ],
+        "lds53" : [ "002191923" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021919230107871" ],
+        "recordid" : [ "alma990021919230107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002191923-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Schick" ],
+        "aufirst" : [ "Frank Leopold", "Renee." ],
+        "auinit" : [ "F", "R" ],
+        "addau" : [ "Schick, Frank Leopold", "Schick, Renee." ],
+        "contributorfull" : [ "$$NSchick, Frank Leopold$$LSchick$$FFrank Leopold$$Rcontributor", "$$NSchick, Renee.$$Rcontributor" ],
+        "date" : [ "1994" ],
+        "isbn" : [ "0897747216" ],
+        "notes" : [ "Includes bibliographical references (p. [313]-329) and index." ],
+        "cop" : [ "Phoenix, Ariz" ],
+        "pub" : [ "Oryx Press" ],
+        "oclcid" : [ "(ocolc)28963864" ],
+        "lccn" : [ "93036711" ],
+        "edition" : [ "1994 ed. / compiled by Renee Schick." ],
+        "seriestitle" : [ "Statistical handbook series ; no. 5" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Statistical handbook on aging Americans" ]
+      },
+      "sort" : {
+        "title" : [ "Statistical handbook on aging Americans /" ],
+        "author" : [ "Schick, Frank Leopold, 1918-1992." ],
+        "creationdate" : [ "1994" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021919230107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0897747216,OCLC:,LCCN:93036711&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hq#1064 u5ǂs695 1994",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "122",
+    "CALL_SOLR_GET_IDS_LIST" : "125",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "51",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "48",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "108",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "417",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 448,
+    "COMBINED_SEARCH_TIME" : 451,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Aging United States Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Older People United States Statistics",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Schick Frank Leopold",
+      "count" : "1"
+    }, {
+      "value" : "Schick Renee",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

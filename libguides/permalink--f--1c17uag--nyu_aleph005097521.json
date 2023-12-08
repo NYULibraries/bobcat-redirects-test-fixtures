@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050975210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A companion to biological anthropology " ],
+        "subject" : [ "Anthropologie physique", "physical anthropology", "Physical anthropology" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2009052087;$$CISBN$$V9781444320039;$$CISBN$$V1444320033;$$CISBN$$V9781444320046;$$CISBN$$V1444320041;$$COCLC$$V(OCoLC)587393917;$$CISBN$$V9781405189002;$$CISBN$$V1405189002" ],
+        "creationdate" : [ "©2010" ],
+        "publisher" : [ "Malden, Mass. : Wiley-Blackwell" ],
+        "description" : [ "An extensive overview of the rapidly growing field of biological anthropology; chapters are written by leading scholars who have themselves played a major role in shaping the direction and scope of the discipline. - Larsen has created a who's who of biological anthropology, with contributions from the leading authorities in the field - Contributing authors have played a major role in shaping the direction and scope of the topics they write about - Offers discussions of current issues, controversies, and future directions within the area - Presents coverage of the many recent innovations and discoveries that are transforming the subject." ],
+        "mms" : [ "990050975210107871" ],
+        "contributor" : [ "Larsen, Clark Spencer.$$QLarsen, Clark Spencer." ],
+        "series" : [ "Blackwell companions to anthropology ; v. 20$$QBlackwell companions to anthropology ", "Blackwell companions to anthropology.$$QBlackwell companions to anthropology." ],
+        "contents" : [ "Cover -- Title Page -- Copyright Page -- Dedication -- Table of Contents -- List of Illustrations -- List of Tables -- Notes on Contributors -- Acknowledgments -- Introduction -- Part I -- History -- Chapter 1 -- History of Biological Anthropology -- Part II -- The Present and the Living -- Chapter 2 -- Evolution: What It Means and How We Know -- Chapter 3 -- Systematics, Taxonomy, and Phylogenetics: Ordering Life, Past and Present -- Chapter 4 -- The Study of Human Population Genetics -- Chapter 5 -- Human Molecular Genetics: The DNA Revolution and Variation -- Chapter 6 -- Deconstructing Race: Racial Thinking, Geographic Variation, and Implications for Biological Anthropology -- Chapter 7 -- Growth, Development, Senescence, and Aging: A Life History Perspective -- Chapter 8 -- Climate-Related Morphological Variation and Physiological Adaptations in Homo sapiens -- Chapter 9 -- Emerging Themes in Anthropology and Epidemiology: Geographic Spread, Evolving Pathogens, and Syndemics -- Chapter 10 -- Demographic Estimation: Indirect Techniques for Anthropological Populations -- Chapter 11 -- Nutrition, Health, and Function -- Chapter 12 -- Ongoing Evolution in Humans -- Chapter 13 -- Primates Defined -- Chapter 14 -- Primate Behavior and Sociality -- Chapter 15 -- Evolution of the Brain, Cognition, and Speech -- Part III -- The Past and the Dead -- Chapter 16 -- Primate Origins: The Early Cenozoic Fossil Record -- Chapter 17 -- Catarrhine Cousins: The Origin and Evolution of Monkeys and Apes of the Old World -- Chapter 18 -- The Earliest Hominins -- Chapter 19 -- Origins, Evolution, and Dispersal of Early Members of the Genus Homo -- Chapter 20 -- Species, Populations, and Assimilation in Later Human Evolution -- Chapter 21 -- Bioarchaeology: Health, Lifestyle, and Society in Recent Human Evolution -- Chapter 22 -- Paleopathology: A Contemporary Perspective -- Chapter 23 -- Issues in Forensic Anthropology -- Chapter 24 -- Paleogenetics: Ancient DNA in Anthropology -- Part IV -- The Living and the Dead -- Chapter 25 -- Diet Reconstruction and Ecology Using Stable Isotope Ratios -- Chapter 26 -- Current Concepts in Bone Biology -- Chapter 27 -- 8216;Growing Planes8217;: Incremental Growth Layers in the Dental Enamel of Human Ancestors -- Chapter 28 -- Understanding Skull Function from a Mechanobiological Perspective -- Chapter 29 -- Tooth Form and Function in Biological Anthropology -- Chapter 30 -- Locomotor Function across Primates (Including Humans) -- Part V -- Science and Education -- Chapter 31 -- Science Education and Physical Anthropology -- Index." ],
+        "genre" : [ "Electronic books", "Electronic resource" ],
+        "relation" : [ "$$Cform$$VA companion to biological anthropology$$Z9995723689307871", "$$Cform$$VPrint version: Companion to biological anthropology. Malden, Mass. : Wiley-Blackwell, ©2010$$QCompanion to biological anthropology." ],
+        "mesh" : [ "Anthropology, Physical" ],
+        "place" : [ "Malden, Mass. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebcacls", "ebceb", "wileyeb", "aleph005097521" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050975210107871" ],
+        "recordid" : [ "alma990050975210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005097521-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Larsen" ],
+        "aufirst" : [ "Clark Spencer." ],
+        "auinit" : [ "C" ],
+        "addau" : [ "Larsen, Clark Spencer." ],
+        "contributorfull" : [ "$$NLarsen, Clark Spencer.$$LLarsen$$FClark Spencer.$$Rcontributor" ],
+        "date" : [ "2010", "©2010" ],
+        "isbn" : [ "9781444320039", "1444320033", "9781444320046", "1444320041", "9781405189002", "1405189002" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "An extensive overview of the rapidly growing field of biological anthropology; chapters are written by leading scholars who have themselves played a major role in shaping the direction and scope of the discipline. - Larsen has created a who's who of biological anthropology, with contributions from the leading authorities in the field - Contributing authors have played a major role in shaping the direction and scope of the topics they write about - Offers discussions of current issues, controversies, and future directions within the area - Presents coverage of the many recent innovations and discoveries that are transforming the subject." ],
+        "cop" : [ "Malden, Mass" ],
+        "pub" : [ "Wiley-Blackwell" ],
+        "oclcid" : [ "(ocolc)587393917" ],
+        "doi" : [ "10.1002/9781444320039" ],
+        "lccn" : [ "2009052087" ],
+        "seriestitle" : [ "Blackwell companions to anthropology ; v. 20" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A companion to biological anthropology" ]
+      },
+      "sort" : {
+        "title" : [ "companion to biological anthropology /" ],
+        "author" : [ "Larsen, Clark Spencer." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975210107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975210107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1444320033,OCLC:,LCCN:2009052087&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gn!60ǂ c62 2010eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "319",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "69",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "557",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 597,
+    "COMBINED_SEARCH_TIME" : 600,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Anthropologie Physique",
+      "count" : "1"
+    }, {
+      "value" : "Anthropology Physical",
+      "count" : "1"
+    }, {
+      "value" : "Physical Anthropology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Larsen Clark Spencer",
+      "count" : "1"
+    } ]
+  } ]
+}

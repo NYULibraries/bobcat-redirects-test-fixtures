@@ -1,0 +1,216 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990024058910107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "English poetry: select bibliographical guides" ],
+        "subject" : [ "English poetry$$QEnglish poetry -- Bibliography", "English poetry -- History and criticism", "English poetry$$QEnglish poetry -- Bibliography of bibliographies" ],
+        "format" : [ "xi, 378 p. 21 cm." ],
+        "identifier" : [ "$$CLC$$V72179303;$$CISBN$$V0198710208;$$COCLC$$V(OCoLC)333864" ],
+        "creationdate" : [ "1971" ],
+        "publisher" : [ "London, Oxford University Press" ],
+        "mms" : [ "990024058910107871" ],
+        "contributor" : [ "Dyson, A. E.$$QDyson, A. E." ],
+        "contents" : [ "Chaucer, by J. A. Burrow.--Spenser, by P. Bayley.--Donne, by W. Milgate.--Herbert, by M. Bottrall.--Milton, by D. Bush.--Marvell, by D. I. B. Smith.--Dryden, by J. Kinsley.--Pope, by G. Tillotson.--Blake, by D. V. Erdman.--Wordsworth, by J. C. Maxwell and S. C. Gill.--Coleridge, by J. Beer.--Byron, by J. Jump.--Shelley, by R. B. Woodings.--Keats, by R. Gittings.--Tennyson, by J. D. Hunt.--Browning, by I. Jack.--Arnold, by J. Bertram.--Hopkins, by G. Storey.--Yeats, by J. Stallworthy.--Eliot, by A. Ridler." ],
+        "genre" : [ "Bibliography", "Bibliography of bibliographies" ],
+        "place" : [ "London," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002405891" ],
+        "lds53" : [ "002405891" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990024058910107871" ],
+        "recordid" : [ "alma990024058910107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002405891-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dyson" ],
+        "aufirst" : [ "A. E." ],
+        "auinit" : [ "A" ],
+        "addau" : [ "Dyson, A. E." ],
+        "contributorfull" : [ "$$NDyson, A. E.$$LDyson$$FA. E.$$Rcontributor" ],
+        "date" : [ "1971" ],
+        "isbn" : [ "0198710208" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)333864" ],
+        "lccn" : [ "72179303" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "English poetry: select bibliographical guides" ]
+      },
+      "sort" : {
+        "title" : [ "English poetry: select bibliographical guides;" ],
+        "author" : [ "Dyson, A. E." ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990024058910107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0198710208,OCLC:,LCCN:72179303&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2014 p7ǂe53",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "88",
+    "CALL_SOLR_GET_IDS_LIST" : "152",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "168",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "165",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "500",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 525,
+    "COMBINED_SEARCH_TIME" : 528,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "English Poetry Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "English Poetry Bibliography Of Bibliographies",
+      "count" : "1"
+    }, {
+      "value" : "English Poetry History And Criticism",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dyson A E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

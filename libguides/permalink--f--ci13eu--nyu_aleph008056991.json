@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080569910107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Routledge Handbook of Latin America in the World." ],
+        "subject" : [ "Latin America -- Foreign relations -- 1980-", "Amérique latine -- Relations extérieures -- 1980-", "Diplomatic relations", "Latin America", "Since 1980" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V1322212201;$$CISBN$$V9781322212203;$$CISBN$$V9781317621850;$$CISBN$$V1317621859;$$COCLC$$V(OCoLC)893652583" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Dominguez, Jorge I.$$QDominguez, Jorge I." ],
+        "publisher" : [ "Taylor and Francis" ],
+        "description" : [ "The Handbook of Latin America in the World explains how the Latin American countries have both reacted and contributed to changing international dynamics over the last 30 years. It provides a comprehensive picture of Latin America's global engagement by looking at specific processes and issues that link governments and other actors, social and economic, within the region and beyond. Leading scholars offer an up-to-date state of the field, theoretically and empirically, thus avoiding a narrow descriptive approach. The Handbook includes a section on theoretical approaches that analyze Latin America's place in the international political and economic system and its foreign policy making. Other sections focus on the main countries, actors, and issues in Latin America's international relations. In so doing, the book sheds light on the complexity of the international relations of selected countries, and on their efforts to act multilaterally. The Routledge Handbook of Latin America in the World is a must-have reference for academics, researchers, and students in the fields of Latin American politics, international relations, and area specialists of all regions of the world." ],
+        "mms" : [ "990080569910107871" ],
+        "contents" : [ "\"Cover\"; \"Title\"; \"Copyright\"; \"Dedication\"; \"CONTENTS\"; \"List of Figures and Tables\"; \"Introduction: Latin America in World Politics\"; \"PART I Latin America in the World\"; \"1 A Transformed Latin America in a Rapidly Changing World\"; \"PART II Theoretical Approaches\"; \"2 Realism in the Periphery\"; \"3 Grand Strategy\"; \"4 Autonomy and Latin American International Relations Thinking\"; \"5 The Dynamics of Asymmetrical Development: Latin America in the Global Economy\"; \"6 Liberalism, Constructivism and Latin American Politics since the 1990s.\"", "\"7 Presidentialist Decision Making in Latin American Foreign Policy: Examples from Regional Integration Processes\"\"PART III Latin American Foreign Policies\"; \"8 Argentinaâ€?s Foreign Policy\"; \"9 Rethinking Global and Domestic Challenges in Brazilian Foreign Policy\"; \"10 Venezuelaâ€?s Foreign Policy, 1920sâ€?2010s\"; \"11 Decision Making in Mexican Foreign Policy\"; \"12 Cubaâ€?s External Projection: The Interplay between International Relations Theory and Foreign Policy Analysis\"; \"PART IV Extra-Regional Actors\"; \"13 The United States and Latin America.\"", "\"14 Shaping Chinese Engagement in Latin America\"\"15 Latin Americaâ€?s Relations with Europe: A Stable but Limited and Fragmented Partnership\"; \"16 Japanâ€?s Relations with Latin America and the Caribbean: Broad Changes under Globalization\"; \"PART V Integration and Multilateralism\"; \"17 Trade and Economic Integration\"; \"18 North America\"; \"19 Turning Inward: Ruling Coalitions and Mercosurâ€?s Retrenchment\"; \"20 Regional Multilateralism in Latin America: UNASUR, ALBA and CELAC\"; \"21 Beyond Reach? The Organization of American States and Effective Multilateralism.\"", "\"22 The Inter-American Court of Human Rights: Its Decisive Impact on Latin American Rights\"\"PART VI Issues in Latin Americaâ€?s International Relations\"; \"23 Latin America and the Idea of International Human Rights\"; \"24 The Dynamics of Nuclear Politics: Lessons from Latin America\"; \"25 The International Politics of Drugs and Illicit Trade in the Americas\"; \"26 Latin America in Global Environmental Governance\"; \"27 Migration in the Americas\"; \"28 Interstate Security Issues in Latin America.\"", "\"29 Business beyond Boundaries in Latin America: The Power of Multilatinas and Innovative Practices to Address Growth and Social Advancement\"\"Contributors\"; \"Index.\"" ],
+        "relation" : [ "$$Cform$$VRoutledge handbook of Latin America in the world$$Z9995659855907871" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph008056991" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080569910107871" ],
+        "recordid" : [ "alma990080569910107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008056991-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dominguez" ],
+        "aufirst" : [ "Jorge I." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Dominguez, Jorge I." ],
+        "creatorfull" : [ "$$NDominguez, Jorge I.$$LDominguez$$FJorge I.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "1322212201", "9781322212203", "9781317621850", "1317621859" ],
+        "abstract" : [ "The Handbook of Latin America in the World explains how the Latin American countries have both reacted and contributed to changing international dynamics over the last 30 years. It provides a comprehensive picture of Latin America's global engagement by looking at specific processes and issues that link governments and other actors, social and economic, within the region and beyond. Leading scholars offer an up-to-date state of the field, theoretically and empirically, thus avoiding a narrow descriptive approach. The Handbook includes a section on theoretical approaches that analyze Latin America's place in the international political and economic system and its foreign policy making. Other sections focus on the main countries, actors, and issues in Latin America's international relations. In so doing, the book sheds light on the complexity of the international relations of selected countries, and on their efforts to act multilaterally. The Routledge Handbook of Latin America in the World is a must-have reference for academics, researchers, and students in the fields of Latin American politics, international relations, and area specialists of all regions of the world." ],
+        "pub" : [ "Taylor and Francis" ],
+        "oclcid" : [ "(ocolc)893652583" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Routledge Handbook of Latin America in the World." ]
+      },
+      "sort" : {
+        "title" : [ "Routledge Handbook of Latin America in the World." ],
+        "author" : [ "Dominguez, Jorge I." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080569910107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080569910107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080569910107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781322212203,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jz#1519 r68 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "235",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "78",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "54",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "43",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "51",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "492",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 524,
+    "COMBINED_SEARCH_TIME" : 529,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Amérique Latine Relations Extérieures 1980",
+      "count" : "1"
+    }, {
+      "value" : "Diplomatic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Latin America",
+      "count" : "1"
+    }, {
+      "value" : "Latin America Foreign Relations 1980",
+      "count" : "1"
+    }, {
+      "value" : "Since 1980",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dominguez Jorge I",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039396820107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Blackwell Companion to Social Work" ],
+        "format" : [ "1 online resource (545 p.)." ],
+        "identifier" : [ "$$CISBN$$V9781118451762;$$CISBN$$V1118451767;$$COCLC$$V(OCoLC)1347025743;$$CISBN$$V9781118451724" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Davies, Martin.$$QDavies, Martin." ],
+        "publisher" : [ "Newark : John Wiley & Sons, Incorporated" ],
+        "mms" : [ "990039396820107871" ],
+        "series" : [ "New York Academy of Sciences Ser.$$QNew York Academy of Sciences Ser." ],
+        "contents" : [ "Cover -- Title page -- Copyright page -- Contents -- Contributors -- Introduction -- Book 1 Social Work's Psychosocial Framework -- Book 2 The Human Life Cycle -- Book 3 When Social Work is Needed -- Book 4 Social Work in Practice -- Book 5 Social Work's Core Components -- Book 6 Social Work's Theory Base -- In Conclusion -- BOOK 1: Social Work's Psychosocial Framework -- Chapter 1.1: Social Work and Society -- What is Social Work? -- What is Society? -- Social Work and 'Pre-Industrial' Society -- Social Work and 'Modern' Society -- Statutory (public) initiatives in the nineteenth century", "Voluntary (philanthropic) initiatives in the nineteenth century -- Social Work in the Twentieth Century -- Social Work and 'Postmodern' Society -- Conclusion -- Further Reading -- References -- Chapter 1.2: Social Work and Politics -- Ideology and Central Government -- Administration, Devolution and Local Government -- Social Services -- Conclusion -- Further Reading -- References -- Chapter 1.3: Gendering the Social Work Agenda -- Childcare -- Community Care -- Women as carers -- Women and mental health -- Disabled women -- Older women -- Criminal Justice -- Methods and Settings of Intervention", "Challenges to Men -- Conclusion -- Further Reading -- References -- Chapter 1.4: Culture, Ethnicity and Identity -- Culture and Ethnicity -- Self-Identity -- Culture, Ethnicity and Identity: An Interplay -- Self-Identity and Practice with Ethnic Minority Children -- Negating the Other's Self-Definition -- Black Culture, Black Perspectives -- Conclusion: Closing Gaps -- Further Reading -- References -- Chapter 1.5: Families -- Changing Families and Households -- Lone-Parent Families -- Conclusion -- Further Reading -- References -- Chapter 1.6: Sexuality, Sexual Relationships and Social Work", "Defining the Territory -- Self-Awareness, Sexuality and Gender -- Social Work, Sexuality and Vulnerable Adults -- Sexuality and Young People -- Sexuality and Older People -- Social Work with Sex Offenders -- Sexuality in Social Work Training and Organizations -- Conclusion -- Further Reading -- References -- Chapter 1.7: Psychology and Social Work -- The Biological Approach -- The Behaviourist Approach -- The Cognitive Approach -- The Psychodynamic Approach -- The Humanist Approach -- Process of Social Work -- Pitfalls of Drawing Exclusively upon Psychology -- Potential -- Further Reading" ],
+        "relation" : [ "$$Cform$$VPrint version: Davies, Martin The Blackwell Companion to Social Work Newark : John Wiley & Sons, Incorporated,c2013$$QThe Blackwell Companion to Social Work" ],
+        "place" : [ "Newark :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph003939682" ],
+        "lds60" : [ "Description based upon print version of record.", "The Promotion of Resilience" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039396820107871" ],
+        "recordid" : [ "alma990039396820107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003939682-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Davies" ],
+        "aufirst" : [ "Martin." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Davies, Martin." ],
+        "creatorfull" : [ "$$NDavies, Martin.$$LDavies$$FMartin.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781118451762", "1118451767", "9781118451724" ],
+        "notes" : [ "References -- BOOK 2: The Human Life Cycle -- Chapter 2.1: Infancy -- Early Development -- Social Cognition and Attachment Formation -- Attachment Classifications -- Further Reading -- References -- Chapter 2.2: Childhood -- Dependency and Autonomy in Pre-School Children -- Development of Social Understanding -- Developing and Refining a Sense of Self -- Conclusion -- Further Reading -- References -- Chapter 2.3: Adolescence -- Lifespan Theory as an Aid to Understanding Adolescence -- Social Change -- The Importance of the Family -- Risk and Vulnerability -- Antisocial Behaviour" ],
+        "cop" : [ "Newark" ],
+        "pub" : [ "John Wiley & Sons, Incorporated" ],
+        "oclcid" : [ "(ocolc)1347025743" ],
+        "seriestitle" : [ "New York Academy of Sciences Ser." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Blackwell Companion to Social Work" ]
+      },
+      "sort" : {
+        "title" : [ "Blackwell Companion to Social Work" ],
+        "author" : [ "Davies, Martin." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039396820107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039396820107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039396820107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1118451767,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "362.3 20941",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "246",
+    "CALL_SOLR_GET_IDS_LIST" : "134",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "129",
+    "RETRIVE_FROM_DB_RELATIONS" : "65",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "96",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "525",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 551,
+    "COMBINED_SEARCH_TIME" : 554,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Davies Martin",
+      "count" : "1"
+    } ]
+  } ]
+}

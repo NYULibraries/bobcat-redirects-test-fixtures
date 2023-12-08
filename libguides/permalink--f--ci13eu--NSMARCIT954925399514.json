@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995638547807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Film quarterly (Online)" ],
+        "subject" : [ "Motion pictures$$QMotion pictures -- Periodicals", "Radio$$QRadio -- Periodicals", "Television$$QTelevision -- Periodicals", "Cinéma$$QCinéma -- Périodiques", "Radio$$QRadio -- Périodiques", "Télévision$$QTélévision -- Périodiques", "Motion pictures", "Radio", "Television" ],
+        "identifier" : [ "$$CLC$$V  2001214639;$$CISSN$$V1533-8630;$$COCLC$$V(OCoLC)45955217;$$CISSN$$V0015-1386" ],
+        "creationdate" : [ "1958-" ],
+        "publisher" : [ "Berkeley, CA : University of California Press", "Vol. 12, no. 1 (fall 1958)-" ],
+        "mms" : [ "9995638547807871" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VThe Quarterly of Film Radio and Television$$QThe Quarterly of Film Radio and Television$$Z9995622318707871", "$$Cform$$VLink to related record$$Z990029016380107871" ],
+        "unititle" : [ "Film quarterly (Online)" ],
+        "place" : [ "Berkeley, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925399514" ],
+        "lds60" : [ "Title from title screen (JSTOR, viewed Aug. 12, 2004)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995638547807871" ],
+        "recordid" : [ "alma9995638547807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925399514" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "FILM QUART" ],
+        "date" : [ "1958", "1958-" ],
+        "issn" : [ "1533-8630", "0015-1386" ],
+        "cop" : [ "Berkeley, CA" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)45955217" ],
+        "lccn" : [ "2001214639" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Film quarterly (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Film quarterly (Online)" ],
+        "creationdate" : [ "1958" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638547807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2001214639&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "166",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "229",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "46",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "16",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "197",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "26",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "523",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 556,
+    "COMBINED_SEARCH_TIME" : 558,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1958",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Radio",
+      "count" : "1"
+    }, {
+      "value" : "Radio Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Radio Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Television",
+      "count" : "1"
+    }, {
+      "value" : "Television Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Télévision Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

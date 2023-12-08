@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990047830150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford handbook of the Italian economy since unification " ],
+        "subject" : [ "Italy -- Economic conditions", "Italy -- Economic policy", "Italie -- Conditions économiques", "BUSINESS & ECONOMICS -- Economic Conditions", "BUSINESS & ECONOMICS -- Economic History", "BUSINESS & ECONOMICS -- Economics -- Comparative", "POLITICAL SCIENCE -- Economic Conditions", "Economic history", "Economic policy", "Italy", "Wirtschaftliche Lage", "Wirtschaftsentwicklung", "Italien" ],
+        "format" : [ "1 online resource (xii, 785 pages) : illustrations, maps" ],
+        "identifier" : [ "$$CISBN$$V9780199936700;$$CISBN$$V0199936706;$$CISBN$$V9781299600881;$$CISBN$$V1299600883;$$CISBN$$V9780199971480;$$CISBN$$V019997148X;$$COCLC$$V(OCoLC)843881790;$$CISBN$$V9780199936694" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "New York : Oxford University Press" ],
+        "description" : [ "'The Oxford Handbook of the Italian Economy Since Unification' provides, for the first time, a comprehensive, quantitative 'new economic history' of Italy." ],
+        "mms" : [ "990047830150107871" ],
+        "contributor" : [ "Toniolo, Gianni, 1942- editor.$$QToniolo, Gianni" ],
+        "addtitle" : [ "Handbook of the Italian economy since unification" ],
+        "series" : [ "[Oxford handbooks]$$Q[Oxford handbooks]", "Oxford handbooks.$$QOxford handbooks." ],
+        "contents" : [ "An overview of Italy's economic growth / Gianni Toniolo -- Italy and the first age of globalization, 1861-1940 / Harold James and Kevin H. O'Rourke -- The golden age and the second globalization in Italy / Nicholas Crafts and Marco Magnani -- Italy, Germany, and Japan : from economic miracles to virtual stagnation / Andrea Boltho -- The Italian economy seen from abroad / Marcello de Cecco -- Part II: Sources of growth and welfare. National accounts, 1861-2011 / Alberto Baffigi -- Productivity / Stephen N. Broadberry, Claire Giordano, and Francesco. Zollino -- Standards of living / Andrea Brandolini and Giovanni Vecchi -- Human capital / Giuseppe Bertola and Paolo Sestito -- Migrations / Matteo Gomellini and Cormac Ó. Gráda -- Democratization and civic capital / Luigi Guiso and Paolo Pinotti -- Part III: International competitiveness. A long-run perspective on comparative advantage / Giovanni Federico and Nikolaus Wolf -- Real exchange rates, trade, and growth / Virginia Di Nino, Barry Eichengreen, and Massimo Sbracia -- Innovation and foreign technology / Federico Barbiellini Amidei, John Cantwell, and Anna Spadavecchia -- Old and new Italian manufacturing multinational firms / Fabrizio Onida, Giuseppe Berta, and Mario Perugini -- Part IV. Firms, banks, and the state. Techonology, firm size and entrepreneurship / Franco Amatori, Matteo Bugamelli, and Andrea Colli -- Resource allocation by the banking system / Stefano Battilossi, Alfredo Gigliobianco, and Giuseppe Marinelli -- Public debt and economic growth : Italy's first 150 years / Fabrizio Balassone, Maura Francese, and Angelo Pace -- Why the Italian administrative system is a source of competitive disadvantage / Magda Bianco and Giulio Napolitano -- Regional convergence / Giovanni Iuzzolino, Guido Pellegrini, and Gianfranco Viesti -- Regional disparities : internal geography and external trade / Brian A'Hearn and Anthony J. Venables -- Data appendix : Italy's national accounts (1861-2010) / Alberto Baffigi, Stephen N. Broadberry, Claire Giordano, and Francesco Zollino." ],
+        "relation" : [ "$$Cform$$VPrint version: Oxford handbook of the Italian economy since unification. New York : Oxford University Press, ©2013$$QOxford handbook of the Italian economy since unification.$$Z990037355880107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "oxfacad", "aleph004783015" ],
+        "lds60" : [ "Series from jacket." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990047830150107871" ],
+        "recordid" : [ "alma990047830150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004783015-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Toniolo" ],
+        "aufirst" : [ "Gianni" ],
+        "auinit" : [ "G" ],
+        "addau" : [ "Toniolo, Gianni" ],
+        "contributorfull" : [ "$$NToniolo, Gianni$$LToniolo$$FGianni$$Reditor" ],
+        "addtitle" : [ "Handbook of the Italian economy since unification" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9780199936700", "0199936706", "9781299600881", "1299600883", "9780199971480", "019997148X", "9780199936694" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "'The Oxford Handbook of the Italian Economy Since Unification' provides, for the first time, a comprehensive, quantitative 'new economic history' of Italy." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)843881790" ],
+        "doi" : [ "10.1093/oxfordhb/9780199936694.001.0001" ],
+        "seriestitle" : [ "[Oxford handbooks]" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford handbook of the Italian economy since unification" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford handbook of the Italian economy since unification /" ],
+        "author" : [ "Toniolo, Gianni, 1942- editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047830150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047830150107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0199936706,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hc\"305ǂ o94 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "233",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "57",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "45",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "50",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "448",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 474,
+    "COMBINED_SEARCH_TIME" : 478,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Economic Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Economic History",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Economics Comparative",
+      "count" : "1"
+    }, {
+      "value" : "Economic History",
+      "count" : "1"
+    }, {
+      "value" : "Economic Policy",
+      "count" : "1"
+    }, {
+      "value" : "Italie Conditions Économiques",
+      "count" : "1"
+    }, {
+      "value" : "Italien",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Italy Economic Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Italy Economic Policy",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Economic Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Wirtschaftliche Lage",
+      "count" : "1"
+    }, {
+      "value" : "Wirtschaftsentwicklung",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Toniolo Gianni",
+      "count" : "1"
+    } ]
+  } ]
+}

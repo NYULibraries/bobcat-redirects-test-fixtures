@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049893050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford handbook of health care management " ],
+        "subject" : [ "Services de santé -- Administration", "Politique sanitaire", "Health and Fitness", "Medical policy", "Health services administration", "Health and Wellbeing" ],
+        "format" : [ "1 online resource (xvi, 560 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780191015199;$$CISBN$$V0191015199;$$CISBN$$V9780191774263;$$CISBN$$V019177426X;$$COCLC$$V(OCoLC)953455104;$$CISBN$$V9780198705109" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "Oxford : Oxford University Press" ],
+        "description" : [ "This Handbook provides an authoritative overview of current issues and debates in the field of health care management. It contains over twenty chapters from well-known and eminent academic authors, who were carefully selected for their expertise and asked to provide a broad and critical overview of developments in their particular topic area. The development of an international perspective and body of knowledge is a key feature of the book. The Handbook secondly makes a case for bringing back a social science perspective into the study of the field of health care management. It therefore contains a number of contrasting and theoretically orientated chapters (e.g. on institutionalism; critical management studies). This social science based approach is a refreshing alternative to much existing work in this domain and offers a good way into current academic debates in this field. The Handbook thirdly explores a variety of important policy and organizational developments apparent within the current health care field (e.g. new organizational forms; growth of management consulting in health care organizations). It therefore explores and comments on major contemporary trends apparent in the practice field." ],
+        "mms" : [ "990049893050107871" ],
+        "contributor" : [ "Ferlie, Ewan, 1956- editor.$$QFerlie, Ewan", "Montgomery, Kathleen, 1946- editor.$$QMontgomery, Kathleen", "Reff Pedersen, Anne, 1970- editor.$$QReff Pedersen, Anne" ],
+        "addtitle" : [ "Handbook of health care management", "Health care management" ],
+        "series" : [ "Oxford handbooks online$$QOxford handbooks online", "Oxford handbooks online.$$QOxford handbooks online." ],
+        "contents" : [ "Institutionalization and professionalization / Trish Reay, Elizabeth Goodrick, Bob Hinings -- Narratives of Health Policy / Graeme Currie, Graham Martin -- A New Lens on Organizational Innovations in Health Care / Stephen Shortell, Rachael Addicott -- Culture in Health Care Organizations / Russell Mannion, Huw Davies -- The Critical Health Care Management Domain / Martin Kitchener, Richard Thomas -- Interprofessional Interactions and their Impact on Professional Boundaries / Louise Fitzgerald -- Effective Team Working in Health Care / Michael A. West, Lynn Markiewicz -- Re-humanizing Health Care / Cheryl Rathert, Timothy J. Vogus, Laura McClelland -- A Discursive Approach to Organizational Health Communication / Peter Kjær, Anne Reff Pedersen, Anja Svejgaard Pors -- Health Care Transparency in Organizational Perspective / Charlotta Levay -- Clinical Ethics Support in Contemporary Health Care / Evan Doran, Ian Kerridge, Christopher Jordens, Ainsley J. Newson -- Plural Leadership in Health Care Organizations / Viviane Sergi, Mariline Comeau-Vallée, Maria Lusiani, Jean-Louis Denis, Ann Langley -- Patient Safety and Quality / Jeffrey Braithwaite, Liam Donaldson -- Mobilizing Knowledge in Health Care / Huw Davies, Alison Powell, Sandra Nutley -- The Paradox of Health Care Performance Measurement and Management / Jenny M. Lewis -- Implementing E-Health / Bill Doolin -- Communities of Practice and Situated Learning in Health Care / Davide Nicolini, Harry Scarbrough, Julia Gracheva -- Accountability in Health Care / Haldor Byrkeflot, Karsten Vrangbaek -- Pharmaceuticals, Money, and the Health Care Organizational Field / Wendy Lipworth -- Management Consulting in Health / Ian Kirkpatrick, Chris Lonsdale, Indraneth Neogy -- Re-placing Care / Roland Bal, Lieke Oldenhof, Jeroen Postma." ],
+        "relation" : [ "$$Cform$$VPrint version: Oxford handbook of health care management. First edition. Oxford, United Kingdom : Oxford University Press, 2016$$QOxford handbook of health care management.$$Z990042810760107871" ],
+        "mesh" : [ "Health Services Administration", "Health Policy" ],
+        "place" : [ "Oxford :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxfacad", "aleph004989305" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049893050107871" ],
+        "recordid" : [ "alma990049893050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004989305-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ferlie", "Montgomery", "ReffPedersen" ],
+        "aufirst" : [ "Ewan", "Kathleen", "Anne" ],
+        "auinit" : [ "E", "K", "A" ],
+        "addau" : [ "Ferlie, Ewan", "Montgomery, Kathleen", "Reff Pedersen, Anne" ],
+        "contributorfull" : [ "$$NFerlie, Ewan$$LFerlie$$FEwan$$Reditor", "$$NMontgomery, Kathleen$$Reditor", "$$NReff Pedersen, Anne$$Reditor" ],
+        "addtitle" : [ "Handbook of health care management", "Health care management" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "isbn" : [ "9780191015199", "0191015199", "9780191774263", "019177426X", "9780198705109" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This Handbook provides an authoritative overview of current issues and debates in the field of health care management. It contains over twenty chapters from well-known and eminent academic authors, who were carefully selected for their expertise and asked to provide a broad and critical overview of developments in their particular topic area. The development of an international perspective and body of knowledge is a key feature of the book. The Handbook secondly makes a case for bringing back a social science perspective into the study of the field of health care management. It therefore contains a number of contrasting and theoretically orientated chapters (e.g. on institutionalism; critical management studies). This social science based approach is a refreshing alternative to much existing work in this domain and offers a good way into current academic debates in this field. The Handbook thirdly explores a variety of important policy and organizational developments apparent within the current health care field (e.g. new organizational forms; growth of management consulting in health care organizations). It therefore explores and comments on major contemporary trends apparent in the practice field." ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)953455104" ],
+        "doi" : [ "10.1093/oxfordhb/9780198705109.001.0001" ],
+        "lccn" : [ "2016933503" ],
+        "seriestitle" : [ "Oxford handbooks online" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford handbook of health care management" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford handbook of health care management /" ],
+        "author" : [ "Ferlie, Ewan, 1956- editor." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049893050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0191015199,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ra\"971ǂ f47 2016eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "255",
+    "CALL_SOLR_GET_IDS_LIST" : "116",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "41",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "544",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 584,
+    "COMBINED_SEARCH_TIME" : 588,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Health And Fitness",
+      "count" : "1"
+    }, {
+      "value" : "Health And Wellbeing",
+      "count" : "1"
+    }, {
+      "value" : "Health Policy",
+      "count" : "1"
+    }, {
+      "value" : "Health Services Administration",
+      "count" : "1"
+    }, {
+      "value" : "Medical Policy",
+      "count" : "1"
+    }, {
+      "value" : "Politique Sanitaire",
+      "count" : "1"
+    }, {
+      "value" : "Services De Santé Administration",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ferlie Ewan",
+      "count" : "1"
+    }, {
+      "value" : "Montgomery Kathleen",
+      "count" : "1"
+    }, {
+      "value" : "Reff Pedersen Anne",
+      "count" : "1"
+    } ]
+  } ]
+}

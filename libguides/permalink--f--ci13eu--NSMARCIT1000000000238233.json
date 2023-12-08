@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616877607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng;fre;ita;ger" ],
+        "title" : [ "Food & history " ],
+        "subject" : [ "Cooking", "Food", "Gastronomy", "Cooking -- History$$QCooking -- History -- Periodicals", "Food -- History$$QFood -- History -- Periodicals", "Food -- Europe -- History$$QFood -- Europe -- History -- Periodicals", "Gastronomy -- History$$QGastronomy -- History -- Periodicals" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V2034-2101;$$CISSN$$V1780-3187" ],
+        "creationdate" : [ "©2003-" ],
+        "publisher" : [ "Turnhout, Belgium : Brepols", "Vol. 1, no 1 (2003)-" ],
+        "mms" : [ "9995616877607871" ],
+        "contributor" : [ "Institut européen d'histoire de l'alimentation, issuing body.$$QInstitut européen d'histoire de l'alimentation", "Institut européen d'histoire et des cultures de l'alimentation, issuing body.$$QInstitut européen d'histoire et des cultures de l'alimentation" ],
+        "addtitle" : [ "Food and history" ],
+        "frequency" : [ "Triannual, 2014-" ],
+        "genre" : [ "History", "Periodicals" ],
+        "relation" : [ "$$Cform$$VPrint version:$$Z990000630410107871" ],
+        "place" : [ "Turnhout, Belgium :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000238233" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616877607871" ],
+        "recordid" : [ "alma9995616877607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000238233" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Food hist. (Print.)" ],
+        "addtitle" : [ "Food and history" ],
+        "date" : [ "2003", "©2003-" ],
+        "issn" : [ "2034-2101", "1780-3187" ],
+        "cop" : [ "Turnhout, Belgium" ],
+        "pub" : [ "Brepols" ],
+        "oclcid" : [ "(de-599)zdb2234703-3", "(ckb)1000000000238233", "(conser)--2006223622" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Food & history" ]
+      },
+      "sort" : {
+        "title" : [ "Food & history /" ],
+        "author" : [ "Institut européen d'histoire de l'alimentation, issuing body." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616877607871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616877607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616877607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616877607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tx\"341ǂ f66",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "193",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "122",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "56",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "93",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "480",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 508,
+    "COMBINED_SEARCH_TIME" : 511,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "ger",
+      "count" : "1"
+    }, {
+      "value" : "ita",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cooking",
+      "count" : "1"
+    }, {
+      "value" : "Cooking History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Food",
+      "count" : "1"
+    }, {
+      "value" : "Food Europe History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Food History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gastronomy",
+      "count" : "1"
+    }, {
+      "value" : "Gastronomy History Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Institut Européen Dhistoire De Lalimentation",
+      "count" : "1"
+    }, {
+      "value" : "Institut Européen Dhistoire Et Des Cultures De Lalimentation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990005913710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Rocky Horror picture show" ],
+        "subject" : [ "Horror films$$QHorror films -- Parodies, imitations, etc", "Transvestites$$QTransvestites -- Drama" ],
+        "format" : [ "2 videodiscs (100 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CPUBNUM$$V2000574;$$COCLC$$V(OCoLC)ocm45233540" ],
+        "creationdate" : [ "2000" ],
+        "publisher" : [ "Beverly Hills, CA : Twentieth Century Fox Home Entertainment" ],
+        "description" : [ "A mixture of fantastical rock opera and horror movie spoof. A couple of ordinary kids have car trouble one dark and rainy night and knock on the door of a looming gothic mansion. They are stunned to learn that they have stumbled into an ongoing convention of kinky characters, hosted by Dr. Frank-N-Furter, a mad scientist from the planet Transsexual." ],
+        "mms" : [ "990005913710107871" ],
+        "contributor" : [ "Sharman, Jim.$$QSharman, Jim.", "White, Michael, 1936-$$QWhite, Michael", "O'Brien, Richard, 1942-$$QO'Brien, Richard", "Curry, Tim.$$QCurry, Tim.", "Sarandon, Susan, 1946-$$QSarandon, Susan", "Bostwick, Barry.$$QBostwick, Barry.", "Twentieth Century-Fox Film Corporation.$$QTwentieth Century-Fox Film Corporation.", "Twentieth Century Fox Home Entertainment, Inc.$$QTwentieth Century Fox Home Entertainment, Inc." ],
+        "contents" : [ "Disc 1. Feature -- Disc 2. Supplemental." ],
+        "genre" : [ "Parodies, imitations, etc", "Drama", "Rock films", "Fantasy films", "Science fiction films", "Musical films", "Erotic films", "Feature films", "Video recordings for the hearing impaired" ],
+        "place" : [ "Beverly Hills, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000591371" ],
+        "lds53" : [ "000591371" ],
+        "lds60" : [ "Widescreen version (aspect ratio 1.66:1).", "Originally released as a motion picture in 1975.", "Features include: Disc 1: view the original cut or new edition with Superheroes ; commentary by Richard O'Brien and Patricia Quinn ; the theatrical experience ; DVD games ; Disc 2. excerpts and outtakes from VH1 behind the music, including interviews with Susan Sarandon, Barry Bostwick, Richard O'Brien, Patricia Quinn and Meatloaf ; VH1 pop-up video of Hot patootie! ; Rocky Horror double feature video show ; theatrical trailers" ],
+        "lds64" : [ "Musical direction and arrangements by Richard Hartley ; director of photography, Peter Suschitzky ; editor, Graeme Clifford ; associate producer, John Goldstone ; executive producer, Lou Adler." ],
+        "lds65" : [ "Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien, Jonathan Adams, Meatloaf, Little Nell, Charles Gray, Patricia Quinn." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990005913710107871" ],
+        "recordid" : [ "alma990005913710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000591371-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sharman", "White", "O'Brien", "Curry", "Sarandon", "Bostwick" ],
+        "aufirst" : [ "Jim.", "Michael", "Richard", "Tim.", "Susan", "Barry." ],
+        "auinit" : [ "J", "M", "R", "T", "S", "B" ],
+        "addau" : [ "Sharman, Jim.", "White, Michael", "O'Brien, Richard", "Curry, Tim.", "Sarandon, Susan", "Bostwick, Barry." ],
+        "contributorfull" : [ "$$NSharman, Jim.$$LSharman$$FJim.$$Rcontributor", "$$NWhite, Michael$$Rcontributor", "$$NO'Brien, Richard$$Rcontributor", "$$NCurry, Tim.$$Rcontributor", "$$NSarandon, Susan$$Rcontributor", "$$NBostwick, Barry.$$Rcontributor" ],
+        "date" : [ "2000 - 1975", "2000" ],
+        "abstract" : [ "A mixture of fantastical rock opera and horror movie spoof. A couple of ordinary kids have car trouble one dark and rainy night and knock on the door of a looming gothic mansion. They are stunned to learn that they have stumbled into an ongoing convention of kinky characters, hosted by Dr. Frank-N-Furter, a mad scientist from the planet Transsexual." ],
+        "cop" : [ "Beverly Hills, CA" ],
+        "pub" : [ "Twentieth Century Fox Home Entertainment" ],
+        "oclcid" : [ "(ocolc)45233540" ],
+        "upcid" : [ "024543005759" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The Rocky Horror picture show" ]
+      },
+      "sort" : {
+        "title" : [ "Rocky Horror picture show" ],
+        "author" : [ "Sharman, Jim." ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990005913710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990005913710107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:45233540,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "782.14ǂrock",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "96",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "108",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "343",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 380,
+    "COMBINED_SEARCH_TIME" : 383,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1975",
+      "count" : "1"
+    }, {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Horror Films Parodies Imitations Etc",
+      "count" : "1"
+    }, {
+      "value" : "Transvestites Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bostwick Barry",
+      "count" : "1"
+    }, {
+      "value" : "Curry Tim",
+      "count" : "1"
+    }, {
+      "value" : "Obrien Richard",
+      "count" : "1"
+    }, {
+      "value" : "Sarandon Susan",
+      "count" : "1"
+    }, {
+      "value" : "Sharman Jim",
+      "count" : "1"
+    }, {
+      "value" : "Twentieth Century Fox Film Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Twentieth Century Fox Home Entertainment Inc",
+      "count" : "1"
+    }, {
+      "value" : "White Michael",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

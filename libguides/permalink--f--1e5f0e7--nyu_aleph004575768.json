@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045757680107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Becoming a graphic and digital designer : a guide to careers in design " ],
+        "subject" : [ "Art publicitaire -- Orientation professionnelle", "Arts graphiques -- Orientation professionnelle", "Infographie -- Orientation professionnelle", "ART -- Techniques -- Drawing", "Commercial art -- Vocational guidance", "Computer graphics -- Vocational guidance", "Graphic arts -- Vocational guidance" ],
+        "format" : [ "1 online resource", "text file" ],
+        "identifier" : [ "$$CLC$$V2015016138;$$CISBN$$V9781119044703;$$CISBN$$V1119044707;$$CISBN$$V9781119044963;$$CISBN$$V1119044960;$$CISBN$$V1118771982;$$COCLC$$V(OCoLC)907931540;$$CISBN$$V9781118771983" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Heller, Steven, author.$$QHeller, Steven" ],
+        "publisher" : [ "Hoboken, New Jersey : John Wiley & Sons, Inc." ],
+        "description" : [ "\"Building on the past sucesses of Becoming a Graphic Designer and Becoming a Digital Designer, this newly combined fifth edition addresses the demands of finding and suceeding at a design career in the 21st century.\"--Back cover" ],
+        "mms" : [ "990045757680107871" ],
+        "contributor" : [ "Vienne, Véronique, author.$$QVienne, Véronique" ],
+        "edition" : [ "Fifth edition." ],
+        "contents" : [ "Graphic design -- Design genres -- Transitional design -- Digital design -- Design education." ],
+        "relation" : [ "$$Cform$$VPrint version: Heller, Steven. Becoming a graphic and digital designer. Fifth edition. Hoboken, New Jersey : John Wiley & Sons, Inc., 2015$$QBecoming a graphic and digital designer." ],
+        "unititle" : [ "Becoming a graphic designer" ],
+        "includes" : [ "Heller, Steven, Becoming a graphic designer$$QHeller, Steven, Becoming a graphic designer" ],
+        "place" : [ "Hoboken, New Jersey :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph004575768" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045757680107871" ],
+        "recordid" : [ "alma990045757680107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004575768-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Heller" ],
+        "aufirst" : [ "Steven" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Heller, Steven" ],
+        "addau" : [ "Vienne, Véronique" ],
+        "creatorfull" : [ "$$NHeller, Steven$$LHeller$$FSteven$$Rauthor" ],
+        "contributorfull" : [ "$$NVienne, Véronique$$LVienne$$FVéronique$$Rcontributor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781119044703", "1119044707", "9781119044963", "1119044960", "1118771982", "9781118771983" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Building on the past sucesses of Becoming a Graphic Designer and Becoming a Digital Designer, this newly combined fifth edition addresses the demands of finding and suceeding at a design career in the 21st century.\"--Back cover" ],
+        "cop" : [ "Hoboken, New Jersey" ],
+        "pub" : [ "John Wiley & Sons, Inc." ],
+        "oclcid" : [ "(ocolc)907931540" ],
+        "lccn" : [ "2015016138" ],
+        "edition" : [ "Fifth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Becoming a graphic and digital designer : a guide to careers in design" ]
+      },
+      "sort" : {
+        "title" : [ "Becoming a graphic and digital designer : a guide to careers in design /" ],
+        "author" : [ "Heller, Steven, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045757680107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045757680107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045757680107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045757680107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045757680107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119044707,OCLC:,LCCN:2015016138&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nc#1001",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "168",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "133",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "102",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "20",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "113",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "470",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 497,
+    "COMBINED_SEARCH_TIME" : 500,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Publicitaire Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Art Techniques Drawing",
+      "count" : "1"
+    }, {
+      "value" : "Arts Graphiques Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Commercial Art Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Computer Graphics Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Graphic Arts Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Infographie Orientation Professionnelle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Heller Steven",
+      "count" : "1"
+    }, {
+      "value" : "Vienne Véronique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062937300107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A history of Greek literature : from Homer to the Hellenistic period " ],
+        "subject" : [ "Greek literature -- History and criticism", "Littérature grecque -- Histoire et critique", "Greek literature", "Literatura grega (historia e critica)", "Greek literature History" ],
+        "format" : [ "1 online resource (x, 332 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780203759516;$$CISBN$$V0203759516;$$CISBN$$V9781134679706;$$CISBN$$V113467970X;$$CISBN$$V9781134679775;$$CISBN$$V1134679777;$$CISBN$$V9781134679843;$$CISBN$$V113467984X;$$COCLC$$V(OCoLC)605918998" ],
+        "creationdate" : [ "1994" ],
+        "creator" : [ "Dihle, Albrecht.$$QDihle, Albrecht." ],
+        "publisher" : [ "London ; New York : Routledge" ],
+        "mms" : [ "990062937300107871" ],
+        "contributor" : [ "Krojzl, Clare.$$QKrojzl, Clare." ],
+        "contents" : [ "pt. I. Archaic literature -- pt. II. Classical literature of the fifth century BC -- pt. III. Classical literature of the fourth century BC -- pt. IV. Hellenistic literature." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Dihle, Albrecht. Griechische Literaturgeschichte. English. History of Greek literature. London ; New York : Routledge, 1994$$QHistory of Greek literature.$$Z990022130240107871" ],
+        "unititle" : [ "Griechische Literaturgeschichte. English" ],
+        "includes" : [ "Dihle, Albrecht. Griechische Literaturgeschichte. English$$QDihle, Albrecht. Griechische Literaturgeschichte. English" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "tayfeb", "aleph006293730" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062937300107871" ],
+        "recordid" : [ "alma990062937300107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006293730-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dihle" ],
+        "aufirst" : [ "Albrecht." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Dihle, Albrecht." ],
+        "addau" : [ "Krojzl, Clare." ],
+        "creatorfull" : [ "$$NDihle, Albrecht.$$LDihle$$FAlbrecht.$$Rauthor" ],
+        "contributorfull" : [ "$$NKrojzl, Clare.$$LKrojzl$$FClare.$$Rcontributor" ],
+        "date" : [ "1994" ],
+        "isbn" : [ "9780203759516", "0203759516", "9781134679706", "113467970X", "9781134679775", "1134679777", "9781134679843", "113467984X" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)605918998" ],
+        "doi" : [ "10.4324/9780203759516" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A history of Greek literature : from Homer to the Hellenistic period" ]
+      },
+      "sort" : {
+        "title" : [ "history of Greek literature : from Homer to the Hellenistic period /" ],
+        "author" : [ "Dihle, Albrecht." ],
+        "creationdate" : [ "1994" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062937300107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0203759516,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pa#3057ǂ d513 1994b 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "351",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "77",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "168",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "681",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 707,
+    "COMBINED_SEARCH_TIME" : 711,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Greek Literature",
+      "count" : "1"
+    }, {
+      "value" : "Greek Literature History",
+      "count" : "1"
+    }, {
+      "value" : "Greek Literature History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Literatura Grega Historia E Critica",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Grecque Histoire Et Critique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dihle Albrecht",
+      "count" : "1"
+    }, {
+      "value" : "Krojzl Clare",
+      "count" : "1"
+    } ]
+  } ]
+}

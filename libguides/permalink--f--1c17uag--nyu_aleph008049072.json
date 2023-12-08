@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080490720107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Evidence-based practice : an integrative approach to research, administration, and practice " ],
+        "subject" : [ "Médecine factuelle", "Services de santé -- Administration", "Médecine -- Recherche -- Méthodologie", "Evidence-based medicine", "Health services administration", "Medicine -- Research -- Methodology" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781284206524;$$CISBN$$V1284206521;$$COCLC$$V(OCoLC)1193120524;$$CISBN$$V9781284206517" ],
+        "creationdate" : [ "2022" ],
+        "publisher" : [ "Burlington, MA : Jones & Bartlett Learning" ],
+        "description" : [ "\"This text is intended for graduate-level audiences in nursing research courses and is particularly well suited for those in administration tracks. It focuses on understanding how research-based evidence drives scholarly practice and how that evidence can justify innovation and policy change to improve patient outcomes. The new edition will add implementation and dissemination science applications to the EBP framework. It will feature health policy content and incorporate global and population health perspectives, content on informatics and technology, and educational strategies for patient and provider practices\"-- Provided by publisher" ],
+        "mms" : [ "990080490720107871" ],
+        "contributor" : [ "Hall, Heather R., editor.$$QHall, Heather R.", "Roussel, Linda, editor.$$QRoussel, Linda" ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "Quantitative research -- Qualitative research -- Mixed methods research -- Data analysis -- Navigating the institutional review board -- Critical appraisal of research-based evidence." ],
+        "relation" : [ "$$Cform$$VPrint version: Evidence-based practice (Hall). Evidence-based practice (Hall). Third edition$$QEvidence-based practice (Hall)." ],
+        "mesh" : [ "Evidence-Based Practice", "Research Design", "Health Planning -- organization & administration" ],
+        "unititle" : [ "Evidence-based practice (Hall)" ],
+        "place" : [ "Burlington, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph008049072" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080490720107871" ],
+        "recordid" : [ "alma990080490720107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008049072-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hall", "Roussel" ],
+        "aufirst" : [ "Heather R.", "Linda" ],
+        "auinit" : [ "H", "L" ],
+        "addau" : [ "Hall, Heather R.", "Roussel, Linda" ],
+        "contributorfull" : [ "$$NHall, Heather R.$$LHall$$FHeather R.$$Reditor", "$$NRoussel, Linda$$Reditor" ],
+        "date" : [ "2022 - 2022", "2022" ],
+        "isbn" : [ "9781284206524", "1284206521", "9781284206517" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This text is intended for graduate-level audiences in nursing research courses and is particularly well suited for those in administration tracks. It focuses on understanding how research-based evidence drives scholarly practice and how that evidence can justify innovation and policy change to improve patient outcomes. The new edition will add implementation and dissemination science applications to the EBP framework. It will feature health policy content and incorporate global and population health perspectives, content on informatics and technology, and educational strategies for patient and provider practices\"-- Provided by publisher" ],
+        "cop" : [ "Burlington, MA" ],
+        "pub" : [ "Jones & Bartlett Learning" ],
+        "oclcid" : [ "(ocolc)1193120524" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Evidence-based practice : an integrative approach to research, administration, and practice" ]
+      },
+      "sort" : {
+        "title" : [ "Evidence-based practice : an integrative approach to research, administration, and practice /" ],
+        "author" : [ "Hall, Heather R., editor." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080490720107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1284206521,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"723.7ǂ e95 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "69",
+    "CALL_SOLR_GET_IDS_LIST" : "149",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "7",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "57",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "402",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 439,
+    "COMBINED_SEARCH_TIME" : 443,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Evidence Based Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Evidence Based Practice",
+      "count" : "1"
+    }, {
+      "value" : "Health Planning Organization Administration",
+      "count" : "1"
+    }, {
+      "value" : "Health Services Administration",
+      "count" : "1"
+    }, {
+      "value" : "Medicine Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Factuelle",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Research Design",
+      "count" : "1"
+    }, {
+      "value" : "Services De Santé Administration",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hall Heather R",
+      "count" : "1"
+    }, {
+      "value" : "Roussel Linda",
+      "count" : "1"
+    } ]
+  } ]
+}

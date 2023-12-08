@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062565440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The digitization of business in China : exploring the transformation from manufacturing to a digital service hub " ],
+        "subject" : [ "Business enterprises -- Technological innovations -- China", "Affaires", "Gestion", "Gestion d'entreprise", "Industrie", "Entreprises -- Innovations -- Chine", "businesses (business enterprises)", "management", "industry (economic concept)", "industries (organizations)", "business (commercial function)", "Business", "Industrial management", "Industries", "Management" ],
+        "format" : [ "1 online resource", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783319790480;$$CISBN$$V331979048X;$$COCLC$$V(OCoLC)1050726436;$$CISBN$$V9783319790473" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "Cham, Switzerland : Palgrave Macmillan" ],
+        "description" : [ "One of the first of its kind, this book examines the digitalization of Chinese businesses both theoretically and practically. Taking a fresh and unique approach, the authors seek to adopt individual theories for each empirical case explored and investigate the dramatic digital transformation that Chinese firms have undergone in recent years. With a particular focus on social networks, the authors observe and analyze the way that digitized applications can interlink with financial systems, developing new capabilities that help to yield competitive advantage. Covering both small to medium sized enterprises (SMEs) and globally orientated multinational enterprises (MNEs), this book is a valuable resource for those researching Asian business, or international business more generally, as well as innovation and technology management." ],
+        "mms" : [ "990062565440107871" ],
+        "contributor" : [ "Kim, Young-Chan, editor.$$QKim, Young-Chan", "Chen, Pi-Chi, editor.$$QChen, Pi-Chi" ],
+        "series" : [ "Palgrave Macmillan Asian Business Series$$QPalgrave Macmillan Asian Business Series", "Palgrave Macmillan Asian business series.$$QPalgrave Macmillan Asian business series." ],
+        "contents" : [ "1. Business-to-business Marketing in China: Digital or Traditional?; Jonathan Cooley -- Part I. Digital Business as a Social Networking Tool -- 2. China's Online Peer-to-peer (P2P) Lending Platforms; Michelle W.L. Fong -- 3. The Key to Non-profit Crowdfunding through Social Media; Peng Gao -- 4. The Language of Luxury Hotel Websites in China; Amy Suen On Yi -- 5. The Development Path of WeChat: Social, Political and Ethical Challenges; Pi-Chi Chen -- Part II. Digital Business as an Operating Platform -- 6. Digital Business and Chinese Consumers' Purchasing Intentions in Indonesia; Tao Jiang, Yeyi Li -- 7. Enhancing Brand Image and Brand Trust in the Vietnamese Tourism Industry via eWord of Mouth; Hoang Thi Phuong Thao -- 8. Digitalization in Dentistry: Development and Practices; Yuan-Min Lin -- 9. Alibaba: Jack Ma's Unique Growth Strategy and the Future of its Global Development in the Chinese Digital Business Industry; Young-Chan Kim -- 10. Conclusion -- The Sino Digital Economy: Development History, Current Status and Challenges Going Forward; Chung-Shen Wu, Chih-Yuan Weng." ],
+        "relation" : [ "$$Cform$$VPrinted edition:" ],
+        "place" : [ "Cham, Switzerland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph006256544" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062565440107871" ],
+        "recordid" : [ "alma990062565440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006256544-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kim", "Chen" ],
+        "aufirst" : [ "Young-Chan", "Pi-Chi" ],
+        "auinit" : [ "Y", "P" ],
+        "addau" : [ "Kim, Young-Chan", "Chen, Pi-Chi" ],
+        "contributorfull" : [ "$$NKim, Young-Chan$$LKim$$FYoung-Chan$$Reditor", "$$NChen, Pi-Chi$$Reditor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9783319790480", "331979048X", "9783319790473" ],
+        "abstract" : [ "One of the first of its kind, this book examines the digitalization of Chinese businesses both theoretically and practically. Taking a fresh and unique approach, the authors seek to adopt individual theories for each empirical case explored and investigate the dramatic digital transformation that Chinese firms have undergone in recent years. With a particular focus on social networks, the authors observe and analyze the way that digitized applications can interlink with financial systems, developing new capabilities that help to yield competitive advantage. Covering both small to medium sized enterprises (SMEs) and globally orientated multinational enterprises (MNEs), this book is a valuable resource for those researching Asian business, or international business more generally, as well as innovation and technology management." ],
+        "cop" : [ "Cham, Switzerland" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)1050726436" ],
+        "doi" : [ "10.1007/978-3-319-79048-0" ],
+        "seriestitle" : [ "Palgrave Macmillan Asian Business Series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The digitization of business in China : exploring the transformation from manufacturing to a digital service hub" ]
+      },
+      "sort" : {
+        "title" : [ "digitization of business in China : exploring the transformation from manufacturing to a digital service hub /" ],
+        "author" : [ "Kim, Young-Chan, editor." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062565440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062565440107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:331979048X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#3834ǂ d55 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "81",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "189",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "420",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 460,
+    "COMBINED_SEARCH_TIME" : 464,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires",
+      "count" : "1"
+    }, {
+      "value" : "Business",
+      "count" : "1"
+    }, {
+      "value" : "Business Commercial Function",
+      "count" : "1"
+    }, {
+      "value" : "Business Enterprises Technological Innovations China",
+      "count" : "1"
+    }, {
+      "value" : "Businesses Business Enterprises",
+      "count" : "1"
+    }, {
+      "value" : "Entreprises Innovations Chine",
+      "count" : "1"
+    }, {
+      "value" : "Gestion",
+      "count" : "1"
+    }, {
+      "value" : "Gestion Dentreprise",
+      "count" : "1"
+    }, {
+      "value" : "Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Industrie",
+      "count" : "1"
+    }, {
+      "value" : "Industries",
+      "count" : "1"
+    }, {
+      "value" : "Industries Organizations",
+      "count" : "1"
+    }, {
+      "value" : "Industry Economic Concept",
+      "count" : "1"
+    }, {
+      "value" : "Management",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chen Pi Chi",
+      "count" : "1"
+    }, {
+      "value" : "Kim Young Chan",
+      "count" : "1"
+    } ]
+  } ]
+}

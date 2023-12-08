@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075071170107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The career of a research statistician : from consulting to theoretical development " ],
+        "subject" : [ "Statisticiens", "Statistique", "statisticians", "statistics", "Estadística", "Estadística matemática", "Statistics", "Statisticians", "Industrial statistics", "Mathematical statistics" ],
+        "format" : [ "1 online resource (217 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9783030394349;$$CISBN$$V3030394344;$$COCLC$$V(OCoLC)1145552923;$$CISBN$$V9783030394332" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Zacks, Shelemyahu, 1932- author.$$QZacks, Shelemyahu" ],
+        "publisher" : [ "Cham : Birkhäuser : Springer Nature" ],
+        "description" : [ "\"This monograph highlights the connection between the theoretical work done by research statisticians and the impact that work has on various industries. Drawing on decades of experience as an industry consultant, the author details how his contributions have had a lasting impact on the field of statistics as a whole. Aspiring statisticians and data scientists will be motivated to find practical applications for their knowledge, as they see how such work can yield breakthroughs in their field. Each chapter highlights a consulting position the author held that resulted in a significant contribution to statistical theory. Topics covered include tracking processes with change points, estimating common parameters, crossing fields with absorption points, military operations research, sampling surveys, stochastic visibility in random fields, reliability analysis, applied probability, and more. Notable advancements within each of these topics are presented by analyzing the problems facing various industries, and how solving those problems contributed to the development of the field. The Career of a Research Statistician is ideal for researchers, graduate students, or industry professionals working in statistics. It will be particularly useful for up-and-coming statisticians interested in the promising connection between academia and industry\"--Provided by publisher" ],
+        "mms" : [ "990075071170107871" ],
+        "series" : [ "Statistics for industry, technology, and engineering$$QStatistics for industry, technology, and engineering", "Statistics for industry, technology, and engineering.$$QStatistics for industry, technology, and engineering." ],
+        "relation" : [ "$$Cform$$VPrint version: Zacks, Shelemyahu. Career of a Research Statistician : From Consulting to Theoretical Development. Cham : Springer Basel AG, ©2020$$QCareer of a Research Statistician : From Consulting to Theoretical Development." ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph007507117" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075071170107871" ],
+        "recordid" : [ "alma990075071170107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007507117-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zacks" ],
+        "aufirst" : [ "Shelemyahu" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Zacks, Shelemyahu" ],
+        "creatorfull" : [ "$$NZacks, Shelemyahu$$LZacks$$FShelemyahu$$Rauthor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9783030394349", "3030394344", "9783030394332" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This monograph highlights the connection between the theoretical work done by research statisticians and the impact that work has on various industries. Drawing on decades of experience as an industry consultant, the author details how his contributions have had a lasting impact on the field of statistics as a whole. Aspiring statisticians and data scientists will be motivated to find practical applications for their knowledge, as they see how such work can yield breakthroughs in their field. Each chapter highlights a consulting position the author held that resulted in a significant contribution to statistical theory. Topics covered include tracking processes with change points, estimating common parameters, crossing fields with absorption points, military operations research, sampling surveys, stochastic visibility in random fields, reliability analysis, applied probability, and more. Notable advancements within each of these topics are presented by analyzing the problems facing various industries, and how solving those problems contributed to the development of the field. The Career of a Research Statistician is ideal for researchers, graduate students, or industry professionals working in statistics. It will be particularly useful for up-and-coming statisticians interested in the promising connection between academia and industry\"--Provided by publisher" ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Birkhäuser" ],
+        "oclcid" : [ "(ocolc)1145552923" ],
+        "seriestitle" : [ "Statistics for industry, technology, and engineering" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The career of a research statistician : from consulting to theoretical development" ]
+      },
+      "sort" : {
+        "title" : [ "career of a research statistician : from consulting to theoretical development /" ],
+        "author" : [ "Zacks, Shelemyahu, 1932- author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075071170107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075071170107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030394344,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"276",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "60",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "24",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "99",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "298",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 328,
+    "COMBINED_SEARCH_TIME" : 330,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Estadística",
+      "count" : "1"
+    }, {
+      "value" : "Estadística Matemática",
+      "count" : "1"
+    }, {
+      "value" : "Industrial Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Statisticians",
+      "count" : "1"
+    }, {
+      "value" : "Statisticiens",
+      "count" : "1"
+    }, {
+      "value" : "Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Statistique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Zacks Shelemyahu",
+      "count" : "1"
+    } ]
+  } ]
+}

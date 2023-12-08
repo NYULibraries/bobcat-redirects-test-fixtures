@@ -1,0 +1,210 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075429570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Readings in Classical Chinese Philosophy." ],
+        "subject" : [ "Philosophy, Chinese -- To 221 B.C", "Philosophie chinoise -- Jusqu'à 221 av. J.-C", "Philosophy, Chinese", "Philosophie", "China", "To 221 B.C" ],
+        "format" : [ "1 online resource (416 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781603844901;$$CISBN$$V1603844902;$$COCLC$$V(OCoLC)689996644;$$CISBN$$V9780872207813" ],
+        "creationdate" : [ "2006" ],
+        "creator" : [ "Ivanhoe, Philip J.$$QIvanhoe, Philip J." ],
+        "publisher" : [ "Indianapolis : Hackett Pub. Co." ],
+        "description" : [ "This new edition offers expanded selections from the works of Kongzi (Confucius), Mengzi (Mencius), Zhuangzi (Chuang Tzu), and Xunzi (Hsun Tzu); two new works, the dialogues Robber Zhi and White Horse ; a concise general introduction; brief introductions to, and selective bibliographies for, each work; and four appendices that shed light on important figures, periods, texts, and terms in Chinese thought. Philip J. Ivanhoe is Reader-Professor of Philosophy in the Department of Public and Social Administration and a member of the Governance in Asia Research Centre (GARC), City University of Hong." ],
+        "mms" : [ "990075429570107871" ],
+        "edition" : [ "2nd ed." ],
+        "contents" : [ "Title Page; Copyright Page; Contents; Preface; Comparative Romanization Table; Introduction; Selective Bibliography; Chapter One: Kongzi (Confucius); Chapter Two: Mozi; Chapter Three: Mengzi (Mencius); Chapter Four: Laozi; Chapter Five: Zhuangzi; Chapter Six: Xunzi; Chapter Seven: Han Feizi; Suplemental Texts; Appendices." ],
+        "relation" : [ "$$Cform$$VPrint version: Ivanhoe, Philip J. Readings in Classical Chinese Philosophy. Indianapolis : Hackett Publishing Company, Inc., ©2006$$QReadings in Classical Chinese Philosophy.$$Z990060450660107871" ],
+        "place" : [ "Indianapolis :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007542957" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075429570107871" ],
+        "recordid" : [ "alma990075429570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007542957-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ivanhoe" ],
+        "aufirst" : [ "Philip J." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Ivanhoe, Philip J." ],
+        "creatorfull" : [ "$$NIvanhoe, Philip J.$$LIvanhoe$$FPhilip J.$$Rauthor" ],
+        "date" : [ "2006" ],
+        "isbn" : [ "9781603844901", "1603844902", "9780872207813" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This new edition offers expanded selections from the works of Kongzi (Confucius), Mengzi (Mencius), Zhuangzi (Chuang Tzu), and Xunzi (Hsun Tzu); two new works, the dialogues Robber Zhi and White Horse ; a concise general introduction; brief introductions to, and selective bibliographies for, each work; and four appendices that shed light on important figures, periods, texts, and terms in Chinese thought. Philip J. Ivanhoe is Reader-Professor of Philosophy in the Department of Public and Social Administration and a member of the Governance in Asia Research Centre (GARC), City University of Hong." ],
+        "cop" : [ "Indianapolis" ],
+        "pub" : [ "Hackett Pub. Co." ],
+        "oclcid" : [ "(ocolc)689996644" ],
+        "edition" : [ "2nd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Readings in Classical Chinese Philosophy." ]
+      },
+      "sort" : {
+        "title" : [ "Readings in Classical Chinese Philosophy." ],
+        "author" : [ "Ivanhoe, Philip J." ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075429570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1603844902,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b\"126 r43 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "231",
+    "CALL_SOLR_GET_IDS_LIST" : "132",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "53",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "493",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 527,
+    "COMBINED_SEARCH_TIME" : 531,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Philosophie Chinoise Jusquà 221 Av J C",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Chinese",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Chinese To 221 B C",
+      "count" : "1"
+    }, {
+      "value" : "To 221 B C",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ivanhoe Philip J",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,266 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995614835007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Economist" ],
+        "subject" : [ "Economic history$$QEconomic history -- Periodicals", "Finance$$QFinance -- Periodicals", "Securities -- Great Britain$$QSecurities -- Great Britain -- Periodicals", "Great Britain -- Commerce$$QGreat Britain -- Commerce -- Periodicals", "Histoire économique$$QHistoire économique -- Périodiques", "Finances$$QFinances -- Périodiques", "Finances", "Hebdomadaires", "Economie internationale", "Histoire économique", "Commerce", "Economic history", "Finance", "Securities", "Great Britain", "Economie", "Economische situatie", "Weekbladen", "Periodicals -- HISTORIA ECONOMICA", "renib -- FINANZAS", "renib -- VALORES -- GRAN BRETANA", "renib -- COMERCIO", "HISTORIA ECONOMICA -- PUBLICACIONES PERIODICAS", "FINANZAS -- PUBLICACIONES PERIODICAS", "VALORES -- GRAN BRETANA -- PUBLICACIONES PERIODICAS", "COMERCIO -- PUBLICACIONES PERIODICAS", "INTERNATIONAL NEWS", "WORLD POLITICS", "BUSINESS", "FINANCE", "CURRENT EVENTS", "Business Economics Business, international" ],
+        "identifier" : [ "$$CLC$$V  2012236713;$$COCLC$$V(OCoLC)60625410;$$CISSN$$V1476-8860;$$CISSN$$V0013-0613" ],
+        "creationdate" : [ "1843" ],
+        "publisher" : [ "London : Economist Newspaper Ltd.", "Began with no. 1 (Sept. 2, 1843)." ],
+        "mms" : [ "9995614835007871" ],
+        "addtitle" : [ "Economist online", "Monthly trade supplement.", "Reports of the joint stock banks of the United Kingdom.", "Commercial history and review." ],
+        "frequency" : [ "Weekly (except for combined issue the last week in Dec. and the first week in Jan.), 26 Dec. 1981/8 Jan. 1982-<Feb. 3-9, 1996>" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990028947060107871" ],
+        "mesh" : [ "Commerce", "Economics", "Periodical" ],
+        "unititle" : [ "The Economist" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921341151" ],
+        "lds60" : [ "Preceded by a preliminary number, dated Aug. 1843.", "News coverage of Great Britain reduced by approximately 50%, except in copies distributed in Britain, fall 1994-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995614835007871" ],
+        "recordid" : [ "alma9995614835007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921341151" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ECONOMIST LONDON", "ECONOMIST", "ECONOMIST-NETHL", "ECONOMIST, THE", "WORLD IN ..", "The Economist (United Kingdom)", "Economist (United Kingdom)" ],
+        "addtitle" : [ "Economist online" ],
+        "date" : [ "1843" ],
+        "issn" : [ "1476-8860", "0013-0613" ],
+        "coden" : [ "EONOEH" ],
+        "cop" : [ "London" ],
+        "pub" : [ "[Economist Newspaper Ltd.]" ],
+        "oclcid" : [ "(ocolc)60625410" ],
+        "lccn" : [ "2012236713" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The Economist" ]
+      },
+      "sort" : {
+        "title" : [ "<<The>> Economist" ],
+        "creationdate" : [ "1843" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614835007871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614835007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614835007871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614835007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2012236713&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg!11",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "17",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "6",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "18",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "163",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 190,
+    "COMBINED_SEARCH_TIME" : 193,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1843",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Business International",
+      "count" : "1"
+    }, {
+      "value" : "Comercio Publicaciones Periodicas",
+      "count" : "1"
+    }, {
+      "value" : "Commerce",
+      "count" : "1"
+    }, {
+      "value" : "Current Events",
+      "count" : "1"
+    }, {
+      "value" : "Economic History",
+      "count" : "1"
+    }, {
+      "value" : "Economic History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Economics",
+      "count" : "1"
+    }, {
+      "value" : "Economie",
+      "count" : "1"
+    }, {
+      "value" : "Economie Internationale",
+      "count" : "1"
+    }, {
+      "value" : "Economische Situatie",
+      "count" : "1"
+    }, {
+      "value" : "Finance",
+      "count" : "1"
+    }, {
+      "value" : "Finance Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Finances",
+      "count" : "1"
+    }, {
+      "value" : "Finances Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Finanzas Publicaciones Periodicas",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Commerce Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hebdomadaires",
+      "count" : "1"
+    }, {
+      "value" : "Histoire Économique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

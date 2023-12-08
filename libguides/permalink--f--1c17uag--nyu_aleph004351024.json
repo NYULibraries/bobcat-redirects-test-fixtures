@@ -1,0 +1,239 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043510240107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "conference_proceeding" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of marketing decision models " ],
+        "subject" : [ "Marketing -- Decision making -- Mathematical models$$QMarketing -- Decision making -- Mathematical models -- Congresses", "BUSINESS & ECONOMICS -- Green Business", "Science économique", "Affaires", "Economie de l'entreprise", "Marketing -- Decision making -- Mathematical models", "Marketing decision models" ],
+        "format" : [ "1 online resource (x, 625 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780387782133;$$CISBN$$V0387782133;$$COCLC$$V(OCoLC)288474829;$$CISBN$$V9780387782126;$$CISBN$$V0387782125" ],
+        "creationdate" : [ "©2008" ],
+        "publisher" : [ "New York ; London : Springer" ],
+        "description" : [ "Marketing models is a core component of the marketing discipline. The recent developments in marketing models have been incredibly fast with information technology (e.g., the Internet), online marketing (e-commerce) and customer relationship management (CRM) creating radical changes in the way companies interact with their customers. This has created completely new breeds of marketing models, but major progress has also taken place in existing types of marketing models. The HANDBOOK OF MARKETING DECISION MODELS presents the state of the art in marketing decision models, dealing with new modeli." ],
+        "mms" : [ "990043510240107871" ],
+        "contributor" : [ "Wierenga, B.$$QWierenga, B.", "Workshop on Advances in Marketing Decision Models (2006 : Athens, Greece)$$QWorkshop on Advances in Marketing Decision Models" ],
+        "series" : [ "International series in operations research & management science ; 121$$QInternational series in operations research & management science ", "International series in operations research & management science ; 121.$$QInternational series in operations research & management science " ],
+        "contents" : [ "The past, the present, and the future of marketing decision models / Berend Wierenga -- Developments in conjoint analysis / Vithala R. Rao -- Interactive consumer decision aids / Kyle B. Murray and Gerald Häubl -- Advertising models / Peter J. Danaher -- Sales promotion models / Harald J. van Heerde and Scott A. Neslin -- Models for sales management decisions / Sönke Albers and Murali Mantrala -- Modeling competitive responsiveness / Peter S.H. Leeflang -- Models of customer value / Sunil Gupta and Donald R. Lehmann -- Decison models for customer relationship management (CRM) / Werner J. Reinartz and Rajkumar Venkatesan -- Marketing models for electronic commerce / Randolph E. Bucklin -- Time-series models in marketing / Marnik G. Dekimpe [and others] -- Neural nets and genetic algorithms in marketing / Harald Hruschka -- Decision models for the movie industry / Jehoshua Eliashberg, Charles B. Weinberg, and Sam K. Hui -- Strategic marketing decision models for the pharmaceutical industry / Venkatesh Shankar -- Models for the financial-performance effects of marketing / Dominique M. Hanssens and Marnik G. Dekimpe -- Marketing engineering : models that connect with practice / Gary L. Lilien and Arvind Rangaswamy -- Advances in marketing management support systems / Berend Wierenga, Gerrit H. van Bruggen, and Niek A.P. Althuizen." ],
+        "genre" : [ "Congresses", "Conference papers and proceedings", "Actes de congrès" ],
+        "relation" : [ "$$Cform$$VHandbook of Marketing Decision Models$$Z9995667859807871", "$$Cform$$VPrint version: Handbook of marketing decision models. New York ; London : Springer, 2008$$QHandbook of marketing decision models." ],
+        "mesh" : [ "Congress" ],
+        "place" : [ "New York ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "sprnglnk", "aleph004351024" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043510240107871" ],
+        "recordid" : [ "alma990043510240107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004351024-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wierenga" ],
+        "aufirst" : [ "B." ],
+        "auinit" : [ "B" ],
+        "addau" : [ "Wierenga, B." ],
+        "contributorfull" : [ "$$NWierenga, B.$$LWierenga$$FB.$$Rcontributor" ],
+        "date" : [ "2008", "©2008" ],
+        "isbn" : [ "9780387782133", "0387782133", "9780387782126", "0387782125" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Marketing models is a core component of the marketing discipline. The recent developments in marketing models have been incredibly fast with information technology (e.g., the Internet), online marketing (e-commerce) and customer relationship management (CRM) creating radical changes in the way companies interact with their customers. This has created completely new breeds of marketing models, but major progress has also taken place in existing types of marketing models. The HANDBOOK OF MARKETING DECISION MODELS presents the state of the art in marketing decision models, dealing with new modeli." ],
+        "cop" : [ "New York ;" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)288474829" ],
+        "doi" : [ "10.1007/978-0-387-78213-3" ],
+        "seriestitle" : [ "International series in operations research & management science ; 121" ],
+        "format" : [ "book" ],
+        "genre" : [ "proceeding" ],
+        "ristype" : [ "BOOK" ],
+        "atitle" : [ "Handbook of marketing decision models" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of marketing decision models /" ],
+        "author" : [ "Wierenga, B." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043510240107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043510240107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043510240107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0387782133,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5415.135ǂ h36 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "397",
+    "CALL_SOLR_GET_IDS_LIST" : "127",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "243",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "79",
+    "RETRIVE_FROM_DB_RELATIONS" : "144",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "233",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "10",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "129",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "910",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 950,
+    "COMBINED_SEARCH_TIME" : 953,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "conference_proceedings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Green Business",
+      "count" : "1"
+    }, {
+      "value" : "Economie De Lentreprise",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Decision Making Mathematical Models",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Decision Making Mathematical Models Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Decision Models",
+      "count" : "1"
+    }, {
+      "value" : "Science Économique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wierenga B",
+      "count" : "1"
+    }, {
+      "value" : "Workshop On Advances In Marketing Decision Models",
+      "count" : "1"
+    } ]
+  } ]
+}

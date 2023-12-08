@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990093307850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Healing grounds : climate, justice, and the deep roots of regenerative farming " ],
+        "subject" : [ "Farmers -- United States", "Agriculture -- United States -- History", "Farm produce -- United States", "Agriculteurs -- États-Unis", "Agriculture -- États-Unis -- Histoire", "Produits agricoles -- États-Unis", "Agriculture", "Farm produce", "Farmers", "United States" ],
+        "format" : [ "1 online resource (xiii, 225 pages) : illustrations." ],
+        "identifier" : [ "$$CISBN$$V9781642832228;$$CISBN$$V1642832227;$$COCLC$$V(OCoLC)1290021190;$$CISBN$$V1642832219" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Carlisle, Liz, author.$$QCarlisle, Liz" ],
+        "publisher" : [ "Washington : Island Press" ],
+        "description" : [ "A powerful movement is happening in farming today--farmers are reconnecting with their roots to fight climate change. For one woman, that's meant learning her tribe's history to help bring back the buffalo. For another, it's meant preserving forest purchased by her great-great-uncle, among the first wave of African Americans to buy land. Others are rejecting monoculture to grow corn, beans, and squash the way farmers in Mexico have done for centuries. Still others are rotating crops for the native cuisines of those who fled the \"American wars\" in Southeast Asia. In Healing Grounds, Liz Carlisle tells the stories of Indigenous, Black, Latinx, and Asian American farmers who are reviving their ancestors' methods of growing food--techniques long suppressed by the industrial food system. These farmers are restoring native prairies, nurturing beneficial fungi, and enriching soil health. While feeding their communities and revitalizing cultural ties to land, they are steadily stitching ecosystems back together and repairing the natural carbon cycle. This, Carlisle shows, is the true regenerative agriculture - not merely a set of technical tricks for storing CO₂ in the ground, but a holistic approach that values diversity in both plants and people. Cultivating this kind of regenerative farming will require reckoning with our nation's agricultural history--a history marked by discrimination and displacement. And it will ultimately require dismantling power structures that have blocked many farmers of color from owning land or building wealth. The task is great, but so is its promise. By coming together to restore these farmlands, we can not only heal our planet, we can heal our communities and ourselves." ],
+        "mms" : [ "990093307850107871" ],
+        "contributor" : [ "Wakida, Patricia, illustrator.$$QWakida, Patricia" ],
+        "contents" : [ "Introduction: Can soil really save us? -- Return of the buffalo -- Black land matters -- Hidden hotspots of biodiversity -- Putting down roots -- Conclusion: Healing grounds." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Carlisl, Liz. Healing grounds. [S.l.] : Island Press, 2022$$QHealing grounds." ],
+        "place" : [ "Washington :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph009330785" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990093307850107871" ],
+        "recordid" : [ "alma990093307850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009330785-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Carlisle" ],
+        "aufirst" : [ "Liz" ],
+        "auinit" : [ "L" ],
+        "au" : [ "Carlisle, Liz" ],
+        "addau" : [ "Wakida, Patricia" ],
+        "creatorfull" : [ "$$NCarlisle, Liz$$LCarlisle$$FLiz$$Rauthor" ],
+        "contributorfull" : [ "$$NWakida, Patricia$$LWakida$$FPatricia$$Rillustrator" ],
+        "date" : [ "2022 - 2022", "2022" ],
+        "isbn" : [ "9781642832228", "1642832227", "1642832219" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "A powerful movement is happening in farming today--farmers are reconnecting with their roots to fight climate change. For one woman, that's meant learning her tribe's history to help bring back the buffalo. For another, it's meant preserving forest purchased by her great-great-uncle, among the first wave of African Americans to buy land. Others are rejecting monoculture to grow corn, beans, and squash the way farmers in Mexico have done for centuries. Still others are rotating crops for the native cuisines of those who fled the \"American wars\" in Southeast Asia. In Healing Grounds, Liz Carlisle tells the stories of Indigenous, Black, Latinx, and Asian American farmers who are reviving their ancestors' methods of growing food--techniques long suppressed by the industrial food system. These farmers are restoring native prairies, nurturing beneficial fungi, and enriching soil health. While feeding their communities and revitalizing cultural ties to land, they are steadily stitching ecosystems back together and repairing the natural carbon cycle. This, Carlisle shows, is the true regenerative agriculture - not merely a set of technical tricks for storing CO₂ in the ground, but a holistic approach that values diversity in both plants and people. Cultivating this kind of regenerative farming will require reckoning with our nation's agricultural history--a history marked by discrimination and displacement. And it will ultimately require dismantling power structures that have blocked many farmers of color from owning land or building wealth. The task is great, but so is its promise. By coming together to restore these farmlands, we can not only heal our planet, we can heal our communities and ourselves." ],
+        "cop" : [ "Washington" ],
+        "pub" : [ "Island Press" ],
+        "oclcid" : [ "(ocolc)1290021190" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Healing grounds : climate, justice, and the deep roots of regenerative farming" ]
+      },
+      "sort" : {
+        "title" : [ "Healing grounds : climate, justice, and the deep roots of regenerative farming /" ],
+        "author" : [ "Carlisle, Liz, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990093307850107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1642832227,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "s\"441ǂ c37 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "144",
+    "CALL_SOLR_GET_IDS_LIST" : "123",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "61",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "376",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 405,
+    "COMBINED_SEARCH_TIME" : 409,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Agriculteurs États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Agriculture",
+      "count" : "1"
+    }, {
+      "value" : "Agriculture United States History",
+      "count" : "1"
+    }, {
+      "value" : "Agriculture États Unis Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Farm Produce",
+      "count" : "1"
+    }, {
+      "value" : "Farm Produce United States",
+      "count" : "1"
+    }, {
+      "value" : "Farmers",
+      "count" : "1"
+    }, {
+      "value" : "Farmers United States",
+      "count" : "1"
+    }, {
+      "value" : "Produits Agricoles États Unis",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carlisle Liz",
+      "count" : "1"
+    }, {
+      "value" : "Wakida Patricia",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,276 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068436870107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Tell it slant : creating, refining, and publishing creative nonfiction " ],
+        "subject" : [ "Anglais (Langue) -- Rhétorique", "Littérature de reportage anglaise", "Journalisme -- Art d'écrire", "Journalisme d'enquête", "Création littéraire", "Rapports -- Rédaction", "Creative nonfiction", "Creative writing", "English language -- Rhetoric", "Investigative reporting", "Journalism -- Authorship", "Report writing", "Reportage literature -- Authorship", "Reportage literature, English" ],
+        "format" : [ "1 online resource (1 volume) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781260454604;$$CISBN$$V1260454606;$$COCLC$$V(OCoLC)1112609089" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Miller, Brenda, 1959- author.$$QMiller, Brenda" ],
+        "publisher" : [ "New York : McGraw-Hill" ],
+        "description" : [ "Whether planning a course or learning on your own, this book provides everything you need to know to develop a distinctive voice and to craft compelling creative nonfiction. -- Edited summary from book." ],
+        "mms" : [ "990068436870107871" ],
+        "contributor" : [ "Paola, Suzanne, author.$$QPaola, Suzanne" ],
+        "addtitle" : [ "Creating, refining, and publishing creative nonfiction" ],
+        "edition" : [ "Third edition." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "skillbp", "aleph006843687" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068436870107871" ],
+        "recordid" : [ "alma990068436870107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006843687-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Miller" ],
+        "aufirst" : [ "Brenda" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Miller, Brenda" ],
+        "addau" : [ "Paola, Suzanne" ],
+        "creatorfull" : [ "$$NMiller, Brenda$$LMiller$$FBrenda$$Rauthor" ],
+        "contributorfull" : [ "$$NPaola, Suzanne$$LPaola$$FSuzanne$$Rcontributor" ],
+        "addtitle" : [ "Creating, refining, and publishing creative nonfiction" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781260454604", "1260454606" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Whether planning a course or learning on your own, this book provides everything you need to know to develop a distinctive voice and to craft compelling creative nonfiction. -- Edited summary from book." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "McGraw-Hill" ],
+        "oclcid" : [ "(ocolc)1112609089" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Tell it slant : creating, refining, and publishing creative nonfiction" ]
+      },
+      "sort" : {
+        "title" : [ "Tell it slant : creating, refining, and publishing creative nonfiction /" ],
+        "author" : [ "Miller, Brenda, 1959- author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068436870107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068436870107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068436870107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068436870107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1260454606,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pe#1408",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "224",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "126",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "43",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "83",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "200",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "659",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 678,
+    "COMBINED_SEARCH_TIME" : 681,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Anglais Langue Rhétorique",
+      "count" : "1"
+    }, {
+      "value" : "Creative Nonfiction",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Investigative Reporting",
+      "count" : "1"
+    }, {
+      "value" : "Journalism Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Journalisme Art Décrire",
+      "count" : "1"
+    }, {
+      "value" : "Journalisme Denquête",
+      "count" : "1"
+    }, {
+      "value" : "Littérature De Reportage Anglaise",
+      "count" : "1"
+    }, {
+      "value" : "Rapports Rédaction",
+      "count" : "1"
+    }, {
+      "value" : "Report Writing",
+      "count" : "1"
+    }, {
+      "value" : "Reportage Literature Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Reportage Literature English",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Miller Brenda",
+      "count" : "1"
+    }, {
+      "value" : "Paola Suzanne",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

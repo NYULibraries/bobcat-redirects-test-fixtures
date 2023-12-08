@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990086896080107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Understructure of Writing for Film and Television " ],
+        "subject" : [ "Création littéraire", "Théâtre (Genre littéraire) -- Technique", "Cinéma -- Art d'écrire", "Création dramatique", "Télévision -- Art d'écrire", "PERFORMING ARTS / Film & Video / Screenwriting", "Creation (Literary, artistic, etc.)", "Creative writing", "Drama -- Technique", "Motion picture authorship", "Playwriting", "Television authorship" ],
+        "format" : [ "1 online resource", "text file PDF" ],
+        "identifier" : [ "$$CISBN$$V9780292759589;$$CISBN$$V0292759584;$$COCLC$$V(OCoLC)1280943203" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Brady, Ben, author.$$QBrady, Ben" ],
+        "publisher" : [ "Austin : University of Texas Press" ],
+        "description" : [ "This unique, comprehensive introduction to screenwriting offers practical advice for the beginning writer, whether college student or freelancer. Based on their experience as professional writers and as teachers in a large, successful screenwriting program at California State University, Northridge, the authors provide a progression of assignments at manageable screenwriting lengths for beginners. They lead students through development of a premise, treatment, stepsheet, and, finally, miniscreenplay--essential elements in writing a longer script. A major feature of the text is the use of many example scenes from contemporary and classic American films, such as On the Waterfront, Kramer vs. Kramer, The Godfather, The Graduate, Tootsie, and more. Other scenes are drawn from international films and dramatic literature. The criticism of these scenes invites students to develop their own comparative models, while simultaneously providing exposure to the central analytical terms of good dramatic writing. The authors also place screenwriting within the larger tradition of dramatic writing in order to put the beginning writer in touch with the wealth of art, experience, and practical ideas the drama contains. They provide an up-to-date, practical discussion of marketing and copywriting a screenplay, with addresses of relevant professional societies. Most importantly, they never offer an ill-advised shortcut or restrict students to only one way of thinking about a character, situation, or scene. In The Understructure of Writing for Film & Television, the student's thought and creativity are central." ],
+        "mms" : [ "990086896080107871" ],
+        "contributor" : [ "Lee, Lance, author.$$QLee, Lance" ],
+        "contents" : [ "Frontmatter -- Contents -- Preface -- Acknowledgments -- Part One. Getting on Your Feet -- 1. Your Dramatic Heritage -- 2. What Is a Dramatic Conflict -- 3. What Is a Scene -- 4. Camera Language and Format -- Part Two. Developing Character and Conflict -- 5. Introduction -- 6. Establishing Character and Conflict -- 7. Developing Character and Conflict to Crisis -- 8. Achieving Crisis and Climax -- 9. Handling Dialogue, Theme, Values, and Moral Urgency -- 10. Writing the Miniscreenplay -- 11. A Last Word -- Appendix: The Market -- Glossary of Film Terms -- Index" ],
+        "place" : [ "Austin :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebceb", "aleph008689608" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990086896080107871" ],
+        "recordid" : [ "alma990086896080107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008689608-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brady" ],
+        "aufirst" : [ "Ben" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Brady, Ben" ],
+        "addau" : [ "Lee, Lance" ],
+        "creatorfull" : [ "$$NBrady, Ben$$LBrady$$FBen$$Rauthor" ],
+        "contributorfull" : [ "$$NLee, Lance$$LLee$$FLance$$Rcontributor" ],
+        "date" : [ "2021 - 1988", "2021" ],
+        "isbn" : [ "9780292759589", "0292759584" ],
+        "abstract" : [ "This unique, comprehensive introduction to screenwriting offers practical advice for the beginning writer, whether college student or freelancer. Based on their experience as professional writers and as teachers in a large, successful screenwriting program at California State University, Northridge, the authors provide a progression of assignments at manageable screenwriting lengths for beginners. They lead students through development of a premise, treatment, stepsheet, and, finally, miniscreenplay--essential elements in writing a longer script. A major feature of the text is the use of many example scenes from contemporary and classic American films, such as On the Waterfront, Kramer vs. Kramer, The Godfather, The Graduate, Tootsie, and more. Other scenes are drawn from international films and dramatic literature. The criticism of these scenes invites students to develop their own comparative models, while simultaneously providing exposure to the central analytical terms of good dramatic writing. The authors also place screenwriting within the larger tradition of dramatic writing in order to put the beginning writer in touch with the wealth of art, experience, and practical ideas the drama contains. They provide an up-to-date, practical discussion of marketing and copywriting a screenplay, with addresses of relevant professional societies. Most importantly, they never offer an ill-advised shortcut or restrict students to only one way of thinking about a character, situation, or scene. In The Understructure of Writing for Film & Television, the student's thought and creativity are central." ],
+        "cop" : [ "Austin" ],
+        "pub" : [ "University of Texas Press" ],
+        "oclcid" : [ "(ocolc)1280943203" ],
+        "doi" : [ "10.7560/785144" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Understructure of Writing for Film and Television" ]
+      },
+      "sort" : {
+        "title" : [ "Understructure of Writing for Film and Television /" ],
+        "author" : [ "Brady, Ben, author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086896080107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0292759584,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1996ǂ b715 1988",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "139",
+    "CALL_SOLR_GET_IDS_LIST" : "117",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "55",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "90",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "50",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "97",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "418",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 446,
+    "COMBINED_SEARCH_TIME" : 449,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1988",
+      "count" : "1"
+    }, {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Art Décrire",
+      "count" : "1"
+    }, {
+      "value" : "Creation Literary Artistic Etc",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Création Dramatique",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire",
+      "count" : "1"
+    }, {
+      "value" : "Drama Technique",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Film Video Screenwriting",
+      "count" : "1"
+    }, {
+      "value" : "Playwriting",
+      "count" : "1"
+    }, {
+      "value" : "Television Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Genre Littéraire Technique",
+      "count" : "1"
+    }, {
+      "value" : "Télévision Art Décrire",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brady Ben",
+      "count" : "1"
+    }, {
+      "value" : "Lee Lance",
+      "count" : "1"
+    } ]
+  } ]
+}

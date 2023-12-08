@@ -1,0 +1,254 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074470160107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Writing your journal article in twelve weeks : a guide to academic publishing success " ],
+        "subject" : [ "Scholarly publishing -- United States", "Scholarly publishing", "United States" ],
+        "format" : [ "xi, 430 pages : forms ; 28 cm." ],
+        "identifier" : [ "$$CLC$$V2018057646;$$CISBN$$V9780226499918;$$CISBN$$V022649991X;$$COCLC$$V(OCoLC)1079401118" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Belcher, Wendy Laura, author.$$QBelcher, Wendy Laura" ],
+        "publisher" : [ "Chicago : The University of Chicago Press" ],
+        "description" : [ "\"Wow. No one ever told me this!\" Wendy Laura Belcher has heard this countless times throughout her years of teaching and advising academics on how to write journal articles. Scholars know they must publish, but few have been told how to do so. So Belcher made it her mission to demystify the writing process. The result was Writing Your Journal Article in Twelve Weeks, which takes this overwhelming task and breaks it into small, manageable steps. For the past decade, this guide has been the go-to source for those creating articles for peer-reviewed journals. It has enabled thousands to overcome their anxieties and produce the publications that are essential to succeeding in their fields. With this new edition, Belcher expands her advice to reach beginning scholars in even more disciplines. She builds on feedback from professors and graduate students who have successfully used the workbook to complete their articles. A new chapter addresses scholars who are writing from scratch. This edition also includes more targeted exercises and checklists, as well as the latest research on productivity and scholarly writing. Writing Your Journal Article in Twelve Weeks is the only reference to combine expert guidance with a step-by-step workbook. Each week, readers learn a feature of strong articles and work on revising theirs accordingly. Every day is mapped out, taking the guesswork and worry out of writing. There are tasks, templates, and reminders. At the end of twelve weeks, graduate students, recent PhDs, postdoctoral fellows, adjunct instructors, junior faculty, and international faculty will feel confident they know that the rules of academic publishing and have the tools they need to succeed." ],
+        "mms" : [ "990074470160107871" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "Chicago guides to writing, editing, and publishing$$QChicago guides to writing, editing, and publishing", "Chicago guides to writing, editing, and publishing.$$QChicago guides to writing, editing, and publishing." ],
+        "contents" : [ "Introduction : using this workbook -- week 1: Designing your plan for writing -- week 2: Advancing your argument -- week 3: Abstracting your article -- week 4: Selecting a journal -- week 5: Refining your works cited -- week 6: Crafting your claims for significance -- week 7: Analyzing your evidence -- week 8: Presenting your evidence -- week 9: Strengthening your structure -- week 10: Opening and concluding your article -- week 11: Editing your sentences -- week 12: Sending your article! -- week X: Revising and resubmitting your article -- week 0: Writing your article from scratch." ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007447016" ],
+        "lds53" : [ "007447016" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074470160107871" ],
+        "recordid" : [ "alma990074470160107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007447016-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Belcher" ],
+        "aufirst" : [ "Wendy Laura" ],
+        "auinit" : [ "W" ],
+        "au" : [ "Belcher, Wendy Laura" ],
+        "creatorfull" : [ "$$NBelcher, Wendy Laura$$LBelcher$$FWendy Laura$$Rauthor" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9780226499918", "022649991X" ],
+        "notes" : [ "Includes bibliographical references (pages 401-417) and index." ],
+        "abstract" : [ "\"Wow. No one ever told me this!\" Wendy Laura Belcher has heard this countless times throughout her years of teaching and advising academics on how to write journal articles. Scholars know they must publish, but few have been told how to do so. So Belcher made it her mission to demystify the writing process. The result was Writing Your Journal Article in Twelve Weeks, which takes this overwhelming task and breaks it into small, manageable steps. For the past decade, this guide has been the go-to source for those creating articles for peer-reviewed journals. It has enabled thousands to overcome their anxieties and produce the publications that are essential to succeeding in their fields. With this new edition, Belcher expands her advice to reach beginning scholars in even more disciplines. She builds on feedback from professors and graduate students who have successfully used the workbook to complete their articles. A new chapter addresses scholars who are writing from scratch. This edition also includes more targeted exercises and checklists, as well as the latest research on productivity and scholarly writing. Writing Your Journal Article in Twelve Weeks is the only reference to combine expert guidance with a step-by-step workbook. Each week, readers learn a feature of strong articles and work on revising theirs accordingly. Every day is mapped out, taking the guesswork and worry out of writing. There are tasks, templates, and reminders. At the end of twelve weeks, graduate students, recent PhDs, postdoctoral fellows, adjunct instructors, junior faculty, and international faculty will feel confident they know that the rules of academic publishing and have the tools they need to succeed." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)1079401118" ],
+        "lccn" : [ "2018057646" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "Chicago guides to writing, editing, and publishing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Writing your journal article in twelve weeks : a guide to academic publishing success" ]
+      },
+      "sort" : {
+        "title" : [ "Writing your journal article in twelve weeks : a guide to academic publishing success /" ],
+        "author" : [ "Belcher, Wendy Laura, author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074470160107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074470160107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074470160107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:022649991X,OCLC:,LCCN:2018057646&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z\"471ǂ b45 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "55",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "24",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "21",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "46",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "209",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 237,
+    "COMBINED_SEARCH_TIME" : 240,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Scholarly Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Scholarly Publishing United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Belcher Wendy Laura",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

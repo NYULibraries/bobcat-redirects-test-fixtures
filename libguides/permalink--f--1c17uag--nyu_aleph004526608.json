@@ -1,0 +1,182 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045266080107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng" ],
+        "title" : [ "Colored American (New York, N.Y.)" ],
+        "subject" : [ "African Americans$$QAfrican Americans -- Newspapers", "New York (N.Y.)$$QNew York (N.Y.) -- Newspapers" ],
+        "format" : [ "v." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)607385359" ],
+        "creationdate" : [ "1837-1841" ],
+        "publisher" : [ "New York : R. Sears", "Vol. 1, no. 9 (Mar. 4, 1837)-", "Ceased in 1842." ],
+        "mms" : [ "990045266080107871" ],
+        "addtitle" : [ "Colored American and advocate" ],
+        "frequency" : [ "Weekly" ],
+        "series" : [ "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition$$QSlavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition", "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition.$$QSlavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition." ],
+        "genre" : [ "Newspapers" ],
+        "relation" : [ "$$Cearlier_title$$VWeekly advocate (New York, N.Y.)$$QWeekly advocate (New York, N.Y.)$$Z990022668590107871" ],
+        "unititle" : [ "Colored American (New York, N.Y.)" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galeprim", "aleph004526608" ],
+        "lds60" : [ "Reproduction of the originals from the Library of Congress. Reproduced courtesy of World Microfilms Publications." ],
+        "lds62" : [ "Images from the source libraries are selected or scattered issues as well as various editions of the cataloged title and related titles (where indicated in the MARC record) as representative of the general publishing history of the title during the nineteenth century." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045266080107871" ],
+        "recordid" : [ "alma990045266080107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004526608-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Colored American and advocate" ],
+        "date" : [ "1837 - 1841", "1837-1841" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "R. Sears" ],
+        "oclcid" : [ "(ocolc)607385359" ],
+        "seriestitle" : [ "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition" ],
+        "btitle" : [ "Colored American (New York, N.Y.)" ]
+      },
+      "sort" : {
+        "title" : [ "Colored American (New York, N.Y.)" ],
+        "creationdate" : [ "1837" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045266080107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:607385359,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "411",
+    "CALL_SOLR_GET_IDS_LIST" : "125",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "107",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "99",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "103",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "97",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "753",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 780,
+    "COMBINED_SEARCH_TIME" : 784,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1837",
+      "count" : "1"
+    }, {
+      "value" : "1841",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y Newspapers",
+      "count" : "1"
+    } ]
+  } ]
+}

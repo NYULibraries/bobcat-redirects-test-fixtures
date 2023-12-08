@@ -1,0 +1,215 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084459760107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Science by women : stories from careers in STEM " ],
+        "subject" : [ "Femmes dans les sciences", "Femmes dans les sciences -- Orientation professionnelle", "Women in science", "Women in science -- Vocational guidance" ],
+        "format" : [ "1 online resource : illustrations (chiefly color)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783030830328;$$CISBN$$V3030830322;$$COCLC$$V(OCoLC)1288169550;$$CISBN$$V3030830314;$$CISBN$$V9783030830311" ],
+        "creationdate" : [ "2022" ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "This book provides a roadmap for those embarking on a career in STEM, whether in the research or industry realms. Focusing on paths taken by women, the contributors lend their stories, tips and tricks, and hardships they faced entering into fields historically dominated by men. The authors provide practical advice, highlighting soft skills that are not often taught as modules in the classroom. Topics include research collaborations, performance enhancement, the gender lens in research design and development, imposter syndrome felt by many women in science, ethics in science, scaling feminine leadership, being an influencer as a science leader, and time and resources optimization for career advancement in science from resource-poor settings. Others interested in science and its impacts on society will also find the book informative and timely. As an important part of the Organization for Women in Science in the Developing World (OWSD), University of Port Harcourt Branch Book project, the work hopes to inspire women and men, girls and boys to enter and apply themselves to secure the future in STEM. Provides unique insight into women's experiences, challenges, and accomplishments in STEM, presenting a blueprint for those entering research or industry; Presents information from academia, research, and industry into STEM careers from multidisciplinary perspectives; Beneficial to professionals, researchers, and graduate students looking to hone their skills as STEM champions. ·." ],
+        "mms" : [ "990084459760107871" ],
+        "contributor" : [ "Nwaichi, Eucharia Oluchi, editor.$$QNwaichi, Eucharia Oluchi" ],
+        "series" : [ "Women in engineering and science, 2509-6435$$QWomen in engineering and science", "Women in engineering and science. 2509-6435$$QWomen in engineering and science." ],
+        "contents" : [ "Introduction -- Taking Research Outcomes to Target Beneficiaries: Research Uptake, meaning and benefits -- Understanding and utilizing research collaborations to enhance performance and visibility of women scientists -- Science education: a veritable tool for development -- Wearing our gender lens in research design and development -- Imposter Syndrome with Women in Science -- Ethics in Science through the Lens of COVID-19 Pandemic -- The Beauty of Research Data in an Information-Driven World -- The urgent need to scale Enlightened Feminine Leadership for Conscious Evolution -- The Secret to Being an Influencer as a Science Leader -- Archiving: a Useful Tool for Science and Scientists -- Time and Resources Optimization for Career Advancement for Women Scientists from Resource-Poor Settings -- Conclusion." ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008445976" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084459760107871" ],
+        "recordid" : [ "alma990084459760107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008445976-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Nwaichi" ],
+        "aufirst" : [ "Eucharia Oluchi" ],
+        "auinit" : [ "E" ],
+        "addau" : [ "Nwaichi, Eucharia Oluchi" ],
+        "contributorfull" : [ "$$NNwaichi, Eucharia Oluchi$$LNwaichi$$FEucharia Oluchi$$Reditor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9783030830328", "3030830322", "3030830314", "9783030830311" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This book provides a roadmap for those embarking on a career in STEM, whether in the research or industry realms. Focusing on paths taken by women, the contributors lend their stories, tips and tricks, and hardships they faced entering into fields historically dominated by men. The authors provide practical advice, highlighting soft skills that are not often taught as modules in the classroom. Topics include research collaborations, performance enhancement, the gender lens in research design and development, imposter syndrome felt by many women in science, ethics in science, scaling feminine leadership, being an influencer as a science leader, and time and resources optimization for career advancement in science from resource-poor settings. Others interested in science and its impacts on society will also find the book informative and timely. As an important part of the Organization for Women in Science in the Developing World (OWSD), University of Port Harcourt Branch Book project, the work hopes to inspire women and men, girls and boys to enter and apply themselves to secure the future in STEM. Provides unique insight into women's experiences, challenges, and accomplishments in STEM, presenting a blueprint for those entering research or industry; Presents information from academia, research, and industry into STEM careers from multidisciplinary perspectives; Beneficial to professionals, researchers, and graduate students looking to hone their skills as STEM champions. ·." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1288169550" ],
+        "doi" : [ "10.1007/978-3-030-83032-8" ],
+        "seriestitle" : [ "Women in engineering and science" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Science by women : stories from careers in STEM" ]
+      },
+      "sort" : {
+        "title" : [ "Science by women : stories from careers in STEM /" ],
+        "author" : [ "Nwaichi, Eucharia Oluchi, editor." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084459760107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084459760107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030830322,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "q\"130ǂ s35 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "105",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "332",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 371,
+    "COMBINED_SEARCH_TIME" : 373,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Femmes Dans Les Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Dans Les Sciences Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Women In Science",
+      "count" : "1"
+    }, {
+      "value" : "Women In Science Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Nwaichi Eucharia Oluchi",
+      "count" : "1"
+    } ]
+  } ]
+}

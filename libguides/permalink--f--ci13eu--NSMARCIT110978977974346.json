@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631944307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng;spa" ],
+        "title" : [ "Ñawpa pacha." ],
+        "subject" : [ "Indians of South America -- Andes$$QIndians of South America -- Andes -- Periodicals", "Archaeology -- Andes$$QArchaeology -- Andes -- Periodicals", "Indians of South America$$QIndians of South America -- Periodicals", "Archaeology$$QArchaeology -- Periodicals", "Indiens d'Amérique -- Amérique du Sud$$QIndiens d'Amérique -- Amérique du Sud -- Périodiques", "Archéologie$$QArchéologie -- Périodiques", "Archéologie -- Andes$$QArchéologie -- Andes -- Périodiques", "Archaeology", "Indians of South America", "Andes", "Archeologie" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2011263018;$$CISSN$$V2051-6207;$$COCLC$$V(OCoLC)559487247;$$CISSN$$V0077-6297" ],
+        "creationdate" : [ "1963-" ],
+        "publisher" : [ "Berkeley, Calif. : Institute of Andean Studies", "Began with 1, published in 1963." ],
+        "mms" : [ "9995631944307871" ],
+        "contributor" : [ "Institute of Andean Studies (Berkeley, Calif.)$$QInstitute of Andean Studies (Berkeley, Calif.)" ],
+        "addtitle" : [ "Cawpa pacha", "Journal of Andean archaelogy" ],
+        "frequency" : [ "Semiannual, 2010-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "place" : [ "Berkeley, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978977974346" ],
+        "lds60" : [ "Subtitle varies.", "Issues for 2010- published in conjunction with Left Coast Press, Inc." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631944307871" ],
+        "recordid" : [ "alma9995631944307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978977974346" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ÑAWPA PACHA" ],
+        "addtitle" : [ "Cawpa pacha", "Journal of Andean archaelogy" ],
+        "date" : [ "1963", "1963-" ],
+        "issn" : [ "2051-6207", "0077-6297" ],
+        "cop" : [ "Berkeley, Calif" ],
+        "pub" : [ "Institute of Andean Studies" ],
+        "oclcid" : [ "(ocolc)559487247" ],
+        "lccn" : [ "2011263018" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Ñawpa pacha." ]
+      },
+      "sort" : {
+        "title" : [ "Ñawpa pacha." ],
+        "author" : [ "Institute of Andean Studies (Berkeley, Calif.)" ],
+        "creationdate" : [ "1963" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631944307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631944307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631944307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631944307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631944307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2011263018&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#2229",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "81",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "75",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "26",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "43",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "56",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "325",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 353,
+    "COMBINED_SEARCH_TIME" : 356,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1963",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Andes",
+      "count" : "1"
+    }, {
+      "value" : "Archaeology",
+      "count" : "1"
+    }, {
+      "value" : "Archaeology Andes Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Archaeology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Archeologie",
+      "count" : "1"
+    }, {
+      "value" : "Archéologie Andes Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Archéologie Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America Andes Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Indiens Damérique Amérique Du Sud Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Institute Of Andean Studies Berkeley Calif",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

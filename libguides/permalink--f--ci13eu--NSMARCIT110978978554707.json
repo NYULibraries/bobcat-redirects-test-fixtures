@@ -1,0 +1,264 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995618639707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Women & performance (Online)" ],
+        "subject" : [ "Theater$$QTheater -- Periodicals", "Women$$QWomen -- Periodicals", "Women in the theater$$QWomen in the theater -- Periodicals", "Women in the motion picture industry$$QWomen in the motion picture industry -- Periodicals", "Women in television broadcasting$$QWomen in television broadcasting -- Periodicals", "Theater", "Women", "Women in television broadcasting", "Women in the motion picture industry", "Women in the theater", "Vrouwen", "Uitvoerende kunsten" ],
+        "identifier" : [ "$$CLC$$V  2011233287;$$CISSN$$V1748-5819;$$COCLC$$V(OCoLC)61311346;$$CISSN$$V0740-770X" ],
+        "creationdate" : [ "1983" ],
+        "publisher" : [ "New York, NY : Women & Performance Project", "Print began with v. 1, no. 1 (spring/summer 1983)." ],
+        "mms" : [ "9995618639707871" ],
+        "contributor" : [ "Tisch School of the Arts. Women & Performance Project.$$QTisch School of the Arts. Women & Performance Project." ],
+        "addtitle" : [ "Women and performance" ],
+        "frequency" : [ "Three issues a year, 2006-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990026950830107871" ],
+        "unititle" : [ "Women & performance (Online)" ],
+        "place" : [ "New York, NY] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978978554707" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "\"A journal of feminist theory.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995618639707871" ],
+        "recordid" : [ "alma9995618639707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978978554707" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "WOMEN AND PERFORMANCE A JOURNAL OF FEMINIST THEORY", "WOMEN AND PERFORMANCE", "WOMEN & PERFORMANCE" ],
+        "addtitle" : [ "Women and performance" ],
+        "date" : [ "1983" ],
+        "issn" : [ "1748-5819", "0740-770X" ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Women & Performance Project" ],
+        "oclcid" : [ "(ocolc)61311346" ],
+        "lccn" : [ "2011233287" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Women & performance (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Women & performance (Online)" ],
+        "author" : [ "Tisch School of the Arts. Women & Performance Project." ],
+        "creationdate" : [ "1983" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995618639707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995618639707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995618639707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995618639707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2011233287&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1590 w64",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "296",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "152",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "73",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "123",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "49",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "602",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 633,
+    "COMBINED_SEARCH_TIME" : 635,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1983",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Uitvoerende Kunsten",
+      "count" : "1"
+    }, {
+      "value" : "Vrouwen",
+      "count" : "1"
+    }, {
+      "value" : "Women",
+      "count" : "1"
+    }, {
+      "value" : "Women In Television Broadcasting",
+      "count" : "1"
+    }, {
+      "value" : "Women In Television Broadcasting Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Women In The Motion Picture Industry",
+      "count" : "1"
+    }, {
+      "value" : "Women In The Motion Picture Industry Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Women In The Theater",
+      "count" : "1"
+    }, {
+      "value" : "Women In The Theater Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Women Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Tisch School Of The Arts Women Performance Project",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995614053307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "International journal of clothing science and technology (Online)" ],
+        "subject" : [ "Textile industry$$QTextile industry -- Periodicals", "Textile industry -- Technological innovations$$QTextile industry -- Technological innovations -- Periodicals", "Textile research$$QTextile research -- Periodicals", "Textile industry", "Textile industry -- Technological innovations", "Textile research", "Clothing Manufacture" ],
+        "identifier" : [ "$$CLC$$V   00253505;$$CISSN$$V1758-5953;$$COCLC$$V(OCoLC)45279714;$$CISSN$$V0955-6222" ],
+        "creationdate" : [ "1989-" ],
+        "publisher" : [ "Bradford, England : MCB University Press", "Began with vol. 1, issue 1 (1989)." ],
+        "mms" : [ "9995614053307871" ],
+        "contributor" : [ "MCB University Press.$$QMCB University Press." ],
+        "addtitle" : [ "Clothing science and technology", "IJCST" ],
+        "frequency" : [ "6 no. a year, 2001-" ],
+        "genre" : [ "Periodicals" ],
+        "unititle" : [ "International journal of clothing science and technology (Online)" ],
+        "place" : [ "Bradford, England :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921413388" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995614053307871" ],
+        "recordid" : [ "alma9995614053307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921413388" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "INTERNATIONAL JOURNAL OF CLOTHING SCIENCE & TECHNOLOGY", "INT J CLOTH SCI TECH", "INT. J. CLOTH. SCI. TECHNOL" ],
+        "addtitle" : [ "Clothing science and technology", "IJCST" ],
+        "date" : [ "1989", "1989-" ],
+        "issn" : [ "1758-5953", "0955-6222" ],
+        "cop" : [ "Bradford, England" ],
+        "pub" : [ "MCB University Press" ],
+        "oclcid" : [ "(ocolc)45279714" ],
+        "lccn" : [ "00253505" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "International journal of clothing science and technology (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "International journal of clothing science and technology (Online)" ],
+        "author" : [ "MCB University Press." ],
+        "creationdate" : [ "1989" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614053307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614053307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614053307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614053307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614053307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:00253505&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ts#1300",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "92",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "86",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "70",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "59",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "47",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "348",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 379,
+    "COMBINED_SEARCH_TIME" : 382,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1989",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing Manufacture",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry Technological Innovations Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Textile Research",
+      "count" : "1"
+    }, {
+      "value" : "Textile Research Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mcb University Press",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

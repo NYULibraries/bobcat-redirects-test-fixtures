@@ -1,0 +1,215 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041017780107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Real estate law " ],
+        "subject" : [ "Real property -- United States", "Real estate business -- Law and legislation -- United States" ],
+        "format" : [ "xvi, 682 pages : illustrations ; 25 cm" ],
+        "identifier" : [ "$$CLC$$V2013417294;$$CISBN$$V9781427740304;$$CISBN$$V1427740305;$$COCLC$$V(OCoLC)865180490" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Klayman, Elliot I., author.$$QKlayman, Elliot I." ],
+        "publisher" : [ "La Crosse, Wisconsin : Dearborn Real Estate Education" ],
+        "mms" : [ "990041017780107871" ],
+        "edition" : [ "Eighth edition." ],
+        "contents" : [ "Introduction to law and legal systems -- Real and personal property -- Land, water, and air rights -- Estates in land -- Co-ownership -- Condominiums, cooperatives, time-shares, and real estate investments -- The leasehold -- The landlord-tenant relationship -- Easements and other nonpossessory rights -- Basic contract law -- Real estate purchase contract -- Agency and brokerage -- Fraud and misrepresentation -- Involuntary liens against title -- Deeds -- Land descriptions -- Involuntary transfers -- Recording and assurance of title -- Closing the real estate transaction -- Escrow closing -- Mortgages -- Land installment contracts -- Fair housing laws -- Land use: the constitution and the plan -- Regulation of land development -- Environmental law." ],
+        "place" : [ "La Crosse, Wisconsin :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004101778" ],
+        "lds53" : [ "004101778" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041017780107871" ],
+        "recordid" : [ "alma990041017780107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004101778-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Klayman" ],
+        "aufirst" : [ "Elliot I." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Klayman, Elliot I." ],
+        "creatorfull" : [ "$$NKlayman, Elliot I.$$LKlayman$$FElliot I.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781427740304", "1427740305" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "La Crosse, Wisconsin" ],
+        "pub" : [ "Dearborn Real Estate Education" ],
+        "oclcid" : [ "(ocolc)865180490" ],
+        "lccn" : [ "2013417294" ],
+        "edition" : [ "Eighth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Real estate law" ]
+      },
+      "sort" : {
+        "title" : [ "Real estate law /" ],
+        "author" : [ "Klayman, Elliot I., author." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041017780107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1427740305,OCLC:,LCCN:2013417294&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf\"570ǂ g5 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "124",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "60",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "71",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 338,
+    "COMBINED_SEARCH_TIME" : 340,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Real Estate Business Law And Legislation United States",
+      "count" : "1"
+    }, {
+      "value" : "Real Property United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Klayman Elliot I",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163050350007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

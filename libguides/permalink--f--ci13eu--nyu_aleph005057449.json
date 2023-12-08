@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050574490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Fancy Dresses Described." ],
+        "subject" : [ "ANTIQUES & COLLECTIBLES -- Textiles & Costume", "DESIGN -- Fashion", "DESIGN -- Textile & Costume", "Balls (Parties)", "Costume", "Great Britain" ],
+        "format" : [ "1 online resource (353)" ],
+        "identifier" : [ "$$CISBN$$V0486821358;$$CISBN$$V9780486821351;$$COCLC$$V(OCoLC)988085346;$$CISBN$$V9780486814254;$$CISBN$$V0486814254" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Holt, Ardern.$$QHolt, Ardern." ],
+        "publisher" : [ "New York, UNITED STATES : Dover Publications" ],
+        "description" : [ "\"The Victorians adored fancy-dress parties: what better way to escape the rigidity of social conventions than to spend a festive evening disguised as Cleopatra, a Swiss milkmaid, or Alice in Wonderland? Well-to-do party-goers of the era consulted Fancy Dresses Described, an elaborate guide to hundreds of glorious costumes. The book was so popular that it was updated several times; this is the sixth and final edition, originally published in 1896. Time has transformed it into an important historical document as well as an abundant cosplay resource. Twenty color and 40 black-and-white illustrations enhance the alphabetical entries, which are mostly for women's costumes but include a section on children's dress. Costumes range from the peasant garb of Austria, Italy, and Ireland to the finery of the six wives of Henry VIII, Marie Antoinette, and other members of French and English royalty. Additional entries spotlight characters from Shakespeare and Dickens; traditional apparel of Egypt and ancient Greece and Rome; Cinderella, Maid Marian, and other folkloric figures; as well as outfits suggested by astronomy, the seasons, the animal kingdom, and other thematic subjects. Costume designers, reenactors, lovers of Victorian fashion, and Halloween enthusiasts will find this historic volume a tremendous source of inspiration\"-- Provided by publisher." ],
+        "mms" : [ "990050574490107871" ],
+        "contents" : [ "Pages:1 to 25; Pages:26 to 50; Pages:51 to 75; Pages:76 to 100; Pages:101 to 125; Pages:126 to 150; Pages:151 to 175; Pages:176 to 200; Pages:201 to 225; Pages:226 to 250; Pages:251 to 275; Pages:276 to 300; Pages:301 to 325; Pages:326 to 350; Pages:351 to 353." ],
+        "genre" : [ "Dictionaries", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Holt, Ardern. Fancy Dresses Described. New York, UNITED STATES : Dover Publications, 2017$$QFancy Dresses Described." ],
+        "place" : [ "New York, UNITED STATES :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph005057449" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050574490107871" ],
+        "recordid" : [ "alma990050574490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005057449-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Holt" ],
+        "aufirst" : [ "Ardern." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Holt, Ardern." ],
+        "creatorfull" : [ "$$NHolt, Ardern.$$LHolt$$FArdern.$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "0486821358", "9780486821351", "9780486814254", "0486814254" ],
+        "abstract" : [ "\"The Victorians adored fancy-dress parties: what better way to escape the rigidity of social conventions than to spend a festive evening disguised as Cleopatra, a Swiss milkmaid, or Alice in Wonderland? Well-to-do party-goers of the era consulted Fancy Dresses Described, an elaborate guide to hundreds of glorious costumes. The book was so popular that it was updated several times; this is the sixth and final edition, originally published in 1896. Time has transformed it into an important historical document as well as an abundant cosplay resource. Twenty color and 40 black-and-white illustrations enhance the alphabetical entries, which are mostly for women's costumes but include a section on children's dress. Costumes range from the peasant garb of Austria, Italy, and Ireland to the finery of the six wives of Henry VIII, Marie Antoinette, and other members of French and English royalty. Additional entries spotlight characters from Shakespeare and Dickens; traditional apparel of Egypt and ancient Greece and Rome; Cinderella, Maid Marian, and other folkloric figures; as well as outfits suggested by astronomy, the seasons, the animal kingdom, and other thematic subjects. Costume designers, reenactors, lovers of Victorian fashion, and Halloween enthusiasts will find this historic volume a tremendous source of inspiration\"-- Provided by publisher." ],
+        "cop" : [ "New York, UNITED STATES" ],
+        "pub" : [ "Dover Publications" ],
+        "oclcid" : [ "(ocolc)988085346" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fancy Dresses Described." ]
+      },
+      "sort" : {
+        "title" : [ "Fancy Dresses Described." ],
+        "author" : [ "Holt, Ardern." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050574490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050574490107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780486821351,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"737ǂ h65 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "11",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "263",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 299,
+    "COMBINED_SEARCH_TIME" : 301,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Antiques Collectibles Textiles Costume",
+      "count" : "1"
+    }, {
+      "value" : "Balls Parties",
+      "count" : "1"
+    }, {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Design Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Design Textile Costume",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Holt Ardern",
+      "count" : "1"
+    } ]
+  } ]
+}

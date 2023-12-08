@@ -1,0 +1,241 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990040013140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Can't we talk about something more pleasant? : [a memoir] " ],
+        "subject" : [ "Chast, Roz -- Family$$QChast, Roz -- Family -- Comic books, strips, etc", "Adult children of aging parents -- Family relationships -- United States$$QAdult children of aging parents -- Family relationships -- United States -- Comic books, strips, etc", "Aging parents -- Family relationships -- United States$$QAging parents -- Family relationships -- United States -- Comic books, strips, etc", "Aging parents -- Care -- United States$$QAging parents -- Care -- United States -- Comic books, strips, etc", "Cartoonists -- United States$$QCartoonists -- United States -- Biography Comic books, strips, etc" ],
+        "format" : [ "228 pages : illustrations (some color), portraits ; 25 cm" ],
+        "identifier" : [ "$$CISBN$$V9781608198061 :;$$CISBN$$V1608198065 :;$$COCLC$$V(OCoLC)860395376" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Chast, Roz, author, illustrator.$$QChast, Roz" ],
+        "publisher" : [ "New York : Bloomsbury" ],
+        "description" : [ "In her first memoir, Roz Chast brings her signature wit to the topic of aging parents. Spanning the last several years of their lives and told through a mixture of cartoons, family photos, documents, and a narrative as rife with laughs as it is with tears, Chast's memoir is both comfort and comic relief for anyone experiencing the life-altering loss of elderly parents. When it came to her elderly mother and father, Roz held to the practices of denial, avoidance, and distraction. But when Elizabeth Chast climbed a ladder to locate an old souvenir from the \"crazy closet\"--with predictable results--the tools that had served Roz well through her parents' seventies, eighties, and into their early nineties could no longer be deployed. While the particulars are Chast-ian in their idiosyncrasies--an anxious father who had relied heavily on his wife for stability as he slipped into dementia and a former assistant principal mother whose overbearing personality had sidelined Roz for decades--the themes are universal: adult children accepting a parental role; aging and unstable parents leaving a family home for an institution; dealing with uncomfortable physical intimacies; managing logistics; and hiring strangers to provide the most personal care." ],
+        "mms" : [ "990040013140107871" ],
+        "edition" : [ "First U.S. edition." ],
+        "genre" : [ "Biography", "Graphic novels", "Wit and humor, Pictorial", "Comic books, strips, etc" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004001314" ],
+        "lds53" : [ "004001314" ],
+        "lds60" : [ "Subtitle from cover." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990040013140107871" ],
+        "recordid" : [ "alma990040013140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004001314-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chast" ],
+        "aufirst" : [ "Roz" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Chast, Roz" ],
+        "creatorfull" : [ "$$NChast, Roz$$LChast$$FRoz$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781608198061", "1608198065" ],
+        "abstract" : [ "In her first memoir, Roz Chast brings her signature wit to the topic of aging parents. Spanning the last several years of their lives and told through a mixture of cartoons, family photos, documents, and a narrative as rife with laughs as it is with tears, Chast's memoir is both comfort and comic relief for anyone experiencing the life-altering loss of elderly parents. When it came to her elderly mother and father, Roz held to the practices of denial, avoidance, and distraction. But when Elizabeth Chast climbed a ladder to locate an old souvenir from the \"crazy closet\"--with predictable results--the tools that had served Roz well through her parents' seventies, eighties, and into their early nineties could no longer be deployed. While the particulars are Chast-ian in their idiosyncrasies--an anxious father who had relied heavily on his wife for stability as he slipped into dementia and a former assistant principal mother whose overbearing personality had sidelined Roz for decades--the themes are universal: adult children accepting a parental role; aging and unstable parents leaving a family home for an institution; dealing with uncomfortable physical intimacies; managing logistics; and hiring strangers to provide the most personal care." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Bloomsbury" ],
+        "oclcid" : [ "(ocolc)860395376" ],
+        "edition" : [ "First U.S. edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Can't we talk about something more pleasant? : [a memoir]" ]
+      },
+      "sort" : {
+        "title" : [ "Can't we talk about something more pleasant? : [a memoir] /" ],
+        "author" : [ "Chast, Roz, author, illustrator." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990040013140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990040013140107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1608198065,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6727 c43ǂc36 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "6",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "100",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "311",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 344,
+    "COMBINED_SEARCH_TIME" : 346,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Adult Children Of Aging Parents Family Relationships United States Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Aging Parents Care United States Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Aging Parents Family Relationships United States Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Cartoonists United States Biography Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Chast Roz Family Comic Books Strips Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chast Roz",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

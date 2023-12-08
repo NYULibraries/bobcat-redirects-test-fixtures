@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990020418460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A guide to the early British periodicals collection on microfilm, with title, subject, editor, and reel number indexes " ],
+        "subject" : [ "English periodicals$$QEnglish periodicals -- Bibliography Microform catalogs", "English periodicals$$QEnglish periodicals -- Indexes", "British periodicals$$QBritish periodicals -- Indexes" ],
+        "format" : [ "viii, 85 p. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$V80017986;$$COCLC$$V(OCoLC)6447034" ],
+        "creationdate" : [ "1980" ],
+        "creator" : [ "University Microfilms International.$$QUniversity Microfilms International." ],
+        "publisher" : [ "Ann Arbor, Mich. : University MIcrofilms International" ],
+        "mms" : [ "990020418460107871" ],
+        "contributor" : [ "Puravs, Grace, 1936-$$QPuravs, Grace", "Hoornstra, Jean.$$QHoornstra, Jean." ],
+        "genre" : [ "Bibliography", "Microform catalogs", "Indexes" ],
+        "place" : [ "Ann Arbor, Mich. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002041846" ],
+        "lds53" : [ "002041846" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990020418460107871" ],
+        "recordid" : [ "alma990020418460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002041846-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Puravs", "Hoornstra" ],
+        "aufirst" : [ "Grace", "Jean." ],
+        "auinit" : [ "G", "J" ],
+        "aucorp" : [ "University Microfilms International." ],
+        "addau" : [ "Puravs, Grace", "Hoornstra, Jean." ],
+        "contributorfull" : [ "$$NPuravs, Grace$$LPuravs$$FGrace$$Rcontributor", "$$NHoornstra, Jean.$$Rcontributor" ],
+        "date" : [ "1980" ],
+        "cop" : [ "Ann Arbor, Mich" ],
+        "pub" : [ "University MIcrofilms International" ],
+        "oclcid" : [ "(ocolc)6447034" ],
+        "lccn" : [ "80017986" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A guide to the early British periodicals collection on microfilm, with title, subject, editor, and reel number indexes" ]
+      },
+      "sort" : {
+        "title" : [ "guide to the early British periodicals collection on microfilm, with title, subject, editor, and reel number indexes /" ],
+        "author" : [ "University Microfilms International." ],
+        "creationdate" : [ "1980" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990020418460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0835705749,OCLC:,LCCN:80017986&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#6956 g6ǂpn5124 p4ǂu54 1980",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "183",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "56",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "379",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 403,
+    "COMBINED_SEARCH_TIME" : 407,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1980",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "British Periodicals Indexes",
+      "count" : "1"
+    }, {
+      "value" : "English Periodicals Bibliography Microform Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "English Periodicals Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hoornstra Jean",
+      "count" : "1"
+    }, {
+      "value" : "Puravs Grace",
+      "count" : "1"
+    }, {
+      "value" : "University Microfilms International",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012008610107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of pottery and porcelain marks " ],
+        "subject" : [ "Pottery -- Marks", "Porcelain -- Marks" ],
+        "format" : [ "vii, 304 p. : ill. ; 26 cm." ],
+        "identifier" : [ "$$CISBN$$V0571179231;$$COCLC$$V(OCoLC)ocm36365062" ],
+        "creationdate" : [ "c1996" ],
+        "creator" : [ "Cushion, John Patrick.$$QCushion, John Patrick." ],
+        "publisher" : [ "London : Faber" ],
+        "mms" : [ "990012008610107871" ],
+        "contributor" : [ "Honey, W. B. (William Bowyer), 1889-$$QHoney, W. B." ],
+        "edition" : [ "5th ed. rev. and expanded." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001200861" ],
+        "lds53" : [ "001200861" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012008610107871" ],
+        "recordid" : [ "alma990012008610107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001200861-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cushion" ],
+        "aufirst" : [ "John Patrick." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Cushion, John Patrick." ],
+        "addau" : [ "Honey, W. B. (William Bowyer)" ],
+        "creatorfull" : [ "$$NCushion, John Patrick.$$LCushion$$FJohn Patrick.$$Rauthor" ],
+        "contributorfull" : [ "$$NHoney, W. B. (William Bowyer)$$LHoney$$FW. B.$$Rcontributor" ],
+        "date" : [ "1996", "c1996" ],
+        "isbn" : [ "0571179231" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Faber" ],
+        "oclcid" : [ "(ocolc)36365062" ],
+        "edition" : [ "5th ed. rev. and expanded." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook of pottery and porcelain marks" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of pottery and porcelain marks /" ],
+        "author" : [ "Cushion, John Patrick." ],
+        "creationdate" : [ "1996" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012008610107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0571179231,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nk#4215ǂ c8 1996",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "47",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "44",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "128",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "370",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 395,
+    "COMBINED_SEARCH_TIME" : 397,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1996",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Porcelain Marks",
+      "count" : "1"
+    }, {
+      "value" : "Pottery Marks",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Cushion John Patrick",
+      "count" : "1"
+    }, {
+      "value" : "Honey W B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

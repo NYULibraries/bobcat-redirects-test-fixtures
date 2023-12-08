@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002447750107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "How to write a poem " ],
+        "subject" : [ "Poetry -- Authorship" ],
+        "format" : [ "viii, 154 p. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2005006596;$$CISBN$$V9781405124799 (hard cover : alk. paper);$$CISBN$$V1405124792 (hard cover : alk. paper);$$CISBN$$V9781405124805 (pbk. : alk. paper);$$CISBN$$V1405124806 (pbk. : alk. paper)" ],
+        "creationdate" : [ "2005c2006" ],
+        "creator" : [ "Redmond, John, 1967-$$QRedmond, John" ],
+        "publisher" : [ "Malden, MA : Blackwell Pub." ],
+        "mms" : [ "990002447750107871" ],
+        "series" : [ "How to study literature$$QHow to study literature", "How to study literature (Malden, Mass.)$$QHow to study literature (Malden, Mass.)" ],
+        "contents" : [ "The question of address -- Viewpoint -- The question of voices -- The question of scale -- Uses of repetition -- Image -- Short lines -- Long lines -- Diction -- Uses of syntax -- Tone -- Traditional forms: ode -- Traditional forms: epistle -- The question of background -- Conclusion : the question of variety." ],
+        "place" : [ "Malden, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000244775" ],
+        "lds53" : [ "000244775" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002447750107871" ],
+        "recordid" : [ "alma990002447750107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000244775-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Redmond" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Redmond, John" ],
+        "creatorfull" : [ "$$NRedmond, John$$LRedmond$$FJohn$$Rauthor" ],
+        "date" : [ "2005 - 2006", "2005c2006" ],
+        "isbn" : [ "9781405124799", "1405124792", "9781405124805", "1405124806" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Malden, MA" ],
+        "pub" : [ "Blackwell Pub." ],
+        "oclcid" : [ "(dlc) 2005006596" ],
+        "lccn" : [ "2005006596" ],
+        "seriestitle" : [ "How to study literature" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "How to write a poem" ]
+      },
+      "sort" : {
+        "title" : [ "How to write a poem /" ],
+        "author" : [ "Redmond, John, 1967-" ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002447750107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1405124792,OCLC:,LCCN:2005006596&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/toc/ecip059/2005006596.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1059 a9ǂr43 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "88",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "58",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "55",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "330",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 360,
+    "COMBINED_SEARCH_TIME" : 364,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    }, {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Poetry Authorship",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Redmond John",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

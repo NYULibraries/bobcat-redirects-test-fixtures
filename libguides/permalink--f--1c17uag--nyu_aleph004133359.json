@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041333590107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Maya Angelou : the Complete Poetry " ],
+        "subject" : [ "Poetry" ],
+        "format" : [ "xvii, 308 pages : portrait ; 25 cm" ],
+        "identifier" : [ "$$CLC$$V2014043508;$$CISBN$$V9780812997873;$$CISBN$$V0812997875;$$COCLC$$V(OCoLC)884298105" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Angelou, Maya, author.$$QAngelou, Maya" ],
+        "publisher" : [ "New York : Random House" ],
+        "description" : [ "Throughout her illustrious career in letters, Maya Angelou gifted, healed, and inspired the world with her words. Now the beauty and spirit of those words live on in this new and complete collection of poetry that reflects and honors the writer's remarkable life." ],
+        "mms" : [ "990041333590107871" ],
+        "addtitle" : [ "Complete Poetry" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "Just give me a cool drink of water 'fore I diiie -- Where love is a scream of anguish -- Just before the world ends -- Oh pray my wings are gonna fit me well -- And still I rise -- Touch me, life, not softly -- Traveling -- And still I rise -- Shaker, why don't you sing? -- I shall not be moved -- On the pulse of morning -- Celebrations -- A brave and startling truth -- Amazing peace -- Mother : a cradle to hold me -- Amazement awaits -- His day is done." ],
+        "unititle" : [ "Poems" ],
+        "includes" : [ "Angelou, Maya, Poems$$QAngelou, Maya, Poems" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004133359" ],
+        "lds53" : [ "004133359" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041333590107871" ],
+        "recordid" : [ "alma990041333590107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004133359-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Angelou" ],
+        "aufirst" : [ "Maya" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Angelou, Maya" ],
+        "creatorfull" : [ "$$NAngelou, Maya$$LAngelou$$FMaya$$Rauthor" ],
+        "addtitle" : [ "Complete Poetry" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9780812997873", "0812997875" ],
+        "abstract" : [ "Throughout her illustrious career in letters, Maya Angelou gifted, healed, and inspired the world with her words. Now the beauty and spirit of those words live on in this new and complete collection of poetry that reflects and honors the writer's remarkable life." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Random House" ],
+        "oclcid" : [ "(ocolc)884298105" ],
+        "lccn" : [ "2014043508" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Maya Angelou : the Complete Poetry" ]
+      },
+      "sort" : {
+        "title" : [ "Maya Angelou : the Complete Poetry /" ],
+        "author" : [ "Angelou, Maya, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041333590107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041333590107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0812997875,OCLC:,LCCN:2014043508&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps#3551ǂ n464 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "134",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "369",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 393,
+    "COMBINED_SEARCH_TIME" : 396,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Poetry",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Angelou Maya",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163051690007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

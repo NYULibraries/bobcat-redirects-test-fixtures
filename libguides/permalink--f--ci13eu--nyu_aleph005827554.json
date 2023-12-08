@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058275540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The American Historical Association's guide to historical literature, volume 2 " ],
+        "subject" : [ "History$$QHistory -- Bibliography", "Histoire$$QHistoire -- Bibliographie", "Meilleurs ouvrages", "Best books", "History" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1291709361;$$CISBN$$V0195057279;$$CISBN$$V9780195057270" ],
+        "creationdate" : [ "1995" ],
+        "publisher" : [ "New York : Oxford University Press" ],
+        "mms" : [ "990058275540107871" ],
+        "contributor" : [ "Norton, Mary Beth.$$QNorton, Mary Beth.", "Gerardi, Pamela, 1956-$$QGerardi, Pamela", "American Historical Association.$$QAmerican Historical Association." ],
+        "addtitle" : [ "Guide to historical literature" ],
+        "edition" : [ "Third edition" ],
+        "series" : [ "ACLS Humanities E-Book.$$QACLS Humanities E-Book.", "AHA guides to historical literature.$$QAHA guides to historical literature." ],
+        "genre" : [ "Bibliography", "Bibliographie", "Bibliographies" ],
+        "relation" : [ "$$Cform$$VPrint version: American Historical Association's guide to historical literature. third edition New York : Oxford University Press, 1995$$QAmerican Historical Association's guide to historical literature.$$Z990022228250107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aclsheb", "aleph005827554" ],
+        "lds60" : [ "Contains nearly 27,000 annotated citations (primarily to English language works) divided into forty-eight sections; citations refer chiefly to works published between 1961 and 1992.", "Includes indexes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058275540107871" ],
+        "recordid" : [ "alma990058275540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005827554-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Norton", "Gerardi" ],
+        "aufirst" : [ "Mary Beth.", "Pamela" ],
+        "auinit" : [ "M", "P" ],
+        "addau" : [ "Norton, Mary Beth.", "Gerardi, Pamela" ],
+        "contributorfull" : [ "$$NNorton, Mary Beth.$$LNorton$$FMary Beth.$$Rcontributor", "$$NGerardi, Pamela$$Rcontributor" ],
+        "addtitle" : [ "Guide to historical literature" ],
+        "date" : [ "1995" ],
+        "isbn" : [ "0195057279", "9780195057270" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)1291709361" ],
+        "edition" : [ "Third edition" ],
+        "seriestitle" : [ "AHA guides to historical literature." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The American Historical Association's guide to historical literature, volume 2" ]
+      },
+      "sort" : {
+        "title" : [ "American Historical Association's guide to historical literature, volume 2 /" ],
+        "author" : [ "Norton, Mary Beth." ],
+        "creationdate" : [ "1995" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058275540107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058275540107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058275540107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058275540107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058275540107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780195099539,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "internet accessǂaeu 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "225",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "91",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "56",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "22",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "61",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "496",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 528,
+    "COMBINED_SEARCH_TIME" : 531,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1995",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Best Books",
+      "count" : "1"
+    }, {
+      "value" : "Histoire Bibliographie",
+      "count" : "1"
+    }, {
+      "value" : "History",
+      "count" : "1"
+    }, {
+      "value" : "History Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Meilleurs Ouvrages",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Historical Association",
+      "count" : "1"
+    }, {
+      "value" : "Gerardi Pamela",
+      "count" : "1"
+    }, {
+      "value" : "Norton Mary Beth",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990065701700107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Michael Chekhov's acting technique : a practitioner's guide " ],
+        "subject" : [ "Chekhov, Michael, 1891-1955", "Acting" ],
+        "format" : [ "xviii, 337 pages ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2018030452;$$CISBN$$V9781350090033;$$CISBN$$V1350090034;$$CISBN$$V9781408156889;$$CISBN$$V1408156881;$$COCLC$$V(OCoLC)1031341328" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Rushe, Sinéad, author.$$QRushe, Sinéad" ],
+        "publisher" : [ "London, UK ; New York, NY : Methuen Drama" ],
+        "description" : [ "\"Intended for actors, directors, teachers and researchers, this book offers an exceptionally clear and thorough introduction to the renowned acting technique developed by Michael Chekhov. Providing a complete overview of the whole method, Michael Chekhov's Acting Technique includes illuminating explanations of his principles and a wide range of practical exercises that illustrate, step by step, how they can be applied to dramatic texts. Part One provides an outline of Chekhov's most basic principles, which help to prepare practitioners to become responsive and receptive, and to awaken their imagination. Part Two charts a journey through the foundational psychophysical exercises that can both orient an actor's training routine and be applied directly to the development of a role. Part Three focuses on more specific and elaborate methods of scene work, characterisation and the art of transformation. The book draws on the full range of Chekhov's writing in English and French, unpublished material from the Dartington Hall archives, and interviews with actors who have worked with the technique, including Simon Callow and Joanna Merlin. It illustrates Chekhov's approach by referring to Rushe's own productions of Nikolai Gogol's short story 'Diary of a Madman' and Shakespeare's Othello, as well as characters and scenes in Sarah Kane's Blasted and the contemporary American television series Breaking Bad. It will serve as a comprehensive and contemporary point of reference for those who are already trained in the method, as well as an initiation and toolkit for practitioners who are just beginning to discover it\"-- Provided by publisher." ],
+        "mms" : [ "990065701700107871" ],
+        "series" : [ "Performance books$$QPerformance books" ],
+        "contents" : [ "The ideal centre -- The four brothers: feeling of ease -- Receiving -- The four brothers: feeling of form -- The four brothers: feeling of beauty -- The four brothers: feeling of entirety -- Radiating -- Expansion and contraction -- Qualities of movement: moulding, floating, flying, radiating -- Further qualities of movement: staccato/legato, curved/straight -- Directions in space -- Archetypal gesture -- The three sisters: rising, falling, balancing -- Image and imagination -- Improvisation -- Imaginary body -- Imaginary centre -- Stick/ball/veil -- Archetypes -- Psychological gesture -- Subjective atmosphere -- Objective atmosphere -- Extras: ghost exercise, character biography -- Conclusion: theatre of the future." ],
+        "place" : [ "London, UK ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006570170" ],
+        "lds53" : [ "006570170" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990065701700107871" ],
+        "recordid" : [ "alma990065701700107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006570170-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rushe" ],
+        "aufirst" : [ "Sinéad" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Rushe, Sinéad" ],
+        "creatorfull" : [ "$$NRushe, Sinéad$$LRushe$$FSinéad$$Rauthor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781350090033", "1350090034", "9781408156889", "1408156881" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Intended for actors, directors, teachers and researchers, this book offers an exceptionally clear and thorough introduction to the renowned acting technique developed by Michael Chekhov. Providing a complete overview of the whole method, Michael Chekhov's Acting Technique includes illuminating explanations of his principles and a wide range of practical exercises that illustrate, step by step, how they can be applied to dramatic texts. Part One provides an outline of Chekhov's most basic principles, which help to prepare practitioners to become responsive and receptive, and to awaken their imagination. Part Two charts a journey through the foundational psychophysical exercises that can both orient an actor's training routine and be applied directly to the development of a role. Part Three focuses on more specific and elaborate methods of scene work, characterisation and the art of transformation. The book draws on the full range of Chekhov's writing in English and French, unpublished material from the Dartington Hall archives, and interviews with actors who have worked with the technique, including Simon Callow and Joanna Merlin. It illustrates Chekhov's approach by referring to Rushe's own productions of Nikolai Gogol's short story 'Diary of a Madman' and Shakespeare's Othello, as well as characters and scenes in Sarah Kane's Blasted and the contemporary American television series Breaking Bad. It will serve as a comprehensive and contemporary point of reference for those who are already trained in the method, as well as an initiation and toolkit for practitioners who are just beginning to discover it\"-- Provided by publisher." ],
+        "cop" : [ "London, UK ;" ],
+        "pub" : [ "Methuen Drama" ],
+        "oclcid" : [ "(ocolc)1031341328" ],
+        "lccn" : [ "2018030452" ],
+        "seriestitle" : [ "Performance books" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Michael Chekhov's acting technique : a practitioner's guide" ]
+      },
+      "sort" : {
+        "title" : [ "Michael Chekhov's acting technique : a practitioner's guide /" ],
+        "author" : [ "Rushe, Sinéad, author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990065701700107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1350090034,OCLC:,LCCN:2018030452&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2061ǂ r745 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "188",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "46",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "40",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "112",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "456",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 489,
+    "COMBINED_SEARCH_TIME" : 493,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting",
+      "count" : "1"
+    }, {
+      "value" : "Chekhov Michael 1891 1955",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rushe Sinéad",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

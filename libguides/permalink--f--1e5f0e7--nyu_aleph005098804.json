@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050988040107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of identity " ],
+        "subject" : [ "Identité", "Identité (Psychologie)", "Identité collective", "identity", "group identity", "PSYCHOLOGY -- Social Psychology", "Group identity", "Identity (Philosophical concept)", "Identity (Psychology)" ],
+        "format" : [ "1 online resource (2 volumes in 1 (xxvii, 953 pages))" ],
+        "identifier" : [ "$$CISBN$$V9781452261737;$$CISBN$$V1452261733;$$CISBN$$V1849727554;$$CISBN$$V9781849727556;$$CISBN$$V1412979307;$$CISBN$$V9781412979306;$$COCLC$$V(OCoLC)769187536" ],
+        "creationdate" : [ "©2010" ],
+        "publisher" : [ "Los Angeles : SAGE" ],
+        "description" : [ "No matter whether it is a discussion of nationhood, race family, adolescence, or popular culture, identity is a mainstay in everyday conversations about who we say we are as individuals and citizens within a local or national community." ],
+        "mms" : [ "990050988040107871" ],
+        "contributor" : [ "Jackson, Ronald L., 1970-$$QJackson, Ronald L." ],
+        "contents" : [ "Cover; Contents; List of Entries; Reader's Guide; About the Editors; Introduction; A; B; C; D; E; F; G; H; I; L; M; Volume 2; N; O; P; Q; R; S; T; U; V; W; X; Index" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of identity. Los Angeles : SAGE, ©2010$$QEncyclopedia of identity." ],
+        "mesh" : [ "Social Identification" ],
+        "place" : [ "Los Angeles :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebcacls", "ebceb", "sagepub", "aleph005098804" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050988040107871" ],
+        "recordid" : [ "alma990050988040107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005098804-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jackson" ],
+        "aufirst" : [ "Ronald L." ],
+        "auinit" : [ "R" ],
+        "addau" : [ "Jackson, Ronald L." ],
+        "contributorfull" : [ "$$NJackson, Ronald L.$$LJackson$$FRonald L.$$Rcontributor" ],
+        "date" : [ "2010", "©2010" ],
+        "isbn" : [ "9781452261737", "1452261733", "1849727554", "9781849727556", "1412979307", "9781412979306" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "No matter whether it is a discussion of nationhood, race family, adolescence, or popular culture, identity is a mainstay in everyday conversations about who we say we are as individuals and citizens within a local or national community." ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "SAGE" ],
+        "oclcid" : [ "(ocolc)769187536" ],
+        "lccn" : [ "2010001777" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of identity" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of identity /" ],
+        "author" : [ "Jackson, Ronald L., 1970-" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050988040107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050988040107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1452261733,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bd\"236ǂ e42 2010eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "147",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "356",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 391,
+    "COMBINED_SEARCH_TIME" : 394,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Group Identity",
+      "count" : "1"
+    }, {
+      "value" : "Identity",
+      "count" : "1"
+    }, {
+      "value" : "Identity Philosophical Concept",
+      "count" : "1"
+    }, {
+      "value" : "Identity Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Identité",
+      "count" : "1"
+    }, {
+      "value" : "Identité Collective",
+      "count" : "1"
+    }, {
+      "value" : "Identité Psychologie",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Social Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Social Identification",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jackson Ronald L",
+      "count" : "1"
+    } ]
+  } ]
+}

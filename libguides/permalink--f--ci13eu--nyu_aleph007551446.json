@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075514460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of colonial Latin America : 1550s to 1820s " ],
+        "subject" : [ "Mexico -- History -- To 1810", "Mexico -- History -- Wars of Independence, 1810-1821", "Central America -- History -- To 1821", "South America -- History -- To 1806", "South America -- History -- Wars of Independence, 1806-1830", "Caribbean Area -- History -- To 1810", "Mexique -- Histoire -- Jusqu'à 1810", "Mexique -- Histoire -- 1810-1821 (Guerres d'indépendance)", "Amérique centrale -- Histoire -- Jusqu'à 1821", "Amérique du Sud -- Histoire -- Jusqu'à 1806", "Amérique du Sud -- Histoire -- 1806-1830 (Guerres d'indépendance)", "Caraïbes (Région) -- Histoire -- Jusqu'à 1810", "Caribbean Area", "Central America", "Mexico", "South America", "To 1830" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781787854987;$$CISBN$$V1787854981;$$COCLC$$V(OCoLC)1155877331;$$CISBN$$V1438163452;$$CISBN$$V9781438163451" ],
+        "creationdate" : [ "2017" ],
+        "publisher" : [ "Boston, Massachusetts : Credo Reference" ],
+        "description" : [ "The Encyclopedia of Colonial Latin America (1550s to 1820s) covers the history and culture of Central America, South America, and the Caribbean from the arrival of the Spanish, colonization, and independence movements until the 1820s." ],
+        "mms" : [ "990075514460107871" ],
+        "contributor" : [ "Leonard, Thomas M., 1937- editor.$$QLeonard, Thomas M.", "Burkholder, Mark A., 1943- editor.$$QBurkholder, Mark A." ],
+        "edition" : [ "[Enhanced Credo edition]." ],
+        "series" : [ "Latin American History and Culture$$QLatin American History and Culture", "Latin American history and culture.$$QLatin American history and culture." ],
+        "contents" : [ "Editor and author -- Preface to Latin American history and culture -- Acknowledgments -- Introduction to Encyclopedia of colonial Latin America (1550s to 1820s) -- Time line (1550s to 1820s) -- Entries A-Z -- Support materials -- Documents -- Glossary -- Suggested readings." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VEncyclopedia of colonial Latin America : 1550s to 1820s$$Z9995816334807871", "$$Cform$$VFacts on File online version:" ],
+        "place" : [ "Boston, Massachusetts :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "aleph007551446" ],
+        "lds63" : [ "Access restricted to authorized users and institutions." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075514460107871" ],
+        "recordid" : [ "alma990075514460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007551446-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Leonard", "Burkholder" ],
+        "aufirst" : [ "Thomas M.", "Mark A." ],
+        "auinit" : [ "T", "M" ],
+        "addau" : [ "Leonard, Thomas M.", "Burkholder, Mark A." ],
+        "contributorfull" : [ "$$NLeonard, Thomas M.$$LLeonard$$FThomas M.$$Reditor", "$$NBurkholder, Mark A.$$Reditor" ],
+        "date" : [ "2020 - 2017", "2017" ],
+        "isbn" : [ "9781787854987", "1787854981", "1438163452", "9781438163451" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "The Encyclopedia of Colonial Latin America (1550s to 1820s) covers the history and culture of Central America, South America, and the Caribbean from the arrival of the Spanish, colonization, and independence movements until the 1820s." ],
+        "cop" : [ "New York, New York" ],
+        "pub" : [ "Facts On File" ],
+        "oclcid" : [ "(ocolc)1155877331" ],
+        "edition" : [ "[Enhanced Credo edition]." ],
+        "seriestitle" : [ "Latin American History and Culture" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of colonial Latin America : 1550s to 1820s" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of colonial Latin America : 1550s to 1820s /" ],
+        "author" : [ "Leonard, Thomas M., 1937- editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075514460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075514460107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1787854981,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#1412ǂ e533 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "235",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "24",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "195",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "567",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 594,
+    "COMBINED_SEARCH_TIME" : 596,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    }, {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Amérique Centrale Histoire Jusquà 1821",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Du Sud Histoire 1806 1830 Guerres Dindépendance",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Du Sud Histoire Jusquà 1806",
+      "count" : "1"
+    }, {
+      "value" : "Caraïbes Région Histoire Jusquà 1810",
+      "count" : "1"
+    }, {
+      "value" : "Caribbean Area",
+      "count" : "1"
+    }, {
+      "value" : "Caribbean Area History To 1810",
+      "count" : "1"
+    }, {
+      "value" : "Central America",
+      "count" : "1"
+    }, {
+      "value" : "Central America History To 1821",
+      "count" : "1"
+    }, {
+      "value" : "Mexico",
+      "count" : "1"
+    }, {
+      "value" : "Mexico History To 1810",
+      "count" : "1"
+    }, {
+      "value" : "Mexico History Wars Of Independence 1810 1821",
+      "count" : "1"
+    }, {
+      "value" : "Mexique Histoire 1810 1821 Guerres Dindépendance",
+      "count" : "1"
+    }, {
+      "value" : "Mexique Histoire Jusquà 1810",
+      "count" : "1"
+    }, {
+      "value" : "South America",
+      "count" : "1"
+    }, {
+      "value" : "South America History To 1806",
+      "count" : "1"
+    }, {
+      "value" : "South America History Wars Of Independence 1806 1830",
+      "count" : "1"
+    }, {
+      "value" : "To 1830",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Burkholder Mark A",
+      "count" : "1"
+    }, {
+      "value" : "Leonard Thomas M",
+      "count" : "1"
+    } ]
+  } ]
+}

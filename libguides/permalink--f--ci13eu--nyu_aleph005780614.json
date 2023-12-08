@@ -1,0 +1,288 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990057806140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Arab Americans in Michigan " ],
+        "subject" : [ "Arab Americans -- Michigan -- History", "Arab Americans -- Michigan -- Social conditions", "Immigrants -- Michigan -- History", "Michigan -- Ethnic relations", "Michigan -- Social conditions", "Américains d'origine arabe -- Michigan -- Histoire", "Américains d'origine arabe -- Michigan -- Conditions sociales", "Michigan -- Relations interethniques", "Michigan -- Conditions sociales", "HISTORY -- United States -- State & Local -- Midwest (IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI)", "Arab Americans", "Arab Americans -- Social conditions", "Ethnic relations", "Immigrants", "Social conditions", "Michigan" ],
+        "format" : [ "1 online resource (84 pages).", "data file" ],
+        "identifier" : [ "$$CLC$$V2002153204;$$CISBN$$V9781609170462;$$CISBN$$V1609170466;$$COCLC$$V(OCoLC)787846379" ],
+        "creationdate" : [ "©2005" ],
+        "creator" : [ "Hassoun, Rosina J.$$QHassoun, Rosina J." ],
+        "publisher" : [ "East Lansing : Michigan State University Press" ],
+        "description" : [ "The state of Michigan hosts one of the largest and most diverse Arab American populations in the United States. As the third largest ethnic population in the state, Arab Americans are an economically important and politically influential group. It also reflects the diversity of national origins, religions, education levels, socioeconomic levels, and degrees of acculturation. Despite their considerable presence, Arab Americans have always been a misunderstood ethnic population in Michigan, even before September 11, 2001 imposed a cloud of suspicion, fear, and uncertainty over their ethnic encl." ],
+        "mms" : [ "990057806140107871" ],
+        "series" : [ "Discovering the peoples of Michigan$$QDiscovering the peoples of Michigan", "Discovering the peoples of Michigan.$$QDiscovering the peoples of Michigan." ],
+        "contents" : [ "Introduction and Demographics; The Origins of Arab Americans in Michigan; Understanding General Patterns of Arab Settlement; Selected Histories by Geographic Areas; The History of Arab Immigration to Southeast Michigan; Special Topics Concerning Arab Americans in Michigan; Summary; Appendices; Appendix 1: A Gift from the Hassoun Family to the People of Michigan ; Appendix 2: Resources; Notes; For Further Reference; Index." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Hassoun, Rosina J. Arab Americans in Michigan. East Lansing : Michigan State University Press, ©2005$$QArab Americans in Michigan." ],
+        "place" : [ "East Lansing :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "jstoreba", "pmusebp", "aleph005780614" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990057806140107871" ],
+        "recordid" : [ "alma990057806140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005780614-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hassoun" ],
+        "aufirst" : [ "Rosina J." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Hassoun, Rosina J." ],
+        "creatorfull" : [ "$$NHassoun, Rosina J.$$LHassoun$$FRosina J.$$Rauthor" ],
+        "date" : [ "2005", "©2005" ],
+        "isbn" : [ "9781609170462", "1609170466" ],
+        "notes" : [ "Includes bibliographical references (pages 67-78) and index." ],
+        "abstract" : [ "The state of Michigan hosts one of the largest and most diverse Arab American populations in the United States. As the third largest ethnic population in the state, Arab Americans are an economically important and politically influential group. It also reflects the diversity of national origins, religions, education levels, socioeconomic levels, and degrees of acculturation. Despite their considerable presence, Arab Americans have always been a misunderstood ethnic population in Michigan, even before September 11, 2001 imposed a cloud of suspicion, fear, and uncertainty over their ethnic encl." ],
+        "cop" : [ "East Lansing" ],
+        "pub" : [ "Michigan State University Press" ],
+        "oclcid" : [ "(ocolc)787846379" ],
+        "lccn" : [ "2002153204" ],
+        "seriestitle" : [ "Discovering the peoples of Michigan" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Arab Americans in Michigan" ]
+      },
+      "sort" : {
+        "title" : [ "Arab Americans in Michigan /" ],
+        "author" : [ "Hassoun, Rosina J." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057806140107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057806140107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057806140107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057806140107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057806140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1609170466,OCLC:,LCCN:2002153204&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f\"575 a65ǂh37 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "378",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "131",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "68",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "87",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "100",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "695",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 734,
+    "COMBINED_SEARCH_TIME" : 737,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Américains Dorigine Arabe Michigan Conditions Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Américains Dorigine Arabe Michigan Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Arab Americans",
+      "count" : "1"
+    }, {
+      "value" : "Arab Americans Michigan History",
+      "count" : "1"
+    }, {
+      "value" : "Arab Americans Michigan Social Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Arab Americans Social Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Ethnic Relations",
+      "count" : "1"
+    }, {
+      "value" : "History United States State Local Midwest Ia Il In Ks Mi Mn Mo Nd Ne Oh Sd Wi",
+      "count" : "1"
+    }, {
+      "value" : "Immigrants",
+      "count" : "1"
+    }, {
+      "value" : "Immigrants Michigan History",
+      "count" : "1"
+    }, {
+      "value" : "Michigan",
+      "count" : "1"
+    }, {
+      "value" : "Michigan Conditions Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Michigan Ethnic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Michigan Relations Interethniques",
+      "count" : "1"
+    }, {
+      "value" : "Michigan Social Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Social Conditions",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hassoun Rosina J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

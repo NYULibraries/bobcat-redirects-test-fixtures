@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990034557350107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The horse boy" ],
+        "subject" : [ "Isaacson, Rowan", "Isaacson, Rupert", "Autistic children -- United States$$QAutistic children -- United States -- Biography", "Parents of autistic children -- United States$$QParents of autistic children -- United States -- Biography", "Autism in children -- Treatment$$QAutism in children -- Treatment -- Case studies", "Horses -- Therapeutic use$$QHorses -- Therapeutic use -- Case studies", "Human-animal relationships$$QHuman-animal relationships -- Case studies", "Autistic children -- Family relationships$$QAutistic children -- Family relationships -- Case studies", "Fathers and sons$$QFathers and sons -- Case studies" ],
+        "format" : [ "1 videodisc (93 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CPUBNUM$$VZ1125;$$COCLC$$V(OCoLC)506020107" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "United States : Zeitgeist Films" ],
+        "description" : [ "Follows one Texas couple and their autistic son as they trek on horseback through Outer Mongolia in an attempt to find healing for him. When two-year-old Rowan was diagnosed with autism, Rupert Isaacson, a writer and former horse trainer, and his wife Kristin sought the best possible medical care, but traditional therapies had little effect. They discovered that Rowan has a profound affinity for animals, particularly horses, and the family set off on a quest that would change their lives forever." ],
+        "mms" : [ "990034557350107871" ],
+        "contributor" : [ "Scott, Michel Orion.$$QScott, Michel Orion.", "Isaacson, Rupert$$QIsaacson, Rupert", "Zeitgeist Films.$$QZeitgeist Films." ],
+        "genre" : [ "Biography", "Case studies", "Biographical films", "Documentary films", "Nonfiction films", "Feature films", "Video recordings for the hearing impaired", "Feature films -- United States" ],
+        "relatedwork" : [ "Isaacson, Rupert Horse boy, a fathers quest to heal his son.$$QIsaacson, Rupert Horse boy, a fathers quest to heal his son." ],
+        "place" : [ "United States] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003455735" ],
+        "lds53" : [ "003455735" ],
+        "lds60" : [ "Title from disc label.", "Release date: Apr. 20, 2010." ],
+        "lds64" : [ "Edited by Rita K. Sanders ; original music by Lili Haydn and Kim Carroll ; narrator, Rupert Isaacson." ],
+        "lds65" : [ "Narration by Rupert Isaacson." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990034557350107871" ],
+        "recordid" : [ "alma990034557350107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003455735-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Scott", "Isaacson" ],
+        "aufirst" : [ "Michel Orion.", "Rupert" ],
+        "auinit" : [ "M", "R" ],
+        "addau" : [ "Scott, Michel Orion.", "Isaacson, Rupert" ],
+        "contributorfull" : [ "$$NScott, Michel Orion.$$LScott$$FMichel Orion.$$Rcontributor", "$$NIsaacson, Rupert$$Rcontributor" ],
+        "date" : [ "2010" ],
+        "abstract" : [ "Follows one Texas couple and their autistic son as they trek on horseback through Outer Mongolia in an attempt to find healing for him. When two-year-old Rowan was diagnosed with autism, Rupert Isaacson, a writer and former horse trainer, and his wife Kristin sought the best possible medical care, but traditional therapies had little effect. They discovered that Rowan has a profound affinity for animals, particularly horses, and the family set off on a quest that would change their lives forever." ],
+        "cop" : [ "United States" ],
+        "pub" : [ "Zeitgeist Films" ],
+        "oclcid" : [ "(ocolc)506020107" ],
+        "upcid" : [ "795975112536" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The horse boy" ]
+      },
+      "sort" : {
+        "title" : [ "horse boy" ],
+        "author" : [ "Scott, Michel Orion." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034557350107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:506020107,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rj\"506 a9ǂi795 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "286",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 322,
+    "COMBINED_SEARCH_TIME" : 324,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Autism In Children Treatment Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Autistic Children Family Relationships Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Autistic Children United States Biography",
+      "count" : "1"
+    }, {
+      "value" : "Fathers And Sons Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Horses Therapeutic Use Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Isaacson Rowan",
+      "count" : "1"
+    }, {
+      "value" : "Isaacson Rupert",
+      "count" : "1"
+    }, {
+      "value" : "Parents Of Autistic Children United States Biography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Isaacson Rupert",
+      "count" : "1"
+    }, {
+      "value" : "Scott Michel Orion",
+      "count" : "1"
+    }, {
+      "value" : "Zeitgeist Films",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

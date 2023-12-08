@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995619424507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The international journal of behavioral nutrition and physical activity." ],
+        "subject" : [ "Diet$$QDiet -- Periodicals", "Physical fitness$$QPhysical fitness -- Periodicals", "Nutrition Science", "Exercise & Fitness", "Diet", "Physical fitness" ],
+        "identifier" : [ "$$CLC$$V  2004243416;$$CISSN$$V1479-5868;$$COCLC$$V(OCoLC)54464493" ],
+        "creationdate" : [ "2004-" ],
+        "publisher" : [ "London : BioMed Central", "Vol. 1, issue 1 (Dec. 2004)-" ],
+        "mms" : [ "9995619424507871" ],
+        "contributor" : [ "BioMed Central Ltd.$$QBioMed Central Ltd." ],
+        "addtitle" : [ "IJBNPA" ],
+        "frequency" : [ "Irregular" ],
+        "genre" : [ "Fulltext", "Internet Resources", "Periodicals" ],
+        "mesh" : [ "Diet", "Physical Fitness", "Periodical" ],
+        "place" : [ "London] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)111078164995000" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from issue PDF caption (publisher Web site, viewed June 4, 2004)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995619424507871" ],
+        "recordid" : [ "alma9995619424507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99111078164995000" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "IJBNPA", "INTERNATIONAL JOURNAL OF BEHAVIORAL NUTRITION AND PHYSICAL ACTIVITY", "INT J BEHAV NUTR PHYS ACT", "INT J BEHAV NUTR PHY", "INT. J. BEHAV. NUTR. PHYS. ACT", "Int J Behav Nutr Phys Act" ],
+        "addtitle" : [ "IJBNPA" ],
+        "date" : [ "2004", "2004-" ],
+        "issn" : [ "1479-5868" ],
+        "cop" : [ "London" ],
+        "pub" : [ "BioMed Central" ],
+        "oclcid" : [ "(ocolc)54464493" ],
+        "lccn" : [ "2004243416" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The international journal of behavioral nutrition and physical activity." ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "international journal of behavioral nutrition and physical activity." ],
+        "author" : [ "BioMed Central Ltd." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619424507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619424507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619424507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004243416&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rm\"214",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "89",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "207",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "179",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "51",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "457",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 490,
+    "COMBINED_SEARCH_TIME" : 493,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Diet",
+      "count" : "1"
+    }, {
+      "value" : "Diet Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Exercise Fitness",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Science",
+      "count" : "1"
+    }, {
+      "value" : "Physical Fitness",
+      "count" : "1"
+    }, {
+      "value" : "Physical Fitness Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Biomed Central Ltd",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

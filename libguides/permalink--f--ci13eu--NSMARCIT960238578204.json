@@ -1,0 +1,266 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995638818307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dress (Online)" ],
+        "subject" : [ "Costume Society of America$$QCostume Society of America -- Periodicals", "Costume Society of America", "Clothing and dress -- United States$$QClothing and dress -- United States -- Periodicals", "Clothing and dress -- United States -- History$$QClothing and dress -- United States -- History -- Periodicals", "Clothing and dress$$QClothing and dress -- Periodicals", "Clothing and dress -- History$$QClothing and dress -- History -- Periodicals", "Costume$$QCostume -- Periodicals", "Costume -- United States$$QCostume -- United States -- Periodicals", "Fashion -- United States -- History$$QFashion -- United States -- History -- Periodicals", "Fashion -- History$$QFashion -- History -- Periodicals", "Clothing and dress", "Costume", "Fashion", "United States" ],
+        "identifier" : [ "$$CLC$$V  2007263167;$$CISSN$$V2042-1729;$$COCLC$$V(OCoLC)60624269;$$CISSN$$V0361-2112" ],
+        "creationdate" : [ "1975" ],
+        "publisher" : [ "Leeds, UK : Maney Pub.", "Print began with vol. 1 (1975)." ],
+        "mms" : [ "9995638818307871" ],
+        "contributor" : [ "Costume Society of America.$$QCostume Society of America." ],
+        "genre" : [ "History", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990013680240107871" ],
+        "unititle" : [ "Dress (Online)" ],
+        "place" : [ "Leeds, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)960238578204" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "\"The journal of the Costume Society of America.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995638818307871" ],
+        "recordid" : [ "alma9995638818307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99960238578204" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1975" ],
+        "issn" : [ "2042-1729", "0361-2112" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Costume Society of America" ],
+        "oclcid" : [ "(ocolc)60624269" ],
+        "lccn" : [ "2007263167" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Dress (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Dress (Online)" ],
+        "author" : [ "Costume Society of America." ],
+        "creationdate" : [ "1975" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638818307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638818307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638818307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638818307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007263167&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"605ǂ d74",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "153",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "31",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "385",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1975",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing And Dress",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress United States History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Costume Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Costume Society Of America",
+      "count" : "1"
+    }, {
+      "value" : "Costume Society Of America Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Costume United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Fashion History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Fashion United States History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Costume Society Of America",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

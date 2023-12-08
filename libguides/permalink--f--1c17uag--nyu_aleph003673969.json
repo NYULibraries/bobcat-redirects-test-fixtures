@@ -1,0 +1,265 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990036739690107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Digital media and political engagement worldwide : a comparative study " ],
+        "subject" : [ "Political participation -- Technological innovations$$QPolitical participation -- Technological innovations -- Cross-cultural studies", "Communication in politics -- Technological innovations$$QCommunication in politics -- Technological innovations -- Cross-cultural studies", "Internet -- Political aspects$$QInternet -- Political aspects -- Cross-cultural studies", "Participation politique -- Innovations$$QParticipation politique -- Innovations -- Études transculturelles", "Communication politique -- Innovations$$QCommunication politique -- Innovations -- Études transculturelles", "Internet -- Aspect politique$$QInternet -- Aspect politique -- Études transculturelles", "POLITICAL SCIENCE -- General", "Political participation -- Technological innovations", "Communication in politics -- Technological innovations", "Internet -- Political aspects" ],
+        "format" : [ "1 online resource (xv, 287 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781139108881;$$CISBN$$V1139108883;$$CISBN$$V1139420038;$$CISBN$$V9781139420037;$$COCLC$$V(OCoLC)817920235;$$CISBN$$V9781107021426" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "New York : Cambridge University Press" ],
+        "description" : [ "\"This book explores how digital media use affects political attitudes and behavior, and how this relationship is shaped by political environments across countries\"-- Provided by publisher", "\"This book focuses on the impact of digital media use for political engagement across varied geographic and political contexts, using a diversity of methodological approaches and datasets. The book addresses an important gap in the contemporary literature on digital politics, identifying context dependent and transcendent political consequences of digital media use. While the majority of the empirical work in this field has been based on studies from the United States and United Kingdom, this volume seeks to place those results into comparative relief with other regions of the world. It moves debates in this field of study forward by identifying system-level attributes that shape digital political engagement across a wide variety of contexts. The volume brings together research and scholars from North America, Europe, Latin America, the Middle East, and Asia. The evidence analyzed across the fifteen cases considered in the book suggests that engagement with digital environments influences users' political orientations and that contextual features play a significant role in shaping digital politics\"-- Provided by publisher" ],
+        "mms" : [ "990036739690107871" ],
+        "contributor" : [ "Anduiza Perea, Eva.$$QAnduiza Perea, Eva.", "Jensen, Michael James.$$QJensen, Michael James.", "Jorba, Laia.$$QJorba, Laia." ],
+        "series" : [ "Communication, society, and politics$$QCommunication, society, and politics", "Communication, society, and politics.$$QCommunication, society, and politics." ],
+        "contents" : [ "1. Introduction / Michael J. Jensen, Laia Jorba, and Eva Anduiza -- 2. The impact of digital media on citizenship in a global perspective / Laia Jorba and Bruce Bimber -- 3. Recent shifts in the relationship between the Internet and democratic engagement in Britain and the United States: granularity, informational exuberance, and political learning / Andrew Chadwick -- 3. Political engagement and the Internet in the 2008 U.S. presidential elections: a panel survey / Allison Hamilton and Caroline J. Tolbert -- 4. Online political participation in the United States and Spain / Michael J. Jensen and Eva Anduiza -- 5. Internet use and political attitudes in Europe / Clelia Colombo, Carol Galais, and Aina Gallego -- 6. Digital media and offline political participation in Spain / Marta Cantijoch -- 7. Online participation in Italy: contextual influences and political opportunities / Cristian Vaccari -- 8. On the causal nature of the relationship between Internet access and political engagement: evidence from German panel data / Martin Kroh and Hannes Neiss -- 9. The uses of digital media for contentious politics in Latin America / Yanina Welp and Jonathan Wheatley -- 10. Opening closed regimes: civil society, information infrastructure, and political Islam / Muzammil M. Hussain and Philip N. Howard -- 11. Digital media and political attitudes in China / Min Tang, Laia Jorba, and Michael J. Jensen -- Conclusion / Laia Jorba, Michael J. Jensen, and Eva Anduiza." ],
+        "genre" : [ "Études transculturelles", "Cross-cultural studies" ],
+        "relation" : [ "$$Cform$$VPrint version: Digital media and political engagement worldwide. New York : Cambridge University Press, 2012$$QDigital media and political engagement worldwide.$$Z990036479140107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "ebceb", "ebscoac", "aleph003673969" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990036739690107871" ],
+        "recordid" : [ "alma990036739690107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003673969-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "AnduizaPerea", "Jensen", "Jorba" ],
+        "aufirst" : [ "Eva.", "Michael James.", "Laia." ],
+        "auinit" : [ "E", "M", "L" ],
+        "addau" : [ "Anduiza Perea, Eva.", "Jensen, Michael James.", "Jorba, Laia." ],
+        "contributorfull" : [ "$$NAnduiza Perea, Eva.$$LAnduiza Perea$$FEva.$$Rcontributor", "$$NJensen, Michael James.$$Rcontributor", "$$NJorba, Laia.$$Rcontributor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781139108881", "1139108883", "1139420038", "9781139420037", "9781107021426" ],
+        "notes" : [ "Includes bibliographical references (pages 253-282) and index.", "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This book explores how digital media use affects political attitudes and behavior, and how this relationship is shaped by political environments across countries\"-- Provided by publisher", "\"This book focuses on the impact of digital media use for political engagement across varied geographic and political contexts, using a diversity of methodological approaches and datasets. The book addresses an important gap in the contemporary literature on digital politics, identifying context dependent and transcendent political consequences of digital media use. While the majority of the empirical work in this field has been based on studies from the United States and United Kingdom, this volume seeks to place those results into comparative relief with other regions of the world. It moves debates in this field of study forward by identifying system-level attributes that shape digital political engagement across a wide variety of contexts. The volume brings together research and scholars from North America, Europe, Latin America, the Middle East, and Asia. The evidence analyzed across the fifteen cases considered in the book suggests that engagement with digital environments influences users' political orientations and that contextual features play a significant role in shaping digital politics\"-- Provided by publisher" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)817920235" ],
+        "seriestitle" : [ "Communication, society, and politics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Digital media and political engagement worldwide : a comparative study" ]
+      },
+      "sort" : {
+        "title" : [ "Digital media and political engagement worldwide : a comparative study /" ],
+        "author" : [ "Anduiza Perea, Eva." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990036739690107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990036739690107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990036739690107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990036739690107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1139108883,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jf\"799ǂ d56 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "296",
+    "CALL_SOLR_GET_IDS_LIST" : "132",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "150",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "93",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "74",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "76",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "687",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 716,
+    "COMBINED_SEARCH_TIME" : 720,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Communication In Politics Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Communication In Politics Technological Innovations Cross Cultural Studies",
+      "count" : "1"
+    }, {
+      "value" : "Communication Politique Innovations Études Transculturelles",
+      "count" : "1"
+    }, {
+      "value" : "Internet Aspect Politique Études Transculturelles",
+      "count" : "1"
+    }, {
+      "value" : "Internet Political Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Internet Political Aspects Cross Cultural Studies",
+      "count" : "1"
+    }, {
+      "value" : "Participation Politique Innovations Études Transculturelles",
+      "count" : "1"
+    }, {
+      "value" : "Political Participation Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Political Participation Technological Innovations Cross Cultural Studies",
+      "count" : "1"
+    }, {
+      "value" : "Political Science General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Anduiza Perea Eva",
+      "count" : "1"
+    }, {
+      "value" : "Jensen Michael James",
+      "count" : "1"
+    }, {
+      "value" : "Jorba Laia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

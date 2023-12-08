@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990083913310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "chi" ],
+        "title" : [ "Zi xun gu wen de shang ye si wei " ],
+        "subject" : [ "Consultants -- Marketing" ],
+        "format" : [ "viii, 238 pages : illustrations ; 22 cm" ],
+        "identifier" : [ "$$CISBN$$V9787302583943 :;$$CISBN$$V7302583943 :;$$COCLC$$V(OCoLC)1285232314" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Weiss, Alan, 1946- author.$$QWeiss, Alan" ],
+        "publisher" : [ "Beijing : Qinghua da xue chu ban she", "北京 : 清华大学出版社" ],
+        "mms" : [ "990083913310107871" ],
+        "contributor" : [ "Li, Haifeng, translator.$$QLi, Haifeng", "Peng. Shujun, translator.$$QPeng. Shujun", "Feng, Yuxiu, translator.$$QFeng, Yuxiu", "李海峰, translator.$$Q李海峰", "彭淑军, translator.$$Q彭淑军", "冯玉秀, translator.$$Q冯玉秀" ],
+        "addtitle" : [ "Million dollar consulting : the professional's guide to growing a practice, Fifth edition", "Professional's guide to growing a practice" ],
+        "vertitle" : [ "咨询顾问的商业思维 / (美)艾伦 韦斯著 ;李海峰, 彭淑军, 冯玉秀译 = Million dollar consulting : the professional's guide to growing a practice, Fifth edition / Alan Weiss." ],
+        "edition" : [ "Di 1 ban.", "第1版." ],
+        "unititle" : [ "Million dollar consulting. Chinese" ],
+        "includes" : [ "Weiss, Alan, 1946- Million dollar consulting. Chinese$$QWeiss, Alan, 1946- Million dollar consulting. Chinese" ],
+        "place" : [ "Beijing :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008391331" ],
+        "lds53" : [ "008391331" ],
+        "lds60" : [ "\"Di 5 ban\" = Fifth edition\" -- cover page.", "Translation of: Million dollar consulting : the professional's guide to growing a practice / Alan Weiss. New York : McGraw-Hill, 2016." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990083913310107871" ],
+        "recordid" : [ "alma990083913310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008391331-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Weiss" ],
+        "aufirst" : [ "Alan" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Weiss, Alan" ],
+        "addau" : [ "Li, Haifeng", "Peng. Shujun", "Feng, Yuxiu" ],
+        "creatorfull" : [ "$$NWeiss, Alan$$LWeiss$$FAlan$$Rauthor" ],
+        "contributorfull" : [ "$$NLi, Haifeng$$LLi$$FHaifeng$$Rtranslator", "$$NPeng. Shujun$$Rtranslator", "$$NFeng, Yuxiu$$Rtranslator" ],
+        "addtitle" : [ "Million dollar consulting : the professional's guide to growing a practice, Fifth edition", "Professional's guide to growing a practice" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9787302583943", "7302583943" ],
+        "cop" : [ "Beijing" ],
+        "pub" : [ "Qinghua da xue chu ban she" ],
+        "oclcid" : [ "(ocolc)1285232314" ],
+        "edition" : [ "Di 1 ban." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Zi xun gu wen de shang ye si wei" ]
+      },
+      "sort" : {
+        "title" : [ "Zi xun gu wen de shang ye si wei /" ],
+        "author" : [ "Weiss, Alan, 1946- author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990083913310107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:7302583943,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!69 c6ǂ w4598127 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "122",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "73",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "157",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "398",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 423,
+    "COMBINED_SEARCH_TIME" : 427,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Consultants Marketing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Feng Yuxiu",
+      "count" : "1"
+    }, {
+      "value" : "Li Haifeng",
+      "count" : "1"
+    }, {
+      "value" : "Peng Shujun",
+      "count" : "1"
+    }, {
+      "value" : "Weiss Alan",
+      "count" : "1"
+    }, {
+      "value" : "冯玉秀",
+      "count" : "1"
+    }, {
+      "value" : "彭淑军",
+      "count" : "1"
+    }, {
+      "value" : "李海峰",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

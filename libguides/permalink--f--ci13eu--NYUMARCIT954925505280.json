@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631830307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "IEEE transactions on medical imaging (Online)" ],
+        "subject" : [ "Diagnosis, Radioscopic$$QDiagnosis, Radioscopic -- Periodicals", "Imaging systems in medicine$$QImaging systems in medicine -- Periodicals", "Radiodiagnostics$$QRadiodiagnostics -- Périodiques", "Imagerie médicale$$QImagerie médicale -- Périodiques", "Électronique en médecine", "Radiographie", "Radiography", "Medical electronics", "Diagnosis, Radioscopic", "Imaging systems in medicine", "Medizin", "Bildverarbeitung", "Zeitschrift" ],
+        "identifier" : [ "$$CLC$$V  2005215242;$$CISSN$$V1558-254X;$$COCLC$$V(OCoLC)44580474;$$CISSN$$V0278-0062" ],
+        "creationdate" : [ "1982-" ],
+        "publisher" : [ "New York, NY : Institute of Electrical and Electronics Engineers", "Began with vol. MI-1, no. 1 (July 1982)." ],
+        "mms" : [ "9995631830307871" ],
+        "contributor" : [ "Institute of Electrical and Electronics Engineers.$$QInstitute of Electrical and Electronics Engineers.", "IEEE Acoustics, Speech, and Signal Processing Society.$$QIEEE Acoustics, Speech, and Signal Processing Society.", "IEEE Engineering in Medicine and Biology Society.$$QIEEE Engineering in Medicine and Biology Society." ],
+        "addtitle" : [ "Medical imaging", "I.E.E.E. transactions on medical imaging", "Transactions on medical imaging", "Some providers use title: Medical imaging, IEEE transactions on" ],
+        "frequency" : [ "Monthly, 1999-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "mesh" : [ "Electronics, Medical", "Radiography" ],
+        "unititle" : [ "IEEE transactions on medical imaging (Online)" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925505280" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631830307871" ],
+        "recordid" : [ "alma9995631830307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925505280" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "IEEE TRANS MED IMAGING", "IEEE T MED IMAGING", "IEEE MED IM", "MEDICAL IMAGING, IEEE TRANSACTIONS ON", "IEEE TRANS. MED. IMAGING", "IEEE trans. med. imag. (Online)" ],
+        "addtitle" : [ "Medical imaging", "I.E.E.E. transactions on medical imaging", "Transactions on medical imaging", "Medical imaging, IEEE transactions on" ],
+        "date" : [ "1982", "1982-" ],
+        "issn" : [ "1558-254X", "0278-0062" ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Institute of Electrical and Electronics Engineers" ],
+        "oclcid" : [ "(ocolc)44580474" ],
+        "lccn" : [ "2005215242" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "IEEE transactions on medical imaging (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "IEEE transactions on medical imaging (Online)" ],
+        "author" : [ "Institute of Electrical and Electronics Engineers." ],
+        "creationdate" : [ "1982" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631830307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631830307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631830307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631830307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631830307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2005215242&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "43",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "62",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "38",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "44",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "233",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 269,
+    "COMBINED_SEARCH_TIME" : 273,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1982",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bildverarbeitung",
+      "count" : "1"
+    }, {
+      "value" : "Diagnosis Radioscopic",
+      "count" : "1"
+    }, {
+      "value" : "Diagnosis Radioscopic Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Electronics Medical",
+      "count" : "1"
+    }, {
+      "value" : "Imagerie Médicale Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Imaging Systems In Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Imaging Systems In Medicine Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Medical Electronics",
+      "count" : "1"
+    }, {
+      "value" : "Medizin",
+      "count" : "1"
+    }, {
+      "value" : "Radiodiagnostics Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Radiographie",
+      "count" : "1"
+    }, {
+      "value" : "Radiography",
+      "count" : "1"
+    }, {
+      "value" : "Zeitschrift",
+      "count" : "1"
+    }, {
+      "value" : "Électronique En Médecine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ieee Acoustics Speech And Signal Processing Society",
+      "count" : "1"
+    }, {
+      "value" : "Ieee Engineering In Medicine And Biology Society",
+      "count" : "1"
+    }, {
+      "value" : "Institute Of Electrical And Electronics Engineers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

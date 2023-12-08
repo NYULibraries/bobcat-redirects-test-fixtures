@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990033030380107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The comics journal." ],
+        "subject" : [ "Comic books, strips, etc$$QComic books, strips, etc -- Periodicals" ],
+        "format" : [ "v. : ill. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$Vsn 79000496;$$CISSN$$V0194-7869;$$COCLC$$V(OCoLC)4521305" ],
+        "creationdate" : [ "1977" ],
+        "publisher" : [ "Bethel, CT : Comics Journal, Inc.", "Began with no. 32 (Jan. 1977)." ],
+        "mms" : [ "990033030380107871" ],
+        "frequency" : [ "8 no. a year, Jan.-Feb., Apr.-May, July-Aug., Oct.-Nov., <July 2006->" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VNostalgia journal$$QNostalgia journal", "$$Cother_relationship$$VUnderground and independent comics.$$Z990062491010107871", "$$Csupplement$$VComics journal (Special ed.)$$QComics journal (Special ed.)" ],
+        "place" : [ "Bethel, CT :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003303038" ],
+        "lds53" : [ "003303038" ],
+        "lds60" : [ "Published: Seattle, WA : Fantagraphics Books, <Mar. 1988->", "\"The magazine of comics news & criticism.\"", "Description based on: No. 109 (July 1986); title from cover.", "Latest issue consulted: No. 300, published Nov. 2009? (surrogate)", "Downtown copy of issue for Sept. 1986 formerly owned by Laura Foreman." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990033030380107871" ],
+        "recordid" : [ "alma990033030380107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003303038-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Comics j." ],
+        "date" : [ "1977" ],
+        "issn" : [ "0194-7869" ],
+        "cop" : [ "Bethel, CT" ],
+        "pub" : [ "Comics Journal, Inc." ],
+        "oclcid" : [ "(ocolc)4521305" ],
+        "lccn" : [ "sn 79000496" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The comics journal." ]
+      },
+      "sort" : {
+        "title" : [ "comics journal." ],
+        "creationdate" : [ "1977" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990033030380107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990033030380107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 79000496&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6700ǂ c673",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "199",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "49",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "412",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 435,
+    "COMBINED_SEARCH_TIME" : 436,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1977",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Comic Books Strips Etc Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7875–124368290007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163054470007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

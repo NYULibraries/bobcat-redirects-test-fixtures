@@ -1,0 +1,232 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085211610107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Applying quality management in healthcare : a systems approach " ],
+        "format" : [ "xix, 349 pages ; 26 cm" ],
+        "identifier" : [ "$$CLC$$V2021011255;$$CISBN$$V9781640552777;$$CISBN$$V1640552774;$$COCLC$$V(OCoLC)1242021754;$$CISBN$$V9781640552746" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Spath, Patrice, author.$$QSpath, Patrice" ],
+        "publisher" : [ "Chicago, Illinois : Health Administration Press ; Washington, DC : Association of University Programs in Health Administration" ],
+        "description" : [ "\"This book examines the real-world tools and techniques necessary for improving systems that affect patient care outcomes. The author explains how to explore and modify interconnected systems to make lasting changes that benefit the entire organization\"-- Provided by publisher." ],
+        "mms" : [ "990085211610107871" ],
+        "contributor" : [ "Kelly, Diane L.$$QKelly, Diane L.", "Association of University Programs in Health Administration, issuing body.$$QAssociation of University Programs in Health Administration" ],
+        "edition" : [ "Fifth edition." ],
+        "contents" : [ "Quality management fundamentals -- Role of policy in advancing quality -- Recognizing system complexity and relationships -- Understanding system behavior -- Creating a supportive environment -- Fostering collaboration and teamwork -- Establishing system direction -- Setting improvement goals in complex systems -- Measuring process and system performance -- Using data analytic techniques to evaluate performance, with Naveen Kumar / Designing and implementing improvements -- Using improvement teams and tools -- Making healthcare safer for patients." ],
+        "relation" : [ "$$Cform$$VApplying quality management in healthcare : a systems approach$$Z990089787430107871", "$$Cform$$VApplying quality management in healthcare : a systems approach$$Z9995739779807871", "$$Cform$$VOnline version: Spath, Patrice. Applying quality management in healthcare Fifth edition. Chicago, Illinois : Health Administration Press, [2022]$$QApplying quality management in healthcare" ],
+        "mesh" : [ "Quality Assurance, Health Care -- organization & administration", "Health Services Administration", "Total Quality Management" ],
+        "relatedwork" : [ "Preceded by (work): Kelly, Diane L. Applying quality management in healthcare.$$QKelly, Diane L. Applying quality management in healthcare." ],
+        "place" : [ "Chicago, Illinois : Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008521161" ],
+        "lds53" : [ "008521161" ],
+        "lds60" : [ "Preceded by Applying quality management in healthcare / Patrice L. Spath, Diane L. Kelly. Fourth edition. [2017]." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085211610107871" ],
+        "recordid" : [ "alma990085211610107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008521161-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Spath" ],
+        "aufirst" : [ "Patrice" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Spath, Patrice" ],
+        "addau" : [ "Kelly, Diane L." ],
+        "creatorfull" : [ "$$NSpath, Patrice$$LSpath$$FPatrice$$Rauthor" ],
+        "contributorfull" : [ "$$NKelly, Diane L.$$LKelly$$FDiane L.$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9781640552777", "1640552774", "9781640552746" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This book examines the real-world tools and techniques necessary for improving systems that affect patient care outcomes. The author explains how to explore and modify interconnected systems to make lasting changes that benefit the entire organization\"-- Provided by publisher." ],
+        "cop" : [ "Chicago, Illinois" ],
+        "pub" : [ "Health Administration Press" ],
+        "oclcid" : [ "(ocolc)1242021754" ],
+        "lccn" : [ "2021011255" ],
+        "edition" : [ "Fifth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Applying quality management in healthcare : a systems approach" ]
+      },
+      "sort" : {
+        "title" : [ "Applying quality management in healthcare : a systems approach /" ],
+        "author" : [ "Spath, Patrice, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990085211610107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1640552774,OCLC:,LCCN:2021011255&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ra\"399 a1ǂk455 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "386",
+    "CALL_SOLR_GET_IDS_LIST" : "58",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "56",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "54",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "71",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "52",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "620",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 646,
+    "COMBINED_SEARCH_TIME" : 649,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Health Services Administration",
+      "count" : "1"
+    }, {
+      "value" : "Quality Assurance Health Care Organization Administration",
+      "count" : "1"
+    }, {
+      "value" : "Total Quality Management",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Association Of University Programs In Health Administration",
+      "count" : "1"
+    }, {
+      "value" : "Kelly Diane L",
+      "count" : "1"
+    }, {
+      "value" : "Spath Patrice",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

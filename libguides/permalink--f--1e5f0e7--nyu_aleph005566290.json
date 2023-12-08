@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990055662900107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Life after law : finding work you love with the J.D. you have " ],
+        "subject" : [ "Law -- Vocational guidance -- United States", "Droit -- Orientation professionnelle -- États-Unis", "BUSINESS & ECONOMICS -- Careers -- General", "LAW -- Legal Profession", "LAW -- Essays", "LAW -- General Practice", "LAW -- Jurisprudence", "LAW -- Paralegals & Paralegalism", "LAW -- Practical Guides", "LAW -- Reference", "Law -- Vocational guidance", "United States", "Career alternatives for lawyers" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781937134655;$$CISBN$$V1937134652;$$COCLC$$V(OCoLC)858282694;$$CISBN$$V9781937134648" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Brown, Liz.$$QBrown, Liz." ],
+        "publisher" : [ "Brookline, MA : Bibliomotion, Inc." ],
+        "description" : [ "Annotation Written by Harvard-trained ex-law firm partner Liz Brown, \"Life After Law: Finding Work You Love with the J.D. You Have\" provides specific, realistic, and honest advice on alternative careers for lawyers. Unlike generic career guides, \"Life After Law\" shows lawyers how to reframe their legal experience to their competitive advantage, no matter how long they have been in or out of practice, to find work they truly love. Brown herself moved from a high-powered partnership into an alternative career and draws from this experience, as well as that of dozens of former practicing attorneys, in the book. She acknowledges that changing careers is hard much harder than it was for most lawyers to get their first legal job after law school but it can ultimately be more fulfilling for many than a life in law. \"Life After Law\" offers an alternative framework and valuable analytic tools for potential careers to help launch lawyers into new fields and make them attractive hires for non-legal employers" ],
+        "mms" : [ "990055662900107871" ],
+        "contents" : [ "Part I. The depression profession -- Why are so many lawyers unhappy? -- The bonds of money, status, and purpose -- Challenges and alternatives for women lawyers -- Part II. Repurposing your law career -- Reframing your preferred skills -- Where to start when you have no idea where to start -- How to stop worrying and love the informational interview -- Advocating for your next career -- Part III. The role models : eight basic paths to career happiness for former lawyers -- The writers -- The entrepreneurs -- The artisans -- The analysts -- The professors -- The consultants -- The advocates -- The healers -- The independent." ],
+        "relation" : [ "$$Cform$$VPrint version: Brown, Liz. Life after law$$QLife after law" ],
+        "place" : [ "Brookline, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph005566290" ],
+        "lds60" : [ "\"Written by Harvard-trained ex-law firm partner Liz Brown, Life After Law: Finding Work You Love with the J.D. You Have provides specific, realistic, and honest advice on alternative careers for lawyers. Unlike generic or abstract career guides, Life After Law shows lawyers how to reframe their legal experience to their competitive advantage, no matter how long they have been in or out of practice, to find work they truly love. Brown herself moved from a high-powered partnership position into an alternate career and draws from this experience, as well of dozens of former practicing attorneys, in the book. She acknowledges that changing careers is hard - much harder than it was for most lawyers to get their first legal job after law school - but it can ultimately be more fulfilling for many than a life in law. Life After Law offers an alternative framework and valuable analytic tools for potential careers to help launch lawyers into new fields and make them attractive hires for non-legal employers.\"--Provided by publisher" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990055662900107871" ],
+        "recordid" : [ "alma990055662900107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005566290-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brown" ],
+        "aufirst" : [ "Liz." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Brown, Liz." ],
+        "creatorfull" : [ "$$NBrown, Liz.$$LBrown$$FLiz.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781937134655", "1937134652", "9781937134648" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Annotation Written by Harvard-trained ex-law firm partner Liz Brown, \"Life After Law: Finding Work You Love with the J.D. You Have\" provides specific, realistic, and honest advice on alternative careers for lawyers. Unlike generic career guides, \"Life After Law\" shows lawyers how to reframe their legal experience to their competitive advantage, no matter how long they have been in or out of practice, to find work they truly love. Brown herself moved from a high-powered partnership into an alternative career and draws from this experience, as well as that of dozens of former practicing attorneys, in the book. She acknowledges that changing careers is hard much harder than it was for most lawyers to get their first legal job after law school but it can ultimately be more fulfilling for many than a life in law. \"Life After Law\" offers an alternative framework and valuable analytic tools for potential careers to help launch lawyers into new fields and make them attractive hires for non-legal employers" ],
+        "cop" : [ "Brookline, MA" ],
+        "pub" : [ "Bibliomotion, Inc." ],
+        "oclcid" : [ "(ocolc)858282694" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Life after law : finding work you love with the J.D. you have" ]
+      },
+      "sort" : {
+        "title" : [ "Life after law : finding work you love with the J.D. you have /" ],
+        "author" : [ "Brown, Liz." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990055662900107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1937134652,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf\"297ǂ b725 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "105",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "336",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 364,
+    "COMBINED_SEARCH_TIME" : 367,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Careers General",
+      "count" : "1"
+    }, {
+      "value" : "Career Alternatives For Lawyers",
+      "count" : "1"
+    }, {
+      "value" : "Droit Orientation Professionnelle États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Law Essays",
+      "count" : "1"
+    }, {
+      "value" : "Law General Practice",
+      "count" : "1"
+    }, {
+      "value" : "Law Jurisprudence",
+      "count" : "1"
+    }, {
+      "value" : "Law Legal Profession",
+      "count" : "1"
+    }, {
+      "value" : "Law Paralegals Paralegalism",
+      "count" : "1"
+    }, {
+      "value" : "Law Practical Guides",
+      "count" : "1"
+    }, {
+      "value" : "Law Reference",
+      "count" : "1"
+    }, {
+      "value" : "Law Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Law Vocational Guidance United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brown Liz",
+      "count" : "1"
+    } ]
+  } ]
+}

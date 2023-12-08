@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990016256980107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A handbook of dates : for students of British history " ],
+        "subject" : [ "Church history$$QChurch history -- Chronology", "Great Britain -- History$$QGreat Britain -- History -- Chronology", "Great Britain$$QGreat Britain -- Calendars" ],
+        "format" : [ "xvii, 246 p. ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V99027383;$$CISBN$$V0521770955 (hb.);$$CISBN$$V052177845X (pb.);$$COCLC$$V(OCoLC)41238508" ],
+        "creationdate" : [ "2000" ],
+        "publisher" : [ "Cambridge ; New York : Cambridge University Press" ],
+        "mms" : [ "990016256980107871" ],
+        "contributor" : [ "Cheney, C. R. (Christopher Robert), 1906-$$QCheney, C. R.", "Jones, Michael (Michael C. E.)$$QJones, Michael" ],
+        "addtitle" : [ "Handbook of dates for students of English history." ],
+        "edition" : [ "New ed." ],
+        "series" : [ "Guides and handbooks ; no. 4.$$QGuides and handbooks ", "Royal Historical Society guides and handbooks ; no. 4$$QRoyal Historical Society guides and handbooks " ],
+        "genre" : [ "Chronology", "Calendars" ],
+        "place" : [ "Cambridge ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001625698" ],
+        "lds53" : [ "001625698" ],
+        "lds60" : [ "Rev. ed. of: Handbook of dates for students of English history. 1945.", "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990016256980107871" ],
+        "recordid" : [ "alma990016256980107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001625698-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cheney", "Jones" ],
+        "aufirst" : [ "C. R.", "Michael" ],
+        "auinit" : [ "C", "M" ],
+        "addau" : [ "Cheney, C. R. (Christopher Robert)", "Jones, Michael (Michael C. E.)" ],
+        "contributorfull" : [ "$$NCheney, C. R. (Christopher Robert)$$LCheney$$FC. R.$$Rcontributor", "$$NJones, Michael (Michael C. E.)$$Rcontributor" ],
+        "date" : [ "2000" ],
+        "isbn" : [ "0521770955", "052177845X" ],
+        "cop" : [ "Cambridge ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)41238508" ],
+        "lccn" : [ "99027383" ],
+        "edition" : [ "New ed." ],
+        "seriestitle" : [ "Royal Historical Society guides and handbooks ; no. 4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A handbook of dates : for students of British history" ]
+      },
+      "sort" : {
+        "title" : [ "handbook of dates : for students of British history /" ],
+        "author" : [ "Cheney, C. R. (Christopher Robert), 1906-" ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990016256980107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0521770955,OCLC:,LCCN:99027383&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "da!34ǂ h29 2000",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "102",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "337",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 365,
+    "COMBINED_SEARCH_TIME" : 369,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Church History Chronology",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Calendars",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain History Chronology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Cheney C R",
+      "count" : "1"
+    }, {
+      "value" : "Jones Michael",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

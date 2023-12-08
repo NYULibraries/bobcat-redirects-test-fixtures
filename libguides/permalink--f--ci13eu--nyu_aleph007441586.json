@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074415860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Growing up King : an intimate memoir " ],
+        "subject" : [ "King, Martin Luther, Jr., 1929-1968 -- Family", "African Americans$$QAfrican Americans -- Biography", "King, Dexter, 1961-", "King, Martin Luther, Jr., 1929-1968", "African Americans", "Families" ],
+        "format" : [ "312 pages ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2002027211;$$CISBN$$V0446529427;$$CISBN$$V9780446529426;$$CISBN$$V0446692379;$$CISBN$$V9780446692373;$$COCLC$$V(OCoLC)50129367" ],
+        "creationdate" : [ "©2003" ],
+        "creator" : [ "King, Dexter, 1961-$$QKing, Dexter" ],
+        "publisher" : [ "New York : IPM" ],
+        "description" : [ "Dexter King's courageous efforts, amid widespread skepticism, to investigate what really happened in his father's slaying resulted in a civil jury trial proving there was a conspiracy involving governmental agencies to murder his father." ],
+        "mms" : [ "990074415860107871" ],
+        "contributor" : [ "Wiley, Ralph.$$QWiley, Ralph." ],
+        "contents" : [ "ch. 1. Sleeping beauties -- ch. 2. Peace be still -- ch. 3. Shattered -- ch. 4. Aftermath -- ch. 5. A question of faith -- ch. 6. Soul survivor -- ch. 7. Schooled -- ch. 8. This little light of mine -- ch. 9. Wrecked -- ch. 10. Answers from within -- ch. 11. Legacy -- ch. 12. Betrayed -- ch. 13. Brightly beams our father's mercy -- ch. 14. A moving image -- ch. 15. Odd man in -- ch. 16. The meeting -- ch. 17. Sampling a relationship -- ch. 18. Home front -- ch. 19. A way out of no way -- ch. 20. The reckoning -- ch. 21. Free at last." ],
+        "genre" : [ "Biography", "Autobiographies", "Biographies" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007441586" ],
+        "lds53" : [ "007441586" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074415860107871" ],
+        "recordid" : [ "alma990074415860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007441586-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "King" ],
+        "aufirst" : [ "Dexter" ],
+        "auinit" : [ "D" ],
+        "au" : [ "King, Dexter" ],
+        "addau" : [ "Wiley, Ralph." ],
+        "creatorfull" : [ "$$NKing, Dexter$$LKing$$FDexter$$Rauthor" ],
+        "contributorfull" : [ "$$NWiley, Ralph.$$LWiley$$FRalph.$$Rcontributor" ],
+        "date" : [ "2003", "©2003" ],
+        "isbn" : [ "0446529427", "9780446529426", "0446692379", "9780446692373" ],
+        "abstract" : [ "Dexter King's courageous efforts, amid widespread skepticism, to investigate what really happened in his father's slaying resulted in a civil jury trial proving there was a conspiracy involving governmental agencies to murder his father." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "IPM" ],
+        "oclcid" : [ "(ocolc)50129367" ],
+        "lccn" : [ "2002027211" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Growing up King : an intimate memoir" ]
+      },
+      "sort" : {
+        "title" : [ "Growing up King : an intimate memoir /" ],
+        "author" : [ "King, Dexter, 1961-" ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074415860107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780446529426,OCLC:,LCCN:2002027211&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.97 k5ǂk52 2003",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "89",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "312",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 337,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Biography",
+      "count" : "1"
+    }, {
+      "value" : "Families",
+      "count" : "1"
+    }, {
+      "value" : "King Dexter 1961",
+      "count" : "1"
+    }, {
+      "value" : "King Martin Luther Jr 1929 1968",
+      "count" : "1"
+    }, {
+      "value" : "King Martin Luther Jr 1929 1968 Family",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "King Dexter",
+      "count" : "1"
+    }, {
+      "value" : "Wiley Ralph",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

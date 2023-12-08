@@ -1,0 +1,231 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059218680107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "web_resource" ],
+        "language" : [ "eng" ],
+        "title" : [ "National Endowment for the Arts." ],
+        "subject" : [ "National Endowment for the Arts", "Arts -- United States", "Arts and society -- United States", "Community arts projects -- United States", "Federal aid to the arts -- United States", "Art -- Scholarships, fellowships, etc. -- United States", "Arts et société -- États-Unis", "Projets d'art communautaires -- États-Unis", "Art -- Scholarships, fellowships, etc", "Arts", "Arts and society", "Community arts projects", "Federal aid to the arts", "United States" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1005083095;$$CGOVDOC$$VNF 2.2:INTERNET" ],
+        "creationdate" : [ "2017-" ],
+        "creator" : [ "National Endowment for the Arts, author.$$QNational Endowment for the Arts" ],
+        "publisher" : [ "Washington, DC : National Endowment for the Arts" ],
+        "description" : [ "The official website of the National Endowment for the Arts (NEA), which supports U.S. artists and art education through grants and partnerships with state and other federal agencies. NEA's emphasis on cultural and artistic diversity, community artistic endeavors, and equal access to the arts are covered." ],
+        "mms" : [ "990059218680107871" ],
+        "contributor" : [ "Federal Depository Library Program, collector.$$QFederal Depository Library Program", "United States. Government Publishing Office, distributor.$$QUnited States. Government Publishing Office" ],
+        "addtitle" : [ "Also known as: NEA", "National Endowment for the Arts. Annual report." ],
+        "edition" : [ "[Archived version]." ],
+        "ispartof" : [ "Federal Depository Library Program Web Archive$$QFederal Depository Library Program Web Archive$$Z990040464670107871" ],
+        "genre" : [ "Government publications", "Online resources" ],
+        "unititle" : [ "National Endowment for the Arts (Archived version)" ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "govdocse", "aleph005921868" ],
+        "lds60" : [ "The content is made available by the U.S. Government Publishing Office in accordance with Title 44 of the US Code.", "Digital collection: Federal Depository Library Program Web Archive." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059218680107871" ],
+        "recordid" : [ "alma990059218680107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005921868-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "National Endowment for the Arts, author." ],
+        "stitle" : [ "Federal Depository Library Program Web Archive" ],
+        "addtitle" : [ "NEA" ],
+        "date" : [ "20??", "2017-" ],
+        "abstract" : [ "The official website of the National Endowment for the Arts (NEA), which supports U.S. artists and art education through grants and partnerships with state and other federal agencies. NEA's emphasis on cultural and artistic diversity, community artistic endeavors, and equal access to the arts are covered." ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "[National Endowment for the Arts]" ],
+        "oclcid" : [ "(ocolc)1005083095" ],
+        "edition" : [ "[Archived version]." ],
+        "btitle" : [ "National Endowment for the Arts." ]
+      },
+      "sort" : {
+        "title" : [ "National Endowment for the Arts." ],
+        "author" : [ "National Endowment for the Arts, author." ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059218680107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1005083095,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "[e]",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "992",
+    "CALL_SOLR_GET_IDS_LIST" : "127",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "170",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "241",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "281",
+    "RETRIVE_FROM_DB_RELATIONS" : "174",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "165",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "290",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "1593",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 1628,
+    "COMBINED_SEARCH_TIME" : 1632,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "web_resources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Scholarships Fellowships Etc",
+      "count" : "1"
+    }, {
+      "value" : "Art Scholarships Fellowships Etc United States",
+      "count" : "1"
+    }, {
+      "value" : "Arts",
+      "count" : "1"
+    }, {
+      "value" : "Arts And Society",
+      "count" : "1"
+    }, {
+      "value" : "Arts And Society United States",
+      "count" : "1"
+    }, {
+      "value" : "Arts Et Société États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Arts United States",
+      "count" : "1"
+    }, {
+      "value" : "Community Arts Projects",
+      "count" : "1"
+    }, {
+      "value" : "Community Arts Projects United States",
+      "count" : "1"
+    }, {
+      "value" : "Federal Aid To The Arts",
+      "count" : "1"
+    }, {
+      "value" : "Federal Aid To The Arts United States",
+      "count" : "1"
+    }, {
+      "value" : "National Endowment For The Arts",
+      "count" : "1"
+    }, {
+      "value" : "Projets Dart Communautaires États Unis",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Federal Depository Library Program",
+      "count" : "1"
+    }, {
+      "value" : "National Endowment For The Arts",
+      "count" : "1"
+    }, {
+      "value" : "United States Government Publishing Office",
+      "count" : "1"
+    } ]
+  } ]
+}

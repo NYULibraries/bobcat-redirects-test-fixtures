@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084342150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Career advice for young scientists in biomedical research : how to think like a principal investigator " ],
+        "subject" : [ "Biologie -- Recherche", "Médecine -- Recherche", "Scientifiques en médecine -- Orientation professionnelle", "Biology -- Research", "Medical scientists -- Vocational guidance", "Medicine -- Research", "Investigadors", "Ciències de la salut" ],
+        "format" : [ "1 online resource : color illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783030855710;$$CISBN$$V3030855716;$$COCLC$$V(OCoLC)1282005200;$$CISBN$$V3030855708;$$CISBN$$V9783030855703" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Schmidt, Béla Z., author.$$QSchmidt, Béla Z." ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "Pursuing a career in biomedical research can be daunting, considering the stiffer competition and uncertain career prospects in academia. This book summarizes career advice gathered during in-depth interviews with 106 biomedical scientists who lead their own laboratories. The participating principal investigators are from 44 research institutions in 11 countries. This book is unique in that it provides a glimpse into the mindset of principal investigators. Here, the reader will learn about common thought patterns and values, as well as the range of opinions and ways of thinking to be found among a large group of active principal investigators- without having to read more than a hundred individual autobiographies. The book will benefit all PhD students who want to learn more about their supervisor's mindset in order to successfully complete their projects. It can help freshly graduated PhDs planning to pursue an academic career, and MDs contemplating a career in research, to decide whether they truly want to embark on this path. Lastly, it can offer young principal investigators a source of inspiration on how to succeed and achieve their goals." ],
+        "mms" : [ "990084342150107871" ],
+        "contents" : [ "Chapter 1: Carving Your Own Path- shaping your scientific identity -- Chapter 2: The Two Cornerstones of Academic Research: Writing Grant Applications and Publications -- Chapter 3: Setting up a Successful Research Group -- Chapter 4: Leading Your Research Group as a Principal Investigator -- Chapter 5: The Daily Work of Principal Investigators -- Chapter 6: Dealing with Failure and Stress in Academic Research -- Chapter 7: Thoughts of Principal Investigators about Work, Science, and Themselves -- Chapter 8: Under the Hood- Common Thinking Patterns of Principal Investigators -- Chapter 9: Epilogue -- Chapter 10: Methods." ],
+        "genre" : [ "Llibres electrònics" ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "mesh" : [ "Research Personnel", "Biomedical Research" ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008434215" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084342150107871" ],
+        "recordid" : [ "alma990084342150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008434215-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Schmidt" ],
+        "aufirst" : [ "Béla Z." ],
+        "auinit" : [ "B" ],
+        "au" : [ "Schmidt, Béla Z." ],
+        "creatorfull" : [ "$$NSchmidt, Béla Z.$$LSchmidt$$FBéla Z.$$Rauthor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9783030855710", "3030855716", "3030855708", "9783030855703" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Pursuing a career in biomedical research can be daunting, considering the stiffer competition and uncertain career prospects in academia. This book summarizes career advice gathered during in-depth interviews with 106 biomedical scientists who lead their own laboratories. The participating principal investigators are from 44 research institutions in 11 countries. This book is unique in that it provides a glimpse into the mindset of principal investigators. Here, the reader will learn about common thought patterns and values, as well as the range of opinions and ways of thinking to be found among a large group of active principal investigators- without having to read more than a hundred individual autobiographies. The book will benefit all PhD students who want to learn more about their supervisor's mindset in order to successfully complete their projects. It can help freshly graduated PhDs planning to pursue an academic career, and MDs contemplating a career in research, to decide whether they truly want to embark on this path. Lastly, it can offer young principal investigators a source of inspiration on how to succeed and achieve their goals." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1282005200" ],
+        "doi" : [ "10.1007/978-3-030-85571-0" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Career advice for young scientists in biomedical research : how to think like a principal investigator" ]
+      },
+      "sort" : {
+        "title" : [ "Career advice for young scientists in biomedical research : how to think like a principal investigator /" ],
+        "author" : [ "Schmidt, Béla Z., author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084342150107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084342150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030855716,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"852ǂ s36 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "116",
+    "CALL_SOLR_GET_IDS_LIST" : "170",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "453",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 490,
+    "COMBINED_SEARCH_TIME" : 493,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biologie Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Biology Research",
+      "count" : "1"
+    }, {
+      "value" : "Biomedical Research",
+      "count" : "1"
+    }, {
+      "value" : "Ciències De La Salut",
+      "count" : "1"
+    }, {
+      "value" : "Investigadors",
+      "count" : "1"
+    }, {
+      "value" : "Medical Scientists Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Medicine Research",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Research Personnel",
+      "count" : "1"
+    }, {
+      "value" : "Scientifiques En Médecine Orientation Professionnelle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Schmidt Béla Z",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035311580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A cultural history of food " ],
+        "subject" : [ "Food habits -- History", "Food -- Social aspects -- History", "Food habits", "Food -- Social aspects" ],
+        "format" : [ "6 volumes : illustrations ; 25 cm" ],
+        "identifier" : [ "$$CLC$$V2011053238;$$CISBN$$V9781847883551;$$CISBN$$V1847883559;$$CISBN$$V9780857850232;$$CISBN$$V0857850237;$$CISBN$$V9780857850249;$$CISBN$$V0857850245;$$CISBN$$V9780857850256;$$CISBN$$V0857850253;$$CISBN$$V9780857850263;$$CISBN$$V0857850261;$$CISBN$$V9780857850270;$$CISBN$$V085785027X;$$CISBN$$V9780857850287;$$CISBN$$V0857850288;$$COCLC$$V(OCoLC)815691880" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "London ; New York : Berg" ],
+        "description" : [ "\"A Cultural History of Food presents an authoritative survey from ancient times to the present. This set of six volumes covers nearly 3,000 years of food and its physical, spiritual, social and cultural dimensions.\"-- Provided by publisher." ],
+        "mms" : [ "990035311580107871" ],
+        "contributor" : [ "Parasecoli, Fabio.$$QParasecoli, Fabio.", "Scholliers, Peter.$$QScholliers, Peter.", "Erdkamp, Paul.$$QErdkamp, Paul.", "Montanari, Massimo, 1949-$$QMontanari, Massimo", "Albala, Ken, 1964-$$QAlbala, Ken", "Kümin, Beat A.$$QKümin, Beat A.", "Bruegel, Martin, 1960-$$QBruegel, Martin", "Bentley, Amy, 1962-$$QBentley, Amy" ],
+        "edition" : [ "English ed." ],
+        "contents" : [ "V. 1. A cultural history of food in antiquity / edited by Paul Erdcamp -- v. 2. A cultural history of food in the medieval age / edited by Massimo Montanari -- v. 3. A cultural history of food in the Renaissance / edited by Ken Albala -- v. 4. A cultural history of food in the early modern age / edited by Beat Kümin -- 5. A cultural history of food in the age of empire / edited byMartin Bruegel -- v. 6. A cultural history of food in the modern age / edited by Amy Bentley." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VA cultural history of food in antiquity$$Z9995863202407871", "$$Cform$$VA cultural history of food in the Age of Empire$$Z9995863202607871", "$$Cform$$VA cultural history of food in the early modern age$$Z9995863202507871", "$$Cform$$VA cultural history of food in the Medieval age$$Z9995863202207871", "$$Cform$$VA cultural history of food in the modern age$$Z9995863202107871", "$$Cform$$VA cultural history of food in the Renaissance$$Z9995863202307871" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003531158" ],
+        "lds53" : [ "003531158" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035311580107871" ],
+        "recordid" : [ "alma990035311580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003531158-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Parasecoli", "Scholliers", "Erdkamp", "Montanari", "Albala", "Kümin", "Bruegel", "Bentley" ],
+        "aufirst" : [ "Fabio.", "Peter.", "Paul.", "Massimo", "Ken", "Beat A.", "Martin", "Amy" ],
+        "auinit" : [ "F", "P", "K", "B", "M", "A" ],
+        "addau" : [ "Parasecoli, Fabio.", "Scholliers, Peter.", "Erdkamp, Paul.", "Montanari, Massimo", "Albala, Ken", "Kümin, Beat A.", "Bruegel, Martin", "Bentley, Amy" ],
+        "contributorfull" : [ "$$NParasecoli, Fabio.$$LParasecoli$$FFabio.$$Rcontributor", "$$NScholliers, Peter.$$Rcontributor", "$$NErdkamp, Paul.$$Rcontributor", "$$NMontanari, Massimo$$Rcontributor", "$$NAlbala, Ken$$Rcontributor", "$$NKümin, Beat A.$$Rcontributor", "$$NBruegel, Martin$$Rcontributor", "$$NBentley, Amy$$Rcontributor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781847883551", "1847883559", "9780857850232", "0857850237", "9780857850249", "0857850245", "9780857850256", "0857850253", "9780857850263", "0857850261", "9780857850270", "085785027X", "9780857850287", "0857850288" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "\"A Cultural History of Food presents an authoritative survey from ancient times to the present. This set of six volumes covers nearly 3,000 years of food and its physical, spiritual, social and cultural dimensions.\"-- Provided by publisher." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Berg" ],
+        "oclcid" : [ "(ocolc)815691880" ],
+        "lccn" : [ "2011053238" ],
+        "edition" : [ "English ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A cultural history of food" ]
+      },
+      "sort" : {
+        "title" : [ "cultural history of food /" ],
+        "author" : [ "Parasecoli, Fabio." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035311580107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035311580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1847883559,OCLC:,LCCN:2011053238&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt#2850ǂ c8528 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "1065",
+    "CALL_SOLR_GET_IDS_LIST" : "123",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "49",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "115",
+    "RETRIVE_FROM_DB_RELATIONS" : "332",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "36",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "102",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "1347",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 1382,
+    "COMBINED_SEARCH_TIME" : 1387,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Food Habits",
+      "count" : "1"
+    }, {
+      "value" : "Food Habits History",
+      "count" : "1"
+    }, {
+      "value" : "Food Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Food Social Aspects History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Albala Ken",
+      "count" : "1"
+    }, {
+      "value" : "Bentley Amy",
+      "count" : "1"
+    }, {
+      "value" : "Bruegel Martin",
+      "count" : "1"
+    }, {
+      "value" : "Erdkamp Paul",
+      "count" : "1"
+    }, {
+      "value" : "Kümin Beat A",
+      "count" : "1"
+    }, {
+      "value" : "Montanari Massimo",
+      "count" : "1"
+    }, {
+      "value" : "Parasecoli Fabio",
+      "count" : "1"
+    }, {
+      "value" : "Scholliers Peter",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124368290007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

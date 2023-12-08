@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042470270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Jump start : how to write from everyday life " ],
+        "subject" : [ "English language -- Rhetoric$$QEnglish language -- Rhetoric -- Problems, exercises, etc", "Creative writing$$QCreative writing -- Problems, exercises, etc", "Anglais (Langue) -- Rhétorique$$QAnglais (Langue) -- Rhétorique -- Problèmes et exercices", "Création littéraire$$QCréation littéraire -- Problèmes et exercices", "LANGUAGE ARTS & DISCIPLINES -- Composition & Creative Writing", "LANGUAGE ARTS & DISCIPLINES -- Rhetoric", "REFERENCE -- Writing Skills", "Creative writing", "English language -- Rhetoric" ],
+        "format" : [ "1 online resource (x, 154 pages)", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780199938001;$$CISBN$$V0199938008;$$CISBN$$V1280594578;$$CISBN$$V9781280594571;$$CISBN$$V9786613624406;$$CISBN$$V6613624403;$$COCLC$$V(OCoLC)781638680;$$CISBN$$V0195140435" ],
+        "creationdate" : [ "2001" ],
+        "creator" : [ "Wolf, Robert, 1944-$$QWolf, Robert" ],
+        "publisher" : [ "Oxford ; New York : Oxford University Press" ],
+        "description" : [ "For years, Robert Wolf traveled around the Midwest and the South teaching small town folk, farmers, and homeless individuals to write about their lives through poems, essays and fiction. Through his own small publishing company, Free River Press, Wolf published these stories of the forgotten parts of America. In 1999, Oxford published an anthology of his students' works in a volume entitled American Mosaic: Poetry and Prose by Everyday Folk. Now, we have Jump Start--a concise guide that offers Wolf's writing techniques from his Free River Press workshops across the country. Rooted in the oral t." ],
+        "mms" : [ "990042470270107871" ],
+        "contents" : [ "Cover; Contents; Introduction; CHAPTER ONE: Preliminary Matters; CHAPTER TWO: Strategies; CHAPTER THREE: Observation; CHAPTER FOUR: Genesis & Metamorphosis; CHAPTER FIVE: Conversation & Dialogue; CHAPTER SIX: Memoir Writing; CHAPTER SEVEN: Group Activities; Bibliography; Credits." ],
+        "genre" : [ "Problems, exercises, etc", "exercise books", "Problems and exercises", "Problèmes et exercices" ],
+        "relation" : [ "$$Cform$$VPrint version: Wolf, Robert, 1944- Jump start. Oxford ; New York : Oxford University Press, 2001$$QJump start." ],
+        "mesh" : [ "Problems and Exercises" ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph004247027" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042470270107871" ],
+        "recordid" : [ "alma990042470270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004247027-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wolf" ],
+        "aufirst" : [ "Robert" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Wolf, Robert" ],
+        "creatorfull" : [ "$$NWolf, Robert$$LWolf$$FRobert$$Rauthor" ],
+        "date" : [ "2001" ],
+        "isbn" : [ "9780199938001", "0199938008", "1280594578", "9781280594571", "9786613624406", "6613624403", "0195140435" ],
+        "notes" : [ "Includes bibliographical references (pages 151-154)." ],
+        "abstract" : [ "For years, Robert Wolf traveled around the Midwest and the South teaching small town folk, farmers, and homeless individuals to write about their lives through poems, essays and fiction. Through his own small publishing company, Free River Press, Wolf published these stories of the forgotten parts of America. In 1999, Oxford published an anthology of his students' works in a volume entitled American Mosaic: Poetry and Prose by Everyday Folk. Now, we have Jump Start--a concise guide that offers Wolf's writing techniques from his Free River Press workshops across the country. Rooted in the oral t." ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)781638680" ],
+        "lccn" : [ "2001033132" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Jump start : how to write from everyday life" ]
+      },
+      "sort" : {
+        "title" : [ "Jump start : how to write from everyday life /" ],
+        "author" : [ "Wolf, Robert, 1944-" ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042470270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042470270107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042470270107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0199938008,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pe#1413ǂ w65 2001eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "141",
+    "CALL_SOLR_GET_IDS_LIST" : "142",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "56",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "50",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "101",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "454",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 491,
+    "COMBINED_SEARCH_TIME" : 500,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 5
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Anglais Langue Rhétorique Problèmes Et Exercices",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire Problèmes Et Exercices",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Composition Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Reference Writing Skills",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wolf Robert",
+      "count" : "1"
+    } ]
+  } ]
+}

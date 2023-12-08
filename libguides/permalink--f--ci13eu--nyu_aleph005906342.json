@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059063420107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Playing the mask : acting without bullshit " ],
+        "subject" : [ "Masques", "Art dramatique -- Technique", "masks (costume)", "PERFORMING ARTS -- Theater -- General", "Acting -- Technique", "Masks" ],
+        "format" : [ "1 online resource (xvii, 293 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781780019680;$$CISBN$$V1780019688;$$COCLC$$V(OCoLC)1009180670;$$CISBN$$V9781854595805" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Wright, John, 1946 January 13- author.$$QWright, John" ],
+        "publisher" : [ "London, Great Britain : Nick Hern Books" ],
+        "description" : [ "\"In Playing the Mask, award-winning theatre-maker and teacher John Wright explores and demystifies mask-work: what masks do, how they do it, and, above all, what they can teach us about acting. This book is a wonderfully accessible introduction to a fresh and innovative acting technique for actors, theatre-makers and teachers to use in training and rehearsal. A mask releases the actor to be playful, and playfulness generates ideas, finds meaning, develops characterisation - and is infinitely more fun than traditional training. Rather than a dry guide to making masked theatre, it is about, for instance, playing Lady Macbeth in Red Nose, or Hamlet in the mask of The Victim, The Ogre or The Fool, or even Romeo and Juliet in grotesque half-masks ... All in the name of liberating your creativity and, ultimately, improving your performance. Extensively illustrated with a rich variety of masks, this inventive and pragmatic book is full of invaluable games and exercises drawn from the author's own workshops, his experience as co-founder of both Trestle and Told by an Idiot, and his pioneering mask and clown work in many professional productions.\"--Provided by publisher" ],
+        "mms" : [ "990059063420107871" ],
+        "contents" : [ "Raking over a few gurus -- When the whole face is covered: playing full-mask -- When part of the face is covered: playing half-mask -- When the mask becomes a thought: archetypal masks -- When the text becomes a mask -- In conclusion: something for tomorrow" ],
+        "relation" : [ "$$Cform$$VPrint version: Wright, John, 1946 January 13- Playing the mask. London : Nick Hern Books, 2017$$QPlaying the mask.$$Z990059124990107871" ],
+        "place" : [ "London, Great Britain :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph005906342" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059063420107871" ],
+        "recordid" : [ "alma990059063420107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005906342-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wright" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Wright, John" ],
+        "creatorfull" : [ "$$NWright, John$$LWright$$FJohn$$Rauthor" ],
+        "date" : [ "2017 - 2017", "2017" ],
+        "isbn" : [ "9781780019680", "1780019688", "9781854595805" ],
+        "abstract" : [ "\"In Playing the Mask, award-winning theatre-maker and teacher John Wright explores and demystifies mask-work: what masks do, how they do it, and, above all, what they can teach us about acting. This book is a wonderfully accessible introduction to a fresh and innovative acting technique for actors, theatre-makers and teachers to use in training and rehearsal. A mask releases the actor to be playful, and playfulness generates ideas, finds meaning, develops characterisation - and is infinitely more fun than traditional training. Rather than a dry guide to making masked theatre, it is about, for instance, playing Lady Macbeth in Red Nose, or Hamlet in the mask of The Victim, The Ogre or The Fool, or even Romeo and Juliet in grotesque half-masks ... All in the name of liberating your creativity and, ultimately, improving your performance. Extensively illustrated with a rich variety of masks, this inventive and pragmatic book is full of invaluable games and exercises drawn from the author's own workshops, his experience as co-founder of both Trestle and Told by an Idiot, and his pioneering mask and clown work in many professional productions.\"--Provided by publisher" ],
+        "cop" : [ "London, Great Britain" ],
+        "pub" : [ "Nick Hern Books" ],
+        "oclcid" : [ "(ocolc)1009180670" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Playing the mask : acting without bullshit" ]
+      },
+      "sort" : {
+        "title" : [ "Playing the mask : acting without bullshit /" ],
+        "author" : [ "Wright, John, 1946 January 13- author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059063420107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059063420107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059063420107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1780019688,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2071 m37ǂ w754 2017eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "631",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "232",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "232",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "203",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "212",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "1166",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 1200,
+    "COMBINED_SEARCH_TIME" : 1203,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting Technique",
+      "count" : "1"
+    }, {
+      "value" : "Art Dramatique Technique",
+      "count" : "1"
+    }, {
+      "value" : "Masks",
+      "count" : "1"
+    }, {
+      "value" : "Masks Costume",
+      "count" : "1"
+    }, {
+      "value" : "Masques",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wright John",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

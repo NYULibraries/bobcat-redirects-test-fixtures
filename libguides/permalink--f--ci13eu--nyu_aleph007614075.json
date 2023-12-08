@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990076140750107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Cultural Analytics " ],
+        "subject" : [ "Culture -- Research -- Statistical methods", "Culture -- Research -- Data processing", "Mass media -- Research -- Statistical methods", "Mass media -- Research -- Data processing", "Médias -- Recherche -- Méthodes statistiques", "Médias -- Recherche -- Informatique", "Visualisation de l'information", "Information visualization", "DIGITAL HUMANITIES & NEW MEDIA/General", "DIGITAL HUMANITIES & NEW MEDIA/Software Studies", "SOCIAL SCIENCES/Media Studies" ],
+        "format" : [ "1 online resource (248 pages) : illustrations, figures, tables" ],
+        "identifier" : [ "$$CISBN$$V9780262037105;$$CISBN$$V0262037106;$$CISBN$$V0262360640;$$CISBN$$V9780262360647;$$COCLC$$V(OCoLC)1097284172" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Manovich, Lev, author.$$QManovich, Lev" ],
+        "publisher" : [ "Cambridge, MA : MIT Press" ],
+        "description" : [ "A book at the intersection of data science and media studies, presenting concepts and methods for computational analysis of cultural data.How can we see a billion images? What analytical methods can we bring to bear on the astonishing scale of digital culture--the terabytes of photographs shared on social media every day, the hundreds of millions of songs created by twenty million musicians on Sound Cloud, the content of four billion Pinterest boards? In Cultural Analytics, Lev Manovich presents concepts and methods for computational analysis of cultural data, with a particular focus on visual media. Drawing on more than a decade of research and projects from his own lab, Manovich--the founder of the field of cultural analytics--offers a gentle, nontechnical introduction to selected key concepts of data science and discusses the ways that our society uses data and algorithms.Manovich offers examples of computational cultural analysis and discusses the shift from new media to more media; explains how to turn cultural processes into computational data; and introduces concepts for exploring cultural datasets using data visualization as well as other recently developed methods for analyzing image and video datasets. He considers both the possibilities and the limitations of computational methods, and how using them challenges our existing ideas about culture and how to study it. Cultural Analytics is a book of media theory. Arguing that before we can theorize digital culture, we need to see it, and that, because of its scale, to see it we need computers, Manovich provides scholars with practical tools for studying contemporary media." ],
+        "mms" : [ "990076140750107871" ],
+        "series" : [ "Knowledge Unlatched Select 2017 (on order)$$QKnowledge Unlatched Select 2017 (on order)" ],
+        "genre" : [ "technical reports", "Technical reports", "Rapports techniques" ],
+        "relation" : [ "$$Cform$$VCultural analytics$$Z990080045630107871", "$$Cform$$VCultural analytics$$Z9995705689807871" ],
+        "place" : [ "Cambridge, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "miteb", "aleph007614075" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990076140750107871" ],
+        "recordid" : [ "alma990076140750107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007614075-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Manovich" ],
+        "aufirst" : [ "Lev" ],
+        "auinit" : [ "L" ],
+        "au" : [ "Manovich, Lev" ],
+        "creatorfull" : [ "$$NManovich, Lev$$LManovich$$FLev$$Rauthor" ],
+        "date" : [ "2018 - 2018", "2018" ],
+        "isbn" : [ "9780262037105", "0262037106", "0262360640", "9780262360647" ],
+        "abstract" : [ "A book at the intersection of data science and media studies, presenting concepts and methods for computational analysis of cultural data.How can we see a billion images? What analytical methods can we bring to bear on the astonishing scale of digital culture--the terabytes of photographs shared on social media every day, the hundreds of millions of songs created by twenty million musicians on Sound Cloud, the content of four billion Pinterest boards? In Cultural Analytics, Lev Manovich presents concepts and methods for computational analysis of cultural data, with a particular focus on visual media. Drawing on more than a decade of research and projects from his own lab, Manovich--the founder of the field of cultural analytics--offers a gentle, nontechnical introduction to selected key concepts of data science and discusses the ways that our society uses data and algorithms.Manovich offers examples of computational cultural analysis and discusses the shift from new media to more media; explains how to turn cultural processes into computational data; and introduces concepts for exploring cultural datasets using data visualization as well as other recently developed methods for analyzing image and video datasets. He considers both the possibilities and the limitations of computational methods, and how using them challenges our existing ideas about culture and how to study it. Cultural Analytics is a book of media theory. Arguing that before we can theorize digital culture, we need to see it, and that, because of its scale, to see it we need computers, Manovich provides scholars with practical tools for studying contemporary media." ],
+        "cop" : [ "Cambridge, MA" ],
+        "pub" : [ "MIT Press" ],
+        "oclcid" : [ "(ocolc)1097284172" ],
+        "seriestitle" : [ "Knowledge Unlatched Select 2017 (on order)" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Cultural Analytics" ]
+      },
+      "sort" : {
+        "title" : [ "Cultural Analytics /" ],
+        "author" : [ "Manovich, Lev, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990076140750107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990076140750107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990076140750107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0262037106,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv\"551.2",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "297",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "58",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "103",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "537",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 571,
+    "COMBINED_SEARCH_TIME" : 574,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Culture Research Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Culture Research Statistical Methods",
+      "count" : "1"
+    }, {
+      "value" : "Digital Humanities New Media General",
+      "count" : "1"
+    }, {
+      "value" : "Digital Humanities New Media Software Studies",
+      "count" : "1"
+    }, {
+      "value" : "Information Visualization",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media Research Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media Research Statistical Methods",
+      "count" : "1"
+    }, {
+      "value" : "Médias Recherche Informatique",
+      "count" : "1"
+    }, {
+      "value" : "Médias Recherche Méthodes Statistiques",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Media Studies",
+      "count" : "1"
+    }, {
+      "value" : "Visualisation De Linformation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Manovich Lev",
+      "count" : "1"
+    } ]
+  } ]
+}

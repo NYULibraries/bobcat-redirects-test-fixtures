@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048599310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the native peoples of the Americas. Vol. 3, South America. Part 2 " ],
+        "subject" : [ "Indians of North America -- History", "Indians of Central America -- History", "Indians of South America -- History", "Peuples autochtones -- Amérique centrale -- Histoire", "Peuples autochtones -- Amérique du Sud -- Histoire", "Indians of Central America", "Indians of North America", "Indians of South America" ],
+        "format" : [ "1 online resource (xiv, 947 pages)" ],
+        "identifier" : [ "$$CISBN$$V1139053795;$$CISBN$$V9780511468575;$$CISBN$$V0511468571;$$CISBN$$V9781139053792;$$COCLC$$V(OCoLC)457146004;$$CISBN$$V9780521630764" ],
+        "creationdate" : [ "©2008" ],
+        "publisher" : [ "Cambridge : Cambridge University Press" ],
+        "description" : [ "This is a major survey of research on the indigenous peoples of South America, from the earliest settlement of the continent to the present day." ],
+        "mms" : [ "990048599310107871" ],
+        "contributor" : [ "Salomon, Frank.$$QSalomon, Frank.", "Schwartz, Stuart B.$$QSchwartz, Stuart B." ],
+        "addtitle" : [ "Native peoples of the Americas", "South America" ],
+        "series" : [ "Cambridge histories online$$QCambridge histories online", "Cambridge histories online.$$QCambridge histories online." ],
+        "contents" : [ "The crises and transformations of invaded societies: the La Plata Basin (1535-1650) / Juan Carlos Garavaglia -- The colonial condition in the Quechua-Aymara heartland (1570-1780) / Thierry Saignes -- Warfare, reorganization, and readaptation at the margins of Spanish rule: the southern margin (1573-1882) / Kristine L. Jones -- The western margins of Amazonia from the early sixteenth to the early nineteenth century / Anne Christine Taylor -- Warfare, reorganization, and readaptation at the margins of Spanish rule -- The Chaco and Paraguay (1573-1882) / James Schofield Saeger -- Destruction, resistance, and transformation -- southern, coastal, and northern Brazil (1580-1890) / Robin M. Wright -- Native peoples confront colonial regimes in northeastern South America (c. 1500-1900) / Neil L. Whitehead -- New peoples and new kinds of people: adaptation, readjustment, and ethnogenesis in South American indigenous societies (colonial era) / Stuart B. Schwartz and Frank Salomon -- The \"Republic of Indians\" in revolt (c. 1680-1790) / Luis Miguel Glave -- Andean highland peasants and the trials of nation marking during the nineteenth century / Brooke Larson -- Indigenous peoples and the rise of independent nation-states in lowland South America / Jonathan D. Hill -- Andean people in the twentieth century / Xavier Albó -- Lowland peoples of the twentieth century / David Maybury-Lewis." ],
+        "genre" : [ "History" ],
+        "place" : [ "Cambridge :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859931" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048599310107871" ],
+        "recordid" : [ "alma990048599310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004859931-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Salomon", "Schwartz" ],
+        "aufirst" : [ "Frank.", "Stuart B." ],
+        "auinit" : [ "F", "S" ],
+        "addau" : [ "Salomon, Frank.", "Schwartz, Stuart B." ],
+        "contributorfull" : [ "$$NSalomon, Frank.$$LSalomon$$FFrank.$$Rcontributor", "$$NSchwartz, Stuart B.$$Rcontributor" ],
+        "addtitle" : [ "Native peoples of the Americas", "South America" ],
+        "date" : [ "2008", "©2008" ],
+        "isbn" : [ "1139053795", "9780511468575", "0511468571", "9781139053792", "9780521630764" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This is a major survey of research on the indigenous peoples of South America, from the earliest settlement of the continent to the present day." ],
+        "cop" : [ "Cambridge" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)457146004" ],
+        "seriestitle" : [ "Cambridge histories online" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the native peoples of the Americas. Vol. 3, South America. Part 2" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the native peoples of the Americas. Vol. 3, South America. Part 2 /" ],
+        "author" : [ "Salomon, Frank." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599310107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599310107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599310107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0511468571,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e!77ǂ n62 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "49",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "42",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "9",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "252",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 291,
+    "COMBINED_SEARCH_TIME" : 295,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Indians Of Central America",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of Central America History",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America History",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America History",
+      "count" : "1"
+    }, {
+      "value" : "Peuples Autochtones Amérique Centrale Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Peuples Autochtones Amérique Du Sud Histoire",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Salomon Frank",
+      "count" : "1"
+    }, {
+      "value" : "Schwartz Stuart B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

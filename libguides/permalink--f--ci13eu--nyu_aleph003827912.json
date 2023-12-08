@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038279120107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The reason I jump : the inner voice of a thirteen-year-old boy with autism " ],
+        "subject" : [ "Higashida, Naoki, 1992-", "Autistic people -- Japan$$QAutistic people -- Japan -- Biography", "Autistic people -- Psychology", "Autism" ],
+        "format" : [ "xvii, 135 pages : illustrations ; 20 cm" ],
+        "identifier" : [ "$$CLC$$V2012045703;$$CISBN$$V9780812994865 (acid-free paper);$$CISBN$$V0812994868 (acid-free paper);$$COCLC$$V(OCoLC)816027086" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Higashida, Naoki, 1992-$$QHigashida, Naoki" ],
+        "publisher" : [ "New York : Random House" ],
+        "description" : [ "Written by a very smart, very self-aware, and very charming thirteen-year-old boy with autism, this is a one-of-a-kind memoir that demonstrates how an autistic mind thinks, feels, perceives, and responds in ways few of us can imagine. Parents and family members who never thought they could get inside the head of their autistic loved one at last have a way to break through to the curious, subtle, and complex life within. With disarming honesty and a generous heart, Naoki shares his unique point of view on not only autism but life itself. His insights--into the mystery of words, the wonders of laughter, and the elusiveness of memory--are so startling, so strange, and so powerful that you will never look at the world the same way again. In his introduction, bestselling novelist David Mitchell writes that Naoki's words allowed him to feel, for the first time, as if his own autistic child was explaining what was happening in his mind. This translation was a labor of love by David and his wife, KA Yoshida, so they'd be able to share that feeling with friends, the wider autism community, and beyond.--From publisher description." ],
+        "mms" : [ "990038279120107871" ],
+        "contributor" : [ "Yoshida, K. A. (Keiko A.), translator.$$QYoshida, K. A.", "Mitchell, David (David Stephen), translator.$$QMitchell, David" ],
+        "edition" : [ "First edition." ],
+        "genre" : [ "Biography" ],
+        "relation" : [ "$$Cform$$VThe reason I jump : the inner voice of a thirteen-year-old boy with autism$$Z990089244510107871", "$$Cform$$VThe reason I jump : the inner voice of a thirteen-year-old boy with autism$$Z9995655633007871" ],
+        "unititle" : [ "Jiheishō no boku ga tobihaneru riyū. English" ],
+        "includes" : [ "Higashida, Naoki, 1992- Jiheishō no boku ga tobihaneru riyū. English$$QHigashida, Naoki, 1992- Jiheishō no boku ga tobihaneru riyū. English" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003827912" ],
+        "lds53" : [ "003827912" ],
+        "lds60" : [ "\"Originally published in Japanese by Escor Publishers Ltd. in 2007\"--Title page verso." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038279120107871" ],
+        "recordid" : [ "alma990038279120107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003827912-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Higashida" ],
+        "aufirst" : [ "Naoki" ],
+        "auinit" : [ "N" ],
+        "au" : [ "Higashida, Naoki" ],
+        "addau" : [ "Yoshida, K. A. (Keiko A.)", "Mitchell, David (David Stephen)" ],
+        "creatorfull" : [ "$$NHigashida, Naoki$$LHigashida$$FNaoki$$Rauthor" ],
+        "contributorfull" : [ "$$NYoshida, K. A. (Keiko A.)$$LYoshida$$FK. A.$$Rtranslator", "$$NMitchell, David (David Stephen)$$Rtranslator" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780812994865", "0812994868" ],
+        "abstract" : [ "Written by a very smart, very self-aware, and very charming thirteen-year-old boy with autism, this is a one-of-a-kind memoir that demonstrates how an autistic mind thinks, feels, perceives, and responds in ways few of us can imagine. Parents and family members who never thought they could get inside the head of their autistic loved one at last have a way to break through to the curious, subtle, and complex life within. With disarming honesty and a generous heart, Naoki shares his unique point of view on not only autism but life itself. His insights--into the mystery of words, the wonders of laughter, and the elusiveness of memory--are so startling, so strange, and so powerful that you will never look at the world the same way again. In his introduction, bestselling novelist David Mitchell writes that Naoki's words allowed him to feel, for the first time, as if his own autistic child was explaining what was happening in his mind. This translation was a labor of love by David and his wife, KA Yoshida, so they'd be able to share that feeling with friends, the wider autism community, and beyond.--From publisher description." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Random House" ],
+        "oclcid" : [ "(ocolc)816027086" ],
+        "lccn" : [ "2012045703" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The reason I jump : the inner voice of a thirteen-year-old boy with autism" ]
+      },
+      "sort" : {
+        "title" : [ "reason I jump : the inner voice of a thirteen-year-old boy with autism /" ],
+        "author" : [ "Higashida, Naoki, 1992-" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038279120107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038279120107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0812994868,OCLC:,LCCN:2012045703&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"553 a88ǂh5313 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "276",
+    "CALL_SOLR_GET_IDS_LIST" : "114",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "63",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "496",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 521,
+    "COMBINED_SEARCH_TIME" : 523,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Autism",
+      "count" : "1"
+    }, {
+      "value" : "Autistic People Japan Biography",
+      "count" : "1"
+    }, {
+      "value" : "Autistic People Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Higashida Naoki 1992",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Higashida Naoki",
+      "count" : "1"
+    }, {
+      "value" : "Mitchell David",
+      "count" : "1"
+    }, {
+      "value" : "Yoshida K A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

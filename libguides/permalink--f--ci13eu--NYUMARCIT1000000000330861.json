@@ -1,0 +1,216 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995621739507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng" ],
+        "title" : [ "Pittsburgh courier (City ed. : 1910)" ],
+        "subject" : [ "African Americans -- Pennsylvania -- Pittsburgh$$QAfrican Americans -- Pennsylvania -- Pittsburgh -- Newspapers", "Pittsburgh (Pa.)$$QPittsburgh (Pa.) -- Newspapers", "Allegheny County (Pa.)$$QAllegheny County (Pa.) -- Newspapers" ],
+        "identifier" : [ "$$CLC$$V  2009263252;$$COCLC$$V(OCoLC)426739824" ],
+        "creationdate" : [ "-1950" ],
+        "publisher" : [ "Pittsburgh, Pa. : Pittsburgh Courier Pub. Co.", "Began in 1910? ceased with v. 41, no. 31 (Aug. 12, 1950)." ],
+        "mms" : [ "9995621739507871" ],
+        "addtitle" : [ "The Pittsburgh Courier" ],
+        "edition" : [ "[City ed.]." ],
+        "frequency" : [ "Weekly" ],
+        "genre" : [ "Newspapers", "African American newspapers -- Pennsylvania" ],
+        "relation" : [ "$$Cearlier_title$$VCourier$$QCourier", "$$Clater_title$$VNew Pittsburgh Courier (PA)$$QNew Pittsburgh Courier (PA)$$Z9995641963607871", "$$Cother_relationship$$VThe Courier$$QThe Courier$$Z9995627335707871" ],
+        "unititle" : [ "Pittsburgh courier (City ed. : 1910)" ],
+        "place" : [ "Pittsburgh, Pa. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000330861" ],
+        "lds60" : [ "Called \"Local ed.\", <1938>-1949.", "\"Work, integrity, tact, temperance, prudence, courage, faith.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995621739507871" ],
+        "recordid" : [ "alma9995621739507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000330861" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "COURIER" ],
+        "addtitle" : [ "The Pittsburgh Courier" ],
+        "date" : [ "1910 - 1950", "-1950" ],
+        "cop" : [ "Pittsburgh, Pa" ],
+        "pub" : [ "Pittsburgh Courier Pub. Co." ],
+        "oclcid" : [ "(ocolc)426739824" ],
+        "lccn" : [ "2009263252" ],
+        "edition" : [ "[City ed.]." ],
+        "btitle" : [ "Pittsburgh courier (City ed. : 1910)" ]
+      },
+      "sort" : {
+        "title" : [ "Pittsburgh courier (City ed. : 1910)" ],
+        "creationdate" : [ "1910" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621739507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621739507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621739507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2009263252&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.5ǂ p588",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "420",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "119",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "41",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "90",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "41",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "714",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 738,
+    "COMBINED_SEARCH_TIME" : 742,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1910",
+      "count" : "1"
+    }, {
+      "value" : "1950",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Pennsylvania Pittsburgh Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "Allegheny County Pa Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "Pittsburgh Pa Newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

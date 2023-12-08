@@ -1,0 +1,296 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631271107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of urban affairs." ],
+        "subject" : [ "Cities and towns -- United States$$QCities and towns -- United States -- Periodicals", "City planning -- United States$$QCity planning -- United States -- Periodicals", "Urban policy -- United States$$QUrban policy -- United States -- Periodicals", "Villes -- États-Unis -- Périodiques", "Urbanisme -- États-Unis -- Périodiques", "Politique urbaine -- États-Unis -- Périodiques", "Cities and towns", "City planning", "Urban policy", "United States", "Société", "Urbanisme", "Ville", "Milieu urbain", "Politique urbaine", "Recherche", "Agglomération urbaine", "Changement social", "États-Unis", "Sociology", "stedelijke gebieden", "urban areas", "stadsontwikkeling", "urban development", "stadsomgeving", "urban environment", "stedelijke planning", "urban planning", "urban rural migration", "stedelijke samenleving", "urban society", "overheidsbeleid", "government policy", "gemeenschapsontwikkeling", "community development", "steden", "towns", "stadsvernieuwing", "urban renewal", "Urban Plans", "Urban Development", "Stedelijke plannen", "Stadsontwikkeling" ],
+        "identifier" : [ "$$CLC$$V  2020207205;$$CISSN$$V1467-9906;$$COCLC$$V(OCoLC)41979649;$$CISSN$$V0735-2166" ],
+        "creationdate" : [ "1981" ],
+        "publisher" : [ "Boston, Mass. : Blackwell", "Print began with vol. 3, no. 4 (fall 1981)." ],
+        "mms" : [ "9995631271107871" ],
+        "contributor" : [ "Urban Affairs Association (U.S.)$$QUrban Affairs Association (U.S.)" ],
+        "frequency" : [ "Eight times a year, 2017-" ],
+        "genre" : [ "Computer network resources", "Periodicals", "Périodique électronique (Descripteur de forme)", "Ressource Internet (Descripteur de forme)" ],
+        "relation" : [ "$$Cearlier_title$$VThe Urban interest$$QThe Urban interest", "$$Cearlier_title$$VUrban affairs papers$$QUrban affairs papers", "$$Cform$$VLink to related record$$Z990015715720107871" ],
+        "place" : [ "Boston, Mass. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925535085" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631271107871" ],
+        "recordid" : [ "alma9995631271107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925535085" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "J URBAN AFF", "J. URBAN AFF" ],
+        "date" : [ "1981" ],
+        "issn" : [ "1467-9906", "0735-2166" ],
+        "coden" : [ "JUAFEM" ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Blackwell Publishers" ],
+        "oclcid" : [ "(ocolc)41979649" ],
+        "lccn" : [ "2020207205" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of urban affairs." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of urban affairs." ],
+        "author" : [ "Urban Affairs Association (U.S.)" ],
+        "creationdate" : [ "1981" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631271107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631271107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631271107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631271107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631271107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2020207205&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"101",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "284",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "305",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "80",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "278",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "56",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "729",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 757,
+    "COMBINED_SEARCH_TIME" : 761,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1981",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Agglomération Urbaine",
+      "count" : "1"
+    }, {
+      "value" : "Changement Social",
+      "count" : "1"
+    }, {
+      "value" : "Cities And Towns",
+      "count" : "1"
+    }, {
+      "value" : "Cities And Towns United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "City Planning",
+      "count" : "1"
+    }, {
+      "value" : "City Planning United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Community Development",
+      "count" : "1"
+    }, {
+      "value" : "Gemeenschapsontwikkeling",
+      "count" : "1"
+    }, {
+      "value" : "Government Policy",
+      "count" : "1"
+    }, {
+      "value" : "Milieu Urbain",
+      "count" : "1"
+    }, {
+      "value" : "Overheidsbeleid",
+      "count" : "1"
+    }, {
+      "value" : "Politique Urbaine",
+      "count" : "1"
+    }, {
+      "value" : "Politique Urbaine États Unis Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Sociology",
+      "count" : "1"
+    }, {
+      "value" : "Société",
+      "count" : "1"
+    }, {
+      "value" : "Stadsomgeving",
+      "count" : "1"
+    }, {
+      "value" : "Stadsontwikkeling",
+      "count" : "1"
+    }, {
+      "value" : "Stadsvernieuwing",
+      "count" : "1"
+    }, {
+      "value" : "Stedelijke Gebieden",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Urban Affairs Association U S",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

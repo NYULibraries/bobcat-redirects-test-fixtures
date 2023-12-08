@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990053520660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford encyclopedia of Latinos and Latinas in the United States " ],
+        "subject" : [ "Hispanic Americans$$QHispanic Americans -- Encyclopedias", "Américains d'origine latino-américaine$$QAméricains d'origine latino-américaine -- Encyclopédies", "Hispanic Americans", "Spaanse Amerikanen", "Verenigde Staten" ],
+        "format" : [ "1 online resource (4 volumes) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780195188424;$$CISBN$$V019518842X;$$CISBN$$V0195156005;$$COCLC$$V(OCoLC)316065542;$$CISBN$$V9780195156003" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "New York : Oxford University Press" ],
+        "description" : [ "Provides access to information about the fastest growing minority population in the United States. With an unprecedented scope and cutting-edge scholarship, the Encyclopedia draws together the diverse historical and contemporary experiences in the United States of Latinos and Latinas from Mexico, Puerto Rico, Cuba, the Dominican Republic, Central America, South America, Europe, Asia, and the Middle East. Over 900 A-to-Z articles written by academics, scholars, writers, artists, and journalists, address such broad topics as identity, art, politics, religion, education, health, and history." ],
+        "mms" : [ "990053520660107871" ],
+        "contributor" : [ "Oboler, Suzanne, editor.$$QOboler, Suzanne", "González, Deena J., 1952- editor.$$QGonzález, Deena J.", "Oxford University Press, publisher.$$QOxford University Press" ],
+        "addtitle" : [ "Encyclopedia of Latinos and Latinas in the United States" ],
+        "contents" : [ "v. 1. Acequias-Dual nationality -- v. 2. East Los Angeles-Llorona, La -- v. 3. Lobato v. Taylor-Rechy, John -- v. 4. Religion and spirituaiity-Zoot suit." ],
+        "ispartof" : [ "Oxford digital reference shelf. [Oxford] : Oxford University Press$$QOxford digital reference shelf." ],
+        "genre" : [ "Electronic books", "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Oxford encyclopedia of Latinos and Latinas in the United States. New York : Oxford University Press, 2005$$QOxford encyclopedia of Latinos and Latinas in the United States.$$Z990002078380107871" ],
+        "mesh" : [ "Encyclopedia" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph005352066" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990053520660107871" ],
+        "recordid" : [ "alma990053520660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005352066-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Oboler", "González" ],
+        "aufirst" : [ "Suzanne", "Deena J." ],
+        "auinit" : [ "S", "D" ],
+        "addau" : [ "Oboler, Suzanne", "González, Deena J." ],
+        "contributorfull" : [ "$$NOboler, Suzanne$$LOboler$$FSuzanne$$Reditor", "$$NGonzález, Deena J.$$Reditor" ],
+        "stitle" : [ "Oxford digital reference shelf." ],
+        "addtitle" : [ "Encyclopedia of Latinos and Latinas in the United States" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "9780195188424", "019518842X", "0195156005", "9780195156003" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Provides access to information about the fastest growing minority population in the United States. With an unprecedented scope and cutting-edge scholarship, the Encyclopedia draws together the diverse historical and contemporary experiences in the United States of Latinos and Latinas from Mexico, Puerto Rico, Cuba, the Dominican Republic, Central America, South America, Europe, Asia, and the Middle East. Over 900 A-to-Z articles written by academics, scholars, writers, artists, and journalists, address such broad topics as identity, art, politics, religion, education, health, and history." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)316065542" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford encyclopedia of Latinos and Latinas in the United States" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford encyclopedia of Latinos and Latinas in the United States /" ],
+        "author" : [ "Oboler, Suzanne, editor." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053520660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:019518842X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 s75ǂo97 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "123",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "130",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "406",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 434,
+    "COMBINED_SEARCH_TIME" : 437,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Américains Dorigine Latino Américaine Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Hispanic Americans",
+      "count" : "1"
+    }, {
+      "value" : "Hispanic Americans Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Spaanse Amerikanen",
+      "count" : "1"
+    }, {
+      "value" : "Verenigde Staten",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "González Deena J",
+      "count" : "1"
+    }, {
+      "value" : "Oboler Suzanne",
+      "count" : "1"
+    }, {
+      "value" : "Oxford University Press",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056424850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Proceedings and debates of the British parliaments respecting North America " ],
+        "subject" : [ "United States -- History -- Colonial period, ca. 1600-1775$$QUnited States -- History -- Colonial period, ca. 1600-1775 -- Sources", "North America -- History -- Colonial period, ca. 1600-1775$$QNorth America -- History -- Colonial period, ca. 1600-1775 -- Sources", "Great Britain -- Colonies -- America -- History$$QGreat Britain -- Colonies -- America -- History -- Sources", "Great Britain -- Colonies -- Administration -- History$$QGreat Britain -- Colonies -- Administration -- History -- Sources", "Gran Bretaña -- Colonias -- América", "Gran Bretaña -- Colonias -- Administración", "Amérique du Nord -- Histoire -- ca 1600-1775 (Période coloniale)$$QAmérique du Nord -- Histoire -- ca 1600-1775 (Période coloniale) -- Sources", "Grande-Bretagne -- Colonies -- Amérique -- Histoire$$QGrande-Bretagne -- Colonies -- Amérique -- Histoire -- Sources", "Grande-Bretagne -- Colonies -- Administration -- Histoire$$QGrande-Bretagne -- Colonies -- Administration -- Histoire -- Sources", "British colonies", "Colonies -- Administration", "America", "North America", "United States", "1600-1775" ],
+        "format" : [ "1 online resource (6 volumes)" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)603335045" ],
+        "creationdate" : [ "March 1924-1941" ],
+        "creator" : [ "Great Britain. Parliament.$$QGreat Britain. Parliament." ],
+        "publisher" : [ "Washington, D.C. : Published by the Carnegie Institution of Washington" ],
+        "mms" : [ "990056424850107871" ],
+        "contributor" : [ "Stock, Leo Francis, 1878-1954, editor.$$QStock, Leo Francis", "Scotland. Parliament.$$QScotland. Parliament.", "Ireland. Parliament.$$QIreland. Parliament." ],
+        "series" : [ "Carnegie Institution of Washington publication ; 338. Papers of the Department of Historical Research$$QCarnegie Institution of Washington publication ; Papers of the Department of Historical Research", "Carnegie Institution of Washington publication. Papers of the Department of Historical Research ; 338.$$QCarnegie Institution of Washington publication." ],
+        "contents" : [ "Volume 1. 1542/1688 -- v. 2. 1689/1702 -- v. 3. 1702/1727 -- v. 4. 1728/1739 -- v. 5. 1739/1754 -- v. 6. 1754/1783." ],
+        "genre" : [ "History", "Sources" ],
+        "relation" : [ "$$Cform$$VOnline version: Great Britain. Parliament. Proceedings and debates respecting North America. Proceedings and debates of the British parliaments respecting North America$$QProceedings and debates of the British parliaments respecting North America", "$$Cform$$VPrint version: Great Britain. Parliament. Proceedings and debates of the British parliaments respecting North America. Washington, D.C., Carnegie institution of Washington, 1924-$$QProceedings and debates of the British parliaments respecting North America.$$Z990028416060107871" ],
+        "unititle" : [ "Proceedings and debates respecting North America" ],
+        "place" : [ "Washington, D.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "heinall", "aleph005642485" ],
+        "lds63" : [ "Access restricted to subscribing institutions." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056424850107871" ],
+        "recordid" : [ "alma990056424850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005642485-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stock" ],
+        "aufirst" : [ "Leo Francis" ],
+        "auinit" : [ "L" ],
+        "aucorp" : [ "Great Britain. Parliament." ],
+        "addau" : [ "Stock, Leo Francis" ],
+        "contributorfull" : [ "$$NStock, Leo Francis$$LStock$$FLeo Francis$$Reditor" ],
+        "date" : [ "1924 - 1941", "March 1924-1941" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Published by the Carnegie Institution of Washington" ],
+        "oclcid" : [ "(ocolc)603335045" ],
+        "seriestitle" : [ "Carnegie Institution of Washington publication ; 338. Papers of the Department of Historical Research" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Proceedings and debates of the British parliaments respecting North America" ]
+      },
+      "sort" : {
+        "title" : [ "Proceedings and debates of the British parliaments respecting North America /" ],
+        "author" : [ "Great Britain. Parliament." ],
+        "creationdate" : [ "1924" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056424850107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:603335045,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "as!32ǂ a5 no 338",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "282",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "65",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "73",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "60",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "330",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "807",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 848,
+    "COMBINED_SEARCH_TIME" : 851,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1924",
+      "count" : "1"
+    }, {
+      "value" : "1941",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1600 1775",
+      "count" : "1"
+    }, {
+      "value" : "America",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Du Nord Histoire Ca 1600 1775 Période Coloniale Sources",
+      "count" : "1"
+    }, {
+      "value" : "British Colonies",
+      "count" : "1"
+    }, {
+      "value" : "Colonies Administration",
+      "count" : "1"
+    }, {
+      "value" : "Gran Bretaña Colonias Administración",
+      "count" : "1"
+    }, {
+      "value" : "Gran Bretaña Colonias América",
+      "count" : "1"
+    }, {
+      "value" : "Grande Bretagne Colonies Administration Histoire Sources",
+      "count" : "1"
+    }, {
+      "value" : "Grande Bretagne Colonies Amérique Histoire Sources",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Colonies Administration History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Colonies America History Sources",
+      "count" : "1"
+    }, {
+      "value" : "North America",
+      "count" : "1"
+    }, {
+      "value" : "North America History Colonial Period Ca 1600 1775 Sources",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "United States History Colonial Period Ca 1600 1775 Sources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Great Britain Parliament",
+      "count" : "1"
+    }, {
+      "value" : "Ireland Parliament",
+      "count" : "1"
+    }, {
+      "value" : "Scotland Parliament",
+      "count" : "1"
+    }, {
+      "value" : "Stock Leo Francis",
+      "count" : "1"
+    } ]
+  } ]
+}

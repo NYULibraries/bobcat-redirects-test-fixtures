@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081929390107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Form and flow : the spatial politics of urban resilience and climate justice " ],
+        "subject" : [ "Climate justice -- Government policy$$QClimate justice -- Government policy -- Case studies", "Urban ecology (Sociology) -- Government policy$$QUrban ecology (Sociology) -- Government policy -- Case studies", "Climatic changes -- Government policy$$QClimatic changes -- Government policy -- Case studies", "Urban policy -- Environmental aspects$$QUrban policy -- Environmental aspects -- Case studies", "Local government and environmental policy$$QLocal government and environmental policy -- Case studies", "Climatic changes -- Political aspects$$QClimatic changes -- Political aspects -- Case studies", "Écologie urbaine -- Politique gouvernementale$$QÉcologie urbaine -- Politique gouvernementale -- Études de cas", "Politique urbaine -- Aspect de l'environnement$$QPolitique urbaine -- Aspect de l'environnement -- Études de cas", "Administration locale et politique environnementale$$QAdministration locale et politique environnementale -- Études de cas", "Climat -- Changements -- Aspect politique$$QClimat -- Changements -- Aspect politique -- Études de cas", "Justice climatique -- Politique gouvernementale$$QJustice climatique -- Politique gouvernementale -- Études de cas", "Climatic changes -- Government policy", "Climatic changes -- Political aspects", "Local government and environmental policy", "Urban ecology (Sociology) -- Government policy", "Urban policy -- Environmental aspects" ],
+        "format" : [ "1 online resource (xvi, 277 pages) : illustrations, maps" ],
+        "identifier" : [ "$$CISBN$$V0262367068;$$CISBN$$V9780262367066;$$CISBN$$V9780262367059;$$CISBN$$V026236705X;$$COCLC$$V(OCoLC)1256670343;$$CISBN$$V9780262543057" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Goh, Kian, author.$$QGoh, Kian" ],
+        "publisher" : [ "Cambridge, Massachusetts ; London, England : The MIT Press" ],
+        "description" : [ "\"Investigation of climate change responses in NYC, Jakarta, and Rotterdam, focusing on the flow of ideas and influence between the sites and the political contestations on the ground\"-- Provided by publisher" ],
+        "mms" : [ "990081929390107871" ],
+        "series" : [ "Urban and industrial environments$$QUrban and industrial environments", "Urban and industrial environments.$$QUrban and industrial environments." ],
+        "contents" : [ "Introduction: Climate justice and urban futures -- Disparate yet interconnected cities -- Nature of contestation -- Nature of flows -- Plans and counterplans -- A political ecology of design." ],
+        "genre" : [ "Case studies", "Études de cas" ],
+        "relation" : [ "$$Cform$$VPrint version: Goh, Kian. Form and flow. Cambridge, Massachusetts : The MIT Press, [2021]$$QForm and flow." ],
+        "place" : [ "Cambridge, Massachusetts ; London, England :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoeb", "miteb", "aleph008192939" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081929390107871" ],
+        "recordid" : [ "alma990081929390107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008192939-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Goh" ],
+        "aufirst" : [ "Kian" ],
+        "auinit" : [ "K" ],
+        "au" : [ "Goh, Kian" ],
+        "creatorfull" : [ "$$NGoh, Kian$$LGoh$$FKian$$Rauthor" ],
+        "date" : [ "2021 - 2021", "2021" ],
+        "isbn" : [ "0262367068", "9780262367066", "9780262367059", "026236705X", "9780262543057" ],
+        "notes" : [ "Includes bibliographical references (pages 237-260) and index." ],
+        "abstract" : [ "\"Investigation of climate change responses in NYC, Jakarta, and Rotterdam, focusing on the flow of ideas and influence between the sites and the political contestations on the ground\"-- Provided by publisher" ],
+        "cop" : [ "Cambridge, Massachusetts ;" ],
+        "pub" : [ "The MIT Press" ],
+        "oclcid" : [ "(ocolc)1256670343" ],
+        "seriestitle" : [ "Urban and industrial environments" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Form and flow : the spatial politics of urban resilience and climate justice" ]
+      },
+      "sort" : {
+        "title" : [ "Form and flow : the spatial politics of urban resilience and climate justice /" ],
+        "author" : [ "Goh, Kian, author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081929390107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081929390107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081929390107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780262367066,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"241ǂ g64 2021eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "118",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "62",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "56",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "340",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 367,
+    "COMBINED_SEARCH_TIME" : 370,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Administration Locale Et Politique Environnementale Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Climat Changements Aspect Politique Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Climate Justice Government Policy Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Government Policy",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Government Policy Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Political Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Political Aspects Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Justice Climatique Politique Gouvernementale Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Local Government And Environmental Policy",
+      "count" : "1"
+    }, {
+      "value" : "Local Government And Environmental Policy Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Politique Urbaine Aspect De Lenvironnement Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Urban Ecology Sociology Government Policy",
+      "count" : "1"
+    }, {
+      "value" : "Urban Ecology Sociology Government Policy Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Urban Policy Environmental Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Urban Policy Environmental Aspects Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Écologie Urbaine Politique Gouvernementale Études De Cas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Goh Kian",
+      "count" : "1"
+    } ]
+  } ]
+}

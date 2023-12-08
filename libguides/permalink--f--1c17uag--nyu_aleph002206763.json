@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022067630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Haiti " ],
+        "subject" : [ "Haiti$$QHaiti -- Bibliography" ],
+        "format" : [ "xxiv, 270 p. : map ; 22 cm." ],
+        "identifier" : [ "$$CISBN$$V1851092153;$$COCLC$$V(OCoLC)36498633" ],
+        "creationdate" : [ "c1994" ],
+        "creator" : [ "Chambers, Frances.$$QChambers, Frances." ],
+        "publisher" : [ "Oxford ; Santa Barbara, Calif. : Clio" ],
+        "mms" : [ "990022067630107871" ],
+        "contributor" : [ "Research Institute for the Study of Man, former owner.$$QResearch Institute for the Study of Man" ],
+        "edition" : [ "Rev. and expanded ed." ],
+        "series" : [ "World bibliographical series ; v. 39$$QWorld bibliographical series ", "World bibliographical series ; v. 39.$$QWorld bibliographical series " ],
+        "genre" : [ "Bibliography" ],
+        "relation" : [ "$$Cform$$VHaiti$$Z9995736564907871" ],
+        "place" : [ "Oxford ; Santa Barbara, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002206763" ],
+        "lds53" : [ "002206763" ],
+        "lds60" : [ "Includes index.", "Bobst copy from the collection of the Research Institute for the Study of Man." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022067630107871" ],
+        "recordid" : [ "alma990022067630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002206763-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chambers" ],
+        "aufirst" : [ "Frances." ],
+        "auinit" : [ "F" ],
+        "au" : [ "Chambers, Frances." ],
+        "creatorfull" : [ "$$NChambers, Frances.$$LChambers$$FFrances.$$Rauthor" ],
+        "date" : [ "1994", "c1994" ],
+        "isbn" : [ "1851092153" ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Clio" ],
+        "oclcid" : [ "(ocolc)36498633" ],
+        "edition" : [ "Rev. and expanded ed." ],
+        "seriestitle" : [ "World bibliographical series ; v. 39" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Haiti" ]
+      },
+      "sort" : {
+        "title" : [ "Haiti /" ],
+        "author" : [ "Chambers, Frances." ],
+        "creationdate" : [ "1994" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022067630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1851092153,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z000000001531.c000000000047000000001994",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "305",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "22",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "1",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "51",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "19",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "54",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "488",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 513,
+    "COMBINED_SEARCH_TIME" : 516,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Haiti Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chambers Frances",
+      "count" : "1"
+    }, {
+      "value" : "Research Institute For The Study Of Man",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

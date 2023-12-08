@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048143580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The SAGE handbook of tourism studies " ],
+        "subject" : [ "Trourism -- Vocational guidance", "BUSINESS & ECONOMICS -- Industries -- Hospitality, Travel & Tourism", "Tourism -- Study and teaching" ],
+        "format" : [ "1 online resource (xix, 716 pages :) : illustrations, maps" ],
+        "identifier" : [ "$$CISBN$$V9781446206621;$$CISBN$$V1446206629;$$COCLC$$V(OCoLC)797818188;$$CISBN$$V9781446208755;$$CISBN$$V1446208753" ],
+        "creationdate" : [ "2009" ],
+        "publisher" : [ "Los Angeles ; London : SAGE" ],
+        "description" : [ "Annotation This handbook provides an essential resource for teachers and students to determine the roots, key issues and agenda of tourism studies." ],
+        "mms" : [ "990048143580107871" ],
+        "contributor" : [ "Jamal, Tazim.$$QJamal, Tazim.", "Robinson, Mike, 1960-$$QRobinson, Mike" ],
+        "addtitle" : [ "Handbook of tourism studies", "Tourism studies" ],
+        "contents" : [ "Introduction: The Evolution and Contemporary Positioning of Tourism as a Focus of Study -- Tazim Jamal and Mike Robinson<br />PART ONE: APPROACHES TO TOURISM STUDIES <br />Tourism and Hospitality -- David Bell<br />Anthropological Interventions in Tourism Studies -- Naomi Leite and Nelson Graburn<br />The Sociology of Tourism -- Adrian Franklin<br />The Diverse Dynamics of Cultural Studies and Tourism -- David Crouch<br />Tourism, Popular Culture and the Media -- Philip Long and Mike Robinson<br />Histories of Tourism -- John K. Walton<br />Tourism Geographies: A Review of Trends, Challenges and Opportunities -- Sanjay K. Nepal<br />Development Studies and Tourism -- David J. Telfer<br />Economics of International Tourism -- John Fletcher<br />Power, Politics and Political Science: The Politicization of Tourism -- Linda K. Richter<br />Tourism and Natural Resources -- Andrew Holden<br />Tourism: A Strategic Business Perspective -- Nigel Evans<br />PART TWO: KEY TOPICS IN TOURISM <br />Tourism, Religion and Spirituality -- Richard Sharpley<br />Breaking down the System: How Volunteer Tourism Contributes to New Ways of Viewing Commodified Tourism -- Stephen Wearing and Jess Ponting<br />Theme Parks and the Representation of Culture and Nature: The Consumer Aesthetics of Presentation and Performance -- Keith Hollinshead<br />Architecture and Urban Planning: Practical and Theoretical Contributions -- Robert Mugerauer Jr<br />Tourism and Heritage Conservation -- Aylin Orbasli and Simon Woodward<br />The Challenges and Prospects for Sustainable Tourism and Ecotourism in Developing Countries -- Joseph E. Mbaiwa and Amanda L. Stronza<br />Rural Tourism: An Overview -- Bernard Lane<br />Transportation and Tourism: A Symbiotic Relationship? -- Stephen Page and Yue (Gurt) Ge<br />Innovative Approaches for Managing Conservation and Use Challenges in the National Parks: Insights from Canada -- Kathleen Rettie, A.P. Clevenger and Adam Ford<br />Planning for Tourism at Local and Regional Levels: Principles, Practices and Possibilities -- Brian King and Michael Pearlman<br />Destination Marketing Organizations: Convention and Visitors Bureaus -- Robert C. Ford and William C. Peeper<br />Destination Management: New Challenges, New Needs -- Richard Harrill<br />Tourism Safety and Security -- Peter E Tarlow<br />PART THREE: CRITICAL ISSUES AND EMERGING PERSPECTIVES <br />Festivals, Events and Tourism -- Bernadette Quinn<br />Tourism as Post-Colonialism -- Hazel Tucker and John Akama<br />Thanatourism and Its Discontents: An Appraisal of a Decade's Work with Some Future Issues and Directions -- Tony Seaton<br />Tourism and Performance -- Tim Edensor<br />Information Technology: Shaping the Past, Present and Future of Tourism -- Ulrike Gretzel and Daniel R. Fesenmaier<br />Global Tourism Business Operations: Theoretical Frameworks and Key Issues -- Keith G. Debbage and Suzanne Gallaway<br />Tourism and International Policy: Neo-Liberalism and beyond -- R.E. Wood<br />Ethical Perspectives: Exploring the Ethical Landscape of Tourism -- Mick Smith<br />Gender and Tourism Discourses: Advancing the Gender Project in Tourism Studies -- Cara Aitchison<br />Tourism Studies and the New Mobilities Paradigm (NMP) -- Misela Mavric and John Urry<br />Tourism and Languaging -- Alison Phipps<br />Methodologies and Methods -- G.R. Jennings<br />Conclusions: Tourism Studies: Past Omissions, Emergent Challenges -- Mike Robinson and Tazim Jamal<br />" ],
+        "relation" : [ "$$Cform$$VPrint version: SAGE handbook of tourism studies. Los Angeles ; London : SAGE, 2009$$QSAGE handbook of tourism studies." ],
+        "place" : [ "Los Angeles ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sagepub", "aleph004814358" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048143580107871" ],
+        "recordid" : [ "alma990048143580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004814358-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jamal", "Robinson" ],
+        "aufirst" : [ "Tazim.", "Mike" ],
+        "auinit" : [ "T", "M" ],
+        "addau" : [ "Jamal, Tazim.", "Robinson, Mike" ],
+        "contributorfull" : [ "$$NJamal, Tazim.$$LJamal$$FTazim.$$Rcontributor", "$$NRobinson, Mike$$Rcontributor" ],
+        "addtitle" : [ "Handbook of tourism studies", "Tourism studies" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9781446206621", "1446206629", "9781446208755", "1446208753" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Annotation This handbook provides an essential resource for teachers and students to determine the roots, key issues and agenda of tourism studies." ],
+        "cop" : [ "Los Angeles ;" ],
+        "pub" : [ "SAGE" ],
+        "oclcid" : [ "(ocolc)797818188" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The SAGE handbook of tourism studies" ]
+      },
+      "sort" : {
+        "title" : [ "SAGE handbook of tourism studies /" ],
+        "author" : [ "Jamal, Tazim." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048143580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048143580107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1446206629,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "g\"155.7ǂ s24 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "336",
+    "CALL_SOLR_GET_IDS_LIST" : "122",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "112",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "123",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "628",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 666,
+    "COMBINED_SEARCH_TIME" : 669,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industries Hospitality Travel Tourism",
+      "count" : "1"
+    }, {
+      "value" : "Tourism Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Trourism Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jamal Tazim",
+      "count" : "1"
+    }, {
+      "value" : "Robinson Mike",
+      "count" : "1"
+    } ]
+  } ]
+}

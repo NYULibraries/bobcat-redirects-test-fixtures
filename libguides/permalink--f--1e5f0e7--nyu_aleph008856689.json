@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990088566890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "chi" ],
+        "title" : [ "Guo ji gong wu yuan : su zhi jian she yu qiu zhi zhi nan = Becoming an international civil servant : a practical guide " ],
+        "subject" : [ "International officials and employees" ],
+        "format" : [ "3, 3, 3, 232 pages : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CISBN$$V9787308191364;$$CISBN$$V7308191362;$$COCLC$$V(OCoLC)1343642241" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Hangzhou : Zhejiang da xue chu ban she", "杭州 : 浙江大学出版社" ],
+        "mms" : [ "990088566890107871" ],
+        "contributor" : [ "Song, Yunfu, editor.$$QSong, Yunfu", "Xu, Yanan, editor.$$QXu, Yanan", "Wang, Jiyuan, editor.$$QWang, Jiyuan", "宋允孚, editor.$$Q宋允孚", "徐亚男, editor.$$Q徐亚男", "王纪元, editor.$$Q王纪元" ],
+        "addtitle" : [ "Su zhi jian she yu qiu zhi zhi nan", "素质建设与求职指南", "Becoming an international civil servant : a practical guide", "Practical guide" ],
+        "vertitle" : [ "国际公务员 : 素质建设与求职指南 = Becoming an international civil servant : a practical guide / 主编, 宋允孚 ; 副主编, 徐亚男, 王纪元." ],
+        "edition" : [ "Di 1 ban.", "第1版." ],
+        "series" : [ "Guo ji zu zhi yu quan qiu zhi li cong shu$$QGuo ji zu zhi yu quan qiu zhi li cong shu", "国际组织与全球治理丛书$$Q国际组织与全球治理丛书" ],
+        "place" : [ "Hangzhou :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008856689" ],
+        "lds53" : [ "008856689" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990088566890107871" ],
+        "recordid" : [ "alma990088566890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008856689-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Song", "Xu", "Wang" ],
+        "aufirst" : [ "Yunfu", "Yanan", "Jiyuan" ],
+        "auinit" : [ "Y", "J" ],
+        "addau" : [ "Song, Yunfu", "Xu, Yanan", "Wang, Jiyuan" ],
+        "contributorfull" : [ "$$NSong, Yunfu$$LSong$$FYunfu$$Reditor", "$$NXu, Yanan$$Reditor", "$$NWang, Jiyuan$$Reditor" ],
+        "addtitle" : [ "Su zhi jian she yu qiu zhi zhi nan", "Becoming an international civil servant : a practical guide", "Practical guide" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9787308191364", "7308191362" ],
+        "cop" : [ "Hangzhou" ],
+        "pub" : [ "Zhejiang da xue chu ban she" ],
+        "oclcid" : [ "(ocolc)1343642241" ],
+        "edition" : [ "Di 1 ban." ],
+        "seriestitle" : [ "Guo ji zu zhi yu quan qiu zhi li cong shu" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Guo ji gong wu yuan : su zhi jian she yu qiu zhi zhi nan = Becoming an international civil servant : a practical guide" ]
+      },
+      "sort" : {
+        "title" : [ "Guo ji gong wu yuan : su zhi jian she yu qiu zhi zhi nan = Becoming an international civil servant : a practical guide /" ],
+        "author" : [ "Song, Yunfu, editor." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990088566890107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:7308191362,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jx#1904.5ǂ s66 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "58",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "35",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "54",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "104",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "384",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 409,
+    "COMBINED_SEARCH_TIME" : 412,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "International Officials And Employees",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Song Yunfu",
+      "count" : "1"
+    }, {
+      "value" : "Wang Jiyuan",
+      "count" : "1"
+    }, {
+      "value" : "Xu Yanan",
+      "count" : "1"
+    }, {
+      "value" : "宋允孚",
+      "count" : "1"
+    }, {
+      "value" : "徐亚男",
+      "count" : "1"
+    }, {
+      "value" : "王纪元",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

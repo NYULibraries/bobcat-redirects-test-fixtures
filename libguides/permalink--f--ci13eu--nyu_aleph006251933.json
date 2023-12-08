@@ -1,0 +1,265 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062519330107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The rape of Europa " ],
+        "subject" : [ "World War, 1939-1945$$QWorld War, 1939-1945 -- Art and the war", "Art thefts -- Europe", "Guerre mondiale, 1939-1945$$QGuerre mondiale, 1939-1945 -- Art et guerre", "Vol d'objets d'art -- Europe", "Vol d'objets d'art", "Art thefts", "Europe", "1939-1945" ],
+        "format" : [ "1 online resource (1 video file (117 min.)) : flv file, sound, color with black and white sequences", "video file", "Flash", "MPEG-4" ],
+        "identifier" : [ "$$CPUBNUM$$V3874844;$$COCLC$$V(OCoLC)1042884256" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "San Francisco, California, USA : Kanopy Streaming" ],
+        "description" : [ "The Rape of Europa tells the epic story of the systematic theft, deliberate destruction and miraculous survival of Europe's art treasures during the Third Reich and the Second World War. On a journey through seven countries, the film takes the audience into the violent whirlwind of fanaticism, greed, and warfare that threatened to wipe out the artistic heritage of Europe. For twelve long years, the Nazis looted and destroyed art on a scale unprecedented in history. But young art professionals as well as ordinary heroes, from truck drivers to department store clerks, fought back with an extraordinary effort to safeguard, rescue and return the millions of lost, hidden and stolen treasures." ],
+        "mms" : [ "990062519330107871" ],
+        "contributor" : [ "Berge, Richard, film director, film producer, screenwriter.$$QBerge, Richard", "Newnham, Nicole, film director, film producer, screenwriter.$$QNewnham, Nicole", "Cohen, Bonni, film director.$$QCohen, Bonni", "Allen, Joan, 1956- narrator.$$QAllen, Joan", "Actual Films, production company.$$QActual Films", "Agon Arts & Entertainment, production company.$$QAgon Arts & Entertainment", "Oregon Public Broadcasting, production company.$$QOregon Public Broadcasting", "Passion River Films, distributor.$$QPassion River Films" ],
+        "genre" : [ "Art and the war", "Art et guerre", "Online media", "Art", "Documentary films", "Documentaires" ],
+        "mesh" : [ "Documentaries and Factual Films" ],
+        "place" : [ "San Francisco, California, USA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "knpyvid", "aleph006251933" ],
+        "lds60" : [ "Originally produced by Passion River Productions in 2006.", "Based on The rape of Europa by Lynn H. Nicholas." ],
+        "lds64" : [ "Director of photography, Jon Shenk ; editor, Josh Peterson ; music, Marco d'Ambrosio." ],
+        "lds65" : [ "Narrator, Joan Allen." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062519330107871" ],
+        "recordid" : [ "alma990062519330107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006251933-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Berge", "Newnham", "Cohen", "Allen" ],
+        "aufirst" : [ "Richard", "Nicole", "Bonni", "Joan" ],
+        "auinit" : [ "R", "N", "B", "J" ],
+        "addau" : [ "Berge, Richard", "Newnham, Nicole", "Cohen, Bonni", "Allen, Joan" ],
+        "contributorfull" : [ "$$NBerge, Richard$$LBerge$$FRichard$$Rcontributor", "$$NNewnham, Nicole$$Rcontributor", "$$NCohen, Bonni$$Rcontributor", "$$NAllen, Joan$$Rcontributor" ],
+        "date" : [ "2018 - 2006", "2018" ],
+        "abstract" : [ "The Rape of Europa tells the epic story of the systematic theft, deliberate destruction and miraculous survival of Europe's art treasures during the Third Reich and the Second World War. On a journey through seven countries, the film takes the audience into the violent whirlwind of fanaticism, greed, and warfare that threatened to wipe out the artistic heritage of Europe. For twelve long years, the Nazis looted and destroyed art on a scale unprecedented in history. But young art professionals as well as ordinary heroes, from truck drivers to department store clerks, fought back with an extraordinary effort to safeguard, rescue and return the millions of lost, hidden and stolen treasures." ],
+        "cop" : [ "San Francisco, California, USA" ],
+        "pub" : [ "Kanopy Streaming" ],
+        "oclcid" : [ "(ocolc)1042884256" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The rape of Europa" ]
+      },
+      "sort" : {
+        "title" : [ "rape of Europa /" ],
+        "author" : [ "Berge, Richard, film director, film producer, screenwriter." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062519330107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062519330107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062519330107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1042884256,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "d\"810 a7ǂr36 2018ev 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "145",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "79",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "70",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "53",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "425",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 458,
+    "COMBINED_SEARCH_TIME" : 461,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    }, {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1939 1945",
+      "count" : "1"
+    }, {
+      "value" : "Art Thefts",
+      "count" : "1"
+    }, {
+      "value" : "Art Thefts Europe",
+      "count" : "1"
+    }, {
+      "value" : "Europe",
+      "count" : "1"
+    }, {
+      "value" : "Guerre Mondiale 1939 1945 Art Et Guerre",
+      "count" : "1"
+    }, {
+      "value" : "Vol Dobjets Dart",
+      "count" : "1"
+    }, {
+      "value" : "Vol Dobjets Dart Europe",
+      "count" : "1"
+    }, {
+      "value" : "World War 1939 1945 Art And The War",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Actual Films",
+      "count" : "1"
+    }, {
+      "value" : "Agon Arts Entertainment",
+      "count" : "1"
+    }, {
+      "value" : "Allen Joan",
+      "count" : "1"
+    }, {
+      "value" : "Berge Richard",
+      "count" : "1"
+    }, {
+      "value" : "Cohen Bonni",
+      "count" : "1"
+    }, {
+      "value" : "Newnham Nicole",
+      "count" : "1"
+    }, {
+      "value" : "Oregon Public Broadcasting",
+      "count" : "1"
+    }, {
+      "value" : "Passion River Films",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

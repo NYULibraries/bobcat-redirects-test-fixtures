@@ -1,0 +1,250 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050691900107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "SQL for Microsoft Access " ],
+        "subject" : [ "Microsoft Access", "SQL (Langage de programmation)", "COMPUTERS -- Programming Languages -- C♯", "COMPUTERS -- Programming Languages -- Java", "COMPUTERS -- Programming Languages -- Pascal", "SQL (Computer program language)" ],
+        "format" : [ "1 online resource (1 volume)" ],
+        "identifier" : [ "$$CISBN$$V1423726243;$$CISBN$$V9781423726241;$$COCLC$$V(OCoLC)61717931;$$CISBN$$V1556220928" ],
+        "creationdate" : [ "©2005" ],
+        "creator" : [ "Allison, Cecelia L.$$QAllison, Cecelia L." ],
+        "publisher" : [ "Plano, TX : Wordware Pub." ],
+        "mms" : [ "990050691900107871" ],
+        "contributor" : [ "Berkowitz, Neal.$$QBerkowitz, Neal." ],
+        "series" : [ "Wordware applications library.$$QWordware applications library." ],
+        "contents" : [ "The relational database structure -- Structured query language and Microsoft Access -- Creating tables and inserting records -- Retrieving records -- Filtering retrieved records -- Creating calculated fields -- Grouping data -- Creating table joins and unions -- Creating subqueries -- Creating views -- Table management and indexes -- Temporary tales vs. views -- Parameter queries -- Integrating SQL script in VBA code -- Integrating SQL script into ASP code -- Access projects -- Concluding thoughts." ],
+        "relation" : [ "$$Cform$$VPrint version: Allison, Cecelia. SQL for Microsoft Access. Plano, TX : Wordware Pub., ©2005$$QSQL for Microsoft Access.", "$$Cform$$VSQL for Microsoft Access$$Z9995733705407871" ],
+        "place" : [ "Plano, TX :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "skillit", "aleph005069190" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050691900107871" ],
+        "recordid" : [ "alma990050691900107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005069190-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Allison" ],
+        "aufirst" : [ "Cecelia L." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Allison, Cecelia L." ],
+        "addau" : [ "Berkowitz, Neal." ],
+        "creatorfull" : [ "$$NAllison, Cecelia L.$$LAllison$$FCecelia L.$$Rauthor" ],
+        "contributorfull" : [ "$$NBerkowitz, Neal.$$LBerkowitz$$FNeal.$$Rcontributor" ],
+        "date" : [ "2005", "©2005" ],
+        "isbn" : [ "1423726243", "9781423726241", "1556220928" ],
+        "cop" : [ "Plano, TX" ],
+        "pub" : [ "Wordware Pub." ],
+        "oclcid" : [ "(ocolc)61717931" ],
+        "seriestitle" : [ "Wordware applications library." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "SQL for Microsoft Access" ]
+      },
+      "sort" : {
+        "title" : [ "SQL for Microsoft Access /" ],
+        "author" : [ "Allison, Cecelia L." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050691900107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050691900107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050691900107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050691900107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781423726241,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.73 s67ǂa44 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "170",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "198",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "35",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "167",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "31",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "549",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 573,
+    "COMBINED_SEARCH_TIME" : 576,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computers Programming Languages C♯",
+      "count" : "1"
+    }, {
+      "value" : "Computers Programming Languages Java",
+      "count" : "1"
+    }, {
+      "value" : "Computers Programming Languages Pascal",
+      "count" : "1"
+    }, {
+      "value" : "Microsoft Access",
+      "count" : "1"
+    }, {
+      "value" : "Sql Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "Sql Langage De Programmation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Allison Cecelia L",
+      "count" : "1"
+    }, {
+      "value" : "Berkowitz Neal",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

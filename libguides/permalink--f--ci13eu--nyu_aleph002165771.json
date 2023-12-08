@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021657710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "SMPTE journal publication of the Society of Motion Picture and Television Engineers." ],
+        "subject" : [ "Cinematography$$QCinematography -- Periodicals", "Television$$QTelevision -- Periodicals" ],
+        "format" : [ "v. : ill. ; 28-29 cm." ],
+        "identifier" : [ "$$CLC$$V2004261250;$$COCLC$$V(OCoLC)16016935;$$CISSN$$V0036-1682" ],
+        "creationdate" : [ "-2002" ],
+        "publisher" : [ "Scarsdale, NY : Society of Motion Picture and Television Engineers", "Began with Jan. 1976." ],
+        "mms" : [ "990021657710107871" ],
+        "contributor" : [ "Society of Motion Picture and Television Engineers.$$QSociety of Motion Picture and Television Engineers." ],
+        "addtitle" : [ "Society of Motion Picture and Television Engineers journal", "S.M.P.T.E. journal", "Directory for members", "Worldwide directory for members" ],
+        "frequency" : [ "Monthly" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of the SMPTE$$QJournal of the SMPTE$$Z990029770180107871", "$$Cearlier_title$$VSociety of Motion Picture and Television Engineers. Directory for members-Society of Motion Picture and Television Engineers, inc.$$QDirectory for members-Society of Motion Picture and Television Engineers, inc.", "$$Cform$$VOriginal$$Z990029770190107871", "$$Cform$$VSMPTE journal : publication of the Society of Motion Picture and Television Engineers.$$Z9995635948307871", "$$Clater_title$$VSMPTE motion imaging journal$$QSMPTE motion imaging journal", "$$Clater_title$$VSMPTE motion imaging journal.$$Z990008173560107871" ],
+        "place" : [ "Scarsdale, NY] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002165771" ],
+        "lds53" : [ "002165771" ],
+        "lds60" : [ "Description based on: Vol. 89, no. 1 (Jan. 1980); title from cover.", "Published: White Plains, N.Y., Mar. 1986-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021657710107871" ],
+        "recordid" : [ "alma990021657710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002165771-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "SMPTE j." ],
+        "addtitle" : [ "Society of Motion Picture and Television Engineers journal", "S.M.P.T.E. journal" ],
+        "date" : [ "1976 - 2002", "-2002" ],
+        "issn" : [ "0036-1682" ],
+        "coden" : [ "SMPJDF" ],
+        "cop" : [ "Scarsdale, NY" ],
+        "pub" : [ "Society of Motion Picture and Television Engineers" ],
+        "oclcid" : [ "(ocolc)16016935" ],
+        "lccn" : [ "2004261250" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "SMPTE journal publication of the Society of Motion Picture and Television Engineers." ]
+      },
+      "sort" : {
+        "title" : [ "SMPTE journal publication of the Society of Motion Picture and Television Engineers." ],
+        "author" : [ "Society of Motion Picture and Television Engineers." ],
+        "creationdate" : [ "1976" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021657710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004261250&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tr\"845ǂ s6",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "298",
+    "CALL_SOLR_GET_IDS_LIST" : "65",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "76",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "484",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 518,
+    "COMBINED_SEARCH_TIME" : 521,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1976",
+      "count" : "1"
+    }, {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinematography Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Television Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Society Of Motion Picture And Television Engineers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

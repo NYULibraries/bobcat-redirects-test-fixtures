@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990014687990107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The collected works of C.G. Jung " ],
+        "subject" : [ "Psychoanalysis" ],
+        "format" : [ "21 v. in 22 : ill. ; 24 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)476495979" ],
+        "creationdate" : [ "1953-1983" ],
+        "creator" : [ "Jung, C. G. (Carl Gustav), 1875-1961.$$QJung, C. G." ],
+        "publisher" : [ "London : Routledge & Paul Kegan" ],
+        "mms" : [ "990014687990107871" ],
+        "contributor" : [ "Read, Herbert Edward, Sir, 1893-1968.$$QRead, Herbert Edward", "Fordham, Michael, 1905-$$QFordham, Michael", "Adler, Gerhard, 1904-$$QAdler, Gerhard" ],
+        "contents" : [ "v. 1. Psychiatric studies -- v. 2. Experimental researches -- v. 3. The psychogenesis of mental disease -- v. 4. Freud and psychoanalysis -- v. 5. Symbols for the transformation -- v. 6. Psychological types -- v. 7. Two essays on analytical psychology --v. 8. The structure and dynamics of psyche -- v. 9. pt. 1. The archetypes and the collective unconscious. pt. 2. Aion, researches into the phenomenology of the self -- v. 10. Civilization in transition -- v. 11. Psychology and religion, West and East -- v. 12. Psychology and alchemy -- v. 13. Alchemical studies --v. 14. Mysterium coniunctionis, an inquiry into the separation and synthesis of psychic opposites in alchemy -- v. 15. The spirit in man, art, and literature -- v. 16. The practice of psychotherapy --v. 17. The development of personality -- v. 18. The symbolic life. Miscellaneous writings -- v. 19. General bibliography of C.G. Jung's writings /compiled by Lisa Ress -- v. 20. General index to The collected works of C.G. Jung / compiled by Barbara Forryan and Janet M. Glover -- supplementary v. A. The Zofingia lectures." ],
+        "unititle" : [ "Works. English" ],
+        "includes" : [ "Jung, C. G. (Carl Gustav), 1875-1961. Works. English$$QJung, C. G. (Carl Gustav), 1875-1961. Works. English" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001468799" ],
+        "lds53" : [ "001468799" ],
+        "lds60" : [ "Includes second ed. of some volumes.", "American ed. published: New York : Pantheon Books for the Bollingen Foundation, 1953-1979." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990014687990107871" ],
+        "recordid" : [ "alma990014687990107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001468799-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jung" ],
+        "aufirst" : [ "C. G." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Jung, C. G. (Carl Gustav)" ],
+        "addau" : [ "Read, Herbert Edward", "Fordham, Michael", "Adler, Gerhard" ],
+        "creatorfull" : [ "$$NJung, C. G. (Carl Gustav)$$LJung$$FC. G.$$Rauthor" ],
+        "contributorfull" : [ "$$NRead, Herbert Edward$$LRead$$FHerbert Edward$$Rcontributor", "$$NFordham, Michael$$Rcontributor", "$$NAdler, Gerhard$$Rcontributor" ],
+        "date" : [ "1953 - 1983", "1953-1983" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Routledge & Paul Kegan" ],
+        "oclcid" : [ "(ocolc)476495979" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The collected works of C.G. Jung" ]
+      },
+      "sort" : {
+        "title" : [ "collected works of C.G. Jung /" ],
+        "author" : [ "Jung, C. G. (Carl Gustav), 1875-1961." ],
+        "creationdate" : [ "1953" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990014687990107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:476495979,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "150.19 54",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "59",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "56",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "368",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 393,
+    "COMBINED_SEARCH_TIME" : 396,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1953",
+      "count" : "1"
+    }, {
+      "value" : "1983",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Psychoanalysis",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Adler Gerhard",
+      "count" : "1"
+    }, {
+      "value" : "Fordham Michael",
+      "count" : "1"
+    }, {
+      "value" : "Jung C G",
+      "count" : "1"
+    }, {
+      "value" : "Read Herbert Edward",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

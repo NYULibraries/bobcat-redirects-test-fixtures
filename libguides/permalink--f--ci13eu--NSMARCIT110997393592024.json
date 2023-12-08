@@ -1,0 +1,313 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995617538707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Gay & lesbian review worldwide." ],
+        "subject" : [ "Gays' writings$$QGays' writings -- Book reviews Periodicals", "Gays$$QGays -- Periodicals", "Lesbians$$QLesbians -- Periodicals", "Homosexuality and literature$$QHomosexuality and literature -- Periodicals", "Lesbians' writings$$QLesbians' writings -- Book reviews Periodicals", "Gay authors$$QGay authors -- Interviews Periodicals", "Lesbian authors$$QLesbian authors -- Interviews Periodicals", "Homosexuality -- Social aspects -- United States$$QHomosexuality -- Social aspects -- United States -- Periodicals", "Gay culture -- United States$$QGay culture -- United States -- Periodicals", "Lesbian culture -- United States$$QLesbian culture -- United States -- Periodicals", "Gay liberation movement -- United States$$QGay liberation movement -- United States -- Periodicals", "Lesbian culture", "Lesbian authors", "Homosexuality -- Social aspects", "Gay liberation movement", "Gay culture", "Gay authors", "Gays", "Gays' writings", "Homosexuality and literature", "Lesbians", "Lesbians' writings", "United States" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2020247502;$$COCLC$$V(OCoLC)60639600;$$CISSN$$V1532-1118" ],
+        "creationdate" : [ "2000-" ],
+        "publisher" : [ "Boston : Gay & Lesbian Review, Inc.", "Began with: Vol. 7 (1) (Jan 31, 2000)." ],
+        "mms" : [ "9995617538707871" ],
+        "contributor" : [ "Schneider, Richard, Jr.$$QSchneider, Richard" ],
+        "addtitle" : [ "Gay and lesbian review worldwide", "Gay & lesbian review", "Gay and lesbian review", "G & LR" ],
+        "frequency" : [ "Bimonthly, Jan./Feb. 2001-" ],
+        "genre" : [ "Book reviews", "Periodicals", "Interviews" ],
+        "relation" : [ "$$Cearlier_title$$VHarvard Gay & Lesbian Review$$QHarvard Gay & Lesbian Review$$Z9995616101807871", "$$Cform$$VLink to related record$$Z990017263670107871" ],
+        "place" : [ "Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110997393592024" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Editor-in-chief and founder: Richard Schneider, Jr." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995617538707871" ],
+        "recordid" : [ "alma9995617538707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110997393592024" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Schneider" ],
+        "aufirst" : [ "Richard" ],
+        "auinit" : [ "R" ],
+        "addau" : [ "Schneider, Richard" ],
+        "contributorfull" : [ "$$NSchneider, Richard$$LSchneider$$FRichard$$Rcontributor" ],
+        "stitle" : [ "GAY AND LESBIAN REVIEW", "GAY AND LESBIAN REVIEW WORLDWIDE", "THE GAY AND LESBIAN REVIEW WORLDWIDE", "GAY & LESBIAN REVIEW WORLDWIDE" ],
+        "addtitle" : [ "Gay and lesbian review worldwide", "Gay & lesbian review", "Gay and lesbian review", "G & LR" ],
+        "date" : [ "2000", "2000-" ],
+        "issn" : [ "1532-1118" ],
+        "cop" : [ "Boston" ],
+        "pub" : [ "Gay & Lesbian Review, Inc." ],
+        "oclcid" : [ "(ocolc)60639600" ],
+        "lccn" : [ "2020247502" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The Gay & lesbian review worldwide." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Gay & lesbian review worldwide." ],
+        "author" : [ "Schneider, Richard, Jr." ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617538707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2020247502&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hq!75ǂ g2",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "287",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "316",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "87",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "290",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "46",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "748",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 783,
+    "COMBINED_SEARCH_TIME" : 787,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Gay Authors",
+      "count" : "1"
+    }, {
+      "value" : "Gay Authors Interviews Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gay Culture",
+      "count" : "1"
+    }, {
+      "value" : "Gay Culture United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gay Liberation Movement",
+      "count" : "1"
+    }, {
+      "value" : "Gay Liberation Movement United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gays",
+      "count" : "1"
+    }, {
+      "value" : "Gays Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gays Writings",
+      "count" : "1"
+    }, {
+      "value" : "Gays Writings Book Reviews Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality And Literature",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality And Literature Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality Social Aspects United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Lesbian Authors",
+      "count" : "1"
+    }, {
+      "value" : "Lesbian Authors Interviews Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Lesbian Culture",
+      "count" : "1"
+    }, {
+      "value" : "Lesbian Culture United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Lesbians",
+      "count" : "1"
+    }, {
+      "value" : "Lesbians Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Schneider Richard",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

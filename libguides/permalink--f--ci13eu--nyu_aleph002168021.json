@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021680210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "ger" ],
+        "title" : [ "Altfranzösisches Wörterbuch : Adolf Toblers nachgelassene Materialien " ],
+        "subject" : [ "French language -- To 1300$$QFrench language -- To 1300 -- Dictionaries" ],
+        "format" : [ "v. : port. ; 27 cm." ],
+        "identifier" : [ "$$CLC$$V20006034 //rev" ],
+        "creationdate" : [ "1925-" ],
+        "creator" : [ "Tobler, Adolf, 1835-1910.$$QTobler, Adolf" ],
+        "publisher" : [ "Berlin : Weidmann" ],
+        "mms" : [ "990021680210107871" ],
+        "contributor" : [ "Lommatzsch, Erhard, 1886-$$QLommatzsch, Erhard", "Deutsche Akademie der Wissenschaften zu Berlin.$$QDeutsche Akademie der Wissenschaften zu Berlin.", "Akademie der Wissenschaften und der Literatur (Germany)$$QAkademie der Wissenschaften und der Literatur (Germany)" ],
+        "genre" : [ "Dictionaries" ],
+        "place" : [ "Berlin :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002168021" ],
+        "lds53" : [ "002168021" ],
+        "lds60" : [ "At head of title: Tobler-Lommatzsch.", "Beginning with vol. 3, issuing body: Akademie der Wissenschaft und der Literatur (Mainz); and vols. have imprint: Wiesbaden, F. Steiner.", "Issued in parts, 1915-", "Vol.7:Columns 1200-1344 numbered as 2000-2144." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021680210107871" ],
+        "recordid" : [ "alma990021680210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002168021-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Tobler" ],
+        "aufirst" : [ "Adolf" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Tobler, Adolf" ],
+        "addau" : [ "Lommatzsch, Erhard" ],
+        "creatorfull" : [ "$$NTobler, Adolf$$LTobler$$FAdolf$$Rauthor" ],
+        "contributorfull" : [ "$$NLommatzsch, Erhard$$LLommatzsch$$FErhard$$Rcontributor" ],
+        "date" : [ "1925", "1925-" ],
+        "notes" : [ "Includes bibliographies." ],
+        "cop" : [ "Berlin" ],
+        "pub" : [ "Weidmann" ],
+        "oclcid" : [ "nyub11196538", "(cstrlin)nyug89-b1857" ],
+        "lccn" : [ "20006034 //rev" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Altfranzösisches Wörterbuch : Adolf Toblers nachgelassene Materialien" ]
+      },
+      "sort" : {
+        "title" : [ "Altfranzösisches Wörterbuch : Adolf Toblers nachgelassene Materialien /" ],
+        "author" : [ "Tobler, Adolf, 1835-1910." ],
+        "creationdate" : [ "1925" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021680210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:20006034&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pc#2893ǂ t6",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "51",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "258",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 289,
+    "COMBINED_SEARCH_TIME" : 293,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "ger",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1925",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "French Language To 1300 Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Akademie Der Wissenschaften Und Der Literatur Germany",
+      "count" : "1"
+    }, {
+      "value" : "Deutsche Akademie Der Wissenschaften Zu Berlin",
+      "count" : "1"
+    }, {
+      "value" : "Lommatzsch Erhard",
+      "count" : "1"
+    }, {
+      "value" : "Tobler Adolf",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

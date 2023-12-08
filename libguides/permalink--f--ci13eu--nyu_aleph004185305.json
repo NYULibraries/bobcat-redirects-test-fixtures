@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041853050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng;fre;spa" ],
+        "title" : [ "Hocus pocus " ],
+        "subject" : [ "Witches -- Massachusetts -- Salem$$QWitches -- Massachusetts -- Salem -- Fiction", "Halloween$$QHalloween -- Fiction", "Blu-ray discs", "Comedy films", "DVD-Video discs", "Films for the hearing impaired", "Halloween", "Witches", "Massachusetts -- Salem" ],
+        "format" : [ "1 videodisc (Blu-ray) (96 minutes) : sound, color ; 12 cm.+ 1 videodisc (dvd) (12 cm.)", "laser optical", "video file Blu-ray", "video file DVD video" ],
+        "identifier" : [ "$$CPUBNUM$$V109973;$$COCLC$$V(OCoLC)883421834" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "Burbank, Calif : Walt Disney Home Video" ],
+        "description" : [ "After 300 years, three sister witches are resurrected in Salem Massachusetts on Halloween night, and it us up to two teenagers, a young girl, and an immortal cat to put an end to the witches reign of terror once and for all." ],
+        "mms" : [ "990041853050107871" ],
+        "contributor" : [ "Ortega, Kenny, director.$$QOrtega, Kenny", "Midler, Bette, actor.$$QMidler, Bette", "Kirschner, David, 1955- producer.$$QKirschner, David", "Parker, Sarah Jessica, actor.$$QParker, Sarah Jessica", "Najimy, Kathy, actor.$$QNajimy, Kathy", "Katz, Omri, 1976- actor.$$QKatz, Omri", "Walt Disney Pictures.$$QWalt Disney Pictures." ],
+        "genre" : [ "Fiction" ],
+        "place" : [ "Burbank, Calif :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004185305" ],
+        "lds53" : [ "004185305" ],
+        "lds64" : [ "Producer, David Kirschner, Steven Haft ; story, David Kirschner, Mick Garris ; screenplay, Mick Garris, Neil Cuthbert ; director, Kenny Ortega ; music, John Debney." ],
+        "lds65" : [ "Bette Midler, Sarah Jessica Parker, Kathy Najimy, Omri Katz, Thora Birch, Vinessa Shaw, Larry Bagby." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041853050107871" ],
+        "recordid" : [ "alma990041853050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004185305-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ortega", "Midler", "Kirschner", "Parker", "Najimy", "Katz" ],
+        "aufirst" : [ "Kenny", "Bette", "David", "Sarah Jessica", "Kathy", "Omri" ],
+        "auinit" : [ "B", "D", "S", "K", "O" ],
+        "addau" : [ "Ortega, Kenny", "Midler, Bette", "Kirschner, David", "Parker, Sarah Jessica", "Najimy, Kathy", "Katz, Omri" ],
+        "contributorfull" : [ "$$NOrtega, Kenny$$LOrtega$$FKenny$$Rdirector", "$$NMidler, Bette$$Rcontributor", "$$NKirschner, David$$Rcontributor", "$$NParker, Sarah Jessica$$Rcontributor", "$$NNajimy, Kathy$$Rcontributor", "$$NKatz, Omri$$Rcontributor" ],
+        "date" : [ "2012" ],
+        "abstract" : [ "After 300 years, three sister witches are resurrected in Salem Massachusetts on Halloween night, and it us up to two teenagers, a young girl, and an immortal cat to put an end to the witches reign of terror once and for all." ],
+        "cop" : [ "Burbank, Calif" ],
+        "pub" : [ "Walt Disney Home Video" ],
+        "oclcid" : [ "(ocolc)883421834" ],
+        "upcid" : [ "786936826753" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Hocus pocus" ]
+      },
+      "sort" : {
+        "title" : [ "Hocus pocus /" ],
+        "author" : [ "Ortega, Kenny, director." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041853050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:883421834,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997ǂ h63 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "345",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 371,
+    "COMBINED_SEARCH_TIME" : 373,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Blu Ray Discs",
+      "count" : "1"
+    }, {
+      "value" : "Comedy Films",
+      "count" : "1"
+    }, {
+      "value" : "Dvd Video Discs",
+      "count" : "1"
+    }, {
+      "value" : "Films For The Hearing Impaired",
+      "count" : "1"
+    }, {
+      "value" : "Halloween",
+      "count" : "1"
+    }, {
+      "value" : "Halloween Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Massachusetts Salem",
+      "count" : "1"
+    }, {
+      "value" : "Witches",
+      "count" : "1"
+    }, {
+      "value" : "Witches Massachusetts Salem Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Katz Omri",
+      "count" : "1"
+    }, {
+      "value" : "Kirschner David",
+      "count" : "1"
+    }, {
+      "value" : "Midler Bette",
+      "count" : "1"
+    }, {
+      "value" : "Najimy Kathy",
+      "count" : "1"
+    }, {
+      "value" : "Ortega Kenny",
+      "count" : "1"
+    }, {
+      "value" : "Parker Sarah Jessica",
+      "count" : "1"
+    }, {
+      "value" : "Walt Disney Pictures",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

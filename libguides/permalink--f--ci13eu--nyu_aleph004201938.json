@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042019380107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The annotated Poe " ],
+        "subject" : [ "Detective and mystery stories, American", "Fantasy poetry, American", "Horror tales, American" ],
+        "format" : [ "xxii, 410 pages : illustrations (chiefly color) ; 25 cm" ],
+        "identifier" : [ "$$CLC$$V2015019303;$$CISBN$$V9780674055292;$$CISBN$$V0674055292;$$COCLC$$V(OCoLC)907204412" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Poe, Edgar Allan, 1809-1849, author.$$QPoe, Edgar Allan" ],
+        "publisher" : [ "Cambridge, Massachusetts : The Belknap Press of Harvard University Press" ],
+        "mms" : [ "990042019380107871" ],
+        "contributor" : [ "Hayes, Kevin J., editor.$$QHayes, Kevin J." ],
+        "genre" : [ "Horror fiction", "Fantasy poetry", "Detective and mystery fiction" ],
+        "unititle" : [ "Works. Selections. 2015" ],
+        "includes" : [ "Poe, Edgar Allan, 1809-1849, Works. 2015 Selections.$$QPoe, Edgar Allan, 1809-1849, Works. Selections." ],
+        "place" : [ "Cambridge, Massachusetts :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004201938" ],
+        "lds53" : [ "004201938" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042019380107871" ],
+        "recordid" : [ "alma990042019380107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004201938-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Poe" ],
+        "aufirst" : [ "Edgar Allan" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Poe, Edgar Allan" ],
+        "addau" : [ "Hayes, Kevin J." ],
+        "creatorfull" : [ "$$NPoe, Edgar Allan$$LPoe$$FEdgar Allan$$Rauthor" ],
+        "contributorfull" : [ "$$NHayes, Kevin J.$$LHayes$$FKevin J.$$Reditor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9780674055292", "0674055292" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Cambridge, Massachusetts" ],
+        "pub" : [ "The Belknap Press of Harvard University Press" ],
+        "oclcid" : [ "(ocolc)907204412" ],
+        "lccn" : [ "2015019303" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The annotated Poe" ]
+      },
+      "sort" : {
+        "title" : [ "annotated Poe /" ],
+        "author" : [ "Poe, Edgar Allan, 1809-1849, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990042019380107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0674055292,OCLC:,LCCN:2015019303&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps#2603ǂ2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "113",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "24",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "41",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "67",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "336",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 363,
+    "COMBINED_SEARCH_TIME" : 366,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Detective And Mystery Stories American",
+      "count" : "1"
+    }, {
+      "value" : "Fantasy Poetry American",
+      "count" : "1"
+    }, {
+      "value" : "Horror Tales American",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hayes Kevin J",
+      "count" : "1"
+    }, {
+      "value" : "Poe Edgar Allan",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

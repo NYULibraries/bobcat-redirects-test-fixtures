@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046969420107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Routledge handbook of semantics " ],
+        "subject" : [ "Semantics$$QSemantics -- Handbooks, manuals, etc", "Semantics, Historical$$QSemantics, Historical -- Handbooks, manuals, etc", "Sémantique$$QSémantique -- Guides, manuels, etc", "Sémantique historique$$QSémantique historique -- Guides, manuels, etc", "LANGUAGE ARTS & DISCIPLINES -- General", "Lexicology", "Semantics", "Semantics, Historical" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781317412458;$$CISBN$$V1317412451;$$COCLC$$V(OCoLC)915343861;$$CISBN$$V9780415661737" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Milton Park, Abingdon, Oxon ; New York, NY : Routledge" ],
+        "description" : [ "The Routledge Handbook of Semantics provides a broad and state-of-the-art survey of this field, covering semantic research at both word and sentence level. It presents a synoptic view of the most important areas of semantic investigation, including contemporary methodologies and debates, and indicating possible future directions in the field. Written by experts from around the world, the 29 chapters cover key issues and approaches within the following areas:meaning and conceptualisation; meaning and context; lexical semantics; semantics of specific phenomena; development, change and variation." ],
+        "mms" : [ "990046969420107871" ],
+        "contributor" : [ "Riemer, Nick, 1972- editor.$$QRiemer, Nick" ],
+        "series" : [ "Routledge handbooks in linguistics$$QRoutledge handbooks in linguistics", "Routledge handbooks in linguistics.$$QRoutledge handbooks in linguistics." ],
+        "contents" : [ "The Routledge Handbook of Semantics-Front Cover; The Routledge Handbook of Semantics; Title Page; Copyright; Dedication; Contents; Figures; Tables; Contributors; Acknowledgements; Introduction: Semantics -- a theory in search of an object; References; Part I: Foundational issues; Chapter 1: (Descriptive) Externalism in semantics; 1 Introduction; 2 Varieties of externalism and internalism; 3 Against externalism; 4 For externalism; 5 Concluding remark; Acknowledgments; Further reading; References; Related topics; Chapter 2: Internalist semantics: Meaning, conceptualization and expression.", "1 Introduction2 Features of concepts; 3 Critiques of internalist semantics; 4 Future directions; Further reading; References; Related topics; Chapter 3: A history of semantics; 1 Naming; 2 Realism vs. nominalism; 3 The earliest forays into lexical semantics; 4 Componential analysis; 5 Prototype and stereotype semantics; 6 Frame semantics; 7 Semantics within syntactic structures; 8 Alternatives to Katzian semantics; 9 Conceptual semantics; 10 The importance of truth conditions; 11 The development of formal semantics; 12 Dynamic semantics; 13 Conclusion; Further reading; References.", "Related topicsPart II: Approaches; Chapter 4: Foundations of formal semantics; 1 Introduction; 2 Formal semantics; 3 Rules, binding and quantification; 4 Structure of models; 5 The relation of semantics to context; 6 Conclusion; Further reading; References; Related topics; Chapter 5: Cognitive semantics; 1 Introduction; 2 Critical issues and topics; 3 Conclusions; Further reading; References; Related topics; Chapter 6: Corpus semantics; 1 Data, definitions and initial examples; 2 Historical perspectives; 3 Current contributions and research; 4 Future directions; 5 Conclusions; Further reading.", "3 Beyond thinking for speaking: Whorfian psychophysics4 When are the effects of language on thought \"important\"?; 5 Varieties of linguistic relativity effects; Acknowledgements; Further reading; References; Related topics; Part IV: Meaning and context; Chapter 10: Semantics and pragmatics; 1 Introduction; 2 Grice's conversational implicature; 3 Detaching sentence meaning from truth-conditions; 4 The growth of contextualism; 5 Restricting context; 6 Dynamic semantics; 7 Cognitive semantics; 8 Conclusion; Further reading; References; Related topics; Chapter 11: Contextual adjustment of meaning." ],
+        "genre" : [ "Handbooks, manuals, etc", "Guides, manuels, etc", "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Riemer, Nick. Routledge Handbook of Semantics. Hoboken : Taylor and Francis, ©2015$$QRoutledge Handbook of Semantics." ],
+        "place" : [ "Milton Park, Abingdon, Oxon ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004696942" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046969420107871" ],
+        "recordid" : [ "alma990046969420107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004696942-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Riemer" ],
+        "aufirst" : [ "Nick" ],
+        "auinit" : [ "N" ],
+        "addau" : [ "Riemer, Nick" ],
+        "contributorfull" : [ "$$NRiemer, Nick$$LRiemer$$FNick$$Reditor" ],
+        "date" : [ "2015 - 2016", "2015" ],
+        "isbn" : [ "9781317412458", "1317412451", "9780415661737" ],
+        "notes" : [ "ReferencesRelated topics; Part III: Meaning and conceptualization; Chapter 7: Categories, prototypes and exemplars; 1 Introduction; 2 Word meaning and semantic categories; 3 Future directions; 4 Conclusions; Further reading; References; Related topics; Chapter 8: Embodiment, simulation and meaning; 1 Introduction; 2 Current research on simulation; 3 Toward a simulation semantics; 4 Current and future directions; Further reading; References; Related topics; Chapter 9: Linguistic relativity; 1 Introduction; 2 Are Whorfian effects limited to effects of \"thinking for speaking\"?" ],
+        "abstract" : [ "The Routledge Handbook of Semantics provides a broad and state-of-the-art survey of this field, covering semantic research at both word and sentence level. It presents a synoptic view of the most important areas of semantic investigation, including contemporary methodologies and debates, and indicating possible future directions in the field. Written by experts from around the world, the 29 chapters cover key issues and approaches within the following areas:meaning and conceptualisation; meaning and context; lexical semantics; semantics of specific phenomena; development, change and variation." ],
+        "cop" : [ "Milton Park, Abingdon, Oxon ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)915343861" ],
+        "seriestitle" : [ "Routledge handbooks in linguistics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Routledge handbook of semantics" ]
+      },
+      "sort" : {
+        "title" : [ "Routledge handbook of semantics /" ],
+        "author" : [ "Riemer, Nick, 1972- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046969420107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046969420107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046969420107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1317412451,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "p\"325",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "158",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "128",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "433",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 472,
+    "COMBINED_SEARCH_TIME" : 474,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    }, {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Language Arts Disciplines General",
+      "count" : "1"
+    }, {
+      "value" : "Lexicology",
+      "count" : "1"
+    }, {
+      "value" : "Semantics",
+      "count" : "1"
+    }, {
+      "value" : "Semantics Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Semantics Historical",
+      "count" : "1"
+    }, {
+      "value" : "Semantics Historical Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Sémantique Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "Sémantique Historique Guides Manuels Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Riemer Nick",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

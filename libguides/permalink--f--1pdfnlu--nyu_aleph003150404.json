@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990031504040107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The almanac of New York City " ],
+        "subject" : [ "New York (N.Y.)$$QNew York (N.Y.) -- Miscellanea", "New York (N.Y.)$$QNew York (N.Y.) -- Statistics", "Almanacs, American -- New York (State) -- New York" ],
+        "format" : [ "xviii, 503 p. : ill. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2008022015;$$CISBN$$V9780231140621 (alk. paper);$$CISBN$$V0231140622 (alk. paper);$$CISBN$$V9780231140638 (pbk. : alk. paper);$$CISBN$$V0231140630 (pbk. : alk. paper);$$COCLC$$V(OCoLC)226360207" ],
+        "creationdate" : [ "c2008" ],
+        "publisher" : [ "New York : Columbia University Press" ],
+        "mms" : [ "990031504040107871" ],
+        "contributor" : [ "Jackson, Kenneth T.$$QJackson, Kenneth T.", "Kameny, Fred.$$QKameny, Fred." ],
+        "contents" : [ "Population -- Public health and safety -- Housing and real estate -- Crime and justice -- Business, economy, and labor -- Arts and Letters -- Sports -- Government and politics -- Transportation -- Education -- Environment, flora and fauna -- Religion -- Social services -- Memorials and monuments." ],
+        "genre" : [ "Miscellanea", "Statistics" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003150404" ],
+        "lds53" : [ "003150404" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990031504040107871" ],
+        "recordid" : [ "alma990031504040107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003150404-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jackson", "Kameny" ],
+        "aufirst" : [ "Kenneth T.", "Fred." ],
+        "auinit" : [ "K", "F" ],
+        "addau" : [ "Jackson, Kenneth T.", "Kameny, Fred." ],
+        "contributorfull" : [ "$$NJackson, Kenneth T.$$LJackson$$FKenneth T.$$Rcontributor", "$$NKameny, Fred.$$Rcontributor" ],
+        "date" : [ "2008", "c2008" ],
+        "isbn" : [ "9780231140621", "0231140622", "9780231140638", "0231140630" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Columbia University Press" ],
+        "oclcid" : [ "(ocolc)226360207" ],
+        "lccn" : [ "2008022015" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The almanac of New York City" ]
+      },
+      "sort" : {
+        "title" : [ "almanac of New York City /" ],
+        "author" : [ "Jackson, Kenneth T." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990031504040107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990031504040107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231140622,OCLC:,LCCN:2008022015&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f\"128.3ǂ a455 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "150",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "89",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "71",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "85",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "54",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "421",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 445,
+    "COMBINED_SEARCH_TIME" : 448,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Almanacs American New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y Miscellanea",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y Statistics",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jackson Kenneth T",
+      "count" : "1"
+    }, {
+      "value" : "Kameny Fred",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

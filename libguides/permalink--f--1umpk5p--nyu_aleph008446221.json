@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084462210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The myth of private equity : an inside look at Wall Street's transformative investments " ],
+        "subject" : [ "Private equity -- United States", "Finance -- United States", "Capital-investissement -- États-Unis", "BUSINESS & ECONOMICS / Investments & Securities / General", "Finance", "Private equity", "United States" ],
+        "format" : [ "1 online resource (227 pages) : illustrations." ],
+        "identifier" : [ "$$CLC$$V2021004498;$$CISBN$$V9780231552820;$$CISBN$$V0231552823;$$COCLC$$V(OCoLC)1238131250;$$CISBN$$V9780231198820" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Hooke, Jeffrey C., author.$$QHooke, Jeffrey C." ],
+        "publisher" : [ "New York : Columbia University Press" ],
+        "description" : [ "\"Private equity was once a niche investment play that has grown into a massive behemoth affecting both American commerce and the financial markets. This book will explore the negatives of private equity, aspects of the business that remain opaque. The author posits that private equity profits from this opacity. Private equity managers claim they can beat the market (which isn't always borne out). When faced with such evidence, the managers say their product offers 'low correlation' to the stock market and, thus, provides a diversification opportunity from publicly traded equities, neither of which is true. The business media, for the most part, ignores these salient facts and portrays prominent fund managers as \"geniuses\" even when the big-name funds, like Blackstone, KKR and Carlyle, perform no better than the small no-name funds. State legislators pass laws hiding high private equity fees on their pension plans, and other customers of private equity continue buying it, since the practical expedient of investing in more lucrative, low-cost index funds obviates the need for their own jobs. For financial professionals hedge funds were once the place to be, now it's private equity. Private equity is undeniably successful and incredibly profitable for those who manage it. But it is important that the industry be held to account where its shortcomings may lie\"-- Provided by publisher." ],
+        "mms" : [ "990084462210107871" ],
+        "series" : [ "Columbia Business School publishing$$QColumbia Business School publishing", "Columbia Business School publishing.$$QColumbia Business School publishing." ],
+        "contents" : [ "A Day in the Life -- The Private Equity Industry -- How does the Private Equity Industry Work? -- The Poor Investment Results -- Private Equity and the Holy Grail -- The High Fees -- The Customers -- The Staffs -- The Enablers -- The Fellow Travelers -- In Closing." ],
+        "relation" : [ "$$Cform$$VPrint version: Hooke, Jeffrey C.. The myth of private equity New York : Columbia University Press, [2021]$$QThe myth of private equity$$Z990084271640107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebceb", "ebscoac", "aleph008446221" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084462210107871" ],
+        "recordid" : [ "alma990084462210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008446221-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hooke" ],
+        "aufirst" : [ "Jeffrey C." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Hooke, Jeffrey C." ],
+        "creatorfull" : [ "$$NHooke, Jeffrey C.$$LHooke$$FJeffrey C.$$Rauthor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9780231552820", "0231552823", "9780231198820" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Private equity was once a niche investment play that has grown into a massive behemoth affecting both American commerce and the financial markets. This book will explore the negatives of private equity, aspects of the business that remain opaque. The author posits that private equity profits from this opacity. Private equity managers claim they can beat the market (which isn't always borne out). When faced with such evidence, the managers say their product offers 'low correlation' to the stock market and, thus, provides a diversification opportunity from publicly traded equities, neither of which is true. The business media, for the most part, ignores these salient facts and portrays prominent fund managers as \"geniuses\" even when the big-name funds, like Blackstone, KKR and Carlyle, perform no better than the small no-name funds. State legislators pass laws hiding high private equity fees on their pension plans, and other customers of private equity continue buying it, since the practical expedient of investing in more lucrative, low-cost index funds obviates the need for their own jobs. For financial professionals hedge funds were once the place to be, now it's private equity. Private equity is undeniably successful and incredibly profitable for those who manage it. But it is important that the industry be held to account where its shortcomings may lie\"-- Provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Columbia University Press" ],
+        "oclcid" : [ "(ocolc)1238131250" ],
+        "lccn" : [ "2021004498" ],
+        "seriestitle" : [ "Columbia Business School publishing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The myth of private equity : an inside look at Wall Street's transformative investments" ]
+      },
+      "sort" : {
+        "title" : [ "myth of private equity : an inside look at Wall Street's transformative investments /" ],
+        "author" : [ "Hooke, Jeffrey C., author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084462210107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084462210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231552823,OCLC:,LCCN:2021004498&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg#4751ǂ h66 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "181",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "56",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "52",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "366",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 399,
+    "COMBINED_SEARCH_TIME" : 401,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Investments Securities General",
+      "count" : "1"
+    }, {
+      "value" : "Capital Investissement États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Finance",
+      "count" : "1"
+    }, {
+      "value" : "Finance United States",
+      "count" : "1"
+    }, {
+      "value" : "Private Equity",
+      "count" : "1"
+    }, {
+      "value" : "Private Equity United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hooke Jeffrey C",
+      "count" : "1"
+    } ]
+  } ]
+}

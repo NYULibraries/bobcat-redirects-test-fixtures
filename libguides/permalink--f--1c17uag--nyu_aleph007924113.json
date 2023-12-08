@@ -1,0 +1,268 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990079241130107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Mexican gothic " ],
+        "subject" : [ "Haunted houses -- Mexico$$QHaunted houses -- Mexico -- Fiction", "Families$$QFamilies -- Fiction", "Family secrets$$QFamily secrets -- Fiction", "Fiction / Gothic", "Fiction / Horror", "Families", "Family secrets", "Haunted houses", "Mexico", "Ghosts$$QGhosts -- Fiction", "Research$$QResearch -- Fiction", "Debutantes$$QDebutantes -- Fiction", "Cousins$$QCousins -- Fiction", "Country homes$$QCountry homes -- Fiction" ],
+        "format" : [ "301 pages ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2019048648;$$CISBN$$V0525620788;$$CISBN$$V9780525620785;$$COCLC$$V(OCoLC)1121602979;$$CISBN$$V9780525620792" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Moreno-Garcia, Silvia, author.$$QMoreno-Garcia, Silvia" ],
+        "publisher" : [ "New York : Del Rey" ],
+        "description" : [ "After receiving a frantic letter from her newly-wed cousin begging for someone to save her from a mysterious doom, Noemi Taboada heads to High Place, a distant house in the Mexican countryside. She's not sure what she will find--her cousin's husband, a handsome Englishman, is a stranger, and Noemi knows little about the region. Noemi is also an unlikely rescuer: She's a glamorous debutante, and her chic gowns and perfect red lipstick are more suited for cocktail parties than amateur sleuthing. But she's also tough and smart, with an indomitable will, and she is not afraid: Not of her cousin's new husband, who is both menacing and alluring; not of his father, the ancient patriarch who seems to be fascinated by Noemi; and not even of the house itself, which begins to invade Noemi's dreams with visions of blood and doom. Her only ally in this inhospitable abode is the family's youngest son. Shy and gentle, he seems to want to help Noemi, but might also be hiding dark knowledge of his family's past. For there are many secrets behind the walls of High Place. The family's once colossal wealth and faded mining empire kept them from prying eyes, but as Noemi digs deeper she unearths stories of violence and madness." ],
+        "mms" : [ "990079241130107871" ],
+        "genre" : [ "Fiction", "Gothic fiction", "Horror fiction", "Fantasy fiction" ],
+        "relation" : [ "$$Cform$$VOnline version: Moreno-Garcia, Silvia, Mexican Gothic First edition. New York : Del Rey, [2020]$$QMexican Gothic$$Z9995806729207871" ],
+        "mesh" : [ "Ghosts" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007924113" ],
+        "lds53" : [ "007924113" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990079241130107871" ],
+        "recordid" : [ "alma990079241130107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007924113-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Moreno-Garcia" ],
+        "aufirst" : [ "Silvia" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Moreno-Garcia, Silvia" ],
+        "creatorfull" : [ "$$NMoreno-Garcia, Silvia$$LMoreno-Garcia$$FSilvia$$Rauthor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "0525620788", "9780525620785", "9780525620792" ],
+        "abstract" : [ "After receiving a frantic letter from her newly-wed cousin begging for someone to save her from a mysterious doom, Noemi Taboada heads to High Place, a distant house in the Mexican countryside. She's not sure what she will find--her cousin's husband, a handsome Englishman, is a stranger, and Noemi knows little about the region. Noemi is also an unlikely rescuer: She's a glamorous debutante, and her chic gowns and perfect red lipstick are more suited for cocktail parties than amateur sleuthing. But she's also tough and smart, with an indomitable will, and she is not afraid: Not of her cousin's new husband, who is both menacing and alluring; not of his father, the ancient patriarch who seems to be fascinated by Noemi; and not even of the house itself, which begins to invade Noemi's dreams with visions of blood and doom. Her only ally in this inhospitable abode is the family's youngest son. Shy and gentle, he seems to want to help Noemi, but might also be hiding dark knowledge of his family's past. For there are many secrets behind the walls of High Place. The family's once colossal wealth and faded mining empire kept them from prying eyes, but as Noemi digs deeper she unearths stories of violence and madness." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Del Rey" ],
+        "oclcid" : [ "(ocolc)1121602979" ],
+        "lccn" : [ "2019048648" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Mexican gothic" ]
+      },
+      "sort" : {
+        "title" : [ "Mexican gothic /" ],
+        "author" : [ "Moreno-Garcia, Silvia, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990079241130107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990079241130107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780525620785,OCLC:,LCCN:2019048648&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#9199.4 m656174ǂm49 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "318",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "59",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "70",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "54",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "135",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "618",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 645,
+    "COMBINED_SEARCH_TIME" : 649,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Country Homes Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Cousins Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Debutantes Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Families",
+      "count" : "1"
+    }, {
+      "value" : "Families Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Family Secrets",
+      "count" : "1"
+    }, {
+      "value" : "Family Secrets Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Gothic",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Horror",
+      "count" : "1"
+    }, {
+      "value" : "Ghosts Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Haunted Houses",
+      "count" : "1"
+    }, {
+      "value" : "Haunted Houses Mexico Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Mexico",
+      "count" : "1"
+    }, {
+      "value" : "Research Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Moreno Garcia Silvia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

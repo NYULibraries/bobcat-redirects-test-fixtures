@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028172570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dictionary of African historical biography " ],
+        "subject" : [ "Africa, Sub-Saharan$$QAfrica, Sub-Saharan -- Biography", "Africa, Sub-Saharan -- History" ],
+        "format" : [ "xiii, 328 p. : maps ; 25 cm." ],
+        "identifier" : [ "$$CLC$$V86019157;$$CISBN$$V0520051793 (alk. paper);$$COCLC$$V(OCoLC)14069361" ],
+        "creationdate" : [ "c1986" ],
+        "creator" : [ "Lipschutz, Mark R.$$QLipschutz, Mark R." ],
+        "publisher" : [ "Berkeley : University of California Press" ],
+        "mms" : [ "990028172570107871" ],
+        "contributor" : [ "Rasmussen, R. Kent.$$QRasmussen, R. Kent." ],
+        "edition" : [ "2nd ed., expanded and updated." ],
+        "genre" : [ "Biography" ],
+        "place" : [ "Berkeley :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002817257" ],
+        "lds53" : [ "002817257" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028172570107871" ],
+        "recordid" : [ "alma990028172570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002817257-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lipschutz" ],
+        "aufirst" : [ "Mark R." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Lipschutz, Mark R." ],
+        "addau" : [ "Rasmussen, R. Kent." ],
+        "creatorfull" : [ "$$NLipschutz, Mark R.$$LLipschutz$$FMark R.$$Rauthor" ],
+        "contributorfull" : [ "$$NRasmussen, R. Kent.$$LRasmussen$$FR. Kent.$$Rcontributor" ],
+        "date" : [ "1986", "c1986" ],
+        "isbn" : [ "0520051793" ],
+        "notes" : [ "Bibliography: p. 291-316." ],
+        "cop" : [ "Berkeley" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)14069361" ],
+        "lccn" : [ "86019157" ],
+        "edition" : [ "2nd ed., expanded and updated." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dictionary of African historical biography" ]
+      },
+      "sort" : {
+        "title" : [ "Dictionary of African historical biography /" ],
+        "author" : [ "Lipschutz, Mark R." ],
+        "creationdate" : [ "1986" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028172570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0520051793,OCLC:,LCCN:86019157&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dt\"352.6 1986",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "58",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "333",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 367,
+    "COMBINED_SEARCH_TIME" : 370,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1986",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa Sub Saharan Biography",
+      "count" : "1"
+    }, {
+      "value" : "Africa Sub Saharan History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lipschutz Mark R",
+      "count" : "1"
+    }, {
+      "value" : "Rasmussen R Kent",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

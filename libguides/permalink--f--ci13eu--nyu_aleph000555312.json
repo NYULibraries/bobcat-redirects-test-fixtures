@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990005553120107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Conservation treatment methodology " ],
+        "subject" : [ "Museum conservation methods" ],
+        "format" : [ "xxix, 437 p. ; 22 cm." ],
+        "identifier" : [ "$$CISBN$$V9780750682749 (pbk.);$$CISBN$$V0750682744 (pbk.);$$COCLC$$V(OCoLC)ocn166314252" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Appelbaum, Barbara.$$QAppelbaum, Barbara." ],
+        "publisher" : [ "Oxford : Butterworth-Heinemann" ],
+        "mms" : [ "990005553120107871" ],
+        "contents" : [ "Characterizing the object -- The characterization grid -- Quadrant I-The physical examination--Quadrant II-The role of science in object characterization -- Quadrant III-Non material aspects of the object -- Quadrant IV-Lifetime of the cultural object -- Establishing the goal of treatment -- The concept of the ideal state -- Values analysis, the timeline, and the ideal state -- Determining the realistic goal of treatment -- Preservation and the goal of treatment -- Traditional conservation concepts and the methodology -- Choosing a treatment -- Choice of treatment materials -- Choice of treatment methods -- Documentation and treatment -- The purposes of treatment documentation -- Creating treatment documentation -- Treating the object." ],
+        "place" : [ "Oxford :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000555312" ],
+        "lds53" : [ "000555312" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990005553120107871" ],
+        "recordid" : [ "alma990005553120107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000555312-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Appelbaum" ],
+        "aufirst" : [ "Barbara." ],
+        "auinit" : [ "B" ],
+        "au" : [ "Appelbaum, Barbara." ],
+        "creatorfull" : [ "$$NAppelbaum, Barbara.$$LAppelbaum$$FBarbara.$$Rauthor" ],
+        "date" : [ "2007" ],
+        "isbn" : [ "9780750682749", "0750682744" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Butterworth-Heinemann" ],
+        "oclcid" : [ "(ocolc)166314252" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Conservation treatment methodology" ]
+      },
+      "sort" : {
+        "title" : [ "Conservation treatment methodology /" ],
+        "author" : [ "Appelbaum, Barbara." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990005553120107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0750682744,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#8560ǂ a67 2007",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "111",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "48",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "341",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 365,
+    "COMBINED_SEARCH_TIME" : 367,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Museum Conservation Methods",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Appelbaum Barbara",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

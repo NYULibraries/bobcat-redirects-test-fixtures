@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075074880107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Who's driving electric cars : understanding consumer adoption and use of plug-in electric cars " ],
+        "subject" : [ "Automobiles électriques", "Consommateurs -- Comportement", "Consumer behavior", "Electric automobiles" ],
+        "format" : [ "1 online resource (305 pages)" ],
+        "identifier" : [ "$$CISBN$$V3030383822;$$CISBN$$V9783030383824;$$COCLC$$V(OCoLC)1145552924;$$CISBN$$V9783030383817" ],
+        "creationdate" : [ "©2020" ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "This book offers a comprehensive yet accessible snapshot of the latest consumer research on the adoption and use of electric vehicles. It discusses the importance of developing a better understanding of consumer behavior in relation to electric vehicles, and the advantages that can be gained from the growing number of electric vehicle users, who can now be studied directly. In turn, it systematically analyzes the leading markets for electric vehicles in North America, Europe and Asia. Bringing together the experience and expertise of authoritative researchers and practicing professionals, the book shares a wide range of empirical data obtained at the national level and summarizes the general lessons learned. The last part of the book discusses policy-relevant insights, forecasts the future evolution of the field in terms of methods and data availability, and addresses several key questions that policymakers and other stakeholders are currently facing." ],
+        "mms" : [ "990075074880107871" ],
+        "contributor" : [ "Contestabile, Marcello, editor.$$QContestabile, Marcello", "Tal, Gil, editor.$$QTal, Gil", "Turrentine, Thomas, editor.$$QTurrentine, Thomas" ],
+        "series" : [ "Lecture notes in mobility, 2196-5552$$QLecture notes in mobility", "Lecture notes in mobility.$$QLecture notes in mobility." ],
+        "contents" : [ "Introduction -- North America -- Europe -- China -- Conclusions.", "Introduction : understanding the development of the market for electric vehicles / Marcello Contestabile and Thomas Turrentine -- North America -- Electric cars in California : policy and behavior perspectives / Gil Tal, Ken Kurani, Alan Jenn, Debapriya Chakraborty, Scott Hardman and Dahlia Garas -- Conversations between PEV owners and owners of non-PEVs in California tell us about sustaining a transition / Ken Kurani -- Gasoline savings from electric vehicles in the US / Tamara L. Sheldon and Rubai Dua -- The present and future market for PEVs in Canada : evidence from a mixed-method research program / John Axsen and Zoe Long - Europe -- Norway--the world leader in BEV adoption / Erik Figenbaum -- Plug-in (hybrid) electric vehicle adoption in the Netherlands : lessons learned / Rick Wolbertus and Robert van den Hoed -- What can driving patterns reveal about the suitability of PEVs in Sweden? : analysis and policy implications / Frances Sprei -- Beyond consumer innovators : adoption of plug-in vehicles by mainstream consumers in the U.K. / Stephen Skippon and George Beard -- Electric vehicle adoption in Germany : current knowledge and future research / Patrick Plötz and Elisabeth Dütschke - China -- China's booming plug-in electric vehicle market--how will it continue? / Shiqi Ou, Zhenhong Lin, Xin He, Steven Przesmitzki, Zhixin Wu, Jihu Zheng, Renzhi Lv and Liang Qi -- Plug-in electric vehicle market research on consumer in six cities in China / Yan, Xing, Gil Tal and Yunshi Wang - Conclusions -- Lessons learned and future prospects / Marcello Contestabile." ],
+        "relation" : [ "$$Cform$$VPrint version: Contestabile, Marcello. Who's Driving Electric Cars : Understanding Consumer Adoption and Use of Plug-In Electric Cars. Cham : Springer International Publishing AG, ©2020$$QWho's Driving Electric Cars : Understanding Consumer Adoption and Use of Plug-In Electric Cars." ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph007507488" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075074880107871" ],
+        "recordid" : [ "alma990075074880107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007507488-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Contestabile", "Tal", "Turrentine" ],
+        "aufirst" : [ "Marcello", "Gil", "Thomas" ],
+        "auinit" : [ "M", "G", "T" ],
+        "addau" : [ "Contestabile, Marcello", "Tal, Gil", "Turrentine, Thomas" ],
+        "contributorfull" : [ "$$NContestabile, Marcello$$LContestabile$$FMarcello$$Reditor", "$$NTal, Gil$$Reditor", "$$NTurrentine, Thomas$$Reditor" ],
+        "date" : [ "2020", "©2020" ],
+        "isbn" : [ "3030383822", "9783030383824", "9783030383817" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book offers a comprehensive yet accessible snapshot of the latest consumer research on the adoption and use of electric vehicles. It discusses the importance of developing a better understanding of consumer behavior in relation to electric vehicles, and the advantages that can be gained from the growing number of electric vehicle users, who can now be studied directly. In turn, it systematically analyzes the leading markets for electric vehicles in North America, Europe and Asia. Bringing together the experience and expertise of authoritative researchers and practicing professionals, the book shares a wide range of empirical data obtained at the national level and summarizes the general lessons learned. The last part of the book discusses policy-relevant insights, forecasts the future evolution of the field in terms of methods and data availability, and addresses several key questions that policymakers and other stakeholders are currently facing." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1145552924" ],
+        "seriestitle" : [ "Lecture notes in mobility" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Who's driving electric cars : understanding consumer adoption and use of plug-in electric cars" ]
+      },
+      "sort" : {
+        "title" : [ "Who's driving electric cars : understanding consumer adoption and use of plug-in electric cars /" ],
+        "author" : [ "Contestabile, Marcello, editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075074880107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075074880107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9783030383824,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tl\"220ǂ w46 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "74",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "44",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 315,
+    "COMBINED_SEARCH_TIME" : 318,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Automobiles Électriques",
+      "count" : "1"
+    }, {
+      "value" : "Consommateurs Comportement",
+      "count" : "1"
+    }, {
+      "value" : "Consumer Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Electric Automobiles",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Contestabile Marcello",
+      "count" : "1"
+    }, {
+      "value" : "Tal Gil",
+      "count" : "1"
+    }, {
+      "value" : "Turrentine Thomas",
+      "count" : "1"
+    } ]
+  } ]
+}

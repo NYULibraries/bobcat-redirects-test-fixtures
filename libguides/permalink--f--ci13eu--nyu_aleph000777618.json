@@ -1,0 +1,216 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990007776180107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "World education encyclopedia : a survey of educational systems worldwide " ],
+        "subject" : [ "Education$$QEducation -- Encyclopedias" ],
+        "format" : [ "3 v. : ill. ; 30 cm." ],
+        "identifier" : [ "$$CLC$$V2001033159;$$CISBN$$V0787655775 (set : hardcover : alk. paper);$$CISBN$$V0787655783 (v. l);$$CISBN$$V0787655791 (v. 2);$$CISBN$$V0787655805 (v. 3);$$COCLC$$V(OCoLC)46641006" ],
+        "creationdate" : [ "2002" ],
+        "publisher" : [ "Detroit, MI : Gale Group" ],
+        "mms" : [ "990007776180107871" ],
+        "contributor" : [ "Marlow-Ferguson, Rebecca.$$QMarlow-Ferguson, Rebecca.", "Lopez, Chris, 1967-$$QLopez, Chris" ],
+        "edition" : [ "2nd ed." ],
+        "contents" : [ "v. 1. A-H -- v. 2. I-R -- v. 3. S-Z." ],
+        "genre" : [ "Encyclopedias" ],
+        "place" : [ "Detroit, MI :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000777618" ],
+        "lds53" : [ "000777618" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990007776180107871" ],
+        "recordid" : [ "alma990007776180107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000777618-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Marlow-Ferguson", "Lopez" ],
+        "aufirst" : [ "Rebecca.", "Chris" ],
+        "auinit" : [ "R", "C" ],
+        "addau" : [ "Marlow-Ferguson, Rebecca.", "Lopez, Chris" ],
+        "contributorfull" : [ "$$NMarlow-Ferguson, Rebecca.$$LMarlow-Ferguson$$FRebecca.$$Rcontributor", "$$NLopez, Chris$$Rcontributor" ],
+        "date" : [ "2002" ],
+        "isbn" : [ "0787655775", "0787655783", "0787655791", "0787655805" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Detroit, MI" ],
+        "pub" : [ "Gale Group" ],
+        "oclcid" : [ "(ocolc)46641006" ],
+        "lccn" : [ "2001033159" ],
+        "edition" : [ "2nd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "World education encyclopedia : a survey of educational systems worldwide" ]
+      },
+      "sort" : {
+        "title" : [ "World education encyclopedia : a survey of educational systems worldwide /" ],
+        "author" : [ "Marlow-Ferguson, Rebecca." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990007776180107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0787655775,OCLC:,LCCN:2001033159&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb!15ǂ w87 2001",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "38",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "292",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 316,
+    "COMBINED_SEARCH_TIME" : 319,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lopez Chris",
+      "count" : "1"
+    }, {
+      "value" : "Marlow Ferguson Rebecca",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

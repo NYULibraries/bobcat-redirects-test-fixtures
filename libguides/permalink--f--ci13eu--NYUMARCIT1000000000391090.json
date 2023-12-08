@@ -1,0 +1,280 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631927507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Transformative works and cultures." ],
+        "subject" : [ "Reader-response criticism -- 21st century$$QReader-response criticism -- 21st century -- Periodicals", "Authors and readers$$QAuthors and readers -- Periodicals", "Fans (Persons)$$QFans (Persons) -- Periodicals", "Social media$$QSocial media -- Periodicals", "Fan magazines$$QFan magazines -- Periodicals", "Popular culture$$QPopular culture -- Periodicals", "Authors and readers", "Fan magazines", "Fans (Persons)", "Popular culture", "Reader-response criticism", "Social media", "2000-2099", "Literature - General" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2008214351;$$COCLC$$V(OCoLC)191728328;$$CISSN$$V1941-2258" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Silver Spring, MD : Organization for Transformative Works", "Began with vol. 1 (2008)." ],
+        "mms" : [ "9995631927507871" ],
+        "contributor" : [ "Organization for Transformative Works.$$QOrganization for Transformative Works." ],
+        "frequency" : [ "Semiannual" ],
+        "genre" : [ "Periodicals" ],
+        "place" : [ "Silver Spring, MD] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000391090" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631927507871" ],
+        "recordid" : [ "alma9995631927507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000391090" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2008" ],
+        "issn" : [ "1941-2258" ],
+        "cop" : [ "Silver Spring, MD" ],
+        "pub" : [ "Organization for Transformative Works" ],
+        "oclcid" : [ "(ocolc)191728328" ],
+        "lccn" : [ "2008214351" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Transformative works and cultures." ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Transformative works and cultures." ],
+        "author" : [ "Organization for Transformative Works." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631927507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631927507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631927507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631927507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631927507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008214351&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn!98 r38",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "97",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "146",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "73",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "85",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "61",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "405",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 0,
+    "COMBINED_SEARCH_TIME" : 2,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2000 2099",
+      "count" : "1"
+    }, {
+      "value" : "Authors And Readers",
+      "count" : "1"
+    }, {
+      "value" : "Authors And Readers Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Fan Magazines",
+      "count" : "1"
+    }, {
+      "value" : "Fan Magazines Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Fans Persons",
+      "count" : "1"
+    }, {
+      "value" : "Fans Persons Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Literature General",
+      "count" : "1"
+    }, {
+      "value" : "Popular Culture",
+      "count" : "1"
+    }, {
+      "value" : "Popular Culture Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Reader Response Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Reader Response Criticism 21st Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Social Media",
+      "count" : "1"
+    }, {
+      "value" : "Social Media Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Organization For Transformative Works",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

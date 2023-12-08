@@ -1,0 +1,232 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019053010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Litteratures nationales d'écriture française : Afrique noire Caraibes, Océan Indien : histoire litteraire et anthologie " ],
+        "subject" : [ "French literature -- Foreign countries", "African literature (French)", "Caribbean literature (French)", "Indian Ocean Region -- Literatures", "French literature -- Foreign countries -- History and criticism", "Colonies in literature" ],
+        "format" : [ "511 p. : ill. ; 19 cm." ],
+        "identifier" : [ "$$CLC$$V87131724;$$CISBN$$V2040168818;$$COCLC$$V(OCoLC)16953387" ],
+        "creationdate" : [ "c1987" ],
+        "creator" : [ "Rouch, Alain.$$QRouch, Alain." ],
+        "publisher" : [ "Paris : Bordas" ],
+        "mms" : [ "990019053010107871" ],
+        "contributor" : [ "Clavreuil, Gérard.$$QClavreuil, Gérard." ],
+        "edition" : [ "1ère éd." ],
+        "place" : [ "Paris :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001905301" ],
+        "lds53" : [ "001905301" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019053010107871" ],
+        "recordid" : [ "alma990019053010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001905301-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rouch" ],
+        "aufirst" : [ "Alain." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Rouch, Alain." ],
+        "addau" : [ "Clavreuil, Gérard." ],
+        "creatorfull" : [ "$$NRouch, Alain.$$LRouch$$FAlain.$$Rauthor" ],
+        "contributorfull" : [ "$$NClavreuil, Gérard.$$LClavreuil$$FGérard.$$Rcontributor" ],
+        "date" : [ "1987", "c1987" ],
+        "isbn" : [ "2040168818" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "Bordas" ],
+        "oclcid" : [ "(ocolc)16953387" ],
+        "lccn" : [ "87131724" ],
+        "edition" : [ "1ère éd." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Litteratures nationales d'écriture française : Afrique noire Caraibes, Océan Indien : histoire litteraire et anthologie" ]
+      },
+      "sort" : {
+        "title" : [ "Litteratures nationales d'écriture française : Afrique noire Caraibes, Océan Indien : histoire litteraire et anthologie /" ],
+        "author" : [ "Rouch, Alain." ],
+        "creationdate" : [ "1987" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019053010107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:2040168818,OCLC:,LCCN:87131724&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#3809ǂ r75 1987",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "121",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "55",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "52",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "388",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 415,
+    "COMBINED_SEARCH_TIME" : 418,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1987",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Literature French",
+      "count" : "1"
+    }, {
+      "value" : "Caribbean Literature French",
+      "count" : "1"
+    }, {
+      "value" : "Colonies In Literature",
+      "count" : "1"
+    }, {
+      "value" : "French Literature Foreign Countries",
+      "count" : "1"
+    }, {
+      "value" : "French Literature Foreign Countries History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Indian Ocean Region Literatures",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clavreuil Gérard",
+      "count" : "1"
+    }, {
+      "value" : "Rouch Alain",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

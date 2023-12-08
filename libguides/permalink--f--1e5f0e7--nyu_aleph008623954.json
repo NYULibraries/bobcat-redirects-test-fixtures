@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990086239540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "STEM Careers A Student's Guide to Opportunities in Science, Technology, Engineering and Maths." ],
+        "subject" : [ "Ingénierie -- Orientation professionnelle", "Sciences -- Orientation professionnelle", "Technologie -- Orientation professionnelle", "Engineering -- Vocational guidance", "Science -- Vocational guidance", "Technology -- Vocational guidance" ],
+        "format" : [ "1 online resource (146 p.)" ],
+        "identifier" : [ "$$CISBN$$V9781911067610;$$CISBN$$V1911067613;$$COCLC$$V(OCoLC)1293241171;$$CISBN$$V9781911067603" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Greer, Paul.$$QGreer, Paul." ],
+        "publisher" : [ "Bath : Trotman Publishing" ],
+        "description" : [ "An array of exciting career paths is open to those with STEM-based qualifications. Currently, there is a national shortage of STEM skills within the UK workforce. This guide offers advice and labour market information on STEM opportunities - with a wealth of potential job ideas and entry routes at all levels." ],
+        "mms" : [ "990086239540107871" ],
+        "relation" : [ "$$Cform$$VPrint version: Greer, Paul STEM Careers Bath : Trotman Publishing,c2017$$QSTEM Careers" ],
+        "place" : [ "Bath :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph008623954" ],
+        "lds60" : [ "Description based upon print version of record." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990086239540107871" ],
+        "recordid" : [ "alma990086239540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008623954-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Greer" ],
+        "aufirst" : [ "Paul." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Greer, Paul." ],
+        "creatorfull" : [ "$$NGreer, Paul.$$LGreer$$FPaul.$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781911067610", "1911067613", "9781911067603" ],
+        "abstract" : [ "An array of exciting career paths is open to those with STEM-based qualifications. Currently, there is a national shortage of STEM skills within the UK workforce. This guide offers advice and labour market information on STEM opportunities - with a wealth of potential job ideas and entry routes at all levels." ],
+        "cop" : [ "Bath" ],
+        "pub" : [ "Trotman Publishing" ],
+        "oclcid" : [ "(ocolc)1293241171" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "STEM Careers A Student's Guide to Opportunities in Science, Technology, Engineering and Maths." ]
+      },
+      "sort" : {
+        "title" : [ "STEM Careers A Student's Guide to Opportunities in Science, Technology, Engineering and Maths." ],
+        "author" : [ "Greer, Paul." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086239540107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086239540107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086239540107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086239540107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086239540107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1911067613,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "q\"147ǂ g744 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "122",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "143",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "40",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "103",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "461",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 498,
+    "COMBINED_SEARCH_TIME" : 502,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Engineering Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Ingénierie Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Science Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Technologie Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Technology Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Greer Paul",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

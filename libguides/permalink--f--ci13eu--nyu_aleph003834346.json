@@ -1,0 +1,237 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038343460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Introduction to time series using Stata " ],
+        "subject" : [ "Time-series analysis -- Computer programs", "Mathematical statistics -- Graphic methods -- Computer programs", "Stata" ],
+        "format" : [ "xxv, 443 pages : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2012951897;$$CISBN$$V9781597181327;$$CISBN$$V1597181323;$$COCLC$$V(OCoLC)826913060" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Becketti, Sean, author.$$QBecketti, Sean" ],
+        "publisher" : [ "College Station, Texas : Stata Press" ],
+        "mms" : [ "990038343460107871" ],
+        "addtitle" : [ "Time series using Stata" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "Just enough stata -- Just enough statistics -- Filtering time-series data -- A first pass at forecasting -- Autocorrelated disturbances -- Univariate time-series models -- Modeling a real-world time series -- Time varying volatility -- Models of multiple time series -- Models of nonstationary time series -- Closing observations." ],
+        "place" : [ "College Station, Texas :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003834346" ],
+        "lds53" : [ "003834346" ],
+        "lds60" : [ "\"A Stata Press publication.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038343460107871" ],
+        "recordid" : [ "alma990038343460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003834346-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Becketti" ],
+        "aufirst" : [ "Sean" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Becketti, Sean" ],
+        "creatorfull" : [ "$$NBecketti, Sean$$LBecketti$$FSean$$Rauthor" ],
+        "addtitle" : [ "Time series using Stata" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9781597181327", "1597181323" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "cop" : [ "College Station, Texas" ],
+        "pub" : [ "Stata Press" ],
+        "oclcid" : [ "(ocolc)826913060" ],
+        "lccn" : [ "2012951897" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Introduction to time series using Stata" ]
+      },
+      "sort" : {
+        "title" : [ "Introduction to time series using Stata /" ],
+        "author" : [ "Becketti, Sean, author." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038343460107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038343460107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1597181323,OCLC:,LCCN:2012951897&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"280ǂ b42 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "79",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "45",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "256",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 282,
+    "COMBINED_SEARCH_TIME" : 285,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mathematical Statistics Graphic Methods Computer Programs",
+      "count" : "1"
+    }, {
+      "value" : "Stata",
+      "count" : "1"
+    }, {
+      "value" : "Time Series Analysis Computer Programs",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Becketti Sean",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

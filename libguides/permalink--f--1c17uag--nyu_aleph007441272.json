@@ -1,0 +1,254 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074412720107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "My life with Martin Luther King, Jr. " ],
+        "subject" : [ "King, Martin Luther, Jr., 1929-1968$$QKing, Martin Luther, Jr., 1929-1968 -- Juvenile literature", "King, Coretta Scott, 1927-2006$$QKing, Coretta Scott, 1927-2006 -- Juvenile literature", "African Americans$$QAfrican Americans -- Biography Juvenile literature", "Civil rights workers -- United States$$QCivil rights workers -- United States -- Biography Juvenile literature", "Baptists -- United States -- Clergy$$QBaptists -- United States -- Clergy -- Biography Juvenile literature", "King, Coretta Scott, 1927-2006", "King, Martin Luther, Jr., 1929-1968", "Clergy", "African Americans$$QAfrican Americans -- Biography", "Women$$QWomen -- Biography", "African Americans", "Baptists -- Clergy", "Civil rights workers", "United States" ],
+        "format" : [ "xiii, 335 pages, 16 unnumbered pages of plates : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V92023525;$$CISBN$$V080502445X;$$CISBN$$V9780805024456;$$COCLC$$V(OCoLC)26502366" ],
+        "creationdate" : [ "©1993" ],
+        "creator" : [ "King, Coretta Scott, 1927-2006.$$QKing, Coretta Scott" ],
+        "publisher" : [ "New York : Henry Holt and Company" ],
+        "description" : [ "\"An inside look at the life and work of the noted civil rights leader, from the viewpoint of his wife Coretta Scott King.\"--Title page verso." ],
+        "mms" : [ "990074412720107871" ],
+        "edition" : [ "First revised edition." ],
+        "contents" : [ "Introduction -- Preface -- \"Make it plain, son\" -- \"You are just as good as anyone else\" -- \"A very promising young man\" -- \"You must stand up for your rights\" -- \"To overcome fear\" -- \"We have taken this type of thing too long\" -- \"Don't you get weary\" -- \"We want freedom -- now\" -- \"Satyagraha\" -- \"Why did daddy go to jail?\" -- \"We shall overcome\" -- \"Turn on the hoses damnit!\" -- \"I have a dream\" -- \"No lie can live forever\" -- \"We will take the nonviolent movement all over the United States\" -- \"You must be prepared to continue\" -- \"I've been to the mountaintop\" -- Epilogue -- Chronology -- Index." ],
+        "genre" : [ "Juvenile literature", "Biography", "Biographies", "Juvenile works" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007441272" ],
+        "lds53" : [ "007441272" ],
+        "lds60" : [ "\"First revised edition\"--Title page verso.", "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074412720107871" ],
+        "recordid" : [ "alma990074412720107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007441272-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "King" ],
+        "aufirst" : [ "Coretta Scott" ],
+        "auinit" : [ "C" ],
+        "au" : [ "King, Coretta Scott" ],
+        "creatorfull" : [ "$$NKing, Coretta Scott$$LKing$$FCoretta Scott$$Rauthor" ],
+        "date" : [ "1993", "©1993" ],
+        "isbn" : [ "080502445X", "9780805024456" ],
+        "abstract" : [ "\"An inside look at the life and work of the noted civil rights leader, from the viewpoint of his wife Coretta Scott King.\"--Title page verso." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Henry Holt and Company" ],
+        "oclcid" : [ "(ocolc)26502366" ],
+        "lccn" : [ "92023525" ],
+        "edition" : [ "First revised edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "My life with Martin Luther King, Jr." ]
+      },
+      "sort" : {
+        "title" : [ "My life with Martin Luther King, Jr. /" ],
+        "author" : [ "King, Coretta Scott, 1927-2006." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074412720107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780805024456,OCLC:,LCCN:92023525&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.97 k5ǂk5 1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "160",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "64",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "59",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "44",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "59",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "416",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 442,
+    "COMBINED_SEARCH_TIME" : 445,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Biography",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Baptists Clergy",
+      "count" : "1"
+    }, {
+      "value" : "Baptists United States Clergy Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Workers",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Workers United States Biography Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Clergy",
+      "count" : "1"
+    }, {
+      "value" : "King Coretta Scott 1927 2006",
+      "count" : "1"
+    }, {
+      "value" : "King Coretta Scott 1927 2006 Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "King Martin Luther Jr 1929 1968",
+      "count" : "1"
+    }, {
+      "value" : "King Martin Luther Jr 1929 1968 Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Women Biography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "King Coretta Scott",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

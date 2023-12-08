@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995621728707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "American journal of health-system pharmacy (Online)" ],
+        "subject" : [ "Hospital pharmacies -- United States$$QHospital pharmacies -- United States -- Periodicals", "Pharmacies d'hôpital -- États-Unis$$QPharmacies d'hôpital -- États-Unis -- Périodiques", "Chimiothérapie", "Médicaments", "Drugs", "Chemotherapy", "Hospital pharmacies", "United States", "Farmacie" ],
+        "identifier" : [ "$$CLC$$V  2001213201;$$CISSN$$V1535-2900;$$COCLC$$V(OCoLC)41233599;$$CISSN$$V1079-2082" ],
+        "creationdate" : [ "1995" ],
+        "publisher" : [ "Oxford : Oxford University Press", "Print began with vol. 52, no. 1 (Jan. 1, 1995)." ],
+        "mms" : [ "9995621728707871" ],
+        "contributor" : [ "American Society of Health-System Pharmacists.$$QAmerican Society of Health-System Pharmacists." ],
+        "addtitle" : [ "AJHP" ],
+        "frequency" : [ "Semimonthly" ],
+        "genre" : [ "Computer network resources", "periodicals", "Periodicals", "Périodiques" ],
+        "relation" : [ "$$Cearlier_title$$VAmerican journal of hospital pharmacy$$QAmerican journal of hospital pharmacy" ],
+        "mesh" : [ "Drug Therapy", "Pharmaceutical Preparations", "Pharmacy Service, Hospital", "Periodical" ],
+        "unititle" : [ "American journal of health-system pharmacy (Online)" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925606826" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from journal information screen as viewed Apr. 21, 1999." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995621728707871" ],
+        "recordid" : [ "alma9995621728707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925606826" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "AM J HEALTH SYST PHARM", "AMER J HEALTH SYST PHARM", "AM J HEALTH SYST PH", "AM J HEAL S", "AJHP", "AM J HEALTH-SYST PH", "SYST PH", "AM. J. HEALTH-SYST. PHARM", "Am. j. health-syst. pharm. (Online)" ],
+        "addtitle" : [ "AJHP" ],
+        "date" : [ "1995" ],
+        "issn" : [ "1535-2900", "1079-2082" ],
+        "coden" : [ "AHSPEK" ],
+        "cop" : [ "Bethesda, MD" ],
+        "pub" : [ "American Society of Health-System Pharmacists" ],
+        "oclcid" : [ "(ocolc)41233599" ],
+        "lccn" : [ "2001213201" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "American journal of health-system pharmacy (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "American journal of health-system pharmacy (Online)" ],
+        "author" : [ "American Society of Health-System Pharmacists." ],
+        "creationdate" : [ "1995" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621728707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2001213201&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rs 1ǂ a512",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "183",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "298",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "60",
+    "RETRIVE_FROM_DB_RELATIONS" : "83",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "273",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "121",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "725",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 751,
+    "COMBINED_SEARCH_TIME" : 755,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1995",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Chemotherapy",
+      "count" : "1"
+    }, {
+      "value" : "Chimiothérapie",
+      "count" : "1"
+    }, {
+      "value" : "Drug Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Drugs",
+      "count" : "1"
+    }, {
+      "value" : "Farmacie",
+      "count" : "1"
+    }, {
+      "value" : "Hospital Pharmacies",
+      "count" : "1"
+    }, {
+      "value" : "Hospital Pharmacies United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Médicaments",
+      "count" : "1"
+    }, {
+      "value" : "Pharmaceutical Preparations",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacies Dhôpital États Unis Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacy Service Hospital",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Society Of Health System Pharmacists",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

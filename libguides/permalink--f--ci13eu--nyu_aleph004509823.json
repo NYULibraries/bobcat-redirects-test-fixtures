@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045098230107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Gale business insights handbook of social media marketing " ],
+        "subject" : [ "Internet marketing -- Social aspects", "Marketing -- Social aspects", "Social media -- Economic aspects" ],
+        "format" : [ "1 online resource (xiv, 431 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781414499383;$$COCLC$$V(OCoLC)835647397;$$CISBN$$V9781414499314" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Detroit : Gale/ Cengage Learning" ],
+        "description" : [ "This series centers on the specific projects, tasks, and activities in which businesspeople currently engage. This volume focuses on the social aspects of internet marketing." ],
+        "mms" : [ "990045098230107871" ],
+        "contributor" : [ "Ferrara, Miranda Herbert, 1950- editor.$$QFerrara, Miranda Herbert", "Gale Group.$$QGale Group." ],
+        "series" : [ "Gale business insights$$QGale business insights", "Gale eBooks$$QGale eBooks" ],
+        "contents" : [ "Building a case for social media -- Understanding social media and its effects -- Benefits of social media -- Creating a congruent social media marketing philosophy -- Creating a social media marketing strategy -- Representation of the brand -- Preparing for a long-term social media campaign -- Managing your social media campaign -- Benefits of social media teams -- Market segmentation -- Choosing the right media for your social media campaign -- Internal social media interfaces -- Preparing for paradigm shifts -- Diminishing returns of social media -- Consistency among all social media outlets -- Taking advantage of interactivity -- Increasing online discoverabililty -- Building a relationship -- Social media marketing strategies -- Diversification of social media content strategy -- Keeping up with the competition -- Developing brand loyalty through social media communication -- Transparency of social media marketing -- Updating social media efforts -- Sentiment analysis -- Measuring social media efforts -- Convergence of marketing, data, and technology -- Legal challenges with social media -- Marketing to a global segment -- Protecting the brand." ],
+        "relation" : [ "$$Cform$$VPrint version: Gale business insights handbook of social media marketing. Detroit : Gale/ Cengage Learning, 2013$$QGale business insights handbook of social media marketing." ],
+        "place" : [ "Detroit :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galevrl", "aleph004509823" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045098230107871" ],
+        "recordid" : [ "alma990045098230107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004509823-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ferrara" ],
+        "aufirst" : [ "Miranda Herbert" ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Ferrara, Miranda Herbert" ],
+        "contributorfull" : [ "$$NFerrara, Miranda Herbert$$LFerrara$$FMiranda Herbert$$Reditor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781414499383", "9781414499314" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This series centers on the specific projects, tasks, and activities in which businesspeople currently engage. This volume focuses on the social aspects of internet marketing." ],
+        "cop" : [ "Detroit" ],
+        "pub" : [ "Gale/ Cengage Learning" ],
+        "oclcid" : [ "(ocolc)835647397" ],
+        "seriestitle" : [ "Gale business insights" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Gale business insights handbook of social media marketing" ]
+      },
+      "sort" : {
+        "title" : [ "Gale business insights handbook of social media marketing /" ],
+        "author" : [ "Ferrara, Miranda Herbert, 1950- editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045098230107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045098230107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781414499383,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5415.1265ǂg34 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "39",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "230",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 262,
+    "COMBINED_SEARCH_TIME" : 264,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Internet Marketing Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Social Media Economic Aspects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ferrara Miranda Herbert",
+      "count" : "1"
+    }, {
+      "value" : "Gale Group",
+      "count" : "1"
+    } ]
+  } ]
+}

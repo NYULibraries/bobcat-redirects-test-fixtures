@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073288620107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Bad to good : achieving high quality and impact in your research " ],
+        "subject" : [ "Marketing research -- Research -- Methodology", "Affaires -- Recherche -- Méthodologie", "Research methods: general", "BUSINESS & ECONOMICS -- Industrial Management", "BUSINESS & ECONOMICS -- Management", "BUSINESS & ECONOMICS -- Management Science", "BUSINESS & ECONOMICS -- Organizational Behavior", "Business -- Research -- Methodology", "Management -- Research -- Methodology" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781786353337;$$CISBN$$V1786353334;$$COCLC$$V(OCoLC)958651136;$$CISBN$$V1786353342;$$CISBN$$V9781786353344" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "Bingley : Emerald" ],
+        "description" : [ "With the objective of reducing the high volume of bad practices in business research, this book offers propositions for improving theory construction and empirical testing of theory especially by business scholars. It does so by covering 24 common bad practices, explaining why they are bad and how to replace all of them with a good practice." ],
+        "mms" : [ "990073288620107871" ],
+        "contributor" : [ "Woodside, Arch G., editor.$$QWoodside, Arch G." ],
+        "contents" : [ "Front Cover; Bad to Good: Achieving High Quality and Impact in Your Research; Copyright Page; Contents; List of Contributors; Dedication; Preface; Chapter 1 Moving away from Bad Practices in Research toward Constructing Useful Theory and Doing Useful Research; Introduction; A Profile of Bad Practices Appearing in Most Journal Manuscript Submissions; Bad Practice: Theory and Analysis Mismatch; Embracing the Complexity Turn; Bad Practice: Testing for Fit Validity Only; Not Testing for Predictive Validity; Bad Practice: Ignoring Cases with Associations Contrary to Significant Main Effects.", "Bad Practice: Reporting Findings Using t, p, F, r, and R2Bad Practice: Focusing on Net Effects in Regression Models; Bad Practices: Relying on Verbal Self-Reports Only and Using Five- or Seven-Point Scale Responses to Measure Variables in Mental Processes; Bad Practice: Not Studying Behavior Dynamically; Doing Only Cross-Sectional Survey Studies; Bad Practice: Interviewing One Person per Group (Firm, Household, or Organization); Bad Practice: Useable Response Rates Less Than 50% and Measuring Nonresponse Bias; Bad Practice: Symmetric (Variable) Only Modeling.", "Bad Practice: Using a Void-Treatment Control Group in Experiments Not Using a Placebo Control Group; Bad Practice: Doing Laboratory Experiments Only; Not Doing Field Experiments; Bad Practice: Use of Mushy (Soft, Squishy) Questions to Measure Thinking and Behavior; Failure to Collect/Report Real-Life Contextual Data; Bad Practice: The Study of One Dependent/Outcome Variable at a Time; Bad Practice: Advocacy Hypothesis Construction and Testing; Bad Practice: Stepwise Regression Analysis.", "Bad Practice: Failure to Plan to Include a Replication in the Study or to Invite Other Scholars to Attempt to Replicate FindingsBad Practice: Including Non-Significant Terms in Regression Models; Bad Practice: Using Median Splits; Conclusion; References; Chapter 2 Embrace Complexity Theory, Perform Contrarian Case Analysis, and Model Multiple Realities; Introduction: Beyond Rote Applications of Regression Analysis; Complexity Theory Tenets.", "A Simple Antecedent Condition May Be Necessary But a Simple Antecedent Condition is Rarely Sufficient for Predicting a High or Low Score in an Outcome ConditionA Complex Antecedent Condition of Two or More Simple Conditions Is Sufficient for a Consistently High Score in an Outcome Condition _ The Recipe Principle; A Model That Is Sufficient Is Not Necessary for an Outcome Having a High Score to Occur -- The Equifinality Principle.", "Recipes Indicating a Second Outcome (e.g., Rejection) Are Unique and Not the Mirror Opposites of Recipes of a Different Outcome (E.G., Acceptance) -- The Causal Asymmetry Principle." ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Bingley :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "emdbus", "aleph007328862" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073288620107871" ],
+        "recordid" : [ "alma990073288620107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007328862-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Woodside" ],
+        "aufirst" : [ "Arch G." ],
+        "auinit" : [ "A" ],
+        "addau" : [ "Woodside, Arch G." ],
+        "contributorfull" : [ "$$NWoodside, Arch G.$$LWoodside$$FArch G.$$Reditor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9781786353337", "1786353334", "1786353342", "9781786353344" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "With the objective of reducing the high volume of bad practices in business research, this book offers propositions for improving theory construction and empirical testing of theory especially by business scholars. It does so by covering 24 common bad practices, explaining why they are bad and how to replace all of them with a good practice." ],
+        "cop" : [ "Bingley" ],
+        "pub" : [ "Emerald" ],
+        "oclcid" : [ "(ocolc)958651136" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Bad to good : achieving high quality and impact in your research" ]
+      },
+      "sort" : {
+        "title" : [ "Bad to good : achieving high quality and impact in your research /" ],
+        "author" : [ "Woodside, Arch G., editor." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073288620107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073288620107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1786353334,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4ǂ b33 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "116",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "145",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "414",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 441,
+    "COMBINED_SEARCH_TIME" : 444,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Business Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Management Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Research Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Research Methods General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Woodside Arch G",
+      "count" : "1"
+    } ]
+  } ]
+}

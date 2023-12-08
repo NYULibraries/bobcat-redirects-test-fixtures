@@ -1,0 +1,275 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990079117140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Producing written and oral business reports : formatting, illustrating, and presenting " ],
+        "subject" : [ "Style commercial", "Business writing", "Business report writing", "accent", "backchannel", "bar graph", "data visualization", "deck", "draft", "edit", "e-mail", "format", "FOWLs (frequently occurring writing lapses)", "infographics", "letter", "line graph", "manuscript", "maps", "memo", "newsletter", "nonverbal", "PDF", "photos", "pie chart", "planning", "preliminaries", "presentation", "question-and-answer", "rehearsal", "reports", "revise", "slides", "table", "team", "texting", "visuals", "web page", "webinar", "writing" ],
+        "format" : [ "1 online resource (1 PDF (x, 253 pages)) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781631574160;$$CISBN$$V1631574167;$$CISBN$$V1631574159;$$COCLC$$V(OCoLC)974017387;$$CISBN$$V9781631574153" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Clippinger, Dorinda A., author.$$QClippinger, Dorinda A." ],
+        "publisher" : [ "New York, New York 222 East 46th Street, New York, NY 10017 : Business Expert Press" ],
+        "description" : [ "This book emphasizes efficient, cost-effective methods for producing reports that will do what you, the writer or presenter, want them to do. This book is for you if you are: A business manager or other professional who must convey objective and organized information to others, in and outside your organization. An MBA candidate or an upper-level student in any professional field." ],
+        "mms" : [ "990079117140107871" ],
+        "edition" : [ "First edition." ],
+        "series" : [ "Corporate communication collection, 2156-8170$$QCorporate communication collection", "Corporate communication collection. 2156-8170$$QCorporate communication collection." ],
+        "contents" : [ "1. First draft to final draft -- 2. Formatting reports -- 3. Illustrating reports -- 4. Reporting business research -- 5. Presenting an oral report -- Notes -- References -- Index." ],
+        "relation" : [ "$$Cform$$VPrint version:", "$$Cform$$VProducing written and oral business reports : formatting, illustrating, and presenting$$Z9995658787107871" ],
+        "place" : [ "New York, New York (222 East 46th Street, New York, NY 10017) :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph007911714" ],
+        "lds60" : [ "Title from PDF title page (viewed on February 27, 2017)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990079117140107871" ],
+        "recordid" : [ "alma990079117140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007911714-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clippinger" ],
+        "aufirst" : [ "Dorinda A." ],
+        "auinit" : [ "D" ],
+        "au" : [ "Clippinger, Dorinda A." ],
+        "creatorfull" : [ "$$NClippinger, Dorinda A.$$LClippinger$$FDorinda A.$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781631574160", "1631574167", "1631574159", "9781631574153" ],
+        "notes" : [ "Includes bibliographical references (pages 235-247) and index." ],
+        "abstract" : [ "This book emphasizes efficient, cost-effective methods for producing reports that will do what you, the writer or presenter, want them to do. This book is for you if you are: A business manager or other professional who must convey objective and organized information to others, in and outside your organization. An MBA candidate or an upper-level student in any professional field." ],
+        "cop" : [ "New York, New York (222 East 46th Street, New York, NY 10017)" ],
+        "pub" : [ "Business Expert Press" ],
+        "oclcid" : [ "(ocolc)974017387" ],
+        "edition" : [ "First edition." ],
+        "seriestitle" : [ "Corporate communication collection" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Producing written and oral business reports : formatting, illustrating, and presenting" ]
+      },
+      "sort" : {
+        "title" : [ "Producing written and oral business reports : formatting, illustrating, and presenting /" ],
+        "author" : [ "Clippinger, Dorinda A., author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079117140107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079117140107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079117140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1631574167,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5719ǂ c556 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "255",
+    "CALL_SOLR_GET_IDS_LIST" : "101",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "10",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "38",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "150",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "552",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 582,
+    "COMBINED_SEARCH_TIME" : 586,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Accent",
+      "count" : "1"
+    }, {
+      "value" : "Backchannel",
+      "count" : "1"
+    }, {
+      "value" : "Bar Graph",
+      "count" : "1"
+    }, {
+      "value" : "Business Report Writing",
+      "count" : "1"
+    }, {
+      "value" : "Business Writing",
+      "count" : "1"
+    }, {
+      "value" : "Data Visualization",
+      "count" : "1"
+    }, {
+      "value" : "Deck",
+      "count" : "1"
+    }, {
+      "value" : "Draft",
+      "count" : "1"
+    }, {
+      "value" : "E Mail",
+      "count" : "1"
+    }, {
+      "value" : "Edit",
+      "count" : "1"
+    }, {
+      "value" : "Format",
+      "count" : "1"
+    }, {
+      "value" : "Fowls Frequently Occurring Writing Lapses",
+      "count" : "1"
+    }, {
+      "value" : "Infographics",
+      "count" : "1"
+    }, {
+      "value" : "Letter",
+      "count" : "1"
+    }, {
+      "value" : "Line Graph",
+      "count" : "1"
+    }, {
+      "value" : "Manuscript",
+      "count" : "1"
+    }, {
+      "value" : "Maps",
+      "count" : "1"
+    }, {
+      "value" : "Memo",
+      "count" : "1"
+    }, {
+      "value" : "Newsletter",
+      "count" : "1"
+    }, {
+      "value" : "Nonverbal",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clippinger Dorinda A",
+      "count" : "1"
+    } ]
+  } ]
+}

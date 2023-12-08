@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990053488600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Research methods in anthropology : qualitative and quantitative approaches " ],
+        "subject" : [ "Ethnologie -- Méthodologie", "SOCIAL SCIENCE -- Anthropology -- General", "SOCIAL SCIENCE -- Regional Studies", "SOCIAL SCIENCE -- Sociology -- General", "Ethnology -- Methodology" ],
+        "format" : [ "1 online resource (xiii, 709 pages) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2017039198;$$CISBN$$V9781442268869;$$CISBN$$V1442268867;$$COCLC$$V(OCoLC)1001287627;$$CISBN$$V9781442268845" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Bernard, H. Russell (Harvey Russell), 1940- author.$$QBernard, H. Russell" ],
+        "publisher" : [ "Lanham, Maryland : Rowman & Littlefield" ],
+        "description" : [ "Research Methods in Anthropology is the standard textbook for methods classes in anthropology. Whether you are coming from a scientific, interpretive, or applied anthropological tradition, you will learn field methods from the best guide in both qualitative and quantitative methods." ],
+        "mms" : [ "990053488600107871" ],
+        "edition" : [ "Sixth edition." ],
+        "contents" : [ "Chapter 1; Anthropology and the Social Sciences; The Craft of Research; Methods Belong to All of Us; Epistemology ;Ways of Knowing; Rationalism, Empiricism, and Kant; Rationalism, Empiricism, and Morality; The Norms of Science; The Development of Science;From Democritus to Newton; Exploration, Printing, and Modern Science; Science, Money, and War; The Development of Social Science;From Newton to Rousseau.", "Early Positivism, Saint-Simon, ComteTechnology and Science; Social Science Failures; The Varieties of Positivism; Later Positivism: The Vienna Circle; Instrumental Positivism; The Reaction against Positivism; About Numbers and Words: The Qualitative/ Quantitative Split; Ethics and Social Science; Chapter 2; The Foundations of Social Research; The Language of Social Research; Variables; Measurement and Concepts; Conceptual and Operational Definitions; Conceptual Definitions; Operational Definitions.", "Levels of MeasurementUnits of Analysis; Validity, Reliability, Accuracy, and Precision; Determining Validity; Cause and Effect; The Kalymnian Case; Chapter 3; Preparing for Research; Setting Things Up; The Ideal Research Process; A Realistic Approach; Ethics; Theory;Explanation and Prediction; A Guide to Research Topics, Anyway; Cell I:; Cell II:; Cell IIIa:; Cell IIIb:; Cell IV:; Cell V:; Cell VI:; Cell VIIa:; Cell VIIb:; Cell VIII:; Cell IX:; Cell Xa:; Cell Xb:; Cell Xc.", "Cell XIa:Cell XIb:; Cell XIIa:; Cell XIIb:; Cell XIII:; Cell XIV:; Cell XV:; The Literature Search; Anthropology Databases; Free Databases of Relevance to Anthropology ; Other Databases; Websites; Meta-Analysis; Chapter 4; Research Design; Experiments; Kinds of Confounds: Threats to Validity; Controlling for Threats to Validity; Thought Experiments; True Experiments in the Lab; True Experiments in the Field; Natural Experiments; Turning a Confound into a Natural Experiment; Naturalistic Experiments.", "Comparative Naturalistic ExperimentsAre Field Experiments Ethical? ; The Watergate Experiment; Factorial Designs: Main Effects and Interaction Effects; Chapter 5; Sampling I; What Are Samples and Why Do We Need Them? ; Why the United States Still Has a Census; It Pays to Take Samples and to Stick with Them; Sampling Frames; Simple Random Samples; Systematic Random Sampling; Stratified Sampling; Cluster Sampling and Complex Sampling Designs; Probability Proportionate to Size; How Big Should a Sample Be? ; Chapter 6." ],
+        "relation" : [ "$$Cform$$VPrint version: Bernard, H. Russell (Harvey Russell), 1940- Research methods in anthropology. Sixth Edition. Lanham, Maryland : Rowman & Littlefield, [2017]$$QResearch methods in anthropology.$$Z990059289320107871", "$$Cform$$VResearch methods in anthropology : qualitative and quantitative approaches$$Z9995672570907871" ],
+        "place" : [ "Lanham, Maryland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph005348860" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990053488600107871" ],
+        "recordid" : [ "alma990053488600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005348860-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bernard" ],
+        "aufirst" : [ "H. Russell" ],
+        "auinit" : [ "H" ],
+        "au" : [ "Bernard, H. Russell (Harvey Russell)" ],
+        "creatorfull" : [ "$$NBernard, H. Russell (Harvey Russell)$$LBernard$$FH. Russell$$Rauthor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9781442268869", "1442268867", "9781442268845" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Research Methods in Anthropology is the standard textbook for methods classes in anthropology. Whether you are coming from a scientific, interpretive, or applied anthropological tradition, you will learn field methods from the best guide in both qualitative and quantitative methods." ],
+        "cop" : [ "Lanham, Maryland" ],
+        "pub" : [ "Rowman & Littlefield" ],
+        "oclcid" : [ "(ocolc)1001287627" ],
+        "lccn" : [ "2017039198" ],
+        "edition" : [ "Sixth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Research methods in anthropology : qualitative and quantitative approaches" ]
+      },
+      "sort" : {
+        "title" : [ "Research methods in anthropology : qualitative and quantitative approaches /" ],
+        "author" : [ "Bernard, H. Russell (Harvey Russell), 1940- author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053488600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053488600107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053488600107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1442268867,OCLC:,LCCN:2017039198&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gn\"345ǂ b36 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "372",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "86",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "70",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "59",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "55",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "135",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "693",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 720,
+    "COMBINED_SEARCH_TIME" : 723,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ethnologie Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Ethnology Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Anthropology General",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Regional Studies",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Sociology General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bernard H Russell",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

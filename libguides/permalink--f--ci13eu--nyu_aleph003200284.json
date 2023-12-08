@@ -1,0 +1,301 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032002840107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare's feminine endings : disfiguring death in the tragedies " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Tragedies", "Shakespeare, William, 1564-1616 -- Characters -- Women", "Shakespeare, William, 1564-1616", "Shakespeare, William 1564-1616", "Shakespeare, William", "Feminism and literature -- England -- History -- 16th century", "Feminism and literature -- England -- History -- 17th century", "Women and literature -- England -- History -- 16th century", "Women and literature -- England -- History -- 17th century", "Femmes et littérature -- Angleterre -- Histoire -- 16e siècle", "Femmes et littérature -- Angleterre -- Histoire -- 17e siècle", "Rôle selon le sexe dans la littérature", "Mort dans la littérature", "Conclusion (Littérature)", "LITERARY CRITICISM -- Shakespeare", "DRAMA -- Shakespeare", "Closure (Rhetoric)", "Criticism and interpretation", "Death in literature", "Feminism and literature", "Sex role in literature", "Women and literature", "Women in literature", "England", "Frau Motiv", "Tod Motiv", "Tragödie", "Dood", "Vrouwen", "1500-1699" ],
+        "format" : [ "1 online resource (xiv, 197 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V0203313550;$$CISBN$$V9780203313558;$$CISBN$$V0203072847;$$CISBN$$V9780203072844;$$CISBN$$V9781134914944;$$CISBN$$V1134914946;$$CISBN$$V9786610328833;$$CISBN$$V6610328838;$$COCLC$$V(OCoLC)50298242;$$CISBN$$V0415068940" ],
+        "creationdate" : [ "1999" ],
+        "creator" : [ "Berry, Philippa, 1955-$$QBerry, Philippa" ],
+        "publisher" : [ "London ; New York : Routledge" ],
+        "description" : [ "In this elegant and provocative book, Philippa Berry draws on feminist theory, postmodern thought and queer theory, to challenge existing critical notions of what is 'fundamental' to Shakespearean tragedy. She shows how, through a network of images clustered around feminine or feminized characters, these plays 'disfigure' conventional ideas of death as a bodily end, as their figures of women are interwoven with provocative meditations upon matter, time, the soul, and the body. The scope of these tragic speculations was radical in Shakespeare's day; yet they also have a surprising relevance to contemporary debates about time and matter in science and philosophy." ],
+        "mms" : [ "990032002840107871" ],
+        "series" : [ "Feminist readings of Shakespeare$$QFeminist readings of Shakespeare", "Feminist readings of Shakespeare.$$QFeminist readings of Shakespeare." ],
+        "contents" : [ "Disfigured endings: sexual matters and Shakespeare's ars moriendi -- Double dying and other tragic inversions (Romeo and Juliet) -- Echoic language and tragic identity (Hamlet) -- Disclosing the feminine eye of death: tragedy and seeing in the dark (Othello) -- Fortune's fools: revolutions of time, fate and sovereignty (Macbeth) -- Cordelia's bond and Britannia's missing middle (King Lear)." ],
+        "genre" : [ "Electronic books", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Berry, Philippa, 1955- Shakespeare's feminine endings. London ; New York : Routledge, 1999$$QShakespeare's feminine endings.$$Z990016359620107871" ],
+        "mesh" : [ "Feminism -- history", "Women -- history", "Drama -- english", "Drama -- history" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph003200284" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032002840107871" ],
+        "recordid" : [ "alma990032002840107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003200284-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Berry" ],
+        "aufirst" : [ "Philippa" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Berry, Philippa" ],
+        "creatorfull" : [ "$$NBerry, Philippa$$LBerry$$FPhilippa$$Rauthor" ],
+        "date" : [ "1999" ],
+        "isbn" : [ "0203313550", "9780203313558", "0203072847", "9780203072844", "9781134914944", "1134914946", "9786610328833", "6610328838", "0415068940" ],
+        "notes" : [ "Includes bibliographical references (pages 167-188) and index." ],
+        "abstract" : [ "In this elegant and provocative book, Philippa Berry draws on feminist theory, postmodern thought and queer theory, to challenge existing critical notions of what is 'fundamental' to Shakespearean tragedy. She shows how, through a network of images clustered around feminine or feminized characters, these plays 'disfigure' conventional ideas of death as a bodily end, as their figures of women are interwoven with provocative meditations upon matter, time, the soul, and the body. The scope of these tragic speculations was radical in Shakespeare's day; yet they also have a surprising relevance to contemporary debates about time and matter in science and philosophy." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)50298242" ],
+        "lccn" : [ "99019812" ],
+        "seriestitle" : [ "Feminist readings of Shakespeare" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare's feminine endings : disfiguring death in the tragedies" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare's feminine endings : disfiguring death in the tragedies /" ],
+        "author" : [ "Berry, Philippa, 1955-" ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032002840107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032002840107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032002840107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032002840107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032002840107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203313558,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2983ǂ b47 1999eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "238",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "113",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "46",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "87",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "566",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 604,
+    "COMBINED_SEARCH_TIME" : 607,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1500 1699",
+      "count" : "1"
+    }, {
+      "value" : "Closure Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Conclusion Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Criticism And Interpretation",
+      "count" : "1"
+    }, {
+      "value" : "Death In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Dood",
+      "count" : "1"
+    }, {
+      "value" : "Drama English",
+      "count" : "1"
+    }, {
+      "value" : "Drama History",
+      "count" : "1"
+    }, {
+      "value" : "Drama Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "England",
+      "count" : "1"
+    }, {
+      "value" : "Feminism And Literature",
+      "count" : "1"
+    }, {
+      "value" : "Feminism And Literature England History 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Feminism And Literature England History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Feminism History",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Et Littérature Angleterre Histoire 16e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Et Littérature Angleterre Histoire 17e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Frau Motiv",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Shakespeare",
+      "count" : "1"
+    }, {
+      "value" : "Mort Dans La Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Rôle Selon Le Sexe Dans La Littérature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Berry Philippa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

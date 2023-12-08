@@ -1,0 +1,300 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041610060107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Eraserhead " ],
+        "subject" : [ "Parent and child$$QParent and child -- Drama", "Surrealism$$QSurrealism -- Drama", "Parent and child", "Surrealism" ],
+        "format" : [ "1 videodisc (85 min.) : sound, black and white ; 4 3/4 in.+ 1 booklet (63 pages : illustrations ; 17 cm)", "4 3/4 in.", "video file Blu-Ray region A" ],
+        "identifier" : [ "$$CISBN$$V9781604658958;$$CISBN$$V1604658959;$$CPUBNUM$$VCC2391BD;$$COCLC$$V(OCoLC)885209991" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "New York : The Criterion Collection" ],
+        "description" : [ "An obscure man with a vertical head of hair is living with his spaced-out girlfriend and their fetus-like child. By the end of the film, Henry is decapitated and processed into erasers in this bizarre horror film which closely approaches a nightmare." ],
+        "mms" : [ "990041610060107871" ],
+        "contributor" : [ "Lynch, David, 1946- presenter, screenwriter, film producer, film director, editor of moving image work.$$QLynch, David", "Nance, Jack, actor.$$QNance, Jack", "Stewart, Charlotte, 1941- actor.$$QStewart, Charlotte", "Joseph, Allen, actor.$$QJoseph, Allen", "Bates, Jeanne, actor.$$QBates, Jeanne", "Roberts, Judith Anna, actor.$$QRoberts, Judith Anna", "Near, Laurel, actor.$$QNear, Laurel", "Phipps-Wilson, V., actor.$$QPhipps-Wilson, V.", "Elmes, Frederick, director of photography.$$QElmes, Frederick", "Cardwell, Herbert, director of photography.$$QCardwell, Herbert", "Ivers, Peter, composer (expression), singer.$$QIvers, Peter", "Waller, Fats, 1904-1943, performer.$$QWaller, Fats", "Christie, Thomas A., interviewer (expression), filmmaker.$$QChristie, Thomas A.", "Coulson, Catherine, 1943- interviewee (expression)$$QCoulson, Catherine", "Keeler, Toby, interviewer (expression)$$QKeeler, Toby", "Rodley, Chris, writer of supplementary textual content.$$QRodley, Chris", "Absurda (Firm), production company.$$QAbsurda (Firm)", "Criterion Collection (Firm), film distributor.$$QCriterion Collection (Firm)" ],
+        "addtitle" : [ "David Lynch's Eraserhead", "Cinéma de notre temps (Television program)", "Six men getting sick.", "Alphabet.", "Grandmother.", "Amputee.", "Premonitions following an evil deed." ],
+        "edition" : [ "Director approved Blu-ray special edition." ],
+        "series" : [ "Criterion collection (Blu-ray discs) ; 725.$$QCriterion collection (Blu-ray discs) ", "The Criterion collection ; 725$$QThe Criterion collection " ],
+        "genre" : [ "Horror films", "Experimental films", "Feature films", "Fiction films", "Video recordings for the hearing impaired", "Feature films -- United States", "Drama" ],
+        "unititle" : [ "Eraserhead (Motion picture)" ],
+        "place" : [ "New York] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004161006" ],
+        "lds53" : [ "004161006" ],
+        "lds60" : [ "Originally released as a motion picture in 1977.", "New 4K digital restoration; Short films (with introductions by David Lynch): Six men getting sick (1967, 1 min. film loop), The alphabet (1968, 4 min.), The grandmother (1970, 34 min.), The amputee (1974, 5/4 min.), Premonitions following an evil deed (1995, 58 sec.); TV calibration; 1977 (Trailer); 1979 (interview with director David Lynch and cinematographer Frederick Elmes shot by filmmaker Tom Christie); 1982 (trailer for Eraserhead produced by twins Douglas Brian Martin and Steven M. Martin, with cinematography by Frederick Elmes); 1988 (director David Lynch and actor Jack Nance take a drive to one of the locations for Eraserhead in this excerpt from an episode of the French television program Cinéma de notre temps, recorded in 1988 and broadcast April 23, 1993); 1997 (footage featuring director David Lynch, actors Jack Nance and Charlotte Stewart and director's assistant Catherine Coulson revisiting locations for the film, interviewed by Toby Keeler); 2001 (85 min. documentary about the making of the film made by David Lynch in 2001); 2014 (interviews with director's assistant Catherine Coulson, actors Charlotte Stewart and Judith Anna Roberts, and cinematographer Frederick Elmes). Booklet features an interview with Lynch from filmmaker and writer Chris Rodley's 1997 book Lynch on Lynch." ],
+        "lds64" : [ "Camera and lighting, Frederick Elmes & Herbert Cardwell ; sound, Alan R. Splet & David Lynch ; edited by David Lynch ; Lady in the radiator song composed and sung by Peter Ivers ; pipe organ by \"Fats\" Waller." ],
+        "lds65" : [ "John Nance, Charlotte Stewart, Allen Joseph, Jeanne Bates, Judith Anna Roberts, Laurel Near, V. Phipps-Wilson." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041610060107871" ],
+        "recordid" : [ "alma990041610060107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004161006-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lynch", "Nance", "Stewart", "Joseph", "Bates", "Roberts", "Near", "Phipps-Wilson", "Elmes", "Cardwell", "Ivers", "Waller", "Christie", "Coulson", "Keeler", "Rodley" ],
+        "aufirst" : [ "David", "Jack", "Charlotte", "Allen", "Jeanne", "Judith Anna", "Laurel", "V.", "Frederick", "Herbert", "Peter", "Fats", "Thomas A.", "Catherine", "Toby", "Chris" ],
+        "auinit" : [ "D", "A", "J", "L", "V", "H", "P", "F", "T", "C" ],
+        "addau" : [ "Lynch, David", "Nance, Jack", "Stewart, Charlotte", "Joseph, Allen", "Bates, Jeanne", "Roberts, Judith Anna", "Near, Laurel", "Phipps-Wilson, V.", "Elmes, Frederick", "Cardwell, Herbert", "Ivers, Peter", "Waller, Fats", "Christie, Thomas A.", "Coulson, Catherine", "Keeler, Toby", "Rodley, Chris" ],
+        "contributorfull" : [ "$$NLynch, David$$LLynch$$FDavid$$Rcontributor", "$$NNance, Jack$$Rcontributor", "$$NStewart, Charlotte$$Rcontributor", "$$NJoseph, Allen$$Rcontributor", "$$NBates, Jeanne$$Rcontributor", "$$NRoberts, Judith Anna$$Rcontributor", "$$NNear, Laurel$$Rcontributor", "$$NPhipps-Wilson, V.$$Rcontributor", "$$NElmes, Frederick$$Rcontributor", "$$NCardwell, Herbert$$Rcontributor", "$$NIvers, Peter$$Rcontributor", "$$NWaller, Fats$$Rcontributor", "$$NChristie, Thomas A.$$Rcontributor", "$$NCoulson, Catherine$$Rcontributor", "$$NKeeler, Toby$$Rcontributor", "$$NRodley, Chris$$Rsecondary contributor" ],
+        "addtitle" : [ "David Lynch's Eraserhead" ],
+        "date" : [ "2014 - 1977", "2014" ],
+        "isbn" : [ "9781604658958", "1604658959" ],
+        "abstract" : [ "An obscure man with a vertical head of hair is living with his spaced-out girlfriend and their fetus-like child. By the end of the film, Henry is decapitated and processed into erasers in this bizarre horror film which closely approaches a nightmare." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "The Criterion Collection" ],
+        "oclcid" : [ "(ocolc)885209991" ],
+        "upcid" : [ "715515125710" ],
+        "edition" : [ "Director approved Blu-ray special edition." ],
+        "seriestitle" : [ "The Criterion collection ; 725" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Eraserhead" ]
+      },
+      "sort" : {
+        "title" : [ "Eraserhead /" ],
+        "author" : [ "Lynch, David, 1946- presenter, screenwriter, film producer, film director, editor of moving image work." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041610060107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041610060107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1604658959,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997ǂ e737 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "63",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "270",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 299,
+    "COMBINED_SEARCH_TIME" : 301,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1977",
+      "count" : "1"
+    }, {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Parent And Child",
+      "count" : "1"
+    }, {
+      "value" : "Parent And Child Drama",
+      "count" : "1"
+    }, {
+      "value" : "Surrealism",
+      "count" : "1"
+    }, {
+      "value" : "Surrealism Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Absurda Firm",
+      "count" : "1"
+    }, {
+      "value" : "Bates Jeanne",
+      "count" : "1"
+    }, {
+      "value" : "Cardwell Herbert",
+      "count" : "1"
+    }, {
+      "value" : "Christie Thomas A",
+      "count" : "1"
+    }, {
+      "value" : "Coulson Catherine",
+      "count" : "1"
+    }, {
+      "value" : "Criterion Collection Firm",
+      "count" : "1"
+    }, {
+      "value" : "Elmes Frederick",
+      "count" : "1"
+    }, {
+      "value" : "Ivers Peter",
+      "count" : "1"
+    }, {
+      "value" : "Joseph Allen",
+      "count" : "1"
+    }, {
+      "value" : "Keeler Toby",
+      "count" : "1"
+    }, {
+      "value" : "Lynch David",
+      "count" : "1"
+    }, {
+      "value" : "Nance Jack",
+      "count" : "1"
+    }, {
+      "value" : "Near Laurel",
+      "count" : "1"
+    }, {
+      "value" : "Phipps Wilson V",
+      "count" : "1"
+    }, {
+      "value" : "Roberts Judith Anna",
+      "count" : "1"
+    }, {
+      "value" : "Rodley Chris",
+      "count" : "1"
+    }, {
+      "value" : "Stewart Charlotte",
+      "count" : "1"
+    }, {
+      "value" : "Waller Fats",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7874–112295960007874",
+      "count" : "1"
+    }, {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7874",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

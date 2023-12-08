@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041885200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge dictionary of philosophy " ],
+        "subject" : [ "Philosophy$$QPhilosophy -- Dictionaries", "PHILOSOPHY -- General", "Philosophy", "Philosophie" ],
+        "format" : [ "1 online resource (xliv, 1161 pages)", "data file" ],
+        "identifier" : [ "$$CISBN$$V9781139057509;$$CISBN$$V1139057502;$$CISBN$$V9781316308424;$$CISBN$$V1316308421;$$CISBN$$V9781786843333;$$CISBN$$V1786843331;$$COCLC$$V(OCoLC)927145544;$$CISBN$$V9781107015050" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "New York City : Cambridge University Press" ],
+        "description" : [ "\"This is the leading, full-scale comprehensive dictionary of philosophical terms and thinkers to appear in English in more than half a century. Written by a team of more than 550 experts and now widely translated, it contains approximately 5,000 entries ranging from short definitions to longer articles. It is designed to facilitate the understanding of philosophy at all levels and in all fields. Key features of this third edition: - 500 new entries covering Eastern as well as Western philosophy, and covering individual countries such as China, France, Germany, Italy, and Spain - Increased coverage of such growing fields as ethics and philosophy of mind - More than 100 new intellectual portraits of leading contemporary thinkers - Wider coverage of Continental philosophy - Dozens of new technical concepts in cognitive science and other areas - Enhanced cross-referencing to add context and increase understanding - Expansions in both text and index to facilitate research and browsing\"-- Provided by publisher" ],
+        "mms" : [ "990041885200107871" ],
+        "contributor" : [ "Audi, Robert, 1941- editor.$$QAudi, Robert", "Audi, Paul, editor.$$QAudi, Paul" ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "Contributors -- Preface to the first edition -- Preface to the second edition -- Preface to the third edition -- Dictionary -- Appendix of special symbols and logical notations -- Index of selected names." ],
+        "genre" : [ "dictionaries", "Dictionaries", "Dictionnaires" ],
+        "relation" : [ "$$Cform$$VPrint version: Cambridge dictionary of philosophy. Third edition. New York City : Cambridge University Press, 2015$$QCambridge dictionary of philosophy." ],
+        "place" : [ "New York City :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "credoref", "ebceb", "aleph004188520" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041885200107871" ],
+        "recordid" : [ "alma990041885200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004188520-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Audi" ],
+        "aufirst" : [ "Robert", "Paul" ],
+        "auinit" : [ "R", "P" ],
+        "addau" : [ "Audi, Robert", "Audi, Paul" ],
+        "contributorfull" : [ "$$NAudi, Robert$$LAudi$$FRobert$$Reditor", "$$NAudi, Paul$$Reditor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781139057509", "1139057502", "9781316308424", "1316308421", "9781786843333", "1786843331", "9781107015050" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This is the leading, full-scale comprehensive dictionary of philosophical terms and thinkers to appear in English in more than half a century. Written by a team of more than 550 experts and now widely translated, it contains approximately 5,000 entries ranging from short definitions to longer articles. It is designed to facilitate the understanding of philosophy at all levels and in all fields. Key features of this third edition: - 500 new entries covering Eastern as well as Western philosophy, and covering individual countries such as China, France, Germany, Italy, and Spain - Increased coverage of such growing fields as ethics and philosophy of mind - More than 100 new intellectual portraits of leading contemporary thinkers - Wider coverage of Continental philosophy - Dozens of new technical concepts in cognitive science and other areas - Enhanced cross-referencing to add context and increase understanding - Expansions in both text and index to facilitate research and browsing\"-- Provided by publisher" ],
+        "cop" : [ "New York City" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)927145544" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge dictionary of philosophy" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge dictionary of philosophy /" ],
+        "author" : [ "Audi, Robert, 1941- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041885200107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041885200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1139057502,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b!41ǂ c35 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "139",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "75",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "21",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "97",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "69",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "395",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 428,
+    "COMBINED_SEARCH_TIME" : 432,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Audi Paul",
+      "count" : "1"
+    }, {
+      "value" : "Audi Robert",
+      "count" : "1"
+    } ]
+  } ]
+}

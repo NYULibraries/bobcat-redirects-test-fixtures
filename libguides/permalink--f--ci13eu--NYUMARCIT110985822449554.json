@@ -1,0 +1,256 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995642713507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng;fre" ],
+        "title" : [ "Canadian Slavic studies. Revue canadienne d'études slaves." ],
+        "subject" : [ "Slavs$$QSlavs -- Periodicals", "Slavic philology$$QSlavic philology -- Periodicals", "Soviet Union$$QSoviet Union -- Periodicals", "Europe, Eastern$$QEurope, Eastern -- Periodicals", "Philologie slave$$QPhilologie slave -- Périodiques", "Slaves$$QSlaves -- Périodiques", "Europe de l'Est$$QEurope de l'Est -- Périodiques", "URSS$$QURSS -- Périodiques", "Slavic philology", "Slavs", "Eastern Europe", "Soviet Union" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V0008-4999" ],
+        "creationdate" : [ "1967 - 1971" ],
+        "publisher" : [ "Montreal, Sir George Williams University.", "v. 1-5; spring 1967-fall 1971." ],
+        "mms" : [ "9995642713507871" ],
+        "contributor" : [ "Loyola College (Montréal, Québec)$$QLoyola College (Montréal, Québec)", "Sir George Williams University.$$QSir George Williams University." ],
+        "addtitle" : [ "Revue canadienne d'études slaves" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cform$$VPrint version:$$Z990017946480107871", "$$Clater_title$$VCanadian-American Slavic Studies$$QCanadian-American Slavic Studies$$Z9995642048207871" ],
+        "place" : [ "Montreal," ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110985822449554" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995642713507871" ],
+        "recordid" : [ "alma9995642713507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110985822449554" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "CAN SLAVIC STUD", "Can. Slav. stud." ],
+        "addtitle" : [ "Revue canadienne d'études slaves" ],
+        "date" : [ "1967 - 1971" ],
+        "issn" : [ "0008-4999" ],
+        "cop" : [ "Montreal" ],
+        "pub" : [ "Sir George Williams University." ],
+        "oclcid" : [ "(ckb)110985822449554", "(conser)---72012985-", "(de-599)zdb2563326-0" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Canadian Slavic studies. Revue canadienne d'études slaves." ]
+      },
+      "sort" : {
+        "title" : [ "Canadian Slavic studies. Revue canadienne d'études slaves." ],
+        "author" : [ "Loyola College (Montréal, Québec)" ],
+        "creationdate" : [ "1967" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642713507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642713507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642713507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "d\"377 a1ǂc34",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "221",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "48",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "33",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "45",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "411",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 450,
+    "COMBINED_SEARCH_TIME" : 454,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1967",
+      "count" : "1"
+    }, {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Eastern Europe",
+      "count" : "1"
+    }, {
+      "value" : "Europe De Lest Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Europe Eastern Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Philologie Slave Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Slaves Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Slavic Philology",
+      "count" : "1"
+    }, {
+      "value" : "Slavic Philology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Slavs",
+      "count" : "1"
+    }, {
+      "value" : "Slavs Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Soviet Union",
+      "count" : "1"
+    }, {
+      "value" : "Soviet Union Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Urss Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Loyola College Montréal Québec",
+      "count" : "1"
+    }, {
+      "value" : "Sir George Williams University",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

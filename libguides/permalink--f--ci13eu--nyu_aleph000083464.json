@@ -1,0 +1,216 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990000834640107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "spa" ],
+        "title" : [ "Opera (Bogotá, Colombia)" ],
+        "subject" : [ "Public administration -- Colombia$$QPublic administration -- Colombia -- Periodicals", "Colombia -- Politics and government -- 1974-$$QColombia -- Politics and government -- 1974- -- Periodicals" ],
+        "format" : [ "v. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2003234676;$$CISSN$$V1657-8651;$$COCLC$$V(OCoLC)52042726" ],
+        "creationdate" : [ "2001" ],
+        "publisher" : [ "Bogotá, Colombia : Universidad Externado de Colombia", "Began in 2001." ],
+        "mms" : [ "990000834640107871" ],
+        "contributor" : [ "Universidad Externado de Colombia. Centro de Investigaciones y Proyectos Especiales.$$QUniversidad Externado de Colombia. Centro de Investigaciones y Proyectos Especiales.", "Universidad Externado de Colombia. Facultad de Finanzas, Gobierno y Relaciones Internacionales.$$QUniversidad Externado de Colombia. Facultad de Finanzas, Gobierno y Relaciones Internacionales." ],
+        "addtitle" : [ "Observatorio de políticas, ejecución y resultados de la administración pública" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VOpera (Bogotá, Colombia)$$Z9995629331107871" ],
+        "unititle" : [ "Opera (Bogotá, Colombia)" ],
+        "place" : [ "Bogotá, Colombia :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000083464" ],
+        "lds53" : [ "000083464" ],
+        "lds60" : [ "Some issues also have distinctive titles.", "Description based on: 2002.", "Latest issue consulted: 2004/2005." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990000834640107871" ],
+        "recordid" : [ "alma990000834640107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000083464-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Observatorio de políticas, ejecución y resultados de la administración pública" ],
+        "date" : [ "2001" ],
+        "issn" : [ "1657-8651" ],
+        "cop" : [ "Bogotá, Colombia" ],
+        "pub" : [ "Universidad Externado de Colombia" ],
+        "oclcid" : [ "(ocolc)52042726" ],
+        "lccn" : [ "2003234676" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Opera (Bogotá, Colombia)" ]
+      },
+      "sort" : {
+        "title" : [ "Opera (Bogotá, Colombia)" ],
+        "author" : [ "Universidad Externado de Colombia. Centro de Investigaciones y Proyectos Especiales." ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990000834640107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2003234676&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jl#2801ǂ o64",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "228",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "50",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "61",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "414",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 451,
+    "COMBINED_SEARCH_TIME" : 453,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Colombia Politics And Government 1974 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Public Administration Colombia Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Universidad Externado De Colombia Centro De Investigaciones Y Proyectos Especiales",
+      "count" : "1"
+    }, {
+      "value" : "Universidad Externado De Colombia Facultad De Finanzas Gobierno Y Relaciones Internacionales",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

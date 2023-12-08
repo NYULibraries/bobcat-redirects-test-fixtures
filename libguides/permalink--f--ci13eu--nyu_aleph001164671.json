@@ -1,0 +1,232 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990011646710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Standing tall a film " ],
+        "subject" : [ "Drama -- Therapeutic use", "Drama -- Therapeutic use$$QDrama -- Therapeutic use -- Case studies", "September 11 Terrorist Attacks, 2001", "September 11 Terrorist Attacks, 2001 -- Psychological aspects", "Children and terrorism", "Drama in education -- New York (State) -- New York", "Stress in children", "Art therapy$$QArt therapy -- Case studies" ],
+        "format" : [ "1 videocassette (24 min.) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$CISBN$$V1572953934;$$COCLC$$V(OCoLC)56620083" ],
+        "creationdate" : [ "2003" ],
+        "publisher" : [ "Boston, Mass. : Fanlight Productions" ],
+        "description" : [ "When an airliner crashed into the second World Trade Center tower, on September 11, 2001, Rachel Croyle's 4th and 5th grade students were watching from their classroom window at Manhattan's PS-3. Looking for ways to help the children deal with their feelings about what they had seen and experienced, she drew upon the expertise of a drama therapist and a group of theater professionals from City Lights, a youth theater organization. Told from the point of view of their classroom teacher, this video documents the transformation of the young students' stories into a theatrical performance. It explores the ways that drama can help children learn how to transform a frightening, chaotic experience into one of clarity and hope. This innovative program will help parents, teachers, school psychologists, social workers, arts therapists, and others who work with children to understand the role that story-making and dramatic performance can play in helping children cope with traumatic experiences." ],
+        "mms" : [ "990011646710107871" ],
+        "contributor" : [ "Stern, Peggy.$$QStern, Peggy.", "Landy, Robert J.$$QLandy, Robert J.", "Fanlight Productions.$$QFanlight Productions." ],
+        "genre" : [ "Case studies" ],
+        "place" : [ "Boston, Mass. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001164671" ],
+        "lds53" : [ "001164671" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990011646710107871" ],
+        "recordid" : [ "alma990011646710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001164671-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stern", "Landy" ],
+        "aufirst" : [ "Peggy.", "Robert J." ],
+        "auinit" : [ "P", "R" ],
+        "addau" : [ "Stern, Peggy.", "Landy, Robert J." ],
+        "contributorfull" : [ "$$NStern, Peggy.$$LStern$$FPeggy.$$Rcontributor", "$$NLandy, Robert J.$$Rcontributor" ],
+        "date" : [ "2003" ],
+        "isbn" : [ "1572953934" ],
+        "abstract" : [ "When an airliner crashed into the second World Trade Center tower, on September 11, 2001, Rachel Croyle's 4th and 5th grade students were watching from their classroom window at Manhattan's PS-3. Looking for ways to help the children deal with their feelings about what they had seen and experienced, she drew upon the expertise of a drama therapist and a group of theater professionals from City Lights, a youth theater organization. Told from the point of view of their classroom teacher, this video documents the transformation of the young students' stories into a theatrical performance. It explores the ways that drama can help children learn how to transform a frightening, chaotic experience into one of clarity and hope. This innovative program will help parents, teachers, school psychologists, social workers, arts therapists, and others who work with children to understand the role that story-making and dramatic performance can play in helping children cope with traumatic experiences." ],
+        "cop" : [ "Boston, Mass" ],
+        "pub" : [ "Fanlight Productions" ],
+        "oclcid" : [ "(ocolc)56620083" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Standing tall a film" ]
+      },
+      "sort" : {
+        "title" : [ "Standing tall a film /" ],
+        "author" : [ "Stern, Peggy." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990011646710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1572953934,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "68",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "298",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 324,
+    "COMBINED_SEARCH_TIME" : 326,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Therapy Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Children And Terrorism",
+      "count" : "1"
+    }, {
+      "value" : "Drama In Education New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "Drama Therapeutic Use",
+      "count" : "1"
+    }, {
+      "value" : "Drama Therapeutic Use Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "September 11 Terrorist Attacks 2001",
+      "count" : "1"
+    }, {
+      "value" : "September 11 Terrorist Attacks 2001 Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Stress In Children",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Fanlight Productions",
+      "count" : "1"
+    }, {
+      "value" : "Landy Robert J",
+      "count" : "1"
+    }, {
+      "value" : "Stern Peggy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

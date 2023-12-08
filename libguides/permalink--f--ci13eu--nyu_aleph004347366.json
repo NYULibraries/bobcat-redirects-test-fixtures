@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043473660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Introduction to optics " ],
+        "subject" : [ "Optique", "optics", "Physique", "Optics", "Optica", "Optik" ],
+        "format" : [ "1 online resource (xvii, 595 pages) : illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CLC$$V2005042542;$$CISBN$$V9780387275987;$$CISBN$$V0387275983;$$CISBN$$V6611335536;$$CISBN$$V9786611335533;$$COCLC$$V(OCoLC)262680055;$$CISBN$$V0387403469;$$CISBN$$V9780387403465" ],
+        "creationdate" : [ "©2005" ],
+        "creator" : [ "Chartier, Germain.$$QChartier, Germain." ],
+        "publisher" : [ "New York : Springer" ],
+        "description" : [ "Since the discovery of the laser in 1960 and optical fibers in 1970, optics has undergone dramatic changes that accentuate its multi-disciplinary character. This text covers essential concepts and reports the key developments and progress in current knowledge in the field. Inspired by the style of Richard Feynman, the method of presentation emphasizes \"telling\" optics, rather than deducing it from fundamental laws, as well as tactfully using mathematical tools so as not to obscure the physical phenomena of interest. For its excellent teaching approach, the book received the Arnulf-Francon Award of the French Optical Society. The concepts are formulated in a way such that the necessary mathematical tools do not hinder comprehension of the phenomena. Global in vision, the book can also be used as a reference. In addition to the traditional aspects of optics, it includes the tools and methods currently used by researchers and engineers, as well as explanation and implications of the most recent developments" ],
+        "mms" : [ "990043473660107871" ],
+        "series" : [ "Advanced texts in physics$$QAdvanced texts in physics", "Advanced texts in physics.$$QAdvanced texts in physics." ],
+        "contents" : [ "Machine generated contents note: 1. Orders of magnitude in optics -- 2. Electromagnetic waves -- 3. Geometrical optics -- 4. Polarized light -- laws of reflection -- 5. Birefringence -- 6. Interference -- 7. Diffraction -- 8. Index of refraction -- 9. Lasers -- 10. Nonlinear optics -- 11. Raman-Brillouin-Rayleigh diffusion -- 12. Guided optics." ],
+        "ispartof" : [ "Springer e-books$$QSpringer e-books" ],
+        "relation" : [ "$$Cform$$VIntroduction to Optics$$Z9995678097807871", "$$Cform$$VPrint version: Chartier, Germain. Manuel d'optique. English. Introduction to optics. New York : Springer, ©2005$$QIntroduction to optics.$$Z990002465460107871" ],
+        "unititle" : [ "Manuel d'optique. English" ],
+        "includes" : [ "Chartier, Germain. Manuel d'optique. English$$QChartier, Germain. Manuel d'optique. English" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004347366" ],
+        "lds63" : [ "Available to OhioLINK libraries." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043473660107871" ],
+        "recordid" : [ "alma990043473660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004347366-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chartier" ],
+        "aufirst" : [ "Germain." ],
+        "auinit" : [ "G" ],
+        "au" : [ "Chartier, Germain." ],
+        "creatorfull" : [ "$$NChartier, Germain.$$LChartier$$FGermain.$$Rauthor" ],
+        "stitle" : [ "Springer e-books" ],
+        "date" : [ "2005", "©2005" ],
+        "isbn" : [ "9780387275987", "0387275983", "6611335536", "9786611335533", "0387403469", "9780387403465" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Since the discovery of the laser in 1960 and optical fibers in 1970, optics has undergone dramatic changes that accentuate its multi-disciplinary character. This text covers essential concepts and reports the key developments and progress in current knowledge in the field. Inspired by the style of Richard Feynman, the method of presentation emphasizes \"telling\" optics, rather than deducing it from fundamental laws, as well as tactfully using mathematical tools so as not to obscure the physical phenomena of interest. For its excellent teaching approach, the book received the Arnulf-Francon Award of the French Optical Society. The concepts are formulated in a way such that the necessary mathematical tools do not hinder comprehension of the phenomena. Global in vision, the book can also be used as a reference. In addition to the traditional aspects of optics, it includes the tools and methods currently used by researchers and engineers, as well as explanation and implications of the most recent developments" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)262680055" ],
+        "doi" : [ "10.1007/b106780" ],
+        "lccn" : [ "2005042542" ],
+        "seriestitle" : [ "Advanced texts in physics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Introduction to optics" ]
+      },
+      "sort" : {
+        "title" : [ "Introduction to optics /" ],
+        "author" : [ "Chartier, Germain." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043473660107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043473660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0387275983,OCLC:,LCCN:2005042542&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qc\"355.3ǂ c4813 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "382",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "91",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "99",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "614",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 649,
+    "COMBINED_SEARCH_TIME" : 651,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Optica",
+      "count" : "1"
+    }, {
+      "value" : "Optics",
+      "count" : "1"
+    }, {
+      "value" : "Optik",
+      "count" : "1"
+    }, {
+      "value" : "Optique",
+      "count" : "1"
+    }, {
+      "value" : "Physique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chartier Germain",
+      "count" : "1"
+    } ]
+  } ]
+}

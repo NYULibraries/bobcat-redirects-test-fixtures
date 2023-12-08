@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990017573090107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "From Kalarippayattu to Beckett" ],
+        "subject" : [ "Acting -- Physiological aspects -- Study and teaching", "Martial arts -- India -- Kerala -- Study and teaching", "Movement (Acting)", "Theater -- India", "Performing arts -- India" ],
+        "format" : [ "1 videocassette (130 min.) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)ocm43593822" ],
+        "creationdate" : [ "1999" ],
+        "publisher" : [ "Exeter, UK : Arts Documentation Unit" ],
+        "description" : [ "In August 1998, as part of the passePartout Festival in Utrecht, Holland, Phillip Zarrilli led a two-week workshop for European actors. The group undertook daily training based on Asian martial and meditative arts, and then applied these insights to work on selected Beckett texts. Zarrilli is an acknowledged expert on Kalarippayattu, the South Indian martial art form." ],
+        "mms" : [ "990017573090107871" ],
+        "contributor" : [ "Zarrilli, Phillip B., 1947-$$QZarrilli, Phillip B.", "University of Exeter. Arts Documentation Unit.$$QUniversity of Exeter. Arts Documentation Unit." ],
+        "edition" : [ "Electronic ed." ],
+        "series" : [ "Arts archives. Fourth archive, 1998/99 ; 3$$QArts archives. Fourth archive, 1998/99 ", "Arts archives. Fourth archive, 1998/99 ; 3.$$QArts archives." ],
+        "place" : [ "Exeter, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001757309" ],
+        "lds53" : [ "001757309" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990017573090107871" ],
+        "recordid" : [ "alma990017573090107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001757309-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zarrilli" ],
+        "aufirst" : [ "Phillip B." ],
+        "auinit" : [ "P" ],
+        "addau" : [ "Zarrilli, Phillip B." ],
+        "contributorfull" : [ "$$NZarrilli, Phillip B.$$LZarrilli$$FPhillip B.$$Rcontributor" ],
+        "date" : [ "1999" ],
+        "abstract" : [ "In August 1998, as part of the passePartout Festival in Utrecht, Holland, Phillip Zarrilli led a two-week workshop for European actors. The group undertook daily training based on Asian martial and meditative arts, and then applied these insights to work on selected Beckett texts. Zarrilli is an acknowledged expert on Kalarippayattu, the South Indian martial art form." ],
+        "cop" : [ "Exeter, UK" ],
+        "pub" : [ "Arts Documentation Unit" ],
+        "oclcid" : [ "(ocolc)43593822" ],
+        "edition" : [ "Electronic ed." ],
+        "seriestitle" : [ "Arts archives. Fourth archive, 1998/99 ; 3" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "From Kalarippayattu to Beckett" ]
+      },
+      "sort" : {
+        "title" : [ "From Kalarippayattu to Beckett" ],
+        "author" : [ "Zarrilli, Phillip B., 1947-" ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990017573090107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:43593822,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gv000000001100.000000000071.k000000000047f000000000766000000001999videotape",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "110",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "46",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "41",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "300",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 338,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting Physiological Aspects Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Martial Arts India Kerala Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Movement Acting",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts India",
+      "count" : "1"
+    }, {
+      "value" : "Theater India",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "University Of Exeter Arts Documentation Unit",
+      "count" : "1"
+    }, {
+      "value" : "Zarrilli Phillip B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

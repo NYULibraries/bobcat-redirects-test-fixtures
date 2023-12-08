@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073410840107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "New Grove Guide to Verdi and His Operas." ],
+        "subject" : [ "Verdi, Giuseppe, 1813-1901 Operas", "Operas (Verdi, Giuseppe)", "Opera -- Italy -- 19th century", "Opéra -- Italie -- 19e siècle", "MUSIC -- Instruction & Study -- Voice", "MUSIC -- Lyrics", "MUSIC -- Printed Music -- Vocal", "Opera", "Italy", "1800-1899" ],
+        "format" : [ "1 online resource (273 pages)" ],
+        "identifier" : [ "$$CISBN$$V0199727813;$$CISBN$$V9780199727810;$$COCLC$$V(OCoLC)958569819;$$CISBN$$V9780195313130" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Parker, Roger.$$QParker, Roger." ],
+        "publisher" : [ "New York : Oxford University Press, USA" ],
+        "description" : [ "Each entry in this New Grove series of composers and their operas is based on articles in The New Grove Dictionary of Opera, that feature information on the lives of individual composers, their works, their librettists and interpreters, and the places where they performed. These unique books compile the meticulously researched articles into organized narratives, designed to make finding information as easy as possible without sacrificing readability. Each volume is completely up-to-date, and includes a suggested listening guide and an eight-page glossy insert containing relevant illustrations." ],
+        "mms" : [ "990073410840107871" ],
+        "series" : [ "New Grove Operas$$QNew Grove Operas", "New Grove operas.$$QNew Grove operas." ],
+        "contents" : [ "Intro; CONTENTS; PREFACE; LIST OF ILLUSTRATIONS; Chronology of Verdi's Life and Operas; Life and Works; The Operas; Oberto, conte di San Bonifacio; Un giorno di regno; Nabucco; I Lombardi alla prima crociata; Ernani; I due Foscari; Giovanna d'Arco; Alzira; Attila; Macbeth; I masnadieri; Jérusalem; Il corsaro; La battaglia di Legnano; Luisa Miller; Stiffelio; Rigoletto; Il trovatore; La traviata; Les Vêpres siciliennes; Simon Boccanegra; Aroldo; Un ballo in maschera; La forza del destino; Don Carlos; Aida; Otello; Falstaff; GLOSSARY; A; B; C; D; F; G; L; M; N; O; P; Q; R; S; T", "INDEX OF ROLE NAMESA; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; Z; SUGGESTED LISTENING GUIDE; SUGGESTED FURTHER READING" ],
+        "relation" : [ "$$Cform$$VPrint version: Parker, Roger. New Grove Guide to Verdi and His Operas. New York : Oxford University Press, USA, ©2007$$QNew Grove Guide to Verdi and His Operas.$$Z990004960830107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007341084" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073410840107871" ],
+        "recordid" : [ "alma990073410840107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007341084-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Parker" ],
+        "aufirst" : [ "Roger." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Parker, Roger." ],
+        "creatorfull" : [ "$$NParker, Roger.$$LParker$$FRoger.$$Rauthor" ],
+        "date" : [ "2007" ],
+        "isbn" : [ "0199727813", "9780199727810", "9780195313130" ],
+        "abstract" : [ "Each entry in this New Grove series of composers and their operas is based on articles in The New Grove Dictionary of Opera, that feature information on the lives of individual composers, their works, their librettists and interpreters, and the places where they performed. These unique books compile the meticulously researched articles into organized narratives, designed to make finding information as easy as possible without sacrificing readability. Each volume is completely up-to-date, and includes a suggested listening guide and an eight-page glossy insert containing relevant illustrations." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press, USA" ],
+        "oclcid" : [ "(ocolc)958569819" ],
+        "seriestitle" : [ "New Grove Operas" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "New Grove Guide to Verdi and His Operas." ]
+      },
+      "sort" : {
+        "title" : [ "New Grove Guide to Verdi and His Operas." ],
+        "author" : [ "Parker, Roger." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073410840107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780199727810,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ml\"410 v4p156 2007",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "273",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "42",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "81",
+    "RETRIVE_FROM_DB_RELATIONS" : "63",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "37",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "88",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "513",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 542,
+    "COMBINED_SEARCH_TIME" : 544,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1800 1899",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Music Instruction Study Voice",
+      "count" : "1"
+    }, {
+      "value" : "Music Lyrics",
+      "count" : "1"
+    }, {
+      "value" : "Music Printed Music Vocal",
+      "count" : "1"
+    }, {
+      "value" : "Opera",
+      "count" : "1"
+    }, {
+      "value" : "Opera Italy 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "Operas Verdi Giuseppe",
+      "count" : "1"
+    }, {
+      "value" : "Opéra Italie 19e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Verdi Giuseppe 1813 1901 Operas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Parker Roger",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080523670107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "What psychology majors could (and should) be doing : a guide to research experience, professional skills, and your options after college " ],
+        "subject" : [ "Psychologie -- Recherche", "PSYCHOLOGY -- Reference", "EDUCATION -- Student Life & Student Affairs", "Psychology -- Research" ],
+        "format" : [ "1 online resource (viii, 169 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781433823800;$$CISBN$$V1433823802;$$COCLC$$V(OCoLC)967226581;$$CISBN$$V9781433823794" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Silvia, Paul J., 1976- author.$$QSilvia, Paul J." ],
+        "publisher" : [ "Washington, DC : American Psychological Association" ],
+        "description" : [ "\"With more than 115,000 psychology majors graduating each year, it is an understatement to say that competition is fierce. Whether you plan to go to graduate school or to enter the world of work, a decent GPA is not enough to make you stand out. So, how can you gain a competitive edge? Like a trusted advisor, this book steers you to the experiences outside the classroom that will help you build your professional portfolio and show prospective employers and graduate school programs that you have the skills they want -- researching, writing, public speaking, and statistical reasoning. Since professional research experience remains the most important avenue for fostering and demonstrating these skills, the authors emphasize ways to get involved in scholarly research, including finding research opportunities, conducting the research, going to scholarly conferences, and presenting findings in papers and talks. ... [T]his second edition provides a new overview of the kinds of research experiences you might seek, no matter what type of college you are attending, as well as tips for writing your CV and personal statement, succeeding in classes, and thinking about options after college.\"--Back cover" ],
+        "mms" : [ "990080523670107871" ],
+        "contributor" : [ "Delaney, Peter F., author.$$QDelaney, Peter F.", "Marcovitch, Stuart, author.$$QMarcovitch, Stuart" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "Preface -- Introduction -- Choosing your research focus -- Finding research opportunities -- Succeeding in your classes -- Getting more out of statistics -- Finding and understanding research articles -- Writing research papers -- Getting involved outside the lab and classroom -- Attending academic conferences -- Presenting a research poster -- Presenting a research talk -- Making a CV -- Writing personal statements -- Thinking about the world of work -- Understanding graduate school -- Epilogue -- Appendix -- References." ],
+        "relation" : [ "$$Cform$$VPrint version: Silvia, Paul J., 1976- What psychology majors could (and should) be doing. Second edition. Washington, DC : American Psychological Association, [2017]$$QWhat psychology majors could (and should) be doing.$$Z990050293130107871" ],
+        "mesh" : [ "Psychology -- education" ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "apapsyc", "proqpsyc", "aleph008052367" ],
+        "lds60" : [ "Revised edition of What psychology majors could (and should) be doing, ©2009." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080523670107871" ],
+        "recordid" : [ "alma990080523670107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008052367-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Silvia" ],
+        "aufirst" : [ "Paul J." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Silvia, Paul J." ],
+        "addau" : [ "Delaney, Peter F.", "Marcovitch, Stuart" ],
+        "creatorfull" : [ "$$NSilvia, Paul J.$$LSilvia$$FPaul J.$$Rauthor" ],
+        "contributorfull" : [ "$$NDelaney, Peter F.$$LDelaney$$FPeter F.$$Rcontributor", "$$NMarcovitch, Stuart$$Rcontributor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781433823800", "1433823802", "9781433823794" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"With more than 115,000 psychology majors graduating each year, it is an understatement to say that competition is fierce. Whether you plan to go to graduate school or to enter the world of work, a decent GPA is not enough to make you stand out. So, how can you gain a competitive edge? Like a trusted advisor, this book steers you to the experiences outside the classroom that will help you build your professional portfolio and show prospective employers and graduate school programs that you have the skills they want -- researching, writing, public speaking, and statistical reasoning. Since professional research experience remains the most important avenue for fostering and demonstrating these skills, the authors emphasize ways to get involved in scholarly research, including finding research opportunities, conducting the research, going to scholarly conferences, and presenting findings in papers and talks. ... [T]his second edition provides a new overview of the kinds of research experiences you might seek, no matter what type of college you are attending, as well as tips for writing your CV and personal statement, succeeding in classes, and thinking about options after college.\"--Back cover" ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "American Psychological Association" ],
+        "oclcid" : [ "(ocolc)967226581" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "What psychology majors could (and should) be doing : a guide to research experience, professional skills, and your options after college" ]
+      },
+      "sort" : {
+        "title" : [ "What psychology majors could (and should) be doing : a guide to research experience, professional skills, and your options after college /" ],
+        "author" : [ "Silvia, Paul J., 1976- author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080523670107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080523670107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1433823802,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bf!76.5ǂ s497 2017eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "67",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "7",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "300",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 330,
+    "COMBINED_SEARCH_TIME" : 333,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Student Life Student Affairs",
+      "count" : "1"
+    }, {
+      "value" : "Psychologie Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Education",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Reference",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Research",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Delaney Peter F",
+      "count" : "1"
+    }, {
+      "value" : "Marcovitch Stuart",
+      "count" : "1"
+    }, {
+      "value" : "Silvia Paul J",
+      "count" : "1"
+    } ]
+  } ]
+}

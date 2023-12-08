@@ -1,0 +1,239 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990010879230107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The crying game" ],
+        "subject" : [ "Identity (Psychology)$$QIdentity (Psychology) -- Drama", "Irish Republican Army$$QIrish Republican Army -- Drama", "Kidnapping -- Ireland$$QKidnapping -- Ireland -- Drama" ],
+        "format" : [ "1 videodisc (112 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CISBN$$V0784011184;$$CPUBNUM$$V60463;$$COCLC$$V(OCoLC)ocm44917360" ],
+        "creationdate" : [ "c1999" ],
+        "publisher" : [ "Santa Monica, CA : Artisan Home Entertainment" ],
+        "description" : [ "A haunting, humorous and shocking romantic thriller about Irish terrorists, their hostage and the hostage's exotic girlfriend." ],
+        "mms" : [ "990010879230107871" ],
+        "contributor" : [ "Jordan, Neil, 1951-$$QJordan, Neil", "Rea, Stephen.$$QRea, Stephen.", "Richardson, Miranda.$$QRichardson, Miranda.", "Davidson, Jaye.$$QDavidson, Jaye.", "Whitaker, Forest.$$QWhitaker, Forest.", "Miramax Films.$$QMiramax Films.", "Artisan Home Entertainment (Firm)$$QArtisan Home Entertainment (Firm)" ],
+        "edition" : [ "Widescreen and standard versions." ],
+        "genre" : [ "Drama", "Feature films", "Video recordings for the hearing impaired" ],
+        "place" : [ "Santa Monica, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001087923" ],
+        "lds53" : [ "001087923" ],
+        "lds60" : [ "Videodisc release of the 1992 motion picture.", "For specific features see interactive menu." ],
+        "lds64" : [ "Producer, Stephen Woolley ; director, Neil Jordan." ],
+        "lds65" : [ "Stephen Rea, Miranda Richardson, Jaye Davidson, Forest Whitaker." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990010879230107871" ],
+        "recordid" : [ "alma990010879230107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001087923-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jordan", "Rea", "Richardson", "Davidson", "Whitaker" ],
+        "aufirst" : [ "Neil", "Stephen.", "Miranda.", "Jaye.", "Forest." ],
+        "auinit" : [ "N", "S", "M", "J", "F" ],
+        "addau" : [ "Jordan, Neil", "Rea, Stephen.", "Richardson, Miranda.", "Davidson, Jaye.", "Whitaker, Forest." ],
+        "contributorfull" : [ "$$NJordan, Neil$$LJordan$$FNeil$$Rcontributor", "$$NRea, Stephen.$$Rcontributor", "$$NRichardson, Miranda.$$Rcontributor", "$$NDavidson, Jaye.$$Rcontributor", "$$NWhitaker, Forest.$$Rcontributor" ],
+        "date" : [ "1999", "c1999" ],
+        "isbn" : [ "0784011184" ],
+        "abstract" : [ "A haunting, humorous and shocking romantic thriller about Irish terrorists, their hostage and the hostage's exotic girlfriend." ],
+        "cop" : [ "Santa Monica, CA" ],
+        "pub" : [ "Artisan Home Entertainment" ],
+        "oclcid" : [ "(ocolc)44917360" ],
+        "edition" : [ "Widescreen and standard versions." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The crying game" ]
+      },
+      "sort" : {
+        "title" : [ "crying game" ],
+        "author" : [ "Jordan, Neil, 1951-" ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990010879230107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0784011184,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "791.43 72",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "129",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "50",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "11",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "62",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "47",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "130",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "431",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 456,
+    "COMBINED_SEARCH_TIME" : 459,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Identity Psychology Drama",
+      "count" : "1"
+    }, {
+      "value" : "Irish Republican Army Drama",
+      "count" : "1"
+    }, {
+      "value" : "Kidnapping Ireland Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Artisan Home Entertainment Firm",
+      "count" : "1"
+    }, {
+      "value" : "Davidson Jaye",
+      "count" : "1"
+    }, {
+      "value" : "Jordan Neil",
+      "count" : "1"
+    }, {
+      "value" : "Miramax Films",
+      "count" : "1"
+    }, {
+      "value" : "Rea Stephen",
+      "count" : "1"
+    }, {
+      "value" : "Richardson Miranda",
+      "count" : "1"
+    }, {
+      "value" : "Whitaker Forest",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

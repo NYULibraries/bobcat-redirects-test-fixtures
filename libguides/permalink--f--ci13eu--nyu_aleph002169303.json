@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021693030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of American social history " ],
+        "subject" : [ "United States -- Social conditions$$QUnited States -- Social conditions -- Encyclopedias", "United States -- Social life and customs$$QUnited States -- Social life and customs -- Encyclopedias", "Social history$$QSocial history -- Encyclopedias" ],
+        "format" : [ "3 v. (xix, 2653 p.) : ill. ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V92010577;$$CISBN$$V0684192462 (set : alk. paper);$$CISBN$$V0684194554 (v. 1 : alk. paper);$$CISBN$$V0684194562 (v. 2 : alk. paper);$$CISBN$$V0684194570 (v. 3 : alk. paper);$$COCLC$$V(OCoLC)25628823" ],
+        "creationdate" : [ "c1993" ],
+        "publisher" : [ "New York : Scribner ; Toronto : Maxwell Macmillan Canada ; New York : Maxwell Macmillan International" ],
+        "mms" : [ "990021693030107871" ],
+        "contributor" : [ "Cayton, Mary Kupiec.$$QCayton, Mary Kupiec.", "Gorn, Elliott J., 1951-$$QGorn, Elliott J.", "Williams, Peter W.$$QWilliams, Peter W." ],
+        "genre" : [ "Encyclopedias" ],
+        "place" : [ "New York : Toronto : New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002169303" ],
+        "lds53" : [ "002169303" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021693030107871" ],
+        "recordid" : [ "alma990021693030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002169303-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cayton", "Gorn", "Williams" ],
+        "aufirst" : [ "Mary Kupiec.", "Elliott J.", "Peter W." ],
+        "auinit" : [ "M", "E", "P" ],
+        "addau" : [ "Cayton, Mary Kupiec.", "Gorn, Elliott J.", "Williams, Peter W." ],
+        "contributorfull" : [ "$$NCayton, Mary Kupiec.$$LCayton$$FMary Kupiec.$$Rcontributor", "$$NGorn, Elliott J.$$Rcontributor", "$$NWilliams, Peter W.$$Rcontributor" ],
+        "date" : [ "1993", "c1993" ],
+        "isbn" : [ "0684192462", "0684194554", "0684194562", "0684194570" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Scribner" ],
+        "oclcid" : [ "(ocolc)25628823" ],
+        "lccn" : [ "92010577" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of American social history" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of American social history /" ],
+        "author" : [ "Cayton, Mary Kupiec." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021693030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0684192462,OCLC:,LCCN:92010577&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hn!57ǂ e58 1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "47",
+    "CALL_SOLR_GET_IDS_LIST" : "52",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "230",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 261,
+    "COMBINED_SEARCH_TIME" : 264,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Social History Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "United States Social Conditions Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "United States Social Life And Customs Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Cayton Mary Kupiec",
+      "count" : "1"
+    }, {
+      "value" : "Gorn Elliott J",
+      "count" : "1"
+    }, {
+      "value" : "Williams Peter W",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

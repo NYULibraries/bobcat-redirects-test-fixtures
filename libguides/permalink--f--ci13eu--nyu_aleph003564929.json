@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035649290107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Projections : comics and the history of twenty-first-century storytelling " ],
+        "subject" : [ "Comic books, strips, etc -- United States -- History and criticism", "Motion pictures and comic books -- United States", "ART -- Techniques -- Drawing", "Comic books, strips, etc", "Motion pictures and comic books", "Narration (Rhetoric)", "United States", "Bandes dessinées -- États-Unis -- 1870-1914 -- Histoire et critique", "Bandes dessinées -- États-Unis -- 20e siècle -- Histoire et critique", "Cinéma et bandes dessinées -- États-Unis", "Narration" ],
+        "format" : [ "1 online resource (xv, 220 pages).", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780804781787;$$CISBN$$V0804781788;$$COCLC$$V(OCoLC)763161448" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "Gardner, Jared.$$QGardner, Jared." ],
+        "publisher" : [ "Stanford, CA : Stanford University Press" ],
+        "description" : [ "Annotation When Art Spiegelman'sMauswon the Pulitzer Prize in 1992, it marked a new era for comics. Comics are now taken seriously by the same academic and cultural institutions that long dismissed the form. And the visibility of comics continues to increase, with alternative cartoonists now published by major presses and more comics-based films arriving on the screen each year. Projectionsargues that the seemingly sudden visibility of comics is no accident. Beginning with the parallel development of narrative comics at the turn of the 20th century, comics have long been a form that invitesindeed requiresreaders to help shape the stories being told. Today, with the rise of interactive media, the creative techniques and the reading practices comics have been experimenting with for a century are now in universal demand. Recounting the history of comics from the nineteenth-century rise of sequential comics to the newspaper strip, through comic books and underground comix, to the graphic novel and webcomics, Gardner shows why they offer the best models for rethinking storytelling in the twenty-first century. In the process, he reminds us of some beloved characters from our past and present, including Happy Hooligan, Krazy Kat, Crypt Keeper, and Mr. Natural." ],
+        "mms" : [ "990035649290107871" ],
+        "series" : [ "Post 45$$QPost 45", "Post 45.$$QPost 45." ],
+        "contents" : [ "1. Fragments of Modernity, 1889-1920 -- 2. Serial Pleasures, 1907-1938 -- 3. Fan-Addicts and the Comic Book, 1938-1955 -- 4. First-Person Graphic, 1959-2010 -- 5. Archives and Collectors, 1990-2010 -- 6. Coda: Comics, Film, and the Future of Twenty-First-Century Storytelling -- Notes." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Gardner, Jared. Projections. Stanford, CA : Stanford University Press, 2012$$QProjections." ],
+        "place" : [ "Stanford, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebcacls", "ebceb", "ebscoac", "aleph003564929" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035649290107871" ],
+        "recordid" : [ "alma990035649290107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003564929-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gardner" ],
+        "aufirst" : [ "Jared." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Gardner, Jared." ],
+        "creatorfull" : [ "$$NGardner, Jared.$$LGardner$$FJared.$$Rauthor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9780804781787", "0804781788" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Annotation When Art Spiegelman'sMauswon the Pulitzer Prize in 1992, it marked a new era for comics. Comics are now taken seriously by the same academic and cultural institutions that long dismissed the form. And the visibility of comics continues to increase, with alternative cartoonists now published by major presses and more comics-based films arriving on the screen each year. Projectionsargues that the seemingly sudden visibility of comics is no accident. Beginning with the parallel development of narrative comics at the turn of the 20th century, comics have long been a form that invitesindeed requiresreaders to help shape the stories being told. Today, with the rise of interactive media, the creative techniques and the reading practices comics have been experimenting with for a century are now in universal demand. Recounting the history of comics from the nineteenth-century rise of sequential comics to the newspaper strip, through comic books and underground comix, to the graphic novel and webcomics, Gardner shows why they offer the best models for rethinking storytelling in the twenty-first century. In the process, he reminds us of some beloved characters from our past and present, including Happy Hooligan, Krazy Kat, Crypt Keeper, and Mr. Natural." ],
+        "cop" : [ "Stanford, CA" ],
+        "pub" : [ "Stanford University Press" ],
+        "oclcid" : [ "(ocolc)763161448" ],
+        "lccn" : [ "2011031184" ],
+        "seriestitle" : [ "Post 45" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Projections : comics and the history of twenty-first-century storytelling" ]
+      },
+      "sort" : {
+        "title" : [ "Projections : comics and the history of twenty-first-century storytelling /" ],
+        "author" : [ "Gardner, Jared." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990035649290107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990035649290107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990035649290107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0804781788,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6725ǂ g36 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "244",
+    "CALL_SOLR_GET_IDS_LIST" : "159",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "137",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "591",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 625,
+    "COMBINED_SEARCH_TIME" : 629,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Techniques Drawing",
+      "count" : "1"
+    }, {
+      "value" : "Bandes Dessinées États Unis 1870 1914 Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Bandes Dessinées États Unis 20e Siècle Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Cinéma Et Bandes Dessinées États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Comic Books Strips Etc United States History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures And Comic Books",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures And Comic Books United States",
+      "count" : "1"
+    }, {
+      "value" : "Narration",
+      "count" : "1"
+    }, {
+      "value" : "Narration Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gardner Jared",
+      "count" : "1"
+    } ]
+  } ]
+}

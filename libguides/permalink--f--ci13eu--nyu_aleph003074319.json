@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990030743190107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng;fre;spa" ],
+        "title" : [ "The Commitments" ],
+        "subject" : [ "Doyle, Roddy, 1958-$$QDoyle, Roddy, 1958- -- Film adaptations", "Bands (Music) -- Ireland -- Dublin$$QBands (Music) -- Ireland -- Dublin -- Drama", "Soul music -- Ireland -- Dublin$$QSoul music -- Ireland -- Dublin -- Drama" ],
+        "format" : [ "2 videodiscs (117 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)55536246" ],
+        "creationdate" : [ "2003" ],
+        "publisher" : [ "Beverly Hills, Calif. : 20th Century Fox Home Entertainment" ],
+        "description" : [ "Fueled by raw talent and driven by dreams of glory, a dozen dead-enders from Dublin's gritty North Side share a passion for soul music that takes their band on a wild rollercoaster ride from the streets to superstardom! Includes 4 hours of extras." ],
+        "mms" : [ "990030743190107871" ],
+        "contributor" : [ "Parker, Alan, 1944-$$QParker, Alan", "Randall-Cutler, Roger.$$QRandall-Cutler, Roger.", "Myles, Lynda.$$QMyles, Lynda.", "Clement, Dick.$$QClement, Dick.", "La Frenais, Ian.$$QLa Frenais, Ian.", "Doyle, Roddy, 1958-$$QDoyle, Roddy", "Arkins, Robert.$$QArkins, Robert.", "Strong, Andrew, 1973-$$QStrong, Andrew", "Murphy, Johnny.$$QMurphy, Johnny.", "Aherne, Michael.$$QAherne, Michael.", "Kennedy, Maria Doyle.$$QKennedy, Maria Doyle.", "Ball, Angeline.$$QBall, Angeline.", "Finnigan, Dave.$$QFinnigan, Dave.", "Gallagher, Bronagh.$$QGallagher, Bronagh.", "Hansard, Glen, 1970-$$QHansard, Glen", "Gormley, Félim.$$QGormley, Félim.", "Tattersall, Gale.$$QTattersall, Gale.", "Hambling, Gerry.$$QHambling, Gerry.", "Gantley, Arden.$$QGantley, Arden.", "Geraghty, Mark.$$QGeraghty, Mark.", "Connelly, James Campbell.$$QConnelly, James Campbell.", "Rose, Penny.$$QRose, Penny.", "Morris, Brian.$$QMorris, Brian.", "Beacon Pictures.$$QBeacon Pictures.", "First Film Company.$$QFirst Film Company.", "Dirty Hands Productions.$$QDirty Hands Productions.", "Twentieth Century Fox Home Entertainment, Inc.$$QTwentieth Century Fox Home Entertainment, Inc." ],
+        "edition" : [ "Collector's ed., widescreen ed." ],
+        "contents" : [ "Disc one. The feature -- disc two. Supplemental." ],
+        "genre" : [ "Film adaptations", "Drama", "Feature films", "Musical films", "Video recordings for the hearing impaired" ],
+        "unititle" : [ "Commitments (Motion picture)" ],
+        "place" : [ "Beverly Hills, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003074319" ],
+        "lds53" : [ "003074319" ],
+        "lds60" : [ "From the novel by Roddy Doyle.", "Originally released as a motion picture in 1991.", "DVD dated 2003; released 2004.", "Special features: Disc one: full-length audio commentary by director. Disc 2, Making of Alan Parker's film The Commitments; The Commitments: looking back; Dublin Soul: The working class & changing face of Dublin; Making of featurette; \"Treat Her Right\" music video (with introduction by Alan Parker and Robert Arkins); original songs by cast members; theatrical trailer, TV spots; Radio spots; still gallery." ],
+        "lds64" : [ "Cinematographer, Gale Tattersall ; art directors, Arden Gantley, Mark Geraghty ; editor, Gerry Hambling ; music, James Campbell Connelly ; costume designer, Penny Rose ; production designer, Brian Morris." ],
+        "lds65" : [ "Robert Arkins, Michael Aherne, Angeline Ball, Maria Doyle, Dave Finnegan, Bronagh Gallagher, Félim Gormley, Glen Hansard, Andrew Strong, Johnny Murphy, Kenneth McCluskey, Colm Meaney, Anne Kent." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990030743190107871" ],
+        "recordid" : [ "alma990030743190107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003074319-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Parker", "Randall-Cutler", "Myles", "Clement", "LaFrenais", "Doyle", "Arkins", "Strong", "Murphy", "Aherne", "Kennedy", "Ball", "Finnigan", "Gallagher", "Hansard", "Gormley", "Tattersall", "Hambling", "Gantley", "Geraghty", "Connelly", "Rose", "Morris" ],
+        "aufirst" : [ "Alan", "Roger.", "Lynda.", "Dick.", "Ian.", "Roddy", "Robert.", "Andrew", "Johnny.", "Michael.", "Maria Doyle.", "Angeline.", "Dave.", "Bronagh.", "Glen", "Félim.", "Gale.", "Gerry.", "Arden.", "Mark.", "James Campbell.", "Penny.", "Brian." ],
+        "auinit" : [ "L", "I", "R", "D", "F", "G", "A", "M", "J", "P", "B" ],
+        "addau" : [ "Parker, Alan", "Randall-Cutler, Roger.", "Myles, Lynda.", "Clement, Dick.", "La Frenais, Ian.", "Doyle, Roddy", "Arkins, Robert.", "Strong, Andrew", "Murphy, Johnny.", "Aherne, Michael.", "Kennedy, Maria Doyle.", "Ball, Angeline.", "Finnigan, Dave.", "Gallagher, Bronagh.", "Hansard, Glen", "Gormley, Félim.", "Tattersall, Gale.", "Hambling, Gerry.", "Gantley, Arden.", "Geraghty, Mark.", "Connelly, James Campbell.", "Rose, Penny.", "Morris, Brian." ],
+        "contributorfull" : [ "$$NParker, Alan$$LParker$$FAlan$$Rcontributor", "$$NRandall-Cutler, Roger.$$Rcontributor", "$$NMyles, Lynda.$$Rcontributor", "$$NClement, Dick.$$Rcontributor", "$$NLa Frenais, Ian.$$Rcontributor", "$$NDoyle, Roddy$$Rcontributor", "$$NArkins, Robert.$$Rcontributor", "$$NStrong, Andrew$$Rcontributor", "$$NMurphy, Johnny.$$Rcontributor", "$$NAherne, Michael.$$Rcontributor", "$$NKennedy, Maria Doyle.$$Rcontributor", "$$NBall, Angeline.$$Rcontributor", "$$NFinnigan, Dave.$$Rcontributor", "$$NGallagher, Bronagh.$$Rcontributor", "$$NHansard, Glen$$Rcontributor", "$$NGormley, Félim.$$Rcontributor", "$$NTattersall, Gale.$$Rcontributor", "$$NHambling, Gerry.$$Rcontributor", "$$NGantley, Arden.$$Rcontributor", "$$NGeraghty, Mark.$$Rcontributor", "$$NConnelly, James Campbell.$$Rcontributor", "$$NRose, Penny.$$Rcontributor", "$$NMorris, Brian.$$Rcontributor" ],
+        "date" : [ "2003" ],
+        "abstract" : [ "Fueled by raw talent and driven by dreams of glory, a dozen dead-enders from Dublin's gritty North Side share a passion for soul music that takes their band on a wild rollercoaster ride from the streets to superstardom! Includes 4 hours of extras." ],
+        "cop" : [ "Beverly Hills, Calif" ],
+        "pub" : [ "20th Century Fox Home Entertainment" ],
+        "oclcid" : [ "(ocolc)55536246" ],
+        "upcid" : [ "024543112990" ],
+        "edition" : [ "Collector's ed., widescreen ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The Commitments" ]
+      },
+      "sort" : {
+        "title" : [ "Commitments" ],
+        "author" : [ "Parker, Alan, 1944-" ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990030743190107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:55536246,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1995.9 m86ǂc66 2004",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "321",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 359,
+    "COMBINED_SEARCH_TIME" : 361,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bands Music Ireland Dublin Drama",
+      "count" : "1"
+    }, {
+      "value" : "Doyle Roddy 1958 Film Adaptations",
+      "count" : "1"
+    }, {
+      "value" : "Soul Music Ireland Dublin Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aherne Michael",
+      "count" : "1"
+    }, {
+      "value" : "Arkins Robert",
+      "count" : "1"
+    }, {
+      "value" : "Ball Angeline",
+      "count" : "1"
+    }, {
+      "value" : "Beacon Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Clement Dick",
+      "count" : "1"
+    }, {
+      "value" : "Connelly James Campbell",
+      "count" : "1"
+    }, {
+      "value" : "Dirty Hands Productions",
+      "count" : "1"
+    }, {
+      "value" : "Doyle Roddy",
+      "count" : "1"
+    }, {
+      "value" : "Finnigan Dave",
+      "count" : "1"
+    }, {
+      "value" : "First Film Company",
+      "count" : "1"
+    }, {
+      "value" : "Gallagher Bronagh",
+      "count" : "1"
+    }, {
+      "value" : "Gantley Arden",
+      "count" : "1"
+    }, {
+      "value" : "Geraghty Mark",
+      "count" : "1"
+    }, {
+      "value" : "Gormley Félim",
+      "count" : "1"
+    }, {
+      "value" : "Hambling Gerry",
+      "count" : "1"
+    }, {
+      "value" : "Hansard Glen",
+      "count" : "1"
+    }, {
+      "value" : "Kennedy Maria Doyle",
+      "count" : "1"
+    }, {
+      "value" : "La Frenais Ian",
+      "count" : "1"
+    }, {
+      "value" : "Morris Brian",
+      "count" : "1"
+    }, {
+      "value" : "Murphy Johnny",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

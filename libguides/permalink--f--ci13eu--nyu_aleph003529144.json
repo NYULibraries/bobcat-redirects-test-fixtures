@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035291440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Italian literature before 1900 in English translation : an annotated bibliography, 1929-2008 " ],
+        "subject" : [ "Italian literature$$QItalian literature -- Translations into English Bibliography", "Littérature italienne$$QLittérature italienne -- Traductions anglaises Bibliographie" ],
+        "format" : [ "xxxiii, 1150 p. : ill. ; 29 cm." ],
+        "identifier" : [ "$$CISBN$$V9781442642690 (hbk.);$$CISBN$$V1442642696 (hbk.);$$COCLC$$V(OCoLC)701243950" ],
+        "creationdate" : [ "c2011" ],
+        "creator" : [ "Healey, Robin, 1942-$$QHealey, Robin" ],
+        "publisher" : [ "Toronto Ont. ; Buffalo N.Y. : University of Toronto Press" ],
+        "description" : [ "\"Italian Literature before 1900 in English Translation provides the most complete record possible of texts from the early periods that have been translated into English, and published between 1929 and 2008. It lists works from all genres and subjects, and includes translations wherever they have appeared across the globe. In this annotated bibliography, Robin Healey covers over 5,200 distinct editions of pre-1900 Italian writings. Most entries are accompanied by useful notes providing information on authors, works, translators, and how the translations were received.", "Among the works by over 1,500 authors represented in this volume are hundreds of editions by Italy's most translated authors - Dante Alighieri, [Niccolò] Machiavelli, and [Giovanni] Boccaccio - and other hundreds which represent the author's only English translation. A significant number of entries describe works originally published in Latin. Together with Healey's Twentieth-Century Italian Literature in English Translation, this volume makes comprehensive information on translations accessible for schools, libraries, and those interested in comparative literature.\"--pub. desc." ],
+        "mms" : [ "990035291440107871" ],
+        "series" : [ "Toronto Italian studies$$QToronto Italian studies" ],
+        "genre" : [ "Translations into English", "Bibliography", "Traductions anglaises", "Bibliographie" ],
+        "relation" : [ "$$Cform$$VItalian literature before 1900 in English translation : an annotated bibliography, 1929-2008$$Z9995667377307871", "$$Cform$$VItalian Literature before 1900 in English Translation.$$Z990063500530107871" ],
+        "place" : [ "Toronto Ont.] ; Buffalo N.Y.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003529144" ],
+        "lds53" : [ "003529144" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035291440107871" ],
+        "recordid" : [ "alma990035291440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003529144-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Healey" ],
+        "aufirst" : [ "Robin" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Healey, Robin" ],
+        "creatorfull" : [ "$$NHealey, Robin$$LHealey$$FRobin$$Rauthor" ],
+        "date" : [ "2011", "c2011" ],
+        "isbn" : [ "9781442642690", "1442642696" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "\"Italian Literature before 1900 in English Translation provides the most complete record possible of texts from the early periods that have been translated into English, and published between 1929 and 2008. It lists works from all genres and subjects, and includes translations wherever they have appeared across the globe. In this annotated bibliography, Robin Healey covers over 5,200 distinct editions of pre-1900 Italian writings. Most entries are accompanied by useful notes providing information on authors, works, translators, and how the translations were received.", "Among the works by over 1,500 authors represented in this volume are hundreds of editions by Italy's most translated authors - Dante Alighieri, [Niccolò] Machiavelli, and [Giovanni] Boccaccio - and other hundreds which represent the author's only English translation. A significant number of entries describe works originally published in Latin. Together with Healey's Twentieth-Century Italian Literature in English Translation, this volume makes comprehensive information on translations accessible for schools, libraries, and those interested in comparative literature.\"--pub. desc." ],
+        "cop" : [ "Toronto [Ont.] ;" ],
+        "pub" : [ "University of Toronto Press" ],
+        "oclcid" : [ "(ocolc)701243950" ],
+        "seriestitle" : [ "Toronto Italian studies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Italian literature before 1900 in English translation : an annotated bibliography, 1929-2008" ]
+      },
+      "sort" : {
+        "title" : [ "Italian literature before 1900 in English translation : an annotated bibliography, 1929-2008 /" ],
+        "author" : [ "Healey, Robin, 1942-" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035291440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1442642696,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2354 t7ǂh4298 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "394",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "88",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "47",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "572",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 608,
+    "COMBINED_SEARCH_TIME" : 613,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Italian Literature Translations Into English Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Italienne Traductions Anglaises Bibliographie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Healey Robin",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

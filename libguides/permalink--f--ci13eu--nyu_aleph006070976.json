@@ -1,0 +1,254 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060709760107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Essentials of venture capital " ],
+        "subject" : [ "Capital à risques", "BUSINESS & ECONOMICS -- Finance", "Business enterprises -- Finance", "Venture capital", "Riskkapital" ],
+        "format" : [ "1 online resource (xvi, 320 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781118386323;$$CISBN$$V1118386329;$$CISBN$$V9780470910849;$$CISBN$$V0470910844;$$CISBN$$V9780470910856;$$CISBN$$V0470910852;$$CISBN$$V9780470910863;$$CISBN$$V0470910860;$$CISBN$$V1282822616;$$CISBN$$V9781282822610;$$CISBN$$V9786612822612;$$CISBN$$V6612822619;$$COCLC$$V(OCoLC)692271493;$$CISBN$$V9780470616222" ],
+        "creationdate" : [ "©2011" ],
+        "creator" : [ "Haislip, Alexander, 1982-$$QHaislip, Alexander" ],
+        "publisher" : [ "Hoboken, N.J. : John Wiley & Sons" ],
+        "description" : [ "The first comprehensive guide for mastering venture capital. Essentials of Venture Capital is your guide to understanding how venture capital and technology finance works from the inside out. Author Alexander Haislip easily explains the most complex concepts in venture capital and how the business is evolving to meet modern market needs. He illuminates the opaque industry that drives innovation in Silicon Valley and beyond.: Learn how venture capital firms are organized and managed; Develop techniques for fundraising and making high-growth investments; Understand preferred stock provisions and." ],
+        "mms" : [ "990060709760107871" ],
+        "series" : [ "Essentials series$$QEssentials series", "Essentials series.$$QEssentials series." ],
+        "contents" : [ "Essentials of Venture Capital; Contents; Preface; Acknowledgments; Chapter 1: Industry Overview; Chapter 2: Careers and Organization; Chapter 3: Fundraising; Chapter 4: Investing Basics; Chapter 5: Finding Investments; Chapter 6: Getting the Money Back; Chapter 7: Booms, Bubbles, and Busts; Chapter 8: Going Global; About the Author; Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Haislip, Alexander, 1982- Essentials of venture capital. Hoboken, N.J. : Wiley, ©2011$$QEssentials of venture capital.$$Z990034016910107871" ],
+        "place" : [ "Hoboken, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "wileyeb", "aleph006070976" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060709760107871" ],
+        "recordid" : [ "alma990060709760107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006070976-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Haislip" ],
+        "aufirst" : [ "Alexander" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Haislip, Alexander" ],
+        "creatorfull" : [ "$$NHaislip, Alexander$$LHaislip$$FAlexander$$Rauthor" ],
+        "date" : [ "2011", "©2011" ],
+        "isbn" : [ "9781118386323", "1118386329", "9780470910849", "0470910844", "9780470910856", "0470910852", "9780470910863", "0470910860", "1282822616", "9781282822610", "9786612822612", "6612822619", "9780470616222" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The first comprehensive guide for mastering venture capital. Essentials of Venture Capital is your guide to understanding how venture capital and technology finance works from the inside out. Author Alexander Haislip easily explains the most complex concepts in venture capital and how the business is evolving to meet modern market needs. He illuminates the opaque industry that drives innovation in Silicon Valley and beyond.: Learn how venture capital firms are organized and managed; Develop techniques for fundraising and making high-growth investments; Understand preferred stock provisions and." ],
+        "cop" : [ "Hoboken, N.J" ],
+        "pub" : [ "John Wiley & Sons" ],
+        "oclcid" : [ "(ocolc)692271493" ],
+        "lccn" : [ "2010018598" ],
+        "seriestitle" : [ "Essentials series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Essentials of venture capital" ]
+      },
+      "sort" : {
+        "title" : [ "Essentials of venture capital /" ],
+        "author" : [ "Haislip, Alexander, 1982-" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060709760107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060709760107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060709760107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060709760107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060709760107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1118386329,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg#4751ǂ h343 2011eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "234",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "98",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "65",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "68",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "478",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 516,
+    "COMBINED_SEARCH_TIME" : 521,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Finance",
+      "count" : "1"
+    }, {
+      "value" : "Business Enterprises Finance",
+      "count" : "1"
+    }, {
+      "value" : "Capital À Risques",
+      "count" : "1"
+    }, {
+      "value" : "Riskkapital",
+      "count" : "1"
+    }, {
+      "value" : "Venture Capital",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Haislip Alexander",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012691730107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "La festa et storia di Sancta Caterina : a medieval Italian religious drama " ],
+        "subject" : [ "Catherine, of Alexandria, Saint$$QCatherine, of Alexandria, Saint -- Drama", "Christian women saints -- Cult -- History -- Middle Ages, 600-1500$$QChristian women saints -- Cult -- History -- Middle Ages, 600-1500 -- Sources", "Civilization, Medieval, in literature", "Religious drama, Italian" ],
+        "format" : [ "300 p. : ill., facsims. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V95038205 //r96;$$CISBN$$V0820428965 (alk. paper)" ],
+        "creationdate" : [ "c1997" ],
+        "publisher" : [ "New York : P. Lang" ],
+        "mms" : [ "990012691730107871" ],
+        "contributor" : [ "Tordi, Anne Wilson, 1937-$$QTordi, Anne Wilson" ],
+        "series" : [ "Studies in the humanities (New York, N.Y.) ; v. 25.$$QStudies in the humanities (New York, N.Y.) ", "Studies in the humanities ; vol. 25$$QStudies in the humanities " ],
+        "genre" : [ "Drama", "Sources" ],
+        "unititle" : [ "Festa et storia di Sancta Caterina. English" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001269173" ],
+        "lds53" : [ "001269173" ],
+        "lds60" : [ "\"English translation of the Latin Passio sancte Katerine Virginis, BHL 1663, by Nancy Wilson Van Baak.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012691730107871" ],
+        "recordid" : [ "alma990012691730107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001269173-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Tordi" ],
+        "aufirst" : [ "Anne Wilson" ],
+        "auinit" : [ "A" ],
+        "addau" : [ "Tordi, Anne Wilson" ],
+        "contributorfull" : [ "$$NTordi, Anne Wilson$$LTordi$$FAnne Wilson$$Rcontributor" ],
+        "date" : [ "1997", "c1997" ],
+        "isbn" : [ "0820428965" ],
+        "notes" : [ "Includes bibliographical references (p. [293]-300)." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "P. Lang" ],
+        "oclcid" : [ "nyub11651390", "(cstrlin)xbcp9538205-b" ],
+        "lccn" : [ "95038205 //r96" ],
+        "seriestitle" : [ "Studies in the humanities ; vol. 25" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "La festa et storia di Sancta Caterina : a medieval Italian religious drama" ]
+      },
+      "sort" : {
+        "title" : [ "festa et storia di Sancta Caterina : a medieval Italian religious drama /" ],
+        "author" : [ "Tordi, Anne Wilson, 1937-" ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012691730107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0820428965,OCLC:,LCCN:95038205&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#4471 f36ǂe5 1997",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "211",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "75",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "436",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 466,
+    "COMBINED_SEARCH_TIME" : 468,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Catherine Of Alexandria Saint Drama",
+      "count" : "1"
+    }, {
+      "value" : "Christian Women Saints Cult History Middle Ages 600 1500 Sources",
+      "count" : "1"
+    }, {
+      "value" : "Civilization Medieval In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Religious Drama Italian",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Tordi Anne Wilson",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

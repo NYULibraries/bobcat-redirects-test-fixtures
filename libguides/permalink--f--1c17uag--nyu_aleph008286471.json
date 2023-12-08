@@ -1,0 +1,205 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990082864710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Routledge companion to women in architecture " ],
+        "subject" : [ "Femmes architectes", "ARCHITECTURE -- History", "SOCIAL SCIENCE -- Women's Studies", "Women architects" ],
+        "format" : [ "1 online resource (xxx, 406 pages) : illustrations (black and white), plans" ],
+        "identifier" : [ "$$CLC$$V2020054095;$$CISBN$$V9780429278891;$$CISBN$$V0429278896;$$CISBN$$V1000387364;$$CISBN$$V9781000387339;$$CISBN$$V100038733X;$$CISBN$$V9781000387360;$$COCLC$$V(OCoLC)1228193922;$$CISBN$$V9780367232344" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Abingdon ; New York : Routledge" ],
+        "description" : [ "\"Routledge Companion to Women in Architecture illuminates the names of pioneering women who over time continue to foster, shape, and build cultural, spiritual, and physical environments in diverse regions around the globe. It uncovers the remarkable evolution of women's leadership, professional perspectives, craftsmanship, and scholarship in architecture from the preindustrial age to the present. The book is organized chronologically in five parts, outlining the stages of women's expanding engagement, leadership, and contributions to architecture through the centuries. It contains 29 chapters written by 33 recognized scholars committed to probing broader topographies across time and place and presenting portraits of practicing architects, leaders, teachers, writers, critics, and other kinds of professionals in the built environment. The intertwined research sets out debates, questions, and projects around women in architecture, stimulates broader studies and discussions in emerging areas, and becomes a catalyst for academic programs and future publications on the subject. The novelty of this volume is in presenting not only a collection of case studies but in broadening the discipline by advancing an incisive overview of the topic as a whole. It is an invaluable resource for architectural historians, academics, students and professionals\"-- Provided by publisher" ],
+        "mms" : [ "990082864710107871" ],
+        "contributor" : [ "Sokolina, Anna, editor.$$QSokolina, Anna" ],
+        "contents" : [ "Women in the Early Profession and Leadership: Preindustrial Age to Early Twentieth Century -- Women in the Modern Movement: First Half of the Twentieth Century -- Women in the Context of Mid-Century Modernism -- Women in Architecture of the Late Twentieth Century -- Women in Architecture from the 1960s to the Present." ],
+        "genre" : [ "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Routledge companion to women in architecture. New York : Routledge, 2021$$QRoutledge companion to women in architecture." ],
+        "place" : [ "Abingdon ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph008286471" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990082864710107871" ],
+        "recordid" : [ "alma990082864710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008286471-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sokolina" ],
+        "aufirst" : [ "Anna" ],
+        "auinit" : [ "A" ],
+        "addau" : [ "Sokolina, Anna" ],
+        "contributorfull" : [ "$$NSokolina, Anna$$LSokolina$$FAnna$$Reditor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9780429278891", "0429278896", "1000387364", "9781000387339", "100038733X", "9781000387360", "9780367232344" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Routledge Companion to Women in Architecture illuminates the names of pioneering women who over time continue to foster, shape, and build cultural, spiritual, and physical environments in diverse regions around the globe. It uncovers the remarkable evolution of women's leadership, professional perspectives, craftsmanship, and scholarship in architecture from the preindustrial age to the present. The book is organized chronologically in five parts, outlining the stages of women's expanding engagement, leadership, and contributions to architecture through the centuries. It contains 29 chapters written by 33 recognized scholars committed to probing broader topographies across time and place and presenting portraits of practicing architects, leaders, teachers, writers, critics, and other kinds of professionals in the built environment. The intertwined research sets out debates, questions, and projects around women in architecture, stimulates broader studies and discussions in emerging areas, and becomes a catalyst for academic programs and future publications on the subject. The novelty of this volume is in presenting not only a collection of case studies but in broadening the discipline by advancing an incisive overview of the topic as a whole. It is an invaluable resource for architectural historians, academics, students and professionals\"-- Provided by publisher" ],
+        "cop" : [ "Abingdon ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)1228193922" ],
+        "doi" : [ "10.4324/9780429278891" ],
+        "lccn" : [ "2020054095" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Routledge companion to women in architecture" ]
+      },
+      "sort" : {
+        "title" : [ "Routledge companion to women in architecture /" ],
+        "author" : [ "Sokolina, Anna, editor." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990082864710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0429278896,OCLC:,LCCN:2020054095&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na#1997ǂ r68 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "139",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "111",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "62",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "106",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "101",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "464",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 501,
+    "COMBINED_SEARCH_TIME" : 505,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture History",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Architectes",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Womens Studies",
+      "count" : "1"
+    }, {
+      "value" : "Women Architects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Sokolina Anna",
+      "count" : "1"
+    } ]
+  } ]
+}

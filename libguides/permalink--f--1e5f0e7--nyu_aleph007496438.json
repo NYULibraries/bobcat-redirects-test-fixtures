@@ -1,0 +1,195 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074964380107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A dictionary of organizational behaviour " ],
+        "subject" : [ "Organizational behavior$$QOrganizational behavior -- Dictionaries", "Organizational behavior" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9780191843273;$$CISBN$$V019184327X;$$COCLC$$V(OCoLC)1083451291" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Jeanes, Emma, author.$$QJeanes, Emma" ],
+        "publisher" : [ "New York : Oxford University Press" ],
+        "description" : [ "This accessible dictionary provides authoritative definitions of terms in the field of organizational behaviour. Coverage spans ethics, stress and well-being, teamwork, leadership, and management knowledge. Including entries on key terms such as actor-network theory, iron cage, organizational space, and work-life balance, the dictionary encapsulates the different perspectives and concepts that make up organizational behaviour in one easy-to-use resource." ],
+        "mms" : [ "990074964380107871" ],
+        "genre" : [ "dictionaries", "Dictionaries", "Dictionnaires" ],
+        "place" : [ "New York] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph007496438" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074964380107871" ],
+        "recordid" : [ "alma990074964380107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007496438-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jeanes" ],
+        "aufirst" : [ "Emma" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Jeanes, Emma" ],
+        "creatorfull" : [ "$$NJeanes, Emma$$LJeanes$$FEmma$$Rauthor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9780191843273", "019184327X" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This accessible dictionary provides authoritative definitions of terms in the field of organizational behaviour. Coverage spans ethics, stress and well-being, teamwork, leadership, and management knowledge. Including entries on key terms such as actor-network theory, iron cage, organizational space, and work-life balance, the dictionary encapsulates the different perspectives and concepts that make up organizational behaviour in one easy-to-use resource." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)1083451291" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A dictionary of organizational behaviour" ]
+      },
+      "sort" : {
+        "title" : [ "dictionary of organizational behaviour /" ],
+        "author" : [ "Jeanes, Emma, author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074964380107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:019184327X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!58.7ǂ j43 2019eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "145",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "64",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "114",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "418",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 441,
+    "COMBINED_SEARCH_TIME" : 445,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Organizational Behavior Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jeanes Emma",
+      "count" : "1"
+    } ]
+  } ]
+}

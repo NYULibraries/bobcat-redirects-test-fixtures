@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990011633600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Guide to the literature of art history 2 " ],
+        "subject" : [ "Art -- Historiography$$QArt -- Historiography -- Bibliography" ],
+        "format" : [ "1 v. (various pagings) ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V2004016170;$$CISBN$$V0838908780 (alk. paper);$$COCLC$$V(OCoLC)1195732053" ],
+        "creationdate" : [ "2005 i.e. 2004" ],
+        "creator" : [ "Marmor, Max.$$QMarmor, Max." ],
+        "publisher" : [ "Chicago : American Library Association" ],
+        "mms" : [ "990011633600107871" ],
+        "contributor" : [ "Ross, Alex.$$QRoss, Alex." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001163360" ],
+        "lds53" : [ "001163360" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990011633600107871" ],
+        "recordid" : [ "alma990011633600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001163360-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Marmor" ],
+        "aufirst" : [ "Max." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Marmor, Max." ],
+        "addau" : [ "Ross, Alex." ],
+        "creatorfull" : [ "$$NMarmor, Max.$$LMarmor$$FMax.$$Rauthor" ],
+        "contributorfull" : [ "$$NRoss, Alex.$$LRoss$$FAlex.$$Rcontributor" ],
+        "date" : [ "2004", "2005 i.e. 2004" ],
+        "isbn" : [ "0838908780" ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "American Library Association" ],
+        "oclcid" : [ "(ocolc)1195732053" ],
+        "lccn" : [ "2004016170" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Guide to the literature of art history 2" ]
+      },
+      "sort" : {
+        "title" : [ "Guide to the literature of art history 2 /" ],
+        "author" : [ "Marmor, Max." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990011633600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990011633600107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0838908780,OCLC:,LCCN:2004016170&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/toc/ecip0420/2004016170.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#5931ǂn380ǂ m374 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "199",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "53",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "49",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "99",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "455",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 484,
+    "COMBINED_SEARCH_TIME" : 486,
+    "PROCESS_COMBINED_RESULTS" : 1,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    }, {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Historiography Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Marmor Max",
+      "count" : "1"
+    }, {
+      "value" : "Ross Alex",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

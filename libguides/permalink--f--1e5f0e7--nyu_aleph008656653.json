@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990086566530107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Fintech dictionary : terminology for the digitalized financial world " ],
+        "subject" : [ "Financial services industry -- Information technology", "Services financiers -- Technologie de l'information", "Finance" ],
+        "format" : [ "1 online resource : illustrations (some color)." ],
+        "identifier" : [ "$$CISBN$$V9783658360566;$$CISBN$$V3658360569;$$COCLC$$V(OCoLC)1306273337;$$CISBN$$V9783658360559" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Alt, Rainer, 1964- author.$$QAlt, Rainer" ],
+        "publisher" : [ "Wiesbaden : Springer Gabler" ],
+        "description" : [ "Fintech Dictionary - What is a blockchain framework? What is crowdlending or an ICO? The Fintech Dictionary helps readers in clarifying key terms that have emerged in the vivid field of financial technology (fintech). It links keywords from banking and insurance, from information technology as well as from innovation management--similar to the \"melting pot\" of terms in reality. The collection of over 830 keywords presents the reader concise and up-to-date definitions of terms in an alphabetical order. It should serve students and interested parties from academia and practice alike." ],
+        "mms" : [ "990086566530107871" ],
+        "contributor" : [ "Huch, Stefan, author.$$QHuch, Stefan" ],
+        "series" : [ "Contributions to finance and accounting, 2730-6046$$QContributions to finance and accounting", "Contributions to finance and accounting. 2730-6046$$QContributions to finance and accounting." ],
+        "relation" : [ "$$Cform$$VPrint version: Alt, Rainer, 1964-. Fintech dictionary. Wiesbaden : Springer, 2022$$QFintech dictionary." ],
+        "unititle" : [ "Fintech-Lexikon. English" ],
+        "includes" : [ "Alt, Rainer, 1964- Fintech-Lexikon. English$$QAlt, Rainer, 1964- Fintech-Lexikon. English" ],
+        "place" : [ "Wiesbaden :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008656653" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990086566530107871" ],
+        "recordid" : [ "alma990086566530107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008656653-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Alt" ],
+        "aufirst" : [ "Rainer" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Alt, Rainer" ],
+        "addau" : [ "Huch, Stefan" ],
+        "creatorfull" : [ "$$NAlt, Rainer$$LAlt$$FRainer$$Rauthor" ],
+        "contributorfull" : [ "$$NHuch, Stefan$$LHuch$$FStefan$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9783658360566", "3658360569", "9783658360559" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Fintech Dictionary - What is a blockchain framework? What is crowdlending or an ICO? The Fintech Dictionary helps readers in clarifying key terms that have emerged in the vivid field of financial technology (fintech). It links keywords from banking and insurance, from information technology as well as from innovation management--similar to the \"melting pot\" of terms in reality. The collection of over 830 keywords presents the reader concise and up-to-date definitions of terms in an alphabetical order. It should serve students and interested parties from academia and practice alike." ],
+        "cop" : [ "Wiesbaden" ],
+        "pub" : [ "Springer Gabler" ],
+        "oclcid" : [ "(ocolc)1306273337" ],
+        "doi" : [ "10.1007/978-3-658-36056-6" ],
+        "seriestitle" : [ "Contributions to finance and accounting" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fintech dictionary : terminology for the digitalized financial world" ]
+      },
+      "sort" : {
+        "title" : [ "Fintech dictionary : terminology for the digitalized financial world /" ],
+        "author" : [ "Alt, Rainer, 1964- author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086566530107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086566530107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3658360569,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg\"173.5ǂ a4813 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "62",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 316,
+    "COMBINED_SEARCH_TIME" : 318,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Finance",
+      "count" : "1"
+    }, {
+      "value" : "Financial Services Industry Information Technology",
+      "count" : "1"
+    }, {
+      "value" : "Services Financiers Technologie De Linformation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Alt Rainer",
+      "count" : "1"
+    }, {
+      "value" : "Huch Stefan",
+      "count" : "1"
+    } ]
+  } ]
+}

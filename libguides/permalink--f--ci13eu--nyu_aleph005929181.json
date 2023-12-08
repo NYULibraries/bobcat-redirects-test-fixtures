@@ -1,0 +1,181 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059291810107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Design philosophy papers." ],
+        "subject" : [ "Design -- Australia$$QDesign -- Australia -- Periodicals", "Design$$QDesign -- Periodicals", "Design", "Australia" ],
+        "format" : [ "1 online resource." ],
+        "identifier" : [ "$$CISSN$$V1448-7136;$$COCLC$$V(OCoLC)464181365" ],
+        "creationdate" : [ "2003-" ],
+        "publisher" : [ "Abingdon : Routledge, Taylor & Francis Group", "Began with: Volume 1, issue 1 (2003)." ],
+        "description" : [ "Appears 6 times a year, and is organised into distinct sections. There are substantial papers with an editorial introduction and shorter, polemical sections like Hot Debate. subscriber which allows access to back issues online; email notifications with a link to each new issue, plus The DPP Collection which comprises: an annual print publication containing a selection of the best papers for that year accompanied by new material a CD containing all papers and articles published over the year." ],
+        "mms" : [ "990059291810107871" ],
+        "frequency" : [ "Two issues a year, <2014->" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VDesign philosophy papers.$$Z9995621300707871" ],
+        "place" : [ "Abingdon] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005929181" ],
+        "lds53" : [ "005929181" ],
+        "lds63" : [ "Access restricted to authorized users and institutions.", "Owing to Legal Deposit regulations this resource may only be accessed from within National Library of Scotland on library computers. For more information contact enquiries@nls.uk." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059291810107871" ],
+        "recordid" : [ "alma990059291810107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005929181-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2003", "2003-" ],
+        "issn" : [ "1448-7136" ],
+        "abstract" : [ "Appears 6 times a year, and is organised into distinct sections. There are substantial papers with an editorial introduction and shorter, polemical sections like Hot Debate. subscriber which allows access to back issues online; email notifications with a link to each new issue, plus The DPP Collection which comprises: an annual print publication containing a selection of the best papers for that year accompanied by new material a CD containing all papers and articles published over the year." ],
+        "cop" : [ "Crows Nest, Qld" ],
+        "pub" : [ "Team D/E/S" ],
+        "oclcid" : [ "(ocolc)464181365" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Design philosophy papers." ]
+      },
+      "sort" : {
+        "title" : [ "Design philosophy papers." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:464181365,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "745.401",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "185",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "48",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "44",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "98",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "438",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 465,
+    "COMBINED_SEARCH_TIME" : 469,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Australia",
+      "count" : "1"
+    }, {
+      "value" : "Design",
+      "count" : "1"
+    }, {
+      "value" : "Design Australia Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Design Periodicals",
+      "count" : "1"
+    } ]
+  } ]
+}

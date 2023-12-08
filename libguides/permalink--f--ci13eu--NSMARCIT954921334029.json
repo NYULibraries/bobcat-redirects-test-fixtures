@@ -1,0 +1,268 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995636494607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The American economic review." ],
+        "subject" : [ "American Economic Association -- Members", "Economics$$QEconomics -- Periodicals", "Économie politique$$QÉconomie politique -- Périodiques", "Économie politique", "economics", "Economics", "Economie", "ECONOMICS" ],
+        "identifier" : [ "$$CLC$$Vsn 97023013;$$CISSN$$V1944-7981;$$COCLC$$V(OCoLC)1075058;$$CISSN$$V0002-8282" ],
+        "creationdate" : [ "1911-" ],
+        "publisher" : [ "Cambridge, Mass. : American Economic Association", "Vol. 1, no. 1 (Mar. 1911)-" ],
+        "mms" : [ "9995636494607871" ],
+        "contributor" : [ "American Economic Association.$$QAmerican Economic Association.", "American Economic Association. Annual Meeting.$$QAmerican Economic Association. Annual Meeting." ],
+        "frequency" : [ "5 no. a year, with a 6th issue quadrennially, 1981-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VAmerican Economic Association Quarterly$$QAmerican Economic Association Quarterly$$Z9995623340107871", "$$Cearlier_title$$VEconomic bulletin (Baltimore, Md.)$$Z990029531890107871", "$$Cearlier_title$$VThe Economic Bulletin$$QThe Economic Bulletin$$Z9995612704307871", "$$Cform$$VPrint version: The American economic review$$QThe American economic review$$Z990028903970107871", "$$Cissued_with$$VPapers and proceedings of the ... annual meeting.$$Z990029693960107871", "$$Clater_title$$VAEA papers and proceedings.$$Z990081630880107871", "$$Csupplement$$VPapers and proceedings of the ... annual meeting of the American Economic Association$$QPapers and proceedings of the ... annual meeting of the American Economic Association" ],
+        "mesh" : [ "Economics" ],
+        "place" : [ "Cambridge, Mass. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921334029" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Vol. 1- includes the Papers and proceedings of the 23rd- Annual Meeting of the American Economic Association.", "Place of publication varies." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995636494607871" ],
+        "recordid" : [ "alma9995636494607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921334029" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "AM ECON REV", "AMERICAN ECONOMIC REVIEW", "AM. ECON. REV" ],
+        "date" : [ "1911", "1911-" ],
+        "issn" : [ "1944-7981", "0002-8282" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Cambridge, Mass" ],
+        "pub" : [ "American Economic Association" ],
+        "oclcid" : [ "(ocolc)1075058" ],
+        "lccn" : [ "sn 97023013" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The American economic review." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "American economic review." ],
+        "author" : [ "American Economic Association." ],
+        "creationdate" : [ "1911" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995636494607871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 97023013&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "715",
+    "CALL_SOLR_GET_IDS_LIST" : "61",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "208",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "48",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "156",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "75",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "133",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "1084",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 1121,
+    "COMBINED_SEARCH_TIME" : 1124,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1911",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Economic Association Members",
+      "count" : "1"
+    }, {
+      "value" : "Economics",
+      "count" : "1"
+    }, {
+      "value" : "Economics Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Economie",
+      "count" : "1"
+    }, {
+      "value" : "Économie Politique",
+      "count" : "1"
+    }, {
+      "value" : "Économie Politique Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Economic Association",
+      "count" : "1"
+    }, {
+      "value" : "American Economic Association Annual Meeting",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

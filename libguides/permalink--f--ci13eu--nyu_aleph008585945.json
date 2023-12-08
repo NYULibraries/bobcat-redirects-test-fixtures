@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085859450107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Artificial intelligence in brain and mental health : philosophical, ethical & policy issues " ],
+        "subject" : [ "Artificial intelligence -- Medical applications -- Moral and ethical aspects", "Intelligence artificielle en médecine -- Aspect moral", "Bioéthique", "Bioethics" ],
+        "format" : [ "1 online resource (1 volume) : illustrations (color)." ],
+        "identifier" : [ "$$CISBN$$V9783030741884;$$CISBN$$V3030741885;$$COCLC$$V(OCoLC)1300217439;$$CISBN$$V9783030741877" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Cham, Switzerland : Springer" ],
+        "description" : [ "This volume provides an interdisciplinary collection of essays from leaders in various fields addressing the current and future challenges arising from the implementation of AI in brain and mental health. Artificial Intelligence (AI) has the potential to transform health care and improve biomedical research. While the potential of AI in brain and mental health is tremendous, its ethical, regulatory and social impacts have not been assessed in a comprehensive and systemic way. The volume is structured according to three main sections, each of them focusing on different types of AI technologies. Part 1, Big Data and Automated Learning: Scientific and Ethical Considerations, specifically addresses issues arising from the use of AI software, especially machine learning, in the clinical context or for therapeutic applications. Part 2, AI for Digital Mental Health and Assistive Robotics: Philosophical and Regulatory Challenges, examines philosophical, ethical and regulatory issues arising from the use of an array of technologies beyond the clinical context. In the final section of the volume, Part 3 entitled AI in Neuroscience and Neurotechnology: Ethical, Social and Policy Issues, contributions examine some of the implications of AI in neuroscience and neurotechnology and the regulatory gaps or ambiguities that could potentially hamper the responsible development and implementation of AI solutions in brain and mental health. In light of its comprehensiveness and multi-disciplinary character, this book marks an important milestone in the public understanding of the ethics of AI in brain and mental health and provides a useful resource for any future investigation in this crucial and rapidly evolving area of AI application. The book is of interest to a wide audience in neuroethics, robotics, computer science, neuroscience, psychiatry and mental health." ],
+        "mms" : [ "990085859450107871" ],
+        "contributor" : [ "Jotterand, Fabrice, 1967- editor.$$QJotterand, Fabrice", "Ienca, Marcello, editor.$$QIenca, Marcello" ],
+        "series" : [ "Advances in neuroethics$$QAdvances in neuroethics", "Advances in neuroethics.$$QAdvances in neuroethics." ],
+        "contents" : [ "Introduction -- Part I Scientific Considerations and Challenges: AI-augmented neuroimaging -- AI analytics in brain cancer screening -- AI analytics to detect pre-symptomatic dementia -- AI analytics in schizophrenia -- Wearables, mHealth and mental health monitoring -- Prevention of mental disorders through social media -- The brain health modeling initiative and the promise of AI -- Assistive robotics for dementia and mild cognitive impairment -- Telehealth and robotherapy in psychiatry -- Robot-assisted neurorehabilitation -- Brain-computer interfaces and AI-mediated neuromodulation -- Part III . Ethical Legal and Social Implications: Mental Privacy -- Algorithmic transparency Measurement bias and ethical bias -- Discrimination and stigma -- Informed Consent -- Minimal risk -- Fairness and Research Allocation -- The black-box problem of medical AI -- The transformation of therapeutic relationships -- The role of IRBs -- The ethics of automated medical decision-making -- Accountability and Responsibility -- Designing moral technologies for brain and mental health -- AI and Human Beings: Philosophical and Ethical Perspectives -- Part III Policy Perspectives: Current regulatory frameworks in North America -- Gaps in existing regulations -- Policy and law of AI in China -- Deontology and best practices -- Regulation of AI industry -- AI in the developing world: a global justice perspective -- Regulation of AI in Europe -- Conclusion - Towards an ethical framework for AI in brain and mental health." ],
+        "relation" : [ "$$Cform$$VPrint version: Artificial intelligence in brain and mental health. Cham : Springer, 2022$$QArtificial intelligence in brain and mental health." ],
+        "mesh" : [ "Artificial Intelligence -- ethics", "Bioethics" ],
+        "place" : [ "Cham, Switzerland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008585945" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085859450107871" ],
+        "recordid" : [ "alma990085859450107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008585945-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jotterand", "Ienca" ],
+        "aufirst" : [ "Fabrice", "Marcello" ],
+        "auinit" : [ "F", "M" ],
+        "addau" : [ "Jotterand, Fabrice", "Ienca, Marcello" ],
+        "contributorfull" : [ "$$NJotterand, Fabrice$$LJotterand$$FFabrice$$Reditor", "$$NIenca, Marcello$$Reditor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9783030741884", "3030741885", "9783030741877" ],
+        "abstract" : [ "This volume provides an interdisciplinary collection of essays from leaders in various fields addressing the current and future challenges arising from the implementation of AI in brain and mental health. Artificial Intelligence (AI) has the potential to transform health care and improve biomedical research. While the potential of AI in brain and mental health is tremendous, its ethical, regulatory and social impacts have not been assessed in a comprehensive and systemic way. The volume is structured according to three main sections, each of them focusing on different types of AI technologies. Part 1, Big Data and Automated Learning: Scientific and Ethical Considerations, specifically addresses issues arising from the use of AI software, especially machine learning, in the clinical context or for therapeutic applications. Part 2, AI for Digital Mental Health and Assistive Robotics: Philosophical and Regulatory Challenges, examines philosophical, ethical and regulatory issues arising from the use of an array of technologies beyond the clinical context. In the final section of the volume, Part 3 entitled AI in Neuroscience and Neurotechnology: Ethical, Social and Policy Issues, contributions examine some of the implications of AI in neuroscience and neurotechnology and the regulatory gaps or ambiguities that could potentially hamper the responsible development and implementation of AI solutions in brain and mental health. In light of its comprehensiveness and multi-disciplinary character, this book marks an important milestone in the public understanding of the ethics of AI in brain and mental health and provides a useful resource for any future investigation in this crucial and rapidly evolving area of AI application. The book is of interest to a wide audience in neuroethics, robotics, computer science, neuroscience, psychiatry and mental health." ],
+        "cop" : [ "Cham, Switzerland" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1300217439" ],
+        "doi" : [ "10.1007/978-3-030-74188-4" ],
+        "seriestitle" : [ "Advances in neuroethics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Artificial intelligence in brain and mental health : philosophical, ethical & policy issues" ]
+      },
+      "sort" : {
+        "title" : [ "Artificial intelligence in brain and mental health : philosophical, ethical & policy issues /" ],
+        "author" : [ "Jotterand, Fabrice, 1967- editor." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085859450107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085859450107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030741885,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qh\"332",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "85",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "324",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 350,
+    "COMBINED_SEARCH_TIME" : 354,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artificial Intelligence Ethics",
+      "count" : "1"
+    }, {
+      "value" : "Artificial Intelligence Medical Applications Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Bioethics",
+      "count" : "1"
+    }, {
+      "value" : "Bioéthique",
+      "count" : "1"
+    }, {
+      "value" : "Intelligence Artificielle En Médecine Aspect Moral",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ienca Marcello",
+      "count" : "1"
+    }, {
+      "value" : "Jotterand Fabrice",
+      "count" : "1"
+    } ]
+  } ]
+}

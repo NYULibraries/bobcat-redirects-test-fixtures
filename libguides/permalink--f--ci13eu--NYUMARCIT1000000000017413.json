@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995629310807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "CoDesign (Online)" ],
+        "subject" : [ "Design$$QDesign -- Periodicals", "Communication in design$$QCommunication in design -- Periodicals", "Interpersonal communication$$QInterpersonal communication -- Periodicals", "Artistic collaboration$$QArtistic collaboration -- Periodicals", "Visual Arts", "Industrial Design", "Interpersonal communication", "Design", "Communication in design", "Artistic collaboration" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2005249111;$$CISSN$$V1745-3755;$$COCLC$$V(OCoLC)60616906;$$CISSN$$V1571-0882" ],
+        "creationdate" : [ "2005-" ],
+        "publisher" : [ "Abingdon : Taylor and Francis", "Began with Volume 1, issue 1 (March 2005)." ],
+        "mms" : [ "9995629310807871" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Periodicals" ],
+        "unititle" : [ "CoDesign (Online)" ],
+        "place" : [ "Abingdon :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000017413" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995629310807871" ],
+        "recordid" : [ "alma9995629310807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000017413" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "CODESIGN" ],
+        "date" : [ "2005", "2005-" ],
+        "issn" : [ "1745-3755", "1571-0882" ],
+        "cop" : [ "Abingdon" ],
+        "pub" : [ "Taylor and Francis" ],
+        "oclcid" : [ "(ocolc)60616906" ],
+        "lccn" : [ "2005249111" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "CoDesign (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "CoDesign (Online)" ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995629310807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995629310807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995629310807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2005249111&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nk#1160",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "102",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "119",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "92",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "364",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 397,
+    "COMBINED_SEARCH_TIME" : 400,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artistic Collaboration",
+      "count" : "1"
+    }, {
+      "value" : "Artistic Collaboration Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Communication In Design",
+      "count" : "1"
+    }, {
+      "value" : "Communication In Design Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Design",
+      "count" : "1"
+    }, {
+      "value" : "Design Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Industrial Design",
+      "count" : "1"
+    }, {
+      "value" : "Interpersonal Communication",
+      "count" : "1"
+    }, {
+      "value" : "Interpersonal Communication Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Visual Arts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

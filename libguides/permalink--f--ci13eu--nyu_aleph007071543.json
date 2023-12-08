@@ -1,0 +1,197 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990070715430107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Leonard?s Price Index of Latin American Art at Auction " ],
+        "subject" : [ "Fine arts", "Culture -- Étude et enseignement", "Culture -- Study and teaching" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781349150861;$$CISBN$$V134915086X;$$COCLC$$V(OCoLC)1004390518" ],
+        "creationdate" : [ "1999" ],
+        "creator" : [ "Theran, Susan.$$QTheran, Susan." ],
+        "publisher" : [ "Place of publication not identified Palgrave Macmillan, a division of Macmillan Publishers Limited" ],
+        "description" : [ "The new Leonard's Price Index of Latin American Art at Auction focuses on a category of art that covers a wide range of periods and styles. It is unique in its coverage of 30 years of sale results and the inclusion of over 1,100 scholarly essays and biographies, some never before published in the English language. Entries, covering the years 1969 to 1999, number over 30,000 lots. The prices realized are from every auction house in North America and are listed in descending order by price within each auction season." ],
+        "mms" : [ "990070715430107871" ],
+        "place" : [ "Place of publication not identified]" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph007071543" ],
+        "lds60" : [ "Title from content provider." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990070715430107871" ],
+        "recordid" : [ "alma990070715430107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007071543-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Theran" ],
+        "aufirst" : [ "Susan." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Theran, Susan." ],
+        "creatorfull" : [ "$$NTheran, Susan.$$LTheran$$FSusan.$$Rauthor" ],
+        "date" : [ "1999" ],
+        "isbn" : [ "9781349150861", "134915086X" ],
+        "abstract" : [ "The new Leonard's Price Index of Latin American Art at Auction focuses on a category of art that covers a wide range of periods and styles. It is unique in its coverage of 30 years of sale results and the inclusion of over 1,100 scholarly essays and biographies, some never before published in the English language. Entries, covering the years 1969 to 1999, number over 30,000 lots. The prices realized are from every auction house in North America and are listed in descending order by price within each auction season." ],
+        "cop" : [ "Place of publication not identified" ],
+        "pub" : [ "Palgrave Macmillan, a division of Macmillan Publishers Limited" ],
+        "oclcid" : [ "(ocolc)1004390518" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Leonard?s Price Index of Latin American Art at Auction" ]
+      },
+      "sort" : {
+        "title" : [ "Leonard?s Price Index of Latin American Art at Auction /" ],
+        "author" : [ "Theran, Susan." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070715430107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:134915086X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nx 1-820",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "96",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "100",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "320",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 344,
+    "COMBINED_SEARCH_TIME" : 346,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Culture Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Culture Étude Et Enseignement",
+      "count" : "1"
+    }, {
+      "value" : "Fine Arts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Theran Susan",
+      "count" : "1"
+    } ]
+  } ]
+}

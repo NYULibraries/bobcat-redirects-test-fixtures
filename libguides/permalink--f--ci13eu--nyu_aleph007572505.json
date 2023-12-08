@@ -1,0 +1,274 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075725050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Mesopotamia : civilization begins " ],
+        "subject" : [ "Musée du Louvre$$QMusée du Louvre -- Exhibitions", "Civilization, Assyro-Babylonian$$QCivilization, Assyro-Babylonian -- Exhibitions", "Iraq -- Civilization -- To 634$$QIraq -- Civilization -- To 634 -- Exhibitions", "Civilization", "Civilization, Assyro-Babylonian", "Iraq", "To 634", "Musée du Louvre", "Kunst", "Plastik", "Sachkultur", "Mesopotamien" ],
+        "format" : [ "xv, 220 pages : illustrations (chiefly color), color map ; 30 cm" ],
+        "identifier" : [ "$$CLC$$V2019039915;$$CISBN$$V9781606066492;$$CISBN$$V1606066498;$$COCLC$$V(OCoLC)1117311391" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Los Angeles : The J. Paul Getty Museum" ],
+        "description" : [ "\"This catalogue of more than 100 objects from the Musée du Louvre's collection of Ancient Near Eastern antiquities presents essays on Mesopotamia's discovery and excavations, economy, religion, cities, cuneiform writing, rulers and history, as well as its enduring presence in the contemporary imagination\"-- Provided by publisher." ],
+        "mms" : [ "990075725050107871" ],
+        "contributor" : [ "Thomas, Ariane, 1983- editor.$$QThomas, Ariane", "Potts, Timothy F., editor.$$QPotts, Timothy F.", "J. Paul Getty Museum, host institution, issuing body.$$QJ. Paul Getty Museum" ],
+        "contents" : [ "Introduction : Does History Begin in Mesopotamia? / Ariane Thomas -- The Mesopotamian Collection of the Musée du Louvre / Ariane Thomas -- The Discoverers of Ancient Mesopotamia / Nicole Chevalier -- Mesopotamia as Viewed by the Moderns / Michael Seymour -- Mesopotamia in Modern Imagery -- A Pioneering Economy / Cécile Michel -- A Religious World / Benjamin R. Foster -- First Cities : Cities of Mesopotamia, from Uruk to Babylon / Pascal Butterlin -- Clay Architecture in Mesopotamia / Pedro Azara -- First Writing : Cuneiform and the Scribal Tradition / Béatrice André-Salvini -- First Kingdoms : When Kingship Descended from Heaven... / Dominique Charpin -- War and Peace : From the Birth of the State to Great Empires / Zainab Bahrani -- Ancient Mesopotamia Viewed from the Outside / Francis Joannès -- Epilogue : Imaginary Journey from Mesopotamia to Iraq / Ariane Thomas -- From Mesopotamia to Iraq, from 1850 to the Present -- Catalogue of the exhibition. First Cities : Catalogue nos. 1-39 -- First Writing : Catalogue nos. 40-91 -- First Kingdoms : Catalogue nos. 92-133 -- Appendix 1 : Mesopotamian Archaeology at the Museum : A Few Virtual Possibilities -- Appendix 2 : Restoring and Reassembling Objects for the Exhibition." ],
+        "genre" : [ "Exhibitions", "Exhibition catalogs" ],
+        "relation" : [ "$$Corig_language$$VTranslation of: Histoire commence en Mésopotamie. Gand : Snoeck [Lens] : Louvre Lens, [2016]$$QHistoire commence en Mésopotamie.$$Z990045397630107871" ],
+        "unititle" : [ "Histoire commence en Mésopotamie. English." ],
+        "place" : [ "Los Angeles :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007572505" ],
+        "lds53" : [ "007572505" ],
+        "lds60" : [ "Catalog of an exhibition held at the J. Paul Getty Museum at the Getty Villa, Malibu, from March 18-July 27, 2020.", "Translated and adapted from L'histoire commence en Mésopotamie, which was published in French, on the occasion of an exhibition held at the Musée du Louvre-Lens, November 2, 2016-June 23, 2017." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075725050107871" ],
+        "recordid" : [ "alma990075725050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007572505-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Thomas", "Potts" ],
+        "aufirst" : [ "Ariane", "Timothy F." ],
+        "auinit" : [ "A", "T" ],
+        "addau" : [ "Thomas, Ariane", "Potts, Timothy F." ],
+        "contributorfull" : [ "$$NThomas, Ariane$$LThomas$$FAriane$$Reditor", "$$NPotts, Timothy F.$$Reditor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781606066492", "1606066498" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This catalogue of more than 100 objects from the Musée du Louvre's collection of Ancient Near Eastern antiquities presents essays on Mesopotamia's discovery and excavations, economy, religion, cities, cuneiform writing, rulers and history, as well as its enduring presence in the contemporary imagination\"-- Provided by publisher." ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "The J. Paul Getty Museum" ],
+        "oclcid" : [ "(ocolc)1117311391" ],
+        "lccn" : [ "2019039915" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Mesopotamia : civilization begins" ]
+      },
+      "sort" : {
+        "title" : [ "Mesopotamia : civilization begins /" ],
+        "author" : [ "Thomas, Ariane, 1983- editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990075725050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990075725050107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1606066498,OCLC:,LCCN:2019039915&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ds!69 l68ǂh5713 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "229",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "114",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "468",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 496,
+    "COMBINED_SEARCH_TIME" : 499,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Civilization Assyro Babylonian",
+      "count" : "1"
+    }, {
+      "value" : "Civilization Assyro Babylonian Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Iraq",
+      "count" : "1"
+    }, {
+      "value" : "Iraq Civilization To 634 Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Kunst",
+      "count" : "1"
+    }, {
+      "value" : "Mesopotamien",
+      "count" : "1"
+    }, {
+      "value" : "Musée Du Louvre",
+      "count" : "1"
+    }, {
+      "value" : "Musée Du Louvre Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Plastik",
+      "count" : "1"
+    }, {
+      "value" : "Sachkultur",
+      "count" : "1"
+    }, {
+      "value" : "To 634",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "J Paul Getty Museum",
+      "count" : "1"
+    }, {
+      "value" : "Potts Timothy F",
+      "count" : "1"
+    }, {
+      "value" : "Thomas Ariane",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

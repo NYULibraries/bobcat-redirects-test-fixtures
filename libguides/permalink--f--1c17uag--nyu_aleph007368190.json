@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073681900107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Central Park : original designs for New York's greatest treasure " ],
+        "subject" : [ "Central Park (New York, N.Y.) -- History", "Central Park (New York, N.Y.)$$QCentral Park (New York, N.Y.) -- Pictorial works", "Landscape architecture -- New York (State) -- New York$$QLandscape architecture -- New York (State) -- New York -- Pictorial works", "Landscape architecture", "New York (State) -- New York", "New York (State) -- New York -- Central Park" ],
+        "format" : [ "229 pages : illustrations (some color), maps (some color), plans ; 26 x 30 cm" ],
+        "identifier" : [ "$$CISBN$$V9781419732324;$$CISBN$$V1419732323;$$COCLC$$V(OCoLC)1048945223" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Brenwall, Cynthia S., author.$$QBrenwall, Cynthia S." ],
+        "publisher" : [ "New York : Abrams" ],
+        "description" : [ "Drawing on the unparalleled collection of original designs for Central Park in the New York City Municipal Archives, Cynthia S. Brenwall tells the story of the creation of New York's great public park, from its conception to its completion. This treasure trove of material ranges from the original winning competition entry; to meticulously detailed maps; to plans and elevations of buildings, some built, some unbuilt; to elegant designs for all kinds of fixtures needed in a world of gaslight and horses; to intricate engineering drawings of infrastructure elements. Much of it has never been published before. A virtual time machine that takes the reader on a journey through the park as it was originally envisioned, 'The Central Park' is both a magnificent art book and a message from the past about what brilliant urban planning can do for a great city." ],
+        "mms" : [ "990073681900107871" ],
+        "contributor" : [ "Filler, Martin, 1948- writer of foreword.$$QFiller, Martin", "New York (N.Y.). Municipal Archives.$$QNew York (N.Y.). Municipal Archives." ],
+        "contents" : [ "Foreword / by Martin Filler -- Introduction: The greatest single work of art in the City of New York -- The genius of the plan -- The South -- The West -- The North -- The East -- The heart of it all." ],
+        "genre" : [ "History", "Pictorial works" ],
+        "relation" : [ "$$Cform$$VThe Central Park : Original Designs for New York's Greatest Treasure.$$Z9995819445507871", "$$Cform$$VThe Central Park : original designs for New York's greatest treasure$$Z990073610770107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007368190" ],
+        "lds53" : [ "007368190" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073681900107871" ],
+        "recordid" : [ "alma990073681900107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007368190-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brenwall" ],
+        "aufirst" : [ "Cynthia S." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Brenwall, Cynthia S." ],
+        "addau" : [ "Filler, Martin" ],
+        "creatorfull" : [ "$$NBrenwall, Cynthia S.$$LBrenwall$$FCynthia S.$$Rauthor" ],
+        "contributorfull" : [ "$$NFiller, Martin$$LFiller$$FMartin$$Rsecondary contributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781419732324", "1419732323" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Drawing on the unparalleled collection of original designs for Central Park in the New York City Municipal Archives, Cynthia S. Brenwall tells the story of the creation of New York's great public park, from its conception to its completion. This treasure trove of material ranges from the original winning competition entry; to meticulously detailed maps; to plans and elevations of buildings, some built, some unbuilt; to elegant designs for all kinds of fixtures needed in a world of gaslight and horses; to intricate engineering drawings of infrastructure elements. Much of it has never been published before. A virtual time machine that takes the reader on a journey through the park as it was originally envisioned, 'The Central Park' is both a magnificent art book and a message from the past about what brilliant urban planning can do for a great city." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Abrams" ],
+        "oclcid" : [ "(ocolc)1048945223" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Central Park : original designs for New York's greatest treasure" ]
+      },
+      "sort" : {
+        "title" : [ "Central Park : original designs for New York's greatest treasure /" ],
+        "author" : [ "Brenwall, Cynthia S., author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990073681900107871"
+        } ],
+        "instCode" : "01NYU_NYHS",
+        "instName" : "New York Historical Society",
+        "instId" : "7873",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990073681900107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1419732323,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f\"128.65 c3ǂb74 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "352",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "106",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "586",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 623,
+    "COMBINED_SEARCH_TIME" : 626,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Central Park New York N Y History",
+      "count" : "1"
+    }, {
+      "value" : "Central Park New York N Y Pictorial Works",
+      "count" : "1"
+    }, {
+      "value" : "Landscape Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Landscape Architecture New York State New York Pictorial Works",
+      "count" : "1"
+    }, {
+      "value" : "New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "New York State New York Central Park",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brenwall Cynthia S",
+      "count" : "1"
+    }, {
+      "value" : "Filler Martin",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y Municipal Archives",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7873–112285990007873",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7873",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

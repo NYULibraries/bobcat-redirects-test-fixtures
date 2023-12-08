@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038506480107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A fire you can't put out : the civil rights life of Birmingham's Reverend Fred Shuttlesworth " ],
+        "subject" : [ "Shuttlesworth, Fred L., 1922-2011", "Civil rights movements -- Alabama -- Birmingham -- History -- 20th century", "African Americans -- Civil rights -- Alabama -- Birmingham -- History -- 20th century", "Birmingham (Ala.) -- Race relations", "Civil rights workers -- Alabama -- Birmingham$$QCivil rights workers -- Alabama -- Birmingham -- Biography", "Mouvements des droits de l'homme -- Alabama -- Birmingham -- Histoire -- 20e siècle", "Noirs américains -- Droits -- Alabama -- Birmingham -- Histoire -- 20e siècle", "Défenseurs des droits de l'homme -- Alabama -- Birmingham$$QDéfenseurs des droits de l'homme -- Alabama -- Birmingham -- Biographies", "BIOGRAPHY & AUTOBIOGRAPHY -- Social Scientists & Psychologists", "SOCIAL SCIENCE -- Ethnic Studies -- African American Studies", "African Americans -- Civil rights", "Civil rights movements", "Civil rights workers", "Race relations", "Alabama -- Birmingham", "1900-1999" ],
+        "format" : [ "1 online resource (xxxii, 541 pages) : illustrations.", "polychrome.", "text file" ],
+        "identifier" : [ "$$CLC$$V99006033;$$CISBN$$V0585354405;$$CISBN$$V9780585354408;$$CISBN$$V9780817313456;$$CISBN$$V0817313451;$$COCLC$$V(OCoLC)47010581;$$CISBN$$V0817309683" ],
+        "creationdate" : [ "©1999" ],
+        "creator" : [ "Manis, Andrew Michael.$$QManis, Andrew Michael." ],
+        "publisher" : [ "Tuscaloosa : University of Alabama Press" ],
+        "description" : [ "\"From his 1956 founding of the Alabama Christian Movement for Human Rights through the historic demonstrations of 1963, driven by a sense of divine mission, Shuttlesworth pressured Jim Crow restrictions in Birmingham with radically confrontational acts of courage. His intensive campaign pitted him against the staunchly segregationist police commissioner Eugene \"Bull\" Connor and ultimately brought him to the side of Martin Luther King, Jr., and to the inner chambers of the Kennedy White House.\"" ],
+        "mms" : [ "990038506480107871" ],
+        "series" : [ "Religion and American culture$$QReligion and American culture", "Religion and American culture (Tuscaloosa, Ala.)$$QReligion and American culture (Tuscaloosa, Ala.)" ],
+        "contents" : [ "Preface -- Abbreviations -- Chronology -- Introduction -- Alberta -- Ready -- Bethel -- Agitation -- \"Bull\"fighting -- Stalemate -- Jailbirds -- Confrontations -- Cataclysm -- \"Actionist\" -- Epilogue -- Notes -- Bibliography -- Index." ],
+        "genre" : [ "Biography", "collective biographies", "History", "Biographies" ],
+        "relation" : [ "$$Cform$$VPrint version: Manis, Andrew Michael. Fire you can't put out. Tuscaloosa : University of Alabama Press, ©1999$$QFire you can't put out.$$Z990015663130107871" ],
+        "place" : [ "Tuscaloosa :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "pmusebp", "aleph003850648" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038506480107871" ],
+        "recordid" : [ "alma990038506480107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003850648-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Manis" ],
+        "aufirst" : [ "Andrew Michael." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Manis, Andrew Michael." ],
+        "creatorfull" : [ "$$NManis, Andrew Michael.$$LManis$$FAndrew Michael.$$Rauthor" ],
+        "date" : [ "1999", "©1999" ],
+        "isbn" : [ "0585354405", "9780585354408", "9780817313456", "0817313451", "0817309683" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"From his 1956 founding of the Alabama Christian Movement for Human Rights through the historic demonstrations of 1963, driven by a sense of divine mission, Shuttlesworth pressured Jim Crow restrictions in Birmingham with radically confrontational acts of courage. His intensive campaign pitted him against the staunchly segregationist police commissioner Eugene \"Bull\" Connor and ultimately brought him to the side of Martin Luther King, Jr., and to the inner chambers of the Kennedy White House.\"" ],
+        "cop" : [ "Tuscaloosa" ],
+        "pub" : [ "University of Alabama Press" ],
+        "oclcid" : [ "(ocolc)47010581" ],
+        "lccn" : [ "99006033" ],
+        "seriestitle" : [ "Religion and American culture" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A fire you can't put out : the civil rights life of Birmingham's Reverend Fred Shuttlesworth" ]
+      },
+      "sort" : {
+        "title" : [ "fire you can't put out : the civil rights life of Birmingham's Reverend Fred Shuttlesworth /" ],
+        "author" : [ "Manis, Andrew Michael." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038506480107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038506480107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038506480107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780585354408,OCLC:,LCCN:99006033&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f\"334 b69ǂn448 1999eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "445",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "24",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "102",
+    "RETRIVE_FROM_DB_RELATIONS" : "121",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "21",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "685",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 725,
+    "COMBINED_SEARCH_TIME" : 730,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Civil Rights",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Civil Rights Alabama Birmingham History 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "Alabama Birmingham",
+      "count" : "1"
+    }, {
+      "value" : "Biography Autobiography Social Scientists Psychologists",
+      "count" : "1"
+    }, {
+      "value" : "Birmingham Ala Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements Alabama Birmingham History 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Workers",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Workers Alabama Birmingham Biography",
+      "count" : "1"
+    }, {
+      "value" : "Défenseurs Des Droits De Lhomme Alabama Birmingham Biographies",
+      "count" : "1"
+    }, {
+      "value" : "Mouvements Des Droits De Lhomme Alabama Birmingham Histoire 20e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Droits Alabama Birmingham Histoire 20e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Shuttlesworth Fred L 1922 2011",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Ethnic Studies African American Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Manis Andrew Michael",
+      "count" : "1"
+    } ]
+  } ]
+}

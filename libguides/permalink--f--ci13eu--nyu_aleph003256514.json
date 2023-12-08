@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032565140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Exile & pride : disability, queerness & liberation " ],
+        "subject" : [ "Clare, Eli", "Women political activists -- United States$$QWomen political activists -- United States -- Biography", "Cerebral palsied -- United States$$QCerebral palsied -- United States -- Biography" ],
+        "format" : [ "xiii, 186 p. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2009023511;$$CISBN$$V9780896087880 (pbk. : alk. paper);$$CISBN$$V0896087883 (pbk. : alk. paper);$$COCLC$$V(OCoLC)261175989" ],
+        "creationdate" : [ "c2009" ],
+        "creator" : [ "Clare, Eli.$$QClare, Eli." ],
+        "publisher" : [ "Cambridge, MA : South End Press" ],
+        "mms" : [ "990032565140107871" ],
+        "addtitle" : [ "Exile and pride" ],
+        "series" : [ "South End Press classics ; v. 10$$QSouth End Press classics ", "South End Press classics ; v. 10.$$QSouth End Press classics " ],
+        "genre" : [ "Biography" ],
+        "place" : [ "Cambridge, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003256514" ],
+        "lds53" : [ "003256514" ],
+        "lds60" : [ "Rev. ed. of: Exile and pride : disability, queerness, and liberation. 1999." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032565140107871" ],
+        "recordid" : [ "alma990032565140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003256514-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clare" ],
+        "aufirst" : [ "Eli." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Clare, Eli." ],
+        "creatorfull" : [ "$$NClare, Eli.$$LClare$$FEli.$$Rauthor" ],
+        "addtitle" : [ "Exile and pride" ],
+        "date" : [ "2009", "c2009" ],
+        "isbn" : [ "9780896087880", "0896087883" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Cambridge, MA" ],
+        "pub" : [ "South End Press" ],
+        "oclcid" : [ "(ocolc)261175989" ],
+        "lccn" : [ "2009023511" ],
+        "seriestitle" : [ "South End Press classics ; v. 10" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Exile & pride : disability, queerness & liberation" ]
+      },
+      "sort" : {
+        "title" : [ "Exile & pride : disability, queerness & liberation /" ],
+        "author" : [ "Clare, Eli." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990032565140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0896087883,OCLC:,LCCN:2009023511&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hq#1426ǂ c56 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "61",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "303",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 333,
+    "COMBINED_SEARCH_TIME" : 336,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cerebral Palsied United States Biography",
+      "count" : "1"
+    }, {
+      "value" : "Clare Eli",
+      "count" : "1"
+    }, {
+      "value" : "Women Political Activists United States Biography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clare Eli",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

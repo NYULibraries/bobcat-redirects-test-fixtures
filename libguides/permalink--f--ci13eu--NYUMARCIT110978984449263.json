@@ -1,0 +1,265 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995633175807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of real estate practice and education (Online)" ],
+        "subject" : [ "Real estate business -- Study and teaching$$QReal estate business -- Study and teaching -- Periodicals", "Real estate business -- Research$$QReal estate business -- Research -- Periodicals", "Real estate business -- Research", "Real estate business -- Study and teaching" ],
+        "identifier" : [ "$$CLC$$V  2006214159;$$CISSN$$V1930-8914;$$COCLC$$V(OCoLC)60638630;$$CISSN$$V1521-4842" ],
+        "creationdate" : [ "1998" ],
+        "publisher" : [ "London, England : Taylor & Francis Group", "Vol. 1, no. 1 (1998)-" ],
+        "mms" : [ "9995633175807871" ],
+        "contributor" : [ "American Real Estate Society.$$QAmerican Real Estate Society." ],
+        "addtitle" : [ "Real estate practice and education" ],
+        "frequency" : [ "Annual, <2017->" ],
+        "genre" : [ "Czasopismo prawnicze", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990016006420107871" ],
+        "unititle" : [ "Journal of real estate practice and education (Online)" ],
+        "place" : [ "London, England :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978984449263" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from cover.", "\"Please note that the Journal of Real Estate Practice and Education (JREPE) is now fully open access from Volume 22 (2020)\" per T&F website, viewed June 13, 2022." ],
+        "lds63" : [ "Open Access" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995633175807871" ],
+        "recordid" : [ "alma9995633175807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978984449263" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "JOURNAL OF REAL ESTATE PRACTICE & EDUCATION" ],
+        "addtitle" : [ "Real estate practice and education" ],
+        "date" : [ "1998" ],
+        "issn" : [ "1930-8914", "1521-4842" ],
+        "cop" : [ "Grand Forks, ND" ],
+        "pub" : [ "American Real Estate Society" ],
+        "oclcid" : [ "(ocolc)60638630" ],
+        "lccn" : [ "2006214159" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of real estate practice and education (Online)" ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of real estate practice and education (Online)" ],
+        "author" : [ "American Real Estate Society." ],
+        "creationdate" : [ "1998" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995633175807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2006214159&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#1381",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "172",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "148",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "119",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "470",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 502,
+    "COMBINED_SEARCH_TIME" : 504,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1998",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Real Estate Business Research",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business Research Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business Study And Teaching Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Real Estate Society",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

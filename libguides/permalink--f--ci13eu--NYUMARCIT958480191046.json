@@ -1,0 +1,267 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995624308107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "ACM SIGCHI bulletin : [a quarterly publication of the Special Interest Group on Computer & Human Interaction]." ],
+        "subject" : [ "Social sciences -- Data processing$$QSocial sciences -- Data processing -- Periodicals", "Interactive computer systems$$QInteractive computer systems -- Periodicals", "Computers -- Psychological aspects$$QComputers -- Psychological aspects -- Periodicals", "Human-computer interaction$$QHuman-computer interaction -- Periodicals", "Sciences sociales -- Informatique$$QSciences sociales -- Informatique -- Périodiques", "Informatique$$QInformatique -- Périodiques", "Computers -- Psychological aspects", "Human-computer interaction", "Interactive computer systems", "Social sciences -- Data processing" ],
+        "identifier" : [ "$$CLC$$V  2005214061;$$CISSN$$V1558-1217;$$COCLC$$V(OCoLC)60637571;$$CISSN$$V0736-6906" ],
+        "creationdate" : [ "1982" ],
+        "publisher" : [ "New York, N.Y. : Special Interest Group on Computer & Human Interaction", "Print began with v. 14, 1 (July 1982)." ],
+        "mms" : [ "9995624308107871" ],
+        "contributor" : [ "SIGCHI (Group : U.S.)$$QSIGCHI (Group : U.S.)" ],
+        "addtitle" : [ "Special Interest Group on Computer & Human Interaction bulletin", "SIGCHI bulletin" ],
+        "frequency" : [ "6 issues yearly, July/Aug. 2000-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VACM SIGSOC Bulletin$$QACM SIGSOC Bulletin$$Z9995624295507871", "$$Cform$$VLink to related record$$Z990020463150107871", "$$Csupp_parent$$VInteractions$$QInteractions$$Z9995630729207871", "$$Csupplement$$VCHI: Conference on Human Factors in Computing Systems$$QCHI: Conference on Human Factors in Computing Systems" ],
+        "place" : [ "New York, N.Y.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)958480191046" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995624308107871" ],
+        "recordid" : [ "alma9995624308107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99958480191046" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "SIGCHI BULLETIN", "ACM SIGCHI BULLETIN", "SIGCHI BULL", "SIGCHI BULL.: SUPPL. INTERACTIONS", "ACM SIGCHI bull." ],
+        "addtitle" : [ "Special Interest Group on Computer & Human Interaction bulletin", "SIGCHI bulletin" ],
+        "date" : [ "1982" ],
+        "issn" : [ "1558-1217", "0736-6906" ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "Special Interest Group on Computer & Human Interaction" ],
+        "oclcid" : [ "(ocolc)60637571" ],
+        "lccn" : [ "2005214061" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "ACM SIGCHI bulletin : [a quarterly publication of the Special Interest Group on Computer & Human Interaction]." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "ACM SIGCHI bulletin : [a quarterly publication of the Special Interest Group on Computer & Human Interaction]." ],
+        "author" : [ "SIGCHI (Group : U.S.)" ],
+        "creationdate" : [ "1982" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995624308107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995624308107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995624308107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995624308107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995624308107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2005214061&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "h!61.3",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "270",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "100",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "74",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "32",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "483",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 511,
+    "COMBINED_SEARCH_TIME" : 513,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1982",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computers Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Computers Psychological Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Human Computer Interaction",
+      "count" : "1"
+    }, {
+      "value" : "Human Computer Interaction Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Informatique Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Interactive Computer Systems",
+      "count" : "1"
+    }, {
+      "value" : "Interactive Computer Systems Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Informatique Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Data Processing Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Sigchi Group U S",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995628308807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Andean report." ],
+        "subject" : [ "Peru -- Economic conditions -- 1968-$$QPeru -- Economic conditions -- 1968- -- Periodicals", "Andes Region -- Economic conditions$$QAndes Region -- Economic conditions -- Periodicals", "Chile -- Economic conditions -- 1973-1988$$QChile -- Economic conditions -- 1973-1988 -- Periodicals", "Economic history", "Andes Region", "Chile", "Peru", "Since 1968" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V0251-2491" ],
+        "creationdate" : [ "-2000" ],
+        "publisher" : [ "Lima, Andean Air Mail & Peruvian Times", "v. 1-v.27, no. 37 ; July 1975-Oct 2-9, 2000." ],
+        "mms" : [ "9995628308807871" ],
+        "addtitle" : [ "Andean Air Mail & Peruvian Times's the Andean report" ],
+        "frequency" : [ "Weekly, Apr. 27, 1992-Oct. 2-9, 2000" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VPrint version: The Andean report.$$QThe Andean report." ],
+        "place" : [ "Lima," ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110979839328159" ],
+        "lds60" : [ "At head of title: The Andean Air Mail & Peruvian Times's, Apr. 27, 1992-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995628308807871" ],
+        "recordid" : [ "alma9995628308807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110979839328159" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ANDEAN REPORT", "Andean rep." ],
+        "addtitle" : [ "Andean Air Mail & Peruvian Times's the Andean report" ],
+        "date" : [ "1975 - 2000", "-2000" ],
+        "issn" : [ "0251-2491" ],
+        "cop" : [ "Lima" ],
+        "pub" : [ "[Andean Air Mail & Peruvian Times]" ],
+        "oclcid" : [ "(ckb)110979839328159", "(conser)---79645840-", "(de-599)zdb2113407-8", "(miaapq)46819" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The Andean report." ]
+      },
+      "sort" : {
+        "title" : [ "Andean report." ],
+        "creationdate" : [ "1975" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628308807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hc\"226ǂ a83",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "65",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "153",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "125",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "55",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "361",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 387,
+    "COMBINED_SEARCH_TIME" : 390,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1975",
+      "count" : "1"
+    }, {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Andes Region",
+      "count" : "1"
+    }, {
+      "value" : "Andes Region Economic Conditions Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Chile",
+      "count" : "1"
+    }, {
+      "value" : "Chile Economic Conditions 1973 1988 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Economic History",
+      "count" : "1"
+    }, {
+      "value" : "Peru",
+      "count" : "1"
+    }, {
+      "value" : "Peru Economic Conditions 1968 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Since 1968",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

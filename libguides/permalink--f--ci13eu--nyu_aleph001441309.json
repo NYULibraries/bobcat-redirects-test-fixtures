@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990014413090107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ventures into childland : Victorians, fairy tales, and femininity " ],
+        "subject" : [ "Children's literature, English -- History and criticism", "Girls -- Books and reading -- Great Britain -- History -- 19th century", "English literature -- 19th century -- History and criticism", "Fantasy literature, English -- History and criticism", "Children's literature, English$$QChildren's literature, English -- Illustrations", "Children's literature -- Psychological aspects", "Femininity in literature", "Fairy tales -- History and criticism", "Authorship -- Sex differences", "Sex role in literature", "Great Britain -- History -- Victoria, 1837-1901" ],
+        "format" : [ "xxi, 444 p. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V97032030;$$CISBN$$V0226448150 (cloth : acid-free paper);$$COCLC$$V(OCoLC)37721239" ],
+        "creationdate" : [ "c1998" ],
+        "creator" : [ "Knoepflmacher, U. C.$$QKnoepflmacher, U. C." ],
+        "publisher" : [ "Chicago : University of Chicago Press" ],
+        "mms" : [ "990014413090107871" ],
+        "genre" : [ "Illustrations" ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001441309" ],
+        "lds53" : [ "001441309" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990014413090107871" ],
+        "recordid" : [ "alma990014413090107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001441309-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Knoepflmacher" ],
+        "aufirst" : [ "U. C." ],
+        "auinit" : [ "U" ],
+        "au" : [ "Knoepflmacher, U. C." ],
+        "creatorfull" : [ "$$NKnoepflmacher, U. C.$$LKnoepflmacher$$FU. C.$$Rauthor" ],
+        "date" : [ "1998", "c1998" ],
+        "isbn" : [ "0226448150" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)37721239" ],
+        "lccn" : [ "97032030" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ventures into childland : Victorians, fairy tales, and femininity" ]
+      },
+      "sort" : {
+        "title" : [ "Ventures into childland : Victorians, fairy tales, and femininity /" ],
+        "author" : [ "Knoepflmacher, U. C." ],
+        "creationdate" : [ "1998" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990014413090107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0226448150,OCLC:,LCCN:97032030&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr\"990ǂ k58 1998",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "78",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "296",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 330,
+    "COMBINED_SEARCH_TIME" : 334,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1998",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Authorship Sex Differences",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Literature English History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Literature English Illustrations",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Literature Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "English Literature 19th Century History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Fairy Tales History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Fantasy Literature English History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Femininity In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Girls Books And Reading Great Britain History 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain History Victoria 1837 1901",
+      "count" : "1"
+    }, {
+      "value" : "Sex Role In Literature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Knoepflmacher U C",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

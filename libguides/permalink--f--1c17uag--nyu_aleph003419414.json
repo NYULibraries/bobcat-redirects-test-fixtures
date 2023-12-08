@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990034194140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Clothing through American history : the Civil War through the Gilded Age, 1861-1899 " ],
+        "subject" : [ "Clothing and dress -- United States -- History -- 19th century", "Fashion -- United States -- History -- 19th century" ],
+        "format" : [ "vi, 409 p. : ill. (some col.) ; 27 cm." ],
+        "identifier" : [ "$$CLC$$V2010030736;$$CISBN$$V9780313335518 (alk. paper);$$CISBN$$V0313335516 (alk. paper);$$CISBN$$V9780313084584 (E-ISBN);$$CISBN$$V0313084580 (E-ISBN);$$COCLC$$V(OCoLC)422756854" ],
+        "creationdate" : [ "c2011" ],
+        "creator" : [ "Stamper, Anita A.$$QStamper, Anita A." ],
+        "publisher" : [ "Santa Barbara, Calif. : Greenwood" ],
+        "description" : [ "Provides information on fabrics, materials, and manufacturing; a discussion of daily life and dress; and the types of clothes worn by men, women and children of all levels of society." ],
+        "mms" : [ "990034194140107871" ],
+        "contributor" : [ "Condra, Jill, 1968-$$QCondra, Jill" ],
+        "contents" : [ "Clothing in the Civil War and Reconstruction era, 1861-1876 -- Clothing in the gilded age, 1877-1899." ],
+        "relation" : [ "$$Cform$$VClothing through American history : the Civil War through the Gilded Age, 1861-1899$$Z990035753160107871", "$$Cform$$VClothing through American history the Civil War through the Gilded Age, 1861-1899$$Z9995740141207871" ],
+        "place" : [ "Santa Barbara, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003419414" ],
+        "lds53" : [ "003419414" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990034194140107871" ],
+        "recordid" : [ "alma990034194140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003419414-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stamper" ],
+        "aufirst" : [ "Anita A." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Stamper, Anita A." ],
+        "addau" : [ "Condra, Jill" ],
+        "creatorfull" : [ "$$NStamper, Anita A.$$LStamper$$FAnita A.$$Rauthor" ],
+        "contributorfull" : [ "$$NCondra, Jill$$LCondra$$FJill$$Rcontributor" ],
+        "date" : [ "2011", "c2011" ],
+        "isbn" : [ "9780313335518", "0313335516", "9780313084584", "0313084580" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Provides information on fabrics, materials, and manufacturing; a discussion of daily life and dress; and the types of clothes worn by men, women and children of all levels of society." ],
+        "cop" : [ "Santa Barbara, Calif" ],
+        "pub" : [ "Greenwood" ],
+        "oclcid" : [ "(ocolc)422756854" ],
+        "lccn" : [ "2010030736" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Clothing through American history : the Civil War through the Gilded Age, 1861-1899" ]
+      },
+      "sort" : {
+        "title" : [ "Clothing through American history : the Civil War through the Gilded Age, 1861-1899 /" ],
+        "author" : [ "Stamper, Anita A." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034194140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034194140107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0313335516,OCLC:,LCCN:2010030736&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"607ǂ s73 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "482",
+    "CALL_SOLR_GET_IDS_LIST" : "136",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "195",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "109",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "189",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "102",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "925",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 961,
+    "COMBINED_SEARCH_TIME" : 966,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing And Dress United States History 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "Fashion United States History 19th Century",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Condra Jill",
+      "count" : "1"
+    }, {
+      "value" : "Stamper Anita A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7874–112295960007874",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7874",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

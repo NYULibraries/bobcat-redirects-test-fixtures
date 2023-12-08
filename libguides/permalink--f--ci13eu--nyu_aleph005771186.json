@@ -1,0 +1,270 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990057711860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A laboratory of transnational history : Ukraine and recent Ukrainian historiography " ],
+        "subject" : [ "Ukraine -- Historiography", "Ukraine -- History", "Ukraine -- Histoire", "HISTORY", "HISTORY -- Europe -- Russia & the Former Soviet Union", "Historiography", "Geschichtsschreibung", "Geschiedschrijving", "Oekraïne", "Ukraine" ],
+        "format" : [ "1 online resource (vi, 310 pages)", "data file" ],
+        "identifier" : [ "$$CISBN$$V9781441603906;$$CISBN$$V1441603905;$$CISBN$$V9786155211553;$$CISBN$$V6155211558;$$CISBN$$V1283248158;$$CISBN$$V9781283248150;$$CISBN$$V9786613248152;$$CISBN$$V6613248150;$$COCLC$$V(OCoLC)317551846;$$CISBN$$V9789639776265;$$CISBN$$V9639776262" ],
+        "creationdate" : [ "©2009" ],
+        "publisher" : [ "Budapest ; New York : Central European University Press" ],
+        "description" : [ "A first attempt to present an approach to Ukrainian history which goes beyond the standard 'national narrative' schemes, predominant in the majority of post-Soviet countries after 1991, in the years of implementing 'nation-building projects'. An unrivalled collection of essays by the finest scholars in the field from Ukraine, Russia, USA, Germany, Austria and Canada, superbly written to a high academic standard. The various chapters are methodologically innovative and thought-provoking. The biggest Eastern European country has ancient roots but also the birth pangs of a new autonomous state. Its historiography is characterized by animated debates, in which this book takes a definite stance. The history of Ukraine is not written here as a linear, teleological narrative of ethnic Ukrainians but as a multicultural, multidimensional history of a diversity of cultures, religious denominations, languages, ethical norms, and historical experience. It is not presented as causal explanation of 'what has to have happened' but rather as conjunctures and contingencies, disruptions, and episodes of 'lack of history.'" ],
+        "mms" : [ "990057711860107871" ],
+        "contributor" : [ "Kasʹi͡anov, H. V. (Heorhiĭ Volodymyrovych), 1961-$$QKasʹi͡anov, H. V.", "Ther, Philipp.$$QTher, Philipp." ],
+        "contents" : [ "Introduction / Georgiy Kasianov and Philipp Ther -- National versus transnational histor -- \"Nationalized\" history : past continuous, present perfect, future / Georgiy Kasianov -- Revisiting the histories of Ukraine / Mark von Hagen -- From an ethnonational to a multiethnic to a transnational Ukrainian history / Andreas Kappeler -- The transnational paradigm of historiography and its potential for Ukrainian history / Philipp Ther -- Ukrainian history rewritten -- Choice of name versus choice of path : the names of Ukrainian territories from the late sixteenth to the late seventeenth century / Natalia Yakovenko -- Fellows and travelers : thinking about Ukrainian history in the early nineteenth century / Oleksiy Tolochko -- The Latin and Cyrillic alphabets in Ukrainian national discourse and in the language policy of empires / Alexei Miller and Oksana Ostapchuk -- Victim cinema : between Hitler and Stalin : Ukraine in World War II, the untold story / John-Paul Himka -- On the relevance and irrelevance of nationalism in contemporary Ukraine / Yaroslav Hrytsak -- Making of modern Ukraine : the western dimension / Roman Szporluk." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VLaboratory of Transnational History : Ukraine and Recent Ukrainian Historiography.$$Z990058280980107871", "$$Cform$$VPrint version: Laboratory of transnational history. Budapest ; New York : Central European University Press, ©2009$$QLaboratory of transnational history.$$Z990031563320107871" ],
+        "place" : [ "Budapest ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebscoac", "jstoreba", "pmusebp", "aleph005771186" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990057711860107871" ],
+        "recordid" : [ "alma990057711860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005771186-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kasʹi͡anov", "Ther" ],
+        "aufirst" : [ "H. V.", "Philipp." ],
+        "auinit" : [ "H", "P" ],
+        "addau" : [ "Kasʹi͡anov, H. V. (Heorhiĭ Volodymyrovych)", "Ther, Philipp." ],
+        "contributorfull" : [ "$$NKasʹi͡anov, H. V. (Heorhiĭ Volodymyrovych)$$LKasʹi͡anov$$FH. V.$$Rcontributor", "$$NTher, Philipp.$$Rcontributor" ],
+        "date" : [ "2009", "©2009" ],
+        "isbn" : [ "9781441603906", "1441603905", "9786155211553", "6155211558", "1283248158", "9781283248150", "9786613248152", "6613248150", "9789639776265", "9639776262" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "A first attempt to present an approach to Ukrainian history which goes beyond the standard 'national narrative' schemes, predominant in the majority of post-Soviet countries after 1991, in the years of implementing 'nation-building projects'. An unrivalled collection of essays by the finest scholars in the field from Ukraine, Russia, USA, Germany, Austria and Canada, superbly written to a high academic standard. The various chapters are methodologically innovative and thought-provoking. The biggest Eastern European country has ancient roots but also the birth pangs of a new autonomous state. Its historiography is characterized by animated debates, in which this book takes a definite stance. The history of Ukraine is not written here as a linear, teleological narrative of ethnic Ukrainians but as a multicultural, multidimensional history of a diversity of cultures, religious denominations, languages, ethical norms, and historical experience. It is not presented as causal explanation of 'what has to have happened' but rather as conjunctures and contingencies, disruptions, and episodes of 'lack of history.'" ],
+        "cop" : [ "Budapest ;" ],
+        "pub" : [ "Central European University Press" ],
+        "oclcid" : [ "(ocolc)317551846" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A laboratory of transnational history : Ukraine and recent Ukrainian historiography" ]
+      },
+      "sort" : {
+        "title" : [ "laboratory of transnational history : Ukraine and recent Ukrainian historiography /" ],
+        "author" : [ "Kasʹi͡anov, H. V. (Heorhiĭ Volodymyrovych), 1961-" ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057711860107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057711860107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057711860107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057711860107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057711860107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1441603905,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dk\"508.46ǂ l33 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "263",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "62",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "34",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "31",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "82",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "517",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 543,
+    "COMBINED_SEARCH_TIME" : 548,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Geschichtsschreibung",
+      "count" : "1"
+    }, {
+      "value" : "Geschiedschrijving",
+      "count" : "1"
+    }, {
+      "value" : "Historiography",
+      "count" : "1"
+    }, {
+      "value" : "History",
+      "count" : "1"
+    }, {
+      "value" : "History Europe Russia The Former Soviet Union",
+      "count" : "1"
+    }, {
+      "value" : "Oekraïne",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Historiography",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kasʹi͡anov H V",
+      "count" : "1"
+    }, {
+      "value" : "Ther Philipp",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

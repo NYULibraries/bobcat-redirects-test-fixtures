@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019155720107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Elder voices a living history theater workshop " ],
+        "subject" : [ "Older people -- Recreation -- New York (State) -- New York", "Drama -- Therapeutic use", "Improvisation (Acting)", "Amsterdam House (New York, N.Y.)", "Elders Share the Arts Workshop" ],
+        "format" : [ "1 videocassette (ca. 27 min.) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)78870188" ],
+        "creationdate" : [ "c1986" ],
+        "publisher" : [ "New York : ESTA/Amsterdam House ; Northbrook, Ill. : Film Ideas distributor" ],
+        "description" : [ "The Elders Share the Arts Workshop is a therapeutic recreational program directed by Susan Perlstein and used at Amsterdam House, a retirement home in New York City and other locations. In this film we see a group of elderly men and women who live in Amsterdam House participating in the various activities of the workshop which include the therapeutic use of drama and improvisational acting. These activities reduce the inhibitions of the group and help them talk about themselves and their lives." ],
+        "mms" : [ "990019155720107871" ],
+        "contributor" : [ "Whyte, Agnes.$$QWhyte, Agnes.", "Singer, Miriam.$$QSinger, Miriam.", "Patterson, Jean.$$QPatterson, Jean.", "Mead, Nelson.$$QMead, Nelson.", "Getter, Esther.$$QGetter, Esther.", "Cole, Jonathan.$$QCole, Jonathan.", "Huntington, John.$$QHuntington, John.", "Lajtha, Terry.$$QLajtha, Terry.", "Sherman, Bob.$$QSherman, Bob.", "Nash, Emily J., 1968-$$QNash, Emily J.", "Perlstein, Susan.$$QPerlstein, Susan.", "Breed, Joseph.$$QBreed, Joseph.", "Breitbart, Eric.$$QBreitbart, Eric.", "Film Ideas (Firm)$$QFilm Ideas (Firm)", "Elders Share the Arts Workshop.$$QElders Share the Arts Workshop.", "Amsterdam House (New York, N.Y.)$$QAmsterdam House (New York, N.Y.)" ],
+        "addtitle" : [ "Living history theater workshop." ],
+        "place" : [ "New York] : Northbrook, Ill. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001915572" ],
+        "lds53" : [ "001915572" ],
+        "lds60" : [ "VHS." ],
+        "lds64" : [ "Executive producer, Joseph Breed ; sound, Bob Sherman ; editor, Terry Lajtha ; video engineer, John Huntington." ],
+        "lds65" : [ "Joseph Breed, Recreation Director, Amsterdam House ; Susan Perlstein, Director, Elders Share the Arts Workshop ; Emily Nash, Staff Artist ; Jonathan Cole, Esther Getter, Nelson Mead, Viola Mead, Jean Patterson, Miriam Singer, Agnes Whyte." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019155720107871" ],
+        "recordid" : [ "alma990019155720107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001915572-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Whyte", "Singer", "Patterson", "Mead", "Getter", "Cole", "Huntington", "Lajtha", "Sherman", "Nash", "Perlstein", "Breed", "Breitbart" ],
+        "aufirst" : [ "Agnes.", "Miriam.", "Jean.", "Nelson.", "Esther.", "Jonathan.", "John.", "Terry.", "Bob.", "Emily J.", "Susan.", "Joseph.", "Eric." ],
+        "auinit" : [ "A", "M", "N", "T", "B", "S", "J", "E" ],
+        "addau" : [ "Whyte, Agnes.", "Singer, Miriam.", "Patterson, Jean.", "Mead, Nelson.", "Getter, Esther.", "Cole, Jonathan.", "Huntington, John.", "Lajtha, Terry.", "Sherman, Bob.", "Nash, Emily J.", "Perlstein, Susan.", "Breed, Joseph.", "Breitbart, Eric." ],
+        "contributorfull" : [ "$$NWhyte, Agnes.$$LWhyte$$FAgnes.$$Rcontributor", "$$NSinger, Miriam.$$Rcontributor", "$$NPatterson, Jean.$$Rcontributor", "$$NMead, Nelson.$$Rcontributor", "$$NGetter, Esther.$$Rcontributor", "$$NCole, Jonathan.$$Rcontributor", "$$NHuntington, John.$$Rcontributor", "$$NLajtha, Terry.$$Rcontributor", "$$NSherman, Bob.$$Rcontributor", "$$NNash, Emily J.$$Rcontributor", "$$NPerlstein, Susan.$$Rcontributor", "$$NBreed, Joseph.$$Rcontributor", "$$NBreitbart, Eric.$$Rcontributor" ],
+        "date" : [ "1986", "c1986" ],
+        "abstract" : [ "The Elders Share the Arts Workshop is a therapeutic recreational program directed by Susan Perlstein and used at Amsterdam House, a retirement home in New York City and other locations. In this film we see a group of elderly men and women who live in Amsterdam House participating in the various activities of the workshop which include the therapeutic use of drama and improvisational acting. These activities reduce the inhibitions of the group and help them talk about themselves and their lives." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "ESTA/Amsterdam House" ],
+        "oclcid" : [ "(ocolc)78870188" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Elder voices a living history theater workshop" ]
+      },
+      "sort" : {
+        "title" : [ "Elder voices a living history theater workshop /" ],
+        "author" : [ "Whyte, Agnes." ],
+        "creationdate" : [ "1986" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019155720107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:78870188,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000003/000000000012/000000000091ct",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "95",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "91",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "128",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "399",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 426,
+    "COMBINED_SEARCH_TIME" : 429,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1986",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Amsterdam House New York N Y",
+      "count" : "1"
+    }, {
+      "value" : "Drama Therapeutic Use",
+      "count" : "1"
+    }, {
+      "value" : "Elders Share The Arts Workshop",
+      "count" : "1"
+    }, {
+      "value" : "Improvisation Acting",
+      "count" : "1"
+    }, {
+      "value" : "Older People Recreation New York State New York",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Amsterdam House New York N Y",
+      "count" : "1"
+    }, {
+      "value" : "Breed Joseph",
+      "count" : "1"
+    }, {
+      "value" : "Breitbart Eric",
+      "count" : "1"
+    }, {
+      "value" : "Cole Jonathan",
+      "count" : "1"
+    }, {
+      "value" : "Elders Share The Arts Workshop",
+      "count" : "1"
+    }, {
+      "value" : "Film Ideas Firm",
+      "count" : "1"
+    }, {
+      "value" : "Getter Esther",
+      "count" : "1"
+    }, {
+      "value" : "Huntington John",
+      "count" : "1"
+    }, {
+      "value" : "Lajtha Terry",
+      "count" : "1"
+    }, {
+      "value" : "Mead Nelson",
+      "count" : "1"
+    }, {
+      "value" : "Nash Emily J",
+      "count" : "1"
+    }, {
+      "value" : "Patterson Jean",
+      "count" : "1"
+    }, {
+      "value" : "Perlstein Susan",
+      "count" : "1"
+    }, {
+      "value" : "Sherman Bob",
+      "count" : "1"
+    }, {
+      "value" : "Singer Miriam",
+      "count" : "1"
+    }, {
+      "value" : "Whyte Agnes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

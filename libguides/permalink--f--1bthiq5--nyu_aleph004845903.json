@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048459030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Speculative everything : design, fiction, and social dreaming " ],
+        "subject" : [ "Design -- Philosophy", "Utopie", "Ästhetik", "Design", "Industriell formgivning -- teori, filosofi", "Diseño -- Filosofía", "Art and Design" ],
+        "format" : [ "ix, 224 pages : illustrations (some color) ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2013009801;$$CISBN$$V9780262019842;$$CISBN$$V0262019841;$$CISBN$$V9780262318501;$$CISBN$$V0262318504;$$COCLC$$V(OCoLC)830837565" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Dunne, Anthony.$$QDunne, Anthony." ],
+        "publisher" : [ "Cambridge, Massachusetts ; London : The MIT Press" ],
+        "description" : [ "\"Today designers often focus on making technology easy to use, sexy, and consumable. in Speculative Everything, Anthony Dunne and Fiona Raby propose a kind of design that is used as a tool to create not only things but ideas. For them, design is a means of speculating about how things could be - to imagine possible futures. This is not the usual sort of predicting or forecasting, spotting trends and extrapolating; these kinds of predictions have been proven wrong, again and again. Instead, Dunne and Raby pose \"what if\" questions that are intended to open debate and discussion about the kind of future people want (and do not want).\"--Jacket." ],
+        "mms" : [ "990048459030107871" ],
+        "contributor" : [ "Raby, Fiona.$$QRaby, Fiona." ],
+        "contents" : [ "Beyond radical design? -- A map of unreality -- Design as critique -- Consuming monsters: big, perfect, infectious -- A methodological playground: fictional worlds and thought experiments -- Physical fictions: invitations to make believe -- Aesthetics of unreality -- Between reality and the impossible -- Speculative everything." ],
+        "relation" : [ "$$Cform$$VSpeculative everything : design, fiction, and social dreaming$$Z990039672350107871" ],
+        "place" : [ "Cambridge, Massachusetts ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004845903" ],
+        "lds53" : [ "004845903" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048459030107871" ],
+        "recordid" : [ "alma990048459030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004845903-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dunne" ],
+        "aufirst" : [ "Anthony." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Dunne, Anthony." ],
+        "addau" : [ "Raby, Fiona." ],
+        "creatorfull" : [ "$$NDunne, Anthony.$$LDunne$$FAnthony.$$Rauthor" ],
+        "contributorfull" : [ "$$NRaby, Fiona.$$LRaby$$FFiona.$$Rcontributor" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9780262019842", "0262019841", "9780262318501", "0262318504" ],
+        "notes" : [ "Includes bibliographical references (pages 204-216) and index." ],
+        "abstract" : [ "\"Today designers often focus on making technology easy to use, sexy, and consumable. in Speculative Everything, Anthony Dunne and Fiona Raby propose a kind of design that is used as a tool to create not only things but ideas. For them, design is a means of speculating about how things could be - to imagine possible futures. This is not the usual sort of predicting or forecasting, spotting trends and extrapolating; these kinds of predictions have been proven wrong, again and again. Instead, Dunne and Raby pose \"what if\" questions that are intended to open debate and discussion about the kind of future people want (and do not want).\"--Jacket." ],
+        "cop" : [ "Cambridge, Massachusetts ;" ],
+        "pub" : [ "The MIT Press" ],
+        "oclcid" : [ "(ocolc)830837565" ],
+        "lccn" : [ "2013009801" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Speculative everything : design, fiction, and social dreaming" ]
+      },
+      "sort" : {
+        "title" : [ "Speculative everything : design, fiction, and social dreaming /" ],
+        "author" : [ "Dunne, Anthony." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990048459030107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990048459030107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0262019841,OCLC:,LCCN:2013009801&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=026843506&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+        "displayLabel" : "Table of contents"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://swbplus.bsz-bw.de/bsz401661814inh.htm",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nk#1505ǂ d865 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "322",
+    "CALL_SOLR_GET_IDS_LIST" : "117",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "85",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "150",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "641",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 679,
+    "COMBINED_SEARCH_TIME" : 684,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art And Design",
+      "count" : "1"
+    }, {
+      "value" : "Design",
+      "count" : "1"
+    }, {
+      "value" : "Design Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Diseño Filosofía",
+      "count" : "1"
+    }, {
+      "value" : "Industriell Formgivning Teori Filosofi",
+      "count" : "1"
+    }, {
+      "value" : "Utopie",
+      "count" : "1"
+    }, {
+      "value" : "Ästhetik",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dunne Anthony",
+      "count" : "1"
+    }, {
+      "value" : "Raby Fiona",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124368290007875",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

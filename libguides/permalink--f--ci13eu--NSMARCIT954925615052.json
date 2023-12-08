@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631072107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Museum international (Online)" ],
+        "subject" : [ "Museums$$QMuseums -- Periodicals", "Museum Management & Curatorship", "Museums", "Museumkunde", "Kunstmusea", "Kunst", "Cultuur", "Musée", "Muséologie", "Patrimoine culturel", "Art and design" ],
+        "identifier" : [ "$$CLC$$V  2007252830;$$CISSN$$V1468-0033;$$COCLC$$V(OCoLC)40349198;$$CISSN$$V1350-0775" ],
+        "creationdate" : [ "1993" ],
+        "publisher" : [ "Oxford : Blackwell Publishers", "Print began with vol. 45, no. 1 = no. 177, published in 1993." ],
+        "mms" : [ "9995631072107871" ],
+        "contributor" : [ "Unesco, issuing body.$$QUnesco", "International Council of Museums, issuing body.$$QInternational Council of Museums" ],
+        "frequency" : [ "Two issues yearly, 2016-" ],
+        "genre" : [ "Periodicals", "Périodique électronique (Descripteur de forme)", "Ressource Internet (Descripteur de forme)" ],
+        "relation" : [ "$$Ccomplete_edition$$VMuseum International (Edition Francaise)$$QMuseum International (Edition Francaise)$$Z9995637903407871", "$$Cearlier_title$$VMuseum$$QMuseum", "$$Cearlier_title$$VMuseum (Paris)$$QMuseum (Paris)", "$$Cother_relationship$$VMUSEUM EDICION ESPANOLA$$QMUSEUM EDICION ESPANOLA", "$$Cother_relationship$$VMuseum(Ed. Française)$$QMuseum(Ed. Française)" ],
+        "unititle" : [ "Museum international (Online)" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925615052" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631072107871" ],
+        "recordid" : [ "alma9995631072107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925615052" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "MUSEUM INTERNATIONAL OXFORD", "MUSEUM INTERNATIONAL (ENGLISH ED. PRINT)", "Mus. int. (Engl. ed, Online)" ],
+        "date" : [ "1993" ],
+        "issn" : [ "1468-0033", "1350-0775" ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Blackwell Publishers" ],
+        "oclcid" : [ "(ocolc)40349198" ],
+        "lccn" : [ "2007252830" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Museum international (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Museum international (Online)" ],
+        "author" : [ "Unesco, issuing body." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631072107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631072107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007252830&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "am 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "200",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "69",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "37",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "57",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "419",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 452,
+    "COMBINED_SEARCH_TIME" : 454,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art And Design",
+      "count" : "1"
+    }, {
+      "value" : "Cultuur",
+      "count" : "1"
+    }, {
+      "value" : "Kunst",
+      "count" : "1"
+    }, {
+      "value" : "Kunstmusea",
+      "count" : "1"
+    }, {
+      "value" : "Museum Management Curatorship",
+      "count" : "1"
+    }, {
+      "value" : "Museumkunde",
+      "count" : "1"
+    }, {
+      "value" : "Museums",
+      "count" : "1"
+    }, {
+      "value" : "Museums Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Musée",
+      "count" : "1"
+    }, {
+      "value" : "Muséologie",
+      "count" : "1"
+    }, {
+      "value" : "Patrimoine Culturel",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "International Council Of Museums",
+      "count" : "1"
+    }, {
+      "value" : "Unesco",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

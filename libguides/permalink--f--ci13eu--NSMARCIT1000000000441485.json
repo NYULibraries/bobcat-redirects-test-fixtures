@@ -1,0 +1,199 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995617051407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Antennae : the journal of nature in visual culture." ],
+        "subject" : [ "Animals in art$$QAnimals in art -- Periodicals", "Art, Modern -- 21st century$$QArt, Modern -- 21st century -- Periodicals", "Taxidermy$$QTaxidermy -- Periodicals", "Animals in art", "Art, Modern", "Taxidermy", "2000-2099" ],
+        "identifier" : [ "$$CLC$$V  2008247713;$$COCLC$$V(OCoLC)262684218;$$CISSN$$V1756-9575" ],
+        "creationdate" : [ "2007" ],
+        "publisher" : [ "London : Antennae Project", "Began with issue 1 (spring 2007)." ],
+        "mms" : [ "9995617051407871" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Periodicals" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000441485" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995617051407871" ],
+        "recordid" : [ "alma9995617051407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000441485" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2007" ],
+        "issn" : [ "1756-9575" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Antennae Project" ],
+        "oclcid" : [ "(ocolc)262684218" ],
+        "lccn" : [ "2008247713" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Antennae : the journal of nature in visual culture." ]
+      },
+      "sort" : {
+        "title" : [ "Antennae : the journal of nature in visual culture." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617051407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617051407871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008247713&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#7660",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "73",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "7",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "7",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "43",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "27",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "292",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 318,
+    "COMBINED_SEARCH_TIME" : 322,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2000 2099",
+      "count" : "1"
+    }, {
+      "value" : "Animals In Art",
+      "count" : "1"
+    }, {
+      "value" : "Animals In Art Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Art Modern",
+      "count" : "1"
+    }, {
+      "value" : "Art Modern 21st Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Taxidermy",
+      "count" : "1"
+    }, {
+      "value" : "Taxidermy Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

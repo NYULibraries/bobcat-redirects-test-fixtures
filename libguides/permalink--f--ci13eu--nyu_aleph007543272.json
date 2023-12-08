@@ -1,0 +1,249 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075432720107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "So you want to sing with awareness : a guide for performers " ],
+        "subject" : [ "Chant -- Étude et enseignement", "Chant -- Aspect psychologique", "Chant -- Aspect physiologique", "Conscience de soi", "Pleine conscience (Psychologie)", "Mindfulness (Psychology)", "Self-consciousness (Awareness)", "Singing -- Instruction and study", "Singing -- Physiological aspects", "Singing -- Psychological aspects" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CLC$$V2019051706;$$CISBN$$V9781538124734;$$CISBN$$V1538124734;$$COCLC$$V(OCoLC)1128087163;$$CISBN$$V9781538124710" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Lanham, Maryland : Rowman & Littlefield" ],
+        "description" : [ "\"So You Want to Sing with Awareness brings together a variety of topics related to bodywork and mindfulness routinely practiced by singing teachers. Each chapter is written by a specialist in the field who has successfully adapted a specific method and integrated its core concepts into their pedagogy\"-- Provided by publisher" ],
+        "mms" : [ "990075432720107871" ],
+        "contributor" : [ "Hoch, Matthew, 1975- editor.$$QHoch, Matthew" ],
+        "series" : [ "So you want to sing$$QSo you want to sing", "So you want to sing.$$QSo you want to sing." ],
+        "contents" : [ "Alexander technique / Larry Lee Hensel -- The Feldenkrais method / Elizabeth L. Blades -- Yoga for singers / Linda Lister -- Pilates and the singing actor /Joan Melton -- Body mapping / Jan Prokop -- The CoreSinging approach / Meribeth Dayme -- Meditation / Michelle DeBruyn -- An introduction to Tomatis listening / Susan Hurley -- Awareness and optimal performance: cognitive neuroscience for singers / Karen Leigh-Post -- How learning works: an introduction to motor learning theory / Lynn Helding -- Singing and voice science / Scott McCoy -- Vocal health for singers / Wendy LeBorgne -- Awareness and singing: toward a holistic approach / Matthew Hoch." ],
+        "relation" : [ "$$Cform$$VPrint version: So you want to sing with awareness. Lanham : Rowman & Littlefield, 2020$$QSo you want to sing with awareness.$$Z990083393220107871" ],
+        "place" : [ "Lanham, Maryland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007543272" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075432720107871" ],
+        "recordid" : [ "alma990075432720107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007543272-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hoch" ],
+        "aufirst" : [ "Matthew" ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Hoch, Matthew" ],
+        "contributorfull" : [ "$$NHoch, Matthew$$LHoch$$FMatthew$$Reditor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9781538124734", "1538124734", "9781538124710" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"So You Want to Sing with Awareness brings together a variety of topics related to bodywork and mindfulness routinely practiced by singing teachers. Each chapter is written by a specialist in the field who has successfully adapted a specific method and integrated its core concepts into their pedagogy\"-- Provided by publisher" ],
+        "cop" : [ "Lanham, Maryland" ],
+        "pub" : [ "Rowman & Littlefield" ],
+        "oclcid" : [ "(ocolc)1128087163" ],
+        "lccn" : [ "2019051706" ],
+        "seriestitle" : [ "So you want to sing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "So you want to sing with awareness : a guide for performers" ]
+      },
+      "sort" : {
+        "title" : [ "So you want to sing with awareness : a guide for performers /" ],
+        "author" : [ "Hoch, Matthew, 1975- editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075432720107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075432720107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075432720107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1538124734,OCLC:,LCCN:2019051706&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "mt\"820ǂ s6992 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "206",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "101",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "55",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "25",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "72",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "465",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 488,
+    "COMBINED_SEARCH_TIME" : 492,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Chant Aspect Physiologique",
+      "count" : "1"
+    }, {
+      "value" : "Chant Aspect Psychologique",
+      "count" : "1"
+    }, {
+      "value" : "Chant Étude Et Enseignement",
+      "count" : "1"
+    }, {
+      "value" : "Conscience De Soi",
+      "count" : "1"
+    }, {
+      "value" : "Mindfulness Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Pleine Conscience Psychologie",
+      "count" : "1"
+    }, {
+      "value" : "Self Consciousness Awareness",
+      "count" : "1"
+    }, {
+      "value" : "Singing Instruction And Study",
+      "count" : "1"
+    }, {
+      "value" : "Singing Physiological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Singing Psychological Aspects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hoch Matthew",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

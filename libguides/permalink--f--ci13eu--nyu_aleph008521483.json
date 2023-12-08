@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085214830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The art of revision : the last word " ],
+        "subject" : [ "Editing", "English language -- Rhetoric -- Technique", "Creative writing -- Technique", "Authorship", "Creative writing", "Manuscripts -- Editing", "Writing -- Technique" ],
+        "format" : [ "175 pages ; 18 cm." ],
+        "identifier" : [ "$$CLC$$V2020951356;$$CISBN$$V9781644450390;$$CISBN$$V1644450399;$$COCLC$$V(OCoLC)1227086034" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Davies, Peter Ho, 1966- author.$$QDavies, Peter Ho" ],
+        "publisher" : [ "Minneapolis, Minnesota : Graywolf Press" ],
+        "description" : [ "\"Although revision is essential to writing, readers only see the final draft, leaving the practice shrouded in mystery. Peter Ho Davies addresses this invisibility by examining his own work, alongside classic and contemporary authors, while also reaching beyond literature to film adaptations and retconning. And a story about his father--told and retold across the book--serves as impetus for the exhilarating conclusion that it is not just the writing, but the writer, who must change\"--Page 4 of cover." ],
+        "mms" : [ "990085214830107871" ],
+        "addtitle" : [ "Revision", "Art of writing revision" ],
+        "series" : [ "Art of series.$$QArt of series.", "The art of series$$QThe art of series" ],
+        "contents" : [ "Prologue: A study of provincial life -- Black box -- Other hands, other eyes -- Suck it and see -- Sore thumbs -- Darlings -- Dun, dun...done -- Epilogue: Provincial life redux." ],
+        "place" : [ "Minneapolis, Minnesota :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008521483" ],
+        "lds53" : [ "008521483" ],
+        "lds60" : [ "Title on cover appears as The art of writing [with the word 'writing' crossed out and replaced by 'revision']." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085214830107871" ],
+        "recordid" : [ "alma990085214830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008521483-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Davies" ],
+        "aufirst" : [ "Peter Ho" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Davies, Peter Ho" ],
+        "creatorfull" : [ "$$NDavies, Peter Ho$$LDavies$$FPeter Ho$$Rauthor" ],
+        "addtitle" : [ "Revision", "Art of writing revision" ],
+        "date" : [ "2021 - 2021", "2021" ],
+        "isbn" : [ "9781644450390", "1644450399" ],
+        "notes" : [ "Includes bibliographical references (pages 173-174)." ],
+        "abstract" : [ "\"Although revision is essential to writing, readers only see the final draft, leaving the practice shrouded in mystery. Peter Ho Davies addresses this invisibility by examining his own work, alongside classic and contemporary authors, while also reaching beyond literature to film adaptations and retconning. And a story about his father--told and retold across the book--serves as impetus for the exhilarating conclusion that it is not just the writing, but the writer, who must change\"--Page 4 of cover." ],
+        "cop" : [ "Minneapolis, Minnesota" ],
+        "pub" : [ "Graywolf Press" ],
+        "oclcid" : [ "(ocolc)1227086034" ],
+        "lccn" : [ "2020951356" ],
+        "seriestitle" : [ "The art of series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The art of revision : the last word" ]
+      },
+      "sort" : {
+        "title" : [ "art of revision : the last word /" ],
+        "author" : [ "Davies, Peter Ho, 1966- author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990085214830107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990085214830107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1644450399,OCLC:,LCCN:2020951356&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn\"145ǂ d379 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "94",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "60",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "98",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "323",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 358,
+    "COMBINED_SEARCH_TIME" : 361,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing Technique",
+      "count" : "1"
+    }, {
+      "value" : "Editing",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric Technique",
+      "count" : "1"
+    }, {
+      "value" : "Manuscripts Editing",
+      "count" : "1"
+    }, {
+      "value" : "Writing Technique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Davies Peter Ho",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124368290007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

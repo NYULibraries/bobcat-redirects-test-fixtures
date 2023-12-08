@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990066765500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Sustainability and the occupant : the effects of mindfulness and environmental attitudes on real estate user behaviors " ],
+        "subject" : [ "Style de vie durable", "Pleine conscience (Psychologie)", "Mindfulness (Psychology)", "Real property -- Environmental aspects", "Sustainable living" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9783658273903;$$CISBN$$V3658273909;$$COCLC$$V(OCoLC)1114335910" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Seyler, Nicolas J., author.$$QSeyler, Nicolas J." ],
+        "publisher" : [ "Wiesbaden : Springer Gabler" ],
+        "description" : [ "Occupant behaviors can more than offset technological efficiency gains so that research must go beyond sustainable buildings. Nicolas J. Seyler addresses numerous recent calls for research regarding the drivers of environmental real estate user behaviors (EREUB). In particular, the work investigates the effects of environmental attitudes and mindfulness on EREUB in two different contexts, namely at home and at the office. The contributions are twofold. First, the author develops and validates a novel measurement scale for EREUB. Secondly and most importantly, the empirical studies are the first to apply the concept of mindfulness solely in real estate research. By employing partial least squares structural equation modeling it is shown that mindfulness is a determining factor of occupant behaviors besides environmental attitudes. Contents Megatrends and Sustainability Sustainability and User Behaviors Studies on the Effects of Mindfulness on Real Estate User Behaviors Target Groups Scientists, lecturers and students in the field of real estate and sustainability Corporate real estate and asset manager, corporate social responsibility manager About the Author Nicolas J. Seyler has been research assistant and doctoral candidate at the Real Estate Management Institute (REMI) of EBS Universität für Wirtschaft und Recht. His research focused on sustainability and real estate user behaviors. Currently, he is working at a leading real estate constancy firm and is specialized in strategic as well as transaction advisory projects." ],
+        "mms" : [ "990066765500107871" ],
+        "series" : [ "Essays in real estate research ; Bd. 17.$$QEssays in real estate research ", "Essays in real estate research, 2570-2246 ; volume 17$$QEssays in real estate research" ],
+        "contents" : [ "Megatrends and Sustainability -- Sustainability and User Behaviors -- Studies on the Effects of Mindfulness on Real Estate User Behaviors." ],
+        "place" : [ "Wiesbaden :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph006676550" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990066765500107871" ],
+        "recordid" : [ "alma990066765500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006676550-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Seyler" ],
+        "aufirst" : [ "Nicolas J." ],
+        "auinit" : [ "N" ],
+        "au" : [ "Seyler, Nicolas J." ],
+        "creatorfull" : [ "$$NSeyler, Nicolas J.$$LSeyler$$FNicolas J.$$Rauthor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9783658273903", "3658273909" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Occupant behaviors can more than offset technological efficiency gains so that research must go beyond sustainable buildings. Nicolas J. Seyler addresses numerous recent calls for research regarding the drivers of environmental real estate user behaviors (EREUB). In particular, the work investigates the effects of environmental attitudes and mindfulness on EREUB in two different contexts, namely at home and at the office. The contributions are twofold. First, the author develops and validates a novel measurement scale for EREUB. Secondly and most importantly, the empirical studies are the first to apply the concept of mindfulness solely in real estate research. By employing partial least squares structural equation modeling it is shown that mindfulness is a determining factor of occupant behaviors besides environmental attitudes. Contents Megatrends and Sustainability Sustainability and User Behaviors Studies on the Effects of Mindfulness on Real Estate User Behaviors Target Groups Scientists, lecturers and students in the field of real estate and sustainability Corporate real estate and asset manager, corporate social responsibility manager About the Author Nicolas J. Seyler has been research assistant and doctoral candidate at the Real Estate Management Institute (REMI) of EBS Universität für Wirtschaft und Recht. His research focused on sustainability and real estate user behaviors. Currently, he is working at a leading real estate constancy firm and is specialized in strategic as well as transaction advisory projects." ],
+        "cop" : [ "Wiesbaden" ],
+        "pub" : [ "Springer Gabler" ],
+        "oclcid" : [ "(ocolc)1114335910" ],
+        "doi" : [ "10.1007/978-3-658-27390-3" ],
+        "seriestitle" : [ "Essays in real estate research, volume 17" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Sustainability and the occupant : the effects of mindfulness and environmental attitudes on real estate user behaviors" ]
+      },
+      "sort" : {
+        "title" : [ "Sustainability and the occupant : the effects of mindfulness and environmental attitudes on real estate user behaviors /" ],
+        "author" : [ "Seyler, Nicolas J., author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990066765500107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990066765500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3658273909,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ge\"196ǂ s49 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "54",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "24",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "21",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "250",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 275,
+    "COMBINED_SEARCH_TIME" : 277,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mindfulness Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Pleine Conscience Psychologie",
+      "count" : "1"
+    }, {
+      "value" : "Real Property Environmental Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Style De Vie Durable",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Living",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Seyler Nicolas J",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048781570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Expressive arts therapy : the green creature within : art and drama in group psychotherapy " ],
+        "subject" : [ "Arts -- Therapeutic use$$QArts -- Therapeutic use -- Case studies", "Adolescents -- Psychothérapie", "Art-thérapie", "Arts -- Emploi en thérapeutique$$QArts -- Emploi en thérapeutique -- Études de cas", "Psychothérapie de groupe", "Thérapies corporelles", "art therapy", "Adolescent psychotherapy", "Art therapy", "Arts -- Therapeutic use", "Drama -- Therapeutic use", "Group psychotherapy", "Mind and body therapies" ],
+        "format" : [ "1 online resource (1 streaming video file (74 min.)).", "video file DVD video" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)796024242;$$CISBN$$V0981936466;$$CISBN$$V9780981936468" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Pittsburgh, PA : Expressive Media" ],
+        "description" : [ "\"The story of a combined art and drama therapy group for adolescents that met weekly for two years; includes two case studies\"--Original container." ],
+        "mms" : [ "990048781570107871" ],
+        "contributor" : [ "Irwin, Eleanor C.$$QIrwin, Eleanor C.", "Rubin, Judith Aron.$$QRubin, Judith Aron.", "Expressive Media, Inc.$$QExpressive Media, Inc." ],
+        "addtitle" : [ "Subtitle from film: Multimodality group psychotherapy with adolescents", "Title from original container and disc label: Expressive arts therapy groups : \"the green creature within\"" ],
+        "series" : [ "Arts therapy films and resources$$QArts therapy films and resources", "Arts therapy films and resources.$$QArts therapy films and resources.", "Counseling and therapy in video, 2d. edition.$$QCounseling and therapy in video, 2d. edition." ],
+        "contents" : [ "Introduction to the films -- The green creature within -- RAW art works -- Excerpts from: At the threshold; A time to dance." ],
+        "genre" : [ "Études de cas", "Online media", "Case studies", "Internet videos", "Vidéos sur Internet" ],
+        "relation" : [ "$$Cform$$VPrint version: Expressive arts therapy. Pittsburgh, PA : Expressive Media, 2008$$QExpressive arts therapy.", "$$Cform$$VPrint version: Expressive arts therapy. Pittsburgh, PA : Expressive Media, 2008$$QExpressive arts therapy.", "$$Cform$$VPrint version: Expressive arts therapy. Pittsburgh, PA : Expressive Media, 2008 publisher catalog number EA07$$QExpressive arts therapy." ],
+        "mesh" : [ "Art Therapy", "Psychotherapy, Group", "Mind-Body Therapies", "Webcast" ],
+        "place" : [ "Pittsburgh, PA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspleased", "aspowned", "aleph004878157" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048781570107871" ],
+        "recordid" : [ "alma990048781570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004878157-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Irwin", "Rubin" ],
+        "aufirst" : [ "Eleanor C.", "Judith Aron." ],
+        "auinit" : [ "E", "J" ],
+        "addau" : [ "Irwin, Eleanor C.", "Rubin, Judith Aron." ],
+        "contributorfull" : [ "$$NIrwin, Eleanor C.$$LIrwin$$FEleanor C.$$Rcontributor", "$$NRubin, Judith Aron.$$Rcontributor" ],
+        "addtitle" : [ "Multimodality group psychotherapy with adolescents", "Expressive arts therapy groups : \"the green creature within\"" ],
+        "date" : [ "2008" ],
+        "isbn" : [ "0981936466", "9780981936468" ],
+        "abstract" : [ "\"The story of a combined art and drama therapy group for adolescents that met weekly for two years; includes two case studies\"--Original container." ],
+        "cop" : [ "Pittsburgh, PA" ],
+        "pub" : [ "Expressive Media" ],
+        "oclcid" : [ "(ocolc)796024242" ],
+        "seriestitle" : [ "Arts therapy films and resources" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Expressive arts therapy : the green creature within : art and drama in group psychotherapy" ]
+      },
+      "sort" : {
+        "title" : [ "Expressive arts therapy : the green creature within : art and drama in group psychotherapy /" ],
+        "author" : [ "Irwin, Eleanor C." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048781570107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048781570107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048781570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0981936466,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"489 a7ǂe977 2008",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "79",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "24",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 350,
+    "COMBINED_SEARCH_TIME" : 353,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Adolescent Psychotherapy",
+      "count" : "1"
+    }, {
+      "value" : "Adolescents Psychothérapie",
+      "count" : "1"
+    }, {
+      "value" : "Art Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Art Thérapie",
+      "count" : "1"
+    }, {
+      "value" : "Arts Emploi En Thérapeutique Études De Cas",
+      "count" : "1"
+    }, {
+      "value" : "Arts Therapeutic Use",
+      "count" : "1"
+    }, {
+      "value" : "Arts Therapeutic Use Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Drama Therapeutic Use",
+      "count" : "1"
+    }, {
+      "value" : "Group Psychotherapy",
+      "count" : "1"
+    }, {
+      "value" : "Mind And Body Therapies",
+      "count" : "1"
+    }, {
+      "value" : "Mind Body Therapies",
+      "count" : "1"
+    }, {
+      "value" : "Psychotherapy Group",
+      "count" : "1"
+    }, {
+      "value" : "Psychothérapie De Groupe",
+      "count" : "1"
+    }, {
+      "value" : "Thérapies Corporelles",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Expressive Media Inc",
+      "count" : "1"
+    }, {
+      "value" : "Irwin Eleanor C",
+      "count" : "1"
+    }, {
+      "value" : "Rubin Judith Aron",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,259 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002841970107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng;fre" ],
+        "title" : [ "The Brothers Grimm" ],
+        "subject" : [ "Grimm, Wilhelm, 1786-1859$$QGrimm, Wilhelm, 1786-1859 -- Drama", "Grimm, Jacob, 1785-1863$$QGrimm, Jacob, 1785-1863 -- Drama", "Exorcism -- Germany$$QExorcism -- Germany -- Drama" ],
+        "format" : [ "1 videodisc (ca. 118 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CISBN$$V0788863142;$$CPUBNUM$$V49406;$$COCLC$$V(OCoLC)1098341904" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "Burbank, CA : Dimension Home Video : Distributed by Buena Vista Home Entertainment" ],
+        "description" : [ "19th-century \"folklore collectors,\" Wilhem and Jacob Grimm are con artists who perform bogus exorcisms of \"evil enchantments\" while traveling from village to village in French-occupied Germany. The two soon find themselves ensnared in a genuinely supernatural crisis involving the curse of the Mirror Queen and other such fantastical marvels as the Big Bad Wolf, the Gingerbread Man, and other truly enchanted flora and fauna. A manic villain and a serious fantasy involving the beautiful Angelika, proves to be the Grimm Brothers' most reliable ally." ],
+        "mms" : [ "990002841970107871" ],
+        "contributor" : [ "Damon, Matt.$$QDamon, Matt.", "Gilliam, Terry.$$QGilliam, Terry.", "Ledger, Heath, 1979-2008.$$QLedger, Heath", "Ratimec, Petr.$$QRatimec, Petr.", "Lukesová, Barbora.$$QLukesová, Barbora.", "Rust, Anna.$$QRust, Anna.", "Pecorini, Nicola.$$QPecorini, Nicola.", "Sigel, Newton Thomas.$$QSigel, Newton Thomas.", "Marianelli, Dario.$$QMarianelli, Dario.", "Dimension Home Video (Firm)$$QDimension Home Video (Firm)", "Buena Vista Home Entertainment (Firm)$$QBuena Vista Home Entertainment (Firm)", "Mosaic Media Group (Firm)$$QMosaic Media Group (Firm)" ],
+        "genre" : [ "Drama", "Feature films", "Video recordings for the hearing impaired", "Videodiscs" ],
+        "place" : [ "Burbank, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000284197" ],
+        "lds53" : [ "000284197" ],
+        "lds63" : [ "For private home use only." ],
+        "lds64" : [ "Directors of photography, Nicola Pecorini, Newton Thomas Sigel ; art director, Andy Thomson, Frenk Walsh ; editor, Lesley Walker ; music, Dario Marianelli ; costume designers, Gabriella Pescucci, Carlo Poggioli ; production designer, Guy Dyas ; visual effects supervisor, Kent Houston." ],
+        "lds65" : [ "Matt Damon, Heath Ledger, Petr Ratimec, Barbara Lukêsova, Anna Rust, Jeremy Robson, Radim Kalvoda, Martin Hofmann." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002841970107871" ],
+        "recordid" : [ "alma990002841970107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000284197-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Damon", "Gilliam", "Ledger", "Ratimec", "Lukesová", "Rust", "Pecorini", "Sigel", "Marianelli" ],
+        "aufirst" : [ "Matt.", "Terry.", "Heath", "Petr.", "Barbora.", "Anna.", "Nicola.", "Newton Thomas.", "Dario." ],
+        "auinit" : [ "M", "T", "H", "P", "B", "A", "N", "D" ],
+        "addau" : [ "Damon, Matt.", "Gilliam, Terry.", "Ledger, Heath", "Ratimec, Petr.", "Lukesová, Barbora.", "Rust, Anna.", "Pecorini, Nicola.", "Sigel, Newton Thomas.", "Marianelli, Dario." ],
+        "contributorfull" : [ "$$NDamon, Matt.$$LDamon$$FMatt.$$Rcontributor", "$$NGilliam, Terry.$$Rcontributor", "$$NLedger, Heath$$Rcontributor", "$$NRatimec, Petr.$$Rcontributor", "$$NLukesová, Barbora.$$Rcontributor", "$$NRust, Anna.$$Rcontributor", "$$NPecorini, Nicola.$$Rcontributor", "$$NSigel, Newton Thomas.$$Rcontributor", "$$NMarianelli, Dario.$$Rcontributor" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "0788863142" ],
+        "abstract" : [ "19th-century \"folklore collectors,\" Wilhem and Jacob Grimm are con artists who perform bogus exorcisms of \"evil enchantments\" while traveling from village to village in French-occupied Germany. The two soon find themselves ensnared in a genuinely supernatural crisis involving the curse of the Mirror Queen and other such fantastical marvels as the Big Bad Wolf, the Gingerbread Man, and other truly enchanted flora and fauna. A manic villain and a serious fantasy involving the beautiful Angelika, proves to be the Grimm Brothers' most reliable ally." ],
+        "cop" : [ "Burbank, CA" ],
+        "pub" : [ "Dimension Home Video" ],
+        "oclcid" : [ "(ocolc)1098341904" ],
+        "upcid" : [ "786936692174" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The Brothers Grimm" ]
+      },
+      "sort" : {
+        "title" : [ "Brothers Grimm" ],
+        "author" : [ "Damon, Matt." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002841970107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0788863142,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "791.43 72",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "77",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "307",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 345,
+    "COMBINED_SEARCH_TIME" : 348,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Exorcism Germany Drama",
+      "count" : "1"
+    }, {
+      "value" : "Grimm Jacob 1785 1863 Drama",
+      "count" : "1"
+    }, {
+      "value" : "Grimm Wilhelm 1786 1859 Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Buena Vista Home Entertainment Firm",
+      "count" : "1"
+    }, {
+      "value" : "Damon Matt",
+      "count" : "1"
+    }, {
+      "value" : "Dimension Home Video Firm",
+      "count" : "1"
+    }, {
+      "value" : "Gilliam Terry",
+      "count" : "1"
+    }, {
+      "value" : "Ledger Heath",
+      "count" : "1"
+    }, {
+      "value" : "Lukesová Barbora",
+      "count" : "1"
+    }, {
+      "value" : "Marianelli Dario",
+      "count" : "1"
+    }, {
+      "value" : "Mosaic Media Group Firm",
+      "count" : "1"
+    }, {
+      "value" : "Pecorini Nicola",
+      "count" : "1"
+    }, {
+      "value" : "Ratimec Petr",
+      "count" : "1"
+    }, {
+      "value" : "Rust Anna",
+      "count" : "1"
+    }, {
+      "value" : "Sigel Newton Thomas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

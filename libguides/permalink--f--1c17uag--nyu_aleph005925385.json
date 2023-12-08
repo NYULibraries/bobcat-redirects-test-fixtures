@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059253850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Real estate development : principles and process " ],
+        "subject" : [ "Real estate development -- United States", "Promotion immobilière -- États-Unis", "Real estate development", "United States" ],
+        "format" : [ "1 online resource (xx, 390 pages) : illustrations, maps, plans" ],
+        "identifier" : [ "$$CISBN$$V9780874203448;$$CISBN$$V0874203449;$$CISBN$$V9780874203455;$$CISBN$$V0874203457;$$COCLC$$V(OCoLC)928852313;$$CISBN$$V0874203430" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Miles, Mike E., author.$$QMiles, Mike E." ],
+        "publisher" : [ "Washington, D.C. : Urban Land Institute" ],
+        "description" : [ "Completely revised and updated, the fifth edition of this bestselling textbook covers each stage of the real estate development process, explaining the basics of idea conception, feasibility, planning, financing, market analysis, contract negotiation, construction, marketing, and asset management. This new edition has been revised to include new topics such as sustainability, green building, and how development financing has changed since the Great Recession. It includes all-new examples, case studies, and photographs. The text is intended for university students in schools of business, planni." ],
+        "mms" : [ "990059253850107871" ],
+        "contributor" : [ "Netherton, Laurence M., author.$$QNetherton, Laurence M.", "Schmitz, Adrienne, author.$$QSchmitz, Adrienne" ],
+        "edition" : [ "Fifth edition." ],
+        "contents" : [ "Part 1. Introduction -- Chapter 1. Introduction to the real estate development process -- Chapter 2. The raw material : land and demographics in the United States -- Chapter 3. Developers and their partners -- Part 2. The history of real estate development in the United States -- Chapter 4. The Colonial Period to the late 1800s -- Chapter 5. The late 1800s to World War II -- Chapter 6. The modern era : World War II to the present -- Part 3. The public interest -- Chapter 7. The role of the regulatory sector -- Chapter 8. Decision makers and stakeholders -- Part 4. Ideas -- Chapter 9. Stage one of the development process : idea inception -- Part 5. Financing the project -- Chapter 10. Real estate finance : background -- Chapter 11. Real estate finance : the basic tools -- Part 6. Proving the concept -- Chapter 12. Stage two : idea refinement -- Chapter 13. Stage three : the feasibility study -- Part 7. Making it happen -- Chapter 14. Stages four and five : contract negotiation and formal commitment -- Chapter 15. Stage six : construction -- Chapter 16. Marketing, sales, and leasing -- Chapter 17. Stage eight : property, asset, and portfolio management -- Chapter 18. Preparing for the future." ],
+        "relation" : [ "$$Cform$$VPrint version: Real estate development. Fifth edition. Washington, DC : Urban Land Institute, [2015]$$QReal estate development.$$Z990042049820107871" ],
+        "place" : [ "Washington, D.C.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "aleph005925385" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059253850107871" ],
+        "recordid" : [ "alma990059253850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005925385-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Miles" ],
+        "aufirst" : [ "Mike E." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Miles, Mike E." ],
+        "addau" : [ "Netherton, Laurence M.", "Schmitz, Adrienne" ],
+        "creatorfull" : [ "$$NMiles, Mike E.$$LMiles$$FMike E.$$Rauthor" ],
+        "contributorfull" : [ "$$NNetherton, Laurence M.$$LNetherton$$FLaurence M.$$Rcontributor", "$$NSchmitz, Adrienne$$Rcontributor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9780874203448", "0874203449", "9780874203455", "0874203457", "0874203430" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Completely revised and updated, the fifth edition of this bestselling textbook covers each stage of the real estate development process, explaining the basics of idea conception, feasibility, planning, financing, market analysis, contract negotiation, construction, marketing, and asset management. This new edition has been revised to include new topics such as sustainability, green building, and how development financing has changed since the Great Recession. It includes all-new examples, case studies, and photographs. The text is intended for university students in schools of business, planni." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Urban Land Institute" ],
+        "oclcid" : [ "(ocolc)928852313" ],
+        "edition" : [ "Fifth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Real estate development : principles and process" ]
+      },
+      "sort" : {
+        "title" : [ "Real estate development : principles and process /" ],
+        "author" : [ "Miles, Mike E., author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059253850107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059253850107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0874203449,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd\"255ǂ m55 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "273",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "86",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "507",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 543,
+    "COMBINED_SEARCH_TIME" : 546,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Promotion Immobilière États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Development",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Development United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Miles Mike E",
+      "count" : "1"
+    }, {
+      "value" : "Netherton Laurence M",
+      "count" : "1"
+    }, {
+      "value" : "Schmitz Adrienne",
+      "count" : "1"
+    } ]
+  } ]
+}

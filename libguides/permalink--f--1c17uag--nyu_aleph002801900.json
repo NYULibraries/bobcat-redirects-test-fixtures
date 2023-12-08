@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028019000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Bearing the cross : Martin Luther King, Jr., and the Southern Christian Leadership Conference " ],
+        "subject" : [ "King, Martin Luther, Jr., 1929-1968", "Southern Christian Leadership Conference -- History", "African Americans -- Civil rights", "African Americans$$QAfrican Americans -- Biography", "Baptists -- United States -- Clergy$$QBaptists -- United States -- Clergy -- Biography", "United States -- Race relations" ],
+        "format" : [ "800 p. ; 24 cm.", "800 p. ; 20 cm." ],
+        "identifier" : [ "$$CLC$$V86008594;$$CISBN$$V0688047947;$$CISBN$$V0688166326 (pbk);$$COCLC$$V(OCoLC)13582103" ],
+        "creationdate" : [ "c1986" ],
+        "creator" : [ "Garrow, David J., 1953-$$QGarrow, David J." ],
+        "publisher" : [ "New York : W. Morrow" ],
+        "mms" : [ "990028019000107871" ],
+        "edition" : [ "1st ed." ],
+        "genre" : [ "Biography" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002801900" ],
+        "lds53" : [ "002801900" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028019000107871" ],
+        "recordid" : [ "alma990028019000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002801900-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Garrow" ],
+        "aufirst" : [ "David J." ],
+        "auinit" : [ "D" ],
+        "au" : [ "Garrow, David J." ],
+        "creatorfull" : [ "$$NGarrow, David J.$$LGarrow$$FDavid J.$$Rauthor" ],
+        "date" : [ "1986", "c1986" ],
+        "isbn" : [ "0688047947", "0688166326" ],
+        "notes" : [ "Bibliography: p. 725-772." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "W. Morrow" ],
+        "oclcid" : [ "(ocolc)13582103" ],
+        "lccn" : [ "86008594" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Bearing the cross : Martin Luther King, Jr., and the Southern Christian Leadership Conference" ]
+      },
+      "sort" : {
+        "title" : [ "Bearing the cross : Martin Luther King, Jr., and the Southern Christian Leadership Conference /" ],
+        "author" : [ "Garrow, David J., 1953-" ],
+        "creationdate" : [ "1986" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028019000107871"
+        } ],
+        "instCode" : "01NYU_NYHS",
+        "instName" : "New York Historical Society",
+        "instId" : "7873",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028019000107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028019000107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0688047947,OCLC:,LCCN:86008594&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.97 k5ǂg36 1986",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "230",
+    "CALL_SOLR_GET_IDS_LIST" : "124",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "90",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "46",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "121",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "86",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "190",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "649",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 681,
+    "COMBINED_SEARCH_TIME" : 684,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1986",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Biography",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Civil Rights",
+      "count" : "1"
+    }, {
+      "value" : "Baptists United States Clergy Biography",
+      "count" : "1"
+    }, {
+      "value" : "King Martin Luther Jr 1929 1968",
+      "count" : "1"
+    }, {
+      "value" : "Southern Christian Leadership Conference History",
+      "count" : "1"
+    }, {
+      "value" : "United States Race Relations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Garrow David J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7873–112286170007873",
+      "count" : "1"
+    }, {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7873",
+      "count" : "1"
+    }, {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

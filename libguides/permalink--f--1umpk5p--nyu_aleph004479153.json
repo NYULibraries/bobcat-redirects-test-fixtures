@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990044791530107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Scientific papers and presentations " ],
+        "subject" : [ "Rédaction technique", "Information technique", "technical writing", "SCIENCE -- Philosophy & Social Aspects", "Communication of technical information", "Technical writing" ],
+        "format" : [ "1 online resource (xviii, 342 pages) : illustrations." ],
+        "identifier" : [ "$$CLC$$V2012471306;$$CISBN$$V0123847281;$$CISBN$$V9780123847270;$$CISBN$$V0123847273;$$COCLC$$V(OCoLC)801977857;$$CISBN$$V9780123847287" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "Davis, Martha, 1935- author.$$QDavis, Martha" ],
+        "publisher" : [ "Amsterdam ; Boston : Elsevier/Academic Press" ],
+        "description" : [ "Electronic publishing and electronic means of text and data presentation have changed enormously since the first edition of this book was published in 1997. The third edition of 'Scientific Papers and Presentations' applies traditional principles to today's modern techniques and the changing needs of up-and-coming academia. Topics include designing visual aids, writing first drafts, reviewing and revising, communicating clearly and concisely, adhering to stylistic principles, presenting data in tables and figures, dealing with ethical and legal issues, and relating science to the lay audience. This successful legacy title is an essential guide to professional communication, provides a wealth of information and detail and is a useful guide. Covers all aspects of communication for early scientists from research to thesis to presentations. Discusses how to use a multi-media effectively in presentations and communication. Includes an extensive appendices section with detailed examples for further guidance." ],
+        "mms" : [ "990044791530107871" ],
+        "contributor" : [ "Davis, Kaaron J., author.$$QDavis, Kaaron J.", "Dunagan, Marion M., author.$$QDunagan, Marion M." ],
+        "addtitle" : [ "Scientific papers and presentations : effective scientific communication" ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "Front cover -- Scientific Papers and Presentations -- Copyright page -- Contents -- Preface to the First Edition -- Preface to the Second Edition -- Preface to the Third Edition -- Chapter 1. The semantic environment of science -- Chapter 2. Before you begin -- Chapter 3. Organizing and writing a rough draft -- Chapter 4. Searching and reviewing scientific -- Chapter 5. The proposal -- Chapter 6. Graduate theses and dissertations -- Chapter 7. Publishing in scientific journals -- Chapter 8. Style and accuracy in the final draft -- Chapter 9. Reviewing and revising -- Chapter 10. Titles and abstracts -- Chapter 11. Publishing data -- Chapter 12. Professionalism, ethics, and legal issues -- Chapter 13. Scientific presentations -- Chapter 14. Communication without words -- Chapter 15. Visual aids for presentations -- Chapter 16. The oral presentation -- Chapter 17. Poster presentations -- Chapter 18. Group communications -- Chapter 19. Communicating with the nonscientist -- Chapter 20. To the international student -- Appendix 1. Weaknesses in scientific writing -- Appendix 2. The first draft -- Appendix 3. Sample manuscript -- Appendix 4. Sample literature review -- Appendix 5. Sample graduate proposal -- Appendix 6. Alternate routes to the thesis -- Appendix 7. Sample review of manuscript submitted for publication -- Appendix 8. Evolution of a title -- Appendix 9. Evolution of an abstract -- Appendix 10. Putting data into tables and figures -- Appendix 11. Sample letter requesting copyright permission -- Appendix 12. Use of color in visual aids -- Appendix 13. Designing slides and slide sets -- Appendix 14. Oral presentations at meetings -- Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Scientific Papers and Presentations. Elsevier LTD$$QScientific Papers and Presentations.", "$$Cform$$VScientific papers and presentations$$Z9995705954107871" ],
+        "place" : [ "Amsterdam ; Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "elssci", "aleph004479153" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990044791530107871" ],
+        "recordid" : [ "alma990044791530107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004479153-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Davis" ],
+        "aufirst" : [ "Martha" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Davis, Martha" ],
+        "addau" : [ "Davis, Kaaron J.", "Dunagan, Marion M." ],
+        "creatorfull" : [ "$$NDavis, Martha$$LDavis$$FMartha$$Rauthor" ],
+        "contributorfull" : [ "$$NDavis, Kaaron J.$$LDavis$$FKaaron J.$$Rcontributor", "$$NDunagan, Marion M.$$Rcontributor" ],
+        "addtitle" : [ "Scientific papers and presentations : effective scientific communication" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "0123847281", "9780123847270", "0123847273", "9780123847287" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Electronic publishing and electronic means of text and data presentation have changed enormously since the first edition of this book was published in 1997. The third edition of 'Scientific Papers and Presentations' applies traditional principles to today's modern techniques and the changing needs of up-and-coming academia. Topics include designing visual aids, writing first drafts, reviewing and revising, communicating clearly and concisely, adhering to stylistic principles, presenting data in tables and figures, dealing with ethical and legal issues, and relating science to the lay audience. This successful legacy title is an essential guide to professional communication, provides a wealth of information and detail and is a useful guide. Covers all aspects of communication for early scientists from research to thesis to presentations. Discusses how to use a multi-media effectively in presentations and communication. Includes an extensive appendices section with detailed examples for further guidance." ],
+        "cop" : [ "Amsterdam ;" ],
+        "pub" : [ "Elsevier/Academic Press" ],
+        "oclcid" : [ "(ocolc)801977857" ],
+        "lccn" : [ "2012471306" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Scientific papers and presentations" ]
+      },
+      "sort" : {
+        "title" : [ "Scientific papers and presentations /" ],
+        "author" : [ "Davis, Martha, 1935- author." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044791530107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044791530107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044791530107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0123847273,OCLC:,LCCN:2012471306&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "t!11",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "257",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "90",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "50",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "82",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "126",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "583",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 611,
+    "COMBINED_SEARCH_TIME" : 615,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Communication Of Technical Information",
+      "count" : "1"
+    }, {
+      "value" : "Information Technique",
+      "count" : "1"
+    }, {
+      "value" : "Rédaction Technique",
+      "count" : "1"
+    }, {
+      "value" : "Science Philosophy Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Technical Writing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Davis Kaaron J",
+      "count" : "1"
+    }, {
+      "value" : "Davis Martha",
+      "count" : "1"
+    }, {
+      "value" : "Dunagan Marion M",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045083670107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of clothing and fashion " ],
+        "subject" : [ "Clothing and dress -- History$$QClothing and dress -- History -- Encyclopedias", "Clothing and dress$$QClothing and dress -- Encyclopedias", "Vêtements$$QVêtements -- Encyclopédies", "Costume$$QCostume -- Encyclopédies", "Clothing and dress", "Accessoire de mode", "Costume", "Histoire", "Mode", "Vêtement" ],
+        "format" : [ "1 online resource (3 volumes) : illustrations (some color)", "text file" ],
+        "identifier" : [ "$$CISBN$$V0684314517;$$CISBN$$V9780684314518;$$COCLC$$V(OCoLC)62171604;$$CISBN$$V0684313944" ],
+        "creationdate" : [ "©2005" ],
+        "publisher" : [ "Farmington Hills, MI : Charles Scribner's Sons" ],
+        "description" : [ "A three-volume survey of clothing, costume and fashion, presented through 640 essays, arranged alphabetically. Coverage includes the origins of clothing and body adornment, the development of fabrics and technologies, and the social meanings of dress, as well as representative costumes from a wide range of historical eras. For students and researchers at the high-school level or higher." ],
+        "mms" : [ "990045083670107871" ],
+        "contributor" : [ "Steele, Valerie.$$QSteele, Valerie." ],
+        "series" : [ "Scribner library of daily life$$QScribner library of daily life", "Scribner library of daily life.$$QScribner library of daily life." ],
+        "contents" : [ "v. 1. Academic dress to Eyeglasses -- v. 2. Fads to Nylon -- v. 3. Occult dress to Zoran, index." ],
+        "genre" : [ "Electronic reference books", "encyclopedias", "History", "Encyclopedias", "Encyclopédie (Descripteur de forme)", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of clothing and fashion. Farmington Hills, MI : Charles Scribner's Sons, ©2005$$QEncyclopedia of clothing and fashion.$$Z990011452260107871" ],
+        "mesh" : [ "Encyclopedia" ],
+        "place" : [ "Farmington Hills, MI :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galebic", "galevrl", "aleph004508367" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045083670107871" ],
+        "recordid" : [ "alma990045083670107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004508367-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Steele" ],
+        "aufirst" : [ "Valerie." ],
+        "auinit" : [ "V" ],
+        "addau" : [ "Steele, Valerie." ],
+        "contributorfull" : [ "$$NSteele, Valerie.$$LSteele$$FValerie.$$Rcontributor" ],
+        "date" : [ "2005", "©2005" ],
+        "isbn" : [ "0684314517", "9780684314518", "0684313944" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "A three-volume survey of clothing, costume and fashion, presented through 640 essays, arranged alphabetically. Coverage includes the origins of clothing and body adornment, the development of fabrics and technologies, and the social meanings of dress, as well as representative costumes from a wide range of historical eras. For students and researchers at the high-school level or higher." ],
+        "cop" : [ "Farmington Hills, MI" ],
+        "pub" : [ "Charles Scribner's Sons" ],
+        "oclcid" : [ "(ocolc)62171604" ],
+        "seriestitle" : [ "Scribner library of daily life" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of clothing and fashion" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of clothing and fashion /" ],
+        "author" : [ "Steele, Valerie." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045083670107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045083670107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780684314518,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"507ǂ e53 2005eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "154",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "338",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 368,
+    "COMBINED_SEARCH_TIME" : 371,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Accessoire De Mode",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress History Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Costume Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Mode",
+      "count" : "1"
+    }, {
+      "value" : "Vêtement",
+      "count" : "1"
+    }, {
+      "value" : "Vêtements Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Steele Valerie",
+      "count" : "1"
+    } ]
+  } ]
+}

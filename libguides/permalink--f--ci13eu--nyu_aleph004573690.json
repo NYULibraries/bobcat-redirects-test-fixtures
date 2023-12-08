@@ -1,0 +1,242 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045736900107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "New approaches to international law : the European and the American experiences " ],
+        "subject" : [ "LAW -- International", "Droit", "Sciences sociales", "Sciences humaines", "Internationaal recht", "Europa (geografie)", "Verenigde Staten", "International law", "Law", "Public International Law", "Theories of Law, Philosophy of Law, Legal History" ],
+        "format" : [ "1 online resource", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9789067048798;$$CISBN$$V9067048798;$$COCLC$$V(OCoLC)812017271;$$CISBN$$V9789067048781" ],
+        "creationdate" : [ "©2013" ],
+        "publisher" : [ "Hague, The Netherlands : T.M.C. Asser Press" ],
+        "description" : [ "This volume offers a unique reflection on the historic and contemporary influence of the New Approaches to International Law (NAIL) movement within the context of Europe and America. In particular, the contributions focus on the intellectual product of NAIL's founder, David Kennedy, in relation to three legal streams: human rights, legal history, and the law of war. On the one hand, the volume is valuable reading for a broad audience interested in the current challenges facing global governance, and how critical studies might contribute to innovative intellectual and practice-oriented developments in international law. On the other hand, stemming from a 2010 seminar in Madrid that brought together scholars to discuss David Kennedy's scholarship over the last three decades, the contributions here are a testament to the community and ideas of the NAIL tradition. The volume includes scholars from a wide field of legal interests and backgrounds. Professor José María Beneyto is Director of the Institute for European Studies at CEU San Pablo University Madrid, Spain. Professor David Kennedy is Director of the Institute for Global Law and Policy at Harvard Law School, Cambridge, USA." ],
+        "mms" : [ "990045736900107871" ],
+        "contributor" : [ "Beneyto, José María.$$QBeneyto, José María.", "Kennedy, David, 1954-$$QKennedy, David", "Corti Varela, Justo.$$QCorti Varela, Justo.", "Haskell, John.$$QHaskell, John." ],
+        "contents" : [ "Part 1. History of the Human Rights movement -- Where Does the Critique of International Human Rights Stand? An Exploration in 18 Vignettes / Frédéric Mégret -- Self-Critique, (Anti) Politics and Criminalization: Reflections on the History and Trajectory of the Human Rights Movement / Karen Engle -- National Responses in Latin America to International Events Propelling the Justice Cascade: The Gelman Case / Yolanda Gamarra -- Part 2. New Theoretical Approaches in International Law -- Engaging History in International Law / Thomas Skouteris -- Hugo Grotius in the Contemporary Memory of International Law: Secularism, Liberalism, and the Politics of Restatement and Denial / John D. Haskell -- New Approaches to International Law: Images of a Genealogy / Akbar Rasulov -- Innovative International Law Approaches and the European Condition / Outi Korhonen -- Notes for the History of New Approaches to International Legal Studies: Not a Map but Perhaps a Compass / Ignacio de la Rasilla del Moral -- Part 3. Reassessing the Use of Force in International Law? -- Formalization and Deformalization as Narratives of the Law of War / Olivier Corten." ],
+        "relation" : [ "$$Cform$$VPrinted edition:" ],
+        "place" : [ "Hague, The Netherlands :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004573690" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045736900107871" ],
+        "recordid" : [ "alma990045736900107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004573690-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Beneyto", "Kennedy", "CortiVarela", "Haskell" ],
+        "aufirst" : [ "José María.", "David", "Justo.", "John." ],
+        "auinit" : [ "D", "J" ],
+        "addau" : [ "Beneyto, José María.", "Kennedy, David", "Corti Varela, Justo.", "Haskell, John." ],
+        "contributorfull" : [ "$$NBeneyto, José María.$$LBeneyto$$FJosé María.$$Rcontributor", "$$NKennedy, David$$Rcontributor", "$$NCorti Varela, Justo.$$Rcontributor", "$$NHaskell, John.$$Rcontributor" ],
+        "date" : [ "2013", "©2013" ],
+        "isbn" : [ "9789067048798", "9067048798", "9789067048781" ],
+        "abstract" : [ "This volume offers a unique reflection on the historic and contemporary influence of the New Approaches to International Law (NAIL) movement within the context of Europe and America. In particular, the contributions focus on the intellectual product of NAIL's founder, David Kennedy, in relation to three legal streams: human rights, legal history, and the law of war. On the one hand, the volume is valuable reading for a broad audience interested in the current challenges facing global governance, and how critical studies might contribute to innovative intellectual and practice-oriented developments in international law. On the other hand, stemming from a 2010 seminar in Madrid that brought together scholars to discuss David Kennedy's scholarship over the last three decades, the contributions here are a testament to the community and ideas of the NAIL tradition. The volume includes scholars from a wide field of legal interests and backgrounds. Professor José María Beneyto is Director of the Institute for European Studies at CEU San Pablo University Madrid, Spain. Professor David Kennedy is Director of the Institute for Global Law and Policy at Harvard Law School, Cambridge, USA." ],
+        "cop" : [ "Hague, The Netherlands" ],
+        "pub" : [ "T.M.C. Asser Press" ],
+        "oclcid" : [ "(ocolc)812017271" ],
+        "doi" : [ "10.1007/978-90-6704-879-8." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "New approaches to international law : the European and the American experiences" ]
+      },
+      "sort" : {
+        "title" : [ "New approaches to international law : the European and the American experiences /" ],
+        "author" : [ "Beneyto, José María." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045736900107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045736900107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9067048798,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kz#3410ǂ n49 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "144",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "53",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "77",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "46",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "159",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "456",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 495,
+    "COMBINED_SEARCH_TIME" : 498,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Droit",
+      "count" : "1"
+    }, {
+      "value" : "Europa Geografie",
+      "count" : "1"
+    }, {
+      "value" : "Internationaal Recht",
+      "count" : "1"
+    }, {
+      "value" : "International Law",
+      "count" : "1"
+    }, {
+      "value" : "Law",
+      "count" : "1"
+    }, {
+      "value" : "Law International",
+      "count" : "1"
+    }, {
+      "value" : "Public International Law",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Humaines",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Theories Of Law Philosophy Of Law Legal History",
+      "count" : "1"
+    }, {
+      "value" : "Verenigde Staten",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Beneyto José María",
+      "count" : "1"
+    }, {
+      "value" : "Corti Varela Justo",
+      "count" : "1"
+    }, {
+      "value" : "Haskell John",
+      "count" : "1"
+    }, {
+      "value" : "Kennedy David",
+      "count" : "1"
+    } ]
+  } ]
+}

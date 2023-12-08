@@ -1,0 +1,209 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990051517090107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The handmaid to the arts." ],
+        "subject" : [ "Chemistry, Technical -- Workshop recipes", "Paint -- Workshop recipes", "Painting -- Workshop recipes", "Art -- Workshop recipes", "Decorative arts -- Workshop recipes", "Engraving", "Glass", "Porcelain" ],
+        "format" : [ "2 volumes ; 22 cm" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)65350404" ],
+        "creationdate" : [ "1764" ],
+        "creator" : [ "Dossie, Robert, -1777.$$QDossie, Robert" ],
+        "publisher" : [ "London : Printed for J. Nourse" ],
+        "mms" : [ "990051517090107871" ],
+        "edition" : [ "Second edition, with considerable additions and improvements." ],
+        "series" : [ "Making of the Modern World, Part I : The Goldsmiths'-Kress Collection, 1450-1850.$$QMaking of the Modern World, Part I : The Goldsmiths'-Kress Collection, 1450-1850.", "The Making of the Modern World, Part I : The Goldsmiths'-Kress Collection, 1450-1850$$QThe Making of the Modern World, Part I : The Goldsmiths'-Kress Collection, 1450-1850" ],
+        "relation" : [ "$$Cform$$VMicroform" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galeprim", "aleph005151709" ],
+        "lds60" : [ "Attributed to Robert Dossie.--NUC pre-1956.", "Includes indexes.", "Reproduction of original from Widener Library, Harvard University.", "Goldsmiths'-Kress no. 09973.0." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990051517090107871" ],
+        "recordid" : [ "alma990051517090107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005151709-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dossie" ],
+        "aufirst" : [ "Robert" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Dossie, Robert" ],
+        "creatorfull" : [ "$$NDossie, Robert$$LDossie$$FRobert$$Rauthor" ],
+        "date" : [ "1764" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Printed for J. Nourse" ],
+        "oclcid" : [ "(ocolc)65350404" ],
+        "edition" : [ "Second edition, with considerable additions and improvements." ],
+        "seriestitle" : [ "The Making of the Modern World, Part I : The Goldsmiths'-Kress Collection, 1450-1850" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The handmaid to the arts." ]
+      },
+      "sort" : {
+        "title" : [ "handmaid to the arts." ],
+        "author" : [ "Dossie, Robert, -1777." ],
+        "creationdate" : [ "1764" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990051517090107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:65350404,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "65",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "107",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "307",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 338,
+    "COMBINED_SEARCH_TIME" : 341,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1764",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Workshop Recipes",
+      "count" : "1"
+    }, {
+      "value" : "Chemistry Technical Workshop Recipes",
+      "count" : "1"
+    }, {
+      "value" : "Decorative Arts Workshop Recipes",
+      "count" : "1"
+    }, {
+      "value" : "Engraving",
+      "count" : "1"
+    }, {
+      "value" : "Glass",
+      "count" : "1"
+    }, {
+      "value" : "Paint Workshop Recipes",
+      "count" : "1"
+    }, {
+      "value" : "Painting Workshop Recipes",
+      "count" : "1"
+    }, {
+      "value" : "Porcelain",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dossie Robert",
+      "count" : "1"
+    } ]
+  } ]
+}

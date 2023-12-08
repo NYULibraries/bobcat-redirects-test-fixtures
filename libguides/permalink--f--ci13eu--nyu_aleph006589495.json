@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990065894950107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A companion to creative writing " ],
+        "subject" : [ "Creative writing$$QCreative writing -- Handbooks, manuals, etc", "Authorship$$QAuthorship -- Handbooks, manuals, etc", "English language -- Rhetoric$$QEnglish language -- Rhetoric -- Handbooks, manuals, etc", "English language -- Composition and exercises$$QEnglish language -- Composition and exercises -- Handbooks, manuals, etc", "Création littéraire$$QCréation littéraire -- Guides, manuels, etc", "Art d'écrire$$QArt d'écrire -- Guides, manuels, etc", "Anglais (Langue) -- Rhétorique$$QAnglais (Langue) -- Rhétorique -- Guides, manuels, etc", "Anglais (Langue) -- Composition et exercices$$QAnglais (Langue) -- Composition et exercices -- Guides, manuels, etc", "LANGUAGE ARTS & DISCIPLINES -- Composition & Creative Writing", "LANGUAGE ARTS & DISCIPLINES -- Rhetoric", "REFERENCE -- Writing Skills", "Authorship", "Creative writing", "English language -- Composition and exercises", "English language -- Rhetoric" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2013006517;$$CISBN$$V9781118325797;$$CISBN$$V1118325796;$$CISBN$$V9781118325773;$$CISBN$$V111832577X;$$COCLC$$V(OCoLC)827852615;$$CISBN$$V9780470656938" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Chichester, Sussex, UK ; Malden, MA : Wiley-Blackwell is an imprint of John Wiley & Sons" ],
+        "description" : [ "Covers the writing of poetry, fiction, new media, plays, films, radio works, and other literary genres and forms." ],
+        "mms" : [ "990065894950107871" ],
+        "contributor" : [ "Harper, Graeme, editor.$$QHarper, Graeme" ],
+        "series" : [ "Blackwell companions to literature and culture ; 83$$QBlackwell companions to literature and culture ", "Blackwell companions to literature and culture ; 83.$$QBlackwell companions to literature and culture " ],
+        "contents" : [ "pt. I. Creative writing -- pt. II. The creative writer's profession -- pt. III. Creative writing in the world." ],
+        "genre" : [ "Handbooks, manuals, etc", "Guides, manuels, etc", "Handbooks and manuals" ],
+        "relation" : [ "$$Cform$$VA companion to creative writing$$Z9995696511107871", "$$Cform$$VPrint version: Companion to creative writing. Hoboken : Wiley-Blackwell is an imprint of John Wiley & Sons, 2013$$QCompanion to creative writing." ],
+        "place" : [ "Chichester, Sussex, UK ; Malden, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "wileyeb", "aleph006589495" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990065894950107871" ],
+        "recordid" : [ "alma990065894950107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006589495-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Harper" ],
+        "aufirst" : [ "Graeme" ],
+        "auinit" : [ "G" ],
+        "addau" : [ "Harper, Graeme" ],
+        "contributorfull" : [ "$$NHarper, Graeme$$LHarper$$FGraeme$$Reditor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781118325797", "1118325796", "9781118325773", "111832577X", "9780470656938" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Covers the writing of poetry, fiction, new media, plays, films, radio works, and other literary genres and forms." ],
+        "cop" : [ "Chichester, Sussex, UK ;" ],
+        "pub" : [ "Wiley-Blackwell is an imprint of John Wiley & Sons" ],
+        "oclcid" : [ "(ocolc)827852615" ],
+        "lccn" : [ "2013006517" ],
+        "seriestitle" : [ "Blackwell companions to literature and culture ; 83" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A companion to creative writing" ]
+      },
+      "sort" : {
+        "title" : [ "companion to creative writing /" ],
+        "author" : [ "Harper, Graeme, editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065894950107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065894950107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065894950107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065894950107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065894950107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1118325796,OCLC:,LCCN:2013006517&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pe#1408",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "274",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "96",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "67",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "561",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 595,
+    "COMBINED_SEARCH_TIME" : 598,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Anglais Langue Composition Et Exercices Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "Anglais Langue Rhétorique Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "Art Décrire Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Authorship Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Creative Writing Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "English Language Composition And Exercises",
+      "count" : "1"
+    }, {
+      "value" : "English Language Composition And Exercises Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "English Language Rhetoric Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Composition Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Rhetoric",
+      "count" : "1"
+    }, {
+      "value" : "Reference Writing Skills",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Harper Graeme",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

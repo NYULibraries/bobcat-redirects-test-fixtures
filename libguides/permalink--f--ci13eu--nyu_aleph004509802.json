@@ -1,0 +1,200 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045098020107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "American eras primary sources. Development of a nation, 1783-1815 " ],
+        "subject" : [ "United States -- History -- 1783-1865$$QUnited States -- History -- 1783-1865 -- Sources" ],
+        "format" : [ "1 online resource (xxxii, 478 pages) : illustrations (some color), portraits." ],
+        "identifier" : [ "$$CISBN$$V9781414498379;$$COCLC$$V(OCoLC)903054740" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Farmington Hills, Mich. : Gale, Cengage Learning" ],
+        "description" : [ "Includes primary sources documenting events, publications, lifestyles, and individuals important to the early Republic period in U.S. History." ],
+        "mms" : [ "990045098020107871" ],
+        "contributor" : [ "Stock, Jennifer York, 1974- editor.$$QStock, Jennifer York", "Gale (Firm)$$QGale (Firm)" ],
+        "addtitle" : [ "Development of a nation, 1783-1815" ],
+        "series" : [ "American eras$$QAmerican eras", "American eras.$$QAmerican eras.", "Gale eBooks$$QGale eBooks" ],
+        "contents" : [ "1. The arts -- 2. Business and the economy -- 3. Communications -- 4. Education -- 5. Fashion and leisure -- 6. Government and politics -- 7. Law and justice -- 8. Lifestyles and social trends -- 9. Religion -- 10. Science, medicine, and technology." ],
+        "genre" : [ "Sources" ],
+        "place" : [ "Farmington Hills, Mich. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galevrl", "aleph004509802" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045098020107871" ],
+        "recordid" : [ "alma990045098020107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004509802-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stock" ],
+        "aufirst" : [ "Jennifer York" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Stock, Jennifer York" ],
+        "contributorfull" : [ "$$NStock, Jennifer York$$LStock$$FJennifer York$$Reditor" ],
+        "addtitle" : [ "Development of a nation, 1783-1815" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781414498379" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Includes primary sources documenting events, publications, lifestyles, and individuals important to the early Republic period in U.S. History." ],
+        "cop" : [ "Farmington Hills, Mich" ],
+        "pub" : [ "Gale, Cengage Learning" ],
+        "oclcid" : [ "(ocolc)903054740" ],
+        "seriestitle" : [ "American eras" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "American eras primary sources. Development of a nation, 1783-1815" ]
+      },
+      "sort" : {
+        "title" : [ "American eras primary sources. Development of a nation, 1783-1815 /" ],
+        "author" : [ "Stock, Jennifer York, 1974- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045098020107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781414498379,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"301ǂ a44 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "58",
+    "CALL_SOLR_GET_IDS_LIST" : "66",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "50",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "218",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 251,
+    "COMBINED_SEARCH_TIME" : 254,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "United States History 1783 1865 Sources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gale Firm",
+      "count" : "1"
+    }, {
+      "value" : "Stock Jennifer York",
+      "count" : "1"
+    } ]
+  } ]
+}

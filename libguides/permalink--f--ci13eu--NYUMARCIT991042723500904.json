@@ -1,0 +1,297 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995630809007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The international journal of transgenderism." ],
+        "subject" : [ "Gender identity$$QGender identity -- Periodicals", "Gender identity disorders$$QGender identity disorders -- Periodicals", "Gender transition$$QGender transition -- Periodicals", "Gender nonconformity$$QGender nonconformity -- Periodicals", "Cross-dressing$$QCross-dressing -- Periodicals", "Cross-dressing", "Gender identity", "Gender identity disorders", "Gender nonconformity", "Gender transition", "Gender dysphoria$$QGender dysphoria -- Periodicals", "Health and social care" ],
+        "format" : [ "1 online resource : illustrations (some color)" ],
+        "identifier" : [ "$$CLC$$V   00253291;$$CISSN$$V1434-4599;$$COCLC$$V(OCoLC)37882359;$$CISSN$$V1553-2739" ],
+        "creationdate" : [ "©1997-" ],
+        "publisher" : [ "Philadelphia, PA : Taylor & Francis Group, LLC", "Vol. 1, no. 1 (July/Sept. 1997)-", "Ceased with Volume 20, issue 4 (2019)" ],
+        "mms" : [ "9995630809007871" ],
+        "contributor" : [ "Harry Benjamin International Gender Dysphoria Association, issuing body.$$QHarry Benjamin International Gender Dysphoria Association", "World Professional Association for Transgender Health, issuing body.$$QWorld Professional Association for Transgender Health" ],
+        "addtitle" : [ "HTML source title: IJ transgender", "IJT", "Transgenderism" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Clater_title$$VINTERNATIONAL JOURNAL OF TRANSGENDER HEALTH$$QINTERNATIONAL JOURNAL OF TRANSGENDER HEALTH$$Z9995615904707871" ],
+        "mesh" : [ "Gender Identity", "Transsexualism", "Transvestism", "Periodical" ],
+        "place" : [ "Philadelphia, PA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)991042723500904" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995630809007871" ],
+        "recordid" : [ "alma9995630809007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99991042723500904" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "INTERNATIONAL JOURNAL OF TRANSGENDERISM", "Int. j. transgend." ],
+        "addtitle" : [ "IJ transgender", "IJT", "Transgenderism" ],
+        "date" : [ "1997 - 2019", "©1997-" ],
+        "issn" : [ "1434-4599", "1553-2739" ],
+        "cop" : [ "Düsseldorf, Germany" ],
+        "pub" : [ "Symposion Pub." ],
+        "oclcid" : [ "(ocolc)37882359" ],
+        "lccn" : [ "00253291" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The international journal of transgenderism." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "international journal of transgenderism." ],
+        "author" : [ "Harry Benjamin International Gender Dysphoria Association, issuing body." ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630809007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:00253291&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"560 g45",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "55",
+    "CALL_SOLR_GET_IDS_LIST" : "162",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "111",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "13",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "83",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "452",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 486,
+    "COMBINED_SEARCH_TIME" : 489,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    }, {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cross Dressing",
+      "count" : "1"
+    }, {
+      "value" : "Cross Dressing Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gender Dysphoria Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gender Identity",
+      "count" : "1"
+    }, {
+      "value" : "Gender Identity Disorders",
+      "count" : "1"
+    }, {
+      "value" : "Gender Identity Disorders Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gender Identity Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gender Nonconformity",
+      "count" : "1"
+    }, {
+      "value" : "Gender Nonconformity Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gender Transition",
+      "count" : "1"
+    }, {
+      "value" : "Gender Transition Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Health And Social Care",
+      "count" : "1"
+    }, {
+      "value" : "Transsexualism",
+      "count" : "1"
+    }, {
+      "value" : "Transvestism",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Harry Benjamin International Gender Dysphoria Association",
+      "count" : "1"
+    }, {
+      "value" : "World Professional Association For Transgender Health",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995613429207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Chronicle of philanthropy (Online)" ],
+        "subject" : [ "Charities -- United States$$QCharities -- United States -- Periodicals", "Charities", "United States", "Philanthropy" ],
+        "identifier" : [ "$$CLC$$V  2008215747;$$CISSN$$V1943-3980;$$COCLC$$V(OCoLC)42759062;$$CISSN$$V1040-676X" ],
+        "creationdate" : [ "1988" ],
+        "publisher" : [ "Washington, D.C. : Chronicle of Philanthropy", "Print began with vol. 1, no. 1 (Oct. 25, 1988)." ],
+        "description" : [ "\"The Web site offers the complete contents of the new issue, an archive of articles from the past two years, and more than four years' worth of grant listings -- all fully searchable. Some of this material is available only to Chronicle subscribers\"--About the Chronicle." ],
+        "mms" : [ "9995613429207871" ],
+        "frequency" : [ "Biweekly (except the last two weeks of Aug. and Dec.)" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990013407420107871" ],
+        "unititle" : [ "Chronicle of philanthropy (Online)" ],
+        "place" : [ "Washington, D.C.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110975946727545" ],
+        "lds60" : [ "Title from World Wide Web home page; (viewed Nov. 3, 1999)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995613429207871" ],
+        "recordid" : [ "alma9995613429207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110975946727545" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "CHRONICLE OF PHILANTHROPY THE NEWSPAPER OF THE NON PROFIT WORLD", "CHRONICLE OF PHILANTHROPY", "CHRONICLE OF PHILANTHROPY, THE" ],
+        "date" : [ "1988" ],
+        "issn" : [ "1943-3980", "1040-676X" ],
+        "abstract" : [ "\"The Web site offers the complete contents of the new issue, an archive of articles from the past two years, and more than four years' worth of grant listings -- all fully searchable. Some of this material is available only to Chronicle subscribers\"--About the Chronicle." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Chronicle of Philanthropy" ],
+        "oclcid" : [ "(ocolc)42759062" ],
+        "lccn" : [ "2008215747" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Chronicle of philanthropy (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Chronicle of philanthropy (Online)" ],
+        "creationdate" : [ "1988" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613429207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008215747&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv!91ǂ c47",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "204",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "188",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "34",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "37",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "151",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "41",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "555",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 582,
+    "COMBINED_SEARCH_TIME" : 585,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1988",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Charities",
+      "count" : "1"
+    }, {
+      "value" : "Charities United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Philanthropy",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

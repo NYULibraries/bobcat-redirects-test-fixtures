@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990018891050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Japanese films : a filmography and commentary, 1921-1989 " ],
+        "subject" : [ "Motion pictures -- Japan -- History", "Motion pictures -- Japan$$QMotion pictures -- Japan -- Catalogs", "Motion picture industry -- Japan -- History" ],
+        "format" : [ "xvi, 328 p. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V89043684;$$CISBN$$V0899504582 (lib. bdg. : alk. paper);$$COCLC$$V(OCoLC)20996071" ],
+        "creationdate" : [ "c1990" ],
+        "creator" : [ "Buehrer, Beverley Bare, 1947-$$QBuehrer, Beverley Bare" ],
+        "publisher" : [ "Jefferson, N.C. : McFarland & Co." ],
+        "mms" : [ "990018891050107871" ],
+        "contributor" : [ "Tisch School of the Arts. Dept. of Cinema Studies Library. former owner.$$QTisch School of the Arts. Dept. of Cinema Studies Library." ],
+        "genre" : [ "Catalogs" ],
+        "place" : [ "Jefferson, N.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001889105" ],
+        "lds53" : [ "001889105" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990018891050107871" ],
+        "recordid" : [ "alma990018891050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001889105-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Buehrer" ],
+        "aufirst" : [ "Beverley Bare" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Buehrer, Beverley Bare" ],
+        "creatorfull" : [ "$$NBuehrer, Beverley Bare$$LBuehrer$$FBeverley Bare$$Rauthor" ],
+        "date" : [ "1990", "c1990" ],
+        "isbn" : [ "0899504582" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Jefferson, N.C" ],
+        "pub" : [ "McFarland & Co." ],
+        "oclcid" : [ "(ocolc)20996071" ],
+        "lccn" : [ "89043684" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Japanese films : a filmography and commentary, 1921-1989" ]
+      },
+      "sort" : {
+        "title" : [ "Japanese films : a filmography and commentary, 1921-1989 /" ],
+        "author" : [ "Buehrer, Beverley Bare, 1947-" ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990018891050107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990018891050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0899504582,OCLC:,LCCN:89043684&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1993.5 j3ǂb78 1990",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "133",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "101",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "97",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "122",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "454",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 485,
+    "COMBINED_SEARCH_TIME" : 488,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Motion Picture Industry Japan History",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Japan Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Japan History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Buehrer Beverley Bare",
+      "count" : "1"
+    }, {
+      "value" : "Tisch School Of The Arts Dept Of Cinema Studies Library",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

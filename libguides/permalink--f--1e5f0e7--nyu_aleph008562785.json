@@ -1,0 +1,249 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085627850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Navigating the cybersecurity career path " ],
+        "subject" : [ "Computer security -- Vocational guidance", "Réseaux d'ordinateurs -- Sécurité -- Mesures", "Sécurité informatique", "Sécurité informatique -- Orientation professionnelle", "Computer crimes -- Prevention", "Computer networks -- Security measures", "Computer security" ],
+        "format" : [ "1 online resource (xxiii, 312 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781119833673;$$CISBN$$V1119833671;$$CISBN$$V9781119833437;$$CISBN$$V1119833434;$$CISBN$$V9781394177448;$$CISBN$$V1394177445;$$COCLC$$V(OCoLC)1282599747;$$CISBN$$V9781119833420" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Patton, Helen E., author.$$QPatton, Helen E." ],
+        "publisher" : [ "Hoboken, New Jersey : John Wiley & Sons, Inc." ],
+        "description" : [ "In \"Navigating the Cybersecurity Career Path\", decorated Chief Information Security Officer Helen Patton delivers a practical and insightful discussion designed to assist aspiring cybersecurity professionals entering the industry and help those already in the industry advance their careers and lead their first security teams." ],
+        "mms" : [ "990085627850107871" ],
+        "contents" : [ "Cover -- Title page -- Copyright page -- Contents at a glance -- Contents -- Foreword: Navigating the cybersecurity career path -- Introduction -- Part I: Arriving in security -- How do you become a security professional? -- Why security? -- Where can I begin? -- What training should I take? -- What skills should I have? -- Is my résumé okay? -- Trying with little success? -- Part II: Thriving in security -- How do I keep up? -- How can I manage security stress? -- How can I succeed as a minority? -- How can I progress? -- Should I manage people? -- How can I deal with impostor syndrome? -- How can I know if it's time to move on? -- Part III: Leading security -- Where do I start? -- How do I manage security strategically? -- How do I build a team? -- How do I write a job posting? -- How do I encourage Diversity? -- How do I manage up? -- How do I fund my program? -- How do I talk about my security program? -- What is my legacy? -- Epilogue -- Appendix: Resources -- About the author -- Acknowledgments -- Index -- EULA." ],
+        "relation" : [ "$$Cform$$VPrint version: Patton, Helen E. Navigating the cybersecurity career path. Hoboken, New Jersey : John Wiley & Sons, Inc., [2021]$$QNavigating the cybersecurity career path." ],
+        "mesh" : [ "Computer Security" ],
+        "place" : [ "Hoboken, New Jersey :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "skillit", "aleph008562785" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085627850107871" ],
+        "recordid" : [ "alma990085627850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008562785-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Patton" ],
+        "aufirst" : [ "Helen E." ],
+        "auinit" : [ "H" ],
+        "au" : [ "Patton, Helen E." ],
+        "creatorfull" : [ "$$NPatton, Helen E.$$LPatton$$FHelen E.$$Rauthor" ],
+        "date" : [ "2022 - 2022", "2022" ],
+        "isbn" : [ "9781119833673", "1119833671", "9781119833437", "1119833434", "9781394177448", "1394177445", "9781119833420" ],
+        "notes" : [ "Includes bibliographical references (pages 287-290) and index." ],
+        "abstract" : [ "In \"Navigating the Cybersecurity Career Path\", decorated Chief Information Security Officer Helen Patton delivers a practical and insightful discussion designed to assist aspiring cybersecurity professionals entering the industry and help those already in the industry advance their careers and lead their first security teams." ],
+        "cop" : [ "Hoboken, New Jersey" ],
+        "pub" : [ "John Wiley & Sons, Inc." ],
+        "oclcid" : [ "(ocolc)1282599747" ],
+        "doi" : [ "10.1002/9781394177448" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Navigating the cybersecurity career path" ]
+      },
+      "sort" : {
+        "title" : [ "Navigating the cybersecurity career path /" ],
+        "author" : [ "Patton, Helen E., author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085627850107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085627850107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085627850107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085627850107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119833671,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.9 a25ǂp37 2022eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "112",
+    "CALL_SOLR_GET_IDS_LIST" : "159",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "57",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "62",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "28",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "429",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 464,
+    "COMBINED_SEARCH_TIME" : 468,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computer Crimes Prevention",
+      "count" : "1"
+    }, {
+      "value" : "Computer Networks Security Measures",
+      "count" : "1"
+    }, {
+      "value" : "Computer Security",
+      "count" : "1"
+    }, {
+      "value" : "Computer Security Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Réseaux Dordinateurs Sécurité Mesures",
+      "count" : "1"
+    }, {
+      "value" : "Sécurité Informatique",
+      "count" : "1"
+    }, {
+      "value" : "Sécurité Informatique Orientation Professionnelle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Patton Helen E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

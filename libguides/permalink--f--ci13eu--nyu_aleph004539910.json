@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045399100107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Feldenkrais for actors : how to do less and discover more " ],
+        "subject" : [ "Movement (Acting)", "Feldenkrais method", "Acting -- Vocational guidance", "Acting -- Study and teaching" ],
+        "format" : [ "viii, 272 pages : illustrations ; 22 cm" ],
+        "identifier" : [ "$$CISBN$$V9781848424173;$$CISBN$$V1848424175;$$COCLC$$V(OCoLC)966242588" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Worsley, Victoria, author.$$QWorsley, Victoria" ],
+        "publisher" : [ "London : Nick Hern Books" ],
+        "description" : [ "\"Spontaneity, sensitivity, simplicity and flexibility in any situation are just some of the qualities that the Feldenkrais Method has inspired in performers around the world. It uses movement to enable you to feel, adapt and respond in new ways – not just in limited, habitual patterns – thereby increasing your physical, emotional and mental potential. Written by an experienced actor, theatre-maker and Feldenkrais practitioner, Feldenkrais for Actors leads you through a range of topics where using the Method can help, such as: • Presence and Posture • The Role of Tension • Emotion, Character and Creativity • Voice and Breath • Injury and Anxiety. Also included are dozens of exercises and lessons so that you can experience how the Method will help you in practice. Feldenkrais for Actors is the result of thirty years of study and experience of the Method, and the benefits it can bring. It is invaluable for actors at any stage of their career, as well as for singers, dancers, musicians, martial artists, athletes and more.\"-- Publisher's description." ],
+        "mms" : [ "990045399100107871" ],
+        "contributor" : [ "Humphries, James, illustrator.$$QHumphries, James" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004539910" ],
+        "lds53" : [ "004539910" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045399100107871" ],
+        "recordid" : [ "alma990045399100107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004539910-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Worsley" ],
+        "aufirst" : [ "Victoria" ],
+        "auinit" : [ "V" ],
+        "au" : [ "Worsley, Victoria" ],
+        "addau" : [ "Humphries, James" ],
+        "creatorfull" : [ "$$NWorsley, Victoria$$LWorsley$$FVictoria$$Rauthor" ],
+        "contributorfull" : [ "$$NHumphries, James$$LHumphries$$FJames$$Rillustrator" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "isbn" : [ "9781848424173", "1848424175" ],
+        "notes" : [ "Includes bibliographical references (pages 255-260) and index." ],
+        "abstract" : [ "\"Spontaneity, sensitivity, simplicity and flexibility in any situation are just some of the qualities that the Feldenkrais Method has inspired in performers around the world. It uses movement to enable you to feel, adapt and respond in new ways – not just in limited, habitual patterns – thereby increasing your physical, emotional and mental potential. Written by an experienced actor, theatre-maker and Feldenkrais practitioner, Feldenkrais for Actors leads you through a range of topics where using the Method can help, such as: • Presence and Posture • The Role of Tension • Emotion, Character and Creativity • Voice and Breath • Injury and Anxiety. Also included are dozens of exercises and lessons so that you can experience how the Method will help you in practice. Feldenkrais for Actors is the result of thirty years of study and experience of the Method, and the benefits it can bring. It is invaluable for actors at any stage of their career, as well as for singers, dancers, musicians, martial artists, athletes and more.\"-- Publisher's description." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Nick Hern Books" ],
+        "oclcid" : [ "(ocolc)966242588" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Feldenkrais for actors : how to do less and discover more" ]
+      },
+      "sort" : {
+        "title" : [ "Feldenkrais for actors : how to do less and discover more /" ],
+        "author" : [ "Worsley, Victoria, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990045399100107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1848424175,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2071 m6ǂw676 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "40",
+    "CALL_SOLR_GET_IDS_LIST" : "68",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "16",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "224",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 257,
+    "COMBINED_SEARCH_TIME" : 259,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Acting Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Feldenkrais Method",
+      "count" : "1"
+    }, {
+      "value" : "Movement Acting",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Humphries James",
+      "count" : "1"
+    }, {
+      "value" : "Worsley Victoria",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

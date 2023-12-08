@@ -1,0 +1,283 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995628720307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng;spa;chi" ],
+        "title" : [ "The New York Times." ],
+        "subject" : [ "New York times$$QNew York times -- Indexes Databases", "New York Times$$QNew York Times -- Index Bases de données", "New York times", "New York (N.Y.)$$QNew York (N.Y.) -- Newspapers", "American newspapers$$QAmerican newspapers -- Indexes Databases", "Journaux américains$$QJournaux américains -- Index Bases de données", "American newspapers", "New York (State) -- New York" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$Vsn 00061556;$$CISSN$$V1553-8095;$$COCLC$$V(OCoLC)34107580;$$CISSN$$V0362-4331" ],
+        "creationdate" : [ "1996" ],
+        "publisher" : [ "New York, N.Y. : New York Times Company", "Began on January 22, 1996." ],
+        "description" : [ "Provides current articles, classifieds, and the crossword puzzle from the New York times, plus the TimesMachine and archives in a variety of categories." ],
+        "mms" : [ "9995628720307871" ],
+        "addtitle" : [ "Includes access to: New York daily times", "NYTimes : All digital access <February 5, 2019>", "May also be known as: NYTimes.com Academic Passes", "May also be known as: New York Times Academic Passes", "May also be known as: New York Times online", "The New York times on the Web <January 30, 1996>", "TimesMachine." ],
+        "frequency" : [ "Continuously updated" ],
+        "genre" : [ "Index", "Bases de données", "Indexes", "Databases", "Electronic reference sources", "newspapers", "Newspapers", "Journaux" ],
+        "relation" : [ "$$Ccomplete_edition$$VThe New York times large type weekly$$QThe New York times large type weekly", "$$Cearlier_title$$VNew York Daily Times$$QNew York Daily Times$$Z9995617451207871", "$$Cform$$VLink to related record$$Z990091998400107871", "$$Clater_title$$VThe New York times.$$Z990029598420107871", "$$Cother_relationship$$VNew York Daily Times (1851-1857)$$QNew York Daily Times (1851-1857)", "$$Csupplement$$VNew York Times Book Review$$QNew York Times Book Review$$Z9995624719207871", "$$Csupplement$$VNew York Times Magazine$$QNew York Times Magazine$$Z9995642436407871" ],
+        "mesh" : [ "Newspapers as Topic", "New York", "Newspaper", "Periodical" ],
+        "place" : [ "New York, N.Y.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)4560000000000820" ],
+        "lds60" : [ "Includes U.S., International, Canada, Spanish, and Chinese editions." ],
+        "lds63" : [ "License restrictions may limit access." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995628720307871" ],
+        "recordid" : [ "alma9995628720307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "994560000000000820" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "NEW YORK DAILY TIMES", "NEW YORK TIMES LATE EDITION (EAST COAST)", "NEW YORK TIMES  LATE EDITION", "N Y Times Web" ],
+        "addtitle" : [ "New York daily times", "NYTimes : All digital access", "NYTimes.com Academic Passes", "New York Times Academic Passes", "New York Times online" ],
+        "date" : [ "1996" ],
+        "issn" : [ "1553-8095", "0362-4331" ],
+        "abstract" : [ "Provides current articles, classifieds, and the crossword puzzle from the New York times, plus the TimesMachine and archives in a variety of categories." ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "New York Times Company" ],
+        "oclcid" : [ "(ocolc)34107580" ],
+        "lccn" : [ "sn 00061556", "2004233864" ],
+        "btitle" : [ "The New York Times." ]
+      },
+      "sort" : {
+        "title" : [ "New York Times." ],
+        "creationdate" : [ "1996" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_NYHS",
+        "instName" : "New York Historical Society",
+        "instId" : "7873",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628720307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 00061556&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ap 2ǂ n48",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "596",
+    "CALL_SOLR_GET_IDS_LIST" : "121",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "5",
+    "RETRIVE_FROM_DB_RELATIONS" : "140",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "20",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "13",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "112",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "877",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 901,
+    "COMBINED_SEARCH_TIME" : 905,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    }, {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1996",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "American Newspapers Indexes Databases",
+      "count" : "1"
+    }, {
+      "value" : "Journaux Américains Index Bases De Données",
+      "count" : "1"
+    }, {
+      "value" : "New York",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "New York Times",
+      "count" : "1"
+    }, {
+      "value" : "New York Times Index Bases De Données",
+      "count" : "1"
+    }, {
+      "value" : "New York Times Indexes Databases",
+      "count" : "1"
+    }, {
+      "value" : "Newspapers As Topic",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

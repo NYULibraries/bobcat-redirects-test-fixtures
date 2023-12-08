@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080125760107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Technology entrepreneurship : taking innovation to the marketplace " ],
+        "subject" : [ "Innovations -- Aspect économique", "Industries de pointe -- Gestion", "Entrepreneuriat", "Propriété intellectuelle", "Nouvelles entreprises -- Gestion", "entrepreneurs", "intellectual property", "Entrepreneurship", "High technology industries -- Management", "Intellectual property", "New business enterprises -- Management", "Technological innovations -- Economic aspects" ],
+        "format" : [ "1 online resource (xx, 416 pages ): illustrations." ],
+        "identifier" : [ "$$CISBN$$V9780128223253;$$CISBN$$V0128223251;$$COCLC$$V(OCoLC)1272927843;$$CISBN$$V9780128222034;$$CISBN$$V0128222034" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Duening, Thomas N., author.$$QDuening, Thomas N." ],
+        "publisher" : [ "London ; San Diego, CA : Academic Press is an imprint of Elsevier" ],
+        "description" : [ "\"'Technology Entrepreneurship' provides a practical toolkit for potential entrepreneurs with technology backgrounds that will help them navigate complex issues such as raising capital, IP protection, product development, and more. The book's structure follows the entrepreneurial process in a step-by-step way, defining key terms and helping readers without business qualifications engage with the activities addressed. In addition, it covers a discussion of current trends and developments relevant for tomorrow's entrepreneurs. In-depth information on the practicalities of technology entrepreneurship are combined with experience from academics to provide a unique resource on how to approach this crucial subject.\"-- Provided by the publisher." ],
+        "mms" : [ "990080125760107871" ],
+        "contributor" : [ "Hisrich, Robert D., author.$$QHisrich, Robert D.", "Lechter, Michael A., author.$$QLechter, Michael A." ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "Front Cover -- Technology Entrepreneurship -- Copyright Page -- Dedication -- Contents -- About the Authors -- Foreword -- Preface -- Acknowledgments -- 1 Technology Entrepreneurs in the Global Economy -- Introduction -- Trends and Opportunities in Technology Entrepreneurship -- The Global Opportunity -- Intellectual Foundations -- Chapter Summary -- Key Takeaways -- Keyterms -- Additional Reading -- Endnotes -- 2 Becoming an Entrepreneur -- Introduction -- Entrepreneurial Persistence -- Entrepreneurial Identity -- The Entrepreneurial Virtues -- Value Creation -- Respect the Market", "Honor Contracts and Promises -- Be Resourceful and Optimistic -- Be Resilient and Rebound From Failure -- Chapter Summary -- Keyterms -- Additional Reading -- 3 Creating Your Venture -- Introduction -- Six Fundamental Venture Types -- Business to Business -- Business to Consumer -- Business to Government -- The Idea Generation Process -- Step 1: Identify a Point of Pain -- Step 2: Innovate a Product or Service -- Step 3: Test Business Models -- Step 4: Customer Acquisition -- The Opportunity Register -- Nontraditional Idea Sources -- Read Alternative Literature", "Visit New Places and Experience New Things -- Meet Thought Leaders -- Chapter Summary -- Key Takeaways -- Keyterms -- Additional Reading -- Endnotes -- 4 Understanding Your Market -- Introduction -- The Market -- Market Segmentation Techniques -- Geographic Segmentation -- Demographic Segmentation -- Brand Loyalty Segmentation -- Just-noticeable Difference Segmentation -- Key Element Segmentation -- Product/service Segmentation -- Psychographic Segmentation -- Industry and Competitive Analysis -- Assistance -- General Information -- Industry and Market Information", "Competitive Company and Product/service Information -- Government Sources -- Search Engines -- Trade Associations -- Trade Publications -- Customer Value -- Stages in the Buying Process -- Need Arousal -- Information Search -- Evaluation -- Purchase Decision -- Postpurchase Behavior -- Chapter Summary -- Key Takeaways -- Keyterms -- Additional Reading -- Web Resources -- Endnotes -- 5 Developing Your Products -- Introduction -- Product Planning and Development -- The Idea Development Process -- Describe the Idea and Competition -- Determine the Need -- Modify and Validate", "Develop a Marketing Plan -- Develop the Final Product or Service -- Launch the Idea -- The Concept of Newness -- Newness to the Consumer -- Newness to the Organization -- Newness to the Distribution System -- Opportunity Assessment Plan -- The Diffusion Process -- Adoption Process -- The Product Life Cycle -- Rapid Technology Change in Rapidly Changing Markets -- Disruptive Technology -- Technology and the Market -- Chapter Summary -- Key Takeaways -- Keyterms -- Additional Reading -- Web Resources -- Endnotes -- 6 Protecting Your Intellectual Property -- Introduction" ],
+        "relation" : [ "$$Cform$$VOriginal" ],
+        "place" : [ "London ; San Diego, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "elssci", "aleph008012576" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080125760107871" ],
+        "recordid" : [ "alma990080125760107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008012576-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Duening" ],
+        "aufirst" : [ "Thomas N." ],
+        "auinit" : [ "T" ],
+        "au" : [ "Duening, Thomas N." ],
+        "addau" : [ "Hisrich, Robert D.", "Lechter, Michael A." ],
+        "creatorfull" : [ "$$NDuening, Thomas N.$$LDuening$$FThomas N.$$Rauthor" ],
+        "contributorfull" : [ "$$NHisrich, Robert D.$$LHisrich$$FRobert D.$$Rcontributor", "$$NLechter, Michael A.$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9780128223253", "0128223251", "9780128222034", "0128222034" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"'Technology Entrepreneurship' provides a practical toolkit for potential entrepreneurs with technology backgrounds that will help them navigate complex issues such as raising capital, IP protection, product development, and more. The book's structure follows the entrepreneurial process in a step-by-step way, defining key terms and helping readers without business qualifications engage with the activities addressed. In addition, it covers a discussion of current trends and developments relevant for tomorrow's entrepreneurs. In-depth information on the practicalities of technology entrepreneurship are combined with experience from academics to provide a unique resource on how to approach this crucial subject.\"-- Provided by the publisher." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Academic Press is an imprint of Elsevier" ],
+        "oclcid" : [ "(ocolc)1272927843" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Technology entrepreneurship : taking innovation to the marketplace" ]
+      },
+      "sort" : {
+        "title" : [ "Technology entrepreneurship : taking innovation to the marketplace /" ],
+        "author" : [ "Duening, Thomas N., author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080125760107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0128223251,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hc!79 t4ǂd84 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "100",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "89",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "49",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "11",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "83",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "411",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 438,
+    "COMBINED_SEARCH_TIME" : 441,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Entrepreneuriat",
+      "count" : "1"
+    }, {
+      "value" : "Entrepreneurs",
+      "count" : "1"
+    }, {
+      "value" : "Entrepreneurship",
+      "count" : "1"
+    }, {
+      "value" : "High Technology Industries Management",
+      "count" : "1"
+    }, {
+      "value" : "Industries De Pointe Gestion",
+      "count" : "1"
+    }, {
+      "value" : "Innovations Aspect Économique",
+      "count" : "1"
+    }, {
+      "value" : "Intellectual Property",
+      "count" : "1"
+    }, {
+      "value" : "New Business Enterprises Management",
+      "count" : "1"
+    }, {
+      "value" : "Nouvelles Entreprises Gestion",
+      "count" : "1"
+    }, {
+      "value" : "Propriété Intellectuelle",
+      "count" : "1"
+    }, {
+      "value" : "Technological Innovations Economic Aspects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Duening Thomas N",
+      "count" : "1"
+    }, {
+      "value" : "Hisrich Robert D",
+      "count" : "1"
+    }, {
+      "value" : "Lechter Michael A",
+      "count" : "1"
+    } ]
+  } ]
+}

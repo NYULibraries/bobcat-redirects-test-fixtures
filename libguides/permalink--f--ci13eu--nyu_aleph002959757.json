@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990029597570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Signs of the apes, songs of the whales" ],
+        "subject" : [ "Human-animal communication" ],
+        "format" : [ "1 videocassette (57 min.) : sd., col. with b&w sequences ; 1/2 in." ],
+        "identifier" : [ "$$CLC$$V85700364/F;$$COCLC$$V(OCoLC)1050752559" ],
+        "creationdate" : [ "c1983" ],
+        "publisher" : [ "New York, N.Y. : Time-Life Video" ],
+        "description" : [ "Revisits Washoe, a chimpanzee that communicates using American Sign Language, and examines some of the most recent language experiments being done with apes, dolphins, sea lions, gorillas, and whales." ],
+        "mms" : [ "990029597570107871" ],
+        "contributor" : [ "Brown, Hilyard J.$$QBrown, Hilyard J.", "Mansfield, John.$$QMansfield, John.", "Friesen, Eugene.$$QFriesen, Eugene.", "Anderson, William A.$$QAnderson, William A.", "Stapleton, Maureen.$$QStapleton, Maureen.", "Harrar, Linda.$$QHarrar, Linda.", "British Broadcasting Corporation.$$QBritish Broadcasting Corporation.", "Time-Life Video.$$QTime-Life Video.", "WGBH (Television station : Boston, Mass.)$$QWGBH (Television station : Boston, Mass.)", "Paul Winter Consort.$$QPaul Winter Consort." ],
+        "addtitle" : [ "Songs of the whales." ],
+        "series" : [ "Nova$$QNova", "Nova (Television program)$$QNova (Television program)" ],
+        "genre" : [ "Documentary films" ],
+        "place" : [ "New York, N.Y. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002959757" ],
+        "lds53" : [ "002959757" ],
+        "lds60" : [ "Documentary.", "Title from data sheet.", "Intended audience: Junior high school through adults.", "Issued also as U-matic 3/4 in. or Beta 1/2 in.", "VHS." ],
+        "lds64" : [ "Editor, William A. Anderson ; music by The Paul Winter Consort, composed by Eugene Friesen ; cinematography, Hilyard J. Brown ; executive producer, John Mansfield." ],
+        "lds65" : [ "Maureen Stapleton." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990029597570107871" ],
+        "recordid" : [ "alma990029597570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002959757-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brown", "Mansfield", "Friesen", "Anderson", "Stapleton", "Harrar" ],
+        "aufirst" : [ "Hilyard J.", "John.", "Eugene.", "William A.", "Maureen.", "Linda." ],
+        "auinit" : [ "H", "J", "E", "W", "M", "L" ],
+        "addau" : [ "Brown, Hilyard J.", "Mansfield, John.", "Friesen, Eugene.", "Anderson, William A.", "Stapleton, Maureen.", "Harrar, Linda." ],
+        "contributorfull" : [ "$$NBrown, Hilyard J.$$LBrown$$FHilyard J.$$Rcontributor", "$$NMansfield, John.$$Rcontributor", "$$NFriesen, Eugene.$$Rcontributor", "$$NAnderson, William A.$$Rcontributor", "$$NStapleton, Maureen.$$Rcontributor", "$$NHarrar, Linda.$$Rcontributor" ],
+        "date" : [ "1983", "c1983" ],
+        "abstract" : [ "Revisits Washoe, a chimpanzee that communicates using American Sign Language, and examines some of the most recent language experiments being done with apes, dolphins, sea lions, gorillas, and whales." ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "Time-Life Video" ],
+        "oclcid" : [ "(ocolc)1050752559" ],
+        "lccn" : [ "85700364/F" ],
+        "seriestitle" : [ "Nova" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Signs of the apes, songs of the whales" ]
+      },
+      "sort" : {
+        "title" : [ "Signs of the apes, songs of the whales" ],
+        "author" : [ "Brown, Hilyard J." ],
+        "creationdate" : [ "1983" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990029597570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:85700364/F&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ql\"776",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "62",
+    "CALL_SOLR_GET_IDS_LIST" : "155",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "349",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 380,
+    "COMBINED_SEARCH_TIME" : 383,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1983",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Human Animal Communication",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Anderson William A",
+      "count" : "1"
+    }, {
+      "value" : "British Broadcasting Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Brown Hilyard J",
+      "count" : "1"
+    }, {
+      "value" : "Friesen Eugene",
+      "count" : "1"
+    }, {
+      "value" : "Harrar Linda",
+      "count" : "1"
+    }, {
+      "value" : "Mansfield John",
+      "count" : "1"
+    }, {
+      "value" : "Paul Winter Consort",
+      "count" : "1"
+    }, {
+      "value" : "Stapleton Maureen",
+      "count" : "1"
+    }, {
+      "value" : "Time Life Video",
+      "count" : "1"
+    }, {
+      "value" : "Wgbh Television Station Boston Mass",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

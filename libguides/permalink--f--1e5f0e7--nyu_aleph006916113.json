@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990069161130107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "IBM SPSS statistics 26 step by step : a simple guide and reference " ],
+        "subject" : [ "Sciences sociales -- Méthodes statistiques -- Logiciels", "EDUCATION -- Statistics", "EDUCATION -- Computers & Technology", "PSYCHOLOGY -- General", "Social sciences -- Statistical methods -- Computer programs" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9780429616327;$$CISBN$$V0429616325;$$CISBN$$V9780429056765;$$CISBN$$V0429056761;$$CISBN$$V9780429613906;$$CISBN$$V0429613903;$$CISBN$$V9780429615115;$$CISBN$$V0429615116;$$COCLC$$V(OCoLC)1144305740;$$CISBN$$V0367174359;$$CISBN$$V9780367174354" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "George, Darren, author.$$QGeorge, Darren" ],
+        "publisher" : [ "Place of publication not identified ROUTLEDGE" ],
+        "description" : [ "IBM SPSS Statistics 26 Step by Step: A Simple Guide and Reference, sixteenth edition, takes a straightforward, step-by-step approach that makes SPSS software clear to beginners and experienced researchers alike. Extensive use of four-color screen shots, clear writing, and step-by-step boxes guide readers through the program. Output for each procedure is explained and illustrated, and every output term is defined. Exercises at the end of each chapter support students by providing additional opportunities to practice using SPSS. This book covers the basics of statistical analysis and addresses more advanced topics such as multi-dimensional scaling, factor analysis, discriminant analysis, measures of internal consistency, MANOVA (between- and within-subjects), cluster analysis, Log-linear models, logistic regression and a chapter describing residuals. Back matter includes a description of data files used in exercises, an exhaustive glossary, suggestions for further reading and a comprehensive index. IMB SPSS Statistics 26 Step by Step is distributed in 85 countries, has been an academic best seller through most of the earlier editions, and has proved invaluable aid to thousands of researchers and students. New to this edition: Screenshots, explanations, and step-by-step boxes have been fully updated to reflect SPSS 26 How to handle missing data has been revised and expanded and now includes a detailed explanation of how to create regression equations to replace missing data More explicit coverage of how to report APA style statistics; this primarily shows up in the Output sections of Chapters 6 through 16, though changes have been made throughout the text." ],
+        "mms" : [ "990069161130107871" ],
+        "contributor" : [ "Mallery, Paul, author.$$QMallery, Paul" ],
+        "edition" : [ "Sixteenth edition." ],
+        "relation" : [ "$$Cform$$VPrint version: George, Darren. IBM SPSS statistics 26 step by step. Sixteenth edition. [Place of publication not identified] ROUTLEDGE, 2020$$QIBM SPSS statistics 26 step by step." ],
+        "place" : [ "Place of publication not identified]" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph006916113" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990069161130107871" ],
+        "recordid" : [ "alma990069161130107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006916113-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "George" ],
+        "aufirst" : [ "Darren" ],
+        "auinit" : [ "D" ],
+        "au" : [ "George, Darren" ],
+        "addau" : [ "Mallery, Paul" ],
+        "creatorfull" : [ "$$NGeorge, Darren$$LGeorge$$FDarren$$Rauthor" ],
+        "contributorfull" : [ "$$NMallery, Paul$$LMallery$$FPaul$$Rcontributor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9780429616327", "0429616325", "9780429056765", "0429056761", "9780429613906", "0429613903", "9780429615115", "0429615116", "0367174359", "9780367174354" ],
+        "abstract" : [ "IBM SPSS Statistics 26 Step by Step: A Simple Guide and Reference, sixteenth edition, takes a straightforward, step-by-step approach that makes SPSS software clear to beginners and experienced researchers alike. Extensive use of four-color screen shots, clear writing, and step-by-step boxes guide readers through the program. Output for each procedure is explained and illustrated, and every output term is defined. Exercises at the end of each chapter support students by providing additional opportunities to practice using SPSS. This book covers the basics of statistical analysis and addresses more advanced topics such as multi-dimensional scaling, factor analysis, discriminant analysis, measures of internal consistency, MANOVA (between- and within-subjects), cluster analysis, Log-linear models, logistic regression and a chapter describing residuals. Back matter includes a description of data files used in exercises, an exhaustive glossary, suggestions for further reading and a comprehensive index. IMB SPSS Statistics 26 Step by Step is distributed in 85 countries, has been an academic best seller through most of the earlier editions, and has proved invaluable aid to thousands of researchers and students. New to this edition: Screenshots, explanations, and step-by-step boxes have been fully updated to reflect SPSS 26 How to handle missing data has been revised and expanded and now includes a detailed explanation of how to create regression equations to replace missing data More explicit coverage of how to report APA style statistics; this primarily shows up in the Output sections of Chapters 6 through 16, though changes have been made throughout the text." ],
+        "cop" : [ "Place of publication not identified" ],
+        "pub" : [ "ROUTLEDGE" ],
+        "oclcid" : [ "(ocolc)1144305740" ],
+        "doi" : [ "10.4324/9780429056765." ],
+        "edition" : [ "Sixteenth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "IBM SPSS statistics 26 step by step : a simple guide and reference" ]
+      },
+      "sort" : {
+        "title" : [ "IBM SPSS statistics 26 step by step : a simple guide and reference /" ],
+        "author" : [ "George, Darren, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990069161130107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990069161130107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990069161130107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0429616325,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ha!32",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "122",
+    "CALL_SOLR_GET_IDS_LIST" : "114",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "112",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "48",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "11",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "49",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "63",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "474",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 512,
+    "COMBINED_SEARCH_TIME" : 517,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Computers Technology",
+      "count" : "1"
+    }, {
+      "value" : "Education Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Psychology General",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Méthodes Statistiques Logiciels",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Statistical Methods Computer Programs",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "George Darren",
+      "count" : "1"
+    }, {
+      "value" : "Mallery Paul",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

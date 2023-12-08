@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075006820107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A companion to the history of the book " ],
+        "subject" : [ "Books -- History", "Printing -- History", "Book industries and trade -- History", "Livres -- Histoire", "Imprimerie -- Histoire", "Livres -- Industrie -- Histoire", "Book industries and trade", "Books", "Printing" ],
+        "format" : [ "1 online resource (2 volumes (xxiii, 924 pages))." ],
+        "identifier" : [ "$$CLC$$V2019019965;$$CISBN$$V1119018218;$$CISBN$$V9781119018193;$$CISBN$$V1119018196;$$CISBN$$V9781119018209;$$CISBN$$V111901820X;$$CISBN$$V9781119018216;$$COCLC$$V(OCoLC)1099543594;$$CISBN$$V9781119018179" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Hoboken, NJ : Wiley Blackwell" ],
+        "mms" : [ "990075006820107871" ],
+        "contributor" : [ "Eliot, Simon, editor.$$QEliot, Simon", "Rose, Jonathan, 1952- editor.$$QRose, Jonathan" ],
+        "addtitle" : [ "History of the book" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "Blackwell companions to literature and culture ; 102$$QBlackwell companions to literature and culture ", "Blackwell companions to literature and culture ; 102.$$QBlackwell companions to literature and culture " ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Companion to the history of the book. Second edition Hoboken, NJ : Wiley-Blackwell, 2019$$QCompanion to the history of the book." ],
+        "place" : [ "Hoboken, NJ :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "wileyeb", "aleph007500682" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075006820107871" ],
+        "recordid" : [ "alma990075006820107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007500682-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Eliot", "Rose" ],
+        "aufirst" : [ "Simon", "Jonathan" ],
+        "auinit" : [ "S", "J" ],
+        "addau" : [ "Eliot, Simon", "Rose, Jonathan" ],
+        "contributorfull" : [ "$$NEliot, Simon$$LEliot$$FSimon$$Reditor", "$$NRose, Jonathan$$Reditor" ],
+        "addtitle" : [ "History of the book" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "1119018218", "9781119018193", "1119018196", "9781119018209", "111901820X", "9781119018216", "9781119018179" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Hoboken, NJ" ],
+        "pub" : [ "Wiley Blackwell" ],
+        "oclcid" : [ "(ocolc)1099543594" ],
+        "lccn" : [ "2019019965" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "Blackwell companions to literature and culture ; 102" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A companion to the history of the book" ]
+      },
+      "sort" : {
+        "title" : [ "companion to the history of the book /" ],
+        "author" : [ "Eliot, Simon, editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075006820107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075006820107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075006820107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119018196,OCLC:,LCCN:2019019965&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z 4ǂ c73 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "162",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "43",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "106",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "39",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "101",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "412",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 435,
+    "COMBINED_SEARCH_TIME" : 438,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Book Industries And Trade",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade History",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books History",
+      "count" : "1"
+    }, {
+      "value" : "Imprimerie Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Industrie Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Printing",
+      "count" : "1"
+    }, {
+      "value" : "Printing History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Eliot Simon",
+      "count" : "1"
+    }, {
+      "value" : "Rose Jonathan",
+      "count" : "1"
+    } ]
+  } ]
+}

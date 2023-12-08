@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081894500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "rus" ],
+        "title" : [ "Diskursivnyĭ razlom sot͡sialʹnogo poli͡a : uroki Evromaĭdana " ],
+        "subject" : [ "Ukraine -- History -- Euromaidan Protests, 2013-2014", "Social conflict -- Ukraine", "Social conflict", "Ukraine", "2013-2014" ],
+        "format" : [ "179 pages ; 23 cm." ],
+        "identifier" : [ "$$CISBN$$V9785759823711;$$CISBN$$V575982371X;$$COCLC$$V(OCoLC)1263671324" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Baĭsha, Olʹga, author.$$QBaĭsha, Olʹga", "Байша, Ольга, author.$$QБайша, Ольга" ],
+        "publisher" : [ "Moskva : Izdatelʹskiĭ dom Vyssheĭ shkoly ėkonomiki", "Москва : Издательский дом Высшей школы экономики" ],
+        "mms" : [ "990081894500107871" ],
+        "addtitle" : [ "Uroki Evromaĭdana", "Уроки Евромайдана", "Discursive fracture of the social field : the lessons of the Euromaidan" ],
+        "vertitle" : [ "Дискурсивный разлом социального поля : уроки Евромайдана / Ольга Байша." ],
+        "series" : [ "Serii͡a \"Politicheskai͡a teorii͡a.\"$$QSerii͡a \"Politicheskai͡a teorii͡a.\"", "Serii͡a Politicheskai͡a teorii͡a$$QSerii͡a Politicheskai͡a teorii͡a", "Серия \"Политическая теория.\"$$QСерия \"Политическая теория.\"", "Серия Политическая теория$$QСерия Политическая теория" ],
+        "contents" : [ "Teorii͡a diskursa Ėernesto Laklay i Shantalʹ Muff -- Predystorii͡a evromaĭdana : voiny sveta protiv t͡sarstva tʹmy -- Populizm evromaĭdana : \"My - narod\" -- Antagonizm evromaĭdana : struktura diskursa -- Totalitarizm evromaĭdana : konstruirovanie terrorizma -- Konspirologii͡a evromaĭdana : tragedii͡a ve odesse -- Globalʹnyĭ diskurs zapadnot͡sentrizma.", "Теория дискурса Эернесто Лаклаы и Шанталь Муфф -- Предыстория евромайдана : воины света против царства тьмы -- Популизм евромайдана : \"Мы - народ\" -- Антагонизм евромайдана : структура дискурса -- Тоталитаризм евромайдана : конструирование терроризма -- Конспирология евромайдана : трагедия ве одессе -- Глобальный дискурс западноцентризма." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VDiskursivnyĭ razlom sot͡sialʹnogo poli͡a : uroki Evromaĭdana$$Z990087033800107871", "$$Cform$$VOnline version: Baĭsha, Olga. Diskursivnyĭ razlom sot͡sialʹnogo poli͡a$$QDiskursivnyĭ razlom sot͡sialʹnogo poli͡a" ],
+        "place" : [ "Moskva :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008189450" ],
+        "lds53" : [ "008189450" ],
+        "lds60" : [ "\"Proekt seriĭnykh monografiĭ po sot͡sialʹno-ėkonomicheskim i gumanitarnym naukam\"--Title page verso." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081894500107871" ],
+        "recordid" : [ "alma990081894500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008189450-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Baĭsha" ],
+        "aufirst" : [ "Olʹga" ],
+        "auinit" : [ "O" ],
+        "au" : [ "Baĭsha, Olʹga" ],
+        "creatorfull" : [ "$$NBaĭsha, Olʹga$$LBaĭsha$$FOlʹga$$Rauthor" ],
+        "addtitle" : [ "Uroki Evromaĭdana", "Discursive fracture of the social field : the lessons of the Euromaidan" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9785759823711", "575982371X" ],
+        "notes" : [ "Includes bibliographical references (pages 163-[180])." ],
+        "cop" : [ "Moskva" ],
+        "pub" : [ "Izdatelʹskiĭ dom Vyssheĭ shkoly ėkonomiki" ],
+        "oclcid" : [ "(ocolc)1263671324" ],
+        "seriestitle" : [ "Serii͡a Politicheskai͡a teorii͡a" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Diskursivnyĭ razlom sot͡sialʹnogo poli͡a : uroki Evromaĭdana" ]
+      },
+      "sort" : {
+        "title" : [ "Diskursivnyĭ razlom sot͡sialʹnogo poli͡a : uroki Evromaĭdana /" ],
+        "author" : [ "Baĭsha, Olʹga, author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990081894500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:575982371X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dk\"508.852ǂ b35 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "234",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "24",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "457",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 2,
+    "BUILD_COMBINED_RESULTS_MAP" : 498,
+    "COMBINED_SEARCH_TIME" : 503,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "rus",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2013 2014",
+      "count" : "1"
+    }, {
+      "value" : "Social Conflict",
+      "count" : "1"
+    }, {
+      "value" : "Social Conflict Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine History Euromaidan Protests 2013 2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Baĭsha Olʹga",
+      "count" : "1"
+    }, {
+      "value" : "Байша Ольга",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616572307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Textile history (Online)" ],
+        "subject" : [ "Textile industry -- History$$QTextile industry -- History -- Periodicals", "Textile fabrics -- History$$QTextile fabrics -- History -- Periodicals", "Textiles et tissus -- Industrie et commerce -- Histoire$$QTextiles et tissus -- Industrie et commerce -- Histoire -- Périodiques", "Textiles et tissus -- Histoire$$QTextiles et tissus -- Histoire -- Périodiques", "Textile fabrics", "Textile industry" ],
+        "identifier" : [ "$$CLC$$V  2011233039;$$CISSN$$V1743-2952;$$COCLC$$V(OCoLC)52984416;$$CISSN$$V0040-4969" ],
+        "creationdate" : [ "1968" ],
+        "publisher" : [ "Abingdon, UK : Taylor & Francis", "Print began with vol. 1, no. 1 (Dec. 1968)." ],
+        "mms" : [ "9995616572307871" ],
+        "contributor" : [ "Pasold Research Fund Ltd.$$QPasold Research Fund Ltd.", "Taylor & Francis.$$QTaylor & Francis." ],
+        "frequency" : [ "Semiannual" ],
+        "genre" : [ "Périodiques", "History", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990027429650107871" ],
+        "unititle" : [ "Textile history (Online)" ],
+        "place" : [ "Abingdon, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978977283438" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616572307871" ],
+        "recordid" : [ "alma9995616572307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978977283438" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "TEXT HIST", "Textile hist. (Online)" ],
+        "date" : [ "1968" ],
+        "issn" : [ "1743-2952", "0040-4969" ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Maney Pub." ],
+        "oclcid" : [ "(ocolc)52984416" ],
+        "lccn" : [ "2011233039" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Textile history (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Textile history (Online)" ],
+        "author" : [ "Pasold Research Fund Ltd." ],
+        "creationdate" : [ "1968" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616572307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616572307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616572307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2011233039&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#9850.1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "271",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "177",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "63",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "148",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "49",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "603",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 629,
+    "COMBINED_SEARCH_TIME" : 632,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1968",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Textile Fabrics",
+      "count" : "1"
+    }, {
+      "value" : "Textile Fabrics History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry",
+      "count" : "1"
+    }, {
+      "value" : "Textile Industry History Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Textiles Et Tissus Histoire Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Textiles Et Tissus Industrie Et Commerce Histoire Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Pasold Research Fund Ltd",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Francis",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

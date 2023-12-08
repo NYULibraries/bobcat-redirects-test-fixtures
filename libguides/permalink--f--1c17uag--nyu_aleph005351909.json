@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990053519090107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A dictionary of ecology " ],
+        "subject" : [ "Ecology$$QEcology -- Dictionaries", "Environmental sciences$$QEnvironmental sciences -- Dictionaries", "Ecology", "Environmental sciences", "Ecology (General)", "Ecologie (algemeen)" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780191793158;$$CISBN$$V0191793159;$$COCLC$$V(OCoLC)922990600" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Oxford, England : Oxford University Press" ],
+        "description" : [ "\"Written in a clear, accessible style, this authoritative and wide-ranging dictionary contains entries on all aspects of ecology and related environmental scientific disciplines such as biogeography, genetics, soil science, geomorphology, atmospheric science, and oceanography. Entries cover topics such as plant and animal physiology, animal behaviour, pollution, conservation, habitat management, population, evolution, environmental pollution, climatology, and meteorology. It also includes many line drawings and useful appendices.\"--Oxford Reference dictionary home page." ],
+        "mms" : [ "990053519090107871" ],
+        "contributor" : [ "Allaby, Michael, editor.$$QAllaby, Michael" ],
+        "edition" : [ "Fifth edition online only 2015." ],
+        "series" : [ "Oxford quick reference$$QOxford quick reference", "Oxford quick reference.$$QOxford quick reference." ],
+        "genre" : [ "dictionaries", "Dictionaries", "Dictionnaires" ],
+        "mesh" : [ "Dictionary" ],
+        "unititle" : [ "Dictionary of ecology (Oxford University Press)" ],
+        "place" : [ "Oxford, England] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph005351909" ],
+        "lds60" : [ "First edition published as: The concise Oxford dictionary of ecology.", "Previous edition: 2010." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990053519090107871" ],
+        "recordid" : [ "alma990053519090107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005351909-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Allaby" ],
+        "aufirst" : [ "Michael" ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Allaby, Michael" ],
+        "contributorfull" : [ "$$NAllaby, Michael$$LAllaby$$FMichael$$Reditor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9780191793158", "0191793159" ],
+        "abstract" : [ "\"Written in a clear, accessible style, this authoritative and wide-ranging dictionary contains entries on all aspects of ecology and related environmental scientific disciplines such as biogeography, genetics, soil science, geomorphology, atmospheric science, and oceanography. Entries cover topics such as plant and animal physiology, animal behaviour, pollution, conservation, habitat management, population, evolution, environmental pollution, climatology, and meteorology. It also includes many line drawings and useful appendices.\"--Oxford Reference dictionary home page." ],
+        "cop" : [ "Oxford, England" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)922990600" ],
+        "edition" : [ "Fifth edition online only 2015." ],
+        "seriestitle" : [ "Oxford quick reference" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A dictionary of ecology" ]
+      },
+      "sort" : {
+        "title" : [ "dictionary of ecology /" ],
+        "author" : [ "Allaby, Michael, editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053519090107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0191793159,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qh\"540.4ǂ c66 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "114",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "9",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "322",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 354,
+    "COMBINED_SEARCH_TIME" : 358,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ecologie Algemeen",
+      "count" : "1"
+    }, {
+      "value" : "Ecology",
+      "count" : "1"
+    }, {
+      "value" : "Ecology Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Ecology General",
+      "count" : "1"
+    }, {
+      "value" : "Environmental Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Environmental Sciences Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Allaby Michael",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995631334207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "International journal of human-computer studies (Online)" ],
+        "subject" : [ "Human-machine systems$$QHuman-machine systems -- Periodicals", "Systems engineering$$QSystems engineering -- Periodicals", "Human engineering$$QHuman engineering -- Periodicals" ],
+        "identifier" : [ "$$CLC$$Vsn 97001907 ;$$CISSN$$V1095-9300;$$COCLC$$V(OCoLC)36980779;$$CISSN$$V1071-5819" ],
+        "creationdate" : [ "1994-" ],
+        "publisher" : [ "London : Academic Press", "Vol. 40, issue 1 (Jan. 1994)-" ],
+        "description" : [ "\"International journal of human-computer studies publishes original research over the whole spectrum of work relevant to the theory and practice of innovative interactive systems. The journal is inherently interdisciplinary, covering research in computing, artificial intelligence, psychology, linguistics, communication, design, engineering, and social organization, which is relevant to the design, analysis, evaluation and application of innovative interactive systems. Papers at the boundaries of these disciplines are especially welcome, as it is our view that interdisciplinary approaches are needed for producing theoretical insights in this complex area and for effective deployment of innovative technologies in concrete user communities.\"" ],
+        "mms" : [ "9995631334207871" ],
+        "addtitle" : [ "International journal of human computer studies" ],
+        "frequency" : [ "Twelve no. a year" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VInternational journal of man-machine studies$$QInternational journal of man-machine studies$$Z9995638514907871", "$$Cearlier_title$$VKnowledge acquisition (Online)$$Z9995632748407871", "$$Cform$$VLink to related record$$Z990021297220107871" ],
+        "unititle" : [ "International journal of human-computer studies (Online)" ],
+        "place" : [ "London] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954922651180" ],
+        "lds60" : [ "Some issues also have distinctive titles.", "Title from contents screen (ScienceDirect, viewed Mar. 14, 2007).", "Published: Elsevier, <2006->", "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995631334207871" ],
+        "recordid" : [ "alma9995631334207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954922651180" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "INT J HUM-COMPUT ST", "INT J HUM COMPUT STUD", "INT J HUM COMPUT STUDIES", "INT J HUM COMPUT ST", "INT J HUM C", "Int. j. hum.-comput. stud. (Print)", "Int. j. hum.-comput. stud. (Online)", "COMPUT ST", "INT. J. HUM.-COMPUT. STUD" ],
+        "addtitle" : [ "International journal of human computer studies" ],
+        "date" : [ "1994", "1994-" ],
+        "issn" : [ "1095-9300", "1071-5819" ],
+        "abstract" : [ "\"International journal of human-computer studies publishes original research over the whole spectrum of work relevant to the theory and practice of innovative interactive systems. The journal is inherently interdisciplinary, covering research in computing, artificial intelligence, psychology, linguistics, communication, design, engineering, and social organization, which is relevant to the design, analysis, evaluation and application of innovative interactive systems. Papers at the boundaries of these disciplines are especially welcome, as it is our view that interdisciplinary approaches are needed for producing theoretical insights in this complex area and for effective deployment of innovative technologies in concrete user communities.\"" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Academic Press" ],
+        "oclcid" : [ "(ocolc)36980779" ],
+        "lccn" : [ "sn 97001907" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "International journal of human-computer studies (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "International journal of human-computer studies (Online)" ],
+        "creationdate" : [ "1994" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995631334207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 97001907&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ta\"167 i5",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "436",
+    "CALL_SOLR_GET_IDS_LIST" : "107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "123",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "68",
+    "RETRIVE_FROM_DB_RELATIONS" : "81",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "97",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "42",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "721",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 759,
+    "COMBINED_SEARCH_TIME" : 762,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Human Engineering Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Human Machine Systems Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Systems Engineering Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

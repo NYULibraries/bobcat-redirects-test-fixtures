@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084340490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Artificial financial intelligence in China " ],
+        "subject" : [ "Artificial intelligence -- Financial applications -- China", "Intelligence artificielle -- Applications financières -- Chine", "Artificial intelligence -- Financial applications", "China" ],
+        "format" : [ "1 online resource : illustrations (chiefly color)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9789811655920;$$CISBN$$V9811655928;$$COCLC$$V(OCoLC)1281582774;$$CISBN$$V981165591X;$$CISBN$$V9789811655913" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Zhao, Dawei, author.$$QZhao, Dawei" ],
+        "publisher" : [ "Singapore : Springer" ],
+        "description" : [ "This book starts from the application scenarios of artificial financial intelligence regulation, commercial banking, wealth management and payments, etc., and makes a detailed study of the main scenarios of the application of China's artificial intelligence in the financial field, and also analysis specific application cases of China. With the popularization of smart phones and the rapid development of e-commerce, mobile payment, big data and other technologies are in the ascendant in China in recent years. In particular, artificial intelligence technologies in the form of facial, speech and semantic recognition are showing preliminary advantages in the field of FinTech, and the future era of Intelligent Finance has quietly come. The Chinese government has clearly put forward \"China should rely on a robust cycle of domestic demand and innovation as the main driver of the economy while maintaining foreign markets and investors as a second engine of growth\", science and technology innovation is the basic motivation of economic and social cycle, to implement the \" dual circulation strategy \", it is necessary to understand the key role of scientific and technological innovation in financial innovation services, and improve financial services must be driven by science and technology. There is a natural relationship between artificial intelligence and financial services, because financial services are credit and information intermediaries, and data is the most critical for finance, while artificial intelligence has a super ability in dealing with complex data. At present, many Chinese Banks have applied artificial intelligence to their daily operations and management, such as accurate customer identification, enhanced process tracking, intelligent marketing, and product process transformation, so as to simplify financial service processes and shorten service cycles. In General, this book both pays attention to practical application and theoretical, which is a useful reference book in theoretical research and practical work, and also helps readers to understand the application of intelligent finance in China" ],
+        "mms" : [ "990084340490107871" ],
+        "contributor" : [ "Zhang, Wenting, author.$$QZhang, Wenting" ],
+        "series" : [ "Financial mathematics and FinTech, 2662-7175$$QFinancial mathematics and FinTech", "Financial mathematics and FinTech. 2662-7175$$QFinancial mathematics and FinTech." ],
+        "contents" : [ "Chapter 1. FinTech towards Intelligent Finance -- Chapter 2. Scientific and Technological Supervision of Artificial Intelligence -- Chapter 3. Technical Path of Artificial Intelligence Compliance Efficiency -- Chapter 4. Smart Payment in China .-Chapter 5. Opportunities, Risks and Breakdowns Brought by AI to Commercial Banks -- Chapter 6. Robo-advisor and Expert Advisor -- Chapter 7. Intelligent Finance Wealth Management in China .-Chapter 8. Intelligent Finance in China's Financial Market." ],
+        "relation" : [ "$$Cform$$VPrint version: Zhao, Dawei. Artificial financial intelligence in China. Singapore : Springer, [2021]$$QArtificial financial intelligence in China." ],
+        "place" : [ "Singapore :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008434049" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084340490107871" ],
+        "recordid" : [ "alma990084340490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008434049-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zhao" ],
+        "aufirst" : [ "Dawei" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Zhao, Dawei" ],
+        "addau" : [ "Zhang, Wenting" ],
+        "creatorfull" : [ "$$NZhao, Dawei$$LZhao$$FDawei$$Rauthor" ],
+        "contributorfull" : [ "$$NZhang, Wenting$$LZhang$$FWenting$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9789811655920", "9811655928", "981165591X", "9789811655913" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book starts from the application scenarios of artificial financial intelligence regulation, commercial banking, wealth management and payments, etc., and makes a detailed study of the main scenarios of the application of China's artificial intelligence in the financial field, and also analysis specific application cases of China. With the popularization of smart phones and the rapid development of e-commerce, mobile payment, big data and other technologies are in the ascendant in China in recent years. In particular, artificial intelligence technologies in the form of facial, speech and semantic recognition are showing preliminary advantages in the field of FinTech, and the future era of Intelligent Finance has quietly come. The Chinese government has clearly put forward \"China should rely on a robust cycle of domestic demand and innovation as the main driver of the economy while maintaining foreign markets and investors as a second engine of growth\", science and technology innovation is the basic motivation of economic and social cycle, to implement the \" dual circulation strategy \", it is necessary to understand the key role of scientific and technological innovation in financial innovation services, and improve financial services must be driven by science and technology. There is a natural relationship between artificial intelligence and financial services, because financial services are credit and information intermediaries, and data is the most critical for finance, while artificial intelligence has a super ability in dealing with complex data. At present, many Chinese Banks have applied artificial intelligence to their daily operations and management, such as accurate customer identification, enhanced process tracking, intelligent marketing, and product process transformation, so as to simplify financial service processes and shorten service cycles. In General, this book both pays attention to practical application and theoretical, which is a useful reference book in theoretical research and practical work, and also helps readers to understand the application of intelligent finance in China" ],
+        "cop" : [ "Singapore" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1281582774" ],
+        "doi" : [ "10.1007/978-981-16-5592-0" ],
+        "seriestitle" : [ "Financial mathematics and FinTech" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Artificial financial intelligence in China" ]
+      },
+      "sort" : {
+        "title" : [ "Artificial financial intelligence in China /" ],
+        "author" : [ "Zhao, Dawei, author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084340490107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084340490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9811655928,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg#4515.5ǂ z53 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "145",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "94",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "38",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "86",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "90",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "458",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 492,
+    "COMBINED_SEARCH_TIME" : 496,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artificial Intelligence Financial Applications",
+      "count" : "1"
+    }, {
+      "value" : "Artificial Intelligence Financial Applications China",
+      "count" : "1"
+    }, {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Intelligence Artificielle Applications Financières Chine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Zhang Wenting",
+      "count" : "1"
+    }, {
+      "value" : "Zhao Dawei",
+      "count" : "1"
+    } ]
+  } ]
+}

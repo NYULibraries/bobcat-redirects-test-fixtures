@@ -1,0 +1,272 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995617795207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of critical globalisation studies." ],
+        "subject" : [ "Globalization$$QGlobalization -- Periodicals", "International relations$$QInternational relations -- Periodicals", "World politics$$QWorld politics -- Periodicals", "Globalization", "International relations", "World politics", "globalisation", "critical theory", "globalization" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2012267003;$$COCLC$$V(OCoLC)753921162;$$CISSN$$V2040-8498" ],
+        "creationdate" : [ "2009 - 2014" ],
+        "publisher" : [ "London : Journal of Critical Globalisation Studies", "Began with issue 1 (2009); ceased with issue 7 (2014)." ],
+        "description" : [ "The Journal of Critical Globalisation Studies is a peer-reviewed, open-access journal that invites contributors to challenge dominant ideas of globalisation and ideas that globalisation is a singular and even process, or that globalisation is somehow being reversed leading to a supposed resurgence in the traditional territorial nation-state. The aim of the journal is to understand globalisation from a variety of different and overlapping perspectives: economic, political, philosophical, cultural, geographical, social, and historical, amongst many others." ],
+        "mms" : [ "9995617795207871" ],
+        "contributor" : [ "British International Studies Association. Working Group Global and Transnational Politics.$$QBritish International Studies Association. Working Group Global and Transnational Politics.", "Global Studies Association.$$QGlobal Studies Association." ],
+        "addtitle" : [ "JCGS" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Clater_title$$VFinance and Society$$QFinance and Society$$Z9995623812007871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)2580000000000239" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995617795207871" ],
+        "recordid" : [ "alma9995617795207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "992580000000000239" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "JCGS" ],
+        "date" : [ "2009 - 2014" ],
+        "issn" : [ "2040-8498" ],
+        "abstract" : [ "The Journal of Critical Globalisation Studies is a peer-reviewed, open-access journal that invites contributors to challenge dominant ideas of globalisation and ideas that globalisation is a singular and even process, or that globalisation is somehow being reversed leading to a supposed resurgence in the traditional territorial nation-state. The aim of the journal is to understand globalisation from a variety of different and overlapping perspectives: economic, political, philosophical, cultural, geographical, social, and historical, amongst many others." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Journal of Critical Globalisation Studies" ],
+        "oclcid" : [ "(ocolc)753921162" ],
+        "lccn" : [ "2012267003" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of critical globalisation studies." ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of critical globalisation studies." ],
+        "author" : [ "British International Studies Association. Working Group Global and Transnational Politics." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617795207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617795207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617795207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617795207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995617795207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2012267003&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jz#1318ǂ j715 online 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "264",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "160",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "45",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "135",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "622",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 656,
+    "COMBINED_SEARCH_TIME" : 659,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    }, {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Critical Theory",
+      "count" : "1"
+    }, {
+      "value" : "Globalisation",
+      "count" : "1"
+    }, {
+      "value" : "Globalization",
+      "count" : "1"
+    }, {
+      "value" : "Globalization Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "International Relations",
+      "count" : "1"
+    }, {
+      "value" : "International Relations Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "World Politics",
+      "count" : "1"
+    }, {
+      "value" : "World Politics Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "British International Studies Association Working Group Global And Transnational Politics",
+      "count" : "1"
+    }, {
+      "value" : "Global Studies Association",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

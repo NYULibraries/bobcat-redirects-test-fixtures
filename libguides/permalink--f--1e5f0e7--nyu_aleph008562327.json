@@ -1,0 +1,203 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085623270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "How to Fast-Track Your Academic Career A Guide for Mid-Career Scholars." ],
+        "subject" : [ "College teachers -- Vocational guidance" ],
+        "format" : [ "1 online resource (424 p.)." ],
+        "identifier" : [ "$$CISBN$$V9781839101786;$$CISBN$$V1839101784;$$COCLC$$V(OCoLC)1255236633;$$CISBN$$V9781839101779" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Lindgreen, Adam.$$QLindgreen, Adam." ],
+        "publisher" : [ "Cheltenham, Gloucestershire : Edward Elgar Publishing Limited" ],
+        "description" : [ "This insightful book considers the challenges faced by researchers pursuing an academic career. From applying for grants to supervising PhD students, it utilises practical research and real experiences to illustrate how marketing scholars can strike a healthy working balance between teaching and research to find success in academia." ],
+        "mms" : [ "990085623270107871" ],
+        "contributor" : [ "Di Benedetto, C. A.$$QDi Benedetto, C. A.", "Vanhamme, Joëlle.$$QVanhamme, Joëlle." ],
+        "series" : [ "How to Guides$$QHow to Guides", "How to Guides.$$QHow to Guides." ],
+        "relation" : [ "$$Cform$$VPrint version: Lindgreen, Adam How to Fast-Track Your Academic Career Cheltenham, Gloucestershire : Edward Elgar Publishing Limited,c2021$$QHow to Fast-Track Your Academic Career" ],
+        "place" : [ "Cheltenham, Gloucestershire :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "elgareb", "aleph008562327" ],
+        "lds60" : [ "Description based upon print version of record." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085623270107871" ],
+        "recordid" : [ "alma990085623270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008562327-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lindgreen" ],
+        "aufirst" : [ "Adam." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Lindgreen, Adam." ],
+        "addau" : [ "Di Benedetto, C. A.", "Vanhamme, Joëlle." ],
+        "creatorfull" : [ "$$NLindgreen, Adam.$$LLindgreen$$FAdam.$$Rauthor" ],
+        "contributorfull" : [ "$$NDi Benedetto, C. A.$$LDi Benedetto$$FC. A.$$Rcontributor", "$$NVanhamme, Joëlle.$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9781839101786", "1839101784", "9781839101779" ],
+        "abstract" : [ "This insightful book considers the challenges faced by researchers pursuing an academic career. From applying for grants to supervising PhD students, it utilises practical research and real experiences to illustrate how marketing scholars can strike a healthy working balance between teaching and research to find success in academia." ],
+        "cop" : [ "Cheltenham, Gloucestershire" ],
+        "pub" : [ "Edward Elgar Publishing Limited" ],
+        "oclcid" : [ "(ocolc)1255236633" ],
+        "seriestitle" : [ "How to Guides" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "How to Fast-Track Your Academic Career A Guide for Mid-Career Scholars." ]
+      },
+      "sort" : {
+        "title" : [ "How to Fast-Track Your Academic Career A Guide for Mid-Career Scholars." ],
+        "author" : [ "Lindgreen, Adam." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085623270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1839101784,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#1778ǂ h69 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "122",
+    "CALL_SOLR_GET_IDS_LIST" : "116",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "62",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "6",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "58",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "101",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "413",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 439,
+    "COMBINED_SEARCH_TIME" : 441,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "College Teachers Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Di Benedetto C A",
+      "count" : "1"
+    }, {
+      "value" : "Lindgreen Adam",
+      "count" : "1"
+    }, {
+      "value" : "Vanhamme Joëlle",
+      "count" : "1"
+    } ]
+  } ]
+}

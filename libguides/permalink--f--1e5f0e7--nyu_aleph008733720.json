@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990087337200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Managing robotics in retail : a service systems perspective " ],
+        "subject" : [ "Commerce de détail -- Innovations", "Retail trade -- Technological innovations", "Robots" ],
+        "format" : [ "1 online resource : illustrations." ],
+        "identifier" : [ "$$CISBN$$V9783658375003;$$CISBN$$V3658375000;$$COCLC$$V(OCoLC)1319075880;$$CISBN$$V3658374993;$$CISBN$$V9783658374990" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Meyer, Patrick, author.$$QMeyer, Patrick" ],
+        "publisher" : [ "Wiesbaden : Springer Gabler" ],
+        "description" : [ "This book answers the question of how to manage service robots in brick-and-mortar dominated retail service systems to allow for key stakeholders adoption and to foster value co-creation. It starts by demonstrating the scientific relevance of the topic as well as deriving a set of promising research questions. After introducing service-dominant logic as a theoretical research lens and elucidating service systems along with their underlying concept of value co-creation as relevant key concepts, five studies are presented. The authors findings show that understanding and differentiating between consensus, shared and idiosyncratic drivers of and barriers to the adoption of service robots in retail service systems by all key stakeholders, i.e. customers, frontstage employees, and retail managers, is crucial to be able to fully cope with the complexity inherent in the adoption of service robots in service organizations. Moreover, the designed and evaluated artifact fosters a paradigm shift from a one-time technology introduction to a continuous technology management approach including iterations of experimenting, piloting, and implementing. About the author Patrick Meyer graduated from Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU) and Sungkyunkwan University, South Korea, with a Master of Science in Industrial Engineering. In 2021, he received his doctoral degree from FAU. Since 2022 Patrick Meyer works as a managing consultant and is an independent postdoctoral researcher at FAU. ." ],
+        "mms" : [ "990087337200107871" ],
+        "series" : [ "Gabler research. Markets and organisations.$$QGabler research.", "Markt- und Unternehmensentwicklung = Markets and organisations$$QMarkt- und Unternehmensentwicklung = Markets and organisations" ],
+        "contents" : [ "Motivation -- Relevance -- Overall research design -- Structure of the dissertation -- Goal and structure -- Service-dominant logic as a research lens -- Service systems as a unit of analysis -- Frontstage service technology adoption -- Conclusion and summary -- Goal and structure -- Towards a definition for service robots -- Sub-study 1a: State of technology -- Sub-study 1b: State of knowledge -- Discussion and implications -- Conclusion and summary -- Goal and structure -- Conceptual background: Customers access to value propositions -- Sub-study 2a: Experimental field study -- Sub-study 2b: Exploratory interview study -- Sub-study 2c: Short survey and questionnaire -- Sub-study 2d: Scale development -- Discussion and implications -- Conclusion and summary -- Goal and structure -- Conceptual background: Frontstage service technologies -- Sub-study 3a: Exploratory interview study -- Sub-study 3b: Scale development -- Discussion and implications -- Conclusion and summary -- Objective and structure -- Conceptual background: Retail managers boundary role -- Research design: Exploratory interview study -- Findings -- Discussion and implications -- Conclusion and summary -- Goal and structure -- Conceptual background: Synthesized key insights -- Research design -- Requirement derivation -- Initial design of the artifact MARIE." ],
+        "relation" : [ "$$Cform$$VOriginal" ],
+        "place" : [ "Wiesbaden :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008733720" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990087337200107871" ],
+        "recordid" : [ "alma990087337200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008733720-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Meyer" ],
+        "aufirst" : [ "Patrick" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Meyer, Patrick" ],
+        "creatorfull" : [ "$$NMeyer, Patrick$$LMeyer$$FPatrick$$Rauthor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9783658375003", "3658375000", "3658374993", "9783658374990" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book answers the question of how to manage service robots in brick-and-mortar dominated retail service systems to allow for key stakeholders adoption and to foster value co-creation. It starts by demonstrating the scientific relevance of the topic as well as deriving a set of promising research questions. After introducing service-dominant logic as a theoretical research lens and elucidating service systems along with their underlying concept of value co-creation as relevant key concepts, five studies are presented. The authors findings show that understanding and differentiating between consensus, shared and idiosyncratic drivers of and barriers to the adoption of service robots in retail service systems by all key stakeholders, i.e. customers, frontstage employees, and retail managers, is crucial to be able to fully cope with the complexity inherent in the adoption of service robots in service organizations. Moreover, the designed and evaluated artifact fosters a paradigm shift from a one-time technology introduction to a continuous technology management approach including iterations of experimenting, piloting, and implementing. About the author Patrick Meyer graduated from Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU) and Sungkyunkwan University, South Korea, with a Master of Science in Industrial Engineering. In 2021, he received his doctoral degree from FAU. Since 2022 Patrick Meyer works as a managing consultant and is an independent postdoctoral researcher at FAU. ." ],
+        "cop" : [ "Wiesbaden" ],
+        "pub" : [ "Springer Gabler" ],
+        "oclcid" : [ "(ocolc)1319075880" ],
+        "doi" : [ "10.1007/978-3-658-37500-3" ],
+        "seriestitle" : [ "Markt- und Unternehmensentwicklung = Markets and organisations" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Managing robotics in retail : a service systems perspective" ]
+      },
+      "sort" : {
+        "title" : [ "Managing robotics in retail : a service systems perspective /" ],
+        "author" : [ "Meyer, Patrick, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087337200107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087337200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3658375000,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tj\"211",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "320",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 358,
+    "COMBINED_SEARCH_TIME" : 361,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Commerce De Détail Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Retail Trade Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Robots",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Meyer Patrick",
+      "count" : "1"
+    } ]
+  } ]
+}

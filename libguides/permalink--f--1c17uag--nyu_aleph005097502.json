@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050975020107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A companion to epistemology " ],
+        "subject" : [ "Théorie de la connaissance", "epistemology", "PHILOSOPHY -- Epistemology", "Knowledge, Theory of", "Erkenntnistheorie", "Speculative Philosophy", "Philosophy", "Philosophy & Religion" ],
+        "format" : [ "1 online resource (xxiii, 799 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781444315080;$$CISBN$$V1405139005;$$CISBN$$V9781444315097;$$CISBN$$V1444315099;$$COCLC$$V(OCoLC)587391447;$$CISBN$$V1444315080;$$CISBN$$V9781405139007" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "Chichester, West Sussex, U.K. ; Malden, MA : Wiley-Blackwell" ],
+        "description" : [ "With nearly 300 entries on key concepts, review essays on central issues, and self-profiles by leading scholars, this companion is the most comprehensive and up-to-date single volume reference guide to epistemology. Epistemology from A-Z is comprised of 296 articles on important epistemological concepts that have been extensively revised to bring the volume up-to-date, with many new and re-written entries reflecting developments in the fieldIncludes 20 new self-profiles by leading epistemologistsContains 10 new review essays on central issues of epistemology." ],
+        "mms" : [ "990050975020107871" ],
+        "contributor" : [ "Dancy, Jonathan.$$QDancy, Jonathan.", "Sosa, Ernest.$$QSosa, Ernest.", "Steup, Matthias.$$QSteup, Matthias." ],
+        "edition" : [ "2nd ed." ],
+        "series" : [ "Blackwell companions to philosophy$$QBlackwell companions to philosophy", "Blackwell companions to philosophy.$$QBlackwell companions to philosophy." ],
+        "contents" : [ "Preface to the first edition -- Preface to the second edition -- Part I: Ten review essays -- Part II: Twenty epistemological self-profiles -- Part III: Epistemology from A-Z." ],
+        "relation" : [ "$$Cform$$VA Companion to Epistemology$$Z9995666769507871", "$$Cform$$VPrint version: Companion to epistemology 2nd ed. Chichester, West Sussex, U.K. ; Malden, MA : Wiley-Blackwell, 2010$$Z990033338940107871" ],
+        "place" : [ "Chichester, West Sussex, U.K. ; Malden, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebcacls", "ebceb", "wileyeb", "aleph005097502" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050975020107871" ],
+        "recordid" : [ "alma990050975020107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005097502-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dancy", "Sosa", "Steup" ],
+        "aufirst" : [ "Jonathan.", "Ernest.", "Matthias." ],
+        "auinit" : [ "J", "E", "M" ],
+        "addau" : [ "Dancy, Jonathan.", "Sosa, Ernest.", "Steup, Matthias." ],
+        "contributorfull" : [ "$$NDancy, Jonathan.$$LDancy$$FJonathan.$$Rcontributor", "$$NSosa, Ernest.$$Rcontributor", "$$NSteup, Matthias.$$Rcontributor" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9781444315080", "1405139005", "9781444315097", "1444315099", "1444315080", "9781405139007" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "With nearly 300 entries on key concepts, review essays on central issues, and self-profiles by leading scholars, this companion is the most comprehensive and up-to-date single volume reference guide to epistemology. Epistemology from A-Z is comprised of 296 articles on important epistemological concepts that have been extensively revised to bring the volume up-to-date, with many new and re-written entries reflecting developments in the fieldIncludes 20 new self-profiles by leading epistemologistsContains 10 new review essays on central issues of epistemology." ],
+        "cop" : [ "Chichester, West Sussex, U.K. ;" ],
+        "pub" : [ "Wiley-Blackwell" ],
+        "oclcid" : [ "(ocolc)587391447" ],
+        "doi" : [ "10.1002/9781444315080" ],
+        "edition" : [ "2nd ed." ],
+        "seriestitle" : [ "Blackwell companions to philosophy" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A companion to epistemology" ]
+      },
+      "sort" : {
+        "title" : [ "companion to epistemology /" ],
+        "author" : [ "Dancy, Jonathan." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975020107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975020107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050975020107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1444315099,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bd\"161ǂ c637 2010eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "421",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "107",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "127",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "698",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 727,
+    "COMBINED_SEARCH_TIME" : 731,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Epistemology",
+      "count" : "1"
+    }, {
+      "value" : "Erkenntnistheorie",
+      "count" : "1"
+    }, {
+      "value" : "Knowledge Theory Of",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Epistemology",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Religion",
+      "count" : "1"
+    }, {
+      "value" : "Speculative Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Théorie De La Connaissance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dancy Jonathan",
+      "count" : "1"
+    }, {
+      "value" : "Sosa Ernest",
+      "count" : "1"
+    }, {
+      "value" : "Steup Matthias",
+      "count" : "1"
+    } ]
+  } ]
+}

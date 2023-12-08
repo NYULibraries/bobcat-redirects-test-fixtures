@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990024403510107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Guide to the principal Parliamentary papers relating to the Dominions, 1812-1911" ],
+        "subject" : [ "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Bibliography", "Great Britain -- Colonies$$QGreat Britain -- Colonies -- Bibliography", "Great Britain -- Colonies -- Administration" ],
+        "format" : [ "viii, 190 p. 21 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)827396" ],
+        "creationdate" : [ "1913" ],
+        "creator" : [ "Adam, Margaret Isabella.$$QAdam, Margaret Isabella." ],
+        "publisher" : [ "Edinburgh, Oliver and Boyd, Ann Arbor, Mich., University Microfilms" ],
+        "mms" : [ "990024403510107871" ],
+        "contributor" : [ "Munro, James F.$$QMunro, James F.", "Ewing, John.$$QEwing, John." ],
+        "addtitle" : [ "Parliamentary papers relating to the Dominions, 1812-1911." ],
+        "contents" : [ "Parliamentary papers relating to: Canada; Newfoundland; Australia; New Zealand; South Africa; Emigration and colonisation; Dominions (miscellaneous)--Colonial secretaries, 1812-1911.--Index." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Edinburgh, Ann Arbor, Mich.," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002440351" ],
+        "lds53" : [ "002440351" ],
+        "lds60" : [ "\"Authorized facsimile ... produced ... by microfilm-xerography.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990024403510107871" ],
+        "recordid" : [ "alma990024403510107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002440351-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Adam" ],
+        "aufirst" : [ "Margaret Isabella." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Adam, Margaret Isabella." ],
+        "addau" : [ "Munro, James F.", "Ewing, John." ],
+        "creatorfull" : [ "$$NAdam, Margaret Isabella.$$LAdam$$FMargaret Isabella.$$Rauthor" ],
+        "contributorfull" : [ "$$NMunro, James F.$$LMunro$$FJames F.$$Rcontributor", "$$NEwing, John.$$Rcontributor" ],
+        "date" : [ "1973", "1913" ],
+        "cop" : [ "Edinburgh" ],
+        "pub" : [ "Oliver and Boyd" ],
+        "oclcid" : [ "(ocolc)827396" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Guide to the principal Parliamentary papers relating to the Dominions, 1812-1911" ]
+      },
+      "sort" : {
+        "title" : [ "Guide to the principal Parliamentary papers relating to the Dominions, 1812-1911," ],
+        "author" : [ "Adam, Margaret Isabella." ],
+        "creationdate" : [ "1973" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990024403510107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:827396,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "64",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "207",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "397",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 429,
+    "COMBINED_SEARCH_TIME" : 431,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1913",
+      "count" : "1"
+    }, {
+      "value" : "1973",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Publications Great Britain Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Colonies Administration",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Colonies Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Adam Margaret Isabella",
+      "count" : "1"
+    }, {
+      "value" : "Ewing John",
+      "count" : "1"
+    }, {
+      "value" : "Munro James F",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

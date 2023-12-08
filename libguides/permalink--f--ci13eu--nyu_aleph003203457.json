@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032034570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "African, Asian, and Middle Eastern artists : signatures and monograms from 1800 : a directory " ],
+        "subject" : [ "Artists' marks -- Africa$$QArtists' marks -- Africa -- Directories", "Artists' marks -- Asia$$QArtists' marks -- Asia -- Directories", "Artists' marks -- Middle East$$QArtists' marks -- Middle East -- Directories", "Artists -- Middle East$$QArtists -- Middle East -- Autographs", "Artists -- Africa$$QArtists -- Africa -- Autographs", "Artists -- Asia$$QArtists -- Asia -- Autographs", "Monograms$$QMonograms -- Directories" ],
+        "format" : [ "xv, 133 p. ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V2008044496;$$CISBN$$V9780810863576 (cloth : alk. paper);$$CISBN$$V081086357X (cloth : alk. paper);$$COCLC$$V(OCoLC)263065385" ],
+        "creationdate" : [ "c2009" ],
+        "creator" : [ "Castagno, John, 1930-$$QCastagno, John" ],
+        "publisher" : [ "Lanham, Md. : Scarecrow Press" ],
+        "mms" : [ "990032034570107871" ],
+        "genre" : [ "Autographs", "Directories" ],
+        "place" : [ "Lanham, Md. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003203457" ],
+        "lds53" : [ "003203457" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032034570107871" ],
+        "recordid" : [ "alma990032034570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003203457-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Castagno" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Castagno, John" ],
+        "creatorfull" : [ "$$NCastagno, John$$LCastagno$$FJohn$$Rauthor" ],
+        "date" : [ "2009", "c2009" ],
+        "isbn" : [ "9780810863576", "081086357X" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Lanham, Md" ],
+        "pub" : [ "Scarecrow Press" ],
+        "oclcid" : [ "(ocolc)263065385" ],
+        "lccn" : [ "2008044496" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "African, Asian, and Middle Eastern artists : signatures and monograms from 1800 : a directory" ]
+      },
+      "sort" : {
+        "title" : [ "African, Asian, and Middle Eastern artists : signatures and monograms from 1800 : a directory /" ],
+        "author" : [ "Castagno, John, 1930-" ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990032034570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:081086357X,OCLC:,LCCN:2008044496&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n!45ǂ c369 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "60",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "56",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "240",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 268,
+    "COMBINED_SEARCH_TIME" : 270,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artists Africa Autographs",
+      "count" : "1"
+    }, {
+      "value" : "Artists Asia Autographs",
+      "count" : "1"
+    }, {
+      "value" : "Artists Marks Africa Directories",
+      "count" : "1"
+    }, {
+      "value" : "Artists Marks Asia Directories",
+      "count" : "1"
+    }, {
+      "value" : "Artists Marks Middle East Directories",
+      "count" : "1"
+    }, {
+      "value" : "Artists Middle East Autographs",
+      "count" : "1"
+    }, {
+      "value" : "Monograms Directories",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Castagno John",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

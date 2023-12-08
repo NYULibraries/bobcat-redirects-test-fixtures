@@ -1,0 +1,304 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062125770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ties that bind : the story of an Afro-Cherokee family in slavery and freedom " ],
+        "subject" : [ "Cherokee Indians -- History -- 19th century", "Cherokee Indians -- Kinship", "Enslaved Indians -- Georgia -- History -- 19th century", "African Americans -- Georgia", "African Americans -- Kinship -- Georgia", "Black people -- Georgia -- Relations with Indians", "Cherokee -- Histoire -- 19e siècle", "Métis cherokee", "Cherokee -- Parenté", "Esclaves des Peuples autochtones -- Géorgie (État) -- Histoire -- 19e siècle", "Noirs américains -- Géorgie (État)", "Noirs américains -- Parenté -- Géorgie (État)", "Personnes noires -- Géorgie (État) -- Relations avec les Peuples autochtones", "HISTORY -- United States -- State & Local -- South (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)", "African Americans", "Black people -- Relations with Indians", "Cherokee Indians", "Cherokee Indians -- Mixed descent", "Enslaved Indians", "Georgia", "1800-1899" ],
+        "format" : [ "1 online resource (xxxi, 368 pages) : illustrations, maps", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780520961029;$$CISBN$$V0520961021;$$COCLC$$V(OCoLC)910160054;$$CISBN$$V9780520285637" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Miles, Tiya, 1970- author.$$QMiles, Tiya" ],
+        "publisher" : [ "Oakland, California : University of California Press" ],
+        "description" : [ "\"This beautifully written book tells the haunting saga of a quintessentially American family. It is the story of Shoe Boots, a famed Cherokee warrior and successful farmer, and Doll, an African slave he acquired in the late 1790s. Over the next thirty years, Shoe Boots and Doll lived together as master and slave and also as lifelong partners who, with their children and grandchildren, experienced key events in American history--including slavery, the Creek War, the founding of the Cherokee Nation and subsequent removal of Native Americans along the Trail of Tears, and the Civil War. This is the gripping story of their lives, in slavery and in freedom\"--Provided by publisher" ],
+        "mms" : [ "990062125770107871" ],
+        "addtitle" : [ "Story of an Afro-Cherokee family in slavery and freedom" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "American crossroads ; 14$$QAmerican crossroads ", "American crossroads ; 14.$$QAmerican crossroads " ],
+        "contents" : [ "Captivity -- Slavery -- Motherhood -- Property -- Christianity -- Nationhood -- Gold rush -- Removal -- Capture -- Freedom -- Epilogue : citizenship -- Coda : the Shoeboots family today." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Miles, Tiya, 1970- Ties that bind. Second edition. Oakland, California : University of California Press, [2015]$$QTies that bind.$$Z990041713950107871", "$$Cform$$VTies that bind : the story of an Afro-Cherokee family in slavery and freedom$$Z9995722919807871" ],
+        "place" : [ "Oakland, California :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "jstoreba", "oxfacad", "pmusebp", "aleph006212577" ],
+        "lds60" : [ "Originally published: 2005.", "\"George Gund Foundation imprint in African American studies.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062125770107871" ],
+        "recordid" : [ "alma990062125770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006212577-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Miles" ],
+        "aufirst" : [ "Tiya" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Miles, Tiya" ],
+        "creatorfull" : [ "$$NMiles, Tiya$$LMiles$$FTiya$$Rauthor" ],
+        "addtitle" : [ "Story of an Afro-Cherokee family in slavery and freedom" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9780520961029", "0520961021", "9780520285637" ],
+        "notes" : [ "Includes bibliographical references (pages 335-353) and index." ],
+        "abstract" : [ "\"This beautifully written book tells the haunting saga of a quintessentially American family. It is the story of Shoe Boots, a famed Cherokee warrior and successful farmer, and Doll, an African slave he acquired in the late 1790s. Over the next thirty years, Shoe Boots and Doll lived together as master and slave and also as lifelong partners who, with their children and grandchildren, experienced key events in American history--including slavery, the Creek War, the founding of the Cherokee Nation and subsequent removal of Native Americans along the Trail of Tears, and the Civil War. This is the gripping story of their lives, in slavery and in freedom\"--Provided by publisher" ],
+        "cop" : [ "Oakland, California" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)910160054" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "American crossroads ; 14" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ties that bind : the story of an Afro-Cherokee family in slavery and freedom" ]
+      },
+      "sort" : {
+        "title" : [ "Ties that bind : the story of an Afro-Cherokee family in slavery and freedom /" ],
+        "author" : [ "Miles, Tiya, 1970- author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062125770107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062125770107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062125770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062125770107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062125770107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0520961021,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e!99 c5ǂm553 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "506",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "205",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "125",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "68",
+    "RETRIVE_FROM_DB_RELATIONS" : "69",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "164",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "915",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 942,
+    "COMBINED_SEARCH_TIME" : 945,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1800 1899",
+      "count" : "1"
+    }, {
+      "value" : "African Americans",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Georgia",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Kinship Georgia",
+      "count" : "1"
+    }, {
+      "value" : "Black People Georgia Relations With Indians",
+      "count" : "1"
+    }, {
+      "value" : "Black People Relations With Indians",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Histoire 19e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Indians",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Indians History 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Indians Kinship",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Indians Mixed Descent",
+      "count" : "1"
+    }, {
+      "value" : "Cherokee Parenté",
+      "count" : "1"
+    }, {
+      "value" : "Enslaved Indians",
+      "count" : "1"
+    }, {
+      "value" : "Enslaved Indians Georgia History 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "Esclaves Des Peuples Autochtones Géorgie État Histoire 19e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Georgia",
+      "count" : "1"
+    }, {
+      "value" : "History United States State Local South Al Ar Fl Ga Ky La Ms Nc Sc Tn Va Wv",
+      "count" : "1"
+    }, {
+      "value" : "Métis Cherokee",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Géorgie État",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Parenté Géorgie État",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Miles Tiya",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

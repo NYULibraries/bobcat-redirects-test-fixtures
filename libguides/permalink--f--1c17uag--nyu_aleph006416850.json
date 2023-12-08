@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990064168500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Historical dictionary of African American theater " ],
+        "subject" : [ "African American theater$$QAfrican American theater -- Dictionaries", "PERFORMING ARTS -- Theater -- General", "African American theater" ],
+        "format" : [ "1 online resource (xxxvi, 699 pages)" ],
+        "identifier" : [ "$$CLC$$V2018017017;$$CISBN$$V9781538117293;$$CISBN$$V1538117290;$$COCLC$$V(OCoLC)1031040635;$$CISBN$$V9781538117286" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Hill, Anthony D., 1947- author.$$QHill, Anthony D." ],
+        "publisher" : [ "Lanham, Maryland : Rowman & Littlefield" ],
+        "description" : [ "\"Contains a chronology, introduction, list of acronyms and abbreviations, in-depth chronology, appendixes, and more than 700 cross-references dictionary entries on African American theater\"-- Provided by publisher." ],
+        "mms" : [ "990064168500107871" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "Historical dictionaries of literature and the arts$$QHistorical dictionaries of literature and the arts", "Historical dictionaries of literature and the arts.$$QHistorical dictionaries of literature and the arts." ],
+        "contents" : [ "Introduction -- THE DICTIONARY -- Show Subsections -- Appendix A -- Appendix B -- Appendix C -- Appendix D -- Appendix E -- Appendix F -- Appendix G -- Appendix H -- Bibliography -- About the Author." ],
+        "genre" : [ "Dictionaries" ],
+        "relation" : [ "$$Cform$$VPrint version: Hill, Anthony D., 1947- Historical dictionary of African American theater. Second edition. Lanham, Maryland : Rowman & Littlefield, [2018]$$QHistorical dictionary of African American theater." ],
+        "place" : [ "Lanham, Maryland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph006416850" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990064168500107871" ],
+        "recordid" : [ "alma990064168500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006416850-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hill" ],
+        "aufirst" : [ "Anthony D." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Hill, Anthony D." ],
+        "creatorfull" : [ "$$NHill, Anthony D.$$LHill$$FAnthony D.$$Rauthor" ],
+        "date" : [ "2018 - 2018", "2018" ],
+        "isbn" : [ "9781538117293", "1538117290", "9781538117286" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Contains a chronology, introduction, list of acronyms and abbreviations, in-depth chronology, appendixes, and more than 700 cross-references dictionary entries on African American theater\"-- Provided by publisher." ],
+        "cop" : [ "Lanham, Maryland" ],
+        "pub" : [ "Rowman & Littlefield" ],
+        "oclcid" : [ "(ocolc)1031040635" ],
+        "lccn" : [ "2018017017" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "Historical dictionaries of literature and the arts" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Historical dictionary of African American theater" ]
+      },
+      "sort" : {
+        "title" : [ "Historical dictionary of African American theater /" ],
+        "author" : [ "Hill, Anthony D., 1947- author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064168500107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064168500107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064168500107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064168500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064168500107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1538117290,OCLC:,LCCN:2018017017&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2270 a35ǂh53 2018eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "168",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "182",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "96",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "7",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "152",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "113",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "593",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 622,
+    "COMBINED_SEARCH_TIME" : 624,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Theater",
+      "count" : "1"
+    }, {
+      "value" : "African American Theater Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hill Anthony D",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

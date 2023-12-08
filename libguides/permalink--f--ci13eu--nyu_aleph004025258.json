@@ -1,0 +1,265 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990040252580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Luxury : fashion, lifestyle and excess " ],
+        "subject" : [ "Luxury -- Social aspects", "Luxe -- Aspect social", "Produits de luxe -- Aspect social", "POLITICAL SCIENCE -- Public Policy -- Cultural Policy", "SOCIAL SCIENCE -- Anthropology -- Cultural", "SOCIAL SCIENCE -- Popular Culture", "Consumption (Economics) -- Social aspects", "Fashion -- Social aspects", "Luxuries -- Social aspects" ],
+        "format" : [ "1 online resource (ix, 116 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780857853325;$$CISBN$$V0857853325;$$CISBN$$V9781306729819;$$CISBN$$V1306729815;$$COCLC$$V(OCoLC)869281840;$$CISBN$$V9780857853318" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Calefato, Patrizia, author.$$QCalefato, Patrizia" ],
+        "publisher" : [ "London : Bloomsbury" ],
+        "description" : [ "Luxury has been both celebrated and condemned throughout history right up to the present day. This groundbreaking text examines luxury and its relationship with desire, status, consumption and economic value, exploring why luxury remains prominent even in the context of a global recession. Using approaches from cultural studies, semiotic research and aesthetics, Luxury presents a wide range of case studies including urban space and new technologies, travel, interior design, cars, fashion ads and jewellery to explore what luxury represents, and why, in the contemporary world. The book will be e ..." ],
+        "mms" : [ "990040252580107871" ],
+        "contents" : [ "Luxury; Contents; Illustrations; Acknowledgment; Introduction; 1 Uniqueness; 2 Wastefulness; 3 Eternity; 4 Leisure and Travel; 5 Wellness; Conclusion; Notes; Bibliography; Filmography; Index." ],
+        "relation" : [ "$$Cform$$VLuxury : fashion, lifestyles and excess$$Z9995673656107871", "$$Cform$$VPrint version: Calefato, Patrizia. Lusso. English. Luxury. London : Bloomsbury, 2014$$QLuxury.$$Z990040216660107871" ],
+        "unititle" : [ "Lusso. English" ],
+        "includes" : [ "Calefato, Patrizia, Lusso. English$$QCalefato, Patrizia, Lusso. English" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph004025258" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990040252580107871" ],
+        "recordid" : [ "alma990040252580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004025258-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Calefato" ],
+        "aufirst" : [ "Patrizia" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Calefato, Patrizia" ],
+        "creatorfull" : [ "$$NCalefato, Patrizia$$LCalefato$$FPatrizia$$Rauthor" ],
+        "date" : [ "2014 - 2014", "2014" ],
+        "isbn" : [ "9780857853325", "0857853325", "9781306729819", "1306729815", "9780857853318" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Luxury has been both celebrated and condemned throughout history right up to the present day. This groundbreaking text examines luxury and its relationship with desire, status, consumption and economic value, exploring why luxury remains prominent even in the context of a global recession. Using approaches from cultural studies, semiotic research and aesthetics, Luxury presents a wide range of case studies including urban space and new technologies, travel, interior design, cars, fashion ads and jewellery to explore what luxury represents, and why, in the contemporary world. The book will be e ..." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury" ],
+        "oclcid" : [ "(ocolc)869281840" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Luxury : fashion, lifestyle and excess" ]
+      },
+      "sort" : {
+        "title" : [ "Luxury : fashion, lifestyle and excess /" ],
+        "author" : [ "Calefato, Patrizia, author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040252580107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040252580107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040252580107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040252580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040252580107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0857853325,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hb\"841ǂ c2513 2014eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "392",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "110",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "70",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "61",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "81",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "97",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "697",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 729,
+    "COMBINED_SEARCH_TIME" : 731,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Consumption Economics Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Luxe Aspect Social",
+      "count" : "1"
+    }, {
+      "value" : "Luxuries Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Luxury Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Public Policy Cultural Policy",
+      "count" : "1"
+    }, {
+      "value" : "Produits De Luxe Aspect Social",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Anthropology Cultural",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Popular Culture",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Calefato Patrizia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

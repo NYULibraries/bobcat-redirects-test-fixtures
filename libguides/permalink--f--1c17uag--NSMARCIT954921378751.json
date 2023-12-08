@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995639681507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of the American Planning Association (Online)" ],
+        "subject" : [ "Planning$$QPlanning -- Periodicals", "City planning$$QCity planning -- Periodicals", "Regional planning$$QRegional planning -- Periodicals", "Urbanisme$$QUrbanisme -- Périodiques", "Aménagement du territoire$$QAménagement du territoire -- Périodiques", "Planification$$QPlanification -- Périodiques", "Urban Planning & Development", "City planning", "Planning", "Regional planning", "Ruimtelijke ordening", "URBAN PLANNING", "REGIONAL PLANNING", "PROGRAMME PLANNING", "ECONOMIC PLANNING", "SOCIAL PLANNING" ],
+        "identifier" : [ "$$CLC$$V  2007212684;$$CISSN$$V1939-0130;$$COCLC$$V(OCoLC)38377127;$$CISSN$$V0194-4363" ],
+        "creationdate" : [ "1979-" ],
+        "publisher" : [ "Chicago, IL : American Planning Association", "Began with: Vol. 45, no. 1 (Jan. 1979)." ],
+        "mms" : [ "9995639681507871" ],
+        "contributor" : [ "American Planning Association.$$QAmerican Planning Association.", "Taylor & Francis, issuing body.$$QTaylor & Francis" ],
+        "addtitle" : [ "JAPA", "APA journal" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of the American Institute of Planners$$QJournal of the American Institute of Planners$$Z9995636660907871", "$$Cform$$VLink to related record$$Z990027743480107871" ],
+        "unititle" : [ "Journal of the American Planning Association (Online)" ],
+        "place" : [ "Chicago, IL] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921378751" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995639681507871" ],
+        "recordid" : [ "alma9995639681507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921378751" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "AMERICAN PLANNING ASSOCIATION JOURNAL", "AMERICAN PLANNING ASSOCIATION", "J AM PLANN ASSOC", "J. AM. PLAN. ASSOC" ],
+        "addtitle" : [ "JAPA", "APA journal" ],
+        "date" : [ "1979", "1979-" ],
+        "issn" : [ "1939-0130", "0194-4363" ],
+        "coden" : [ "JAPAD9" ],
+        "cop" : [ "Chicago, IL" ],
+        "pub" : [ "[American Planning Association]" ],
+        "oclcid" : [ "(ocolc)38377127" ],
+        "lccn" : [ "2007212684" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of the American Planning Association (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of the American Planning Association (Online)" ],
+        "author" : [ "American Planning Association." ],
+        "creationdate" : [ "1979" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639681507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639681507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995639681507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007212684&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na#9000ǂ a45",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "535",
+    "CALL_SOLR_GET_IDS_LIST" : "126",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "190",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "187",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "166",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "927",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 954,
+    "COMBINED_SEARCH_TIME" : 957,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1979",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Aménagement Du Territoire Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "City Planning",
+      "count" : "1"
+    }, {
+      "value" : "City Planning Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Economic Planning",
+      "count" : "1"
+    }, {
+      "value" : "Planification Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Planning",
+      "count" : "1"
+    }, {
+      "value" : "Planning Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Programme Planning",
+      "count" : "1"
+    }, {
+      "value" : "Regional Planning",
+      "count" : "1"
+    }, {
+      "value" : "Regional Planning Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Ruimtelijke Ordening",
+      "count" : "1"
+    }, {
+      "value" : "Social Planning",
+      "count" : "1"
+    }, {
+      "value" : "Urban Planning",
+      "count" : "1"
+    }, {
+      "value" : "Urban Planning Development",
+      "count" : "1"
+    }, {
+      "value" : "Urbanisme Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Planning Association",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Francis",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

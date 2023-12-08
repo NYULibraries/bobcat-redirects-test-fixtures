@@ -1,0 +1,249 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045000010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Vital little plans : the short works of Jane Jacobs " ],
+        "subject" : [ "City planning -- United States", "Sociology, Urban -- United States", "Urban policy -- United States", "Jacobs, Jane, 1916-2006", "City planning", "Sociology, Urban", "Urban policy", "United States" ],
+        "format" : [ "xliii, 490 pages : illustrations ; 22 cm" ],
+        "identifier" : [ "$$CLC$$V2016014099;$$CISBN$$V9780399589607;$$CISBN$$V0399589600;$$COCLC$$V(OCoLC)942838380" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Jacobs, Jane, 1916-2006, author.$$QJacobs, Jane" ],
+        "publisher" : [ "New York : Random House" ],
+        "description" : [ "A survey of Jacobs's career in forty short pieces that have never been collected in a single volume: essays, articles, speeches, interviews, and lectures, covering her work in urban and economic planning as well as globalization, feminism, and universal health care." ],
+        "mms" : [ "990045000010107871" ],
+        "contributor" : [ "Zipp, Samuel, editor.$$QZipp, Samuel", "Storring, Nathan, editor.$$QStorring, Nathan" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "Part one: A city naturalist, 1934-1952 -- While arranging verses for a book -- Diamonds in the tough -- Flowers come to town -- Caution, men working -- 30,000 unemployed and 7,000 empty houses in Scranton, neglected city -- Islands the boats pass by -- No virtue in meek conformity -- Part two: City building, 1952-1965 -- Philadelphia's redevelopment: a progress report -- Pavement pounders and Olympians -- The missing link in city redevelopment -- Our \"surplus\" land -- Reason, emotion, pressure: there is no other recipe -- Metropolitan government -- Downtown is for people -- A living network of relationships -- A great unbalance -- The decline of function -- Part three: How new work begins, 1965-1984 -- The self-generating growth of cities -- On civil disobedience -- Strategies for helping cities -- A city getting hooked on the expressway drug -- The real problem of cities -- Can big plans solve the problem of renewal? -- Part four: The ecology of cities, 1984-2000 -- The responsibilities of cities -- Pedaling together -- Foreword to The Death and Life of Great American Cities -- Two ways to live -- First letter to the Consumer Policy Institute -- Women as natural entrepreneurs -- Market nurturing run amok -- Against amalgamation -- Part five: Some patterns of future development, 2000-2006 -- Time and change as neighborhood allies -- Canada's hub cities -- Efficiency and the commons -- The sparrow principle -- Uncovering the economy: a new hypothesis -- The end of the plantation age." ],
+        "unititle" : [ "Works. Selections" ],
+        "includes" : [ "Jacobs, Jane, 1916-2006, Works. Selections$$QJacobs, Jane, 1916-2006, Works. Selections" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004500001" ],
+        "lds53" : [ "004500001" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045000010107871" ],
+        "recordid" : [ "alma990045000010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004500001-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jacobs" ],
+        "aufirst" : [ "Jane" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Jacobs, Jane" ],
+        "addau" : [ "Zipp, Samuel", "Storring, Nathan" ],
+        "creatorfull" : [ "$$NJacobs, Jane$$LJacobs$$FJane$$Rauthor" ],
+        "contributorfull" : [ "$$NZipp, Samuel$$LZipp$$FSamuel$$Reditor", "$$NStorring, Nathan$$Reditor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9780399589607", "0399589600" ],
+        "notes" : [ "Includes bibliographical references (pages 463-468) and index." ],
+        "abstract" : [ "A survey of Jacobs's career in forty short pieces that have never been collected in a single volume: essays, articles, speeches, interviews, and lectures, covering her work in urban and economic planning as well as globalization, feminism, and universal health care." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Random House" ],
+        "oclcid" : [ "(ocolc)942838380" ],
+        "lccn" : [ "2016014099" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Vital little plans : the short works of Jane Jacobs" ]
+      },
+      "sort" : {
+        "title" : [ "Vital little plans : the short works of Jane Jacobs /" ],
+        "author" : [ "Jacobs, Jane, 1916-2006, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990045000010107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0399589600,OCLC:,LCCN:2016014099&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"167ǂ j324 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "36",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "94",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "311",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 337,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "City Planning",
+      "count" : "1"
+    }, {
+      "value" : "City Planning United States",
+      "count" : "1"
+    }, {
+      "value" : "Jacobs Jane 1916 2006",
+      "count" : "1"
+    }, {
+      "value" : "Sociology Urban",
+      "count" : "1"
+    }, {
+      "value" : "Sociology Urban United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Urban Policy",
+      "count" : "1"
+    }, {
+      "value" : "Urban Policy United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Jacobs Jane",
+      "count" : "1"
+    }, {
+      "value" : "Storring Nathan",
+      "count" : "1"
+    }, {
+      "value" : "Zipp Samuel",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163050350007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

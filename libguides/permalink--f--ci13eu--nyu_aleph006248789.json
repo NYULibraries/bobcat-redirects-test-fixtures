@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062487890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng;spa" ],
+        "title" : [ "The Latino American experience The American mosaic." ],
+        "subject" : [ "Hispanic Americans -- History$$QHispanic Americans -- History -- Databases", "Hispanic Americans -- Social life and customs$$QHispanic Americans -- Social life and customs -- Databases", "Hispanic Americans", "Hispanic Americans -- Social life and customs", "History", "Latin American and Caribbean Studies", "Social Sciences", "Spanish & Portuguese Language & Literature" ],
+        "identifier" : [ "$$CLC$$V2017200928;$$CISSN$$V2572-8407;$$COCLC$$V(OCoLC)164381478" ],
+        "creationdate" : [ "2007" ],
+        "publisher" : [ "Santa Barbara, CA : ABC-ClIO Solutions", "Began in 2007?" ],
+        "description" : [ "The Latino American Experience is a digital resource focusing on the history and culture of Latinos in the United States. Its chronological coverage spans the pre-Columbian indigenous civilizations of the Americas, the Spanish colonial period and the nineteenth century, up to the present day. Content includes articles and essays, reference materials, excerpts from primary sources, and a tool for simple analyses of statistical data. -- Description from NYU Libraries.", "A full-text database focusing on the history and culture of Latinos living in the United States. Features more than 150 titles, 1500 images, hundreds of primary documents, Spanish-language content, a timeline, and 225 vetted Web sites." ],
+        "mms" : [ "990062487890107871" ],
+        "contributor" : [ "Stavans, Ilan.$$QStavans, Ilan.", "Greenwood Press (Westport, Conn.)$$QGreenwood Press (Westport, Conn.)" ],
+        "frequency" : [ "Updated quarterly" ],
+        "series" : [ "American mosaic$$QAmerican mosaic", "American mosaic (Greenwood Press (Westport, Conn.))$$QAmerican mosaic (Greenwood Press (Westport, Conn.))" ],
+        "genre" : [ "Electronic reference sources", "Online databases", "Databases", "History" ],
+        "place" : [ "Santa Barbara, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006248789" ],
+        "lds63" : [ "Available to subscribing member institutions only." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062487890107871" ],
+        "recordid" : [ "alma990062487890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006248789-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stavans" ],
+        "aufirst" : [ "Ilan." ],
+        "auinit" : [ "I" ],
+        "addau" : [ "Stavans, Ilan." ],
+        "contributorfull" : [ "$$NStavans, Ilan.$$LStavans$$FIlan.$$Rcontributor" ],
+        "date" : [ "2007" ],
+        "issn" : [ "2572-8407" ],
+        "abstract" : [ "The Latino American Experience is a digital resource focusing on the history and culture of Latinos in the United States. Its chronological coverage spans the pre-Columbian indigenous civilizations of the Americas, the Spanish colonial period and the nineteenth century, up to the present day. Content includes articles and essays, reference materials, excerpts from primary sources, and a tool for simple analyses of statistical data. -- Description from NYU Libraries.", "A full-text database focusing on the history and culture of Latinos living in the United States. Features more than 150 titles, 1500 images, hundreds of primary documents, Spanish-language content, a timeline, and 225 vetted Web sites." ],
+        "cop" : [ "Santa Barbara, CA" ],
+        "pub" : [ "ABC-ClIO Solutions" ],
+        "oclcid" : [ "(ocolc)164381478" ],
+        "lccn" : [ "2017200928" ],
+        "seriestitle" : [ "American mosaic" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "The Latino American experience The American mosaic." ]
+      },
+      "sort" : {
+        "title" : [ "Latino American experience The American mosaic." ],
+        "author" : [ "Stavans, Ilan." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487890107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487890107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062487890107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2017200928&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 s175",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "68",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "51",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "244",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 270,
+    "COMBINED_SEARCH_TIME" : 274,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Hispanic Americans",
+      "count" : "1"
+    }, {
+      "value" : "Hispanic Americans History Databases",
+      "count" : "1"
+    }, {
+      "value" : "Hispanic Americans Social Life And Customs",
+      "count" : "1"
+    }, {
+      "value" : "Hispanic Americans Social Life And Customs Databases",
+      "count" : "1"
+    }, {
+      "value" : "History",
+      "count" : "1"
+    }, {
+      "value" : "Latin American And Caribbean Studies",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Spanish Portuguese Language Literature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Greenwood Press Westport Conn",
+      "count" : "1"
+    }, {
+      "value" : "Stavans Ilan",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

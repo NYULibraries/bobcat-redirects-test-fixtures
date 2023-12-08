@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990026014020107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Dictionnaire d'archéologie chrétienne et de liturgie" ],
+        "subject" : [ "Christian antiquities -- French$$QChristian antiquities -- French -- Dictionaries", "Theology -- French$$QTheology -- French -- Dictionaries" ],
+        "format" : [ "v. illus., plates (part col., part fold.) fold. plans, facsims. (part fold.) 28 cm." ],
+        "identifier" : [ "$$CLC$$V03015097;$$COCLC$$V(OCoLC)1114558" ],
+        "creationdate" : [ "1907-" ],
+        "creator" : [ "Cabrol, Fernand, 1855-1937.$$QCabrol, Fernand" ],
+        "publisher" : [ "Paris, Letouzey et Ané" ],
+        "mms" : [ "990026014020107871" ],
+        "contributor" : [ "Leclercq, Henri, 1869-1945.$$QLeclercq, Henri" ],
+        "genre" : [ "Dictionaries" ],
+        "place" : [ "Paris," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002601402" ],
+        "lds53" : [ "002601402" ],
+        "lds60" : [ "Vols. 3- publié par le rme dom Fernand Cabrol ... et le r. p. dom Henri Leclercq.", "Vols. 14/2-15 publié sous la direction de Henri Marrou.", "Issued in parts, 1903-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990026014020107871" ],
+        "recordid" : [ "alma990026014020107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002601402-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cabrol" ],
+        "aufirst" : [ "Fernand" ],
+        "auinit" : [ "F" ],
+        "au" : [ "Cabrol, Fernand" ],
+        "addau" : [ "Leclercq, Henri" ],
+        "creatorfull" : [ "$$NCabrol, Fernand$$LCabrol$$FFernand$$Rauthor" ],
+        "contributorfull" : [ "$$NLeclercq, Henri$$LLeclercq$$FHenri$$Rcontributor" ],
+        "date" : [ "1907", "1907-" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "Letouzey et Ané" ],
+        "oclcid" : [ "(ocolc)1114558" ],
+        "lccn" : [ "03015097" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dictionnaire d'archéologie chrétienne et de liturgie" ]
+      },
+      "sort" : {
+        "title" : [ "Dictionnaire d'archéologie chrétienne et de liturgie," ],
+        "author" : [ "Cabrol, Fernand, 1855-1937." ],
+        "creationdate" : [ "1907" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990026014020107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:03015097&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "br!95ǂ c2",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "115",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "28",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "52",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "300",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 331,
+    "COMBINED_SEARCH_TIME" : 333,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1907",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Christian Antiquities Dictionaries French",
+      "count" : "1"
+    }, {
+      "value" : "Theology Dictionaries French",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Cabrol Fernand",
+      "count" : "1"
+    }, {
+      "value" : "Leclercq Henri",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

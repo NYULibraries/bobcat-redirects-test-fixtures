@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048091250107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Sage handbook of hospitality management " ],
+        "subject" : [ "Hospitality industry -- Management$$QHospitality industry -- Management -- Handbooks, manuals, etc", "Accueil (Tourisme) -- Gestion$$QAccueil (Tourisme) -- Gestion -- Guides, manuels, etc", "BUSINESS & ECONOMICS -- Small Business", "Hospitality industry -- Management" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2007933010;$$CISBN$$V9781849200417;$$CISBN$$V1849200416;$$CISBN$$V9781446206423;$$CISBN$$V1446206424;$$COCLC$$V(OCoLC)676908253;$$CISBN$$V9781412900256;$$CISBN$$V1412900255" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Los Angeles : Sage" ],
+        "description" : [ "A comprehensive, systematically organized handbook which gives a reliable and critical guide to all aspects of one of the world's leading industries: the hospitality industry." ],
+        "mms" : [ "990048091250107871" ],
+        "contributor" : [ "Wood, Roy C., 1959-$$QWood, Roy C.", "Brotherton, Bob.$$QBrotherton, Bob.", "Sage Publications.$$QSage Publications.", "Sage eReference (Online service)$$QSage eReference (Online service)" ],
+        "addtitle" : [ "Hospitality management" ],
+        "contents" : [ "The nature and meanings of 'hospitality' -- The structure and nature of the international hospitality industry -- The inter-relationships between leisure, recreation, tourism and hospitality -- Women in hospitality -- A critique of hospitality research and its advocacy of multi- and interdisciplinary approaches: an alternative agenda -- Hospitality management education -- From the top down: strategic management in the hospitality industry -- From the bottom up: operations management in the hospitality industry -- Innovation and entrepreneurship in the hospitality industry -- Financial management in the hospitality industry: themes and issues -- Organization studies and hospitality management -- Human resource management in the hospitality industry -- Marketing and consumer behaviour in hospitality -- Service quality and hospitality organizations -- Information technology strategy in the hospitality industry -- Hotel real estate finance and investments -- Accommodation and facilities management -- The MICE industry: meetings, incentives, conventions and exhibitions -- Food and beverage management -- Food production and service systems theory -- Licensed retail management -- Flight catering management -- Resort management -- Event design and management." ],
+        "genre" : [ "Handbooks, manuals, etc", "Guides, manuels, etc", "Handbooks and manuals" ],
+        "relation" : [ "$$Cform$$VPrint version: Sage handbook of hospitality management. Los Angeles : Sage, 2008$$QSage handbook of hospitality management.$$Z990030733470107871", "$$Cform$$VThe SAGE handbook of hospitality management$$Z9995690005007871" ],
+        "place" : [ "Los Angeles :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebceb", "sagepub", "aleph004809125" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048091250107871" ],
+        "recordid" : [ "alma990048091250107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004809125-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wood", "Brotherton" ],
+        "aufirst" : [ "Roy C.", "Bob." ],
+        "auinit" : [ "R", "B" ],
+        "addau" : [ "Wood, Roy C.", "Brotherton, Bob." ],
+        "contributorfull" : [ "$$NWood, Roy C.$$LWood$$FRoy C.$$Rcontributor", "$$NBrotherton, Bob.$$Rcontributor" ],
+        "addtitle" : [ "Hospitality management" ],
+        "date" : [ "2008" ],
+        "isbn" : [ "9781849200417", "1849200416", "9781446206423", "1446206424", "9781412900256", "1412900255" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "A comprehensive, systematically organized handbook which gives a reliable and critical guide to all aspects of one of the world's leading industries: the hospitality industry." ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "Sage" ],
+        "oclcid" : [ "(ocolc)676908253" ],
+        "lccn" : [ "2007933010" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Sage handbook of hospitality management" ]
+      },
+      "sort" : {
+        "title" : [ "Sage handbook of hospitality management /" ],
+        "author" : [ "Wood, Roy C., 1959-" ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048091250107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048091250107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1849200416,OCLC:,LCCN:2007933010&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tx\"911.3 m27ǂs14 2008eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "372",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "45",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "69",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "636",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 674,
+    "COMBINED_SEARCH_TIME" : 677,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Accueil Tourisme Gestion Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Small Business",
+      "count" : "1"
+    }, {
+      "value" : "Hospitality Industry Management",
+      "count" : "1"
+    }, {
+      "value" : "Hospitality Industry Management Handbooks Manuals Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brotherton Bob",
+      "count" : "1"
+    }, {
+      "value" : "Sage Ereference Online Service",
+      "count" : "1"
+    }, {
+      "value" : "Sage Publications",
+      "count" : "1"
+    }, {
+      "value" : "Wood Roy C",
+      "count" : "1"
+    } ]
+  } ]
+}

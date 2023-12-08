@@ -1,0 +1,258 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995632124807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "American literature (Durham, N.C.)" ],
+        "subject" : [ "American literature -- History and criticism$$QAmerican literature -- History and criticism -- Periodicals", "American literature$$QAmerican literature -- Bibliography Periodicals", "Books$$QBooks -- Reviews", "Littaerature amaericaine$$QLittaerature amaericaine -- Bibliographie Paeriodiques", "Littaerature amaericaine$$QLittaerature amaericaine -- Paeriodiques", "Livres$$QLivres -- Paeriodiques", "American literature", "Books", "Literatur", "Geschichte", "Zeitschrift", "Amerikaans", "Letterkunde", "LITERATURA ESTADOUNIDENSE", "USA" ],
+        "identifier" : [ "$$CLC$$Vsn 99004680;$$CISSN$$V1527-2117;$$COCLC$$V(OCoLC)42415832;$$CISSN$$V0002-9831" ],
+        "creationdate" : [ "1929-" ],
+        "publisher" : [ "Durham, North Carolina : Duke University Press", "Print began with Volume one, number one (March 1929)." ],
+        "mms" : [ "9995632124807871" ],
+        "contributor" : [ "Hubbell, Jay B. (Jay Broadus), 1885-1979, editor.$$QHubbell, Jay B.", "Gohdes, Clarence, 1901-1997, editor.$$QGohdes, Clarence", "Modern Language Association of America. American Literature Group.$$QModern Language Association of America. American Literature Group.", "Modern Language Association of America. American Literature Section.$$QModern Language Association of America. American Literature Section." ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Bibliography", "Bibliographie", "Paeriodiques", "Bibliographies", "Criticism, interpretation, etc", "Reviews", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990029211050107871" ],
+        "unititle" : [ "American literature (Durham, N.C.)" ],
+        "place" : [ "Durham, North Carolina] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925377918" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995632124807871" ],
+        "recordid" : [ "alma9995632124807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925377918" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hubbell", "Gohdes" ],
+        "aufirst" : [ "Jay B.", "Clarence" ],
+        "auinit" : [ "J", "C" ],
+        "addau" : [ "Hubbell, Jay B. (Jay Broadus)", "Gohdes, Clarence" ],
+        "contributorfull" : [ "$$NHubbell, Jay B. (Jay Broadus)$$LHubbell$$FJay B.$$Reditor", "$$NGohdes, Clarence$$Reditor" ],
+        "stitle" : [ "AM LIT", "AMERICAN LITERATURE; A JOURNAL OF LITERARY HISTORY, CRITICISM & BIBLIOGRAPHY", "AMERICAN LITERATURE", "Am. lit. (Online)" ],
+        "date" : [ "1929", "1929-" ],
+        "issn" : [ "1527-2117", "0002-9831" ],
+        "cop" : [ "Durham, North Carolina" ],
+        "pub" : [ "[Duke University Press]" ],
+        "oclcid" : [ "(ocolc)42415832" ],
+        "lccn" : [ "sn 99004680", "sn 99023378" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "American literature (Durham, N.C.)" ]
+      },
+      "sort" : {
+        "title" : [ "American literature (Durham, N.C.)" ],
+        "author" : [ "Hubbell, Jay B. (Jay Broadus), 1885-1979, editor." ],
+        "creationdate" : [ "1929" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995632124807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995632124807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995632124807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 99004680&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "152",
+    "CALL_SOLR_GET_IDS_LIST" : "56",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "276",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "25",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "248",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "573",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 609,
+    "COMBINED_SEARCH_TIME" : 614,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1929",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Literature",
+      "count" : "1"
+    }, {
+      "value" : "American Literature Bibliography Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "American Literature History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Amerikaans",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books Reviews",
+      "count" : "1"
+    }, {
+      "value" : "Geschichte",
+      "count" : "1"
+    }, {
+      "value" : "Letterkunde",
+      "count" : "1"
+    }, {
+      "value" : "Literatur",
+      "count" : "1"
+    }, {
+      "value" : "Literatura Estadounidense",
+      "count" : "1"
+    }, {
+      "value" : "Littaerature Amaericaine Bibliographie Paeriodiques",
+      "count" : "1"
+    }, {
+      "value" : "Littaerature Amaericaine Paeriodiques",
+      "count" : "1"
+    }, {
+      "value" : "Livres Paeriodiques",
+      "count" : "1"
+    }, {
+      "value" : "Usa",
+      "count" : "1"
+    }, {
+      "value" : "Zeitschrift",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gohdes Clarence",
+      "count" : "1"
+    }, {
+      "value" : "Hubbell Jay B",
+      "count" : "1"
+    }, {
+      "value" : "Modern Language Association Of America American Literature Group",
+      "count" : "1"
+    }, {
+      "value" : "Modern Language Association Of America American Literature Section",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

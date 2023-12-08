@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032373400107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Whale wars" ],
+        "subject" : [ "Hildebrandt, Jason, 1967-", "Whales -- Conservation -- Antarctic Ocean", "Whaling -- Antarctic Ocean", "Sea Shepherd Conservation Society" ],
+        "format" : [ "2 videodiscs (ca. 298 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CPUBNUM$$V81778;$$COCLC$$V(OCoLC)289038637" ],
+        "creationdate" : [ "c2009" ],
+        "publisher" : [ "Santa Monica, CA : Genius Entertainment" ],
+        "description" : [ "Documents the three-month sojourn of the staff and volunteers of the Sea Shepherd and the tactics used to cripple the whaling trade. Viewers are taken on an adventure that spotlights how the group takes action against alleged illegal whaling operations." ],
+        "mms" : [ "990032373400107871" ],
+        "contributor" : [ "River Media, LLC.$$QRiver Media, LLC.", "Discovery Communications, Inc.$$QDiscovery Communications, Inc.", "Genius Entertainment.$$QGenius Entertainment.", "Animal Planet (Television network)$$QAnimal Planet (Television network)" ],
+        "edition" : [ "Widescreen version." ],
+        "genre" : [ "Documentary television programs", "Nature television programs", "Nature -- Television mini-series" ],
+        "place" : [ "Santa Monica, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003237340" ],
+        "lds53" : [ "003237340" ],
+        "lds60" : [ "Originally broadcast on Animal Planet cable television network.", "Release date: Feb. 10, 2009." ],
+        "lds65" : [ "Narrator, Jason Hildebrandt; featuring Paul F. Watson, Benjamin Pott, Kim McCoy, Peter Hammarstedt, Shannon Mann." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032373400107871" ],
+        "recordid" : [ "alma990032373400107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003237340-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2009", "c2009" ],
+        "abstract" : [ "Documents the three-month sojourn of the staff and volunteers of the Sea Shepherd and the tactics used to cripple the whaling trade. Viewers are taken on an adventure that spotlights how the group takes action against alleged illegal whaling operations." ],
+        "cop" : [ "Santa Monica, CA" ],
+        "pub" : [ "Genius Entertainment" ],
+        "oclcid" : [ "(ocolc)289038637" ],
+        "upcid" : [ "796019817783" ],
+        "edition" : [ "Widescreen version." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Whale wars" ]
+      },
+      "sort" : {
+        "title" : [ "Whale wars" ],
+        "author" : [ "River Media, LLC." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990032373400107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:289038637,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "sh\"382.5ǂ w43 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "124",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "25",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 331,
+    "COMBINED_SEARCH_TIME" : 333,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Hildebrandt Jason 1967",
+      "count" : "1"
+    }, {
+      "value" : "Sea Shepherd Conservation Society",
+      "count" : "1"
+    }, {
+      "value" : "Whales Conservation Antarctic Ocean",
+      "count" : "1"
+    }, {
+      "value" : "Whaling Antarctic Ocean",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Animal Planet Television Network",
+      "count" : "1"
+    }, {
+      "value" : "Discovery Communications Inc",
+      "count" : "1"
+    }, {
+      "value" : "Genius Entertainment",
+      "count" : "1"
+    }, {
+      "value" : "River Media Llc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028574530107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Government publications." ],
+        "subject" : [ "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Bibliography", "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Bibliography Periodicals" ],
+        "format" : [ "4 v. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V36013303//r862;$$CISSN$$V0143-9499;$$COCLC$$V(OCoLC)2882741" ],
+        "creationdate" : [ "c1973-" ],
+        "creator" : [ "Great Britain. Her Majesty's Stationery Office.$$QGreat Britain. Her Majesty's Stationery Office." ],
+        "publisher" : [ "London : H.M.S.O.", "Ceased with: 1975.", "1972-1975." ],
+        "mms" : [ "990028574530107871" ],
+        "addtitle" : [ "HMSO books" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Bibliography", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VCatalogue of government publications.$$Z990028574540107871", "$$Cearlier_title$$VGreat Britain. Her Majesty's Stationery Office. Catalogue of government publications$$QCatalogue of government publications", "$$Clater_title$$VGreat Britain. Her Majesty's Stationery Office. Government publications of ... (Annual)$$Z990028574520107871", "$$Cother_relationship$$VGreat Britain. Her Majesty's Stationery Office. Government publications (Monthly)$$QGovernment publications (Monthly)" ],
+        "unititle" : [ "Government publications (1973 : Annual)" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002857453" ],
+        "lds53" : [ "002857453" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028574530107871" ],
+        "recordid" : [ "alma990028574530107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002857453-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "Great Britain. Her Majesty's Stationery Office." ],
+        "stitle" : [ "Gov. publ. (Annu. Lond.)" ],
+        "addtitle" : [ "HMSO books" ],
+        "date" : [ "1972 - 1975", "c1973-" ],
+        "issn" : [ "0143-9499" ],
+        "cop" : [ "London" ],
+        "pub" : [ "H.M.S.O." ],
+        "oclcid" : [ "(ocolc)2882741" ],
+        "lccn" : [ "36013303//r862", "sn808489" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Government publications." ]
+      },
+      "sort" : {
+        "title" : [ "Government publications." ],
+        "author" : [ "Great Britain. Her Majesty's Stationery Office." ],
+        "creationdate" : [ "1972" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028574530107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:36013303//r862&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2009ǂ g822",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "36",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "7",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "12",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "14",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "190",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 210,
+    "COMBINED_SEARCH_TIME" : 214,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1972",
+      "count" : "1"
+    }, {
+      "value" : "1975",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Publications Great Britain Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Government Publications Great Britain Bibliography Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Great Britain Her Majestys Stationery Office",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

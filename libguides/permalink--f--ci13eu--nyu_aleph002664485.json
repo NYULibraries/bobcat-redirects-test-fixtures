@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990026644850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Resettlement of Indochinese refugees in the United States : a selective and annotated bibliography " ],
+        "subject" : [ "Refugees -- United States", "Indochinese -- United States" ],
+        "format" : [ "212 p. ; 23 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)10912927" ],
+        "creationdate" : [ "1983" ],
+        "creator" : [ "Ashmun, Lawrence F.$$QAshmun, Lawrence F." ],
+        "publisher" : [ "DeKalb, Ill. : Northern Illinois University, Center for Southeast Asian Studies ; Detroit, Mich. : Cellar Book Shop distributor" ],
+        "mms" : [ "990026644850107871" ],
+        "series" : [ "Monograph series on Southeast Asia$$QMonograph series on Southeast Asia", "Occasional paper / Center for Southeast Asian Studies ; no. 10, 1983$$QOccasional paper / Center for Southeast Asian Studies ", "Occasional papers (Northern Illinois University. Center for Southeast Asian Studies) ; no. 10.$$QOccasional papers (Northern Illinois University. Center for Southeast Asian Studies) " ],
+        "place" : [ "DeKalb, Ill.] : Detroit, Mich. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002664485" ],
+        "lds53" : [ "002664485" ],
+        "lds60" : [ "Includes indexes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990026644850107871" ],
+        "recordid" : [ "alma990026644850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002664485-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ashmun" ],
+        "aufirst" : [ "Lawrence F." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Ashmun, Lawrence F." ],
+        "creatorfull" : [ "$$NAshmun, Lawrence F.$$LAshmun$$FLawrence F.$$Rauthor" ],
+        "date" : [ "1983" ],
+        "cop" : [ "DeKalb, Ill" ],
+        "pub" : [ "Northern Illinois University, Center for Southeast Asian Studies" ],
+        "oclcid" : [ "(ocolc)10912927" ],
+        "seriestitle" : [ "Monograph series on Southeast Asia" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Resettlement of Indochinese refugees in the United States : a selective and annotated bibliography" ]
+      },
+      "sort" : {
+        "title" : [ "Resettlement of Indochinese refugees in the United States : a selective and annotated bibliography /" ],
+        "author" : [ "Ashmun, Lawrence F." ],
+        "creationdate" : [ "1983" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990026644850107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:10912927,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000003/000000000029/000000000084ct",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "107",
+    "CALL_SOLR_GET_IDS_LIST" : "153",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "373",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 404,
+    "COMBINED_SEARCH_TIME" : 407,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1983",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Indochinese United States",
+      "count" : "1"
+    }, {
+      "value" : "Refugees United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ashmun Lawrence F",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,243 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002788820107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The sacred bridge : Carta's atlas of the Biblical world " ],
+        "subject" : [ "Bible -- Geography$$QBible -- Geography -- Maps", "Bible -- History of Biblical events", "Jews -- History -- To 70 A.D", "New Testament -- Geography$$QNew Testament -- Geography -- Maps", "New Testament -- History of New Testament events", "Levant (region)" ],
+        "format" : [ "448 p. : ill., col. maps ; 35 cm." ],
+        "identifier" : [ "$$CISBN$$V965220529X;$$COCLC$$V(OCoLC)62513120" ],
+        "creationdate" : [ "c2006" ],
+        "creator" : [ "Rainey, Anson F., 1930-$$QRainey, Anson F." ],
+        "publisher" : [ "Jerusalem : Carta" ],
+        "mms" : [ "990002788820107871" ],
+        "contributor" : [ "Notley, R. Steven.$$QNotley, R. Steven.", "Stager, Lawrence E., former owner.$$QStager, Lawrence E.", "Karṭa (Firm)$$QKarṭa (Firm)" ],
+        "addtitle" : [ "Carta's atlas of the Biblical world", "Stager Collection." ],
+        "contents" : [ "Dimensions and disciplines -- The ancient world view -- The land bridge -- The dawn of history -- Amurrite dominance -- Conquest and confrontation -- The Amarna age -- The Ramesside age -- Crisis and transition -- Survival and renewal -- Territorial status -- Regional conflicts -- Window of opportunity -- Imperial domination -- Crisis and turmoil -- Persian domination -- Alexander and the early Hellenistic period -- The Hasmonean struggle for independence -- The Hasmonean kingdom -- Hasmonean decline and the rise of Herod -- Herod and his sons -- Historical geography of the Gospels -- The early days of the Church -- The first Jewish revolt against Rome -- the Bar Kochba revolt." ],
+        "genre" : [ "Maps" ],
+        "place" : [ "Jerusalem :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000278882" ],
+        "lds53" : [ "000278882" ],
+        "lds60" : [ "Chapters 1-16 by Anson F. Rainey ; chapters 17-25 by R. Steven Notley.", "With contributions by J. Uzziel, I. Shai, B. Schultz.", "ISAW copy is from the library of Lawrence E. Stager." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002788820107871" ],
+        "recordid" : [ "alma990002788820107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000278882-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rainey" ],
+        "aufirst" : [ "Anson F." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Rainey, Anson F." ],
+        "addau" : [ "Notley, R. Steven.", "Stager, Lawrence E." ],
+        "creatorfull" : [ "$$NRainey, Anson F.$$LRainey$$FAnson F.$$Rauthor" ],
+        "contributorfull" : [ "$$NNotley, R. Steven.$$LNotley$$FR. Steven.$$Rcontributor", "$$NStager, Lawrence E.$$Rcontributor" ],
+        "addtitle" : [ "Carta's atlas of the Biblical world" ],
+        "date" : [ "2006", "c2006" ],
+        "isbn" : [ "965220529X" ],
+        "notes" : [ "Includes bibliographical references (p. 403 - 432) and index." ],
+        "cop" : [ "Jerusalem" ],
+        "pub" : [ "Carta" ],
+        "oclcid" : [ "(ocolc)62513120" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The sacred bridge : Carta's atlas of the Biblical world" ]
+      },
+      "sort" : {
+        "title" : [ "sacred bridge : Carta's atlas of the Biblical world /" ],
+        "author" : [ "Rainey, Anson F., 1930-" ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002788820107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:965220529X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bs000000000630.r000000000356000000002006",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "287",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 310,
+    "COMBINED_SEARCH_TIME" : 313,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bible Geography Maps",
+      "count" : "1"
+    }, {
+      "value" : "Bible History Of Biblical Events",
+      "count" : "1"
+    }, {
+      "value" : "Jews History To 70 A D",
+      "count" : "1"
+    }, {
+      "value" : "Levant Region",
+      "count" : "1"
+    }, {
+      "value" : "New Testament Geography Maps",
+      "count" : "1"
+    }, {
+      "value" : "New Testament History Of New Testament Events",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Karṭa Firm",
+      "count" : "1"
+    }, {
+      "value" : "Notley R Steven",
+      "count" : "1"
+    }, {
+      "value" : "Rainey Anson F",
+      "count" : "1"
+    }, {
+      "value" : "Stager Lawrence E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163051920007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

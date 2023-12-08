@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990086991150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Fintech and financial risk in China" ],
+        "subject" : [ "Finance -- Technological innovations -- China", "Financial risk -- China", "Finances -- Innovations -- Chine", "Risque financier -- Chine", "Finance -- Technological innovations", "Financial risk", "China" ],
+        "format" : [ "1 online resource." ],
+        "identifier" : [ "$$CISBN$$V9789811902888;$$CISBN$$V9811902887;$$COCLC$$V(OCoLC)1314855741;$$CISBN$$V9811902879;$$CISBN$$V9789811902871" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Qiu, Zhigang (College teacher), author.$$QQiu, Zhigang" ],
+        "publisher" : [ "Singapore : Springer" ],
+        "description" : [ "This book provides a comprehensive overview of the development and status of fintech in China. Occupying core position in fintech development, big data takes on stronger superiority and application value. Meanwhile, blockchain and other technological innovations, which are used to serve data, greatly promote the growth of fintech industry. Furthermore, not only the benefits are illustrated by the authors, but also the financial risks and noise caused by fintech and big data are discussed. By using both academic knowledge and newest real cases in China, this timely book will appeal to practitioners, academics, and policy makers." ],
+        "mms" : [ "990086991150107871" ],
+        "contributor" : [ "Huo, Xiaolin, author.$$QHuo, Xiaolin", "Dai, Yue (College teacher), author.$$QDai, Yue" ],
+        "series" : [ "Contributions to Finance and Accounting Ser.$$QContributions to Finance and Accounting Ser." ],
+        "contents" : [ "Chapter 1. The Development of FinTech in China -- Chapter 2. Introduction of Big Data, the Core of Fintech -- Chapter 3. P2P risk -- Chapter 4. Development of FinTech in Academia -- Chapter 5. FinTech Technology: Blockchain -- Chapter 6. FinTech and financial risk -- Chapter 7. Summary and future development.-." ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Singapore :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008699115" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990086991150107871" ],
+        "recordid" : [ "alma990086991150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008699115-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Qiu" ],
+        "aufirst" : [ "Zhigang" ],
+        "auinit" : [ "Z" ],
+        "au" : [ "Qiu, Zhigang" ],
+        "addau" : [ "Huo, Xiaolin", "Dai, Yue" ],
+        "creatorfull" : [ "$$NQiu, Zhigang$$LQiu$$FZhigang$$Rauthor" ],
+        "contributorfull" : [ "$$NHuo, Xiaolin$$LHuo$$FXiaolin$$Rcontributor", "$$NDai, Yue$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9789811902888", "9811902887", "9811902879", "9789811902871" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book provides a comprehensive overview of the development and status of fintech in China. Occupying core position in fintech development, big data takes on stronger superiority and application value. Meanwhile, blockchain and other technological innovations, which are used to serve data, greatly promote the growth of fintech industry. Furthermore, not only the benefits are illustrated by the authors, but also the financial risks and noise caused by fintech and big data are discussed. By using both academic knowledge and newest real cases in China, this timely book will appeal to practitioners, academics, and policy makers." ],
+        "cop" : [ "Singapore" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1314855741" ],
+        "doi" : [ "10.1007/978-981-19-0288-8" ],
+        "seriestitle" : [ "Contributions to Finance and Accounting Ser." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fintech and financial risk in China" ]
+      },
+      "sort" : {
+        "title" : [ "Fintech and financial risk in China" ],
+        "author" : [ "Qiu, Zhigang (College teacher), author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086991150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990086991150107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9811902887,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg\"173",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "127",
+    "CALL_SOLR_GET_IDS_LIST" : "127",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "56",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "50",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "416",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 442,
+    "COMBINED_SEARCH_TIME" : 446,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Finance Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Finance Technological Innovations China",
+      "count" : "1"
+    }, {
+      "value" : "Finances Innovations Chine",
+      "count" : "1"
+    }, {
+      "value" : "Financial Risk",
+      "count" : "1"
+    }, {
+      "value" : "Financial Risk China",
+      "count" : "1"
+    }, {
+      "value" : "Risque Financier Chine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dai Yue",
+      "count" : "1"
+    }, {
+      "value" : "Huo Xiaolin",
+      "count" : "1"
+    }, {
+      "value" : "Qiu Zhigang",
+      "count" : "1"
+    } ]
+  } ]
+}

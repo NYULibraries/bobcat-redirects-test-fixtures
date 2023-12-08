@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084703160107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Becoming a scholar : cross-cultural reflections on identity and agency in an education doctorate " ],
+        "subject" : [ "Graduate students, Foreign", "Adult college students", "Degrees, Academic", "Graduate students" ],
+        "format" : [ "xiii, 178 pages ; 24 cm" ],
+        "identifier" : [ "$$CISBN$$V9781787357686;$$CISBN$$V1787357686;$$CISBN$$V9781787357679;$$CISBN$$V1787357678;$$COCLC$$V(OCoLC)1233318171;$$CISBN$$V9781787357693" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "London : UCL Press" ],
+        "description" : [ "Becoming a Scholar provides a window into the lives of nine non-traditional doctoral students. As mature, part-time, international students enrolled in a professional doctorate programme, they reflect on the transformation process of becoming scholars, and their narratives provide breadth and depth to themes that represent a diverse cross-section of cultures, identities and communities. Recognising that the process of becoming a scholar is as much internal as it is external, the book provides an opportunity to engage with authentic personal stories that remain firmly rooted in academic literature. By bringing the 'human face' behind the doctoral journey to the forefront, the narratives draw much-needed attention to the personal journey that inevitably parallels and intersects with the academic journey. Although the narratives are drawn from a professional Doctor in Education (EdD) programme based in the UK, the struggles are sure to resonate with a much wider range of doctoral students and academics, sparking lively discussion, debate and reflection. A must-read for students preparing to embark on the doctoral journey, and essential reading for doctoral programmes that wish to equip students with important knowledge about the challenges ahead. -- Provided by publisher." ],
+        "mms" : [ "990084703160107871" ],
+        "contributor" : [ "Savva, Maria, editor.$$QSavva, Maria", "Nygaard, Lynn P., editor.$$QNygaard, Lynn P." ],
+        "relation" : [ "$$Cform$$VBecoming a Scholar : Cross-cultural reflections on identity and agency in an education doctorate$$Z9995799618207871", "$$Cform$$Vebook version :$$Z990084240180107871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008470316" ],
+        "lds53" : [ "008470316" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084703160107871" ],
+        "recordid" : [ "alma990084703160107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008470316-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Savva", "Nygaard" ],
+        "aufirst" : [ "Maria", "Lynn P." ],
+        "auinit" : [ "M", "L" ],
+        "addau" : [ "Savva, Maria", "Nygaard, Lynn P." ],
+        "contributorfull" : [ "$$NSavva, Maria$$LSavva$$FMaria$$Reditor", "$$NNygaard, Lynn P.$$Reditor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9781787357686", "1787357686", "9781787357679", "1787357678", "9781787357693" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Becoming a Scholar provides a window into the lives of nine non-traditional doctoral students. As mature, part-time, international students enrolled in a professional doctorate programme, they reflect on the transformation process of becoming scholars, and their narratives provide breadth and depth to themes that represent a diverse cross-section of cultures, identities and communities. Recognising that the process of becoming a scholar is as much internal as it is external, the book provides an opportunity to engage with authentic personal stories that remain firmly rooted in academic literature. By bringing the 'human face' behind the doctoral journey to the forefront, the narratives draw much-needed attention to the personal journey that inevitably parallels and intersects with the academic journey. Although the narratives are drawn from a professional Doctor in Education (EdD) programme based in the UK, the struggles are sure to resonate with a much wider range of doctoral students and academics, sparking lively discussion, debate and reflection. A must-read for students preparing to embark on the doctoral journey, and essential reading for doctoral programmes that wish to equip students with important knowledge about the challenges ahead. -- Provided by publisher." ],
+        "cop" : [ "London" ],
+        "pub" : [ "UCL Press" ],
+        "oclcid" : [ "(ocolc)1233318171" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Becoming a scholar : cross-cultural reflections on identity and agency in an education doctorate" ]
+      },
+      "sort" : {
+        "title" : [ "Becoming a scholar : cross-cultural reflections on identity and agency in an education doctorate /" ],
+        "author" : [ "Savva, Maria, editor." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990084703160107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1787357686,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#2371ǂ b43 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "390",
+    "CALL_SOLR_GET_IDS_LIST" : "138",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "59",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "56",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "689",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 717,
+    "COMBINED_SEARCH_TIME" : 720,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Adult College Students",
+      "count" : "1"
+    }, {
+      "value" : "Degrees Academic",
+      "count" : "1"
+    }, {
+      "value" : "Graduate Students",
+      "count" : "1"
+    }, {
+      "value" : "Graduate Students Foreign",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Nygaard Lynn P",
+      "count" : "1"
+    }, {
+      "value" : "Savva Maria",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

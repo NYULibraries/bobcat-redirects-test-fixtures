@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990054903660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "audio" ],
+        "language" : [ "eng" ],
+        "title" : [ "A midsummer night's dream " ],
+        "subject" : [ "Operas", "Shakespeare, William, 1564-1616$$QShakespeare, William, 1564-1616 -- Musical settings" ],
+        "format" : [ "1 online resource (1 sound file)", "audio file" ],
+        "identifier" : [ "$$CPUBNUM$$V00028942566323;$$COCLC$$V(OCoLC)1005934330" ],
+        "creationdate" : [ "1990" ],
+        "creator" : [ "Britten, Benjamin, 1913-1976, composer, conductor, librettist.$$QBritten, Benjamin" ],
+        "publisher" : [ "New York : Decca" ],
+        "mms" : [ "990054903660107871" ],
+        "contributor" : [ "Harwood, Elizabeth, 1938-1990, singer.$$QHarwood, Elizabeth", "Harper, Heather, singer.$$QHarper, Heather", "Veasey, Josephine, singer.$$QVeasey, Josephine", "Deller, Alfred, singer.$$QDeller, Alfred", "Pears, Peter, 1910-1986, singer, librettist.$$QPears, Peter", "Shirley-Quirk, John, singer.$$QShirley-Quirk, John", "Hemsley, Thomas, singer.$$QHemsley, Thomas", "Brannigan, Owen, singer.$$QBrannigan, Owen", "Terry, Stephen, singer.$$QTerry, Stephen", "Shakespeare, William, 1564-1616.$$QShakespeare, William", "Downside School (Purley, London, England). Choir, singer.$$QDownside School (Purley, London, England). Choir", "Emanuel School (Wandsworth, London, England). Choir, singer.$$QEmanuel School (Wandsworth, London, England). Choir", "London Symphony Orchestra, instrumentalist.$$QLondon Symphony Orchestra" ],
+        "genre" : [ "Musical settings", "Streaming audio" ],
+        "relation" : [ "$$Cform$$VSource record: Britten, Benjamin, 1913-1976. Midsummer night's dream. New York : London, [1990], ℗1967$$QMidsummer night's dream." ],
+        "relatedwork" : [ "Opera adaptation of (work): Shakespeare, William, 1564-1616. Midsummer night's dream.$$QShakespeare, William, 1564-1616. Midsummer night's dream." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "naxomus", "aleph005490366" ],
+        "lds60" : [ "Opera in 3 acts.", "Libretto adapted from Shakespeare by Peter Pears and the composer.", "Originally released in 1967." ],
+        "lds65" : [ "Elizabeth Harwood, Heather Harper, sopranos ; Josephine Veasey, mezzo-soprano ; Alfred Deller, counter-tenor ; Peter Pears, tenor ; John Shirley-Quirk, Thomas Hemsley, baritones ; Owen Brannigan, bass ; Stephen Terry, boy soprano ; supporting soloists ; Choirs of Downside and Emanuel Schools ; London Symphony Orchestra ; Benjamin Britten, conductor." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990054903660107871" ],
+        "recordid" : [ "alma990054903660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005490366-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Britten" ],
+        "aufirst" : [ "Benjamin" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Britten, Benjamin" ],
+        "addau" : [ "Harwood, Elizabeth", "Harper, Heather", "Veasey, Josephine", "Deller, Alfred", "Pears, Peter", "Shirley-Quirk, John", "Hemsley, Thomas", "Brannigan, Owen", "Terry, Stephen", "Shakespeare, William" ],
+        "creatorfull" : [ "$$NBritten, Benjamin$$LBritten$$FBenjamin$$Rauthor" ],
+        "contributorfull" : [ "$$NHarwood, Elizabeth$$LHarwood$$FElizabeth$$Rcontributor", "$$NHarper, Heather$$Rcontributor", "$$NVeasey, Josephine$$Rcontributor", "$$NDeller, Alfred$$Rcontributor", "$$NPears, Peter$$Rcontributor", "$$NShirley-Quirk, John$$Rcontributor", "$$NHemsley, Thomas$$Rcontributor", "$$NBrannigan, Owen$$Rcontributor", "$$NTerry, Stephen$$Rcontributor", "$$NShakespeare, William$$Rcontributor" ],
+        "date" : [ "1990 - 1967", "1990" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Decca" ],
+        "oclcid" : [ "(ocolc)1005934330" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "SOUND" ],
+        "btitle" : [ "A midsummer night's dream" ]
+      },
+      "sort" : {
+        "title" : [ "midsummer night's dream /" ],
+        "author" : [ "Britten, Benjamin, 1913-1976, composer, conductor, librettist." ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990054903660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990054903660107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1005934330,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "50",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "44",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "107",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "350",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 383,
+    "COMBINED_SEARCH_TIME" : 385,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1967",
+      "count" : "1"
+    }, {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "audios",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Operas",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Musical Settings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brannigan Owen",
+      "count" : "1"
+    }, {
+      "value" : "Britten Benjamin",
+      "count" : "1"
+    }, {
+      "value" : "Deller Alfred",
+      "count" : "1"
+    }, {
+      "value" : "Downside School Purley London England Choir",
+      "count" : "1"
+    }, {
+      "value" : "Emanuel School Wandsworth London England Choir",
+      "count" : "1"
+    }, {
+      "value" : "Harper Heather",
+      "count" : "1"
+    }, {
+      "value" : "Harwood Elizabeth",
+      "count" : "1"
+    }, {
+      "value" : "Hemsley Thomas",
+      "count" : "1"
+    }, {
+      "value" : "London Symphony Orchestra",
+      "count" : "1"
+    }, {
+      "value" : "Pears Peter",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William",
+      "count" : "1"
+    }, {
+      "value" : "Shirley Quirk John",
+      "count" : "1"
+    }, {
+      "value" : "Terry Stephen",
+      "count" : "1"
+    }, {
+      "value" : "Veasey Josephine",
+      "count" : "1"
+    } ]
+  } ]
+}

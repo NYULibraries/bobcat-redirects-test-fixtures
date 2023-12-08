@@ -1,0 +1,304 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995619917807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Animals : an open access journal from MDPI." ],
+        "subject" : [ "Animals$$QAnimals -- Periodicals", "Veterinary medicine$$QVeterinary medicine -- Periodicals", "Human-animal relationships$$QHuman-animal relationships -- Periodicals", "Ethnozoology$$QEthnozoology -- Periodicals", "Animal rights$$QAnimal rights -- Periodicals", "Animal welfare$$QAnimal welfare -- Periodicals", "Zoology$$QZoology -- Periodicals", "Ecology$$QEcology -- Periodicals", "Animal rights", "Animal welfare", "Animals", "Ecology", "Ethnozoology", "Human-animal relationships", "Veterinary medicine", "Zoology" ],
+        "identifier" : [ "$$CLC$$V  2012254619;$$COCLC$$V(OCoLC)667255765;$$CISSN$$V2076-2615" ],
+        "creationdate" : [ "2011-" ],
+        "publisher" : [ "Basel, Switzerland : Molecular Diversity Preservation International", "Vol. 1, no. 1 (March 2011)-" ],
+        "description" : [ "\"Animals (ISSN 2076-2615) is an international and interdisciplinary scholarly open access journal. It publishes reviews, regular research papers, communications, and short notes that are relevant to any field of study that involves animals, including zoology, ethnozoology, animal science, animal ethics and animal welfare. However, preference will be given to those articles that provide an understanding of animals within a larger context (i.e., the animals' interactions with the outside world, including humans). There is no restriction on the length of the papers. Our aim is to encourage scientists to publish their experimental and theoretical research in as much detail as possible. Full experimental details and/or method of study, must be provided for research articles. Articles submitted that involve subjecting animals to unnecessary pain or suffering will not be accepted, and all articles must be submitted with the necessary ethical approval.\"" ],
+        "mms" : [ "9995619917807871" ],
+        "contributor" : [ "Molecular Diversity Preservation International.$$QMolecular Diversity Preservation International." ],
+        "addtitle" : [ "Animals, open access journal" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Periodicals" ],
+        "mesh" : [ "Animals", "Animal Welfare", "Human-Animal Bond", "Periodical" ],
+        "place" : [ "Basel, Switzerland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)3130000000000198" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from caption (viewed on Sept. 30, 2010)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995619917807871" ],
+        "recordid" : [ "alma9995619917807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "993130000000000198" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "ANIMALS (BASEL)", "Animals (Basel)" ],
+        "addtitle" : [ "Animals, open access journal" ],
+        "date" : [ "2011", "2011-" ],
+        "issn" : [ "2076-2615" ],
+        "abstract" : [ "\"Animals (ISSN 2076-2615) is an international and interdisciplinary scholarly open access journal. It publishes reviews, regular research papers, communications, and short notes that are relevant to any field of study that involves animals, including zoology, ethnozoology, animal science, animal ethics and animal welfare. However, preference will be given to those articles that provide an understanding of animals within a larger context (i.e., the animals' interactions with the outside world, including humans). There is no restriction on the length of the papers. Our aim is to encourage scientists to publish their experimental and theoretical research in as much detail as possible. Full experimental details and/or method of study, must be provided for research articles. Articles submitted that involve subjecting animals to unnecessary pain or suffering will not be accepted, and all articles must be submitted with the necessary ethical approval.\"" ],
+        "cop" : [ "Basel, Switzerland" ],
+        "pub" : [ "Molecular Diversity Preservation International" ],
+        "oclcid" : [ "(ocolc)667255765" ],
+        "lccn" : [ "2012254619" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Animals : an open access journal from MDPI." ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Animals : an open access journal from MDPI." ],
+        "author" : [ "Molecular Diversity Preservation International." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995619917807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2012254619&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ql 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "58",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "190",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "149",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "428",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 468,
+    "COMBINED_SEARCH_TIME" : 470,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animal Rights",
+      "count" : "1"
+    }, {
+      "value" : "Animal Rights Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Animal Welfare",
+      "count" : "1"
+    }, {
+      "value" : "Animal Welfare Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Animals",
+      "count" : "1"
+    }, {
+      "value" : "Animals Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Ecology",
+      "count" : "1"
+    }, {
+      "value" : "Ecology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Ethnozoology",
+      "count" : "1"
+    }, {
+      "value" : "Ethnozoology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Bond",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Veterinary Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Veterinary Medicine Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Zoology",
+      "count" : "1"
+    }, {
+      "value" : "Zoology Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Molecular Diversity Preservation International",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

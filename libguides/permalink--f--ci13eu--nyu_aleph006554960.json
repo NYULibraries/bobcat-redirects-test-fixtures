@@ -1,0 +1,237 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990065549600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Research handbook on feminist jurisprudence " ],
+        "subject" : [ "Feminist jurisprudence -- United States", "Féminisme et droit", "Féminisme et droit -- États-Unis", "Droit -- Réforme", "LAW -- Essays", "LAW -- General Practice", "LAW -- Jurisprudence", "LAW -- Paralegals & Paralegalism", "LAW -- Practical Guides", "LAW -- Reference", "Women -- Legal status, laws, etc", "Law reform", "Feminist jurisprudence", "United States" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781786439697;$$CISBN$$V1786439697;$$COCLC$$V(OCoLC)1083205449;$$CISBN$$V9781786439680" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Cheltenham, UK : Edward Elgar Publishing Limited" ],
+        "description" : [ "\"The Research Handbook on Feminist Jurisprudence surveys feminist theoretical understandings of law, including liberal and radical feminism, as well as socialist, relational, intersectional, post-modern, and pro-sex and queer feminist legal theories.\"" ],
+        "mms" : [ "990065549600107871" ],
+        "contributor" : [ "West, Robin, 1954- editor.$$QWest, Robin", "Bowman, Cynthia Grant, 1945- editor.$$QBowman, Cynthia Grant" ],
+        "series" : [ "Research handbooks in legal theory series$$QResearch handbooks in legal theory series" ],
+        "contents" : [ "Part I. Feminism and legal theory : varieties of feminist legal theory -- 1. In defense of liberal feminism / Sylvia A. Law -- 2. Catharine A. MacKinnon and equality theory / Chao-ju Chen -- 3. Relational feminism and law / Robin West -- 4. The limits of equality : vulnerability and inevitable inequality / Martha Albertson Fineman -- 5. Socialist feminist legal theory : a plea / Cynthia Grant Bowman -- 6. Critical race feminism / Dorothy E. Roberts -- 7. Postmodern feminist legal theory / Laura A. Rosenbury -- 8. Feminism, sexuality and the law / Nan D. Hunter -- Part II. Feminist legal theory and criminal law -- 9. Sexual agency and the unfinished work of rape law reform / Deborah Tuerkheimer -- 10. Sexual violence and the law in India / Nivedita Menon -- 11. Violence against women and liberal sexism / Victoria Nourse -- 12. 'Some gentle violence' : marital rape immunity as contradiction in criminal law / Ngaire Naffine -- Part III. Feminist legal theory and reproductive rights -- 13. Reproductive rights and justice : a multiple feminist theories account / Lisa C. Ikemoto -- 14. Against Roe exceptionalism : degendering abortion / Noya Rimalt -- Part IV. Feminist legal theory, sex discrimination and sexual harassment -- 15. Sexual harassment law : an evolution in theory, scope and impact / Kimberly A. Yuracko -- 16. A dignitarian feminist jurisprudence with applications to rape, sexual harassment and honor codes / Orit Kamir -- 17. Sex equality, gender injury, Title IX and women's education / Katharine K. Baker -- Part V. Feminist legal theory and constitutional law --18. The gendered jurisprudence of the Fourteenth Amendment / Julie A. Nice --19. Beyond 'Free Speech for the White Man' : feminism and the First Amendment / Mary Anne Franks -- Part VI. Feminist legal theory and private law -- 20. Feminist legal theory and tort law / Martha Chamallas -- 21. Feminism and contract law / Hila Keren -- 22. How feminism remade American family law (and how it did not) / Susan Frelich Appleton -- 23. Feminism and family leave / Julie C. Suk -- Part VII. Feminist legal theory and international law -- 24. International law and feminism / Adrien K. Wing -- 25. The state's due diligence obligation / Irem Çağlar and Berna Akçali Gür." ],
+        "relation" : [ "$$Cform$$VPrint version: Research handbook on feminist jurisprudence. Cheltenham, UK ; Northampton, MA, USA : Edward Elgar Publishing Limited, [2019]$$QResearch handbook on feminist jurisprudence." ],
+        "place" : [ "Cheltenham, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "elgareb", "aleph006554960" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990065549600107871" ],
+        "recordid" : [ "alma990065549600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006554960-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "West", "Bowman" ],
+        "aufirst" : [ "Robin", "Cynthia Grant" ],
+        "auinit" : [ "R", "C" ],
+        "addau" : [ "West, Robin", "Bowman, Cynthia Grant" ],
+        "contributorfull" : [ "$$NWest, Robin$$LWest$$FRobin$$Reditor", "$$NBowman, Cynthia Grant$$Reditor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781786439697", "1786439697", "9781786439680" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The Research Handbook on Feminist Jurisprudence surveys feminist theoretical understandings of law, including liberal and radical feminism, as well as socialist, relational, intersectional, post-modern, and pro-sex and queer feminist legal theories.\"" ],
+        "cop" : [ "Cheltenham, UK" ],
+        "pub" : [ "Edward Elgar Publishing Limited" ],
+        "oclcid" : [ "(ocolc)1083205449" ],
+        "seriestitle" : [ "Research handbooks in legal theory series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Research handbook on feminist jurisprudence" ]
+      },
+      "sort" : {
+        "title" : [ "Research handbook on feminist jurisprudence /" ],
+        "author" : [ "West, Robin, 1954- editor." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065549600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1786439697,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "k\"349ǂ r47 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "105",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "67",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "62",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "364",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 402,
+    "COMBINED_SEARCH_TIME" : 405,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Droit Réforme",
+      "count" : "1"
+    }, {
+      "value" : "Feminist Jurisprudence",
+      "count" : "1"
+    }, {
+      "value" : "Feminist Jurisprudence United States",
+      "count" : "1"
+    }, {
+      "value" : "Féminisme Et Droit",
+      "count" : "1"
+    }, {
+      "value" : "Féminisme Et Droit États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Law Essays",
+      "count" : "1"
+    }, {
+      "value" : "Law General Practice",
+      "count" : "1"
+    }, {
+      "value" : "Law Jurisprudence",
+      "count" : "1"
+    }, {
+      "value" : "Law Paralegals Paralegalism",
+      "count" : "1"
+    }, {
+      "value" : "Law Practical Guides",
+      "count" : "1"
+    }, {
+      "value" : "Law Reference",
+      "count" : "1"
+    }, {
+      "value" : "Law Reform",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Women Legal Status Laws Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bowman Cynthia Grant",
+      "count" : "1"
+    }, {
+      "value" : "West Robin",
+      "count" : "1"
+    } ]
+  } ]
+}

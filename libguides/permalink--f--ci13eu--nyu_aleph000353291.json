@@ -1,0 +1,201 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990003532910107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng" ],
+        "title" : [ "Advocate (Bridgetown, Barbados)" ],
+        "subject" : [ "Bridgetown (Barbados)$$QBridgetown (Barbados) -- Newspapers" ],
+        "format" : [ "8 v." ],
+        "identifier" : [ "$$CLC$$Vsn 88063342;$$COCLC$$V(OCoLC)17931468" ],
+        "creationdate" : [ "1961-1968" ],
+        "publisher" : [ "Bridgetown, Barbados : Advocate Co.", "Nov. 21, 1961-June 2, 1968." ],
+        "mms" : [ "990003532910107871" ],
+        "addtitle" : [ "Sunday advocate" ],
+        "frequency" : [ "Daily" ],
+        "genre" : [ "Newspapers" ],
+        "relation" : [ "$$Cearlier_title$$VBarbados advocate$$QBarbados advocate", "$$Clater_title$$VAdvocate-news (Bridgetown, Barbados)$$QAdvocate-news (Bridgetown, Barbados)$$Z990003532920107871" ],
+        "unititle" : [ "Advocate (Bridgetown, Barbados)" ],
+        "place" : [ "Bridgetown, Barbados :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000353291" ],
+        "lds53" : [ "000353291" ],
+        "lds60" : [ "On Sunday published as: Sunday advocate." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990003532910107871" ],
+        "recordid" : [ "alma990003532910107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000353291-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Sunday advocate" ],
+        "date" : [ "1961 - 1968", "1961-1968" ],
+        "cop" : [ "Bridgetown, Barbados" ],
+        "pub" : [ "Advocate Co." ],
+        "oclcid" : [ "(ocolc)17931468" ],
+        "lccn" : [ "sn 88063342" ],
+        "btitle" : [ "Advocate (Bridgetown, Barbados)" ]
+      },
+      "sort" : {
+        "title" : [ "Advocate (Bridgetown, Barbados)" ],
+        "creationdate" : [ "1961" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003532910107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 88063342&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "newspaper 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "179",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "395",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 423,
+    "COMBINED_SEARCH_TIME" : 426,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1961",
+      "count" : "1"
+    }, {
+      "value" : "1968",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bridgetown Barbados Newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

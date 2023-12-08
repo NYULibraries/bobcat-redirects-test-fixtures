@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048599540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the book in Britain. Vol. V, 1695-1830 " ],
+        "subject" : [ "Books -- Great Britain -- History", "Book industries and trade -- Great Britain -- History", "Livres -- Grande-Bretagne -- Histoire", "Livres -- Industrie -- Grande-Bretagne -- Histoire", "Book industries and trade", "Books", "Great Britain" ],
+        "format" : [ "1 online resource (xxvi, 940 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780511862250;$$CISBN$$V0511862253;$$CISBN$$V1139056069;$$CISBN$$V9781139056069;$$COCLC$$V(OCoLC)703563730;$$CISBN$$V9780521810173" ],
+        "creationdate" : [ "2009" ],
+        "publisher" : [ "Cambridge : Cambridge University Press" ],
+        "description" : [ "This volume covers the history of printing and publishing from the lapse of government licensing of printed works in 1695 to the development of publishing as a specialist commercial undertaking and the industrialization of book production around 1830." ],
+        "mms" : [ "990048599540107871" ],
+        "contributor" : [ "Suarez, Michael F., 1960-$$QSuarez, Michael F.", "Turner, Michael L.$$QTurner, Michael L." ],
+        "addtitle" : [ "History of the book in Britain" ],
+        "series" : [ "Cambridge histories online$$QCambridge histories online", "Cambridge histories online.$$QCambridge histories online." ],
+        "contents" : [ "Introduction / Michael F. Suarez S.J. -- The quantity and nature of printed matter -- Towards a bibliometric analysis of the surviving record, 1701-1800 / Michael F. Suarez S.J. -- Printed ephemera / Michael Twyman -- Economic, legal and cultural contexts -- -- The book as a commodity / James Raven -- Copyright, authors and censorship / Mark Rose -- The rise of the professional author? / Dustin Griffin -- Women and print: readers, writers and the market / Isobel Grundy -- The technologies and aesthetics of book production -- The technologies of printing / James Mosley -- The industrialization of the paper trade / John Bidwell -- A year's work in the London printing house of the Bowyers / Keith Maslen -- Book illustration and the world of prints / Tim Clayton -- The morphology of the page / Nicolas Barker -- Bookbinding in the eighteenth century / Nicolas Pickwoad -- The book trade and its markets -- London and the central sites of the English book trade / James Raven -- Personnel within the London book trades: evidence from the Stationers' Company / Michael Turner -- The English provincial book trade: evidence from the British book trade index / Maureen Bell and John Hinks -- The Scottish book trade / Iain Beavan and Warren McDougall -- The Irish trade / Charles Benson -- Richard Francklin: a controversial publisher, bookseller and printer, 1718-1765 / James J. Caudle -- The Longmans and the book trade, c.1730-1830 / Asa Briggs -- London newspapers / Michael Harris -- Newspapers and the sale of books in the provinces / C.J. Ferdinand -- British commercial and financial journalism before 1800 / John J. McCusker -- Distribution -- the case of William Tayler / Michael Turner -- Periodicals and the trade, 1695-1780 / James Tierney -- Periodicals and serial publications, 1780-1830 / Brian Maidment -- Continental imports to Britain, 1695-1740 / P.G. Hoftijzer and O.S. Lankhorst -- The English book on the Continent / Bernhard Fabian and Marie-Luise Speickermann -- The British book in North America / James N. Green -- The British book in India / Graham Shaw -- Religious publishing / Isabel Rivers -- The Bible trade / B.J. McMullin -- The publishing and distribution of religious books / voluntary associations: from the Society for Promoting Christian Knowledge to the British and Foreign Bible Society / Scott Mandelbrote -- Book reviewing / Antonia Forster -- Publishing contemporary English literature, 1695-1774 / Michael F. Suarez S.J. -- British literature, 1774-1830 / Kathyrn Sutherland -- Scholarly editing: patristics, classical literature and Shakespeare / Marcus Walsh -- The reprint trade / Thomas F. Bonnell -- Collecting and the antiquarian book trade / Richard Landon -- The Stationers' Company and the almanack trade / Robin Myers -- Children's books and school-books / Andrea Immel -- Music / David G. Hunter -- Maps, charts and atlases in Britain, 1690-1830 / Yolande Hodson -- Enlarging the prospects of happiness: travel reading and travel writing / Shef Rogers -- Law books / Wilfrid Prest -- Philosophical books / John Valdimir Price -- Scientific and medical books, 1695-1780 / Alice Walters -- Scientific and medical books, 1780-1830 / Jonathan R. Topham -- 'Radical publishing' / Marcus Wood -- Mining the archive: a guide to present and future book-historical research resources / Michael F. Suarez S.J." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version:$$Z990016194130107871" ],
+        "place" : [ "Cambridge :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859954" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048599540107871" ],
+        "recordid" : [ "alma990048599540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004859954-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Suarez", "Turner" ],
+        "aufirst" : [ "Michael F.", "Michael L." ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Suarez, Michael F.", "Turner, Michael L." ],
+        "contributorfull" : [ "$$NSuarez, Michael F.$$LSuarez$$FMichael F.$$Rcontributor", "$$NTurner, Michael L.$$Rcontributor" ],
+        "addtitle" : [ "History of the book in Britain" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9780511862250", "0511862253", "1139056069", "9781139056069", "9780521810173" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This volume covers the history of printing and publishing from the lapse of government licensing of printed works in 1695 to the development of publishing as a specialist commercial undertaking and the industrialization of book production around 1830." ],
+        "cop" : [ "Cambridge" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)703563730" ],
+        "seriestitle" : [ "Cambridge histories online" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the book in Britain. Vol. V, 1695-1830" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the book in Britain. Vol. V, 1695-1830 /" ],
+        "author" : [ "Suarez, Michael F., 1960-" ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599540107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599540107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599540107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048599540107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0511862253,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z 8 g7ǂc36 2010",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "196",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "75",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "31",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "41",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "421",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 450,
+    "COMBINED_SEARCH_TIME" : 454,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Book Industries And Trade",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade Great Britain History",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books Great Britain History",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Livres Grande Bretagne Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Industrie Grande Bretagne Histoire",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Suarez Michael F",
+      "count" : "1"
+    }, {
+      "value" : "Turner Michael L",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

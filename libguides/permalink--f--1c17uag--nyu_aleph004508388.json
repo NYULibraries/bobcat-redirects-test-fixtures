@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045083880107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "New encyclopedia of Africa " ],
+        "subject" : [ "Africa$$QAfrica -- Encyclopedias", "Africa -- History$$QAfrica -- History -- Encyclopedias", "Africa -- Civilization$$QAfrica -- Civilization -- Encyclopedias", "Africa -- Social conditions$$QAfrica -- Social conditions -- Encyclopedias", "Africa -- Politics and government$$QAfrica -- Politics and government -- Encyclopedias", "Africa -- Economic conditions$$QAfrica -- Economic conditions -- Encyclopedias" ],
+        "format" : [ "1 online resource (5 volumes (3082 pages)) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780684315577;$$CISBN$$V0684315572;$$COCLC$$V(OCoLC)263132551;$$CISBN$$V9780684314549" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Detroit, Mich. : Charles Scribner's Sons" ],
+        "description" : [ "Addresses the entire history of African cultures from the pharaohs and the ancient civilizations of the south through the colonial era to the emergence of 53 independent countries, some of them newly emergent in world commerce and others deep in conflict. Covers issues facing the continent such as global development, the AIDS crisis, and international terrorism." ],
+        "mms" : [ "990045083880107871" ],
+        "contributor" : [ "Middleton, John, 1921- editor.$$QMiddleton, John", "Miller, Joseph Calder, editor.$$QMiller, Joseph Calder", "Gale Group.$$QGale Group." ],
+        "series" : [ "Gale eBooks$$QGale eBooks" ],
+        "contents" : [ "v. 1. Abd al-Qadir-Cummings-John -- v. 2. Dakar-Hydrology -- v. 3. Ibadan-Mzilikazi -- v. 4. Nairobi-Symbols -- v. 5. Taboo and Sin-Zubayr, Index." ],
+        "genre" : [ "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version: New encyclopedia of Africa. Detroit, Mich. : Charles Scribner's Sons, c2008$$QNew encyclopedia of Africa.$$Z990005762670107871" ],
+        "place" : [ "Detroit, Mich. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galevrl", "aleph004508388" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045083880107871" ],
+        "recordid" : [ "alma990045083880107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004508388-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Middleton", "Miller" ],
+        "aufirst" : [ "John", "Joseph Calder" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Middleton, John", "Miller, Joseph Calder" ],
+        "contributorfull" : [ "$$NMiddleton, John$$LMiddleton$$FJohn$$Reditor", "$$NMiller, Joseph Calder$$Reditor" ],
+        "date" : [ "2008" ],
+        "isbn" : [ "9780684315577", "0684315572", "9780684314549" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Addresses the entire history of African cultures from the pharaohs and the ancient civilizations of the south through the colonial era to the emergence of 53 independent countries, some of them newly emergent in world commerce and others deep in conflict. Covers issues facing the continent such as global development, the AIDS crisis, and international terrorism." ],
+        "cop" : [ "Detroit, Mich" ],
+        "pub" : [ "Charles Scribner's Sons" ],
+        "oclcid" : [ "(ocolc)263132551" ],
+        "seriestitle" : [ "Gale eBooks" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "New encyclopedia of Africa" ]
+      },
+      "sort" : {
+        "title" : [ "New encyclopedia of Africa /" ],
+        "author" : [ "Middleton, John, 1921- editor." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045083880107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045083880107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0684315572,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dt 3",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "245",
+    "CALL_SOLR_GET_IDS_LIST" : "58",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "105",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "458",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 484,
+    "COMBINED_SEARCH_TIME" : 486,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa Civilization Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Africa Economic Conditions Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Africa Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Africa History Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Africa Politics And Government Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Africa Social Conditions Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gale Group",
+      "count" : "1"
+    }, {
+      "value" : "Middleton John",
+      "count" : "1"
+    }, {
+      "value" : "Miller Joseph Calder",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045554110107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare, film studies, and the visual cultures of modernity " ],
+        "subject" : [ "Shakespeare, William, 1564-1616$$QShakespeare, William, 1564-1616 -- Film adaptations", "Shakespeare, William, 1564-1616", "Film adaptations -- History and criticism", "Motion pictures -- History", "Adaptations cinématographiques -- Histoire et critique", "Cinéma -- Histoire", "PERFORMING ARTS -- Reference", "Film adaptations", "Motion pictures" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9780230613737;$$CISBN$$V023061373X;$$CISBN$$V9781349734139;$$CISBN$$V1349734136;$$CISBN$$V9781403967886;$$COCLC$$V(OCoLC)949275648;$$CISBN$$V1403967881" ],
+        "creationdate" : [ "2008" ],
+        "creator" : [ "Guneratne, Anthony R., author.$$QGuneratne, Anthony R." ],
+        "publisher" : [ "New York, NY : Palgrave Macmillan" ],
+        "description" : [ "This book is the first in-depth cultural history of cinema's polyvalent and often contradictory appropriations of Shakespearean drama and performance traditions. The author argues that these adapatations have helped shape multiple aspects of film, from cinematic style to genre and narrative construction." ],
+        "mms" : [ "990045554110107871" ],
+        "contents" : [ "What's in a name? or, Something like an introduction -- Reconstituting King John : Victorian theatrical photorealism and the protocinema of adaptation -- Featuring the bard : Frederick Warde's Shakespeare and the transformation of American cinema -- The exfoliating folio, or, Transnational and international avant-gardes from Bernhardt's Hamlets to Hollywood's Europeans -- Genre, style, and the politique des auteurs : Orson Welles versus \"William Shakespeare\" -- Six authors in search of a text : the Shakespeares of Van Sant, Branagh, Godard, Pasolini, Greenaway, and Luhrmann." ],
+        "genre" : [ "Criticism, interpretation, etc", "Film adaptations", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Guneratne, Anthony R. Shakespeare, film studies, and the visual cultures of modernity. 1st ed. New York : Palgrave Macmillan, 2008$$QShakespeare, film studies, and the visual cultures of modernity.$$Z990030750520107871", "$$Cform$$VShakespeare, Film Studies, and the Visual Cultures of Modernity$$Z9995685354907871" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004555411" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045554110107871" ],
+        "recordid" : [ "alma990045554110107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004555411-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Guneratne" ],
+        "aufirst" : [ "Anthony R." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Guneratne, Anthony R." ],
+        "creatorfull" : [ "$$NGuneratne, Anthony R.$$LGuneratne$$FAnthony R.$$Rauthor" ],
+        "date" : [ "2008" ],
+        "isbn" : [ "9780230613737", "023061373X", "9781349734139", "1349734136", "9781403967886", "1403967881" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This book is the first in-depth cultural history of cinema's polyvalent and often contradictory appropriations of Shakespearean drama and performance traditions. The author argues that these adapatations have helped shape multiple aspects of film, from cinematic style to genre and narrative construction." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)949275648" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare, film studies, and the visual cultures of modernity" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare, film studies, and the visual cultures of modernity /" ],
+        "author" : [ "Guneratne, Anthony R., author." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045554110107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:023061373X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#3093",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "354",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "44",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "77",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "561",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 592,
+    "COMBINED_SEARCH_TIME" : 594,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Adaptations Cinématographiques Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Cinéma Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Film Adaptations",
+      "count" : "1"
+    }, {
+      "value" : "Film Adaptations History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures History",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Reference",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Film Adaptations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Guneratne Anthony R",
+      "count" : "1"
+    } ]
+  } ]
+}

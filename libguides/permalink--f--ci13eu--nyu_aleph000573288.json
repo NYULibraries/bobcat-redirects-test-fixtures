@@ -1,0 +1,258 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990005732880107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dracula" ],
+        "subject" : [ "Dracula, Count (Fictitious character)$$QDracula, Count (Fictitious character) -- Drama", "Vampires$$QVampires -- Drama" ],
+        "format" : [ "1 videodisc (100 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CISBN$$V0788604333;$$CISBN$$V9780788604331;$$CPUBNUM$$VDVD6354;$$COCLC$$V(OCoLC)50680219" ],
+        "creationdate" : [ "2002" ],
+        "publisher" : [ "Burbank, CA : MPI Home Video" ],
+        "description" : [ "Dracula: The immortal Count's centuries old existence is threatened after he attacks the lovely Lucy. When Lucy's fiance calls in Dr. Van Helsing to investigate a spine-tingling hunt for vampires follows." ],
+        "mms" : [ "990005732880107871" ],
+        "contributor" : [ "Curtis, Dan.$$QCurtis, Dan.", "Matheson, Richard, 1926-$$QMatheson, Richard", "Palance, Jack, 1919-2006.$$QPalance, Jack", "Ward, Simon, 1941-$$QWard, Simon", "Davenport, Nigel.$$QDavenport, Nigel.", "Brown, Pamela, 1917-1975.$$QBrown, Pamela", "Lewis, Fiona.$$QLewis, Fiona.", "Horner, Penelope.$$QHorner, Penelope.", "Brown, Murray, 1929-$$QBrown, Murray", "Stoker, Bram, 1847-1912.$$QStoker, Bram", "Lewis.$$QLewis.", "Dan Curtis Productions.$$QDan Curtis Productions.", "MPI Home Video (Firm)$$QMPI Home Video (Firm)" ],
+        "addtitle" : [ "Title on container: Dan Curtis' Dracula" ],
+        "genre" : [ "Drama", "Vampire films" ],
+        "relatedwork" : [ "Stoker, Bram, 1847-1912. Dracula.$$QStoker, Bram, 1847-1912. Dracula." ],
+        "place" : [ "Burbank, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000573288" ],
+        "lds53" : [ "000573288" ],
+        "lds60" : [ "Dolby digital.", "Originally produced as a motion picture in 1973.", "Dracula based on the novel by Bram Stoker.", "Special features: Interviews with Jack Palance and Dan Curtis ; original Dracula European theatrical trailer." ],
+        "lds64" : [ "Producer, Dan Curtis ; writer, Richard Matheson." ],
+        "lds65" : [ "Jack Palance, Simon Ward, Nigel Davenport, Pamela Brown, Fiona Lewis, Penelope Horner, Murray Brown." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990005732880107871" ],
+        "recordid" : [ "alma990005732880107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000573288-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Curtis", "Matheson", "Palance", "Ward", "Davenport", "Lewis", "Horner", "Brown", "Stoker", "Lewis." ],
+        "aufirst" : [ "Dan.", "Richard", "Jack", "Simon", "Nigel.", "Pamela", "Fiona.", "Penelope.", "Murray", "Bram" ],
+        "auinit" : [ "D", "R", "J", "S", "N", "F", "P", "M", "B" ],
+        "addau" : [ "Curtis, Dan.", "Matheson, Richard", "Palance, Jack", "Ward, Simon", "Davenport, Nigel.", "Brown, Pamela", "Lewis, Fiona.", "Horner, Penelope.", "Brown, Murray", "Stoker, Bram", "Lewis." ],
+        "contributorfull" : [ "$$NCurtis, Dan.$$LCurtis$$FDan.$$Rcontributor", "$$NMatheson, Richard$$Rcontributor", "$$NPalance, Jack$$Rcontributor", "$$NWard, Simon$$Rcontributor", "$$NDavenport, Nigel.$$Rcontributor", "$$NBrown, Pamela$$Rcontributor", "$$NLewis, Fiona.$$Rcontributor", "$$NHorner, Penelope.$$Rcontributor", "$$NBrown, Murray$$Rcontributor", "$$NStoker, Bram$$Rcontributor", "$$NLewis.$$Rcontributor" ],
+        "addtitle" : [ "Dan Curtis' Dracula" ],
+        "date" : [ "2002 - 1973", "2002" ],
+        "isbn" : [ "0788604333", "9780788604331" ],
+        "abstract" : [ "Dracula: The immortal Count's centuries old existence is threatened after he attacks the lovely Lucy. When Lucy's fiance calls in Dr. Van Helsing to investigate a spine-tingling hunt for vampires follows." ],
+        "cop" : [ "Burbank, CA" ],
+        "pub" : [ "MPI Home Video" ],
+        "oclcid" : [ "(ocolc)50680219" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Dracula" ]
+      },
+      "sort" : {
+        "title" : [ "Dracula" ],
+        "author" : [ "Curtis, Dan." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990005732880107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780788604331,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "791.4372",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "96",
+    "CALL_SOLR_GET_IDS_LIST" : "67",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "14",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "220",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 241,
+    "COMBINED_SEARCH_TIME" : 243,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1973",
+      "count" : "1"
+    }, {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Dracula Count Fictitious Character Drama",
+      "count" : "1"
+    }, {
+      "value" : "Vampires Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brown Murray",
+      "count" : "1"
+    }, {
+      "value" : "Brown Pamela",
+      "count" : "1"
+    }, {
+      "value" : "Curtis Dan",
+      "count" : "1"
+    }, {
+      "value" : "Dan Curtis Productions",
+      "count" : "1"
+    }, {
+      "value" : "Davenport Nigel",
+      "count" : "1"
+    }, {
+      "value" : "Horner Penelope",
+      "count" : "1"
+    }, {
+      "value" : "Lewis",
+      "count" : "1"
+    }, {
+      "value" : "Lewis Fiona",
+      "count" : "1"
+    }, {
+      "value" : "Matheson Richard",
+      "count" : "1"
+    }, {
+      "value" : "Mpi Home Video Firm",
+      "count" : "1"
+    }, {
+      "value" : "Palance Jack",
+      "count" : "1"
+    }, {
+      "value" : "Stoker Bram",
+      "count" : "1"
+    }, {
+      "value" : "Ward Simon",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028995600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The library of A. Chester Beatty : a catalogue of the Indian miniatures " ],
+        "subject" : [ "Illumination of books and manuscripts -- India", "Illumination of books and manuscripts$$QIllumination of books and manuscripts -- Specimens", "Painting -- India", "Mogul Empire", "Illumination of books and manuscripts", "Islamic painting", "Manuscripts, Oriental", "Painting", "India", "India -- Mogul Empire", "Beatty, Alfred Chester, (1875-1968)" ],
+        "format" : [ "3 volumes : color frontispieces (2 mounted), illustrations, 100 plates (some color, part mounted) : 47 cm" ],
+        "identifier" : [ "$$CLC$$V37013691;$$COCLC$$V(OCoLC)3021528" ],
+        "creationdate" : [ "1936" ],
+        "creator" : [ "Beatty, Alfred Chester, Sir, 1875-1968.$$QBeatty, Alfred Chester" ],
+        "publisher" : [ "London : Emery Walker, Limited, 45 Great Russell Street, Bloomsbury, W.C." ],
+        "mms" : [ "990028995600107871" ],
+        "contributor" : [ "Arnold, Thomas Walker, Sir, 1864-1930.$$QArnold, Thomas Walker", "Wilkinson, J. V. S. (James Vere Stewart)$$QWilkinson, J. V. S.", "Chester Beatty Library$$QChester Beatty Library", "Luzac & Co. (London, England), bookseller.$$QLuzac & Co. (London, England)" ],
+        "addtitle" : [ "The Chester Beatty collection of Indian miniatures." ],
+        "contents" : [ "I. Text.--II-III. Plates." ],
+        "genre" : [ "Specimens" ],
+        "place" : [ "London] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002899560" ],
+        "lds53" : [ "002899560" ],
+        "lds60" : [ "On spines: The Chester Beatty collection of Indian miniatures.", "Most of the miniatures reproduced and described in this catalogue are the work of the Mughal court painters from the 16th through 17th centuries of Mughal rule.", "I. Text.--II-III. Plates.", "SpecCol c.1 v.1-3 are bound in publisher's gray cloth.", "SpecCol c.1 v.1-3 have bookseller's tickets affixed to front endpaper pastedowns: \"Luzac & Co., Oriental booksellers and publishers, 46, Gt. Russell Street, London, W.C.\"", "SpecCol c.1 v.2 has an ex-library plate on front endpaper pastedown: \"Gift of the Hagop Kevorkian Foundation New York University Libraries Institute of Fine Arts.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028995600107871" ],
+        "recordid" : [ "alma990028995600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002899560-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Beatty" ],
+        "aufirst" : [ "Alfred Chester" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Beatty, Alfred Chester" ],
+        "addau" : [ "Arnold, Thomas Walker", "Wilkinson, J. V. S. (James Vere Stewart)" ],
+        "creatorfull" : [ "$$NBeatty, Alfred Chester$$LBeatty$$FAlfred Chester$$Rauthor" ],
+        "contributorfull" : [ "$$NArnold, Thomas Walker$$LArnold$$FThomas Walker$$Rcontributor", "$$NWilkinson, J. V. S. (James Vere Stewart)$$Rcontributor" ],
+        "addtitle" : [ "The Chester Beatty collection of Indian miniatures." ],
+        "date" : [ "1936" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Emery Walker, Limited, 45 Great Russell Street, Bloomsbury, W.C." ],
+        "oclcid" : [ "(ocolc)3021528" ],
+        "lccn" : [ "37013691" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The library of A. Chester Beatty : a catalogue of the Indian miniatures" ]
+      },
+      "sort" : {
+        "title" : [ "library of A. Chester Beatty : a catalogue of the Indian miniatures /" ],
+        "author" : [ "Beatty, Alfred Chester, Sir, 1875-1968." ],
+        "creationdate" : [ "1936" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028995600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:37013691&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nd#3247ǂ b4",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "137",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "355",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 379,
+    "COMBINED_SEARCH_TIME" : 381,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1936",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Beatty Alfred Chester 1875 1968",
+      "count" : "1"
+    }, {
+      "value" : "Illumination Of Books And Manuscripts",
+      "count" : "1"
+    }, {
+      "value" : "Illumination Of Books And Manuscripts India",
+      "count" : "1"
+    }, {
+      "value" : "Illumination Of Books And Manuscripts Specimens",
+      "count" : "1"
+    }, {
+      "value" : "India",
+      "count" : "1"
+    }, {
+      "value" : "India Mogul Empire",
+      "count" : "1"
+    }, {
+      "value" : "Islamic Painting",
+      "count" : "1"
+    }, {
+      "value" : "Manuscripts Oriental",
+      "count" : "1"
+    }, {
+      "value" : "Mogul Empire",
+      "count" : "1"
+    }, {
+      "value" : "Painting",
+      "count" : "1"
+    }, {
+      "value" : "Painting India",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Arnold Thomas Walker",
+      "count" : "1"
+    }, {
+      "value" : "Beatty Alfred Chester",
+      "count" : "1"
+    }, {
+      "value" : "Chester Beatty Library",
+      "count" : "1"
+    }, {
+      "value" : "Luzac Co London England",
+      "count" : "1"
+    }, {
+      "value" : "Wilkinson J V S",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163051690007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163055270007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

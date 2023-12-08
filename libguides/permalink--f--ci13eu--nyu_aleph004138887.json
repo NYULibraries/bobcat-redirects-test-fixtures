@@ -1,0 +1,288 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041388870107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Mohawk interruptus : political life across the borders of settler states " ],
+        "subject" : [ "Mohawk Indians -- Québec (Province) -- Kahnawake Indian Reserve -- Ethnic identity", "Mohawk Indians -- Québec (Province) -- Kahnawake Indian Reserve -- History", "Indigenous peoples -- Canada -- Ethnic identity", "Indigenous peoples -- Canada -- History", "Native peoples -- Québec (Province) -- Kahnawake Indian Reserve -- Ethnic identity", "Native peoples -- Québec (Province) -- Kahnawake Indian Reserve -- History", "Mohawk -- Identité ethnique -- Québec (Province) -- Kahnawake (Réserve indienne)", "Mohawk -- Québec (Province) -- Kahnawake (Réserve indienne) -- Histoire", "Peuples autochtones -- Canada -- Histoire", "HISTORY -- Canada -- General", "SOCIAL SCIENCE -- Ethnic Studies -- Native American Studies", "Indigenous peoples -- Ethnic identity", "Indigenous peoples", "Mohawk Indians", "Mohawk Indians -- Ethnic identity", "Canada", "Québec -- Kahnawake Indian Reserve", "Mohawk", "Gruppenidentität", "Grenzgebiet", "Staatsangehörigkeit", "Widerstand", "Kahnawake Indian Reserve" ],
+        "format" : [ "1 online resource (xiii, 260 pages) : illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9780822376781;$$CISBN$$V0822376784;$$COCLC$$V(OCoLC)871710651;$$CISBN$$V9780822356431;$$CISBN$$V9780822356554" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Simpson, Audra, 1969- author.$$QSimpson, Audra" ],
+        "publisher" : [ "Durham : Duke University Press" ],
+        "description" : [ "Mohawk Interruptus is a bold challenge to dominant thinking in the fields of Native studies and anthropology. Combining political theory with ethnographic research among the Mohawks of Kahnawà:ke, a reserve community in what is now southwestern Quebec, Audra Simpson examines their struggles to articulate and maintain political sovereignty through centuries of settler colonialism. The Kahnawà:ke Mohawks are part of the Haudenosaunee or Iroquois Confederacy. Like many Iroquois peoples, they insist on the integrity of Haudenosaunee governance and refuse American or Canadian citizenship. Audra Simpson thinks through this politics of refusal, which stands in stark contrast to the politics of cultural recognition. Tracing the implications of refusal, Simpson argues that one sovereign political order can exist nested within a sovereign state, albeit with enormous tension around issues of jurisdiction and legitimacy. Finally, Simpson critiques anthropologists and political scientists, whom, she argues, have too readily accepted the assumption that the colonial project is complete. Belying that notion, Mohawk Interruptus calls for and demonstrates more robust and evenhanded forms of inquiry into Indigenous politics in the teeth of settler governance." ],
+        "mms" : [ "990041388870107871" ],
+        "contents" : [ "Indigenous interruptions : Mohawk nationhood, citizenship, and the state -- A brief history of land, meaning, and membership in Iroquoia and Kahnawà:ke -- Constructing Kahnawà:ke as an \"out-of-the-way\" place : Ely S. Parker, Lewis Henry Morgan, and the writing of the Iroquois confederacy -- Ethnographic refusal : anthropological need -- Borders, cigarettes, and sovereignty -- The gender of the flint : Mohawk nationhood and citizenship in the face of empire -- Interruptus." ],
+        "genre" : [ "Electronic books", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Simpson, Audra, 1969- Mohawk interruptus. Duke University Press : Durham ; London, 2014$$QMohawk interruptus.$$Z990039926200107871" ],
+        "place" : [ "Durham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "dukeeb", "ebceb", "pmuseeba", "aleph004138887" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041388870107871" ],
+        "recordid" : [ "alma990041388870107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004138887-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Simpson" ],
+        "aufirst" : [ "Audra" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Simpson, Audra" ],
+        "creatorfull" : [ "$$NSimpson, Audra$$LSimpson$$FAudra$$Rauthor" ],
+        "date" : [ "2014 - 2014", "2014" ],
+        "isbn" : [ "9780822376781", "0822376784", "9780822356431", "9780822356554" ],
+        "notes" : [ "Includes bibliographical references (pages 201-249) and index." ],
+        "abstract" : [ "Mohawk Interruptus is a bold challenge to dominant thinking in the fields of Native studies and anthropology. Combining political theory with ethnographic research among the Mohawks of Kahnawà:ke, a reserve community in what is now southwestern Quebec, Audra Simpson examines their struggles to articulate and maintain political sovereignty through centuries of settler colonialism. The Kahnawà:ke Mohawks are part of the Haudenosaunee or Iroquois Confederacy. Like many Iroquois peoples, they insist on the integrity of Haudenosaunee governance and refuse American or Canadian citizenship. Audra Simpson thinks through this politics of refusal, which stands in stark contrast to the politics of cultural recognition. Tracing the implications of refusal, Simpson argues that one sovereign political order can exist nested within a sovereign state, albeit with enormous tension around issues of jurisdiction and legitimacy. Finally, Simpson critiques anthropologists and political scientists, whom, she argues, have too readily accepted the assumption that the colonial project is complete. Belying that notion, Mohawk Interruptus calls for and demonstrates more robust and evenhanded forms of inquiry into Indigenous politics in the teeth of settler governance." ],
+        "cop" : [ "Durham" ],
+        "pub" : [ "Duke University Press" ],
+        "oclcid" : [ "(ocolc)871710651" ],
+        "doi" : [ "10.1515/9780822376781" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Mohawk interruptus : political life across the borders of settler states" ]
+      },
+      "sort" : {
+        "title" : [ "Mohawk interruptus : political life across the borders of settler states /" ],
+        "author" : [ "Simpson, Audra, 1969- author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041388870107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041388870107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041388870107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990041388870107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0822376784,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e!99 m8ǂs56 2014eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "239",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "143",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "71",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "117",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "585",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 622,
+    "COMBINED_SEARCH_TIME" : 624,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Canada",
+      "count" : "1"
+    }, {
+      "value" : "Grenzgebiet",
+      "count" : "1"
+    }, {
+      "value" : "Gruppenidentität",
+      "count" : "1"
+    }, {
+      "value" : "History Canada General",
+      "count" : "1"
+    }, {
+      "value" : "Indigenous Peoples",
+      "count" : "1"
+    }, {
+      "value" : "Indigenous Peoples Canada Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Indigenous Peoples Canada History",
+      "count" : "1"
+    }, {
+      "value" : "Indigenous Peoples Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Kahnawake Indian Reserve",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Identité Ethnique Québec Province Kahnawake Réserve Indienne",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Indians",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Indians Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Indians Québec Province Kahnawake Indian Reserve Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Indians Québec Province Kahnawake Indian Reserve History",
+      "count" : "1"
+    }, {
+      "value" : "Mohawk Québec Province Kahnawake Réserve Indienne Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Native Peoples Québec Province Kahnawake Indian Reserve Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Native Peoples Québec Province Kahnawake Indian Reserve History",
+      "count" : "1"
+    }, {
+      "value" : "Peuples Autochtones Canada Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Québec Kahnawake Indian Reserve",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Simpson Audra",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

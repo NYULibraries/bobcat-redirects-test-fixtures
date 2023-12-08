@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995641145507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "International journal of arts management (Online)" ],
+        "subject" : [ "Arts -- Management$$QArts -- Management -- Periodicals", "Arts -- Marketing$$QArts -- Marketing -- Periodicals", "Culture -- Management$$QCulture -- Management -- Periodicals", "Arts -- Gestion$$QArts -- Gestion -- Périodiques", "Culture -- Gestion$$QCulture -- Gestion -- Périodiques", "Musées -- Gestion$$QMusées -- Gestion -- Périodiques", "Arts Administration & Management", "Arts -- Management", "Arts -- Marketing", "Kunstbeleid" ],
+        "identifier" : [ "$$CLC$$V  2004255556;$$COCLC$$V(OCoLC)56839394;$$CISSN$$V1480-8986" ],
+        "creationdate" : [ "1998-" ],
+        "publisher" : [ "Montréal : Chair in Arts Management, École des hautes études commerciales", "Vol. 1, no. 1 (fall 1998)-" ],
+        "mms" : [ "9995641145507871" ],
+        "contributor" : [ "Ecole des hautes études commerciales (Montréal, Québec). Chaire de gestion des arts.$$QEcole des hautes études commerciales (Montréal, Québec). Chaire de gestion des arts." ],
+        "frequency" : [ "Three times a year" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990017137880107871" ],
+        "unititle" : [ "International journal of arts management (Online)" ],
+        "place" : [ "Montréal :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)991042740368052" ],
+        "lds60" : [ "Title from PDF cover (JSTOR, viewed Aug. 12, 2011)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995641145507871" ],
+        "recordid" : [ "alma9995641145507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99991042740368052" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "INT. J. ARTS MANAG", "INT J ARTS MANAG" ],
+        "date" : [ "1998", "1998-" ],
+        "issn" : [ "1480-8986" ],
+        "cop" : [ "Montréal" ],
+        "pub" : [ "Chair in Arts Management, École des hautes études commerciales" ],
+        "oclcid" : [ "(ocolc)56839394" ],
+        "lccn" : [ "2004255556" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "International journal of arts management (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "International journal of arts management (Online)" ],
+        "author" : [ "Ecole des hautes études commerciales (Montréal, Québec). Chaire de gestion des arts." ],
+        "creationdate" : [ "1998" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641145507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641145507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641145507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004255556&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nx\"760",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "177",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "169",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "54",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "143",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "525",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 559,
+    "COMBINED_SEARCH_TIME" : 561,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1998",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Arts Administration Management",
+      "count" : "1"
+    }, {
+      "value" : "Arts Gestion Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Arts Management",
+      "count" : "1"
+    }, {
+      "value" : "Arts Management Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Arts Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Arts Marketing Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Culture Gestion Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Culture Management Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Kunstbeleid",
+      "count" : "1"
+    }, {
+      "value" : "Musées Gestion Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ecole Des Hautes Études Commerciales Montréal Québec Chaire De Gestion Des Arts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

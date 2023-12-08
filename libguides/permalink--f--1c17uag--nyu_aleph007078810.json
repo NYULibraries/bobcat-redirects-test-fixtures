@@ -1,0 +1,266 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990070788100107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Nursing literature reviews : a reflection " ],
+        "subject" : [ "Writing", "Soins infirmiers -- Recherche", "Soins infirmiers -- Recherche -- Méthodologie", "Soins infirmiers -- Documentation", "Services de santé -- Recherche", "Écriture", "writing (processes)", "MEDICAL -- Nursing -- Research & Theory", "Nursing -- Research -- Methodology", "Nursing literature", "Nursing -- Research", "Medical writing" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2021761563;$$CISBN$$V9781315211442;$$CISBN$$V1315211440;$$CISBN$$V9781351812689;$$CISBN$$V1351812688;$$CISBN$$V9781351812696;$$CISBN$$V1351812696;$$CISBN$$V9781351812702;$$CISBN$$V135181270X;$$COCLC$$V(OCoLC)1109968671;$$CISBN$$V9780415792707" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Lipscomb, Martin, author.$$QLipscomb, Martin" ],
+        "publisher" : [ "Abingdon, Oxon ; New York, NY : Routledge" ],
+        "description" : [ "Literature reviews are undertaken by students, researchers, clinicians and educationalists - that is, almost all nurses. Despite much excellent work, exploring the assumptions and practices that constitute searching for and reviewing literature has merit, and prompting those who undertake these activities to think critically about what it is that they are doing should be encouraged. Widely adopted approaches to structuring reviews (the \"standard model\") can detrimentally limit the scope or range of literature that is accessed and appraised. It is further proposed that a lack of professional ambition or confidence invests aspects of the way some nurses engage with the sources that are available to them. Across the book, parochialism is challenged. The crucial roles that values and judgement play in reviews are highlighted. It is argued that humanities and arts texts deserve, potentially, a bigger or more assured place in reviews undertaken by nurses. Difficulties in appraising quantitative and qualitative research reports are identified, and benefits linked with taking a contemplative line through the review process are considered. This book contributes to debates around evidence-based practice and literature reviews more generally. It will appeal to anyone with an interest in professional issues, research, and the philosophy and sociology of nursing" ],
+        "mms" : [ "990070788100107871" ],
+        "contents" : [ "Introductory harrumphing -- Two types of question -- Conceptual muddle: an ordinary search (part I) -- Beliefs and values: an ordinary search (part II) -- Nursing and non-nursing sources: an ordinary search (part III) -- Reviewing quantitative research -- Reviewing qualitative research -- The final curtain -- References -- Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Lipscomb, Martin. Nursing literature reviews. Abingdon, Oxon ; New York, NY : Routledge, 2020$$QNursing literature reviews." ],
+        "mesh" : [ "Nursing Research", "Education, Nursing -- methods", "Nursing Research -- methods", "Nursing Research -- standards", "Health Services Research", "Writing", "Nurses Instruction" ],
+        "place" : [ "Abingdon, Oxon ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph007078810" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990070788100107871" ],
+        "recordid" : [ "alma990070788100107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007078810-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lipscomb" ],
+        "aufirst" : [ "Martin" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Lipscomb, Martin" ],
+        "creatorfull" : [ "$$NLipscomb, Martin$$LLipscomb$$FMartin$$Rauthor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781315211442", "1315211440", "9781351812689", "1351812688", "9781351812696", "1351812696", "9781351812702", "135181270X", "9780415792707" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Literature reviews are undertaken by students, researchers, clinicians and educationalists - that is, almost all nurses. Despite much excellent work, exploring the assumptions and practices that constitute searching for and reviewing literature has merit, and prompting those who undertake these activities to think critically about what it is that they are doing should be encouraged. Widely adopted approaches to structuring reviews (the \"standard model\") can detrimentally limit the scope or range of literature that is accessed and appraised. It is further proposed that a lack of professional ambition or confidence invests aspects of the way some nurses engage with the sources that are available to them. Across the book, parochialism is challenged. The crucial roles that values and judgement play in reviews are highlighted. It is argued that humanities and arts texts deserve, potentially, a bigger or more assured place in reviews undertaken by nurses. Difficulties in appraising quantitative and qualitative research reports are identified, and benefits linked with taking a contemplative line through the review process are considered. This book contributes to debates around evidence-based practice and literature reviews more generally. It will appeal to anyone with an interest in professional issues, research, and the philosophy and sociology of nursing" ],
+        "cop" : [ "Abingdon, Oxon ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)1109968671" ],
+        "lccn" : [ "2021761563" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Nursing literature reviews : a reflection" ]
+      },
+      "sort" : {
+        "title" : [ "Nursing literature reviews : a reflection /" ],
+        "author" : [ "Lipscomb, Martin, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070788100107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070788100107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070788100107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1315211440,OCLC:,LCCN:2021761563&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rt!81.5ǂ l56 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "196",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "103",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "55",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "125",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "73",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "214",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "614",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 645,
+    "COMBINED_SEARCH_TIME" : 648,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Nursing Methods",
+      "count" : "1"
+    }, {
+      "value" : "Health Services Research",
+      "count" : "1"
+    }, {
+      "value" : "Medical Nursing Research Theory",
+      "count" : "1"
+    }, {
+      "value" : "Medical Writing",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Literature",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Research",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Research Methods",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Research Standards",
+      "count" : "1"
+    }, {
+      "value" : "Services De Santé Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Documentation",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Writing",
+      "count" : "1"
+    }, {
+      "value" : "Writing Processes",
+      "count" : "1"
+    }, {
+      "value" : "Écriture",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lipscomb Martin",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

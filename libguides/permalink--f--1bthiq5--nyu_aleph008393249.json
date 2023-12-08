@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990083932490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook on Climate Change and Human Security " ],
+        "subject" : [ "Climat -- Changements -- Évaluation du risque", "Climat -- Changements -- Gestion du risque", "Sécurité humaine", "BUSINESS & ECONOMICS -- Infrastructure", "SOCIAL SCIENCE -- General", "Climatic changes -- Government policy", "Climatic changes -- Risk assessment", "Climatic changes -- Risk management", "Human security", "Environment and Ecology" ],
+        "format" : [ "1 online resource (448 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780857939111;$$CISBN$$V0857939114;$$COCLC$$V(OCoLC)862049933;$$CISBN$$V9780857939104" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Redclift, M. R.$$QRedclift, M. R." ],
+        "publisher" : [ "Cheltenham : Edward Elgar Publishing" ],
+        "description" : [ "The Handbook on Climate Change and Human Security is a landmark publication which links the complexities of climate change to the well-being and resilience of human populations. It is written in an engaging and accessible way but also conveys the state of the art on both climate change research and work into human security, utilizing both disciplinary and interdisciplinary approaches. Organized around thematic sections, each chapter is written by an acknowledged expert in the field, and discusses the key concepts and evidence base for our current policy choices, and the dilemmas of international policy in the field. The Handbook is unique in addressing sophisticated ethical and moral questions as well as new information and data from different geographical regions. It is a timely volume that makes the case for acting wisely now to avert impending crises and global environmental problems. The Handbook is international in scope and provides an assessment that will be of value to academics, students, and policy professionals alike. NGOs and policy institutes which need a grasp of the specificity and range of the issues and problems will also find this book insightful." ],
+        "mms" : [ "990083932490107871" ],
+        "contributor" : [ "Grasso, Marco.$$QGrasso, Marco.", "Redclift, M. R.$$QRedclift, M. R." ],
+        "contents" : [ "Cover; Copyright; Contents; Figures; Tables; Contributors; Introduction: human security in the age of carbon; PART I FRAMING THE ISSUE: CLIMATE CHANGE AND HUMAN SECURITY; 1. Climate change as an issue of human security; 2. Elements and value-added of a human security approach in the study of climate change; 3. The IPCC, human security, and the climate-conflict nexus; 4. Space, time and scales of human security in climate change; PART II THE DETERMINANTS OF HUMAN SECURITY IN THE CLIMATE CHANGE CONTEXT; 5. The environmental determinants of human security in the context of climate change.", "6. The social dimensions of human security under a changing climate7. Vulnerability does not just fall from the sky: toward multi-scale pro-poor climate policy; 8. Disasters and human security: natural hazards and political instability in Haiti and the Dominican Republic; PART III A REGIONAL PERSPECTIVE ON CLIMATE CHANGE AND HUMAN SECURITY; 9. The impact of climate change on humans ecurity in Latin America and the Caribbean; 10. Human security and climate change int he Mediterranean region; 11. Climate change and human security in the Arctic; 12. Climate change and human security in Africa.", "PART IV RESPONSES TO THE THREATS POSED BY CLIMATE CHANGE TO HUMAN SECURITY13. Climate change and human security: the individual and community response; 14. Climate change, human security and the built environment; 15. Climate change and human security: the international governance architectures, policies and instruments; 16. A human rights-based approach from strengthening human security against climate change; Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Redclift, M.R. Handbook on Climate Change and Human Security. Cheltenham : Edward Elgar Publishing, ©2013$$QHandbook on Climate Change and Human Security." ],
+        "place" : [ "Cheltenham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "elgareb", "aleph008393249" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990083932490107871" ],
+        "recordid" : [ "alma990083932490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008393249-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Redclift" ],
+        "aufirst" : [ "M. R." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Redclift, M. R." ],
+        "addau" : [ "Grasso, Marco.", "Redclift, M. R." ],
+        "creatorfull" : [ "$$NRedclift, M. R.$$LRedclift$$FM. R.$$Rauthor" ],
+        "contributorfull" : [ "$$NGrasso, Marco.$$LGrasso$$FMarco.$$Rcontributor", "$$NRedclift, M. R.$$Rcontributor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780857939111", "0857939114", "9780857939104" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The Handbook on Climate Change and Human Security is a landmark publication which links the complexities of climate change to the well-being and resilience of human populations. It is written in an engaging and accessible way but also conveys the state of the art on both climate change research and work into human security, utilizing both disciplinary and interdisciplinary approaches. Organized around thematic sections, each chapter is written by an acknowledged expert in the field, and discusses the key concepts and evidence base for our current policy choices, and the dilemmas of international policy in the field. The Handbook is unique in addressing sophisticated ethical and moral questions as well as new information and data from different geographical regions. It is a timely volume that makes the case for acting wisely now to avert impending crises and global environmental problems. The Handbook is international in scope and provides an assessment that will be of value to academics, students, and policy professionals alike. NGOs and policy institutes which need a grasp of the specificity and range of the issues and problems will also find this book insightful." ],
+        "cop" : [ "Cheltenham" ],
+        "pub" : [ "Edward Elgar Publishing" ],
+        "oclcid" : [ "(ocolc)862049933" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook on Climate Change and Human Security" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook on Climate Change and Human Security /" ],
+        "author" : [ "Redclift, M. R." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990083932490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0857939114,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qc\"903ǂ h36 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "167",
+    "CALL_SOLR_GET_IDS_LIST" : "131",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "49",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "86",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "54",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "157",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "530",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 561,
+    "COMBINED_SEARCH_TIME" : 565,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Infrastructure",
+      "count" : "1"
+    }, {
+      "value" : "Climat Changements Gestion Du Risque",
+      "count" : "1"
+    }, {
+      "value" : "Climat Changements Évaluation Du Risque",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Government Policy",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Risk Assessment",
+      "count" : "1"
+    }, {
+      "value" : "Climatic Changes Risk Management",
+      "count" : "1"
+    }, {
+      "value" : "Environment And Ecology",
+      "count" : "1"
+    }, {
+      "value" : "Human Security",
+      "count" : "1"
+    }, {
+      "value" : "Social Science General",
+      "count" : "1"
+    }, {
+      "value" : "Sécurité Humaine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Grasso Marco",
+      "count" : "1"
+    }, {
+      "value" : "Redclift M R",
+      "count" : "1"
+    } ]
+  } ]
+}

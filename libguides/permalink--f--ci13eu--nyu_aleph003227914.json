@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032279140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Pratt's guide to private equity & venture capital sources." ],
+        "subject" : [ "Financial institutions$$QFinancial institutions -- Directories", "Small business investment companies$$QSmall business investment companies -- Directories", "Private equity$$QPrivate equity -- Periodicals", "Venture capital$$QVenture capital -- Periodicals" ],
+        "format" : [ "v. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V2008228771;$$CISSN$$V0884-1616;$$COCLC$$V(OCoLC)232335677" ],
+        "creationdate" : [ "c2008-" ],
+        "publisher" : [ "New York, N.Y. : Thomson Reuters", "2008 ed.-" ],
+        "mms" : [ "990032279140107871" ],
+        "contributor" : [ "Thomson Reuters.$$QThomson Reuters." ],
+        "addtitle" : [ "Pratt's guide to private equity and venture capital sources", "Guide to private equity & venture capital sources", "Guide to private equity and venture capital sources" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Directories", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VPratt's guide to private equity sources$$QPratt's guide to private equity sources$$Z990002444260107871" ],
+        "place" : [ "New York, N.Y. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003227914" ],
+        "lds53" : [ "003227914" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032279140107871" ],
+        "recordid" : [ "alma990032279140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003227914-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Pratt's guide to private equity and venture capital sources", "Guide to private equity & venture capital sources", "Guide to private equity and venture capital sources" ],
+        "date" : [ "2008", "c2008-" ],
+        "issn" : [ "0884-1616" ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "Thomson Reuters" ],
+        "oclcid" : [ "(ocolc)232335677" ],
+        "lccn" : [ "2008228771" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Pratt's guide to private equity & venture capital sources." ]
+      },
+      "sort" : {
+        "title" : [ "Pratt's guide to private equity & venture capital sources." ],
+        "author" : [ "Thomson Reuters." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990032279140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008228771&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg!64ǂ p73",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "199",
+    "CALL_SOLR_GET_IDS_LIST" : "103",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "50",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "434",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 458,
+    "COMBINED_SEARCH_TIME" : 461,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Financial Institutions Directories",
+      "count" : "1"
+    }, {
+      "value" : "Private Equity Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Small Business Investment Companies Directories",
+      "count" : "1"
+    }, {
+      "value" : "Venture Capital Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Thomson Reuters",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

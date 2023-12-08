@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039692270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Television program master index : access to critical and historical information on 2,273 shows in books, dissertations and journal articles " ],
+        "subject" : [ "Television programs -- United States$$QTelevision programs -- United States -- Indexes" ],
+        "format" : [ "ix, 326 pages ; 26 cm" ],
+        "identifier" : [ "$$CLC$$V2014000847;$$CISBN$$V9780786472451 (softcover : alk. paper);$$CISBN$$V0786472456 (softcover : alk. paper);$$COCLC$$V(OCoLC)868300645" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Dintrone, Charles V., 1942- author.$$QDintrone, Charles V." ],
+        "publisher" : [ "Jefferson, North Carolina : McFarland & Company, Inc., Publishers" ],
+        "mms" : [ "990039692270107871" ],
+        "edition" : [ "Third edition." ],
+        "contents" : [ "The index (by television show) -- Appendix A: Websites -- Appendix B: Index to groups or classes of people on television -- Appendix C: Programs listed by genre -- Sources used." ],
+        "genre" : [ "Indexes" ],
+        "place" : [ "Jefferson, North Carolina :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003969227" ],
+        "lds53" : [ "003969227" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039692270107871" ],
+        "recordid" : [ "alma990039692270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003969227-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dintrone" ],
+        "aufirst" : [ "Charles V." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Dintrone, Charles V." ],
+        "creatorfull" : [ "$$NDintrone, Charles V.$$LDintrone$$FCharles V.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9780786472451", "0786472456" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Jefferson, North Carolina" ],
+        "pub" : [ "McFarland & Company, Inc., Publishers" ],
+        "oclcid" : [ "(ocolc)868300645" ],
+        "lccn" : [ "2014000847" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Television program master index : access to critical and historical information on 2,273 shows in books, dissertations and journal articles" ]
+      },
+      "sort" : {
+        "title" : [ "Television program master index : access to critical and historical information on 2,273 shows in books, dissertations and journal articles /" ],
+        "author" : [ "Dintrone, Charles V., 1942- author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990039692270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0786472456,OCLC:,LCCN:2014000847&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1992.9ǂ d56 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "65",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "249",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 274,
+    "COMBINED_SEARCH_TIME" : 276,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Television Programs United States Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dintrone Charles V",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

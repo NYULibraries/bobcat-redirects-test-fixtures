@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990029476480107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Dictionnaire de théologie catholique, contenant l'exposé des doctrines de la théologie catholique, leurs preuves et leur histoire" ],
+        "subject" : [ "Catholic Church -- French$$QCatholic Church -- French -- Dictionaries" ],
+        "format" : [ "15 v. in 30 : ill. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$Va 14000712 //r884" ],
+        "creationdate" : [ "1903-50 i.e. 1899-1950" ],
+        "publisher" : [ "Paris, Letouzey et Ané" ],
+        "mms" : [ "990029476480107871" ],
+        "contributor" : [ "Amann, Emile, 1880-1948$$QAmann, Emile", "Mangenot, E. (Eugène), 1856-1922$$QMangenot, E.", "Vacant, Alfred, 1852-1901$$QVacant, Alfred" ],
+        "genre" : [ "Dictionaries" ],
+        "place" : [ "Paris," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002947648" ],
+        "lds53" : [ "002947648" ],
+        "lds60" : [ "Vols. 1-2, 2. tirage, 1909-10.", "Issued in 150 parts.", "Vol. 7, pt. 2; v. 8-15, \"Commencé sous la direction de A. Vacant [et] E. Mangenot; continué sous celle de E. Amann.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990029476480107871" ],
+        "recordid" : [ "alma990029476480107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002947648-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Amann", "Mangenot", "Vacant" ],
+        "aufirst" : [ "Emile", "E.", "Alfred" ],
+        "auinit" : [ "E", "A" ],
+        "addau" : [ "Amann, Emile", "Mangenot, E. (Eugène)", "Vacant, Alfred" ],
+        "contributorfull" : [ "$$NAmann, Emile$$LAmann$$FEmile$$Rcontributor", "$$NMangenot, E. (Eugène)$$Rcontributor", "$$NVacant, Alfred$$Rcontributor" ],
+        "date" : [ "1899 - 1950", "1903-50 i.e. 1899-1950" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "Letouzey et Ané" ],
+        "oclcid" : [ "nyub10674501", "(caotulas)177575138", "(cstrlin)nyug85-g01769", "glis6745015" ],
+        "lccn" : [ "a 14000712 //r884" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dictionnaire de théologie catholique, contenant l'exposé des doctrines de la théologie catholique, leurs preuves et leur histoire" ]
+      },
+      "sort" : {
+        "title" : [ "Dictionnaire de théologie catholique, contenant l'exposé des doctrines de la théologie catholique, leurs preuves et leur histoire," ],
+        "author" : [ "Amann, Emile, 1880-1948" ],
+        "creationdate" : [ "1899" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990029476480107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:a 14000712&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bx\"841ǂ d68",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "57",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "47",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "43",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "282",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 312,
+    "COMBINED_SEARCH_TIME" : 314,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1899",
+      "count" : "1"
+    }, {
+      "value" : "1950",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Catholic Church Dictionaries French",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Amann Emile",
+      "count" : "1"
+    }, {
+      "value" : "Mangenot E",
+      "count" : "1"
+    }, {
+      "value" : "Vacant Alfred",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

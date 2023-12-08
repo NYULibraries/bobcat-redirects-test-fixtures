@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045613150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Besides the screen : moving images through distribution, promotion and curation " ],
+        "subject" : [ "Cinéma -- Industrie", "Distribution des films", "Films (Pellicules cinématographiques) -- Conservation", "Films, cinema", "Film, TV & radio", "The arts: general issues", "Media studies", "PERFORMING ARTS -- Film & Video -- Direction & Production", "PERFORMING ARTS -- Film & Video -- History & Criticism", "SOCIAL SCIENCE -- Media Studies", "BUSINESS & ECONOMICS -- Industries -- Media & Communications", "TECHNOLOGY & ENGINEERING -- Telecommunications", "Motion picture film -- Preservation", "Motion picture industry", "Motion pictures -- Distribution", "Motion pictures -- Marketing", "Filmbranschen", "Marknadsföring", "Filmdistribution", "Film -- bevarande och restaurering", "Filmindustrin", "Distribution" ],
+        "format" : [ "1 online resource (xii, 215 pages)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9781137471024;$$CISBN$$V1137471026;$$COCLC$$V(OCoLC)904291763;$$CISBN$$V9781137471017" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Houndsmills, Basingstoke, Hampshire : Palgrave Macmillan" ],
+        "description" : [ "\"Besides the Screen seeks to make an intervention into film and screen studies by examining and considering the elements of cinematic experience, production and dissemination that exist beside the screen. New media technologies impact cinema well beyond the screen; they also promote the reorganization of its logic of distribution, modes of consumption and viewing regimes. This publication speculates about the changes in modes of accessing, distributing, storing and promoting moving images and how they might affect cinematographic experience, economy and historiography. In doing so, Besides the Screen examines three key themes: distribution, promotion and curation. The volume's main argument is that we must examine those practices that exist besides the screen if we are to consider fully how filmic experience is mediated by various technological and societal changes in the early decades of the twenty-first century\"-- Provided by publisher" ],
+        "mms" : [ "990045613150107871" ],
+        "contributor" : [ "Crisp, Virginia, 1981- editor.$$QCrisp, Virginia", "Menotti, Gabriel, 1983- editor.$$QMenotti, Gabriel" ],
+        "contents" : [ "Introduction: In the Grooves of the Cinematographic Circuit; Gabriel Menotti Gonring and Virginia Crisp -- PART I: THROUGH MANY CHANNELS: DISTRIBUTION -- 2. From the Big Screen to the Small Ones: How Digitisation is Transforming the Distribution, Exhibition and Consumption of Movies; Alejandro Pardo -- 3. Notes on Film Distribution: Networks, Screens and Practices; Stefania Haritou -- 4. Catering For Whom? The Problematic Ethos Of Audio-Visual Distribution Online; Jonas Andersson-Schwarz -- PART II: UNDER THE SPOTLIGHTS: PROMOTION -- 5. 1-18-08 Viral Marketing Strategies in Hollywood Cinema; Stephanie Janes -- 6. Terms of Intimacy: Blog Marketing, Experiential Desegregation, and Collaborative Film Value Production; Ya-Feng Mon -- 7. On The Problematic Productivity Of Hype: Flashforward's Promotional Campaign; Enrica Picarelli -- PART III: IN THE FILES AND OUT THERE: CURATION -- 8. Audiovisual Archives and the Public Domain: Economics of Access, Exclusive Control and the Digital Skew; Claudy Op den Kamp -- 9. Live Audiovisual Performance And Documentation; Ana Carvalho -- 10. Public Screenings Beside Screens: A Spatial Perspective; Zlatan Krajina -- 11. Interactive Video Installations in Public Spaces: Rafael Lozano-Hemmer's Under Scan; Elena Papadaki." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VBesides the Screen Moving Images through Distribution, Promotion and Curation$$Z9995718996707871", "$$Cform$$VPrint version: Besides the screen$$QBesides the screen$$Z990041078830107871" ],
+        "place" : [ "Houndsmills, Basingstoke, Hampshire :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004561315" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045613150107871" ],
+        "recordid" : [ "alma990045613150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004561315-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Crisp", "Menotti" ],
+        "aufirst" : [ "Virginia", "Gabriel" ],
+        "auinit" : [ "V", "G" ],
+        "addau" : [ "Crisp, Virginia", "Menotti, Gabriel" ],
+        "contributorfull" : [ "$$NCrisp, Virginia$$LCrisp$$FVirginia$$Reditor", "$$NMenotti, Gabriel$$Reditor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781137471024", "1137471026", "9781137471017" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Besides the Screen seeks to make an intervention into film and screen studies by examining and considering the elements of cinematic experience, production and dissemination that exist beside the screen. New media technologies impact cinema well beyond the screen; they also promote the reorganization of its logic of distribution, modes of consumption and viewing regimes. This publication speculates about the changes in modes of accessing, distributing, storing and promoting moving images and how they might affect cinematographic experience, economy and historiography. In doing so, Besides the Screen examines three key themes: distribution, promotion and curation. The volume's main argument is that we must examine those practices that exist besides the screen if we are to consider fully how filmic experience is mediated by various technological and societal changes in the early decades of the twenty-first century\"-- Provided by publisher" ],
+        "cop" : [ "Houndsmills, Basingstoke, Hampshire" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)904291763" ],
+        "doi" : [ "10.1057/9781137471024" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Besides the screen : moving images through distribution, promotion and curation" ]
+      },
+      "sort" : {
+        "title" : [ "Besides the screen : moving images through distribution, promotion and curation /" ],
+        "author" : [ "Crisp, Virginia, 1981- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045613150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1137471026,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1995ǂ b47 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "323",
+    "CALL_SOLR_GET_IDS_LIST" : "62",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "97",
+    "RETRIVE_FROM_DB_RELATIONS" : "43",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "501",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 541,
+    "COMBINED_SEARCH_TIME" : 543,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industries Media Communications",
+      "count" : "1"
+    }, {
+      "value" : "Cinéma Industrie",
+      "count" : "1"
+    }, {
+      "value" : "Distribution",
+      "count" : "1"
+    }, {
+      "value" : "Distribution Des Films",
+      "count" : "1"
+    }, {
+      "value" : "Film Bevarande Och Restaurering",
+      "count" : "1"
+    }, {
+      "value" : "Film Tv Radio",
+      "count" : "1"
+    }, {
+      "value" : "Filmbranschen",
+      "count" : "1"
+    }, {
+      "value" : "Filmdistribution",
+      "count" : "1"
+    }, {
+      "value" : "Filmindustrin",
+      "count" : "1"
+    }, {
+      "value" : "Films Cinema",
+      "count" : "1"
+    }, {
+      "value" : "Films Pellicules Cinématographiques Conservation",
+      "count" : "1"
+    }, {
+      "value" : "Marknadsföring",
+      "count" : "1"
+    }, {
+      "value" : "Media Studies",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Film Preservation",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Industry",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Distribution",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Film Video Direction Production",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Film Video History Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Media Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Crisp Virginia",
+      "count" : "1"
+    }, {
+      "value" : "Menotti Gabriel",
+      "count" : "1"
+    } ]
+  } ]
+}

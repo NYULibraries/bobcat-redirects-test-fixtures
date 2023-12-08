@@ -1,0 +1,183 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990077191910107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Principles of Real Estate Accounting and Taxation" ],
+        "format" : [ "1 online resource (339 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781516570522;$$CISBN$$V1516570529;$$COCLC$$V(OCoLC)1152056920;$$CISBN$$V9781516525270" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Rosenfeld, Joel.$$QRosenfeld, Joel." ],
+        "publisher" : [ "San Diego, CA : Cognella, Inc." ],
+        "mms" : [ "990077191910107871" ],
+        "contents" : [ "Intro -- Table of Contents -- Acknowledgments -- Preface -- Overview of the Real Estate Industry -- The Effect of Major Tax Legislation -- Part I: Federal Taxation of Real Estate -- 1- Essential Forms of Ownership -- 2- Contracts -- 3- Acquisition of Property -- 4- Disposition of Real Estate -- 5- Lease Acquisition -- 6- Passive Activity Loss Rules -- 7- Depreciation and Cost Recovery -- 8- Troubled Financings and Distressed Properties -- 9- Subdividing Real Estate -- 10- Long-Term Contracts -- Part II: Accounting for Real Estate -- 11- Accounting for Real Estate", "12- Users of Accounting Information -- 13- The General Accounting Process -- 14- Historical Cost and GAAP -- 15- Comparison of the Cash Method and Accrual Method of Accounting -- 16- Financial Statements -- 17- Types of Financial Statements -- 18- Accounting for Joint Ventures -- Part III: Measures of Real Estate Profitability -- 19- Measures of Real Estate Profitability -- Part IV: Guide to Using HP-12C -- 20- Guide to Using HP-12C: Mortgage Calculations, Internal Rate of Return, Net Present Value, and Analysis Ratio -- Part V: Case Studies -- 1- Elm Street Apartments, LLC", "2- Elm Street Apartments, LLC Foreclosure -- 3- Construction of Property -- 4- Adding Value Through Redevelopment -- Glossary of Real Estate Definitions" ],
+        "relation" : [ "$$Cform$$VPrint version: Rosenfeld, Joel. Principles of Real Estate Accounting and Taxation. San Diego, CA : Cognella, Inc., ©2017$$QPrinciples of Real Estate Accounting and Taxation." ],
+        "place" : [ "San Diego, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007719191" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990077191910107871" ],
+        "recordid" : [ "alma990077191910107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007719191-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rosenfeld" ],
+        "aufirst" : [ "Joel." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Rosenfeld, Joel." ],
+        "creatorfull" : [ "$$NRosenfeld, Joel.$$LRosenfeld$$FJoel.$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781516570522", "1516570529", "9781516525270" ],
+        "cop" : [ "San Diego, CA" ],
+        "pub" : [ "Cognella, Inc." ],
+        "oclcid" : [ "(ocolc)1152056920" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Principles of Real Estate Accounting and Taxation" ]
+      },
+      "sort" : {
+        "title" : [ "Principles of Real Estate Accounting and Taxation" ],
+        "author" : [ "Rosenfeld, Joel." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990077191910107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1516570529,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "657 .8335",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "144",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "168",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "76",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "163",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "518",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 542,
+    "COMBINED_SEARCH_TIME" : 545,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rosenfeld Joel",
+      "count" : "1"
+    } ]
+  } ]
+}

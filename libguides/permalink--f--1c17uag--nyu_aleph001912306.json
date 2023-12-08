@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019123060107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Godey's lady's book and magazine." ],
+        "subject" : [ "Women's periodicals -- 19th century", "United States -- Social life and customs -- 19th century$$QUnited States -- Social life and customs -- 19th century -- Pictorial works", "Fashion -- 19th century$$QFashion -- 19th century -- Periodicals" ],
+        "format" : [ "57 v. : ill. ; 25 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1127478123" ],
+        "creationdate" : [ "1854-1882" ],
+        "publisher" : [ "Philadelphia : L.A. Godey", "Vol. 49 (July 1854)-v. 105 (Dec. 1882) = -no. 630." ],
+        "mms" : [ "990019123060107871" ],
+        "contributor" : [ "Godey, Louis Antoine, 1804-1878.$$QGodey, Louis Antoine" ],
+        "addtitle" : [ "Godey's lady's book July 1854-Dec. 1858" ],
+        "genre" : [ "Pictorial works", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VGodey's lady's book (1848)$$QGodey's lady's book (1848)", "$$Clater_title$$VGodey's lady's book (1883)$$QGodey's lady's book (1883)" ],
+        "place" : [ "Philadelphia :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001912306" ],
+        "lds53" : [ "001912306" ],
+        "lds60" : [ "Publisher varies.", "Editors: Sarah J. Hale and Louis A. Godey; vols. for edited by J. Hannum Jones, A.E. Brown.", "N-YHS copy imperfect; colored fashion plates for May 1872 (c.1) and Nov. 1881 (c.2) lacking.", "N-YHS copy: some issues for 1878 and 1880-1882 contain patterns.", "N-YHS copy: patterns for May, Sept., Oct., and Dec. 1878 shelved separately in envelopes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019123060107871" ],
+        "recordid" : [ "alma990019123060107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001912306-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Godey" ],
+        "aufirst" : [ "Louis Antoine" ],
+        "auinit" : [ "L" ],
+        "addau" : [ "Godey, Louis Antoine" ],
+        "contributorfull" : [ "$$NGodey, Louis Antoine$$LGodey$$FLouis Antoine$$Rcontributor" ],
+        "addtitle" : [ "Godey's lady's book" ],
+        "date" : [ "1854 - 1882", "1854-1882" ],
+        "cop" : [ "Philadelphia" ],
+        "pub" : [ "L.A. Godey" ],
+        "oclcid" : [ "(ocolc)1127478123" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Godey's lady's book and magazine." ]
+      },
+      "sort" : {
+        "title" : [ "Godey's lady's book and magazine." ],
+        "author" : [ "Godey, Louis Antoine, 1804-1878." ],
+        "creationdate" : [ "1854" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019123060107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019123060107871"
+        } ],
+        "instCode" : "01NYU_NYHS",
+        "instName" : "New York Historical Society",
+        "instId" : "7873",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019123060107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1127478123,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000002/000000000013/000000000091ct",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "66",
+    "CALL_SOLR_GET_IDS_LIST" : "62",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "247",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 272,
+    "COMBINED_SEARCH_TIME" : 275,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1854",
+      "count" : "1"
+    }, {
+      "value" : "1882",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fashion 19th Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States Social Life And Customs 19th Century Pictorial Works",
+      "count" : "1"
+    }, {
+      "value" : "Womens Periodicals 19th Century",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Godey Louis Antoine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7873–112286170007873",
+      "count" : "1"
+    }, {
+      "value" : "7875–124367040007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163051690007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163054470007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7873",
+      "count" : "1"
+    }, {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

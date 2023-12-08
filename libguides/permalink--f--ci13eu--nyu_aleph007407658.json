@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074076580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Life went on anyway : stories " ],
+        "subject" : [ "Political prisoners -- Russia$$QPolitical prisoners -- Russia -- Fiction", "Ukraine$$QUkraine -- Fiction", "Political prisoners", "Short stories, Ukrainian", "Russia", "Ukraine" ],
+        "format" : [ "xiv, 104 pages ; 18 cm" ],
+        "identifier" : [ "$$CISBN$$V9781941920879;$$CISBN$$V194192087X;$$COCLC$$V(OCoLC)1089261118" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Sent͡sov, Oleg, author.$$QSent͡sov, Oleg" ],
+        "publisher" : [ "Dallas, Texas : Deep Vellum Publishing" ],
+        "description" : [ "\"The stories in Ukrainian film director, writer, and dissident Oleg Sentsov's debut collection are as much acts of dissent as they are acts of creative expression. These autobiographical stories display a mix of nostalgia and philosophical insight, written in a simple yet profound style looking back on a life's path that led Sentsov to become an internationally renowned dissident artist. Sentsov's charges seemingly stem from his opposition to Russia's invasion and occupation of eastern Ukraine where he lived in the Crimea. He was sentenced to 20 years in prison in August 2015 on spurious terrorism charges after he was kidnapped in his house and put through a grossly unfair trial by a Russian military court, marred by allegations of torture. Many of the stories included here were read during international campaigns by PEN International, the European Film Academy, and Amnesty International, among others, to support the case for Sentsov across the world. Sentsov's final words at his trial, \"Why bring up a new generation of slaves?\" have become a rallying cry for his cause. He spent 145 days on hunger strike in 2018 to urge the Russian authorities to release all Ukrainians unfairly imprisoned in Russia, an act of profound courage that contributed to the European Parliament's awarding him the prestigious Sakharov Prize for Freedom of Thought. Sentsov remains in a prison camp in Russia. It is the publisher's hope this book, published in collaboration with PEN Ukraine, contributes to his timely release.\"--Amazon.com." ],
+        "mms" : [ "990074076580107871" ],
+        "contributor" : [ "Blacker, Uilleam, 1980- translator.$$QBlacker, Uilleam" ],
+        "edition" : [ "First edition." ],
+        "genre" : [ "Fiction", "Autobiographical fiction" ],
+        "relation" : [ "$$Cform$$VLife went on anyway : stories$$Z990086257060107871" ],
+        "unititle" : [ "Short stories. Selections English" ],
+        "includes" : [ "Sent͡sov, Oleg, Short stories. Selections English$$QSent͡sov, Oleg, Short stories. Selections English" ],
+        "place" : [ "Dallas, Texas :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007407658" ],
+        "lds53" : [ "007407658" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074076580107871" ],
+        "recordid" : [ "alma990074076580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007407658-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sent͡sov" ],
+        "aufirst" : [ "Oleg" ],
+        "auinit" : [ "O" ],
+        "au" : [ "Sent͡sov, Oleg" ],
+        "addau" : [ "Blacker, Uilleam" ],
+        "creatorfull" : [ "$$NSent͡sov, Oleg$$LSent͡sov$$FOleg$$Rauthor" ],
+        "contributorfull" : [ "$$NBlacker, Uilleam$$LBlacker$$FUilleam$$Rtranslator" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781941920879", "194192087X" ],
+        "abstract" : [ "\"The stories in Ukrainian film director, writer, and dissident Oleg Sentsov's debut collection are as much acts of dissent as they are acts of creative expression. These autobiographical stories display a mix of nostalgia and philosophical insight, written in a simple yet profound style looking back on a life's path that led Sentsov to become an internationally renowned dissident artist. Sentsov's charges seemingly stem from his opposition to Russia's invasion and occupation of eastern Ukraine where he lived in the Crimea. He was sentenced to 20 years in prison in August 2015 on spurious terrorism charges after he was kidnapped in his house and put through a grossly unfair trial by a Russian military court, marred by allegations of torture. Many of the stories included here were read during international campaigns by PEN International, the European Film Academy, and Amnesty International, among others, to support the case for Sentsov across the world. Sentsov's final words at his trial, \"Why bring up a new generation of slaves?\" have become a rallying cry for his cause. He spent 145 days on hunger strike in 2018 to urge the Russian authorities to release all Ukrainians unfairly imprisoned in Russia, an act of profound courage that contributed to the European Parliament's awarding him the prestigious Sakharov Prize for Freedom of Thought. Sentsov remains in a prison camp in Russia. It is the publisher's hope this book, published in collaboration with PEN Ukraine, contributes to his timely release.\"--Amazon.com." ],
+        "cop" : [ "Dallas, Texas" ],
+        "pub" : [ "Deep Vellum Publishing" ],
+        "oclcid" : [ "(ocolc)1089261118" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Life went on anyway : stories" ]
+      },
+      "sort" : {
+        "title" : [ "Life went on anyway : stories /" ],
+        "author" : [ "Sent͡sov, Oleg, author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074076580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:194192087X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pg#3950.29 e58ǂa2 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "167",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "28",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "357",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 378,
+    "COMBINED_SEARCH_TIME" : 380,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Political Prisoners",
+      "count" : "1"
+    }, {
+      "value" : "Political Prisoners Russia Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Russia",
+      "count" : "1"
+    }, {
+      "value" : "Short Stories Ukrainian",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Blacker Uilleam",
+      "count" : "1"
+    }, {
+      "value" : "Sent͡sov Oleg",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

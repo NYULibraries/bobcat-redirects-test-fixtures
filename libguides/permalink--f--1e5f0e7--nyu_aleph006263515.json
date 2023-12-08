@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062635150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Writing for the workplace : business communication for professionals " ],
+        "subject" : [ "Style commercial", "Communication dans l'entreprise", "BUSINESS & ECONOMICS -- General", "Business report writing", "Business communication", "Business writing" ],
+        "format" : [ "1 online resource (147 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V1631572334;$$COCLC$$V(OCoLC)910515670;$$CISBN$$V9781631572333" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Mizrahi, Janet, author.$$QMizrahi, Janet" ],
+        "publisher" : [ "New York, NY : Business Expert Press" ],
+        "description" : [ "Employers consider communication one of the most critical skills for workers today. Writing for the Workplace: Business Communication for Professionals is an easy- to-follow guide that provides strategies for effective professional communication. Written to address the needs of both students entering the workforce and business professionals looking to improve their written communication, the book offers guides to compose typical workplace documents, from effective e-mails and convincing reports to winning presentations and engaging resumes. This concise book offers busy readers co." ],
+        "mms" : [ "990062635150107871" ],
+        "addtitle" : [ "Business communication for professionals" ],
+        "edition" : [ "First edition." ],
+        "series" : [ "Corporate communication collection$$QCorporate communication collection", "Corporate communication collection.$$QCorporate communication collection." ],
+        "contents" : [ "Part I. Writing as a professional -- 1. Fundamentals of professional writing -- 2. Basics of document design -- Part II. Correspondence -- 3. Routine and positive messages -- 4. Persuasive and bad news messages -- 5. Social media and text messages -- Part III. Reports and presentations -- 6. Reports -- 7. Presentations -- Part IV. Employment -- 8. Employment communication -- Appendix A. 20 common writing errors to avoid -- Appendix B. Document samples -- Notes -- References -- Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Mizrahi, Janet. Writing for the workplace. First edition$$QWriting for the workplace.$$Z9995656064907871" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph006263515" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062635150107871" ],
+        "recordid" : [ "alma990062635150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006263515-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mizrahi" ],
+        "aufirst" : [ "Janet" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Mizrahi, Janet" ],
+        "creatorfull" : [ "$$NMizrahi, Janet$$LMizrahi$$FJanet$$Rauthor" ],
+        "addtitle" : [ "Business communication for professionals" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "1631572334", "9781631572333" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Employers consider communication one of the most critical skills for workers today. Writing for the Workplace: Business Communication for Professionals is an easy- to-follow guide that provides strategies for effective professional communication. Written to address the needs of both students entering the workforce and business professionals looking to improve their written communication, the book offers guides to compose typical workplace documents, from effective e-mails and convincing reports to winning presentations and engaging resumes. This concise book offers busy readers co." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Business Expert Press" ],
+        "oclcid" : [ "(ocolc)910515670" ],
+        "edition" : [ "First edition." ],
+        "seriestitle" : [ "Corporate communication collection" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Writing for the workplace : business communication for professionals" ]
+      },
+      "sort" : {
+        "title" : [ "Writing for the workplace : business communication for professionals /" ],
+        "author" : [ "Mizrahi, Janet, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062635150107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062635150107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062635150107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062635150107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062635150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781631572326,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5718.3",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "263",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "117",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "70",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "49",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "84",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "565",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 609,
+    "COMBINED_SEARCH_TIME" : 611,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Communication",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics General",
+      "count" : "1"
+    }, {
+      "value" : "Business Report Writing",
+      "count" : "1"
+    }, {
+      "value" : "Business Writing",
+      "count" : "1"
+    }, {
+      "value" : "Communication Dans Lentreprise",
+      "count" : "1"
+    }, {
+      "value" : "Style Commercial",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mizrahi Janet",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

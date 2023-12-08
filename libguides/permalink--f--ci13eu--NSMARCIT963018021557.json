@@ -1,0 +1,296 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616253107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Black American literature forum (Online)" ],
+        "subject" : [ "American literature -- African American authors -- History and criticism$$QAmerican literature -- African American authors -- History and criticism -- Periodicals", "African American arts$$QAfrican American arts -- Periodicals", "Littérature américaine -- Auteurs noirs américains$$QLittérature américaine -- Auteurs noirs américains -- Périodiques", "Arts noirs américains$$QArts noirs américains -- Périodiques", "Afroamerykanie", "African American arts", "American literature -- African American authors", "Literatur", "Zeitschrift", "Letterkunde", "Amerikaans", "USA", "Schwarze", "American Literature" ],
+        "identifier" : [ "$$CLC$$Vsn 99023368;$$CISSN$$V2326-1536;$$COCLC$$V(OCoLC)40892653;$$CISSN$$V0148-6179" ],
+        "creationdate" : [ "1976-1991" ],
+        "publisher" : [ "Terre Haute, Ind. : School of Education, Indiana State University", "Print began with vol. 10, no. 4 (winter 1976)-v. 25, no. 4 (winter 1991)." ],
+        "mms" : [ "9995616253107871" ],
+        "contributor" : [ "Indiana State University. School of Education.$$QIndiana State University. School of Education.", "Indiana State University. Department of English.$$QIndiana State University. Department of English.", "Indiana State University.$$QIndiana State University.", "Modern Language Association of America. Division on Black American Literature and Culture.$$QModern Language Association of America. Division on Black American Literature and Culture." ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Literatura amerykańska", "Czasopismo literaturoznawcze", "Criticism, interpretation, etc", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VNegro American Literature Forum$$QNegro American Literature Forum$$Z9995637747207871", "$$Clater_title$$VAfrican American Review$$QAfrican American Review$$Z9995630314507871" ],
+        "unititle" : [ "Black American literature forum (Online)" ],
+        "place" : [ "Terre Haute, Ind. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)963018021557" ],
+        "lds60" : [ "Publisher varies: Indiana State University, School of Education, 1976-1985; Indiana State University, 1986-summer 1989; Indiana State University, Dept. of English, fall 1989-1991." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616253107871" ],
+        "recordid" : [ "alma9995616253107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99963018021557" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "BLACK AM LIT FORUM" ],
+        "date" : [ "1976 - 1991", "1976-1991" ],
+        "issn" : [ "2326-1536", "0148-6179" ],
+        "cop" : [ "Terre Haute, Ind" ],
+        "pub" : [ "School of Education, Indiana State University" ],
+        "oclcid" : [ "(ocolc)40892653" ],
+        "lccn" : [ "sn 99023368" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Black American literature forum (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Black American literature forum (Online)" ],
+        "author" : [ "Indiana State University. School of Education." ],
+        "creationdate" : [ "1976" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616253107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 99023368&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.5",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "46",
+    "CALL_SOLR_GET_IDS_LIST" : "59",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "230",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "17",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "203",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "55",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "401",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 426,
+    "COMBINED_SEARCH_TIME" : 429,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1976",
+      "count" : "1"
+    }, {
+      "value" : "1991",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Arts",
+      "count" : "1"
+    }, {
+      "value" : "African American Arts Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Afroamerykanie",
+      "count" : "1"
+    }, {
+      "value" : "American Literature",
+      "count" : "1"
+    }, {
+      "value" : "American Literature African American Authors",
+      "count" : "1"
+    }, {
+      "value" : "American Literature African American Authors History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Amerikaans",
+      "count" : "1"
+    }, {
+      "value" : "Arts Noirs Américains Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Letterkunde",
+      "count" : "1"
+    }, {
+      "value" : "Literatur",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Américaine Auteurs Noirs Américains Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Schwarze",
+      "count" : "1"
+    }, {
+      "value" : "Usa",
+      "count" : "1"
+    }, {
+      "value" : "Zeitschrift",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Indiana State University",
+      "count" : "1"
+    }, {
+      "value" : "Indiana State University Department Of English",
+      "count" : "1"
+    }, {
+      "value" : "Indiana State University School Of Education",
+      "count" : "1"
+    }, {
+      "value" : "Modern Language Association Of America Division On Black American Literature And Culture",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

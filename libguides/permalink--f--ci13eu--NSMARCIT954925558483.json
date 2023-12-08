@@ -1,0 +1,264 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995637742107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Anthrozoös (Online)" ],
+        "subject" : [ "Human-animal relationships$$QHuman-animal relationships -- Periodicals", "Pets -- Social aspects$$QPets -- Social aspects -- Periodicals", "Pet owners -- Psychological aspects$$QPet owners -- Psychological aspects -- Periodicals", "Animals and civilization$$QAnimals and civilization -- Periodicals" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V1753-0377;$$COCLC$$V(OCoLC)614930880;$$CISSN$$V0892-7936" ],
+        "creationdate" : [ "c1987-" ],
+        "publisher" : [ "Hanover, NH : Published by University Press of New England for Delta Society", "Vol. 1, no. 1 (summer 1987)-" ],
+        "mms" : [ "9995637742107871" ],
+        "contributor" : [ "Delta Society.$$QDelta Society.", "International Society for Anthrozoology.$$QInternational Society for Anthrozoology." ],
+        "addtitle" : [ "Taylor & Francis Online (Servicio en línea)" ],
+        "frequency" : [ "Four times a year" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VThe Journal of the Delta Society$$QThe Journal of the Delta Society" ],
+        "mesh" : [ "Animal Rights", "Animal Welfare", "Animals, Domestic", "Human-Animal Bond", "Periodical" ],
+        "unititle" : [ "Anthrozoös (Online)" ],
+        "place" : [ "Hanover, NH :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925558483" ],
+        "lds60" : [ "Title from cover.", "\"A multidisciplinary journal on the interactions of people, animals, and environment\" (varies).", "Published: Renton, WA : Delta Society, <1995->; West Lafayette, IN. : Purdue University Press, <2002-> ; Oxford, England : Berg, <2008->.", "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995637742107871" ],
+        "recordid" : [ "alma9995637742107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925558483" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1987", "c1987-" ],
+        "issn" : [ "1753-0377", "0892-7936" ],
+        "cop" : [ "Hanover, NH" ],
+        "pub" : [ "Published by University Press of New England for Delta Society" ],
+        "oclcid" : [ "(ocolc)614930880" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Anthrozoös (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Anthrozoös (Online)" ],
+        "author" : [ "Delta Society." ],
+        "creationdate" : [ "1987" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995637742107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995637742107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995637742107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995637742107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995637742107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:614930880,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ql!85ǂ a57",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "53",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "54",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "38",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "16",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "276",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 309,
+    "COMBINED_SEARCH_TIME" : 313,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1987",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animal Rights",
+      "count" : "1"
+    }, {
+      "value" : "Animal Welfare",
+      "count" : "1"
+    }, {
+      "value" : "Animals And Civilization Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Animals Domestic",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Bond",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pet Owners Psychological Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pets Social Aspects Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Delta Society",
+      "count" : "1"
+    }, {
+      "value" : "International Society For Anthrozoology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

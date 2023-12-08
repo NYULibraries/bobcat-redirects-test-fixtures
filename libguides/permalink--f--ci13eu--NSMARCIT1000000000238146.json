@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995642613207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of information, communication & ethics in society (Online)" ],
+        "subject" : [ "Information technology -- Moral and ethical aspects$$QInformation technology -- Moral and ethical aspects -- Periodicals", "Information society -- Moral and ethical aspects$$QInformation society -- Moral and ethical aspects -- Periodicals", "Communication -- Moral and ethical aspects$$QCommunication -- Moral and ethical aspects -- Periodicals", "Information superhighway -- Social aspects$$QInformation superhighway -- Social aspects -- Periodicals", "Société informatisée -- Aspect moral$$QSociété informatisée -- Aspect moral -- Périodiques", "Communication -- Aspect moral$$QCommunication -- Aspect moral -- Périodiques", "Autoroutes électroniques -- Aspect social$$QAutoroutes électroniques -- Aspect social -- Périodiques", "Publications périodiques", "Société de l'information", "Communication", "Ethique", "Communication -- Moral and ethical aspects", "Information society -- Moral and ethical aspects", "Information superhighway -- Social aspects", "Information technology -- Moral and ethical aspects" ],
+        "identifier" : [ "$$CLC$$V  2017205821;$$CISSN$$V1758-8871;$$COCLC$$V(OCoLC)77079093;$$CISSN$$V1477-996X" ],
+        "creationdate" : [ "©2003-" ],
+        "publisher" : [ "Bingley, UK : Emerald Group Publishing", "Print began with vol. 1, issue 1 (Jan. 2003)." ],
+        "mms" : [ "9995642613207871" ],
+        "addtitle" : [ "Journal of information, communication and ethics in society", "Information, communication & ethics in society", "Info, Comm & Ethics in Society", "J. inf. commun. ethics soc", "ICES" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "unititle" : [ "Journal of information, communication & ethics in society (Online)" ],
+        "place" : [ "Bingley, UK] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000238146" ],
+        "lds60" : [ "\"An interdisciplinary international journal addressing the social and ethical impacts of new media and information and communication technology, p.4 of cover.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995642613207871" ],
+        "recordid" : [ "alma9995642613207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000238146" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Journal of information, communication and ethics in society", "Information, communication & ethics in society", "Info, Comm & Ethics in Society", "J. inf. commun. ethics soc", "ICES" ],
+        "date" : [ "2003", "©2003-" ],
+        "issn" : [ "1758-8871", "1477-996X" ],
+        "cop" : [ "Market Harborough, Leics" ],
+        "pub" : [ "Troubadour Publishing" ],
+        "oclcid" : [ "(ocolc)77079093" ],
+        "lccn" : [ "2017205821" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of information, communication & ethics in society (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of information, communication & ethics in society (Online)" ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642613207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642613207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642613207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642613207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642613207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2017205821&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "t!58.5",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "80",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "95",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "66",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "328",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 360,
+    "COMBINED_SEARCH_TIME" : 362,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Autoroutes Électroniques Aspect Social Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Communication",
+      "count" : "1"
+    }, {
+      "value" : "Communication Aspect Moral Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Communication Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Communication Moral And Ethical Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Ethique",
+      "count" : "1"
+    }, {
+      "value" : "Information Society Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Information Society Moral And Ethical Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Information Superhighway Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Information Superhighway Social Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Information Technology Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Information Technology Moral And Ethical Aspects Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Publications Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Société De Linformation",
+      "count" : "1"
+    }, {
+      "value" : "Société Informatisée Aspect Moral Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

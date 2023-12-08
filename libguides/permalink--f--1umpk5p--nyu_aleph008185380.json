@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081853800107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Understanding China's real estate markets : development, finance, and investment " ],
+        "subject" : [ "Real estate business -- China", "Residential real estate -- China", "Immobilier -- Chine", "Immobilier résidentiel -- Chine", "Real estate business", "Residential real estate", "China" ],
+        "format" : [ "1 online resource : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9783030717483;$$CISBN$$V3030717488;$$COCLC$$V(OCoLC)1256251489;$$CISBN$$V303071747X;$$CISBN$$V9783030717476" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "Chinas economy has been transforming rapidly over the last 25 years. As a result, Chinese conurbations have changed remarkably, with cities expanding both vertically and horizontally, and the physical environment acting as a medium for unprecedented urbanization. This has provided vast opportunities for investors, real estate developers, and service companies, but also presents huge challengesas traditional city spaces have been reconfigured, environmental risks and the volatility of real estate markets increased. However, as engagement with China is becoming strategically important for many, forming a synthesized lens through which to read China across the vicissitudes of its real estate sector bears historic significance. By offering an insightful framework and structure for understanding Chinas variegated real estate dynamics, players, and markets, Understanding Chinas Real Estate Markets codifies the principles and practices of real estate development, finance, and investment in China and builds foundations for future academic research and practical knowledge in shaping and engaging the urban environment within China and beyond." ],
+        "mms" : [ "990081853800107871" ],
+        "contributor" : [ "Wang, Bing (Associate Professor in Practice of Real Estate and the Built Environment), editor.$$QWang, Bing", "Just, Tobias, editor.$$QJust, Tobias" ],
+        "edition" : [ "Second edition." ],
+        "series" : [ "Management for professionals$$QManagement for professionals", "Management for professionals.$$QManagement for professionals." ],
+        "contents" : [ "Understanding Chinas Real Estate Markets: A Brief Introduction -- Part I: Structural and Macro Economic Aspects of Real Estate in China -- The Evolving Real Estate Market Structure in China -- Navigating the Property Data Landscape -- Chinas Economy at the Crossroads -- Chinas Provinces: Addressing the Discrepancies at the Local Level -- Hong Kong: A Review of Its Land System, Real Estate Market, and Related Matters -- Part II: Legal and Regulatory Environment for Chinas Real Estate Markets -- Legal Framework for Real Estate Investment in China -- Real Estate Valuation in China -- The Regulation of Leasing Activities -- Tax Framework for Accessing Real Estate Asset Classes -- Part III: Finance and Investment for Real Estate Development -- The Leverage Game: From Offshore to Onshore -- Housing Financing at the Crossroads: Access and Affordability in an Aging Society -- Listings and M & As of Chinese Real Estate Enterprises -- Scenarios of Real-Estate-Backed Securitization and Financing -- The Development of REIT Markets in Greater China -- Real Estate Private Equity Investing in China: From a Practitioners Perspective -- Part IV: Real Estate as a Physical and Social Asset Type -- Sustainable Buildings and Practice in China -- Thoughts on Chinas Real Estate Policies -- Minding the Strategies: A Progressive Development Model -- Chinas Housing Markets -- Hotel Markets and Development in China -- The Rise of Platform-Based Networks: Outlook for the Real Estate Brokerage Industry." ],
+        "relation" : [ "$$Cform$$VPrint version: Understanding China's real estate markets. Second edition. Cham : Springer, [2021]$$QUnderstanding China's real estate markets." ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008185380" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081853800107871" ],
+        "recordid" : [ "alma990081853800107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008185380-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wang", "Just" ],
+        "aufirst" : [ "Bing", "Tobias" ],
+        "auinit" : [ "B", "T" ],
+        "addau" : [ "Wang, Bing", "Just, Tobias" ],
+        "contributorfull" : [ "$$NWang, Bing$$LWang$$FBing$$Reditor", "$$NJust, Tobias$$Reditor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9783030717483", "3030717488", "303071747X", "9783030717476" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Chinas economy has been transforming rapidly over the last 25 years. As a result, Chinese conurbations have changed remarkably, with cities expanding both vertically and horizontally, and the physical environment acting as a medium for unprecedented urbanization. This has provided vast opportunities for investors, real estate developers, and service companies, but also presents huge challengesas traditional city spaces have been reconfigured, environmental risks and the volatility of real estate markets increased. However, as engagement with China is becoming strategically important for many, forming a synthesized lens through which to read China across the vicissitudes of its real estate sector bears historic significance. By offering an insightful framework and structure for understanding Chinas variegated real estate dynamics, players, and markets, Understanding Chinas Real Estate Markets codifies the principles and practices of real estate development, finance, and investment in China and builds foundations for future academic research and practical knowledge in shaping and engaging the urban environment within China and beyond." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1256251489" ],
+        "doi" : [ "10.1007/978-3-030-71748-3" ],
+        "edition" : [ "Second edition." ],
+        "seriestitle" : [ "Management for professionals" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Understanding China's real estate markets : development, finance, and investment" ]
+      },
+      "sort" : {
+        "title" : [ "Understanding China's real estate markets : development, finance, and investment /" ],
+        "author" : [ "Wang, Bing (Associate Professor in Practice of Real Estate and the Built Environment), editor." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081853800107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081853800107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030717488,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd\"926.5ǂ u43 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "123",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "74",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "339",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 368,
+    "COMBINED_SEARCH_TIME" : 372,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 2
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Immobilier Chine",
+      "count" : "1"
+    }, {
+      "value" : "Immobilier Résidentiel Chine",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business China",
+      "count" : "1"
+    }, {
+      "value" : "Residential Real Estate",
+      "count" : "1"
+    }, {
+      "value" : "Residential Real Estate China",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Just Tobias",
+      "count" : "1"
+    }, {
+      "value" : "Wang Bing",
+      "count" : "1"
+    } ]
+  } ]
+}

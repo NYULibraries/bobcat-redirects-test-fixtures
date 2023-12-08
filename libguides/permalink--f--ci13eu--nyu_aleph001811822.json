@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990018118220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Boa constrictor : and other stories " ],
+        "subject" : [ "Franko, Ivan, 1856-1916$$QFranko, Ivan, 1856-1916 -- Translations into English", "Russia -- Social life and customs$$QRussia -- Social life and customs -- Fiction" ],
+        "format" : [ "293 p., [1] leaf of plate : ill., port. ; 21 cm." ],
+        "identifier" : [ "$$CLC$$V68051864;$$COCLC$$V(OCoLC)451119" ],
+        "creationdate" : [ "195-?" ],
+        "creator" : [ "Franko, Ivan, 1856-1916.$$QFranko, Ivan" ],
+        "publisher" : [ "Moscow : Foreign Languages Pub. House" ],
+        "mms" : [ "990018118220107871" ],
+        "contents" : [ "At work (1877) -- The oil-worker (1877) -- The converted sinner (1877) -- The poluika (1899) -- The boa constrictor (1878)." ],
+        "genre" : [ "Translations into English", "Fiction" ],
+        "unititle" : [ "Short stories. English. Selections" ],
+        "includes" : [ "Franko, Ivan, 1856-1916. Short stories. Selections English.$$QFranko, Ivan, 1856-1916. Short stories. English. Selections" ],
+        "place" : [ "Moscow :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001811822" ],
+        "lds53" : [ "001811822" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990018118220107871" ],
+        "recordid" : [ "alma990018118220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001811822-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Franko" ],
+        "aufirst" : [ "Ivan" ],
+        "auinit" : [ "I" ],
+        "au" : [ "Franko, Ivan" ],
+        "creatorfull" : [ "$$NFranko, Ivan$$LFranko$$FIvan$$Rauthor" ],
+        "date" : [ "1950 - 1959", "195-?" ],
+        "cop" : [ "Moscow" ],
+        "pub" : [ "Foreign Languages Pub. House" ],
+        "oclcid" : [ "(ocolc)451119" ],
+        "lccn" : [ "68051864" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Boa constrictor : and other stories" ]
+      },
+      "sort" : {
+        "title" : [ "Boa constrictor : and other stories /" ],
+        "author" : [ "Franko, Ivan, 1856-1916." ],
+        "creationdate" : [ "1950" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990018118220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:68051864&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pz 3 f8582ǂbo 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "131",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "385",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 403,
+    "COMBINED_SEARCH_TIME" : 405,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1950",
+      "count" : "1"
+    }, {
+      "value" : "1959",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Franko Ivan 1856 1916 Translations Into English",
+      "count" : "1"
+    }, {
+      "value" : "Russia Social Life And Customs Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Franko Ivan",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163047900007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

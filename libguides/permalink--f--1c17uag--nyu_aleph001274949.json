@@ -1,0 +1,202 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012749490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng" ],
+        "title" : [ "Echo (Saint Martinville, La.)" ],
+        "subject" : [ "African Americans -- Louisiana -- Saint Martinville$$QAfrican Americans -- Louisiana -- Saint Martinville -- Newspapers", "Saint Martinville (La.)$$QSaint Martinville (La.) -- Newspapers" ],
+        "format" : [ "v." ],
+        "identifier" : [ "$$CLC$$Vsn 83027096;$$COCLC$$V(OCoLC)10028714;$$COCLC$$V(NYU)(OCoLC)10028714" ],
+        "creationdate" : [ "1872 - 1878" ],
+        "publisher" : [ "St. Martinsville i.e. St. Martinville La. : J.F. Penne", "Began with Mar. 30, 1872 issue. Ceased in 1878." ],
+        "mms" : [ "990012749490107871" ],
+        "frequency" : [ "Weekly" ],
+        "genre" : [ "Newspapers" ],
+        "relation" : [ "$$Cform$$VEcho (Saint Martinville, La.)$$Z9995615029207871" ],
+        "unititle" : [ "Echo (Saint Martinville, La.)" ],
+        "place" : [ "St. Martinsville i.e. St. Martinville] La. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001274949" ],
+        "lds53" : [ "001274949" ],
+        "lds60" : [ "Published with an additional masthead in French: L'echo <Mar. 15, 1873>.", "Description based on: Vol. 1, no. 51 (Mar. 15, 1873).", "Film 4693 has spine title: Miscellaneous negro newspapers." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012749490107871" ],
+        "recordid" : [ "alma990012749490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001274949-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1872 - 1878" ],
+        "cop" : [ "St. Martinsville [i.e. St. Martinville] La" ],
+        "pub" : [ "J.F. Penne" ],
+        "oclcid" : [ "(ocolc)10028714", "(nyu)(ocolc)10028714" ],
+        "lccn" : [ "sn 83027096" ],
+        "btitle" : [ "Echo (Saint Martinville, La.)" ]
+      },
+      "sort" : {
+        "title" : [ "Echo (Saint Martinville, La.)" ],
+        "creationdate" : [ "1872" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012749490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 83027096&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "newspaper 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "181",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "72",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "409",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 432,
+    "COMBINED_SEARCH_TIME" : 435,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1872",
+      "count" : "1"
+    }, {
+      "value" : "1878",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Louisiana Saint Martinville Newspapers",
+      "count" : "1"
+    }, {
+      "value" : "Saint Martinville La Newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

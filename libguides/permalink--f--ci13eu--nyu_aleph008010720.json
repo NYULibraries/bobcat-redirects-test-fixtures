@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080107200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Race and modern architecture : a critical history from the Enlightenment to the present " ],
+        "subject" : [ "Architecture and race", "Architecture and society", "Architecture, Modern", "Architecture and society -- History", "Architecture and race -- History" ],
+        "format" : [ "ix, 438 pages : illustrations, maps, plans, portraits ; 27 cm." ],
+        "identifier" : [ "$$CISBN$$V9780822946052;$$CISBN$$V082294605X;$$CISBN$$V9780822966593;$$CISBN$$V082296659X;$$COCLC$$V(OCoLC)1138925620" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Pittsburgh : University of Pittsburgh Press" ],
+        "description" : [ "\"Although race-a concept of human difference that establishes hierarchies of power and domination-has played a critical role in the development of modern architectural discourse and practice since the Enlightenment, its influence on the discipline remains largely underexplored. This volume offers a welcome and long-awaited intervention for the field by shining a spotlight on constructions of race and their impact on architecture and theory in Europe and North America and across various global contexts since the eighteenth century. Challenging us to write race back into architectural history, contributors confront how racial thinking has intimately shaped some of the key concepts of modern architecture and culture over time, including freedom, revolution, character, national and indigenous style, progress, hybridity, climate, representation, and radicalism. By analyzing how architecture has intersected with histories of slavery, colonialism, and inequality-from eighteenth-century neoclassical governmental buildings to present-day housing projects for immigrants-'Race and Modern Architecture' challenges, complicates, and revises the standard association of modern architecture with a universal project of emancipation and progress.\"-- Provided by publisher." ],
+        "mms" : [ "990080107200107871" ],
+        "contributor" : [ "Cheng, Irene (Irene Chun-I), editor.$$QCheng, Irene", "Davis, Charles L., II, editor.$$QDavis, Charles L.", "Wilson, Mabel (Mabel O.), editor.$$QWilson, Mabel", "Chang, Jiat-Hwee, contributor.$$QChang, Jiat-Hwee", "Merwood-Salisbury, Joanna, contributor.$$QMerwood-Salisbury, Joanna", "Teriba, Adedoyin, contributor.$$QTeriba, Adedoyin", "Uddin, Lisa, contributor.$$QUddin, Lisa" ],
+        "series" : [ "Culture, Politics, and the Built Environment$$QCulture, Politics, and the Built Environment", "Culture, politics, and the built environment.$$QCulture, politics, and the built environment." ],
+        "contents" : [ "Introduction / Irene Cheng, Charles L. Davis II, and Mabel O. Wilson -- Notes on the Virginia capitol : nation, race, and slavery in Jefferson's America / Mabel O. Wilson -- American architecture in the black Atlantic : William Thornton's design for the United States Capitol / Peter Minosh -- Drawing the color line : silence and civilization from Jefferson to Mumford / Reinhold Martin -- From \"terrestrial paradise\" to \"dreary waste\" : race and the Chinese garden in European eyes / Addison Godel -- Henry Van Brunt and white settler colonialism in the Midwest / Charles L. Davis II -- The \"new birth of freedom\" : the Gothic revival and the aesthetics of abolitionism / Joanna Merwood-Salisbury -- Structural racialism in modern architectural theory / Irene Cheng -- Race and miscegenation in early twentieth-century Mexican architecture / Luis E. Carranza -- Modern architecture and racial eugenics at the Esposizione Universale di Roma / Brian L. McLaren -- The invention of indigenous architecture / Kenny Cupers -- Erecting the skyscraper, erasing race / Adrienne Brown -- Modeling race and class : architectural photography and the U.S. Gypsum Research Village, 1952-1955 / Dianne Harris -- Race and tropical architecture : the climate of decolonization and \"Malayanization\" / Jiat-Hwee Chang -- \"Compartmentalized world\" : race, architecture, and colonial crisis in Kenya and London / Mark Crinson -- Style, race, and a mosque of the \"Òyìnbó Dúdú\" (White-Black) in Lagos Colony, 1894 / Adedoyin Teriba -- Black and blight / Andrew Herscher -- And thus not glowing brightly : Noah Purifoy's junk modernism / Lisa Uddin -- Open architecture, rightlessness, and citizens-to-come / Esra Akcan." ],
+        "genre" : [ "History", "Essays" ],
+        "relation" : [ "$$Cform$$VRace and modern architecture : a critical history from the enlightenment to the present$$Z990081938900107871", "$$Cform$$VRace and modern architecture : a critical history from the enlightenment to the present$$Z9995702190307871" ],
+        "place" : [ "Pittsburgh :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008010720" ],
+        "lds53" : [ "008010720" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080107200107871" ],
+        "recordid" : [ "alma990080107200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008010720-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cheng", "Davis", "Wilson", "Chang", "Merwood-Salisbury", "Teriba", "Uddin" ],
+        "aufirst" : [ "Irene", "Charles L.", "Mabel", "Jiat-Hwee", "Joanna", "Adedoyin", "Lisa" ],
+        "auinit" : [ "I", "C", "M", "J", "A", "L" ],
+        "addau" : [ "Cheng, Irene (Irene Chun-I)", "Davis, Charles L.", "Wilson, Mabel (Mabel O.)", "Chang, Jiat-Hwee", "Merwood-Salisbury, Joanna", "Teriba, Adedoyin", "Uddin, Lisa" ],
+        "contributorfull" : [ "$$NCheng, Irene (Irene Chun-I)$$LCheng$$FIrene$$Reditor", "$$NDavis, Charles L.$$Reditor", "$$NWilson, Mabel (Mabel O.)$$Reditor", "$$NChang, Jiat-Hwee$$Rcontributor", "$$NMerwood-Salisbury, Joanna$$Rcontributor", "$$NTeriba, Adedoyin$$Rcontributor", "$$NUddin, Lisa$$Rcontributor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9780822946052", "082294605X", "9780822966593", "082296659X" ],
+        "notes" : [ "Includes bibliographical references (pages 411-421) and index." ],
+        "abstract" : [ "\"Although race-a concept of human difference that establishes hierarchies of power and domination-has played a critical role in the development of modern architectural discourse and practice since the Enlightenment, its influence on the discipline remains largely underexplored. This volume offers a welcome and long-awaited intervention for the field by shining a spotlight on constructions of race and their impact on architecture and theory in Europe and North America and across various global contexts since the eighteenth century. Challenging us to write race back into architectural history, contributors confront how racial thinking has intimately shaped some of the key concepts of modern architecture and culture over time, including freedom, revolution, character, national and indigenous style, progress, hybridity, climate, representation, and radicalism. By analyzing how architecture has intersected with histories of slavery, colonialism, and inequality-from eighteenth-century neoclassical governmental buildings to present-day housing projects for immigrants-'Race and Modern Architecture' challenges, complicates, and revises the standard association of modern architecture with a universal project of emancipation and progress.\"-- Provided by publisher." ],
+        "cop" : [ "Pittsburgh" ],
+        "pub" : [ "University of Pittsburgh Press" ],
+        "oclcid" : [ "(ocolc)1138925620" ],
+        "seriestitle" : [ "Culture, Politics, and the Built Environment" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Race and modern architecture : a critical history from the Enlightenment to the present" ]
+      },
+      "sort" : {
+        "title" : [ "Race and modern architecture : a critical history from the Enlightenment to the present /" ],
+        "author" : [ "Cheng, Irene (Irene Chun-I), editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990080107200107871"
+        } ],
+        "instCode" : "01NYU_NYSID",
+        "instName" : "New York School of Interior Design",
+        "instId" : "7872",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990080107200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:082294605X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na#2543 r37ǂr336 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "316",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "105",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "100",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "594",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 630,
+    "COMBINED_SEARCH_TIME" : 634,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture And Race",
+      "count" : "1"
+    }, {
+      "value" : "Architecture And Race History",
+      "count" : "1"
+    }, {
+      "value" : "Architecture And Society",
+      "count" : "1"
+    }, {
+      "value" : "Architecture And Society History",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Modern",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chang Jiat Hwee",
+      "count" : "1"
+    }, {
+      "value" : "Cheng Irene",
+      "count" : "1"
+    }, {
+      "value" : "Davis Charles L",
+      "count" : "1"
+    }, {
+      "value" : "Merwood Salisbury Joanna",
+      "count" : "1"
+    }, {
+      "value" : "Teriba Adedoyin",
+      "count" : "1"
+    }, {
+      "value" : "Uddin Lisa",
+      "count" : "1"
+    }, {
+      "value" : "Wilson Mabel",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7872–124376420007872",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7872",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

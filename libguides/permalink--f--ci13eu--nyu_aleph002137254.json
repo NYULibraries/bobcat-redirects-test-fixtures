@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021372540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Theses on Africa : 1976-1988, accepted by the universities of the United Kingdom and Ireland " ],
+        "subject" : [ "Africa$$QAfrica -- Bibliography", "Dissertations, Academic -- Great Britain$$QDissertations, Academic -- Great Britain -- Bibliography", "Dissertations, Academic -- Ireland$$QDissertations, Academic -- Ireland -- Bibliography" ],
+        "format" : [ "xi, 338 p. ; 25 cm." ],
+        "identifier" : [ "$$CLC$$V92046745;$$CISBN$$V187383635X (acid-free paper);$$COCLC$$V(OCoLC)27186571" ],
+        "creationdate" : [ "1993" ],
+        "creator" : [ "Price, Helen C.$$QPrice, Helen C." ],
+        "publisher" : [ "London ; New York : Published for the Standing Conference on Library Materials on Africa SCOLMA by Hans Zell Publishers" ],
+        "mms" : [ "990021372540107871" ],
+        "contributor" : [ "Blake, David.$$QBlake, David.", "Hewson, Colin.$$QHewson, Colin.", "Standing Conference on Library Materials on Africa.$$QStanding Conference on Library Materials on Africa." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002137254" ],
+        "lds53" : [ "002137254" ],
+        "lds60" : [ "Includes bibliographical references and indexes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021372540107871" ],
+        "recordid" : [ "alma990021372540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002137254-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Price" ],
+        "aufirst" : [ "Helen C." ],
+        "auinit" : [ "H" ],
+        "au" : [ "Price, Helen C." ],
+        "addau" : [ "Blake, David.", "Hewson, Colin." ],
+        "creatorfull" : [ "$$NPrice, Helen C.$$LPrice$$FHelen C.$$Rauthor" ],
+        "contributorfull" : [ "$$NBlake, David.$$LBlake$$FDavid.$$Rcontributor", "$$NHewson, Colin.$$Rcontributor" ],
+        "date" : [ "1993" ],
+        "isbn" : [ "187383635X" ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Published for the Standing Conference on Library Materials on Africa SCOLMA [by] Hans Zell Publishers" ],
+        "oclcid" : [ "(ocolc)27186571" ],
+        "lccn" : [ "92046745" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Theses on Africa : 1976-1988, accepted by the universities of the United Kingdom and Ireland" ]
+      },
+      "sort" : {
+        "title" : [ "Theses on Africa : 1976-1988, accepted by the universities of the United Kingdom and Ireland /" ],
+        "author" : [ "Price, Helen C." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021372540107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:187383635X,OCLC:,LCCN:92046745&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#3501ǂdt3ǂ p75 1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "135",
+    "CALL_SOLR_GET_IDS_LIST" : "104",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "53",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "363",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 386,
+    "COMBINED_SEARCH_TIME" : 389,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Dissertations Academic Great Britain Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Dissertations Academic Ireland Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Blake David",
+      "count" : "1"
+    }, {
+      "value" : "Hewson Colin",
+      "count" : "1"
+    }, {
+      "value" : "Price Helen C",
+      "count" : "1"
+    }, {
+      "value" : "Standing Conference On Library Materials On Africa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

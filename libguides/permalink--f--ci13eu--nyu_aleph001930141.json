@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019301410107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Opera plot index : a guide to locating plots and descriptions of operas, operettas, and other works of the musical theater, and associated material " ],
+        "subject" : [ "Operas -- Stories, plots, etc$$QOperas -- Stories, plots, etc -- Indexes", "Musicals -- Stories, plots, etc$$QMusicals -- Stories, plots, etc -- Indexes" ],
+        "format" : [ "xxi, 466 p. ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V89037920;$$CISBN$$V0824046218 (alk. paper);$$COCLC$$V(OCoLC)20169914" ],
+        "creationdate" : [ "1990" ],
+        "creator" : [ "Studwell, William E. (William Emmett), 1936-$$QStudwell, William E." ],
+        "publisher" : [ "New York : Garland Pub." ],
+        "mms" : [ "990019301410107871" ],
+        "contributor" : [ "Hamilton, David A. (David Arnold), 1927-$$QHamilton, David A." ],
+        "series" : [ "Garland reference library of the humanities ; v. 1099$$QGarland reference library of the humanities ", "Garland reference library of the humanities ; v. 1099.$$QGarland reference library of the humanities " ],
+        "genre" : [ "Indexes" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001930141" ],
+        "lds53" : [ "001930141" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019301410107871" ],
+        "recordid" : [ "alma990019301410107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001930141-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Studwell" ],
+        "aufirst" : [ "William E." ],
+        "auinit" : [ "W" ],
+        "au" : [ "Studwell, William E. (William Emmett)" ],
+        "addau" : [ "Hamilton, David A. (David Arnold)" ],
+        "creatorfull" : [ "$$NStudwell, William E. (William Emmett)$$LStudwell$$FWilliam E.$$Rauthor" ],
+        "contributorfull" : [ "$$NHamilton, David A. (David Arnold)$$LHamilton$$FDavid A.$$Rcontributor" ],
+        "date" : [ "1990" ],
+        "isbn" : [ "0824046218" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Garland Pub." ],
+        "oclcid" : [ "(ocolc)20169914" ],
+        "lccn" : [ "89037920" ],
+        "seriestitle" : [ "Garland reference library of the humanities ; v. 1099" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Opera plot index : a guide to locating plots and descriptions of operas, operettas, and other works of the musical theater, and associated material" ]
+      },
+      "sort" : {
+        "title" : [ "Opera plot index : a guide to locating plots and descriptions of operas, operettas, and other works of the musical theater, and associated material /" ],
+        "author" : [ "Studwell, William E. (William Emmett), 1936-" ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019301410107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019301410107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0824046218,OCLC:,LCCN:89037920&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ml\"128 o4ǂs8 1989",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "57",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "301",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 333,
+    "COMBINED_SEARCH_TIME" : 336,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Musicals Stories Plots Etc Indexes",
+      "count" : "1"
+    }, {
+      "value" : "Operas Stories Plots Etc Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hamilton David A",
+      "count" : "1"
+    }, {
+      "value" : "Studwell William E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124368010007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

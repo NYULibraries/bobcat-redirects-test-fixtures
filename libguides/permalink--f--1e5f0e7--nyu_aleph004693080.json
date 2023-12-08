@@ -1,0 +1,211 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046930800107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The making of an expert engineer : how to have a wonderful career creating a better world and spending lots of money belonging to other people " ],
+        "subject" : [ "Ingénierie -- Orientation professionnelle", "Ingénieurs", "engineers", "TECHNOLOGY & ENGINEERING -- Engineering (General)", "TECHNOLOGY & ENGINEERING -- Reference", "Engineering -- Vocational guidance", "Engineers" ],
+        "format" : [ "1 online resource (xxvi, 581 pages) : illustrations", "data file" ],
+        "identifier" : [ "$$CISBN$$V9781315742281;$$CISBN$$V1315742284;$$CISBN$$V9781322621944;$$CISBN$$V1322621942;$$CISBN$$V9781317585701;$$CISBN$$V1317585704;$$CISBN$$V9781317585688;$$CISBN$$V1317585682;$$CISBN$$V9781317585695;$$CISBN$$V1317585690;$$COCLC$$V(OCoLC)891658786;$$CISBN$$V1138026921" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Trevelyan, James P., author.$$QTrevelyan, James P." ],
+        "publisher" : [ "Leiden, The Netherlands : CRC Press/Balkema" ],
+        "description" : [ "This book sets out the principles of engineering practice, knowledge that has come to light through more than a decade of research by the author and his students studying engineers at work. Until now, this knowledge has been almost entirely unwritten, passed on invisibly from one generation of engineers to the next, what engineers refer to as \"experience\". This is a book for all engineers. It distils the knowledge of many experts in one volume. The book will help engineers enjoy a more satisfying and rewarding career and provide more valuable results for their employers and clients. The book focuses on issues often seen as \"non-technical\" in the world of engineering, yet it shows how these issues are thoroughly technical. Engineering firms traditionally have sought expert advice on these aspects from management schools, often regarding these aspects of engineering practice as something to do with psychology or organisational behaviour. The results are normally disappointing because management schools and psychologists have limited insight and understanding of the technical dimensions in engineering work. Little if any of the material in this book can be obtained from management texts or courses. Management schools have avoided the technical dimension of workplace practices and that is precisely what characterises engineering practice. The technical dimension infuses almost every aspect of an engineer's working day and cannot be avoided. That's why this book is so necessary: there has not yet been any authoritative source or guidance to bridge the gap between inanimate technical issues and organisational behaviour. This book fills this gap in our knowledge, is based on rigorous research, and yet is written in a style which is accessible for a wide audience" ],
+        "mms" : [ "990046930800107871" ],
+        "series" : [ "Balkema Book$$QBalkema Book" ],
+        "contents" : [ "1. Why engineer? -- 2. What type of engineer? -- 3. Flying start, no wings, wrong direction -- 4. Becoming an expert -- 5. What engineers know -- 6. Three neglected skills : listening, seeing and reading -- 7. Collaboration in engineering -- 8. Informal teaching : more than an interpreter -- 9. Technical coordination : informal leadership -- 10. Managing a project -- 11. Understanding investment decisions -- 12. Negotiating sustainability -- 13. Great expectations -- 14. Seeking work -- 15. Conclusion." ],
+        "relation" : [ "$$Cform$$VPrint version: Trevelyan, James P. Making of an expert engineer. Boca Raton : CRC Press, Taylor & Francis Group, [2014]$$QMaking of an expert engineer.", "$$Cform$$VThe making of an expert engineer : how to have a wonderful career creating a better world and spending lots of money belonging to other people$$Z9995694297707871" ],
+        "place" : [ "Leiden, The Netherlands :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph004693080" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046930800107871" ],
+        "recordid" : [ "alma990046930800107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004693080-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Trevelyan" ],
+        "aufirst" : [ "James P." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Trevelyan, James P." ],
+        "creatorfull" : [ "$$NTrevelyan, James P.$$LTrevelyan$$FJames P.$$Rauthor" ],
+        "date" : [ "2014 - 2014", "2014" ],
+        "isbn" : [ "9781315742281", "1315742284", "9781322621944", "1322621942", "9781317585701", "1317585704", "9781317585688", "1317585682", "9781317585695", "1317585690", "1138026921" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This book sets out the principles of engineering practice, knowledge that has come to light through more than a decade of research by the author and his students studying engineers at work. Until now, this knowledge has been almost entirely unwritten, passed on invisibly from one generation of engineers to the next, what engineers refer to as \"experience\". This is a book for all engineers. It distils the knowledge of many experts in one volume. The book will help engineers enjoy a more satisfying and rewarding career and provide more valuable results for their employers and clients. The book focuses on issues often seen as \"non-technical\" in the world of engineering, yet it shows how these issues are thoroughly technical. Engineering firms traditionally have sought expert advice on these aspects from management schools, often regarding these aspects of engineering practice as something to do with psychology or organisational behaviour. The results are normally disappointing because management schools and psychologists have limited insight and understanding of the technical dimensions in engineering work. Little if any of the material in this book can be obtained from management texts or courses. Management schools have avoided the technical dimension of workplace practices and that is precisely what characterises engineering practice. The technical dimension infuses almost every aspect of an engineer's working day and cannot be avoided. That's why this book is so necessary: there has not yet been any authoritative source or guidance to bridge the gap between inanimate technical issues and organisational behaviour. This book fills this gap in our knowledge, is based on rigorous research, and yet is written in a style which is accessible for a wide audience" ],
+        "cop" : [ "Leiden, The Netherlands" ],
+        "pub" : [ "CRC Press/Balkema" ],
+        "oclcid" : [ "(ocolc)891658786" ],
+        "doi" : [ "10.1201/b17434" ],
+        "seriestitle" : [ "Balkema Book" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The making of an expert engineer : how to have a wonderful career creating a better world and spending lots of money belonging to other people" ]
+      },
+      "sort" : {
+        "title" : [ "making of an expert engineer : how to have a wonderful career creating a better world and spending lots of money belonging to other people /" ],
+        "author" : [ "Trevelyan, James P., author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046930800107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1315742284,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ta\"157",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "230",
+    "CALL_SOLR_GET_IDS_LIST" : "125",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "509",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 545,
+    "COMBINED_SEARCH_TIME" : 549,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Engineering Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Engineers",
+      "count" : "1"
+    }, {
+      "value" : "Ingénierie Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Ingénieurs",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Engineering General",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Reference",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Trevelyan James P",
+      "count" : "1"
+    } ]
+  } ]
+}

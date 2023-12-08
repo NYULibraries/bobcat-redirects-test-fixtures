@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995730192007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Harper's bazaar archive" ],
+        "subject" : [ "Dressmaking$$QDressmaking -- Periodicals", "Fashion$$QFashion -- Periodicals", "Travel$$QTravel -- Periodicals", "Celebrities$$QCelebrities -- Periodicals", "Celebrities", "Dressmaking", "Fashion", "Travel", "Modejournaler", "Electronic journals", "Couture (Profession)$$QCouture (Profession) -- Périodiques", "Voyage$$QVoyage -- Périodiques", "Célébrités$$QCélébrités -- Périodiques" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2017238546;$$CISSN$$V1751-1593;$$COCLC$$V(OCoLC)932004470;$$CISSN$$V0141-0547" ],
+        "creationdate" : [ "1867-" ],
+        "publisher" : [ "New York : Hearst Corp." ],
+        "description" : [ "\"The Harper's Bazaar Archive offers access to the backfiles of both the US and UK editions of Harper's Bazaar. In combination, these publications comprise almost 500,000 pages of content, from 1867 to the present [...] This material provides a powerful lens into American, British, and international fashion, as well as popular culture and society, from the mid-19th century forward. It chronicles more than 150 years of some of the most influential work of acclaimed designers, photographers, stylists, and illustrators [...] The Harper's Bazaar Archive features the backfile of the US edition, from its first issue in 1867 to the present, with current issues loaded on an ongoing basis. Coverage of the UK edition is from the first issue in 1929 through to a fixed termination date of 2015. Issues are scanned from cover to cover in full color, while all editorial content and pictorial features are indexed as separate documents to allow for easy search and discovery. For advertisements, the featured company and brand names have been assigned to the document records where possible, and all image captions are captured to a high degree of accuracy, allowing precise retrieval of photographs and illustrations. Contributor names that appear in image credits are also indexed\"--Description on ProQuest website, viewed 30 May 2019.", "Includes Harpers and Queen full text coverage Nov. 1970-Feb. 2006, Harper's Bazaar (New York) Nov. 2, 1867-present, Harper's Bazaar (London) Oct. 1929-Dec. 1969, Mar. 2006 - Dec. 2015." ],
+        "mms" : [ "9995730192007871" ],
+        "contributor" : [ "ProQuest (Firm)$$QProQuest (Firm)" ],
+        "addtitle" : [ "Harper's bazaar online", "Harper's Bazaar.", "Harpers & Queen.", "Harper's bazaar (London, England)", "Harper's bazaar (London, England : 2006)" ],
+        "frequency" : [ "Monthly (June/July and Dec./Jan. combined), 2011-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Ccomplete_edition$$VHarper's Bazaar (1867)$$QHarper's Bazaar (1867)$$Z9995642603507871", "$$Cearlier_title$$VThe queen$$QThe queen" ],
+        "place" : [ "New York] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978966554736" ],
+        "lds60" : [ "Publisher and place from print record." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995730192007871" ],
+        "recordid" : [ "alma9995730192007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978966554736" ],
+        "sourcesystem" : [ "CKB" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "HARPERS & QUEEN" ],
+        "addtitle" : [ "Harper's bazaar online" ],
+        "date" : [ "1867", "1867-" ],
+        "issn" : [ "1751-1593", "0141-0547" ],
+        "abstract" : [ "\"The Harper's Bazaar Archive offers access to the backfiles of both the US and UK editions of Harper's Bazaar. In combination, these publications comprise almost 500,000 pages of content, from 1867 to the present [...] This material provides a powerful lens into American, British, and international fashion, as well as popular culture and society, from the mid-19th century forward. It chronicles more than 150 years of some of the most influential work of acclaimed designers, photographers, stylists, and illustrators [...] The Harper's Bazaar Archive features the backfile of the US edition, from its first issue in 1867 to the present, with current issues loaded on an ongoing basis. Coverage of the UK edition is from the first issue in 1929 through to a fixed termination date of 2015. Issues are scanned from cover to cover in full color, while all editorial content and pictorial features are indexed as separate documents to allow for easy search and discovery. For advertisements, the featured company and brand names have been assigned to the document records where possible, and all image captions are captured to a high degree of accuracy, allowing precise retrieval of photographs and illustrations. Contributor names that appear in image credits are also indexed\"--Description on ProQuest website, viewed 30 May 2019.", "Includes Harpers and Queen full text coverage Nov. 1970-Feb. 2006, Harper's Bazaar (New York) Nov. 2, 1867-present, Harper's Bazaar (London) Oct. 1929-Dec. 1969, Mar. 2006 - Dec. 2015." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "[Hearst Corp.]" ],
+        "oclcid" : [ "(ocolc)932004470" ],
+        "lccn" : [ "2017238546" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "The Harper's bazaar archive" ]
+      },
+      "sort" : {
+        "title" : [ "Harper's bazaar archive" ],
+        "author" : [ "ProQuest (Firm)" ],
+        "creationdate" : [ "1867" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995730192007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2017238546&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tt\"500 h3",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "239",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "56",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "135",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "531",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 568,
+    "COMBINED_SEARCH_TIME" : 572,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1867",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Celebrities",
+      "count" : "1"
+    }, {
+      "value" : "Celebrities Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Couture Profession Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Célébrités Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Dressmaking",
+      "count" : "1"
+    }, {
+      "value" : "Dressmaking Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Electronic Journals",
+      "count" : "1"
+    }, {
+      "value" : "Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Modejournaler",
+      "count" : "1"
+    }, {
+      "value" : "Travel",
+      "count" : "1"
+    }, {
+      "value" : "Travel Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Voyage Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Proquest Firm",
+      "count" : "1"
+    } ]
+  } ]
+}

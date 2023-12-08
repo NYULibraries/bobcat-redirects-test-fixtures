@@ -1,0 +1,310 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990044853350107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Navigating Academia : a guide for women and minority STEM faculty " ],
+        "subject" : [ "Universités -- Corps enseignant", "Universités", "Personnel -- Sélection", "Minorités", "Femmes", "Femmes dans les sciences", "Minorités dans les sciences", "Femmes en ingénierie", "Minorités en ingénierie", "Femmes en mathématiques", "Minorités en mathématiques", "minorities", "universities (institutions)", "colleges (institutions)", "women (female humans)", "EDUCATION -- Higher", "Women", "Universities and colleges", "Minorities", "Employee selection", "Minorities in engineering", "Minorities in mathematics", "Minorities in science", "Minority college teachers", "Universities and colleges -- Faculty", "Women college teachers", "Women in engineering", "Women in mathematics", "Women in science" ],
+        "format" : [ "1 online resource (xxiv, 193 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780128019955;$$CISBN$$V0128019956;$$COCLC$$V(OCoLC)905860122;$$CISBN$$V9780128019849" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "London England ; San Diego, California : Academic Press is an imprint of Elsevier" ],
+        "description" : [ "Navigating Academia: A Guide for Women and Minority STEM Faculty explores the infrastructure of the academy and provides a systematic account of where and why women and minorities fall behind men in the preparation for and development of their academic careers. This book offers useful strategies for recruiting, retaining, and advancing women and minorities. Chapters include testimonials from faculty and administrators about how they made their ascent within the academy. Navigating Academia: A Guide for Women and Minority STEM Faculty also discusses how to modify and expand faculty recruiting." ],
+        "mms" : [ "990044853350107871" ],
+        "contributor" : [ "Mosley, Pauline, editor.$$QMosley, Pauline", "Hargrove, S. Keith, editor.$$QHargrove, S. Keith" ],
+        "contents" : [ "Section A. Issues -- Section B. Institutional and societal cultures -- Section C. Career pathways -- Section D. Transitioning -- Section E. Mentoring -- Section F. Professor support networks." ],
+        "relation" : [ "$$Cform$$VPrint version: Navigating Academia. London, [England] ; San Diego, California : Academic Press is an imprint of Elsevier, ©2015 xxiv, 193 pages$$QNavigating Academia." ],
+        "mesh" : [ "Universities", "Personnel Selection", "Faculty", "Minority Groups", "Women" ],
+        "place" : [ "London England] ; San Diego, California :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "elssci", "aleph004485335" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990044853350107871" ],
+        "recordid" : [ "alma990044853350107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004485335-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mosley", "Hargrove" ],
+        "aufirst" : [ "Pauline", "S. Keith" ],
+        "auinit" : [ "P", "S" ],
+        "addau" : [ "Mosley, Pauline", "Hargrove, S. Keith" ],
+        "contributorfull" : [ "$$NMosley, Pauline$$LMosley$$FPauline$$Reditor", "$$NHargrove, S. Keith$$Reditor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9780128019955", "0128019956", "9780128019849" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Navigating Academia: A Guide for Women and Minority STEM Faculty explores the infrastructure of the academy and provides a systematic account of where and why women and minorities fall behind men in the preparation for and development of their academic careers. This book offers useful strategies for recruiting, retaining, and advancing women and minorities. Chapters include testimonials from faculty and administrators about how they made their ascent within the academy. Navigating Academia: A Guide for Women and Minority STEM Faculty also discusses how to modify and expand faculty recruiting." ],
+        "cop" : [ "London [England] ;" ],
+        "pub" : [ "Academic Press is an imprint of Elsevier" ],
+        "oclcid" : [ "(ocolc)905860122" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Navigating Academia : a guide for women and minority STEM faculty" ]
+      },
+      "sort" : {
+        "title" : [ "Navigating Academia : a guide for women and minority STEM faculty /" ],
+        "author" : [ "Mosley, Pauline, editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044853350107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0128019956,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#2331ǂ n38 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "171",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "164",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "76",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "55",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "109",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "158",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "589",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 627,
+    "COMBINED_SEARCH_TIME" : 629,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Colleges Institutions",
+      "count" : "1"
+    }, {
+      "value" : "Education Higher",
+      "count" : "1"
+    }, {
+      "value" : "Employee Selection",
+      "count" : "1"
+    }, {
+      "value" : "Faculty",
+      "count" : "1"
+    }, {
+      "value" : "Femmes",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Dans Les Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Femmes En Ingénierie",
+      "count" : "1"
+    }, {
+      "value" : "Femmes En Mathématiques",
+      "count" : "1"
+    }, {
+      "value" : "Minorities",
+      "count" : "1"
+    }, {
+      "value" : "Minorities In Engineering",
+      "count" : "1"
+    }, {
+      "value" : "Minorities In Mathematics",
+      "count" : "1"
+    }, {
+      "value" : "Minorities In Science",
+      "count" : "1"
+    }, {
+      "value" : "Minority College Teachers",
+      "count" : "1"
+    }, {
+      "value" : "Minority Groups",
+      "count" : "1"
+    }, {
+      "value" : "Minorités",
+      "count" : "1"
+    }, {
+      "value" : "Minorités Dans Les Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Minorités En Ingénierie",
+      "count" : "1"
+    }, {
+      "value" : "Minorités En Mathématiques",
+      "count" : "1"
+    }, {
+      "value" : "Personnel Selection",
+      "count" : "1"
+    }, {
+      "value" : "Personnel Sélection",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hargrove S Keith",
+      "count" : "1"
+    }, {
+      "value" : "Mosley Pauline",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

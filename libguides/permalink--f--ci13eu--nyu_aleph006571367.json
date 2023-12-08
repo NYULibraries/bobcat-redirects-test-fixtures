@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990065713670107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare in action : 30 theatre makers on their practice " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Dramatic production", "Shakespeare, William, 1564-1616", "Actors$$QActors -- Interviews", "Actors", "Theater" ],
+        "format" : [ "viii, 212 pages ; 20 cm" ],
+        "identifier" : [ "$$CLC$$V2018055711;$$CISBN$$V9781350033504;$$CISBN$$V1350033502;$$CISBN$$V9781408171738;$$CISBN$$V1408171732;$$COCLC$$V(OCoLC)1078970765;$$CISBN$$V9781474229753" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Bessell, Jacquelyn, 1967- author.$$QBessell, Jacquelyn" ],
+        "publisher" : [ "London, UK ; New York, NY : The Arden Shakespeare" ],
+        "description" : [ "\"How do actors prepare a script of a Shakespeare play for performance? Where do directors begin? What do Shakespeare's plays offer a designer or choreographer? How do the cast and creative team work together in rehearsals? With Shakespeare in Action, Jaq Bessell presents thirty interviews with theatre practitioners from some of the larger producing theatres in the UK and the US, exploring the various processes which bring Shakespeare's plays to the stage. Actors, designers, directors and choreographers, including Eve Best, Bunny Christie, Gregory Doran and Lindsay Kemp, share their collective wisdom and experience, and reveal how training and practice informs productions of Shakespeare plays. These first-hand accounts provide students of Shakespeare in performance and practitioners with a critical toolkit with which to study the plays in performance\"-- Provided by publisher." ],
+        "mms" : [ "990065713670107871" ],
+        "contents" : [ "Jade Anouka -- Ankur Bahl -- Eve Best -- Sandy Grierson -- John Harrell -- Alex Hassell -- Amer Hlehel -- Colin Hurley -- T.R. Knight -- Andrew Long -- Jonathan Mcguinness -- Pippa Nixon -- Juliet Rylance -- Jonathan Slinger -- Emily Taafe -- Yolanda Vazquez -- Creatives -- Mike Alfreds -- Tim Carroll -- Bunny Christie -- Geraldine Collinge -- Michael Corbidge -- Gregory Doran -- Polly Findlay -- Lindsay Kemp -- Ethan Mcsweeny -- Bruce O'Neill -- Tom Piper -- Renato Rocha -- Claire Van Kampen -- Sian Williams." ],
+        "genre" : [ "Interviews" ],
+        "relation" : [ "$$Cform$$VOnline version: Bessell, Jacquelyn, 1967- author. Shakespeare in action London, UK ; New York, NY : The Arden Shakespeare, 2019$$QShakespeare in action$$Z990081246380107871", "$$Cform$$VShakespeare in action : 30 theatre makers on their practice$$Z990081793900107871", "$$Cform$$VShakespeare in action : 30 theatre makers on their practice$$Z9995721251507871" ],
+        "place" : [ "London, UK ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006571367" ],
+        "lds53" : [ "006571367" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990065713670107871" ],
+        "recordid" : [ "alma990065713670107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006571367-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bessell" ],
+        "aufirst" : [ "Jacquelyn" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Bessell, Jacquelyn" ],
+        "creatorfull" : [ "$$NBessell, Jacquelyn$$LBessell$$FJacquelyn$$Rauthor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781350033504", "1350033502", "9781408171738", "1408171732", "9781474229753" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"How do actors prepare a script of a Shakespeare play for performance? Where do directors begin? What do Shakespeare's plays offer a designer or choreographer? How do the cast and creative team work together in rehearsals? With Shakespeare in Action, Jaq Bessell presents thirty interviews with theatre practitioners from some of the larger producing theatres in the UK and the US, exploring the various processes which bring Shakespeare's plays to the stage. Actors, designers, directors and choreographers, including Eve Best, Bunny Christie, Gregory Doran and Lindsay Kemp, share their collective wisdom and experience, and reveal how training and practice informs productions of Shakespeare plays. These first-hand accounts provide students of Shakespeare in performance and practitioners with a critical toolkit with which to study the plays in performance\"-- Provided by publisher." ],
+        "cop" : [ "London, UK ;" ],
+        "pub" : [ "The Arden Shakespeare" ],
+        "oclcid" : [ "(ocolc)1078970765" ],
+        "lccn" : [ "2018055711" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare in action : 30 theatre makers on their practice" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare in action : 30 theatre makers on their practice /" ],
+        "author" : [ "Bessell, Jacquelyn, 1967- author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990065713670107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1350033502,OCLC:,LCCN:2018055711&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#3091ǂ b477 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "342",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "79",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "538",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 564,
+    "COMBINED_SEARCH_TIME" : 568,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Actors",
+      "count" : "1"
+    }, {
+      "value" : "Actors Interviews",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Dramatic Production",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bessell Jacquelyn",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

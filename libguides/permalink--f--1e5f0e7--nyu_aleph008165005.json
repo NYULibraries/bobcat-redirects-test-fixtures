@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081650050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "GRE reading comprehension : detailed solutions to 325 questions." ],
+        "subject" : [ "Graduate Record Examination$$QGraduate Record Examination -- Study guides", "Verbal ability$$QVerbal ability -- Examinations, questions, etc", "Reading comprehension$$QReading comprehension -- Examinations, questions, etc" ],
+        "format" : [ "282 pages ; 28 cm" ],
+        "identifier" : [ "$$CISBN$$V1636510205;$$CISBN$$V9781636510200;$$COCLC$$V(OCoLC)1253475876" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Broomfield, CO : Vibrant Publishers" ],
+        "mms" : [ "990081650050107871" ],
+        "addtitle" : [ "Graduate Record Examination reading comprehension : detailed solutions to 325 questions.", "Reading comprehension : detailed solutions to 325 questions.", "Detailed solutions to 325 questions." ],
+        "edition" : [ "2021 edtiion.", "Fourth edition." ],
+        "series" : [ "Test prep series$$QTest prep series", "Test prep series.$$QTest prep series." ],
+        "genre" : [ "Study guides", "Examinations, questions, etc" ],
+        "place" : [ "Broomfield, CO] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008165005" ],
+        "lds53" : [ "008165005" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081650050107871" ],
+        "recordid" : [ "alma990081650050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008165005-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Graduate Record Examination reading comprehension : detailed solutions to 325 questions.", "Reading comprehension : detailed solutions to 325 questions.", "Detailed solutions to 325 questions." ],
+        "date" : [ "2021" ],
+        "isbn" : [ "1636510205", "9781636510200" ],
+        "cop" : [ "Broomfield, CO" ],
+        "pub" : [ "Vibrant Publishers" ],
+        "oclcid" : [ "(ocolc)1253475876" ],
+        "edition" : [ "2021 edtiion." ],
+        "seriestitle" : [ "Test prep series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "GRE reading comprehension : detailed solutions to 325 questions." ]
+      },
+      "sort" : {
+        "title" : [ "GRE reading comprehension : detailed solutions to 325 questions." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990081650050107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781636510200,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#2367.4ǂ g7474 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "64",
+    "CALL_SOLR_GET_IDS_LIST" : "56",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "32",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "194",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 228,
+    "COMBINED_SEARCH_TIME" : 232,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Graduate Record Examination Study Guides",
+      "count" : "1"
+    }, {
+      "value" : "Reading Comprehension Examinations Questions Etc",
+      "count" : "1"
+    }, {
+      "value" : "Verbal Ability Examinations Questions Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

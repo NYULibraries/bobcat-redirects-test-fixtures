@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995635100007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "EURASIP journal on image and video processing (Online)" ],
+        "subject" : [ "Image processing -- Digital techniques$$QImage processing -- Digital techniques -- Periodicals", "Digital video$$QDigital video -- Periodicals", "Image processing", "Traitement d'images", "Vidéo numérique", "Traitement d'images -- Techniques numériques$$QTraitement d'images -- Techniques numériques -- Périodiques", "Vidéo numérique$$QVidéo numérique -- Périodiques", "image processing", "Digital video", "Image processing -- Digital techniques", "Applied Physics" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2007242044;$$CISSN$$V1687-5281;$$COCLC$$V(OCoLC)85791490;$$CISSN$$V1687-5176" ],
+        "creationdate" : [ "©2007-" ],
+        "publisher" : [ "New York, NY : Hindawi Pub. Corp.", "Vol. 2007-" ],
+        "mms" : [ "9995635100007871" ],
+        "contributor" : [ "European Association for Speech, Signal and Image Processing.$$QEuropean Association for Speech, Signal and Image Processing." ],
+        "addtitle" : [ "Journal on image and video processing" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "unititle" : [ "EURASIP journal on image and video processing (Online)" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000277689" ],
+        "lds60" : [ "Title from table of contents (publisher's Web site, viewed Mar. 5, 2007).", "Volumes for 2007-<2008> include special issues with distinctive titles.", "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995635100007871" ],
+        "recordid" : [ "alma9995635100007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000277689" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "INTERNATIONAL JOURNAL OF IMAGE AND VIDEO PROCESSING", "EURASIP J IMAGE VIDE", "JOURNAL ON IMAGE AND VIDEO PROCESSING", "EURASIP J. IMAGE VIDEO PROCESS", "EURASIP J IMAGE VIDEO PROCESS", "EURASIP J. Image Video Process. (Online)" ],
+        "addtitle" : [ "Journal on image and video processing" ],
+        "date" : [ "2007", "©2007-" ],
+        "issn" : [ "1687-5281", "1687-5176" ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Hindawi Pub. Corp." ],
+        "oclcid" : [ "(ocolc)85791490" ],
+        "lccn" : [ "2007242044" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "EURASIP journal on image and video processing (Online)" ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "EURASIP journal on image and video processing (Online)" ],
+        "author" : [ "European Association for Speech, Signal and Image Processing." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635100007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635100007871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995635100007871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007242044&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ta#1637",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "102",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "144",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "117",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "96",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "426",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 469,
+    "COMBINED_SEARCH_TIME" : 472,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Applied Physics",
+      "count" : "1"
+    }, {
+      "value" : "Digital Video",
+      "count" : "1"
+    }, {
+      "value" : "Digital Video Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Image Processing",
+      "count" : "1"
+    }, {
+      "value" : "Image Processing Digital Techniques",
+      "count" : "1"
+    }, {
+      "value" : "Image Processing Digital Techniques Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Traitement Dimages",
+      "count" : "1"
+    }, {
+      "value" : "Traitement Dimages Techniques Numériques Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Vidéo Numérique",
+      "count" : "1"
+    }, {
+      "value" : "Vidéo Numérique Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "European Association For Speech Signal And Image Processing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

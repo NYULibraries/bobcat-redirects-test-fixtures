@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990061974770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Compulsory games : and other stories " ],
+        "subject" : [ "FICTION -- Short Stories (single author)", "FICTION -- Occult & Supernatural", "FICTION -- Romance -- Gothic" ],
+        "format" : [ "xvii, 341 pages ; 21 cm." ],
+        "identifier" : [ "$$CLC$$V2017055019;$$CISBN$$V9781681371894;$$CISBN$$V1681371898;$$COCLC$$V(OCoLC)1014011764;$$CISBN$$V9781681371900" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Aickman, Robert, author.$$QAickman, Robert" ],
+        "publisher" : [ "New York : New York Review Books" ],
+        "description" : [ "\"The best and most interesting stories by Robert Aickman, a master of the supernatural tale, the uncanny, and the truly weird. Cross Henry James with M.R. James and you might end up with a writer like Robert Aickman, though his self-described \"strange stories\" remain confoundingly and uniquely his own. Aickman's superbly written tales terrify not with standard thrills and gore but through a radical overturning of the laws of nature and everyday life. His territory of the strange, of the \"void behind the face of order,\" is a surreal region that grotesquely mimics the quotidian: Is that river the Thames, or is it even a river? What does it mean when a prospective lover removes one dress, and then another--and then another? Do a herd of cows in a peaceful churchyard contain the souls of jilted women preparing to trample a cruel lover to death? Published for the first time under one cover, this collection offers a generous introduction to a sophisticated, psychologically acute modernist whose achievements have too long been hidden under the cloak of genre\"-- Provided by publisher." ],
+        "mms" : [ "990061974770107871" ],
+        "contributor" : [ "Nelson, Victoria, editor, writer of introduction.$$QNelson, Victoria" ],
+        "series" : [ "New York Review Books classics$$QNew York Review Books classics", "New York Review Books classics.$$QNew York Review Books classics." ],
+        "contents" : [ "Machine generated contents note: Compulsory Games by Robert Aickman -- PROVISIONAL TABLE OF CONTENTS -- Compulsory Games -- Le Miroir -- Raising the Wind -- Residents Only -- Hands in Glove -- Wood -- Laura -- Just a Song at Twilight -- Letters to the Postman -- Marriage -- No Time Is Passing -- The Strangers -- The Fully-Conducted Tour -- A Disciple of Plato -- The Coffin House." ],
+        "relation" : [ "$$Cform$$VOnline version: Aickman, Robert. Compulsory games. New York City : New York Review Books, [2018]$$QCompulsory games." ],
+        "unititle" : [ "Short stories. Selections" ],
+        "includes" : [ "Aickman, Robert, Short stories. Selections$$QAickman, Robert, Short stories. Selections" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006197477" ],
+        "lds53" : [ "006197477" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990061974770107871" ],
+        "recordid" : [ "alma990061974770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006197477-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Aickman" ],
+        "aufirst" : [ "Robert" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Aickman, Robert" ],
+        "addau" : [ "Nelson, Victoria" ],
+        "creatorfull" : [ "$$NAickman, Robert$$LAickman$$FRobert$$Rauthor" ],
+        "contributorfull" : [ "$$NNelson, Victoria$$LNelson$$FVictoria$$Rcontributor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9781681371894", "1681371898", "9781681371900" ],
+        "abstract" : [ "\"The best and most interesting stories by Robert Aickman, a master of the supernatural tale, the uncanny, and the truly weird. Cross Henry James with M.R. James and you might end up with a writer like Robert Aickman, though his self-described \"strange stories\" remain confoundingly and uniquely his own. Aickman's superbly written tales terrify not with standard thrills and gore but through a radical overturning of the laws of nature and everyday life. His territory of the strange, of the \"void behind the face of order,\" is a surreal region that grotesquely mimics the quotidian: Is that river the Thames, or is it even a river? What does it mean when a prospective lover removes one dress, and then another--and then another? Do a herd of cows in a peaceful churchyard contain the souls of jilted women preparing to trample a cruel lover to death? Published for the first time under one cover, this collection offers a generous introduction to a sophisticated, psychologically acute modernist whose achievements have too long been hidden under the cloak of genre\"-- Provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "New York Review Books" ],
+        "oclcid" : [ "(ocolc)1014011764" ],
+        "lccn" : [ "2017055019" ],
+        "seriestitle" : [ "New York Review Books classics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Compulsory games : and other stories" ]
+      },
+      "sort" : {
+        "title" : [ "Compulsory games : and other stories /" ],
+        "author" : [ "Aickman, Robert, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990061974770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1681371898,OCLC:,LCCN:2017055019&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#6051 i3ǂa6 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "64",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "60",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "252",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 278,
+    "COMBINED_SEARCH_TIME" : 280,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fiction Occult Supernatural",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Romance Gothic",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Short Stories Single Author",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aickman Robert",
+      "count" : "1"
+    }, {
+      "value" : "Nelson Victoria",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,276 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990011785940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The reckoning" ],
+        "subject" : [ "Catholic Church -- England -- Clergy -- 14th century$$QCatholic Church -- England -- Clergy -- 14th century -- Drama", "Great Britain -- History -- 14th century$$QGreat Britain -- History -- 14th century -- Drama", "Theatrical companies -- England -- History$$QTheatrical companies -- England -- History -- Drama", "Priests$$QPriests -- Drama", "Middle Ages$$QMiddle Ages -- Drama" ],
+        "format" : [ "1 videodisc (110 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CISBN$$V0792186966;$$COCLC$$V(OCoLC)ocm55492229" ],
+        "creationdate" : [ "c2004" ],
+        "publisher" : [ "Hollywood, Calif. : Paramount Home Entertainment" ],
+        "description" : [ "Set in 14th century England, the story involves a priest who leaves the church after committing adultery. He falls in with a troupe of traveling actors. The group ends up in a small town where a mute woman is accused of witchcraft and murder. Drawn to the woman, the troupe re-creates the events in hopes of drawing a crowd and solving the crime." ],
+        "mms" : [ "990011785940107871" ],
+        "contributor" : [ "Wood, Caroline.$$QWood, Caroline.", "Mills, Mark.$$QMills, Mark.", "McGuigan, Paul.$$QMcGuigan, Paul.", "Dafoe, Willem.$$QDafoe, Willem.", "Bettany, Paul, 1971-$$QBettany, Paul", "Cox, Brian, 1946-$$QCox, Brian", "McKee, Gina, 1964-$$QMcKee, Gina", "Bremner, Ewen.$$QBremner, Ewen.", "Cassel, Vincent, 1966-$$QCassel, Vincent", "Sova, Peter.$$QSova, Peter.", "Hulme, Andrew.$$QHulme, Andrew.", "Lee, Adrian.$$QLee, Adrian.", "Mancina, Mark.$$QMancina, Mark.", "Unsworth, Barry, 1930-$$QUnsworth, Barry", "Paramount Classics (Firm)$$QParamount Classics (Firm)", "Renaissance Films (Firm)$$QRenaissance Films (Firm)", "Kanzaman/MDA Films.$$QKanzaman/MDA Films." ],
+        "series" : [ "Widescreen DVD collection$$QWidescreen DVD collection", "Widescreen DVD collection.$$QWidescreen DVD collection." ],
+        "genre" : [ "Drama", "Feature films", "Detective and mystery films", "Historical films", "Video recordings for the hearing impaired" ],
+        "relatedwork" : [ "Unsworth, Barry, 1930- Morality play.$$QUnsworth, Barry, 1930- Morality play." ],
+        "place" : [ "Hollywood, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001178594" ],
+        "lds53" : [ "001178594" ],
+        "lds60" : [ "Originally released as a motion picture in 2004.", "Based on the novel \"Morality play\" by Barry Unsworth.", "Special feature: theatrical trailer." ],
+        "lds64" : [ "Director of photography, Peter Sova ; editor, Andrew Hulme ; original score, Adrian Lee, Mark Mancina." ],
+        "lds65" : [ "Willem Dafoe, Paul Bettany, Brian Cox, Gina McKee, Ewen Bremner, Vincent Cassel." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990011785940107871" ],
+        "recordid" : [ "alma990011785940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001178594-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wood", "Mills", "McGuigan", "Dafoe", "Bettany", "Cox", "McKee", "Bremner", "Cassel", "Sova", "Hulme", "Lee", "Mancina", "Unsworth" ],
+        "aufirst" : [ "Caroline.", "Paul.", "Willem.", "Paul", "Brian", "Gina", "Ewen.", "Vincent", "Peter.", "Andrew.", "Adrian.", "Mark.", "Barry" ],
+        "auinit" : [ "C", "W", "G", "E", "V", "P", "A", "M", "B" ],
+        "addau" : [ "Wood, Caroline.", "Mills, Mark.", "McGuigan, Paul.", "Dafoe, Willem.", "Bettany, Paul", "Cox, Brian", "McKee, Gina", "Bremner, Ewen.", "Cassel, Vincent", "Sova, Peter.", "Hulme, Andrew.", "Lee, Adrian.", "Mancina, Mark.", "Unsworth, Barry" ],
+        "contributorfull" : [ "$$NWood, Caroline.$$LWood$$FCaroline.$$Rcontributor", "$$NMills, Mark.$$Rcontributor", "$$NMcGuigan, Paul.$$Rcontributor", "$$NDafoe, Willem.$$Rcontributor", "$$NBettany, Paul$$Rcontributor", "$$NCox, Brian$$Rcontributor", "$$NMcKee, Gina$$Rcontributor", "$$NBremner, Ewen.$$Rcontributor", "$$NCassel, Vincent$$Rcontributor", "$$NSova, Peter.$$Rcontributor", "$$NHulme, Andrew.$$Rcontributor", "$$NLee, Adrian.$$Rcontributor", "$$NMancina, Mark.$$Rcontributor", "$$NUnsworth, Barry$$Rcontributor" ],
+        "date" : [ "2004", "c2004" ],
+        "isbn" : [ "0792186966" ],
+        "abstract" : [ "Set in 14th century England, the story involves a priest who leaves the church after committing adultery. He falls in with a troupe of traveling actors. The group ends up in a small town where a mute woman is accused of witchcraft and murder. Drawn to the woman, the troupe re-creates the events in hopes of drawing a crowd and solving the crime." ],
+        "cop" : [ "Hollywood, Calif" ],
+        "pub" : [ "Paramount Home Entertainment" ],
+        "oclcid" : [ "(ocolc)55492229" ],
+        "seriestitle" : [ "Widescreen DVD collection" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The reckoning" ]
+      },
+      "sort" : {
+        "title" : [ "reckoning" ],
+        "author" : [ "Wood, Caroline." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990011785940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0792186966,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "791.43 72",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "111",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "88",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "333",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 362,
+    "COMBINED_SEARCH_TIME" : 365,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Catholic Church England Clergy 14th Century Drama",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain History 14th Century Drama",
+      "count" : "1"
+    }, {
+      "value" : "Middle Ages Drama",
+      "count" : "1"
+    }, {
+      "value" : "Priests Drama",
+      "count" : "1"
+    }, {
+      "value" : "Theatrical Companies England History Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bettany Paul",
+      "count" : "1"
+    }, {
+      "value" : "Bremner Ewen",
+      "count" : "1"
+    }, {
+      "value" : "Cassel Vincent",
+      "count" : "1"
+    }, {
+      "value" : "Cox Brian",
+      "count" : "1"
+    }, {
+      "value" : "Dafoe Willem",
+      "count" : "1"
+    }, {
+      "value" : "Hulme Andrew",
+      "count" : "1"
+    }, {
+      "value" : "Kanzaman Mda Films",
+      "count" : "1"
+    }, {
+      "value" : "Lee Adrian",
+      "count" : "1"
+    }, {
+      "value" : "Mancina Mark",
+      "count" : "1"
+    }, {
+      "value" : "Mcguigan Paul",
+      "count" : "1"
+    }, {
+      "value" : "Mckee Gina",
+      "count" : "1"
+    }, {
+      "value" : "Mills Mark",
+      "count" : "1"
+    }, {
+      "value" : "Paramount Classics Firm",
+      "count" : "1"
+    }, {
+      "value" : "Renaissance Films Firm",
+      "count" : "1"
+    }, {
+      "value" : "Sova Peter",
+      "count" : "1"
+    }, {
+      "value" : "Unsworth Barry",
+      "count" : "1"
+    }, {
+      "value" : "Wood Caroline",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

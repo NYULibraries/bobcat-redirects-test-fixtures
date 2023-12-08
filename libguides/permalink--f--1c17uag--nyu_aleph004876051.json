@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048760510107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Mississippi Chinese : between Black and White." ],
+        "subject" : [ "Chinese Americans -- Mississippi", "Américains d'origine chinoise -- Mississippi", "Chinese Americans", "Mississippi" ],
+        "format" : [ "1 online resource (257 pages)." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)849669600" ],
+        "creationdate" : [ "1988, 1971" ],
+        "publisher" : [ "Long Grove, IL : Waveland Press, Inc." ],
+        "mms" : [ "990048760510107871" ],
+        "contributor" : [ "Loewen, James W.$$QLoewen, James W." ],
+        "series" : [ "Anthropology online$$QAnthropology online" ],
+        "place" : [ "Long Grove, IL :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspowned", "aleph004876051" ],
+        "lds60" : [ "Title from HTML t.p. (viewed Feb. 27, 2013)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048760510107871" ],
+        "recordid" : [ "alma990048760510107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004876051-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Loewen" ],
+        "aufirst" : [ "James W." ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Loewen, James W." ],
+        "contributorfull" : [ "$$NLoewen, James W.$$LLoewen$$FJames W.$$Rcontributor" ],
+        "date" : [ "1988 - 1971", "1988, 1971" ],
+        "cop" : [ "Long Grove, IL" ],
+        "pub" : [ "Waveland Press, Inc." ],
+        "oclcid" : [ "(ocolc)849669600" ],
+        "seriestitle" : [ "Anthropology online" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Mississippi Chinese : between Black and White." ]
+      },
+      "sort" : {
+        "title" : [ "Mississippi Chinese : between Black and White." ],
+        "author" : [ "Loewen, James W." ],
+        "creationdate" : [ "1988" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048760510107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048760510107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:849669600,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gn 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "130",
+    "CALL_SOLR_GET_IDS_LIST" : "107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "83",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "146",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "427",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 450,
+    "COMBINED_SEARCH_TIME" : 453,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    }, {
+      "value" : "1988",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Américains Dorigine Chinoise Mississippi",
+      "count" : "1"
+    }, {
+      "value" : "Chinese Americans",
+      "count" : "1"
+    }, {
+      "value" : "Chinese Americans Mississippi",
+      "count" : "1"
+    }, {
+      "value" : "Mississippi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Loewen James W",
+      "count" : "1"
+    } ]
+  } ]
+}

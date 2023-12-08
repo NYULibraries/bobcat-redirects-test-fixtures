@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990064387220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The appraisal of real estate " ],
+        "subject" : [ "Biens réels -- Évaluation", "Biens personnels -- Évaluation", "land valuation", "Personal property -- Valuation", "Real property -- Valuation" ],
+        "format" : [ "x, 705 pages : color illustrations ; 26 cm" ],
+        "identifier" : [ "$$CLC$$V2019031830;$$CISBN$$V9781935328780;$$CISBN$$V1935328786;$$COCLC$$V(OCoLC)1124771539" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Chicago : Appraisal Institute" ],
+        "description" : [ "\"This authoritative text covers the theory and practice of residential and commercial valuation as well as appraisal methods, standards, and reports\"-- Provided by publisher." ],
+        "mms" : [ "990064387220107871" ],
+        "contributor" : [ "Appraisal Institute (U.S.)$$QAppraisal Institute (U.S.)" ],
+        "edition" : [ "Fifteenth edition." ],
+        "contents" : [ "Introduction to appraisal -- Land, real estate, and ownership of real property -- The nature of value -- The valuation process -- Elements of the assignment -- Identifying the type of value and its definition -- Identifying the rights to be appraised -- Scope of work -- Data collection -- Economic trends in real estate markets and capital markets -- Neighborhoods, districts, and market areas -- Land and site description -- Building description -- Statistical analysis in appraisal -- Market analysis -- Applications of market analysis -- Highest and best use analysis -- The application of highest and best use analysis -- Land and site valuation -- The sales comparison approach -- Comparative analysis -- Applications of the sales comparison approach -- The income capitalization approach -- Income and expense analysis -- Direct capitalization -- Yield capitalization -- Discounted cash flow analysis and investment analysis -- Applications of the income capitalization approach -- The cost approach -- Building cost estimates -- Depreciation estimates -- Reconciling value indications -- The appraisal report -- Review -- Consulting -- Valuation for financial reporting -- Valuation of real property with related non-realty items." ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006438722" ],
+        "lds53" : [ "006438722" ],
+        "lds60" : [ "Revised edition of The appraisal of real estate, [2014].", "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990064387220107871" ],
+        "recordid" : [ "alma990064387220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006438722-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2020" ],
+        "isbn" : [ "9781935328780", "1935328786" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This authoritative text covers the theory and practice of residential and commercial valuation as well as appraisal methods, standards, and reports\"-- Provided by publisher." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "Appraisal Institute" ],
+        "oclcid" : [ "(ocolc)1124771539" ],
+        "lccn" : [ "2019031830" ],
+        "edition" : [ "Fifteenth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The appraisal of real estate" ]
+      },
+      "sort" : {
+        "title" : [ "appraisal of real estate /" ],
+        "author" : [ "Appraisal Institute (U.S.)" ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990064387220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990064387220107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1935328786,OCLC:,LCCN:2019031830&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#1387ǂ a663 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "103",
+    "CALL_SOLR_GET_IDS_LIST" : "101",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "52",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "48",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "338",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 362,
+    "COMBINED_SEARCH_TIME" : 363,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biens Personnels Évaluation",
+      "count" : "1"
+    }, {
+      "value" : "Biens Réels Évaluation",
+      "count" : "1"
+    }, {
+      "value" : "Land Valuation",
+      "count" : "1"
+    }, {
+      "value" : "Personal Property Valuation",
+      "count" : "1"
+    }, {
+      "value" : "Real Property Valuation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Appraisal Institute U S",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163050350007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

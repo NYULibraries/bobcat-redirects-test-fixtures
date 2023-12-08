@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038477440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Gathering moss : a natural and cultural history of mosses " ],
+        "subject" : [ "Kimmerer, Robin Wall", "Mousses -- Écologie", "Mousses", "Mosses", "Mosses -- Ecology", "\"Multi-User\"" ],
+        "format" : [ "1 online resource (viii, 168 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780870716416;$$CISBN$$V0870716417;$$COCLC$$V(OCoLC)794701187" ],
+        "creationdate" : [ "2003" ],
+        "creator" : [ "Kimmerer, Robin Wall, author.$$QKimmerer, Robin Wall" ],
+        "publisher" : [ "Corvallis, OR : Oregon State University Press" ],
+        "description" : [ "\"Living at the limits of our ordinary perception, mosses are a common but largely unnoticed element of the natural world. Gathering moss is a mix of science and personal reflection that invites readers to explore and learn from the elegantly simple lives of mosses. In this series of linked personal essays, Robin Kimmerer leads general readers and scientists alike to an understanding of how mosses live and how their lives are intertwined with the lives of countless other beings. Kimmerer explains the biology of mosses clearly and artfully, while at the same time reflecting on what these fascinating organisms have to teach us. Drawing on her experiences as a scientist, a mother, and a Native American, Kimmerer explains the stories of mosses in scientific terms as well as in the framework of indigenous ways of knowing. In her book, the natural history and cultural relationships of mosses become a powerful metaphor for ways of living in the world.\"-- Provided by publisher." ],
+        "mms" : [ "990038477440107871" ],
+        "edition" : [ "1st ed." ],
+        "contents" : [ "Preface: Seeing the World Through Moss-Colored Glasses -- The Standing Stones -- Learning to See -- The Advantages of Being Small: Life in the Boundary Layer -- Back to the Pond -- Sexual Asymmetry and the Satellite Sisters -- An Affinity for Water -- Binding Up the Wounds: Mosses in Ecological Succession -- In the Forest of the Waterbear -- Kickapoo -- Choices -- A Landscape of Chance -- City Mosses -- The Web of Reciprocity: Indigenous Uses of Moss -- The Red Sneaker -- Portrait of Splachnum -- The Owner -- The Forest Gives Thanks to the Mosses -- The Bystander -- Straw Into Gold -- Suggestions for Further Reading." ],
+        "relation" : [ "$$Cform$$VPrint version: Kimmerer, Robin Wall. Gathering moss. 1st ed. Corvallis, OR : Oregon State University Press, ©2003$$QGathering moss." ],
+        "place" : [ "Corvallis, OR :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "pmusebp", "aleph003847744" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038477440107871" ],
+        "recordid" : [ "alma990038477440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003847744-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kimmerer" ],
+        "aufirst" : [ "Robin Wall" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Kimmerer, Robin Wall" ],
+        "creatorfull" : [ "$$NKimmerer, Robin Wall$$LKimmerer$$FRobin Wall$$Rauthor" ],
+        "date" : [ "2003 - 2003", "2003" ],
+        "isbn" : [ "9780870716416", "0870716417" ],
+        "notes" : [ "Includes bibliographical references (pages 163-165)." ],
+        "abstract" : [ "\"Living at the limits of our ordinary perception, mosses are a common but largely unnoticed element of the natural world. Gathering moss is a mix of science and personal reflection that invites readers to explore and learn from the elegantly simple lives of mosses. In this series of linked personal essays, Robin Kimmerer leads general readers and scientists alike to an understanding of how mosses live and how their lives are intertwined with the lives of countless other beings. Kimmerer explains the biology of mosses clearly and artfully, while at the same time reflecting on what these fascinating organisms have to teach us. Drawing on her experiences as a scientist, a mother, and a Native American, Kimmerer explains the stories of mosses in scientific terms as well as in the framework of indigenous ways of knowing. In her book, the natural history and cultural relationships of mosses become a powerful metaphor for ways of living in the world.\"-- Provided by publisher." ],
+        "cop" : [ "Corvallis, OR" ],
+        "pub" : [ "Oregon State University Press" ],
+        "oclcid" : [ "(ocolc)794701187" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Gathering moss : a natural and cultural history of mosses" ]
+      },
+      "sort" : {
+        "title" : [ "Gathering moss : a natural and cultural history of mosses /" ],
+        "author" : [ "Kimmerer, Robin Wall, author." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038477440107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038477440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0870716417,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qk\"537ǂ k56 2003",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "189",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "221",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "216",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "104",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "600",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 634,
+    "COMBINED_SEARCH_TIME" : 637,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Kimmerer Robin Wall",
+      "count" : "1"
+    }, {
+      "value" : "Mosses",
+      "count" : "1"
+    }, {
+      "value" : "Mosses Ecology",
+      "count" : "1"
+    }, {
+      "value" : "Mousses",
+      "count" : "1"
+    }, {
+      "value" : "Mousses Écologie",
+      "count" : "1"
+    }, {
+      "value" : "Multi User",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kimmerer Robin Wall",
+      "count" : "1"
+    } ]
+  } ]
+}

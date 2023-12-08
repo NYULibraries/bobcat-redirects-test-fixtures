@@ -1,0 +1,205 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990044818420107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of international economics " ],
+        "subject" : [ "International economic relations$$QInternational economic relations -- Handbooks, manuals, etc", "International economic relations" ],
+        "format" : [ "1 online resource (xxiii, 741 pages) : illustrations." ],
+        "identifier" : [ "$$CISBN$$V1306477999;$$CISBN$$V9781306477994;$$CISBN$$V9780444543158;$$CISBN$$V0444543155;$$COCLC$$V(OCoLC)875004052;$$CISBN$$V9780444867926" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "Amsterdam : North-Holland" ],
+        "description" : [ "What conclusions can be drawn from recent advances in international trade and international macroeconomics? New datasets, theoretical models, and empirical studies have resulted in fresh questions about the world trade and payment system. These chapters--six on trade and six on international macroeconomics--reveal the richness that researchers have uncovered in recent years. The chapters on foreign trade present, among other subjects, new integrated multisector analytical frameworks, the use of gravity equations for the estimation of trade flows, the role of domestic institutions in shaping comparative advantage, and international trade agreements. On international macroeconomics, chapters explore the relation between exchange rates and other macroeconomic variables; risk sharing, allocation of capital across countries, and current account dynamics; and sovereign debt and financial crises. By addressing new issues while enabling deeper and sharper analyses of old issues, this volume makes a significant contribution to our understanding of the global economy." ],
+        "mms" : [ "990044818420107871" ],
+        "contributor" : [ "Copinath, Gita.$$QCopinath, Gita.", "Helpman, Elhanan.$$QHelpman, Elhanan.", "Rogoff, Kenneth.$$QRogoff, Kenneth." ],
+        "series" : [ "Handbooks in economics ; 4$$QHandbooks in economics ", "Handbooks in economics ; 4.$$QHandbooks in economics " ],
+        "genre" : [ "Handbooks, manuals, etc", "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Handbook of international economics. Amsterdam ; New York : North Holland ; Elsevier [distributor], 1984-$$QHandbook of international economics." ],
+        "mesh" : [ "Handbook" ],
+        "place" : [ "Amsterdam :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "safaeb", "aleph004481842" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990044818420107871" ],
+        "recordid" : [ "alma990044818420107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004481842-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Copinath", "Helpman", "Rogoff" ],
+        "aufirst" : [ "Gita.", "Elhanan.", "Kenneth." ],
+        "auinit" : [ "G", "E", "K" ],
+        "addau" : [ "Copinath, Gita.", "Helpman, Elhanan.", "Rogoff, Kenneth." ],
+        "contributorfull" : [ "$$NCopinath, Gita.$$LCopinath$$FGita.$$Rcontributor", "$$NHelpman, Elhanan.$$Rcontributor", "$$NRogoff, Kenneth.$$Rcontributor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "1306477999", "9781306477994", "9780444543158", "0444543155", "9780444867926" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "What conclusions can be drawn from recent advances in international trade and international macroeconomics? New datasets, theoretical models, and empirical studies have resulted in fresh questions about the world trade and payment system. These chapters--six on trade and six on international macroeconomics--reveal the richness that researchers have uncovered in recent years. The chapters on foreign trade present, among other subjects, new integrated multisector analytical frameworks, the use of gravity equations for the estimation of trade flows, the role of domestic institutions in shaping comparative advantage, and international trade agreements. On international macroeconomics, chapters explore the relation between exchange rates and other macroeconomic variables; risk sharing, allocation of capital across countries, and current account dynamics; and sovereign debt and financial crises. By addressing new issues while enabling deeper and sharper analyses of old issues, this volume makes a significant contribution to our understanding of the global economy." ],
+        "cop" : [ "Amsterdam" ],
+        "pub" : [ "North-Holland" ],
+        "oclcid" : [ "(ocolc)875004052" ],
+        "seriestitle" : [ "Handbooks in economics ; 4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook of international economics" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of international economics /" ],
+        "author" : [ "Copinath, Gita." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990044818420107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781306477994,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#1411",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "114",
+    "CALL_SOLR_GET_IDS_LIST" : "122",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "39",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "88",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "375",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 409,
+    "COMBINED_SEARCH_TIME" : 413,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "International Economic Relations",
+      "count" : "1"
+    }, {
+      "value" : "International Economic Relations Handbooks Manuals Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Copinath Gita",
+      "count" : "1"
+    }, {
+      "value" : "Helpman Elhanan",
+      "count" : "1"
+    }, {
+      "value" : "Rogoff Kenneth",
+      "count" : "1"
+    } ]
+  } ]
+}

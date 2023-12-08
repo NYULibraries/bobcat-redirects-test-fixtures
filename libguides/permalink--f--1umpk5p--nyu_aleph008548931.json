@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085489310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Conducting your literature review " ],
+        "subject" : [ "Psychology -- Information resources", "Psychologie -- Recherche -- Méthodologie", "Psychologie -- Sources d'information", "Sciences sociales -- Recherche -- Méthodologie", "PSYCHOLOGY / Research & Methodology", "Psychology -- Authorship", "Psychology -- Research -- Methodology", "Social sciences -- Research -- Methodology" ],
+        "format" : [ "1 online resource (ix, 145 pages)" ],
+        "identifier" : [ "$$CLC$$V2019980880;$$CISBN$$V1433831236;$$CISBN$$V9781433831232;$$COCLC$$V(OCoLC)1105750134;$$CISBN$$V9781433830921" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Hempel, Susanne, author.$$QHempel, Susanne" ],
+        "publisher" : [ "Washington, DC : American Psychological Association" ],
+        "description" : [ "This book is a step-by-step guide to writing a literature review, and includes tips for modifying the process as needed depending on your audience, purpose, and goals. The lessons in this book can be applied to writing the background section for a thesis or an original research publication. Literature reviews are now much more challenging to compile today than they used to be. You need a structured approach to handle the sheer volume of published research available. This book will help you formulate a strategy for making decisions about what to include and not include in your review, and produce a reliable and unbiased summary of the existing research. You will learn skills for defining research questions, using search tools and managing citations. This book is part of the American Psychological Association's Concise Guides to Conducting Behavioral, Health, and Social Science Research series. Aimed at undergraduate students in research methods courses or others with a lab or research project, each book describes a key stage in the research process. Collectively, these books provide a solid grounding in research from start to finish." ],
+        "mms" : [ "990085489310107871" ],
+        "edition" : [ "Electronic edition." ],
+        "series" : [ "Concise Guides to Conducting Behavioral, Health, and Social Science Research$$QConcise Guides to Conducting Behavioral, Health, and Social Science Research", "Concise guides to conducting behavioral, health, and social science research series.$$QConcise guides to conducting behavioral, health, and social science research series." ],
+        "contents" : [ "What to Achieve: Clarifying the Goal of Your Literature Review -- Where to Look: Choosing Databases and Other Sources of Literature -- How to Look: Developing Search Strategies -- What to Look For: Deciding What Literature to Include -- How to Organize: Managing Your Material -- How to Abstract: Extracting Key Information From the Literature -- How to Assess: Critically Appraising Your Material -- How to Synthesize: Determining What to Say About the Literature -- How to Document: Writing Up Your Literature Review." ],
+        "relation" : [ "$$Cform$$VPrint version: Hempel, Susanne. Conducting your literature review Washington, DC : American Psychological Association, [2020]$$QConducting your literature review$$Z990074391540107871" ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "apapsyc", "ebceb", "proqpsyc", "aleph008548931" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085489310107871" ],
+        "recordid" : [ "alma990085489310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008548931-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hempel" ],
+        "aufirst" : [ "Susanne" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Hempel, Susanne" ],
+        "creatorfull" : [ "$$NHempel, Susanne$$LHempel$$FSusanne$$Rauthor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "1433831236", "9781433831232", "9781433830921" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book is a step-by-step guide to writing a literature review, and includes tips for modifying the process as needed depending on your audience, purpose, and goals. The lessons in this book can be applied to writing the background section for a thesis or an original research publication. Literature reviews are now much more challenging to compile today than they used to be. You need a structured approach to handle the sheer volume of published research available. This book will help you formulate a strategy for making decisions about what to include and not include in your review, and produce a reliable and unbiased summary of the existing research. You will learn skills for defining research questions, using search tools and managing citations. This book is part of the American Psychological Association's Concise Guides to Conducting Behavioral, Health, and Social Science Research series. Aimed at undergraduate students in research methods courses or others with a lab or research project, each book describes a key stage in the research process. Collectively, these books provide a solid grounding in research from start to finish." ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "American Psychological Association" ],
+        "oclcid" : [ "(ocolc)1105750134" ],
+        "lccn" : [ "2019980880" ],
+        "edition" : [ "Electronic edition." ],
+        "seriestitle" : [ "Concise Guides to Conducting Behavioral, Health, and Social Science Research" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Conducting your literature review" ]
+      },
+      "sort" : {
+        "title" : [ "Conducting your literature review /" ],
+        "author" : [ "Hempel, Susanne, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085489310107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085489310107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085489310107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085489310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085489310107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781433831232,OCLC:,LCCN:2019980880&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bf!76.5ǂ h45 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "260",
+    "CALL_SOLR_GET_IDS_LIST" : "184",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "70",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "58",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "38",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "32",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "102",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "630",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 666,
+    "COMBINED_SEARCH_TIME" : 670,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Psychologie Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Psychologie Sources Dinformation",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Information Resources",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Research Methodology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hempel Susanne",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

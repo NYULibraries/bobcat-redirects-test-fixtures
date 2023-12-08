@@ -1,0 +1,273 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032022470107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Tales and translation : the Grimm tales from pan-Germanic narratives to shared international fairytales " ],
+        "subject" : [ "Kinder- und Hausmärchen -- Translations -- History and criticism", "Kinder- und Hausmärchen -- Traductions -- Histoire et critique", "Kinder- und Hausmärchen", "Grimm Kinder- und Hausmärchen", "Folk literature, German -- History and criticism$$QFolk literature, German -- History and criticism -- Translations into Danish", "Children's stories, German -- History and criticism$$QChildren's stories, German -- History and criticism -- Translations into Danish", "Fairy tales -- Germany -- History and criticism", "Folk literature, German -- History and criticism", "Allemand (Langue) -- Traduction en danois", "German language -- Translating into Danish", "Children's stories, German", "Fairy tales", "Folk literature, German", "Translations", "Germany", "Rezeption", "Sprookjes", "Duits", "Vertalingen", "Tradução", "Narrativa -- Alemanha", "Folclore -- Alemanha", "Contes de fées -- Allemagne -- Traductions danoises", "Contes de fées -- Allemagne -- Histoire et critique", "Littérature populaire allemande -- Traductions danoises", "Littérature populaire allemande -- Histoire et critique" ],
+        "format" : [ "1 online resource (xiv, 384 pages) : illustrations", "data file" ],
+        "identifier" : [ "$$CISBN$$V9789027299758;$$CISBN$$V9027299757;$$CISBN$$V1556197896;$$CISBN$$V9789027216359;$$CISBN$$V9027216355;$$COCLC$$V(OCoLC)666942808;$$CISBN$$V9781556197895" ],
+        "creationdate" : [ "©1999" ],
+        "creator" : [ "Dollerup, Cay.$$QDollerup, Cay." ],
+        "publisher" : [ "Amsterdam ; Philadelphia : J. Benjamins" ],
+        "description" : [ "Dealing with the most translated work of German literature, the Tales of the brothers Grimm (1812-1815), this book discusses their history, notably in relation to Denmark and subsequently other nations from 1816 to 1986. The Danish intelligentsia responded enthusiastically to the tales and some were immediately translated into Danish by a nobleman and by the foremost Romantic poet. Their renditions remained in print for a century and embued the tales with high prestige. This book discusses translators, approaches, and other parameters such as copyright, and changes in target audiences. The tal." ],
+        "mms" : [ "990032022470107871" ],
+        "series" : [ "Benjamins translation library ; v. 30. 0929-7316$$QBenjamins translation library ", "Benjamins translation library, 0929-7316 ; v. 30$$QBenjamins translation library" ],
+        "contents" : [ "TALES AND TRANSLATION; Editorial page; Title page; LCC data; CONTENTS; INTRODUCTION; GERMANY: TELLING THE TALES. THE BROTHERS GRIMM, THEIR TALES AND THE PAN-GERMANIC CULTURAL HERITAGE; TRACKING DANISH TRANSLATIONS; DENMARK: RECEPTION, IMPACT, AND SALES OF THE TALES; EMBEDDING THE TALES IN DENMARK; NEW TELLERS OF TALES: INTERNATIONALISATION; THE END OF THE TALE: SUMMARY AND CONCLUSION; NOTES; WORKS CITED; INTRODUCTORY REMARKS TO THE TRANSLATIONS; APPENDIX 1; APPENDIX 2; KHM-NUMBERS AND TITLES IN GERMAN, ENGLISH, AND DANISH; INDEX; the BENJAMINS TRANSLATION LIBRARY." ],
+        "genre" : [ "Translations into Danish", "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Dollerup, Cay. Tales and translation. Amsterdam ; Philadelphia : J. Benjamins, ©1999$$QTales and translation.$$Z990015627170107871", "$$Cform$$VTales and Translation : The Grimm Tales from Pan-Germanic narratives to shared international fairytales$$Z9995663005707871" ],
+        "place" : [ "Amsterdam ; Philadelphia :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph003202247" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032022470107871" ],
+        "recordid" : [ "alma990032022470107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003202247-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dollerup" ],
+        "aufirst" : [ "Cay." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Dollerup, Cay." ],
+        "creatorfull" : [ "$$NDollerup, Cay.$$LDollerup$$FCay.$$Rauthor" ],
+        "date" : [ "1999", "©1999" ],
+        "isbn" : [ "9789027299758", "9027299757", "1556197896", "9789027216359", "9027216355", "9781556197895" ],
+        "notes" : [ "Includes bibliographical references (pages 345-350) and index." ],
+        "abstract" : [ "Dealing with the most translated work of German literature, the Tales of the brothers Grimm (1812-1815), this book discusses their history, notably in relation to Denmark and subsequently other nations from 1816 to 1986. The Danish intelligentsia responded enthusiastically to the tales and some were immediately translated into Danish by a nobleman and by the foremost Romantic poet. Their renditions remained in print for a century and embued the tales with high prestige. This book discusses translators, approaches, and other parameters such as copyright, and changes in target audiences. The tal." ],
+        "cop" : [ "Amsterdam ;" ],
+        "pub" : [ "J. Benjamins" ],
+        "oclcid" : [ "(ocolc)666942808" ],
+        "seriestitle" : [ "Benjamins translation library, v. 30" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Tales and translation : the Grimm tales from pan-Germanic narratives to shared international fairytales" ]
+      },
+      "sort" : {
+        "title" : [ "Tales and translation : the Grimm tales from pan-Germanic narratives to shared international fairytales /" ],
+        "author" : [ "Dollerup, Cay." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032022470107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032022470107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990032022470107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9027299757,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gr\"166ǂ d65 1999",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "411",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "98",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "10",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "141",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "706",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 747,
+    "COMBINED_SEARCH_TIME" : 749,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Allemand Langue Traduction En Danois",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Stories German",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Stories German Translations Into Danish History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Contes De Fées Allemagne Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Contes De Fées Allemagne Traductions Danoises",
+      "count" : "1"
+    }, {
+      "value" : "Duits",
+      "count" : "1"
+    }, {
+      "value" : "Fairy Tales",
+      "count" : "1"
+    }, {
+      "value" : "Fairy Tales Germany History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Folclore Alemanha",
+      "count" : "1"
+    }, {
+      "value" : "Folk Literature German",
+      "count" : "1"
+    }, {
+      "value" : "Folk Literature German History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Folk Literature German Translations Into Danish History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "German Language Translating Into Danish",
+      "count" : "1"
+    }, {
+      "value" : "Germany",
+      "count" : "1"
+    }, {
+      "value" : "Grimm Kinder Und Hausmärchen",
+      "count" : "1"
+    }, {
+      "value" : "Kinder Und Hausmärchen",
+      "count" : "1"
+    }, {
+      "value" : "Kinder Und Hausmärchen Traductions Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Kinder Und Hausmärchen Translations History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Populaire Allemande Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Populaire Allemande Traductions Danoises",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dollerup Cay",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050968070107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The SAGE encyclopedia of food issues " ],
+        "subject" : [ "Food$$QFood -- Encyclopedias", "Aliments$$QAliments -- Encyclopédies", "BUSINESS & ECONOMICS -- Infrastructure", "SOCIAL SCIENCE -- General", "Food" ],
+        "format" : [ "1 online resource (3 volumes (xxxi, 1595 pages))" ],
+        "identifier" : [ "$$CISBN$$V9781483346298;$$CISBN$$V1483346293;$$CISBN$$V9781483346304;$$CISBN$$V1483346307;$$CISBN$$V9781506317304;$$CISBN$$V1506317308;$$COCLC$$V(OCoLC)913660907;$$CISBN$$V9781452243016" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Los Angeles : SAGE Reference" ],
+        "description" : [ "This encyclopedia explores the topic of food across multiple disciplines within the social sciences and related areas including business, consumerism, marketing, and environmentalism." ],
+        "mms" : [ "990050968070107871" ],
+        "contributor" : [ "Albala, Ken, 1964- editor.$$QAlbala, Ken" ],
+        "addtitle" : [ "Encyclopedia of food issues", "Food issues" ],
+        "contents" : [ "1. A-Far -- 2. Fas-M -- 3. N-Z." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: SAGE encyclopedia of food issues. Los Angeles : SAGE Reference, [2015]$$QSAGE encyclopedia of food issues." ],
+        "place" : [ "Los Angeles :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebceb", "sagepub", "aleph005096807" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050968070107871" ],
+        "recordid" : [ "alma990050968070107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005096807-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Albala" ],
+        "aufirst" : [ "Ken" ],
+        "auinit" : [ "K" ],
+        "addau" : [ "Albala, Ken" ],
+        "contributorfull" : [ "$$NAlbala, Ken$$LAlbala$$FKen$$Reditor" ],
+        "addtitle" : [ "Encyclopedia of food issues", "Food issues" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781483346298", "1483346293", "9781483346304", "1483346307", "9781506317304", "1506317308", "9781452243016" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This encyclopedia explores the topic of food across multiple disciplines within the social sciences and related areas including business, consumerism, marketing, and environmentalism." ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "SAGE Reference" ],
+        "oclcid" : [ "(ocolc)913660907" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The SAGE encyclopedia of food issues" ]
+      },
+      "sort" : {
+        "title" : [ "SAGE encyclopedia of food issues /" ],
+        "author" : [ "Albala, Ken, 1964- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050968070107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050968070107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050968070107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050968070107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1483346293,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tx\"349ǂ s244 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "37",
+    "CALL_SOLR_GET_IDS_LIST" : "65",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "106",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "15",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "81",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 314,
+    "COMBINED_SEARCH_TIME" : 316,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Aliments Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Infrastructure",
+      "count" : "1"
+    }, {
+      "value" : "Food",
+      "count" : "1"
+    }, {
+      "value" : "Food Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Social Science General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Albala Ken",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

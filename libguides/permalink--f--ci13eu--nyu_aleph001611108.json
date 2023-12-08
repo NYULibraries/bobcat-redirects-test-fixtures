@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990016111080107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Laban for actors the 8 effort actions " ],
+        "subject" : [ "Labanotation", "Movement (Acting)" ],
+        "format" : [ "1 videocassette (ca. 32 min.) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)ocm38871389" ],
+        "creationdate" : [ "c1997" ],
+        "publisher" : [ "New York, NY : distributed by Insight Media" ],
+        "description" : [ "Presentation of a workshop for actors in the use of part of Rudolf von Laban's system to add variety and clarity to their physical work." ],
+        "mms" : [ "990016111080107871" ],
+        "contributor" : [ "Taylor, Blake.$$QTaylor, Blake.", "Hanks, Bruce.$$QHanks, Bruce.", "Loadman, Gail.$$QLoadman, Gail.", "Insight Media (Firm)$$QInsight Media (Firm)" ],
+        "addtitle" : [ "Title on cassette: Laban for actors : eight effort", "Eight effort", "8 effort" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001611108" ],
+        "lds53" : [ "001611108" ],
+        "lds64" : [ "Camera and editing, Bruce Hanks ; narrator, Gail Loadman." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990016111080107871" ],
+        "recordid" : [ "alma990016111080107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001611108-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Taylor", "Hanks", "Loadman" ],
+        "aufirst" : [ "Blake.", "Bruce.", "Gail." ],
+        "auinit" : [ "B", "G" ],
+        "addau" : [ "Taylor, Blake.", "Hanks, Bruce.", "Loadman, Gail." ],
+        "contributorfull" : [ "$$NTaylor, Blake.$$LTaylor$$FBlake.$$Rcontributor", "$$NHanks, Bruce.$$Rcontributor", "$$NLoadman, Gail.$$Rcontributor" ],
+        "addtitle" : [ "Laban for actors : eight effort", "Eight effort", "8 effort" ],
+        "date" : [ "1997", "c1997" ],
+        "abstract" : [ "Presentation of a workshop for actors in the use of part of Rudolf von Laban's system to add variety and clarity to their physical work." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "distributed by Insight Media" ],
+        "oclcid" : [ "(ocolc)38871389" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Laban for actors the 8 effort actions" ]
+      },
+      "sort" : {
+        "title" : [ "Laban for actors the 8 effort actions /" ],
+        "author" : [ "Taylor, Blake." ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990016111080107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:38871389,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gv000000001587.l000000000033000000001997",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "293",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 315,
+    "COMBINED_SEARCH_TIME" : 318,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Labanotation",
+      "count" : "1"
+    }, {
+      "value" : "Movement Acting",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hanks Bruce",
+      "count" : "1"
+    }, {
+      "value" : "Insight Media Firm",
+      "count" : "1"
+    }, {
+      "value" : "Loadman Gail",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Blake",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

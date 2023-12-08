@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043768030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "John Carter's ABC for book collectors." ],
+        "subject" : [ "Bibliography$$QBibliography -- Dictionaries", "Book collecting$$QBook collecting -- Dictionaries", "Book industries and trade$$QBook industries and trade -- Dictionaries" ],
+        "format" : [ "263 pages : illustrations, color facsimiles ; 21 cm" ],
+        "identifier" : [ "$$CLC$$V2015051202;$$CISBN$$V9781584563525;$$CISBN$$V1584563524;$$COCLC$$V(OCoLC)942601663" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Carter, John, 1905-1975, author.$$QCarter, John" ],
+        "publisher" : [ "New Castle, Delaware : Oak Knoll Press" ],
+        "mms" : [ "990043768030107871" ],
+        "contributor" : [ "Barker, Nicolas, author.$$QBarker, Nicolas", "Thadani, Simran, author.$$QThadani, Simran" ],
+        "edition" : [ "Ninth edition / by Nicolas Barker & Simran Thadani." ],
+        "genre" : [ "Dictionaries" ],
+        "unititle" : [ "ABC for book collectors" ],
+        "includes" : [ "Carter, John, 1905-1975, ABC for book collectors$$QCarter, John, 1905-1975, ABC for book collectors" ],
+        "place" : [ "New Castle, Delaware :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004376803" ],
+        "lds53" : [ "004376803" ],
+        "lds60" : [ "Revised edition of: ABC for book collectors / John Carter. Eighth edition. 2004." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043768030107871" ],
+        "recordid" : [ "alma990043768030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004376803-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Carter" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Carter, John" ],
+        "addau" : [ "Barker, Nicolas", "Thadani, Simran" ],
+        "creatorfull" : [ "$$NCarter, John$$LCarter$$FJohn$$Rauthor" ],
+        "contributorfull" : [ "$$NBarker, Nicolas$$LBarker$$FNicolas$$Rcontributor", "$$NThadani, Simran$$Rcontributor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9781584563525", "1584563524" ],
+        "cop" : [ "New Castle, Delaware" ],
+        "pub" : [ "Oak Knoll Press" ],
+        "oclcid" : [ "(ocolc)942601663" ],
+        "lccn" : [ "2015051202" ],
+        "edition" : [ "Ninth edition / by Nicolas Barker & Simran Thadani." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "John Carter's ABC for book collectors." ]
+      },
+      "sort" : {
+        "title" : [ "John Carter's ABC for book collectors." ],
+        "author" : [ "Carter, John, 1905-1975, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990043768030107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990043768030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1584563524,OCLC:,LCCN:2015051202&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1006ǂ c37 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "143",
+    "CALL_SOLR_GET_IDS_LIST" : "125",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "120",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "433",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 468,
+    "COMBINED_SEARCH_TIME" : 471,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bibliography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Book Collecting Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barker Nicolas",
+      "count" : "1"
+    }, {
+      "value" : "Carter John",
+      "count" : "1"
+    }, {
+      "value" : "Thadani Simran",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163054470007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

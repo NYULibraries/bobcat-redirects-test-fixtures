@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021677140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "lat;fre" ],
+        "title" : [ "Novum glossarium mediae Latinitatis, ab anno DCCC usque ad annum MCC " ],
+        "subject" : [ "Latin language, Medieval and modern -- French$$QLatin language, Medieval and modern -- French -- Dictionaries", "Latin literature, Medieval and modern$$QLatin literature, Medieval and modern -- Dictionaries" ],
+        "format" : [ "volumes in ; 31 cm" ],
+        "identifier" : [ "$$CISBN$$V8716089049;$$CISBN$$V9788716089045;$$CISBN$$V8716034813;$$CISBN$$V9788716034816;$$CISBN$$V8716034856;$$CISBN$$V9788716034854;$$CISBN$$V8716034872;$$CISBN$$V9788716034878;$$CISBN$$V8716034937;$$CISBN$$V9788716034939;$$CISBN$$V8716020804;$$CISBN$$V9788716020802;$$CISBN$$V8716083555;$$CISBN$$V9788716083555;$$CISBN$$V8716096630;$$CISBN$$V9788716096630;$$CISBN$$V8716065433;$$CISBN$$V9788716065438;$$CISBN$$V8716069005;$$CISBN$$V9788716069009;$$CISBN$$V8716107349;$$CISBN$$V9788716107343;$$CISBN$$V8716114329;$$CISBN$$V9788716114327;$$CISBN$$V8716118308;$$CISBN$$V9788716118301;$$CISBN$$V8716121619;$$CISBN$$V9788716121615;$$CISBN$$V9299000700;$$CISBN$$V9789299000700;$$CISBN$$V9299000786;$$CISBN$$V9789299000786;$$CISBN$$V9782870430002;$$CISBN$$V2870430000;$$CISBN$$V9782870430156;$$CISBN$$V2870430159;$$CISBN$$V9782870430095;$$CISBN$$V2870430094;$$COCLC$$V(OCoLC)54269407" ],
+        "creationdate" : [ "1957-" ],
+        "publisher" : [ "Hafniae : E. Munksgaard" ],
+        "mms" : [ "990021677140107871" ],
+        "contributor" : [ "Arnaldi, Francesco, 1897-1980.$$QArnaldi, Francesco", "Blatt, Franz, 1903-1979.$$QBlatt, Franz" ],
+        "contents" : [ "L ; Ma ; Meabilis-Miles ; Miles-Mozytia ; Mox-Nazaza ; Ne-Norma ; Norma-Nysus ; O-Ocyter ; Od-Opertorium / huic fasciculo conficiendo praefuit Franz blatt ; Opertura-Ordino ; Ordior-Oz / huic tomo conficiendo praefuerunt Yves Lefèvre ; P-Panis ; Paniscardus-Parrula ; Pars-Passerulus ; Passibilis-Pazzu / huic tomo conficiendo praefuerunt Yves Lefèvre et Jacques Monfrin ; Pea-Pepticus ; Per-Perlysus ; Permachino-Pezzola ; Phacoides-Pingo / huic fasciculo conficiendo praefuit François Dolbeau ; Pingualis -- Plaka / huic fasciculo conficiendo praefuit François Dolbeau ; Pleguina-Polutus / huic fasciculo conficiendo praefuit Anita Guerreau-Jalabert ; Index Scriptorum novus mediae latinitatis ; Index Scriptorum novus mediae latinitatis. Supplementum (1973-2005) ; Poly-Pontentificus / edendum curavit consilium academiarum consociatarum. Huic fasc. conficiendo praefuit Franz Blatt." ],
+        "genre" : [ "Dictionaries" ],
+        "relation" : [ "$$Cform$$VOnline version: Novum glossarium mediae Latinitatis. Hafniae, E. Munksgaard, 1957-$$QNovum glossarium mediae Latinitatis." ],
+        "place" : [ "Hafniae :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002167714" ],
+        "lds53" : [ "002167714" ],
+        "lds60" : [ "Issued in parts, 1957-", "\"Comité de redaction: Fr. Arnaldi ... Franz Blatt, Directeur de l'entreprise.\"", "Definitions in French.", "Began publication with letters LMN. Cf. Vol. L, Avis au lecteur." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021677140107871" ],
+        "recordid" : [ "alma990021677140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002167714-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Arnaldi", "Blatt" ],
+        "aufirst" : [ "Francesco", "Franz" ],
+        "auinit" : [ "F" ],
+        "addau" : [ "Arnaldi, Francesco", "Blatt, Franz" ],
+        "contributorfull" : [ "$$NArnaldi, Francesco$$LArnaldi$$FFrancesco$$Rcontributor", "$$NBlatt, Franz$$Rcontributor" ],
+        "date" : [ "1957", "1957-" ],
+        "isbn" : [ "8716089049", "9788716089045", "8716034813", "9788716034816", "8716034856", "9788716034854", "8716034872", "9788716034878", "8716034937", "9788716034939", "8716020804", "9788716020802", "8716083555", "9788716083555", "8716096630", "9788716096630", "8716065433", "9788716065438", "8716069005", "9788716069009", "8716107349", "9788716107343", "8716114329", "9788716114327", "8716118308", "9788716118301", "8716121619", "9788716121615", "9299000700", "9789299000700", "9299000786", "9789299000786", "9782870430002", "2870430000", "9782870430156", "2870430159", "9782870430095", "2870430094" ],
+        "cop" : [ "Hafniae" ],
+        "pub" : [ "E. Munksgaard" ],
+        "oclcid" : [ "(ocolc)54269407" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Novum glossarium mediae Latinitatis, ab anno DCCC usque ad annum MCC" ]
+      },
+      "sort" : {
+        "title" : [ "Novum glossarium mediae Latinitatis, ab anno DCCC usque ad annum MCC /" ],
+        "author" : [ "Arnaldi, Francesco, 1897-1980." ],
+        "creationdate" : [ "1957" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021677140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788716089045,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://hdl.library.upenn.edu/1017.12/366271",
+        "displayLabel" : "The Constance L. Rosenthal Book Fund Home Page"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pa#2893 f7ǂn65 1957",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "76",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "279",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 304,
+    "COMBINED_SEARCH_TIME" : 308,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "lat",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1957",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Latin Language Medieval And Modern Dictionaries French",
+      "count" : "1"
+    }, {
+      "value" : "Latin Literature Medieval And Modern Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Arnaldi Francesco",
+      "count" : "1"
+    }, {
+      "value" : "Blatt Franz",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

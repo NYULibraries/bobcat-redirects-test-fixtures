@@ -1,0 +1,288 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060796410107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Roots of Russia's war in Ukraine " ],
+        "subject" : [ "Ukraine Conflict, 2014- -- Causes", "Ukraine -- Foreign relations -- Russia (Federation)", "Russia (Federation) -- Foreign relations -- Ukraine", "Conflit ukrainien, 2014- -- Causes", "Ukraine -- Relations extérieures -- Russie", "POLITICAL SCIENCE -- World -- Russian & Former Soviet Union", "Diplomatic relations", "War -- Causes", "Russia (Federation)", "Außenpolitik", "Großmacht", "Russisch-Ukrainischer Krieg", "Konflikt", "Russland", "Ukraine", "Internationella relationer", "Krigsorsaker", "Rysslands annektering av Krim 2014-", "2014" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9780231801386;$$CISBN$$V0231801386;$$CPUBNUM$$VEB00640523;$$COCLC$$V(OCoLC)945720779;$$CISBN$$V9780231704533" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Wood, Elizabeth A., 1958- author.$$QWood, Elizabeth A." ],
+        "publisher" : [ "Washington, D.C : Woodrow Wilson Center Press" ],
+        "description" : [ "In February 2014, Russia initiated a war in Ukraine, its reasons for aggression unclear. Each of this volume's authors offers a distinct interpretation of Russia's motivations, untangling the social, historical, and political factors that created this war and continually reignite its tensions. What prompted President Vladimir Putin to send troops into Crimea' Why did the conflict spread to eastern Ukraine with Russian support' What does the war say about Russia's political, economic, and social priorities, and how does the crisis expose differences between the EU and Russia regarding international jurisdiction' Did Putin's obsession with his macho image start this war, and is it preventing its resolution' The exploration of these and other questions gives historians, political watchers, and theorists a solid grasp of the events that have destabilized the region." ],
+        "mms" : [ "990060796410107871" ],
+        "contributor" : [ "Pomeranz, William E., author.$$QPomeranz, William E.", "Merry, E. Wayne, author.$$QMerry, E. Wayne", "Trudolyubov, Maxim, author.$$QTrudolyubov, Maxim" ],
+        "contents" : [ "Table of Contents ; List of Figures; Chronology: The War in Crimea and Ukraine; Introduction, by Elizabeth A. Wood; 1. The Origins of Russia's War in Ukraine: The Clash of Russian and European \"Civilizational Choices\" for Ukraine, by E. Wayne Merry; 2. Ground Zero: How a Trade Dispute Sparked the Russia-Ukraine Crisis, by William E. Pomeranz; 3. Russia's Grand Choice: To Be Feared as a Superpower or Prosperous as a Nation?, by Maxim Trudolyubov; 4. A Small, Victorious War?: The Symbolic Politics of Vladimir Putin, by Elizabeth A. Wood; Conclusion, by William E. Pomeranz; Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Wood, Elizabeth. Roots of Russia's War in Ukraine. New York, NY : Columbia University Press, ©2015$$QRoots of Russia's War in Ukraine.$$Z990042407190107871" ],
+        "place" : [ "Washington, D.C :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph006079641" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060796410107871" ],
+        "recordid" : [ "alma990060796410107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006079641-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wood" ],
+        "aufirst" : [ "Elizabeth A." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Wood, Elizabeth A." ],
+        "addau" : [ "Pomeranz, William E.", "Merry, E. Wayne", "Trudolyubov, Maxim" ],
+        "creatorfull" : [ "$$NWood, Elizabeth A.$$LWood$$FElizabeth A.$$Rauthor" ],
+        "contributorfull" : [ "$$NPomeranz, William E.$$LPomeranz$$FWilliam E.$$Rcontributor", "$$NMerry, E. Wayne$$Rcontributor", "$$NTrudolyubov, Maxim$$Rcontributor" ],
+        "date" : [ "2015", "2016" ],
+        "isbn" : [ "9780231801386", "0231801386", "9780231704533" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "In February 2014, Russia initiated a war in Ukraine, its reasons for aggression unclear. Each of this volume's authors offers a distinct interpretation of Russia's motivations, untangling the social, historical, and political factors that created this war and continually reignite its tensions. What prompted President Vladimir Putin to send troops into Crimea' Why did the conflict spread to eastern Ukraine with Russian support' What does the war say about Russia's political, economic, and social priorities, and how does the crisis expose differences between the EU and Russia regarding international jurisdiction' Did Putin's obsession with his macho image start this war, and is it preventing its resolution' The exploration of these and other questions gives historians, political watchers, and theorists a solid grasp of the events that have destabilized the region." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Woodrow Wilson Center Press" ],
+        "oclcid" : [ "(ocolc)945720779" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Roots of Russia's war in Ukraine" ]
+      },
+      "sort" : {
+        "title" : [ "Roots of Russia's war in Ukraine /" ],
+        "author" : [ "Wood, Elizabeth A., 1958- author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060796410107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060796410107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060796410107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231801386,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dk\"508.852ǂ w66 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "172",
+    "CALL_SOLR_GET_IDS_LIST" : "68",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "250",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "169",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "81",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "104",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "605",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 644,
+    "COMBINED_SEARCH_TIME" : 646,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    }, {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    }, {
+      "value" : "Außenpolitik",
+      "count" : "1"
+    }, {
+      "value" : "Conflit Ukrainien 2014 Causes",
+      "count" : "1"
+    }, {
+      "value" : "Diplomatic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Großmacht",
+      "count" : "1"
+    }, {
+      "value" : "Internationella Relationer",
+      "count" : "1"
+    }, {
+      "value" : "Konflikt",
+      "count" : "1"
+    }, {
+      "value" : "Krigsorsaker",
+      "count" : "1"
+    }, {
+      "value" : "Political Science World Russian Former Soviet Union",
+      "count" : "1"
+    }, {
+      "value" : "Russia Federation",
+      "count" : "1"
+    }, {
+      "value" : "Russia Federation Foreign Relations Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Russisch Ukrainischer Krieg",
+      "count" : "1"
+    }, {
+      "value" : "Russland",
+      "count" : "1"
+    }, {
+      "value" : "Rysslands Annektering Av Krim 2014",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Conflict 2014 Causes",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Foreign Relations Russia Federation",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Relations Extérieures Russie",
+      "count" : "1"
+    }, {
+      "value" : "War Causes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Merry E Wayne",
+      "count" : "1"
+    }, {
+      "value" : "Pomeranz William E",
+      "count" : "1"
+    }, {
+      "value" : "Trudolyubov Maxim",
+      "count" : "1"
+    }, {
+      "value" : "Wood Elizabeth A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

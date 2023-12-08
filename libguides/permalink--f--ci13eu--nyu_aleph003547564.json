@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035475640107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Garner's modern American usage " ],
+        "subject" : [ "English language -- United States -- Usage$$QEnglish language -- United States -- Usage -- Dictionaries", "Americanisms$$QAmericanisms -- Dictionaries" ],
+        "format" : [ "ix, 942 p. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V2009009539;$$CISBN$$V9780195382754;$$CISBN$$V0195382757;$$COCLC$$V(OCoLC)259266648" ],
+        "creationdate" : [ "c2009" ],
+        "creator" : [ "Garner, Bryan A.$$QGarner, Bryan A." ],
+        "publisher" : [ "New York : Oxford University Press" ],
+        "description" : [ "A guide to proper American English word usage, grammar, pronunciation, and style features examples of good and bad usage from the media." ],
+        "mms" : [ "990035475640107871" ],
+        "addtitle" : [ "Modern American usage" ],
+        "edition" : [ "3rd ed." ],
+        "contents" : [ "Preface to the third edition -- Preface to second edition -- Preface to first edition -- Acknowledgments -- List of essay entries -- List of abbreviations -- Pronunciation guide -- Key to the language-change index -- Essay: Making peace in the language wars -- Essay: The ongoing struggles of garlic-hangers -- Modern American usage -- Glossary of grammatical, rhetorical, and other language-related terms -- A timeline of books on usage -- Select bibliography -- Select index of writers quoted or mentioned." ],
+        "genre" : [ "Dictionaries" ],
+        "relation" : [ "$$Cedition$$VGarner's modern English usage$$Z990042747020107871", "$$Cedition$$VGarner's modern English usage$$Z990075034360107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003547564" ],
+        "lds53" : [ "003547564" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035475640107871" ],
+        "recordid" : [ "alma990035475640107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003547564-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Garner" ],
+        "aufirst" : [ "Bryan A." ],
+        "auinit" : [ "B" ],
+        "au" : [ "Garner, Bryan A." ],
+        "creatorfull" : [ "$$NGarner, Bryan A.$$LGarner$$FBryan A.$$Rauthor" ],
+        "addtitle" : [ "Modern American usage" ],
+        "date" : [ "2009", "c2009" ],
+        "isbn" : [ "9780195382754", "0195382757" ],
+        "notes" : [ "\"A timeline of books on usage\": p. 925-938." ],
+        "abstract" : [ "A guide to proper American English word usage, grammar, pronunciation, and style features examples of good and bad usage from the media." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)259266648" ],
+        "lccn" : [ "2009009539" ],
+        "edition" : [ "3rd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Garner's modern American usage" ]
+      },
+      "sort" : {
+        "title" : [ "Garner's modern American usage /" ],
+        "author" : [ "Garner, Bryan A." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035475640107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0195382757,OCLC:,LCCN:2009009539&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pe#2827ǂ g37 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "303",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "69",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "80",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "502",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 537,
+    "COMBINED_SEARCH_TIME" : 541,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Americanisms Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "English Language United States Usage Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Garner Bryan A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

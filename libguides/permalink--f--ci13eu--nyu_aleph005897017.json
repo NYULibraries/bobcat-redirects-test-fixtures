@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058970170107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Meat culture " ],
+        "subject" : [ "Meat -- Moral and ethical aspects", "Meat industry and trade -- Social aspects", "Meat industry and trade -- Moral and ethical aspects", "Viande -- Aspect social", "Viande -- Aspect moral", "COOKING -- General", "Meat -- Social aspects" ],
+        "format" : [ "1 online resource (xii, 295 pages)" ],
+        "identifier" : [ "$$CLC$$V2016037652;$$CISBN$$V9789004325852;$$CISBN$$V9004325859;$$COCLC$$V(OCoLC)956775578;$$CISBN$$V9789004325845" ],
+        "creationdate" : [ "2017" ],
+        "publisher" : [ "Leiden ; Boston : Brill" ],
+        "description" : [ "The analysis of meat and its place in Western culture has been central to Human-Animal Studies as a field. It is even more urgent now as global meat and dairy production are projected to rise dramatically by 2050. While the term 'carnism' denotes the invisible belief system (or ideology) that naturalizes and normalizes meat consumption, in this volume we focus on 'meat culture', which refers to all the tangible and practical forms through which carnist ideology is expressed and lived. Featuring new work from leading Australasian, European and North American scholars, 'Meat Culture', edited by Annie Potts, interrogates the representations and discourses, practices and behaviours, diets and tastes that generate shared beliefs about, perspectives on and experiences of meat in the 21st century." ],
+        "mms" : [ "990058970170107871" ],
+        "contributor" : [ "Potts, Annie, 1965- editor.$$QPotts, Annie" ],
+        "series" : [ "Human-animal studies ; v. 17.$$QHuman-animal studies ", "Human-animal studies, 1573-4226 ; VOLUME 17$$QHuman-animal studies" ],
+        "contents" : [ "What is Meat Culture? / Annie Potts -- Derrida and The Sexual Politics of Meat / Carol J. Adams and Matthew Calarco -- Rotten to the Bone : Discourses of Contamination and Purity in the European Horsemeat Scandal / Nik Taylor and Jordan McKenzie -- Live Exports, Animal Advocacy, Race and 'Animal Nationalism' / Jacqueline Dalziell and Dinesh Joseph Wadiwel -- The Whopper Virgins : Hamburgers, Gender, and Xenophobia in Burger King's Hamburger Advertising / Vasile Stanescu -- With Care for Cows and a Love for Milk : Affect and Performance in Swedish Dairy Industry Marketing Strategies / Tobias Linne and Helena Pedersen -- \"Peace and Quiet and Open Air\" : The Old Cow Project / Melissa Boyde -- \"Do You Know Where the Light Is?\" : Factory Farming and Industrial Slaughter in Michel Faber's Under the Skin / Kirsty Dunn -- Down on the Farm : Why do Artists Avoid 'Farm' Animals as Subject Matter? / Yvette Watt -- The Provocative Elitism of 'Personhood' for Nonhuman Creatures in Animal Advocacy Parlance and Polemics / Karen Davis -- \"I Need Fish Fingers and Custard\" : The Irruption and Suppression of Vegan Ethics in Doctor Who / Matthew Cole and Kate Stewart -- On Ambivalence and Resistance : Carnism and Diet in Multi-species Households / Erika Cudworth -- Negotiating Social Relationships in the Transition to Vegan Eating Practices / Richard Twine -- Critical Ecofeminism : Interrogating 'Meat, ' 'Species, ' and 'Plant' / Greta Gaard." ],
+        "relation" : [ "$$Cform$$VPrint version: Meat culture. Leiden ; Boston : Brill, 2016$$QMeat culture." ],
+        "place" : [ "Leiden ; Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "brilleb", "ebcacls", "ebceb", "ebscoac", "aleph005897017" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058970170107871" ],
+        "recordid" : [ "alma990058970170107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005897017-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Potts" ],
+        "aufirst" : [ "Annie" ],
+        "auinit" : [ "A" ],
+        "addau" : [ "Potts, Annie" ],
+        "contributorfull" : [ "$$NPotts, Annie$$LPotts$$FAnnie$$Reditor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9789004325852", "9004325859", "9789004325845" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The analysis of meat and its place in Western culture has been central to Human-Animal Studies as a field. It is even more urgent now as global meat and dairy production are projected to rise dramatically by 2050. While the term 'carnism' denotes the invisible belief system (or ideology) that naturalizes and normalizes meat consumption, in this volume we focus on 'meat culture', which refers to all the tangible and practical forms through which carnist ideology is expressed and lived. Featuring new work from leading Australasian, European and North American scholars, 'Meat Culture', edited by Annie Potts, interrogates the representations and discourses, practices and behaviours, diets and tastes that generate shared beliefs about, perspectives on and experiences of meat in the 21st century." ],
+        "cop" : [ "Leiden ;" ],
+        "pub" : [ "Brill" ],
+        "oclcid" : [ "(ocolc)956775578" ],
+        "lccn" : [ "2016037652" ],
+        "seriestitle" : [ "Human-animal studies, VOLUME 17" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Meat culture" ]
+      },
+      "sort" : {
+        "title" : [ "Meat culture /" ],
+        "author" : [ "Potts, Annie, 1965- editor." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058970170107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058970170107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058970170107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9004325859,OCLC:,LCCN:2016037652&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt#2868.5",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "103",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "105",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "336",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 364,
+    "COMBINED_SEARCH_TIME" : 366,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cooking General",
+      "count" : "1"
+    }, {
+      "value" : "Meat Industry And Trade Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Meat Industry And Trade Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Meat Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Meat Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Viande Aspect Moral",
+      "count" : "1"
+    }, {
+      "value" : "Viande Aspect Social",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Potts Annie",
+      "count" : "1"
+    } ]
+  } ]
+}

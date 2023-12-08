@@ -1,0 +1,272 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995642029007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "American review of public administration (Online)" ],
+        "subject" : [ "Public administration -- United States$$QPublic administration -- United States -- Periodicals", "Public administration$$QPublic administration -- Periodicals", "Public administration", "United States" ],
+        "identifier" : [ "$$CLC$$V  2004215730;$$CISSN$$V1552-3357;$$COCLC$$V(OCoLC)39928174;$$CISSN$$V0275-0740" ],
+        "creationdate" : [ "©1981-" ],
+        "publisher" : [ "Thousand Oaks, Calif. : Sage Publications", "Print began with vol. 15, no. 1 (spring 1981)." ],
+        "mms" : [ "9995642029007871" ],
+        "contributor" : [ "American Society for Public Administration. Greater Kansas City Chapter.$$QAmerican Society for Public Administration. Greater Kansas City Chapter.", "Park College.$$QPark College.", "University of Missouri--St. Louis. Master of Public Policy Administration Program.$$QUniversity of Missouri--St. Louis. Master of Public Policy Administration Program.", "L.P. Cookingham Institute of Public Affairs.$$QL.P. Cookingham Institute of Public Affairs.", "Georgia State University, issuing body.$$QGeorgia State University" ],
+        "addtitle" : [ "A.R.P.A.", "ARPA" ],
+        "frequency" : [ "8 issues per year, 2017-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990026606730107871" ],
+        "unititle" : [ "American review of public administration (Online)" ],
+        "place" : [ "Thousand Oaks, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921385878" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Vols. for Dec. 1987- published by: Department of Public Administration, UM--Columbia; Master of Public Policy Administration Program, UM--St. Louis; and: L.P. Cookingham Institute of Public Affairs, Henry W. Bloch School of Business and Public Administration, University of Missouri--Kansas City." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995642029007871" ],
+        "recordid" : [ "alma9995642029007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921385878" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "AM REV PUBLIC ADMIN", "AM REV PUBLIC ADM", "AMERICAN REVIEW OF PUBLIC ADMINISTRATION", "AMER. REV. PUBLIC ADM" ],
+        "addtitle" : [ "A.R.P.A.", "ARPA" ],
+        "date" : [ "1981", "©1981-" ],
+        "issn" : [ "1552-3357", "0275-0740" ],
+        "cop" : [ "Parkville, Mo" ],
+        "pub" : [ "Midwest Review of Public Administration" ],
+        "oclcid" : [ "(ocolc)39928174" ],
+        "lccn" : [ "2004215730" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "American review of public administration (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "American review of public administration (Online)" ],
+        "author" : [ "American Society for Public Administration. Greater Kansas City Chapter." ],
+        "creationdate" : [ "1981" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642029007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004215730&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jk 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "187",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "290",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "43",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "261",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "54",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "620",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 647,
+    "COMBINED_SEARCH_TIME" : 650,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1981",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Public Administration",
+      "count" : "1"
+    }, {
+      "value" : "Public Administration Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Public Administration United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Society For Public Administration Greater Kansas City Chapter",
+      "count" : "1"
+    }, {
+      "value" : "Georgia State University",
+      "count" : "1"
+    }, {
+      "value" : "L P Cookingham Institute Of Public Affairs",
+      "count" : "1"
+    }, {
+      "value" : "Park College",
+      "count" : "1"
+    }, {
+      "value" : "University Of Missouri St Louis Master Of Public Policy Administration Program",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

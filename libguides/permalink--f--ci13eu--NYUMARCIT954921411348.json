@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995614058407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of real estate literature (Online)" ],
+        "subject" : [ "Real estate business$$QReal estate business -- Periodicals", "Real estate business$$QReal estate business -- Bibliography Periodicals", "Immobilier$$QImmobilier -- Périodiques", "Immobilier$$QImmobilier -- Bibliographie Périodiques", "Real estate business" ],
+        "identifier" : [ "$$CLC$$V  2013236818;$$CISSN$$V1573-8809;$$COCLC$$V(OCoLC)38273604;$$CISSN$$V0927-7544" ],
+        "creationdate" : [ "1993" ],
+        "publisher" : [ "London, England : Taylor & Francis", "Print began with vol. 1, no. 1 (Jan. 1993)." ],
+        "mms" : [ "9995614058407871" ],
+        "contributor" : [ "American Real Estate Society, issuing body.$$QAmerican Real Estate Society", "Taylor & Francis, publisher.$$QTaylor & Francis" ],
+        "addtitle" : [ "JREL" ],
+        "frequency" : [ "Semiannual" ],
+        "genre" : [ "Bibliography", "Bibliographie", "Périodiques", "Czasopismo ekonomiczne", "Bibliographies", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990023262510107871" ],
+        "unititle" : [ "Journal of real estate literature (Online)" ],
+        "place" : [ "London, England] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921411348" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995614058407871" ],
+        "recordid" : [ "alma9995614058407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921411348" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "J REAL ESTATE LIT", "J. real estate lit. (Dordr., Online)" ],
+        "addtitle" : [ "JREL" ],
+        "date" : [ "1993" ],
+        "issn" : [ "1573-8809", "0927-7544" ],
+        "cop" : [ "Dordrecht" ],
+        "pub" : [ "Kluwer Academic Publishers" ],
+        "oclcid" : [ "(ocolc)38273604" ],
+        "lccn" : [ "2013236818" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of real estate literature (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of real estate literature (Online)" ],
+        "author" : [ "American Real Estate Society, issuing body." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614058407871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614058407871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995614058407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2013236818&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd#1361",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "156",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "100",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "72",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "15",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "359",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 395,
+    "COMBINED_SEARCH_TIME" : 397,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Immobilier Bibliographie Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Immobilier Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business Bibliography Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Real Estate Society",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Francis",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

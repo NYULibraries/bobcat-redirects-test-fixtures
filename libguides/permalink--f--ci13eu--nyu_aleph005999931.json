@@ -1,0 +1,275 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059999310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Ukraine conflict : security, identity and politics in the wider Europe " ],
+        "subject" : [ "Ukraine Conflict, 2014- -- Influence", "Crimea (Ukraine) -- History -- 2014-", "Crimea (Ukraine) -- Annexation to Russia (Federation)", "Ukraine -- Foreign relations -- Russia (Federation)", "Russia (Federation) -- Foreign relations -- Ukraine", "Russia (Federation) -- Foreign relations -- Europe", "Europe -- Foreign relations -- Russia (Federation)", "European Union", "Union européenne", "Russia", "Political crisis", "Foreign policy", "Bilateral relations", "National policy", "European security", "Ukraine Conflict (2014- )", "Diplomatic relations", "Influence (Literary, artistic, etc.)", "Europe", "Russia (Federation)", "Ukraine", "Ukraine -- Crimea", "Since 2014" ],
+        "format" : [ "x, 252 pages : illustrations ; 25cm" ],
+        "identifier" : [ "$$CISBN$$V9781138047433;$$CISBN$$V1138047430;$$COCLC$$V(OCoLC)975370664" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "London ; New York : Routledge, Taylor & Francis Group ; Glasgow, Scotland : University of Glasgow" ],
+        "description" : [ "It is not hyperbole to suggest that the foundations of post-cold war security in Europe have been badly damaged by the conflict in Ukraine since 2014. Russia's annexation of Crimea and intervention in eastern Ukraine appear to have created a 'simmering' conflict, which may take years to resolve and have profound consequences for the European security environment. This volume explores the various political, economic and social aspects of these profound changes and their wider significance for Europe, bringing together contributions by scholars from across the continent and in various disciplinary fields to offer an authoritative, in-depth examination of the complex causes of the Ukraine crisis and the consequences for Ukrainian statehood, Ukraine's relations with Russia, Russia's own domestic governance and Russia's relations with Europe. This book was originally published as a special issue of Europe-Asia Studies." ],
+        "mms" : [ "990059999310107871" ],
+        "contributor" : [ "Averre, Derek, editor.$$QAverre, Derek", "Wolczuk, Kataryna, editor.$$QWolczuk, Kataryna" ],
+        "series" : [ "Routledge Europe-Asia studies series$$QRoutledge Europe-Asia studies series", "Routledge Europe-Asia studies series.$$QRoutledge Europe-Asia studies series." ],
+        "contents" : [ "Introduction: the Ukraine crisis and post-post-Cold War Europe / Derek Averre & Kataryna Wolczuk -- The Maidan in movement: diversity and the cycles of protest / Olga Onuch & Gwendolyn Sasse -- National identity in Ukraine: impact of Euromaidan and the war / Volodymyr Kulyk -- The Ukrainian party system before and after the 2013-2014 Euromaidan / Kostyantyn Fedorenko, Olena Rybiy & Andreas Umland -- The Donbas in 2014: explaining civil conflict perhaps, but not civil war / Andrew Wilson -- A perfect storm: or what went wrong and what went right for the EU in Ukraine / Hiski Haukkala -- German foreign policy towards Russia in the aftermath of the Ukraine crisis: a new Ostpolitik? / Marco Siddi -- Between dependence and integration: Ukraine's relations with Russia / Rilka Dragneva & Kataryna Wolczuk -- The Ukraine conflict: Russia's challenge to European security governance / Derek Averre -- Russia's 'governance' approach: intervention and the conflict in the Donbas / Lance Davies -- The empire strikes back: economic statecraft and the securitisation of political economy in Russia / Richard Connolly -- Sanctions and the future of EU-Russian economic relations / Tatiana Romanova." ],
+        "genre" : [ "History" ],
+        "place" : [ "London ; New York : Glasgow, Scotland] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005999931" ],
+        "lds53" : [ "005999931" ],
+        "lds60" : [ "\"The chapters in this book were originally published in Europe-Asia studies, volume 69,issue 4 (June 2016).\"-- page vii." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059999310107871" ],
+        "recordid" : [ "alma990059999310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005999931-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Averre", "Wolczuk" ],
+        "aufirst" : [ "Derek", "Kataryna" ],
+        "auinit" : [ "D", "K" ],
+        "addau" : [ "Averre, Derek", "Wolczuk, Kataryna" ],
+        "contributorfull" : [ "$$NAverre, Derek$$LAverre$$FDerek$$Reditor", "$$NWolczuk, Kataryna$$Reditor" ],
+        "date" : [ "2018 - 2018", "2018" ],
+        "isbn" : [ "9781138047433", "1138047430" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "It is not hyperbole to suggest that the foundations of post-cold war security in Europe have been badly damaged by the conflict in Ukraine since 2014. Russia's annexation of Crimea and intervention in eastern Ukraine appear to have created a 'simmering' conflict, which may take years to resolve and have profound consequences for the European security environment. This volume explores the various political, economic and social aspects of these profound changes and their wider significance for Europe, bringing together contributions by scholars from across the continent and in various disciplinary fields to offer an authoritative, in-depth examination of the complex causes of the Ukraine crisis and the consequences for Ukrainian statehood, Ukraine's relations with Russia, Russia's own domestic governance and Russia's relations with Europe. This book was originally published as a special issue of Europe-Asia Studies." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Routledge, Taylor & Francis Group" ],
+        "oclcid" : [ "(ocolc)975370664" ],
+        "seriestitle" : [ "Routledge Europe-Asia studies series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Ukraine conflict : security, identity and politics in the wider Europe" ]
+      },
+      "sort" : {
+        "title" : [ "Ukraine conflict : security, identity and politics in the wider Europe /" ],
+        "author" : [ "Averre, Derek, editor." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990059999310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1138047430,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dk\"508.852ǂ u37 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "252",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "104",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "199",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "100",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "201",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "646",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 686,
+    "COMBINED_SEARCH_TIME" : 690,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bilateral Relations",
+      "count" : "1"
+    }, {
+      "value" : "Crimea Ukraine Annexation To Russia Federation",
+      "count" : "1"
+    }, {
+      "value" : "Crimea Ukraine History 2014",
+      "count" : "1"
+    }, {
+      "value" : "Diplomatic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Europe",
+      "count" : "1"
+    }, {
+      "value" : "Europe Foreign Relations Russia Federation",
+      "count" : "1"
+    }, {
+      "value" : "European Security",
+      "count" : "1"
+    }, {
+      "value" : "European Union",
+      "count" : "1"
+    }, {
+      "value" : "Foreign Policy",
+      "count" : "1"
+    }, {
+      "value" : "Influence Literary Artistic Etc",
+      "count" : "1"
+    }, {
+      "value" : "National Policy",
+      "count" : "1"
+    }, {
+      "value" : "Political Crisis",
+      "count" : "1"
+    }, {
+      "value" : "Russia",
+      "count" : "1"
+    }, {
+      "value" : "Russia Federation",
+      "count" : "1"
+    }, {
+      "value" : "Russia Federation Foreign Relations Europe",
+      "count" : "1"
+    }, {
+      "value" : "Russia Federation Foreign Relations Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Since 2014",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Conflict 2014",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Conflict 2014 Influence",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Averre Derek",
+      "count" : "1"
+    }, {
+      "value" : "Wolczuk Kataryna",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

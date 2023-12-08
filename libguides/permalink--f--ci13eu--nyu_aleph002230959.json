@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022309590107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Index to subjects and corporate names in the National union catalog of manuscript collections, 1959-1984." ],
+        "subject" : [ "National union catalog of manuscript collections$$QNational union catalog of manuscript collections -- Indexes", "Manuscripts -- United States -- Union lists$$QManuscripts -- United States -- Union lists -- Periodicals Indexes", "United States -- History -- Sources -- Bibliography -- Union lists -- Periodicals$$QUnited States -- History -- Sources -- Bibliography -- Union lists -- Periodicals -- Indexes", "Union catalogs -- United States -- Periodicals$$QUnion catalogs -- United States -- Periodicals -- Indexes" ],
+        "format" : [ "3 v. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$V94015068;$$CISBN$$V0898871077 (alk. paper) :;$$COCLC$$V(OCoLC)30319390" ],
+        "creationdate" : [ "1994" ],
+        "publisher" : [ "Alexandria, Va. : Chadwyck-Healey" ],
+        "mms" : [ "990022309590107871" ],
+        "contributor" : [ "Chadwyck-Healey, Inc.$$QChadwyck-Healey, Inc." ],
+        "contents" : [ "v. 1. A-G -- v. 2. H-O -- v. 3. P-Z." ],
+        "genre" : [ "Periodicals", "Indexes" ],
+        "place" : [ "Alexandria, Va. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002230959" ],
+        "lds53" : [ "002230959" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022309590107871" ],
+        "recordid" : [ "alma990022309590107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002230959-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1994" ],
+        "isbn" : [ "0898871077" ],
+        "cop" : [ "Alexandria, Va" ],
+        "pub" : [ "Chadwyck-Healey" ],
+        "oclcid" : [ "(ocolc)30319390" ],
+        "lccn" : [ "94015068" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Index to subjects and corporate names in the National union catalog of manuscript collections, 1959-1984." ]
+      },
+      "sort" : {
+        "title" : [ "Index to subjects and corporate names in the National union catalog of manuscript collections, 1959-1984." ],
+        "author" : [ "Chadwyck-Healey, Inc." ],
+        "creationdate" : [ "1994" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022309590107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0898871077,OCLC:,LCCN:94015068&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#6620 u5ǂn3 suppl  0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "104",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "290",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 322,
+    "COMBINED_SEARCH_TIME" : 326,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Manuscripts United States Union Lists Periodicals Indexes",
+      "count" : "1"
+    }, {
+      "value" : "National Union Catalog Of Manuscript Collections Indexes",
+      "count" : "1"
+    }, {
+      "value" : "Union Catalogs United States Periodicals Indexes",
+      "count" : "1"
+    }, {
+      "value" : "United States History Sources Bibliography Union Lists Periodicals Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chadwyck Healey Inc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

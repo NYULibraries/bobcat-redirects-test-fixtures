@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056859070107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The bluest eye : a novel " ],
+        "subject" : [ "African Americans$$QAfrican Americans -- Fiction", "Girls$$QGirls -- Fiction", "Ohio$$QOhio -- Fiction", "African American girls -- Race identity$$QAfrican American girls -- Race identity -- Fiction", "Racism$$QRacism -- Fiction", "Child abuse$$QChild abuse -- Fiction", "Colorism$$QColorism -- Fiction", "Conformity$$QConformity -- Fiction", "Noirs américains$$QNoirs américains -- Romans, nouvelles, etc", "Filles$$QFilles -- Romans, nouvelles, etc", "Ohio$$QOhio -- Romans, nouvelles, etc", "Filles noires américaines -- Identité ethnique$$QFilles noires américaines -- Identité ethnique -- Romans, nouvelles, etc", "Racisme$$QRacisme -- Romans, nouvelles, etc", "Enfants -- Violence envers$$QEnfants -- Violence envers -- Romans, nouvelles, etc", "Colorisme$$QColorisme -- Romans, nouvelles, etc", "Conformisme$$QConformisme -- Romans, nouvelles, etc", "FICTION -- General", "Conformity", "African Americans", "Child abuse", "Colorism", "Girls", "Racism", "Ohio" ],
+        "format" : [ "1 online resource (xiii, 205 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780307386588;$$CISBN$$V0307386589;$$CISBN$$V9781283998925;$$CISBN$$V1283998920;$$COCLC$$V(OCoLC)233577782;$$CISBN$$V9780307278449" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Morrison, Toni, author.$$QMorrison, Toni" ],
+        "publisher" : [ "New York : Vintage International" ],
+        "description" : [ "Pecola Breedlove, a young black girl, prays every day for beauty. Mocked by other children for the dark skin, curly hair, and brown eyes that set her apart, she yearns for normalcy, for the blond hair and blue eyes that she believes will allow her to finally fit in. Yet as her dream grows more fervent, her life slowly starts to disintegrate in the face of adversity and strife. A powerful examination of our obsession with beauty and conformity, Toni Morrison's virtuosic first novel asks powerful questions about race, class, and gender with the subtlety and grace that have always characterized her writing" ],
+        "mms" : [ "990056859070107871" ],
+        "edition" : [ "First Vintage International edition" ],
+        "genre" : [ "Romans, nouvelles, etc", "Fiction", "Bildungsromans", "Domestic fiction", "Novels", "Romans" ],
+        "relation" : [ "$$Cform$$VPrint version: Morrison, Toni. Bluest eye. First Vintage International edition. New York : Vintage International, Vintage Books, a division of Penguin Random House LLC, 2007$$QBluest eye.$$Z990031304940107871" ],
+        "mesh" : [ "Fictional Work" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoeb", "aleph005685907" ],
+        "lds62" : [ "eBooks on EBSCOhost" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056859070107871" ],
+        "recordid" : [ "alma990056859070107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005685907-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Morrison" ],
+        "aufirst" : [ "Toni" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Morrison, Toni" ],
+        "creatorfull" : [ "$$NMorrison, Toni$$LMorrison$$FToni$$Rauthor" ],
+        "date" : [ "2007 - 2007", "2007" ],
+        "isbn" : [ "9780307386588", "0307386589", "9781283998925", "1283998920", "9780307278449" ],
+        "abstract" : [ "Pecola Breedlove, a young black girl, prays every day for beauty. Mocked by other children for the dark skin, curly hair, and brown eyes that set her apart, she yearns for normalcy, for the blond hair and blue eyes that she believes will allow her to finally fit in. Yet as her dream grows more fervent, her life slowly starts to disintegrate in the face of adversity and strife. A powerful examination of our obsession with beauty and conformity, Toni Morrison's virtuosic first novel asks powerful questions about race, class, and gender with the subtlety and grace that have always characterized her writing" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Vintage International" ],
+        "oclcid" : [ "(ocolc)233577782" ],
+        "edition" : [ "First Vintage International edition" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The bluest eye : a novel" ]
+      },
+      "sort" : {
+        "title" : [ "bluest eye : a novel /" ],
+        "author" : [ "Morrison, Toni, author." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056859070107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0307386589,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps#3563 o8749ǂb55 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "218",
+    "CALL_SOLR_GET_IDS_LIST" : "133",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "150",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "556",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 595,
+    "COMBINED_SEARCH_TIME" : 599,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Girls Race Identity Fiction",
+      "count" : "1"
+    }, {
+      "value" : "African Americans",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Child Abuse",
+      "count" : "1"
+    }, {
+      "value" : "Child Abuse Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Colorism",
+      "count" : "1"
+    }, {
+      "value" : "Colorism Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Colorisme Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Conformisme Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Conformity",
+      "count" : "1"
+    }, {
+      "value" : "Conformity Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Enfants Violence Envers Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Fiction General",
+      "count" : "1"
+    }, {
+      "value" : "Filles Noires Américaines Identité Ethnique Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Filles Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Girls",
+      "count" : "1"
+    }, {
+      "value" : "Girls Fiction",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Romans Nouvelles Etc",
+      "count" : "1"
+    }, {
+      "value" : "Ohio",
+      "count" : "1"
+    }, {
+      "value" : "Ohio Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Morrison Toni",
+      "count" : "1"
+    } ]
+  } ]
+}

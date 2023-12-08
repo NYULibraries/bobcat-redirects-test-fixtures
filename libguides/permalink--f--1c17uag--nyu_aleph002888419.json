@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028884190107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Medieval French plays." ],
+        "subject" : [ "French drama -- To 1500$$QFrench drama -- To 1500 -- Translations into English", "French drama$$QFrench drama -- Translations into English" ],
+        "format" : [ "xix, 313 p. music. 20 cm." ],
+        "identifier" : [ "$$CLC$$V70129587;$$CISBN$$V0631139206 (pbk);$$CISBN$$V0631129707;$$COCLC$$V(OCoLC)257101" ],
+        "creationdate" : [ "1971" ],
+        "creator" : [ "Axton, Richard$$QAxton, Richard" ],
+        "publisher" : [ "Oxford Eng. B. Blackwell" ],
+        "mms" : [ "990028884190107871" ],
+        "contributor" : [ "Stevens, John E., 1921-$$QStevens, John E." ],
+        "contents" : [ "Le jeu d'Adam.--La seinte resureccion.--Le jeu de Saint Nicolas, by J. Bodel.--Courtois d'Arras.--Le miracle de Théophile, by Rutebeuf.--Le garçon et l'aveugle.--Le jeu de la feuillée, by A. de la Halle.--Le jeu de Robin et de Marion, by A. de la Halle." ],
+        "genre" : [ "Translations into English" ],
+        "place" : [ "Oxford Eng.]" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002888419" ],
+        "lds53" : [ "002888419" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028884190107871" ],
+        "recordid" : [ "alma990028884190107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002888419-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Axton" ],
+        "aufirst" : [ "Richard" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Axton, Richard" ],
+        "addau" : [ "Stevens, John E." ],
+        "creatorfull" : [ "$$NAxton, Richard$$LAxton$$FRichard$$Rauthor" ],
+        "contributorfull" : [ "$$NStevens, John E.$$LStevens$$FJohn E.$$Rcontributor" ],
+        "date" : [ "1971" ],
+        "isbn" : [ "0631139206", "0631129707" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Oxford [Eng" ],
+        "pub" : [ "B. Blackwell" ],
+        "oclcid" : [ "(ocolc)257101" ],
+        "lccn" : [ "70129587" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Medieval French plays." ]
+      },
+      "sort" : {
+        "title" : [ "Medieval French plays." ],
+        "author" : [ "Axton, Richard" ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028884190107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0631139206,OCLC:,LCCN:70129587&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#1342 e5ǂa9 1971b 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "113",
+    "CALL_SOLR_GET_IDS_LIST" : "113",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "241",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "72",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "237",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "197",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "678",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 709,
+    "COMBINED_SEARCH_TIME" : 713,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "French Drama To 1500 Translations Into English",
+      "count" : "1"
+    }, {
+      "value" : "French Drama Translations Into English",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Axton Richard",
+      "count" : "1"
+    }, {
+      "value" : "Stevens John E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081838680107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Urban regeneration and real estate development : turning real estate assets into engines for sustainable socio-economic progress " ],
+        "subject" : [ "Rénovation urbaine", "Immobilier", "Économie urbaine", "Développement durable", "urban renewal", "sustainable development", "Real estate business", "Sustainable development", "Urban economics", "Urban renewal" ],
+        "format" : [ "1 online resource", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783030676230;$$CISBN$$V3030676234;$$COCLC$$V(OCoLC)1236035077;$$CISBN$$V3030676226;$$CISBN$$V9783030676223" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Ciaramella, Andrea.$$QCiaramella, Andrea." ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "The book reflects on how intelligent urban regeneration can be an extraordinary driver of sustainable social and economic progress. It provides a friendly, evergreen and flexible thinking methodology that can serve as a reference guide to address a wide range of initiatives creating the conditions to thrive in an increasingly selective, rapidly changing and unpredictable market context. The book throws light on the importance of adopting an open approach based on collaboration, crafting strong visions, developing appealing value propositions, embracing a modern leadership style and setting-up highly effective multi-disciplinary team for the execution. It illustrates how standard approaches should be re-designed, business models innovated and processes re-engineered to guarantee better alignment between supply and demand of real estate as markets shift and new differentiators emerge among competitors. The book makes clear that creating a vibrant urban ecosystem requires a gradual shift of focus from built-environment investment to socio-economic output. It targets a wide audience of private and public sector professionals active in urban regeneration and real estate development." ],
+        "mms" : [ "990081838680107871" ],
+        "contributor" : [ "Dall'Orso, Marco.$$QDall'Orso, Marco." ],
+        "series" : [ "SpringerBriefs in Applied Sciences and Technology, PoliMI SpringerBriefs$$QSpringerBriefs in Applied Sciences and Technology, PoliMI SpringerBriefs", "SpringerBriefs in applied sciences and technology. PoliMI SpringerBriefs.$$QSpringerBriefs in applied sciences and technology." ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "mesh" : [ "Urban Renewal" ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008183868" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081838680107871" ],
+        "recordid" : [ "alma990081838680107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008183868-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ciaramella" ],
+        "aufirst" : [ "Andrea." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Ciaramella, Andrea." ],
+        "addau" : [ "Dall'Orso, Marco." ],
+        "creatorfull" : [ "$$NCiaramella, Andrea.$$LCiaramella$$FAndrea.$$Rauthor" ],
+        "contributorfull" : [ "$$NDall'Orso, Marco.$$LDall'Orso$$FMarco.$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9783030676230", "3030676234", "3030676226", "9783030676223" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "The book reflects on how intelligent urban regeneration can be an extraordinary driver of sustainable social and economic progress. It provides a friendly, evergreen and flexible thinking methodology that can serve as a reference guide to address a wide range of initiatives creating the conditions to thrive in an increasingly selective, rapidly changing and unpredictable market context. The book throws light on the importance of adopting an open approach based on collaboration, crafting strong visions, developing appealing value propositions, embracing a modern leadership style and setting-up highly effective multi-disciplinary team for the execution. It illustrates how standard approaches should be re-designed, business models innovated and processes re-engineered to guarantee better alignment between supply and demand of real estate as markets shift and new differentiators emerge among competitors. The book makes clear that creating a vibrant urban ecosystem requires a gradual shift of focus from built-environment investment to socio-economic output. It targets a wide audience of private and public sector professionals active in urban regeneration and real estate development." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1236035077" ],
+        "doi" : [ "10.1007/978-3-030-67623-0" ],
+        "seriestitle" : [ "SpringerBriefs in Applied Sciences and Technology, PoliMI SpringerBriefs" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Urban regeneration and real estate development : turning real estate assets into engines for sustainable socio-economic progress" ]
+      },
+      "sort" : {
+        "title" : [ "Urban regeneration and real estate development : turning real estate assets into engines for sustainable socio-economic progress /" ],
+        "author" : [ "Ciaramella, Andrea." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081838680107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081838680107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030676234,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"170",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "97",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 342,
+    "COMBINED_SEARCH_TIME" : 345,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Développement Durable",
+      "count" : "1"
+    }, {
+      "value" : "Immobilier",
+      "count" : "1"
+    }, {
+      "value" : "Real Estate Business",
+      "count" : "1"
+    }, {
+      "value" : "Rénovation Urbaine",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Development",
+      "count" : "1"
+    }, {
+      "value" : "Urban Economics",
+      "count" : "1"
+    }, {
+      "value" : "Urban Renewal",
+      "count" : "1"
+    }, {
+      "value" : "Économie Urbaine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ciaramella Andrea",
+      "count" : "1"
+    }, {
+      "value" : "Dallorso Marco",
+      "count" : "1"
+    } ]
+  } ]
+}

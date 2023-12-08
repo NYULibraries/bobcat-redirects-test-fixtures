@@ -1,0 +1,251 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062484520107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng" ],
+        "title" : [ "British and Irish women's letters and diaries." ],
+        "subject" : [ "Letters -- Women authors$$QLetters -- Women authors -- Databases", "Diaries -- Women authors$$QDiaries -- Women authors -- Databases", "Women -- Ireland$$QWomen -- Ireland -- Correspondence Databases", "Women -- Great Britain$$QWomen -- Great Britain -- Correspondence Databases", "Women -- Ireland$$QWomen -- Ireland -- Diaries Databases", "Women -- Great Britain$$QWomen -- Great Britain -- Diaries Databases", "Diaries -- Women authors", "Letters -- Women authors", "Women", "Great Britain", "Ireland", "Gender & Sexuality Studies", "Irish & Irish American Studies" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2015238089;$$COCLC$$V(OCoLC)612999485" ],
+        "creationdate" : [ "2001-" ],
+        "publisher" : [ "Alexandria, VA : Alexander Street", "Began in 2001?" ],
+        "description" : [ "This collection includes the immediate experiences of approximately 500 women, as revealed in over 100,000 pages of diaries and letters. Particular care has been taken to index this material so that it can be searched more thoroughly than ever before. The collection now includes primary materials spanning more than 300 years. Each source has been carefully chosen using leading bibliographies. The collection also includes biographies and an extensive annotated bibliography of the sources in the database.", "Includes 10,000 pages of diaries and letters revealing the experiences of approximately 500 women. The collection now includes primary materials spanning more than 300 years. The collection also includes biographies and an extensive annotated bibliography of the sources in the database. -- Description from NYU Libraries." ],
+        "mms" : [ "990062484520107871" ],
+        "contributor" : [ "Alexander Street Press, issuing body.$$QAlexander Street Press" ],
+        "addtitle" : [ "BWLD", "British and Irish women's letters and diaries, 1500 to 1950 <March 16, 2020>" ],
+        "genre" : [ "Correspondence", "Diaries", "Personal correspondence", "Databases" ],
+        "place" : [ "Alexandria, VA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006248452" ],
+        "lds63" : [ "Access restricted to subscribers." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062484520107871" ],
+        "recordid" : [ "alma990062484520107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006248452-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "BWLD" ],
+        "date" : [ "2001", "2001-" ],
+        "abstract" : [ "This collection includes the immediate experiences of approximately 500 women, as revealed in over 100,000 pages of diaries and letters. Particular care has been taken to index this material so that it can be searched more thoroughly than ever before. The collection now includes primary materials spanning more than 300 years. Each source has been carefully chosen using leading bibliographies. The collection also includes biographies and an extensive annotated bibliography of the sources in the database.", "Includes 10,000 pages of diaries and letters revealing the experiences of approximately 500 women. The collection now includes primary materials spanning more than 300 years. The collection also includes biographies and an extensive annotated bibliography of the sources in the database. -- Description from NYU Libraries." ],
+        "cop" : [ "Alexandria, VA" ],
+        "pub" : [ "Alexander Street" ],
+        "oclcid" : [ "(ocolc)612999485" ],
+        "lccn" : [ "2015238089" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "British and Irish women's letters and diaries." ]
+      },
+      "sort" : {
+        "title" : [ "British and Irish women's letters and diaries." ],
+        "author" : [ "Alexander Street Press, issuing body." ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062484520107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062484520107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062484520107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2015238089&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#1286 w6",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "67",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "35",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "31",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "261",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 295,
+    "COMBINED_SEARCH_TIME" : 298,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Diaries Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "Diaries Women Authors Databases",
+      "count" : "1"
+    }, {
+      "value" : "Gender Sexuality Studies",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Ireland",
+      "count" : "1"
+    }, {
+      "value" : "Irish Irish American Studies",
+      "count" : "1"
+    }, {
+      "value" : "Letters Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "Letters Women Authors Databases",
+      "count" : "1"
+    }, {
+      "value" : "Women",
+      "count" : "1"
+    }, {
+      "value" : "Women Great Britain Correspondence Databases",
+      "count" : "1"
+    }, {
+      "value" : "Women Great Britain Diaries Databases",
+      "count" : "1"
+    }, {
+      "value" : "Women Ireland Correspondence Databases",
+      "count" : "1"
+    }, {
+      "value" : "Women Ireland Diaries Databases",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Alexander Street Press",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

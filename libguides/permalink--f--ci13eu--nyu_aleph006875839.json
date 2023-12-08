@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068758390107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Cities and the politics of difference : multiculturalism and diversity in urban planning " ],
+        "subject" : [ "Multiculturalisme", "Diversité culturelle", "Intégration sociale", "multiculturalism", "POLITICAL SCIENCE -- Public Policy -- City Planning & Urban Development", "SOCIAL SCIENCE -- Ethnic Studies -- General", "SOCIAL SCIENCE -- Sociology -- Urban", "City planning -- Political aspects", "City planning -- Social aspects", "Cultural pluralism", "Multiculturalism", "Social integration" ],
+        "format" : [ "1 online resource (xvi, 406 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781442669956;$$CISBN$$V1442669950;$$CISBN$$V9781442669963;$$CISBN$$V1442669969;$$COCLC$$V(OCoLC)929629278;$$CISBN$$V9781442648104" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Toronto : University of Toronto Press" ],
+        "description" : [ "\"Demographic change and a growing sensitivity to the diversity of urban communities have increasingly led planners to recognize the necessity of planning for diversity. Edited by Michael A. Burayidi, Cities and the Politics of Difference offers a guide for making diversity a cornerstone of planning practice. The essays in this collection cover the practical and theoretical issues that surround this transformation, discussing ways of planning for inclusive and multicultural cities, enhancing the cultural competence of planners, and expanding the boundaries of planning for multiculturalism to include dimensions of diversity other than ethnicity and religion--including sexual and gender minorities and Indigenous communities. The advice of the contributors on how planners should integrate considerations of diversity in all its forms and guises into practice and theory will be valuable to scholars and practitioners at all levels of government.\"-- From publisher's website" ],
+        "mms" : [ "990068758390107871" ],
+        "contributor" : [ "Burayidi, Michael A., author, editor.$$QBurayidi, Michael A." ],
+        "contents" : [ "Cities and the diversity agenda in planning / Michael A. Burayidi -- The centrality of liberal democratic values in a multicultural society / Thomas L. Harper and Stanley M. Stein -- The incorporation of multicultural ethos in urban planning / Mohammad A. Qadeer -- The pragmatic politics of multicultural democracy / David Laws and John Forester -- Multicultural planning in twenty-first-century Britain / Richard Gale and Huw Thomas -- Planning for sexual and gender minorities / Petra L. Doan -- Planning in Native American Reservation communities : sovereignty, conflict, and political pluralism / Nicholas C. Zaferatos -- Majority-minority cities : what can they teach us about the future of planning practice? / Michael A. Burayidi and Abby Wiles -- Community planning for immigrant integration / Mai Thi Nguyen, Hannah Gill, and Anisha Steephen -- Immigrant-friendly community plans : rustbelt efforts to attract and retain immigrants / Stacy Anne Harwood and Sang S. Lee -- A targeted approach to planning socially diverse neighbourhoods / Emily Talen -- Imagining the future : the role of visual arts in the planning of multicultural communities / Kelly Main and James Rojas -- Religious clusters and interfaith dialogue / Sandeep K. Agrawal -- Negotiating culture : towards greater competency in planning / Michael Rios -- Educating planners for a cosmopolitan society : a selective case study of historically black colleges and universities / Siddhartha Sen, Mukesh Kumar, and Sheri L. Smith -- Moving the diversity agenda forward / Michael A. Burayidi." ],
+        "relation" : [ "$$Cform$$VPrint version: Cities and the politics of difference. Toronto : University of Toronto Press, [2015]$$QCities and the politics of difference.$$Z990042154530107871" ],
+        "place" : [ "Toronto :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebcacls", "ebceb", "ebscoac", "jstoreba", "pmuseeba", "aleph006875839" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068758390107871" ],
+        "recordid" : [ "alma990068758390107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006875839-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Burayidi" ],
+        "aufirst" : [ "Michael A." ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Burayidi, Michael A." ],
+        "contributorfull" : [ "$$NBurayidi, Michael A.$$LBurayidi$$FMichael A.$$Rcontributor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781442669956", "1442669950", "9781442669963", "1442669969", "9781442648104" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Demographic change and a growing sensitivity to the diversity of urban communities have increasingly led planners to recognize the necessity of planning for diversity. Edited by Michael A. Burayidi, Cities and the Politics of Difference offers a guide for making diversity a cornerstone of planning practice. The essays in this collection cover the practical and theoretical issues that surround this transformation, discussing ways of planning for inclusive and multicultural cities, enhancing the cultural competence of planners, and expanding the boundaries of planning for multiculturalism to include dimensions of diversity other than ethnicity and religion--including sexual and gender minorities and Indigenous communities. The advice of the contributors on how planners should integrate considerations of diversity in all its forms and guises into practice and theory will be valuable to scholars and practitioners at all levels of government.\"-- From publisher's website" ],
+        "cop" : [ "Toronto" ],
+        "pub" : [ "University of Toronto Press" ],
+        "oclcid" : [ "(ocolc)929629278" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Cities and the politics of difference : multiculturalism and diversity in urban planning" ]
+      },
+      "sort" : {
+        "title" : [ "Cities and the politics of difference : multiculturalism and diversity in urban planning /" ],
+        "author" : [ "Burayidi, Michael A., author, editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068758390107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068758390107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068758390107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068758390107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068758390107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1442669950,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"166ǂ c58 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "247",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "163",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "56",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "31",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "137",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "113",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "611",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 638,
+    "COMBINED_SEARCH_TIME" : 641,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "City Planning Political Aspects",
+      "count" : "1"
+    }, {
+      "value" : "City Planning Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Cultural Pluralism",
+      "count" : "1"
+    }, {
+      "value" : "Diversité Culturelle",
+      "count" : "1"
+    }, {
+      "value" : "Intégration Sociale",
+      "count" : "1"
+    }, {
+      "value" : "Multiculturalism",
+      "count" : "1"
+    }, {
+      "value" : "Multiculturalisme",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Public Policy City Planning Urban Development",
+      "count" : "1"
+    }, {
+      "value" : "Social Integration",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Ethnic Studies General",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Sociology Urban",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Burayidi Michael A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

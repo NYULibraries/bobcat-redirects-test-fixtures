@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056850670107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Sister outsider : essays and speeches " ],
+        "subject" : [ "Poésie", "Féminisme", "Lesbianisme", "Noires américaines", "Identité de genre", "poetry", "feminism", "sex role", "African American women", "Feminism", "Gender identity", "Lesbianism", "Poetry" ],
+        "format" : [ "1 online resource (190 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780307809049;$$CISBN$$V0307809048;$$CISBN$$V1299161707;$$CISBN$$V9781299161702;$$CPUBNUM$$VEB00152207;$$COCLC$$V(OCoLC)773898749;$$CISBN$$V9781580911863" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Lorde, Audre, author.$$QLorde, Audre" ],
+        "publisher" : [ "Berkeley : Crossing Press" ],
+        "description" : [ "\"Presenting the essential writings of black lesbian poet and feminist writer Audre Lorde, SISTER OUTSIDER celebrates an influential voice in twentieth-century literature. In this charged collection of fifteen essays and speeches, Lorde takes on sexism, racism, ageism, homophobia, and class, and propounds social difference as a vehicle for action and change. Her prose is incisive, unflinching, and lyrical, reflecting struggle but ultimately offering messages of hope. This commemorative edition includes a new foreword by Lorde scholar and poet Cheryl Clarke, who celebrates the ways in which Lorde's philosophies resonate more than twenty years after they were first published. These landmark writings are, in Lorde's own words, a call to 'never close our eyes to the terror, to the chaos which is Black which is creative which is female which is dark which is rejected which is messy which is. . . .'\" --Provided by publisher." ],
+        "mms" : [ "990056850670107871" ],
+        "series" : [ "Crossing Press feminist series$$QCrossing Press feminist series", "Crossing Press feminist series.$$QCrossing Press feminist series." ],
+        "contents" : [ "Notes from a trip to Russia -- Poetry is not a luxury -- The transformation of silence into language and action -- Scratching the surface : some notes on barriers to women and loving -- Uses of the erotic : the erotic as power -- Sexism : an American disease in blackface -- An open letter to Mary Daly -- Man child : a black lesbian feminist's response -- An interview : Audre Lorde and Adrienne Rich -- The Master's tools will never dismantle the Master's house -- Age, race, class, and sex : women redefining difference -- The uses of anger : women responding to racism -- Learning from the 60s -- Eye to eye : black women, hatred, and anger -- Grenada revisited : an interim report." ],
+        "genre" : [ "poetry", "essays", "speeches (documents)", "Poetry", "Essays", "Speeches", "Poésie", "Essais", "Discours" ],
+        "relation" : [ "$$Cform$$VPrint version: Lorde, Audre. Sister outsider. Berkeley, Calif. : Crossing Press, ©2007$$QSister outsider.$$Z990040652970107871" ],
+        "mesh" : [ "Poetry as Topic", "Feminism", "Homosexuality, Female", "Gender Identity", "Poetry", "Essay", "Address" ],
+        "place" : [ "Berkeley :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoeb", "aleph005685067" ],
+        "lds62" : [ "eBooks on EBSCOhost" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056850670107871" ],
+        "recordid" : [ "alma990056850670107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005685067-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lorde" ],
+        "aufirst" : [ "Audre" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Lorde, Audre" ],
+        "creatorfull" : [ "$$NLorde, Audre$$LLorde$$FAudre$$Rauthor" ],
+        "date" : [ "2007" ],
+        "isbn" : [ "9780307809049", "0307809048", "1299161707", "9781299161702", "9781580911863" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Presenting the essential writings of black lesbian poet and feminist writer Audre Lorde, SISTER OUTSIDER celebrates an influential voice in twentieth-century literature. In this charged collection of fifteen essays and speeches, Lorde takes on sexism, racism, ageism, homophobia, and class, and propounds social difference as a vehicle for action and change. Her prose is incisive, unflinching, and lyrical, reflecting struggle but ultimately offering messages of hope. This commemorative edition includes a new foreword by Lorde scholar and poet Cheryl Clarke, who celebrates the ways in which Lorde's philosophies resonate more than twenty years after they were first published. These landmark writings are, in Lorde's own words, a call to 'never close our eyes to the terror, to the chaos which is Black which is creative which is female which is dark which is rejected which is messy which is. . . .'\" --Provided by publisher." ],
+        "cop" : [ "Berkeley" ],
+        "pub" : [ "Crossing Press" ],
+        "oclcid" : [ "(ocolc)773898749" ],
+        "seriestitle" : [ "Crossing Press feminist series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Sister outsider : essays and speeches" ]
+      },
+      "sort" : {
+        "title" : [ "Sister outsider : essays and speeches /" ],
+        "author" : [ "Lorde, Audre, author." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056850670107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056850670107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0307809048,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps#3562 o75ǂs5 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "286",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "40",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "68",
+    "RETRIVE_FROM_DB_RELATIONS" : "70",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "137",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "592",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 628,
+    "COMBINED_SEARCH_TIME" : 632,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Women",
+      "count" : "1"
+    }, {
+      "value" : "Feminism",
+      "count" : "1"
+    }, {
+      "value" : "Féminisme",
+      "count" : "1"
+    }, {
+      "value" : "Gender Identity",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality Female",
+      "count" : "1"
+    }, {
+      "value" : "Identité De Genre",
+      "count" : "1"
+    }, {
+      "value" : "Lesbianism",
+      "count" : "1"
+    }, {
+      "value" : "Lesbianisme",
+      "count" : "1"
+    }, {
+      "value" : "Noires Américaines",
+      "count" : "1"
+    }, {
+      "value" : "Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Poetry As Topic",
+      "count" : "1"
+    }, {
+      "value" : "Poésie",
+      "count" : "1"
+    }, {
+      "value" : "Sex Role",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lorde Audre",
+      "count" : "1"
+    } ]
+  } ]
+}

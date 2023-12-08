@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990090370460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Till" ],
+        "subject" : [ "Drama" ],
+        "format" : [ "1 videodisc (ca. 130 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CPUBNUM$$V15390121;$$COCLC$$V(OCoLC)1349524702" ],
+        "creationdate" : [ "2023" ],
+        "publisher" : [ "United States : Warner Bros." ],
+        "description" : [ "Till is a profoundly emotional and cinematic film about the true story of Mamie Till Mobley's relentless pursuit of justice for her 14-year-old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi. In Mamie's poignant journey of grief turned to action, we see the universal power of a mother's ability to change the world." ],
+        "mms" : [ "990090370460107871" ],
+        "contributor" : [ "Deadwyler, Danielle$$QDeadwyler, Danielle", "Hall, Jalyn$$QHall, Jalyn", "Faison, Frankie$$QFaison, Frankie", "Bennett, Haley$$QBennett, Haley", "Renell, Jamie$$QRenell, Jamie", "Goldberg, Whoopi$$QGoldberg, Whoopi", "Thomas, Sean Patrick$$QThomas, Sean Patrick", "Thompson, John Douglas$$QThompson, John Douglas" ],
+        "edition" : [ "Widescreen ed." ],
+        "genre" : [ "Drama" ],
+        "place" : [ "United States] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph009037046" ],
+        "lds53" : [ "009037046" ],
+        "lds60" : [ "01/24/2023" ],
+        "lds64" : [ "Director, Chinonye Chukwu." ],
+        "lds65" : [ "Danielle Deadwyler, Jalyn Hall, Frankie Faison, Haley Bennett, Jamie Renell, Whoopi Goldberg, Sean Patrick Thomas, John Douglas Thompson." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990090370460107871" ],
+        "recordid" : [ "alma990090370460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009037046-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Deadwyler", "Hall", "Faison", "Bennett", "Renell", "Goldberg", "Thomas", "Thompson" ],
+        "aufirst" : [ "Danielle", "Jalyn", "Frankie", "Haley", "Jamie", "Whoopi", "Sean Patrick", "John Douglas" ],
+        "auinit" : [ "D", "F", "H", "W", "S", "J" ],
+        "addau" : [ "Deadwyler, Danielle", "Hall, Jalyn", "Faison, Frankie", "Bennett, Haley", "Renell, Jamie", "Goldberg, Whoopi", "Thomas, Sean Patrick", "Thompson, John Douglas" ],
+        "contributorfull" : [ "$$NDeadwyler, Danielle$$LDeadwyler$$FDanielle$$Rcontributor", "$$NHall, Jalyn$$Rcontributor", "$$NFaison, Frankie$$Rcontributor", "$$NBennett, Haley$$Rcontributor", "$$NRenell, Jamie$$Rcontributor", "$$NGoldberg, Whoopi$$Rcontributor", "$$NThomas, Sean Patrick$$Rcontributor", "$$NThompson, John Douglas$$Rcontributor" ],
+        "date" : [ "2022", "2023" ],
+        "abstract" : [ "Till is a profoundly emotional and cinematic film about the true story of Mamie Till Mobley's relentless pursuit of justice for her 14-year-old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi. In Mamie's poignant journey of grief turned to action, we see the universal power of a mother's ability to change the world." ],
+        "cop" : [ "United States" ],
+        "pub" : [ "Warner Bros." ],
+        "oclcid" : [ "(ocolc)1349524702" ],
+        "edition" : [ "Widescreen ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Till" ]
+      },
+      "sort" : {
+        "title" : [ "Till" ],
+        "author" : [ "Deadwyler, Danielle" ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990090370460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1349524702,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "126",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "45",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "24",
+    "RETRIVE_FROM_DB_RELATIONS" : "28",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "42",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "39",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "298",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 323,
+    "COMBINED_SEARCH_TIME" : 327,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    }, {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bennett Haley",
+      "count" : "1"
+    }, {
+      "value" : "Deadwyler Danielle",
+      "count" : "1"
+    }, {
+      "value" : "Faison Frankie",
+      "count" : "1"
+    }, {
+      "value" : "Goldberg Whoopi",
+      "count" : "1"
+    }, {
+      "value" : "Hall Jalyn",
+      "count" : "1"
+    }, {
+      "value" : "Renell Jamie",
+      "count" : "1"
+    }, {
+      "value" : "Thomas Sean Patrick",
+      "count" : "1"
+    }, {
+      "value" : "Thompson John Douglas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

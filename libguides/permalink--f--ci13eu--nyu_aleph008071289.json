@@ -1,0 +1,343 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080712890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Judas and the Black messiah " ],
+        "subject" : [ "Hampton, Fred, 1948-1969$$QHampton, Fred, 1948-1969 -- Drama", "Black Panther Party Illinois Chapter$$QBlack Panther Party Illinois Chapter -- Drama", "United States Federal Bureau of Investigation -- History -- 20th century$$QUnited States Federal Bureau of Investigation -- History -- 20th century -- Drama", "Assassination -- Illinois -- Chicago$$QAssassination -- Illinois -- Chicago -- Drama", "Black power -- United States$$QBlack power -- United States -- Drama", "Civil rights movements -- United States -- History -- 20th century$$QCivil rights movements -- United States -- History -- 20th century -- Drama", "African American political activists -- Illinois$$QAfrican American political activists -- Illinois -- Drama", "Intelligence service -- United States -- History -- 20th century$$QIntelligence service -- United States -- History -- 20th century -- Drama", "Undercover operations$$QUndercover operations -- Drama", "Chicago (Ill.)$$QChicago (Ill.) -- Drama", "Hampton, Fred, 1948-1969", "Black Panther Party Illinois Chapter", "United States Federal Bureau of Investigation", "Black Panther Party", "Intelligence service", "Civil rights movements", "Black power", "Assassination", "African American political activists", "Undercover operations", "Illinois", "United States", "Illinois -- Chicago", "1900-1999" ],
+        "format" : [ "1 videodisc (126 min.) : sound, color ; 4 3/4 in.", "polychrome.", "NTSC", "video file", "DVD video", "region 1" ],
+        "identifier" : [ "$$CISBN$$V9786318479882;$$CISBN$$V6318479880;$$CPUBNUM$$V1000764634;$$CPUBNUM$$V2000168015;$$CPUBNUM$$V3000086019;$$COCLC$$V(OCoLC)1241202124" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Burbank, CA : Warner Bros. Home Entertainment" ],
+        "description" : [ "Offered a plea deal by the FBI, William O'Neal infiltrates the Illinois chapter of the Black Panther Party to gather intelligence on Chairman Fred Hampton." ],
+        "mms" : [ "990080712890107871" ],
+        "contributor" : [ "King, Shaka, 1980- film director, film producer, screenwriter.$$QKing, Shaka", "Berson, Will, screenwriter.$$QBerson, Will", "Lucas, Kenny, 1985- screenwriter.$$QLucas, Kenny", "Lucas, Keith, 1985- screenwriter.$$QLucas, Keith", "Coogler, Ryan, 1986- film producer.$$QCoogler, Ryan", "King, Charles D. (Producer), film producer.$$QKing, Charles D.", "Kaluuya, Daniel, 1989- actor.$$QKaluuya, Daniel", "Stanfield, LaKeith, 1991- actor.$$QStanfield, LaKeith", "Plemons, Jesse, 1988- actor.$$QPlemons, Jesse", "Fishback, Dominique, 1991- actor.$$QFishback, Dominique", "Sanders, Ashton, 1995- actor.$$QSanders, Ashton", "Smith, Algee, 1994- actor.$$QSmith, Algee", "Britt-Gibson, Darrell, actor.$$QBritt-Gibson, Darrell", "Howery, LilRel, actor.$$QHowery, LilRel", "Thorne, Dominique, actor.$$QThorne, Dominique", "Sheen, Martin, actor.$$QSheen, Martin", "Bobbitt, Sean, director of photography.$$QBobbitt, Sean", "Sprague, Kristan, editor of moving image work.$$QSprague, Kristan", "Harris, Craig S., composer (expression)$$QHarris, Craig S.", "Isham, Mark, composer (expression)$$QIsham, Mark", "Warner Bros. Pictures (1969- ), presenter.$$QWarner Bros. Pictures (1969- )", "Macro Media, presenter, production company.$$QMacro Media", "Participant Media, presenter.$$QParticipant Media", "Bron Studios, presenter.$$QBron Studios", "Proximity Media, production company.$$QProximity Media", "Warner Bros. Home Entertainment (Firm), publisher.$$QWarner Bros. Home Entertainment (Firm)" ],
+        "genre" : [ "DVD-Video discs", "History", "Drama", "Biographical films", "Historical films", "Crime films", "Feature films", "Fiction films", "Video recordings for people with visual disabilities", "Video recordings for the hearing impaired" ],
+        "place" : [ "Burbank, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008071289" ],
+        "lds53" : [ "008071289" ],
+        "lds60" : [ "Originally released as a motion picture in 2021.", "Wide screen.", "Special feature: Fred Hampton for the People." ],
+        "lds64" : [ "Music by Craig Harris and Mark Isham ; edited by Kristan Sprague ; production designer, Sam Lisenco ; director of photography, Sean Bobbitt." ],
+        "lds65" : [ "Daniel Kaluuya, Lakeith Stanfield, Jesse Plemons, Dominique Fishback, Ashton Sanders, Algee Smith, Darrell Britt-Gibson, Lil Rel Howery, Dominique Thorne, Martin Sheen." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080712890107871" ],
+        "recordid" : [ "alma990080712890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008071289-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Berson", "Lucas", "Coogler", "King", "Kaluuya", "Stanfield", "Plemons", "Fishback", "Sanders", "Smith", "Britt-Gibson", "Howery", "Thorne", "Sheen", "Bobbitt", "Sprague", "Harris", "Isham" ],
+        "aufirst" : [ "Shaka", "Will", "Kenny", "Keith", "Ryan", "Charles D.", "Daniel", "LaKeith", "Jesse", "Ashton", "Algee", "Darrell", "LilRel", "Dominique", "Martin", "Sean", "Kristan", "Craig S.", "Mark" ],
+        "auinit" : [ "W", "R", "J", "A", "L", "D", "S", "K", "C", "M" ],
+        "addau" : [ "King, Shaka", "Berson, Will", "Lucas, Kenny", "Lucas, Keith", "Coogler, Ryan", "King, Charles D.", "Kaluuya, Daniel", "Stanfield, LaKeith", "Plemons, Jesse", "Fishback, Dominique", "Sanders, Ashton", "Smith, Algee", "Britt-Gibson, Darrell", "Howery, LilRel", "Thorne, Dominique", "Sheen, Martin", "Bobbitt, Sean", "Sprague, Kristan", "Harris, Craig S.", "Isham, Mark" ],
+        "contributorfull" : [ "$$NKing, Shaka$$LKing$$FShaka$$Rcontributor", "$$NBerson, Will$$Rcontributor", "$$NLucas, Kenny$$Rcontributor", "$$NLucas, Keith$$Rcontributor", "$$NCoogler, Ryan$$Rcontributor", "$$NKing, Charles D.$$Rcontributor", "$$NKaluuya, Daniel$$Rcontributor", "$$NStanfield, LaKeith$$Rcontributor", "$$NPlemons, Jesse$$Rcontributor", "$$NFishback, Dominique$$Rcontributor", "$$NSanders, Ashton$$Rcontributor", "$$NSmith, Algee$$Rcontributor", "$$NBritt-Gibson, Darrell$$Rcontributor", "$$NHowery, LilRel$$Rcontributor", "$$NThorne, Dominique$$Rcontributor", "$$NSheen, Martin$$Rcontributor", "$$NBobbitt, Sean$$Rcontributor", "$$NSprague, Kristan$$Rcontributor", "$$NHarris, Craig S.$$Rcontributor", "$$NIsham, Mark$$Rcontributor" ],
+        "date" : [ "2021 - 2020", "2021" ],
+        "isbn" : [ "9786318479882", "6318479880" ],
+        "abstract" : [ "Offered a plea deal by the FBI, William O'Neal infiltrates the Illinois chapter of the Black Panther Party to gather intelligence on Chairman Fred Hampton." ],
+        "cop" : [ "Burbank, CA" ],
+        "pub" : [ "Warner Bros. Home Entertainment" ],
+        "oclcid" : [ "(ocolc)1241202124" ],
+        "upcid" : [ "883929714865" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Judas and the Black messiah" ]
+      },
+      "sort" : {
+        "title" : [ "Judas and the Black messiah /" ],
+        "author" : [ "King, Shaka, 1980- film director, film producer, screenwriter." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990080712890107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:6318479880,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997.2ǂ j83 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "73",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "151",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "375",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 406,
+    "COMBINED_SEARCH_TIME" : 409,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    }, {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "kor",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    }, {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "African American Political Activists",
+      "count" : "1"
+    }, {
+      "value" : "African American Political Activists Illinois Drama",
+      "count" : "1"
+    }, {
+      "value" : "Assassination",
+      "count" : "1"
+    }, {
+      "value" : "Assassination Illinois Chicago Drama",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party Illinois Chapter",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party Illinois Chapter Drama",
+      "count" : "1"
+    }, {
+      "value" : "Black Power",
+      "count" : "1"
+    }, {
+      "value" : "Black Power United States Drama",
+      "count" : "1"
+    }, {
+      "value" : "Chicago Ill Drama",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements United States History 20th Century Drama",
+      "count" : "1"
+    }, {
+      "value" : "Hampton Fred 1948 1969",
+      "count" : "1"
+    }, {
+      "value" : "Hampton Fred 1948 1969 Drama",
+      "count" : "1"
+    }, {
+      "value" : "Illinois",
+      "count" : "1"
+    }, {
+      "value" : "Illinois Chicago",
+      "count" : "1"
+    }, {
+      "value" : "Intelligence Service",
+      "count" : "1"
+    }, {
+      "value" : "Intelligence Service United States History 20th Century Drama",
+      "count" : "1"
+    }, {
+      "value" : "Undercover Operations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Berson Will",
+      "count" : "1"
+    }, {
+      "value" : "Bobbitt Sean",
+      "count" : "1"
+    }, {
+      "value" : "Britt Gibson Darrell",
+      "count" : "1"
+    }, {
+      "value" : "Bron Studios",
+      "count" : "1"
+    }, {
+      "value" : "Coogler Ryan",
+      "count" : "1"
+    }, {
+      "value" : "Fishback Dominique",
+      "count" : "1"
+    }, {
+      "value" : "Harris Craig S",
+      "count" : "1"
+    }, {
+      "value" : "Howery Lilrel",
+      "count" : "1"
+    }, {
+      "value" : "Isham Mark",
+      "count" : "1"
+    }, {
+      "value" : "Kaluuya Daniel",
+      "count" : "1"
+    }, {
+      "value" : "King Charles D",
+      "count" : "1"
+    }, {
+      "value" : "King Shaka",
+      "count" : "1"
+    }, {
+      "value" : "Lucas Keith",
+      "count" : "1"
+    }, {
+      "value" : "Lucas Kenny",
+      "count" : "1"
+    }, {
+      "value" : "Macro Media",
+      "count" : "1"
+    }, {
+      "value" : "Participant Media",
+      "count" : "1"
+    }, {
+      "value" : "Plemons Jesse",
+      "count" : "1"
+    }, {
+      "value" : "Proximity Media",
+      "count" : "1"
+    }, {
+      "value" : "Sanders Ashton",
+      "count" : "1"
+    }, {
+      "value" : "Sheen Martin",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

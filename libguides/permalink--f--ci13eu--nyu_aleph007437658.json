@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074376580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Reclaiming artistic research " ],
+        "subject" : [ "Artists$$QArtists -- Interviews", "Art -- Research", "Art -- Study and teaching", "Artists", "Kunsttheorie", "Kunstenaarschap", "Kunstbeschouwing", "Onderzoek", "Psychologie" ],
+        "format" : [ "438 pages ; 18 cm" ],
+        "identifier" : [ "$$CISBN$$V9783775746311;$$CISBN$$V3775746315;$$COCLC$$V(OCoLC)1107356124" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Berlin : Hatje Cantz" ],
+        "description" : [ "It is not just one of the issues, it is the issue of current art schools and their politics: artistic research. But what is artistic research really about and what does it mean for contemporary art? All too often, weight is given to the academic aspect and the artistic part is overshadowed. The more interesting question is how art knows: how artistic thinking develops through artistic processes and takes shape in artworks. This is precisely the departure point of the artist, academic, and curator Lucy Cotter (*1973 in Ireland). In twenty conversations with leading artists, she maps out an epistemology of artistic creation today. She manifests a type of research that is dynamically engaged with other fields, but thinks beyond concepts into bodily and material knowledge that exceeds language, revolutionizing our perception of art from the ground up.0In 2017, Lucy Cotter (*1973, Ireland) curated the Dutch Pavilion at the 57th Venice Biennale, featuring artist Wendelien van Oldenborgh. Her writings on contemporary art have been published in Mousse, Flash Art and Frieze online, among other places. She was founding director of the Master Artistic Research at the Royal Academy of Art, The Hague." ],
+        "mms" : [ "990074376580107871" ],
+        "contributor" : [ "Cotter, Lucy, author, editor.$$QCotter, Lucy", "Abu Hamdan, Lawrence, 1985- author.$$QAbu Hamdan, Lawrence" ],
+        "genre" : [ "Interviews", "Interviews (vorm)" ],
+        "place" : [ "Berlin :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007437658" ],
+        "lds53" : [ "007437658" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074376580107871" ],
+        "recordid" : [ "alma990074376580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007437658-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cotter", "AbuHamdan" ],
+        "aufirst" : [ "Lucy", "Lawrence" ],
+        "auinit" : [ "L" ],
+        "addau" : [ "Cotter, Lucy", "Abu Hamdan, Lawrence" ],
+        "contributorfull" : [ "$$NCotter, Lucy$$LCotter$$FLucy$$Rcontributor", "$$NAbu Hamdan, Lawrence$$Rcontributor" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9783775746311", "3775746315" ],
+        "abstract" : [ "It is not just one of the issues, it is the issue of current art schools and their politics: artistic research. But what is artistic research really about and what does it mean for contemporary art? All too often, weight is given to the academic aspect and the artistic part is overshadowed. The more interesting question is how art knows: how artistic thinking develops through artistic processes and takes shape in artworks. This is precisely the departure point of the artist, academic, and curator Lucy Cotter (*1973 in Ireland). In twenty conversations with leading artists, she maps out an epistemology of artistic creation today. She manifests a type of research that is dynamically engaged with other fields, but thinks beyond concepts into bodily and material knowledge that exceeds language, revolutionizing our perception of art from the ground up.0In 2017, Lucy Cotter (*1973, Ireland) curated the Dutch Pavilion at the 57th Venice Biennale, featuring artist Wendelien van Oldenborgh. Her writings on contemporary art have been published in Mousse, Flash Art and Frieze online, among other places. She was founding director of the Master Artistic Research at the Royal Academy of Art, The Hague." ],
+        "cop" : [ "Berlin" ],
+        "pub" : [ "Hatje Cantz" ],
+        "oclcid" : [ "(ocolc)1107356124" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Reclaiming artistic research" ]
+      },
+      "sort" : {
+        "title" : [ "Reclaiming artistic research /" ],
+        "author" : [ "Cotter, Lucy, author, editor." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074376580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3775746315,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#7476ǂ r435 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "96",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "108",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "105",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "115",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "406",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 442,
+    "COMBINED_SEARCH_TIME" : 444,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Research",
+      "count" : "1"
+    }, {
+      "value" : "Art Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Artists",
+      "count" : "1"
+    }, {
+      "value" : "Artists Interviews",
+      "count" : "1"
+    }, {
+      "value" : "Kunstbeschouwing",
+      "count" : "1"
+    }, {
+      "value" : "Kunstenaarschap",
+      "count" : "1"
+    }, {
+      "value" : "Kunsttheorie",
+      "count" : "1"
+    }, {
+      "value" : "Onderzoek",
+      "count" : "1"
+    }, {
+      "value" : "Psychologie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Abu Hamdan Lawrence",
+      "count" : "1"
+    }, {
+      "value" : "Cotter Lucy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

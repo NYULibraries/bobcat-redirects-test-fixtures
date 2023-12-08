@@ -1,0 +1,241 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990064776670107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Careers in Chemical and Biomolecular Engineering." ],
+        "subject" : [ "Biochemical engineering -- Vocational guidance", "Génie chimique -- Orientation professionnelle", "Génie biochimique -- Orientation professionnelle", "SCIENCE -- Chemistry -- Industrial & Technical", "TECHNOLOGY & ENGINEERING -- Chemical & Biochemical", "Chemical engineering -- Vocational guidance" ],
+        "format" : [ "1 online resource (207 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780429888168;$$CISBN$$V0429888163;$$CISBN$$V9780429468599;$$CISBN$$V0429468598;$$CISBN$$V9780429888151;$$CISBN$$V0429888155;$$CISBN$$V9780429888144;$$CISBN$$V0429888147;$$COCLC$$V(OCoLC)1048923663;$$CISBN$$V9780815380863" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Edwards, Victor.$$QEdwards, Victor." ],
+        "publisher" : [ "Milton : Chapman and Hall/CRC" ],
+        "description" : [ "The scope of opportunities in chemical and biomolecular engineering has grown tremendously in recent years. Careers in Chemical and Biomolecular Engineering conveys the breadth and depth of today's chemical and biomolecular engineering practice, and describes the intellectually enriching, socially conscious and financially lucrative opportunities available for such graduates in an ever-widening array of industries and applications. This book aims to help students interested in studying chemical engineering and biomolecular engineering to understand the many potential career pathways that are available in these dynamic fields -- and is an indispensable resource for the parents, teachers, advisors and guidance counselors who support them, In addition to 10 chapters that discuss the roles such graduates play in many diverse industries, this book also features 25 Profile articles that share in-depth, first-person insight from industry-leading chemical and biomolecular engineers. These technical professionals discuss their work and educational experiences (in terms of both triumphs and challenges), and share wisdom and recommendations for students pursuing these two dynamic engineering disciplines." ],
+        "mms" : [ "990064776670107871" ],
+        "contributor" : [ "Shelley, Suzanne.$$QShelley, Suzanne." ],
+        "contents" : [ "Cover; Half Title; Title Page; Copyright Page; Dedication; Table of Contents; Profiles of Working Engineers; Preface for Students, Guidance Counselors, Mentors, and Teachers; Chemical and biomolecular engineering: A proud past and a bright future; Growing opportunities; About this book; Profiles in chemical and biomolecular engineering; This book provides guidance; Authors; Chapter 1: What Are Chemical Engineering and Biomolecular Engineering?; Science and engineering: Two essential and related disciplines; Benefits of chemical and biomolecular engineering.", "Chemical and Biomolecular Engineering DefinedRoles of Chemical and Biomolecular Engineers; The Grand Challenges of engineering in the twenty-first century; How does one become a chemical or biomolecular engineer?; Additional qualifications and certifications; References; Chapter 2: Historical Adventures in Chemical and Biomolecular Engineering; The Production of Safe Drinking Water; Exploiting the Medicinal Value of Penicillin; Refining Sugar; Synthesizing Ammonia at an Industrial Scale; Producting Acetone from Fermentation; References.", "Chapter 3: Where Do Most Chemical and Biomolecular Engineers Work? How Much Are They Paid?References; Chapter 4: Basic Concepts: Chemical Processes and Unit Operations; Chemical Processes and Unit Operations; Conservation of Mass and Energy; Fluid Flow; What are fluids?; Fluids and pressure; Fluid flow in pipes; Pumps; Compressors; References; Chapter 5: Basic Concepts: Equilibrium and Rate Processes; Thermodynamics; Fundamental definitions in thermodynamics; The four laws of thermodynamics; Transport of Mass, Heat, and Momentum; Mass transfer; Heat transfer; Momentum transfer.", "Mathematical representation of transport phenomenaReferences; Chapter 6: Basic Concepts: Separation Processes and Other Unit Operations; Separation process: Stripping; Separation Process: Adsorption; Why Use Adsorption?; Separation Process: Absorption; Separation Process: Evaporation; Separation Process: Drying; Separation Process: Distillation; Fractionation of crude oil (petroleum); Unit Operation: Heat Transfer; Separation Process: Crystallization; Separation Process: Ion Exchange; Separation Process: Other; References.", "Chapter 7: Basic Concepts: Dynamics and Control of Chemical Reactions and ProcessesChemical and Biomolecular Synthesis, Catalysis, and Reaction Engineering; Batch reactors; Continuous-flow stirred-tank reactors; Continuous-flow tubular reactors; Reactors with heterogeneous catalysts; Process dynamics and control; Hazardous Properties of Process Chemicals; Reactivity; Flammability; Toxicity; Corrosivity; References; Chapter 8: Basic Concepts: Creation and Stewardship of the Sustainable Process Plant; The Sustainable process plant; Process Simulation and Process Synthesis." ],
+        "relation" : [ "$$Cform$$VPrint version: Edwards, Victor. Careers in Chemical and Biomolecular Engineering. Milton : Chapman and Hall/CRC, ©2018$$QCareers in Chemical and Biomolecular Engineering.$$Z990073453700107871" ],
+        "place" : [ "Milton :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph006477667" ],
+        "lds60" : [ "Process and Plant Design, Construction, and Startup." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990064776670107871" ],
+        "recordid" : [ "alma990064776670107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006477667-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Edwards" ],
+        "aufirst" : [ "Victor." ],
+        "auinit" : [ "V" ],
+        "au" : [ "Edwards, Victor." ],
+        "addau" : [ "Shelley, Suzanne." ],
+        "creatorfull" : [ "$$NEdwards, Victor.$$LEdwards$$FVictor.$$Rauthor" ],
+        "contributorfull" : [ "$$NShelley, Suzanne.$$LShelley$$FSuzanne.$$Rcontributor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9780429888168", "0429888163", "9780429468599", "0429468598", "9780429888151", "0429888155", "9780429888144", "0429888147", "9780815380863" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "The scope of opportunities in chemical and biomolecular engineering has grown tremendously in recent years. Careers in Chemical and Biomolecular Engineering conveys the breadth and depth of today's chemical and biomolecular engineering practice, and describes the intellectually enriching, socially conscious and financially lucrative opportunities available for such graduates in an ever-widening array of industries and applications. This book aims to help students interested in studying chemical engineering and biomolecular engineering to understand the many potential career pathways that are available in these dynamic fields -- and is an indispensable resource for the parents, teachers, advisors and guidance counselors who support them, In addition to 10 chapters that discuss the roles such graduates play in many diverse industries, this book also features 25 Profile articles that share in-depth, first-person insight from industry-leading chemical and biomolecular engineers. These technical professionals discuss their work and educational experiences (in terms of both triumphs and challenges), and share wisdom and recommendations for students pursuing these two dynamic engineering disciplines." ],
+        "cop" : [ "Milton" ],
+        "pub" : [ "Chapman and Hall/CRC" ],
+        "oclcid" : [ "(ocolc)1048923663" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Careers in Chemical and Biomolecular Engineering." ]
+      },
+      "sort" : {
+        "title" : [ "Careers in Chemical and Biomolecular Engineering." ],
+        "author" : [ "Edwards, Victor." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064776670107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064776670107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990064776670107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0429888163,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tp\"186",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "488",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "99",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "57",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "84",
+    "RETRIVE_FROM_DB_RELATIONS" : "58",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "65",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "791",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 820,
+    "COMBINED_SEARCH_TIME" : 824,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biochemical Engineering Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Chemical Engineering Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Génie Biochimique Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Génie Chimique Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Science Chemistry Industrial Technical",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Chemical Biochemical",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Edwards Victor",
+      "count" : "1"
+    }, {
+      "value" : "Shelley Suzanne",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

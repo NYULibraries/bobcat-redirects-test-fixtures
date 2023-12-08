@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990020524710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Anti-slavery reporter (London, England : 1846)" ],
+        "subject" : [ "Slavery$$QSlavery -- Periodicals" ],
+        "format" : [ "58 v. : ill. ; 23-34 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)34460324" ],
+        "creationdate" : [ "1846-1909" ],
+        "publisher" : [ "London : The Society", "New ser. v. 1, no. 1 (Jan. 1, 1846)-new ser., v. 7, no. 82 (Oct. 1, 1852);new ser., v. 1, no. 1 (Jan. 1, 1853)-v. 22, no. 6 (Dec. 23, 1880); ser. 4, v. 1, no. 1 (Jan. 19, 1881)-ser. 4, v. 29, no. 2 (Mar.-May 1909)." ],
+        "description" : [ "New ser., vols. 3-8 (1855-1860) include the 16th-21st annual reports of the British and Foreign Anti-slavery Society. The 22nd-24th annual reports are appended to v. 9-11 (1861-1763)" ],
+        "mms" : [ "990020524710107871" ],
+        "contributor" : [ "British and Foreign Anti-slavery Society.$$QBritish and Foreign Anti-slavery Society." ],
+        "addtitle" : [ "British and foreign anti-slavery reporter 1846-1852" ],
+        "series" : [ "Early British periodicals ; 628-635.$$QEarly British periodicals " ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VBritish and foreign anti-slavery reporter$$QBritish and foreign anti-slavery reporter", "$$Cform$$VAnti-slavery reporter (London, England : 1846)$$QAnti-slavery reporter (London, England : 1846)", "$$Clater_title$$VAborigines' friend$$QAborigines' friend", "$$Clater_title$$VAnti-slavery reporter and aborigines' friend$$QAnti-slavery reporter and aborigines' friend", "$$Cmain_series$$VEarly British periodicals$$QEarly British periodicals" ],
+        "unititle" : [ "Anti-slavery reporter (London, England : 1846)" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002052471" ],
+        "lds53" : [ "002052471" ],
+        "lds60" : [ "Title from caption.", "Vol. t.p. for 1846-1852 read: the British and foreign anti-slavery reporter." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990020524710107871" ],
+        "recordid" : [ "alma990020524710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002052471-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "British and foreign anti-slavery reporter" ],
+        "date" : [ "1846 - 1909", "1846-1909" ],
+        "abstract" : [ "New ser., vols. 3-8 (1855-1860) include the 16th-21st annual reports of the British and Foreign Anti-slavery Society. The 22nd-24th annual reports are appended to v. 9-11 (1861-1763)" ],
+        "cop" : [ "London" ],
+        "pub" : [ "The Society" ],
+        "oclcid" : [ "(ocolc)34460324" ],
+        "seriestitle" : [ "Early British periodicals ; 628-635." ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Anti-slavery reporter (London, England : 1846)" ]
+      },
+      "sort" : {
+        "title" : [ "Anti-slavery reporter (London, England : 1846)" ],
+        "author" : [ "British and Foreign Anti-slavery Society." ],
+        "creationdate" : [ "1846" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990020524710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:34460324,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000001/000000000022/000000000093t",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "63",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "52",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "35",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "17",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "45",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "266",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 300,
+    "COMBINED_SEARCH_TIME" : 303,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1846",
+      "count" : "1"
+    }, {
+      "value" : "1909",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Slavery Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "British And Foreign Anti Slavery Society",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

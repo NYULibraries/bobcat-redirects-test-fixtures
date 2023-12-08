@@ -1,0 +1,212 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990003651880107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "spa" ],
+        "title" : [ "Recueil des actes administratifs et d'information de la Préfecture." ],
+        "subject" : [ "Administrative law -- Guadeloupe$$QAdministrative law -- Guadeloupe -- Periodicals", "Guadeloupe -- Politics and government$$QGuadeloupe -- Politics and government -- Periodicals" ],
+        "format" : [ "v. ; 29 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1455287" ],
+        "creationdate" : [ "1947" ],
+        "creator" : [ "Guadeloupe.$$QGuadeloupe." ],
+        "publisher" : [ "Basse-Terre.", "1.- année; 18 Oct., 1947-" ],
+        "mms" : [ "990003651880107871" ],
+        "contributor" : [ "Guadeloupe (Region). Direction de l'administration générale et de la réglementation.$$QGuadeloupe (Region). Direction de l'administration générale et de la réglementation.", "Guadeloupe (Region). Préfecture. Secrétariat général.$$QGuadeloupe (Region). Préfecture. Secrétariat général." ],
+        "addtitle" : [ "Issues from <1985-> have title Recueil des actes administratifs", "Issues from <1986-> have title Recueil des actes administratifs de la Préfecture de la région Guadeloupe" ],
+        "frequency" : [ "Bimonthly <1985->" ],
+        "genre" : [ "Periodicals" ],
+        "unititle" : [ "Actes administratifs" ],
+        "place" : [ "Basse-Terre." ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000365188" ],
+        "lds53" : [ "000365188" ],
+        "lds60" : [ "At head of title: République française.", "Originals in the files of the Archives of Guadeloupe, F.W.I.", "Latest issue consulted: Dec. 25, 1985." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990003651880107871" ],
+        "recordid" : [ "alma990003651880107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000365188-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "Guadeloupe." ],
+        "addtitle" : [ "Recueil des actes administratifs", "Recueil des actes administratifs de la Préfecture de la région Guadeloupe" ],
+        "date" : [ "1947" ],
+        "cop" : [ "Basse-Terre" ],
+        "oclcid" : [ "(ocolc)1455287" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Recueil des actes administratifs et d'information de la Préfecture." ]
+      },
+      "sort" : {
+        "title" : [ "Recueil des actes administratifs et d'information de la Préfecture." ],
+        "author" : [ "Guadeloupe." ],
+        "creationdate" : [ "1947" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003651880107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1455287,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "297",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 321,
+    "COMBINED_SEARCH_TIME" : 323,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1947",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Administrative Law Guadeloupe Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Guadeloupe Politics And Government Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Guadeloupe",
+      "count" : "1"
+    }, {
+      "value" : "Guadeloupe Region Direction De Ladministration Générale Et De La Réglementation",
+      "count" : "1"
+    }, {
+      "value" : "Guadeloupe Region Préfecture Secrétariat Général",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

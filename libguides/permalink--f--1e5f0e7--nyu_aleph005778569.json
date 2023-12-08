@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990057785690107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The old Shanghai A-Z " ],
+        "subject" : [ "Shanghai (China) -- History", "Streets -- China -- Shanghai -- History", "Rues -- Chine -- Shanghai -- Histoire", "HISTORY -- Asia -- China", "Streets", "China -- Shanghai" ],
+        "format" : [ "1 online resource (252 pages) : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9789882208056;$$CISBN$$V9882208053;$$COCLC$$V(OCoLC)743276062" ],
+        "creationdate" : [ "2010" ],
+        "creator" : [ "French, Paul, 1966-$$QFrench, Paul" ],
+        "publisher" : [ "Aberdeen, Hong Kong : Hong Kong University Press" ],
+        "description" : [ "Provides an anecdotal guide to every street in Shanghai, detailing many landmarks and stories associated with its best-known avenues." ],
+        "mms" : [ "990057785690107871" ],
+        "contents" : [ "How to use this book -- Road names index : past to present -- Road names index : present to past -- The flag and seal of the Shanghai municipality -- Road names as history and politics -- The boundaries -- Building Shanghai's roads -- The name changing begins -- International settlement A-Z -- The French concession A-Z -- The external roads area A-Z -- Glossary -- Useful contemporary guidebooks -- Suggested further reading on Old Shanghai -- Acknowledgements and credits -- The author." ],
+        "genre" : [ "History" ],
+        "place" : [ "Aberdeen, Hong Kong :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "jstoreba", "aleph005778569" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990057785690107871" ],
+        "recordid" : [ "alma990057785690107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005778569-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "French" ],
+        "aufirst" : [ "Paul" ],
+        "auinit" : [ "P" ],
+        "au" : [ "French, Paul" ],
+        "creatorfull" : [ "$$NFrench, Paul$$LFrench$$FPaul$$Rauthor" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9789882208056", "9882208053" ],
+        "abstract" : [ "Provides an anecdotal guide to every street in Shanghai, detailing many landmarks and stories associated with its best-known avenues." ],
+        "cop" : [ "Aberdeen, Hong Kong" ],
+        "pub" : [ "Hong Kong University Press" ],
+        "oclcid" : [ "(ocolc)743276062" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The old Shanghai A-Z" ]
+      },
+      "sort" : {
+        "title" : [ "old Shanghai A-Z /" ],
+        "author" : [ "French, Paul, 1966-" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057785690107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057785690107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057785690107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057785690107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057785690107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9882208053,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ds\"796 s257",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "278",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "253",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "73",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "156",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "97",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "745",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 783,
+    "COMBINED_SEARCH_TIME" : 785,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China Shanghai",
+      "count" : "1"
+    }, {
+      "value" : "History Asia China",
+      "count" : "1"
+    }, {
+      "value" : "Rues Chine Shanghai Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Shanghai China History",
+      "count" : "1"
+    }, {
+      "value" : "Streets",
+      "count" : "1"
+    }, {
+      "value" : "Streets China Shanghai History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "French Paul",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

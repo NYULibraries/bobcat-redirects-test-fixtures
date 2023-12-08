@@ -1,0 +1,246 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990063678020107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Manual for survival : a Chernobyl guide to the future " ],
+        "subject" : [ "Chernobyl Nuclear Accident (Chornobylʹ, Ukraine : 1986)", "Radioactive pollution -- Ukraine", "Chernobyl Nuclear Accident, Chornobylʹ, Ukraine, 1986 -- Environmental aspects", "Chernobyl Nuclear Accident, Chornobylʹ, Ukraine, 1986 -- Political aspects", "Buddhism and politics", "Ionizing radiation -- Health aspects", "Radioactive pollution", "Ukraine", "Ukraine -- Chornobylʹ", "TECHNOLOGY & ENGINEERING / Environmental / General", "1986" ],
+        "format" : [ "420 pages : map ; 25 cm" ],
+        "identifier" : [ "$$CLC$$V2018052642;$$CISBN$$V9780393652512;$$CISBN$$V0393652513;$$COCLC$$V(OCoLC)1037807440" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Brown, Kate (Kathryn L.), author.$$QBrown, Kate" ],
+        "publisher" : [ "New York : W.W. Norton & Company" ],
+        "description" : [ "\"A chilling exposé of the international effort to minimize the health and environmental consequences of nuclear radiation in the wake of Chernobyl. Governments and journalists tell us that though Chernobyl was \"the worst nuclear disaster in history,\" a reassuringly small number of people died (44), and nature recovered. Yet, drawing on a decade of fine-grained archival research and interviews in Ukraine, Russia, and Belarus, Kate Brown uncovers a much more disturbing story--one in which radioactive isotypes caused hundreds of thousands of casualties. Scores of Soviet scientists, bureaucrats, and civilians documented stunning increases in cases of birth defects, child mortality, cancers, and a multitude of prosaic diseases, which they linked to Chernobyl. Worried that this evidence would blow the lid on the effects of massive radiation release from weapons testing during the Cold War, international scientists and diplomats tried to bury or discredit it. A haunting revelation of how political exigencies shape responses to disaster, Manual for Survival makes clear the irreversible impact on every living thing not just from Chernobyl, but from eight decades of radiation from nuclear energy and weaponry.\"-- Provided by publisher." ],
+        "mms" : [ "990063678020107871" ],
+        "addtitle" : [ "Chernobyl guide to the future" ],
+        "edition" : [ "First edition." ],
+        "contents" : [ "Introduction: The survivor's manual -- The accident -- Hot survival -- Man-made nature -- Post-apocalypse politics -- Medical mysteries -- Science across the Iron Curtain -- Survival artists -- Conclusion: Berry picking into the future." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006367802" ],
+        "lds53" : [ "006367802" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990063678020107871" ],
+        "recordid" : [ "alma990063678020107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006367802-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brown" ],
+        "aufirst" : [ "Kate" ],
+        "auinit" : [ "K" ],
+        "au" : [ "Brown, Kate (Kathryn L.)" ],
+        "creatorfull" : [ "$$NBrown, Kate (Kathryn L.)$$LBrown$$FKate$$Rauthor" ],
+        "addtitle" : [ "Chernobyl guide to the future" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9780393652512", "0393652513" ],
+        "notes" : [ "Includes bibliographical references (pages [323]-398) and index." ],
+        "abstract" : [ "\"A chilling exposé of the international effort to minimize the health and environmental consequences of nuclear radiation in the wake of Chernobyl. Governments and journalists tell us that though Chernobyl was \"the worst nuclear disaster in history,\" a reassuringly small number of people died (44), and nature recovered. Yet, drawing on a decade of fine-grained archival research and interviews in Ukraine, Russia, and Belarus, Kate Brown uncovers a much more disturbing story--one in which radioactive isotypes caused hundreds of thousands of casualties. Scores of Soviet scientists, bureaucrats, and civilians documented stunning increases in cases of birth defects, child mortality, cancers, and a multitude of prosaic diseases, which they linked to Chernobyl. Worried that this evidence would blow the lid on the effects of massive radiation release from weapons testing during the Cold War, international scientists and diplomats tried to bury or discredit it. A haunting revelation of how political exigencies shape responses to disaster, Manual for Survival makes clear the irreversible impact on every living thing not just from Chernobyl, but from eight decades of radiation from nuclear energy and weaponry.\"-- Provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "W.W. Norton & Company" ],
+        "oclcid" : [ "(ocolc)1037807440" ],
+        "lccn" : [ "2018052642" ],
+        "edition" : [ "First edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Manual for survival : a Chernobyl guide to the future" ]
+      },
+      "sort" : {
+        "title" : [ "Manual for survival : a Chernobyl guide to the future /" ],
+        "author" : [ "Brown, Kate (Kathryn L.), author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990063678020107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0393652513,OCLC:,LCCN:2018052642&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "td\"196 r3ǂb785 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "92",
+    "CALL_SOLR_GET_IDS_LIST" : "68",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "93",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "90",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "387",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 416,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1986",
+      "count" : "1"
+    }, {
+      "value" : "Buddhism And Politics",
+      "count" : "1"
+    }, {
+      "value" : "Chernobyl Nuclear Accident Chornobylʹ Ukraine 1986",
+      "count" : "1"
+    }, {
+      "value" : "Chernobyl Nuclear Accident Chornobylʹ Ukraine 1986 Environmental Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Chernobyl Nuclear Accident Chornobylʹ Ukraine 1986 Political Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Ionizing Radiation Health Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Radioactive Pollution",
+      "count" : "1"
+    }, {
+      "value" : "Radioactive Pollution Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Environmental General",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Chornobylʹ",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brown Kate",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,250 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995640055307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "spa" ],
+        "title" : [ "ILLAPA (Lima, Peru)" ],
+        "subject" : [ "Art, Peruvian$$QArt, Peruvian -- Periodicals", "Museums -- Peru$$QMuseums -- Peru -- Periodicals", "Art, Peruvian", "Museums", "Peru" ],
+        "format" : [ "1 online resource (volumes) : illustrations" ],
+        "identifier" : [ "$$CLC$$V  2021240731;$$CISSN$$V2519-5034;$$COCLC$$V(OCoLC)1165101247;$$CISSN$$V1813-8195" ],
+        "creationdate" : [ "2004" ],
+        "publisher" : [ "Lima, Perú : Universidad Ricardo Palma, Instituto de Investigaciónes Museológicas y Artísticas", "Began with Año 1, no. 1 (diciembre 2004)." ],
+        "mms" : [ "9995640055307871" ],
+        "contributor" : [ "Universidad Ricardo Palma. Instituto de Investigaciones Museológicas y Artísticas, issuing body.$$QUniversidad Ricardo Palma. Instituto de Investigaciones Museológicas y Artísticas" ],
+        "addtitle" : [ "Instituto de Investigaciones Museológicas y Artísticas de la Universidad Ricardo Palma", "At head of title, dic. 2009: Mana tukukuq", "ILLAPA mana tukukuq" ],
+        "frequency" : [ "Annual" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990005143370107871" ],
+        "unititle" : [ "ILLAPA (Lima, Peru)" ],
+        "place" : [ "Lima, Perú :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000321641" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995640055307871" ],
+        "recordid" : [ "alma9995640055307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000321641" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Instituto de Investigaciones Museológicas y Artísticas de la Universidad Ricardo Palma", "Mana tukukuq", "ILLAPA mana tukukuq" ],
+        "date" : [ "2004" ],
+        "issn" : [ "2519-5034", "1813-8195" ],
+        "cop" : [ "Lima, Perú" ],
+        "pub" : [ "Universidad Ricardo Palma, Instituto de Investigaciónes Museológicas y Artísticas" ],
+        "oclcid" : [ "(ocolc)1165101247" ],
+        "lccn" : [ "2021240731" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "ILLAPA (Lima, Peru)" ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "ILLAPA (Lima, Peru)" ],
+        "author" : [ "Universidad Ricardo Palma. Instituto de Investigaciones Museológicas y Artísticas, issuing body." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640055307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640055307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640055307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640055307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2021240731&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "am!34 p4ǂi45",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "422",
+    "CALL_SOLR_GET_IDS_LIST" : "61",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "187",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "231",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "164",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "23",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "51",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "736",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 765,
+    "COMBINED_SEARCH_TIME" : 769,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Peruvian",
+      "count" : "1"
+    }, {
+      "value" : "Art Peruvian Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Museums",
+      "count" : "1"
+    }, {
+      "value" : "Museums Peru Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Peru",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Universidad Ricardo Palma Instituto De Investigaciones Museológicas Y Artísticas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

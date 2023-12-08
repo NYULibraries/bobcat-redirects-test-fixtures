@@ -1,0 +1,209 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050984370107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Praeger handbook of urban education " ],
+        "subject" : [ "Education, Urban -- United States$$QEducation, Urban -- United States -- Handbooks, manuals, etc", "Enseignement en milieu urbain -- États-Unis$$QEnseignement en milieu urbain -- États-Unis -- Guides, manuels, etc", "EDUCATION -- History", "EDUCATION -- Comparative", "Education, Urban", "United States" ],
+        "format" : [ "1 online resource (2 volumes (xliii, 623 pages))" ],
+        "identifier" : [ "$$CISBN$$V9780313039003;$$CISBN$$V0313039003;$$COCLC$$V(OCoLC)232954752;$$CISBN$$V0313333246;$$CISBN$$V9780313333248" ],
+        "creationdate" : [ "2006" ],
+        "publisher" : [ "Westport, Conn. : Greenwood Press" ],
+        "mms" : [ "990050984370107871" ],
+        "contributor" : [ "Kincheloe, Joe L.$$QKincheloe, Joe L." ],
+        "addtitle" : [ "Handbook of urban education" ],
+        "contents" : [ "v. 1. Introduction: The power of hope in the trenches -- THE CONTEXT OF URBAN EDUCATION: No child left behind and urban education: the purpose and funding of public education -- The militarized zone -- Big cities, small schools: redefining educational spaces in the urban context -- The significance of urban street vendors -- Why should urban educators care about community organizing to reform schools? -- RACE/ETHNICITY AND URBAN EDUCATION: A sociological critique of meaningful differences: a functional approach to the parenting style of low-income African American families -- Black women activists, leaders, and educators; transforming urban educational practice -- Dilemmas confronting urban principals in the post-civil rights era -- Bring in da noise, bring in Du Bois: infusing an African-American educational ideology into the urban education discourse -- Race, class, and gender in urban education: exploring the critical research in urban pedagogy and school reform -- Whiteness in teacher education -- Should the Holocaust be taught in urban schools? -- Rethinking the White Man's Burden: identity and pedagogy for an inter-city student teacher -- African-American teachers: the dying group -- SOCIAL JUSTICE: Participatory democratic education: is the utopia possible? Porto Alegre's Citizen School Project -- TEACHING AND PEDAGOGY: Identity as dialectic: Re/Making self in urban schooling -- The professional development of teachers of science in urban schools: issues and challenges -- Contemplative urban education -- Conflict resolution strategies for inter-city youth -- One day at a time: substitute teaching in urban schools -- Developing scholar-practitioner leaders in the urban education in crisis -- Voice, access, and democratic participation: toward a transformational paradigm of parent involvement in urban education -- Rewriting the curriculum for urban teacher preparation -- Rethinking the curriculum for urban teacher preparation -- The testing movement and urban education -- Forming a circle: creating a learning community for urban commuting adult students in an interdisciplinary studies program -- Tolerance with children: a critique of zero tolerance in school discipline -- Literacy in urban education: problems and promises -- Complicating our identities as urban teachers: a co/autoethnography -- Democratic urban education : imagining possibilities -- Critical theory, voice, and urban education -- The need for free play in natural settings -- Any given Saturday -- People leaves and Charley Horses: the dichtomous definition of urban education -- Exploring urban landscapes: a postmodern approach to learning -- v. 2. POWER AND URBAN EDUCATION: Global capitalism and urban education -- Toward an anticolonial education -- Education in a globalized society: over five centuries, the colonial struggle continues -- Universities, regional policy, and the knowledge economy -- The individual versus the collective in a time of globalization: educational implications -- School finance in urban America -- LANGUAGE AND URBAN EDUCATION: Evaluating programs for English language learners: possibilities for biliteracy in urban school districts in California -- Bilingual-bicultural literacy pedagogies and the politics of Project Head Start -- CULTURAL STUDIES AND URBAN EDUCATION: Hollywood's depiction of urban schools: documentary or fiction? -- The revolutionary praxis of PunKore Street pedagogy -- Civil rights, noble cause, and Trojan horse: news portrayals of vouchers and urban education -- RESEARCH AND URBAN EDUCATION: Utilizing Carino in the development of research methodologies -- Tangling the knot while loosening the strings: examining the limits and possibilities of urban education for African-American males -- Multisited ethnographic approaches in urban education in urban education today -- Objectivity in educational research: the quest for certainty between the 1950s and the 1970s -- AESTHETICS AND URBAN EDUCATION: In the middle: an artist/researcher experiences urban reform -- Aesthetics and urban education: urban learners' affirmation and transformation through arts and human development education -- Aesthetic consciousness and dance curriculum: liberation possibilities for inter-city schools -- Creating connections, shaping community: artists/teachers in urban contexts (urban gypsies) -- Urban art museums and the education of teachers and students -- The arts in urban education -- Cities; contested aesthetic spaces -- EDUCATION POLICY AND URBAN EDUCATION: System-to-system partnership as a reform strategy for urban schools -- Diversity and security challenges for urban school planning and change." ],
+        "genre" : [ "Handbooks, manuals, etc", "Guides, manuels, etc", "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Praeger handbook of urban education. Westport, Conn. : Greenwood Press, 2006$$QPraeger handbook of urban education.$$Z990003240440107871" ],
+        "place" : [ "Westport, Conn. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "aleph005098437" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050984370107871" ],
+        "recordid" : [ "alma990050984370107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005098437-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kincheloe" ],
+        "aufirst" : [ "Joe L." ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Kincheloe, Joe L." ],
+        "contributorfull" : [ "$$NKincheloe, Joe L.$$LKincheloe$$FJoe L.$$Rcontributor" ],
+        "addtitle" : [ "Handbook of urban education" ],
+        "date" : [ "2006" ],
+        "isbn" : [ "9780313039003", "0313039003", "0313333246", "9780313333248" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Westport, Conn" ],
+        "pub" : [ "Greenwood Press" ],
+        "oclcid" : [ "(ocolc)232954752" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Praeger handbook of urban education" ]
+      },
+      "sort" : {
+        "title" : [ "Praeger handbook of urban education /" ],
+        "author" : [ "Kincheloe, Joe L." ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050984370107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0313039003,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lc#5131ǂ p7 2006eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "289",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "9",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "67",
+    "RETRIVE_FROM_DB_RELATIONS" : "65",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "509",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 552,
+    "COMBINED_SEARCH_TIME" : 556,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education Comparative",
+      "count" : "1"
+    }, {
+      "value" : "Education History",
+      "count" : "1"
+    }, {
+      "value" : "Education Urban",
+      "count" : "1"
+    }, {
+      "value" : "Education Urban United States Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Enseignement En Milieu Urbain États Unis Guides Manuels Etc",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kincheloe Joe L",
+      "count" : "1"
+    } ]
+  } ]
+}

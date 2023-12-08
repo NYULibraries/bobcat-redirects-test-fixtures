@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074602850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "An introduction to statistical learning : with applications in R " ],
+        "subject" : [ "Mathematical statistics$$QMathematical statistics -- Problems, exercises, etc", "Mathematical models$$QMathematical models -- Problems, exercises, etc", "Statistik", "R$$QR", "Mathematical models", "Mathematical statistics", "R (Computer program language)", "Statistics" ],
+        "format" : [ "xiv, 426 pages : illustrations (chiefly color) ; 25 cm." ],
+        "identifier" : [ "$$CLC$$V2013936251;$$CISBN$$V9781461471370;$$CISBN$$V1461471370;$$CISBN$$V9781461471387;$$CISBN$$V1461471389;$$COCLC$$V(OCoLC)1004563473" ],
+        "creationdate" : [ "2017" ],
+        "publisher" : [ "New York : Springer : Springer Science+Business Media" ],
+        "description" : [ "\"An Introduction to Statistical Learning provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. Color graphics and real-world examples are used to illustrate the methods presented. Since the goal of this textbook is to facilitate the use of these statistical learning techniques by practitioners in science, industry, and other fields, each chapter contains a tutorial on implementing the analyses and methods presented in R, an extremely popular open source statistical software platform. Two of the authors co-wrote The Elements of Statistical Learning (Hastie, Tibshirani and Friedman, 2nd edition 2009), a popular reference book for statistics and machine learning researchers. An Introduction to Statistical Learning covers many of the same topics, but at a level accessible to a much broader audience. This book is targeted at statisticians and non-statisticians alike who wish to use cutting-edge statistical learning techniques to analyze their data. The text assumes only a previous course in linear regression and no knowledge of matrix algebra. Provides tools for Statistical Learning that are essential for practitioners in science, industry and other fields. Analyses and methods are presented in R. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, and clustering. Extensive use of color graphics assist the reader\"--Publisher description." ],
+        "mms" : [ "990074602850107871" ],
+        "contributor" : [ "James, Gareth (Gareth Michael), author.$$QJames, Gareth", "Witten, Daniela, author.$$QWitten, Daniela", "Hastie, Trevor, author.$$QHastie, Trevor", "Tibshirani, Robert, author.$$QTibshirani, Robert" ],
+        "addtitle" : [ "Statistical learning" ],
+        "edition" : [ "Corrected at 8th printing 2017." ],
+        "series" : [ "Springer texts in statistics$$QSpringer texts in statistics", "Springer texts in statistics.$$QSpringer texts in statistics." ],
+        "contents" : [ "Introduction -- Statistical learning -- Linear regression -- Classification -- Resampling methods -- Linear model selection and regularization -- Moving beyond linearity -- Tree-based methods -- Support vector machines -- Unsupervised learning." ],
+        "genre" : [ "Problems, exercises, etc", "Problems and exercises" ],
+        "relation" : [ "$$Cform$$VAn introduction to statistical learning : with applications in R$$Z990046555210107871", "$$Cform$$VAn Introduction to Statistical Learning with Applications in R$$Z9995677751807871" ],
+        "mesh" : [ "Models, Statistical", "Statistics as Topic" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007460285" ],
+        "lds53" : [ "007460285" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074602850107871" ],
+        "recordid" : [ "alma990074602850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007460285-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "James", "Witten", "Hastie", "Tibshirani" ],
+        "aufirst" : [ "Gareth", "Daniela", "Trevor", "Robert" ],
+        "auinit" : [ "G", "D", "T", "R" ],
+        "addau" : [ "James, Gareth (Gareth Michael)", "Witten, Daniela", "Hastie, Trevor", "Tibshirani, Robert" ],
+        "contributorfull" : [ "$$NJames, Gareth (Gareth Michael)$$LJames$$FGareth$$Rcontributor", "$$NWitten, Daniela$$Rcontributor", "$$NHastie, Trevor$$Rcontributor", "$$NTibshirani, Robert$$Rcontributor" ],
+        "addtitle" : [ "Statistical learning" ],
+        "date" : [ "2017 - 2013", "2017" ],
+        "isbn" : [ "9781461471370", "1461471370", "9781461471387", "1461471389" ],
+        "notes" : [ "Includes index." ],
+        "abstract" : [ "\"An Introduction to Statistical Learning provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. Color graphics and real-world examples are used to illustrate the methods presented. Since the goal of this textbook is to facilitate the use of these statistical learning techniques by practitioners in science, industry, and other fields, each chapter contains a tutorial on implementing the analyses and methods presented in R, an extremely popular open source statistical software platform. Two of the authors co-wrote The Elements of Statistical Learning (Hastie, Tibshirani and Friedman, 2nd edition 2009), a popular reference book for statistics and machine learning researchers. An Introduction to Statistical Learning covers many of the same topics, but at a level accessible to a much broader audience. This book is targeted at statisticians and non-statisticians alike who wish to use cutting-edge statistical learning techniques to analyze their data. The text assumes only a previous course in linear regression and no knowledge of matrix algebra. Provides tools for Statistical Learning that are essential for practitioners in science, industry and other fields. Analyses and methods are presented in R. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, and clustering. Extensive use of color graphics assist the reader\"--Publisher description." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1004563473" ],
+        "lccn" : [ "2013936251" ],
+        "edition" : [ "Corrected at 8th printing 2017." ],
+        "seriestitle" : [ "Springer texts in statistics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "An introduction to statistical learning : with applications in R" ]
+      },
+      "sort" : {
+        "title" : [ "introduction to statistical learning : with applications in R /" ],
+        "author" : [ "James, Gareth (Gareth Michael), author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074602850107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1461471370,OCLC:,LCCN:2013936251&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"276ǂ i58 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "628",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "70",
+    "RETRIVE_FROM_DB_RELATIONS" : "141",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "854",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 882,
+    "COMBINED_SEARCH_TIME" : 885,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    }, {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mathematical Models",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Models Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Models Statistical",
+      "count" : "1"
+    }, {
+      "value" : "R",
+      "count" : "1"
+    }, {
+      "value" : "R Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Statistics As Topic",
+      "count" : "1"
+    }, {
+      "value" : "Statistik",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hastie Trevor",
+      "count" : "1"
+    }, {
+      "value" : "James Gareth",
+      "count" : "1"
+    }, {
+      "value" : "Tibshirani Robert",
+      "count" : "1"
+    }, {
+      "value" : "Witten Daniela",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    } ]
+  } ]
+}

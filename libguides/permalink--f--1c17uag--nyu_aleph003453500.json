@@ -1,0 +1,270 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990034535000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A history of African American theatre " ],
+        "subject" : [ "African American theater -- History -- 19th century", "African American theater -- History -- 20th century", "American drama -- African American authors -- History and criticism", "African Americans in the performing arts", "Theater", "Schwarze", "USA", "Geschichte" ],
+        "format" : [ "xxiv, 608 : ill., ports. ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V2006296207;$$CISBN$$V9780521624725 (pbk.);$$CISBN$$V052162472X (pbk.);$$COCLC$$V(OCoLC)62265932" ],
+        "creationdate" : [ "2005" ],
+        "creator" : [ "Hill, Errol.$$QHill, Errol." ],
+        "publisher" : [ "Cambridge, UK ; New York : Cambridge University Press" ],
+        "mms" : [ "990034535000107871" ],
+        "contributor" : [ "Hatch, James Vernon, 1928-$$QHatch, James Vernon" ],
+        "edition" : [ "1st pbk. ed." ],
+        "series" : [ "Cambridge studies in American theatre and drama ; 18$$QCambridge studies in American theatre and drama ", "Cambridge studies in American theatre and drama ; 18.$$QCambridge studies in American theatre and drama " ],
+        "contents" : [ "1. Slavery and conquest : background to black theatre -- 2. The African theatre to 'Uncle Tom's cabin' -- 3. The Civil War to 'The creole show' -- 4. American minstrelsy in black and white -- 5. New vistas : plays, spectacles, musicals, and opera -- 6. The struggle continues -- 7. The Harlem renaissance -- 8. Educational theatre -- 9. The Caribbean connection -- 10. The Great Depression and federal theatre -- 11. Creeping toward integration -- 12. From Hansberry to Shange -- 13. The millennium." ],
+        "place" : [ "Cambridge, UK ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003453500" ],
+        "lds53" : [ "003453500" ],
+        "lds60" : [ "Originally published : 2003." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990034535000107871" ],
+        "recordid" : [ "alma990034535000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003453500-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hill" ],
+        "aufirst" : [ "Errol." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Hill, Errol." ],
+        "addau" : [ "Hatch, James Vernon" ],
+        "creatorfull" : [ "$$NHill, Errol.$$LHill$$FErrol.$$Rauthor" ],
+        "contributorfull" : [ "$$NHatch, James Vernon$$LHatch$$FJames Vernon$$Rcontributor" ],
+        "date" : [ "2005 - 2003", "2005" ],
+        "isbn" : [ "9780521624725", "052162472X" ],
+        "notes" : [ "Includes bibliographical references (p. 547-564) and index." ],
+        "cop" : [ "Cambridge, UK ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)62265932" ],
+        "lccn" : [ "2006296207" ],
+        "edition" : [ "1st pbk. ed." ],
+        "seriestitle" : [ "Cambridge studies in American theatre and drama ; 18" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A history of African American theatre" ]
+      },
+      "sort" : {
+        "title" : [ "history of African American theatre /" ],
+        "author" : [ "Hill, Errol." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034535000107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:052162472X,OCLC:,LCCN:2006296207&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/enhancements/fy0732/2006296207-b.html",
+        "displayLabel" : "Contributor biographical information"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/description/cam031/2002034991.html",
+        "displayLabel" : "Publisher description"
+      }, {
+        "@id" : ":_3",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/enhancements/fy0665/2006296207-d.html",
+        "displayLabel" : "Publisher description"
+      }, {
+        "@id" : ":_4",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/enhancements/fy0665/2006296207-t.html",
+        "displayLabel" : "Table of contents only"
+      }, {
+        "@id" : ":_5",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/toc/cam031/2002034991.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2270 a35ǂh55 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "134",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "45",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "55",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "127",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "433",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 462,
+    "COMBINED_SEARCH_TIME" : 465,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    }, {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Theater History 19th Century",
+      "count" : "1"
+    }, {
+      "value" : "African American Theater History 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "African Americans In The Performing Arts",
+      "count" : "1"
+    }, {
+      "value" : "American Drama African American Authors History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Geschichte",
+      "count" : "1"
+    }, {
+      "value" : "Schwarze",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Usa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hatch James Vernon",
+      "count" : "1"
+    }, {
+      "value" : "Hill Errol",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

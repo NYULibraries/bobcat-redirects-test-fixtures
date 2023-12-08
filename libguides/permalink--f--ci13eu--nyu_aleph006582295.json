@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990065822950107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Black female vampires in African American women's novels, 1977-2011 : she bites back " ],
+        "subject" : [ "American fiction -- Women authors -- History and criticism", "American fiction -- 20th century -- History and criticism", "American fiction -- 21st century -- History and criticism", "Roman américain -- 20e siècle -- Histoire et critique", "Roman américain -- 21e siècle -- Histoire et critique", "Vampires dans la littérature", "LITERARY CRITICISM -- American -- General", "African American women in literature", "American fiction", "American fiction -- Women authors", "Vampires in literature", "1900-2099" ],
+        "format" : [ "1 online resource (xli, 145 pages)" ],
+        "identifier" : [ "$$CLC$$V2018047332;$$CISBN$$V1498553184;$$CISBN$$V9781498553186;$$COCLC$$V(OCoLC)1056201761;$$CISBN$$V9781498553179" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Parker, Kendra R., author.$$QParker, Kendra R." ],
+        "publisher" : [ "Lanham, Maryland : Lexington Books, an imprint of The Rowman & Littlefield Publishing Group, Inc." ],
+        "description" : [ "This book critically situates the figure of the black female vampire within literary studies, cultural studies, gender studies, and critical race studies. It invites readers to take a closer look at the black female vampire figure and how that figure shapes and is shaped by cultural narratives about African American womanhood." ],
+        "mms" : [ "990065822950107871" ],
+        "contents" : [ "Introduction: the first bite -- \"I'm not the vampire he is; I give in return for my taking\": the black female vampire figure in Octavia E. Butler's Mind of my mind -- Jewelle Gomez's The Gilda stories: black female vampire as a new American monomyth -- Intersectional disempowerment and know-your-place aggression: a vindication of the rights of Anita Hill in Octavia E. Butler's Fledgling? -- \"She's not turning. she's in flux\": the ability/disability system in l.A. Banks's The bitten -- Rehabilitative logic: sex work, procreation, and vampires in Pearl Cleage's Just wanna testify -- Afterword: the final bite." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Parker, Kendra R. Black female vampires in African American women's novels, 1977-2011. Lanham : Lexington Books, 2018$$QBlack female vampires in African American women's novels, 1977-2011." ],
+        "place" : [ "Lanham, Maryland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph006582295" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990065822950107871" ],
+        "recordid" : [ "alma990065822950107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006582295-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Parker" ],
+        "aufirst" : [ "Kendra R." ],
+        "auinit" : [ "K" ],
+        "au" : [ "Parker, Kendra R." ],
+        "creatorfull" : [ "$$NParker, Kendra R.$$LParker$$FKendra R.$$Rauthor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "1498553184", "9781498553186", "9781498553179" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "This book critically situates the figure of the black female vampire within literary studies, cultural studies, gender studies, and critical race studies. It invites readers to take a closer look at the black female vampire figure and how that figure shapes and is shaped by cultural narratives about African American womanhood." ],
+        "cop" : [ "Lanham, Maryland" ],
+        "pub" : [ "Lexington Books, an imprint of The Rowman & Littlefield Publishing Group, Inc." ],
+        "oclcid" : [ "(ocolc)1056201761" ],
+        "lccn" : [ "2018047332" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Black female vampires in African American women's novels, 1977-2011 : she bites back" ]
+      },
+      "sort" : {
+        "title" : [ "Black female vampires in African American women's novels, 1977-2011 : she bites back /" ],
+        "author" : [ "Parker, Kendra R., author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065822950107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065822950107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990065822950107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781498553186,OCLC:,LCCN:2018047332&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps\"374 v35ǂp37 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "80",
+    "CALL_SOLR_GET_IDS_LIST" : "114",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "56",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "326",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 362,
+    "COMBINED_SEARCH_TIME" : 364,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 2099",
+      "count" : "1"
+    }, {
+      "value" : "African American Women In Literature",
+      "count" : "1"
+    }, {
+      "value" : "American Fiction",
+      "count" : "1"
+    }, {
+      "value" : "American Fiction 20th Century History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "American Fiction 21st Century History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "American Fiction Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "American Fiction Women Authors History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism American General",
+      "count" : "1"
+    }, {
+      "value" : "Roman Américain 20e Siècle Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Roman Américain 21e Siècle Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Vampires Dans La Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Vampires In Literature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Parker Kendra R",
+      "count" : "1"
+    } ]
+  } ]
+}

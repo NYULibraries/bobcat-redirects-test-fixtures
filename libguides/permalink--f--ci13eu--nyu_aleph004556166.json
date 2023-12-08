@@ -1,0 +1,252 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045561660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Shakespeare and the materiality of performance " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Stage history -- To 1625", "Shakespeare, William, 1564-1616 -- Stage history -- England -- London", "Shakespeare, William, 1564-1616", "Shakespeare, William 1564-1616", "Shakespeare, William, 1564-1616 -- Dramatic production", "Theater audiences -- England -- London -- History -- 16th century", "Theater audiences -- England -- London -- History -- 17th century", "Theater and society -- England -- History -- 16th century", "Theater and society -- England -- History -- 17th century", "Théâtre -- Publics -- Angleterre -- Londres -- Histoire -- 16e siècle", "Théâtre -- Publics -- Angleterre -- Londres -- Histoire -- 17e siècle", "Théâtre et société -- Angleterre -- Histoire -- 16e siècle", "Théâtre et société -- Angleterre -- Histoire -- 17e siècle", "Theatre studies -- c 1600 to c 1700", "Shakespeare studies & criticism -- c 1600 to c 1700", "PERFORMING ARTS -- Theater -- History & Criticism", "Performing Arts", "Theater and society", "Theater audiences", "England", "England -- London", "Drama", "Inszenierung", "Theatre and society -- England -- 16th century", "Theatre and society -- England -- 17th century", "To 1699" ],
+        "format" : [ "1 online resource", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9781137006509;$$CISBN$$V1137006501;$$CISBN$$V6613954268;$$CISBN$$V9786613954268;$$CISBN$$V1283641763;$$CISBN$$V9781283641760;$$COCLC$$V(OCoLC)812516100;$$CISBN$$V9781137001061" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "Lin, Erika T., 1972-$$QLin, Erika T." ],
+        "publisher" : [ "New York, NY : Palgrave Macmillan" ],
+        "description" : [ "Many unspoken assumptions permeated the experience of performance in Shakespeare's theatre. Drawing on scientific treatises, murder pamphlets, travel narratives, dream manuals, religious sermons, festive sports, and other fascinating primary sources, Lin reconstructs playgoers' typical ways of thinking and feeling and demonstrates how these culturally-trained habits of mind shaped not only dramatic narratives but also the presentational dynamics of onstage action. Combining literary criticism, theatre history, and performance theory, this ground-breaking study explodes received ideas about mimesis, spectacle, and semiotics as it uncovers the ways in which early modern performance functioned as a material medium, revising and producing social attitudes and practices." ],
+        "mms" : [ "990045561660107871" ],
+        "contents" : [ "Performance effects. Introduction: materializing the immaterial -- Theorizing theatrical privilege: rethinking Weimann's concepts of Locus and Platea -- Theatrical ways of knowing. Staging sight: visual paradigms and perceptual strategies in Love's labor's lost -- Imaginary forces: allegory, mimesis, and audience interpretation in The Spanish tragedy -- Experiencing embodied spectacle. Dancing and other delights: spectacle and participation in Doctor Faustus and Macbeth -- Artful sport: violence, dismemberment, and games in Titus Andronicus, Cymbeline, and Doctor Faustus." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Lin, Erika T., 1972- Shakespeare and the materiality of performance. New York, NY : Palgrave Macmillan, 2012$$QShakespeare and the materiality of performance.$$Z990036787580107871" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004556166" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045561660107871" ],
+        "recordid" : [ "alma990045561660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004556166-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lin" ],
+        "aufirst" : [ "Erika T." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Lin, Erika T." ],
+        "creatorfull" : [ "$$NLin, Erika T.$$LLin$$FErika T.$$Rauthor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781137006509", "1137006501", "6613954268", "9786613954268", "1283641763", "9781283641760", "9781137001061" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Many unspoken assumptions permeated the experience of performance in Shakespeare's theatre. Drawing on scientific treatises, murder pamphlets, travel narratives, dream manuals, religious sermons, festive sports, and other fascinating primary sources, Lin reconstructs playgoers' typical ways of thinking and feeling and demonstrates how these culturally-trained habits of mind shaped not only dramatic narratives but also the presentational dynamics of onstage action. Combining literary criticism, theatre history, and performance theory, this ground-breaking study explodes received ideas about mimesis, spectacle, and semiotics as it uncovers the ways in which early modern performance functioned as a material medium, revising and producing social attitudes and practices." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)812516100" ],
+        "doi" : [ "10.1057/9781137006509" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Shakespeare and the materiality of performance" ]
+      },
+      "sort" : {
+        "title" : [ "Shakespeare and the materiality of performance /" ],
+        "author" : [ "Lin, Erika T., 1972-" ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045561660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1137006501,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#3095ǂ l56 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "213",
+    "CALL_SOLR_GET_IDS_LIST" : "51",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "7",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "31",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "146",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "449",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 477,
+    "COMBINED_SEARCH_TIME" : 480,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Drama",
+      "count" : "1"
+    }, {
+      "value" : "England",
+      "count" : "1"
+    }, {
+      "value" : "England London",
+      "count" : "1"
+    }, {
+      "value" : "Inszenierung",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater History Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare Studies Criticism C 1600 To C 1700",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Dramatic Production",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Stage History England London",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Stage History To 1625",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Society",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Society England History 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Society England History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theater Audiences",
+      "count" : "1"
+    }, {
+      "value" : "Theater Audiences England London History 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theater Audiences England London History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theatre And Society England 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theatre And Society England 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theatre Studies C 1600 To C 1700",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lin Erika T",
+      "count" : "1"
+    } ]
+  } ]
+}

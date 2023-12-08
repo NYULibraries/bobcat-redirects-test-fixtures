@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074840100107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "zxx" ],
+        "title" : [ "The liberal arts and management education : a global agenda for change " ],
+        "subject" : [ "Enseignement commercial -- Programmes d'études", "Business education -- Curricula", "Humanities -- Study and teaching (Higher)", "Management -- Study and teaching (Higher)" ],
+        "format" : [ "1 online resource (xvii, 224 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781108561839;$$CISBN$$V1108561837;$$COCLC$$V(OCoLC)1140886921;$$CISBN$$V9781108473156" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Harney, Stefano, 1962- author.$$QHarney, Stefano" ],
+        "publisher" : [ "Cambridge : Cambridge University Press" ],
+        "description" : [ "Calling for the transformation of undergraduate education, Thomas and Harney argue that the liberal arts should be integrated into the traditional management curriculum to blend technical and analytic acumen with creativity, critical thinking, and ethical intelligence. In describing their vision for a new liberal management education, the authors demonstrate how a holistic pedagogy that does not sacrifice one wealth of learning for another instead encourages participation and integration to the benefit of students and society. Global in sweep, the book provides case studies of successfully implemented experimental courses in Asia and Britain, as well as a speculative chapter on how an African liberal management education could take shape, based on African-centred principles and histories. Finally, the book argues that the stakes of this agenda go beyond mere curricular reform and pedagogical innovation and speak directly to the environmental, business, political, and social challenges we face today." ],
+        "mms" : [ "990074840100107871" ],
+        "contributor" : [ "Thomas, Howard, 1943- author.$$QThomas, Howard" ],
+        "contents" : [ "Towards a liberal management education : arguing the case -- Implementing liberal management education -- Singapore Management University, a case study -- The School of Business and Management, Queen Mary University of London, a case study -- Forgotten kinships -- Running in the family -- The demotics of management -- From ethics to liberal arts in today's university -- Towards an African management education." ],
+        "relation" : [ "$$Cform$$VPrint version: Thomas, Howard. Liberal Arts and Management Education. Cambridge : Cambridge University Press, ©2020$$QLiberal Arts and Management Education." ],
+        "place" : [ "Cambridge :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "ebceb", "aleph007484010" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074840100107871" ],
+        "recordid" : [ "alma990074840100107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007484010-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Harney" ],
+        "aufirst" : [ "Stefano" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Harney, Stefano" ],
+        "addau" : [ "Thomas, Howard" ],
+        "creatorfull" : [ "$$NHarney, Stefano$$LHarney$$FStefano$$Rauthor" ],
+        "contributorfull" : [ "$$NThomas, Howard$$LThomas$$FHoward$$Rcontributor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9781108561839", "1108561837", "9781108473156" ],
+        "abstract" : [ "Calling for the transformation of undergraduate education, Thomas and Harney argue that the liberal arts should be integrated into the traditional management curriculum to blend technical and analytic acumen with creativity, critical thinking, and ethical intelligence. In describing their vision for a new liberal management education, the authors demonstrate how a holistic pedagogy that does not sacrifice one wealth of learning for another instead encourages participation and integration to the benefit of students and society. Global in sweep, the book provides case studies of successfully implemented experimental courses in Asia and Britain, as well as a speculative chapter on how an African liberal management education could take shape, based on African-centred principles and histories. Finally, the book argues that the stakes of this agenda go beyond mere curricular reform and pedagogical innovation and speak directly to the environmental, business, political, and social challenges we face today." ],
+        "cop" : [ "Cambridge" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)1140886921" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The liberal arts and management education : a global agenda for change" ]
+      },
+      "sort" : {
+        "title" : [ "liberal arts and management education : a global agenda for change /" ],
+        "author" : [ "Harney, Stefano, 1962- author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074840100107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074840100107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074840100107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1108561837,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#1106ǂ h37 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "81",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "53",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "61",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "319",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 342,
+    "COMBINED_SEARCH_TIME" : 345,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "zxx",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Education Curricula",
+      "count" : "1"
+    }, {
+      "value" : "Enseignement Commercial Programmes Détudes",
+      "count" : "1"
+    }, {
+      "value" : "Humanities Study And Teaching Higher",
+      "count" : "1"
+    }, {
+      "value" : "Management Study And Teaching Higher",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Harney Stefano",
+      "count" : "1"
+    }, {
+      "value" : "Thomas Howard",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

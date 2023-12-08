@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038876440107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Theories of globalization " ],
+        "subject" : [ "Globalization" ],
+        "format" : [ "vii, 235 pages ; 26 cm." ],
+        "identifier" : [ "$$CISBN$$V9780745634753 (hbk.);$$CISBN$$V0745634753 (hbk.);$$CISBN$$V9780745634746 (pbk.);$$CISBN$$V0745634745 (pbk.);$$COCLC$$V(OCoLC)827267057" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Axford, Barrie, author.$$QAxford, Barrie" ],
+        "publisher" : [ "Cambridge, UK ; Malden, MA : Polity" ],
+        "description" : [ "\"Theories of Globalization offers students and scholars a comprehensive and critical introduction to the concept of globalization. Barrie Axford expertly guides readers through the full range of perspectives on the topic, from international political economy to geography, global anthropology to cultural and communication studies. In so doing he draws out the common threads between competing theories, as well as pinpointing the problems that challenge our understanding of globalization. Key terms such as 'globalism' and 'globality' are carefully explained and central themes like capitalism, governance, culture and history explored in full. In assessing the contribution made by globalization theory, Axford's account also sheds new light on several crucial current issues. These range from the changing shape of democracy and citizen engagement with governance, to issues surrounding 'just war' and humane intervention, and problems relating to empire and post-colonialism. This wide-ranging and detailed new book will be essential reading for students and scholars of international politics, sociology and any area where the concept of globalization is discussed and disputed.\"-- Publisher's website: http://www.politybooks.com/book.asp?ref=9780745634753" ],
+        "mms" : [ "990038876440107871" ],
+        "contents" : [ "Introduction -- What's in a name? : themes, concepts and obfuscations -- Theorizing globalization : political science and sociology -- Theorizing globalization : geography, anthropology and cultural and communication studies -- Theories of globalization and space -- Theories of globalization and culture -- Theories of globalization and history -- Theories of globalization and governance -- Theories of globalization and capitalism -- All change : critical globalization studies or a social science of globality?" ],
+        "relation" : [ "$$Cform$$VTheories of globalization$$Z990085737470107871", "$$Cform$$VTheories of globalization$$Z9995743465807871" ],
+        "place" : [ "Cambridge, UK ; Malden, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003887644" ],
+        "lds53" : [ "003887644" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038876440107871" ],
+        "recordid" : [ "alma990038876440107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003887644-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Axford" ],
+        "aufirst" : [ "Barrie" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Axford, Barrie" ],
+        "creatorfull" : [ "$$NAxford, Barrie$$LAxford$$FBarrie$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780745634753", "0745634753", "9780745634746", "0745634745" ],
+        "notes" : [ "Includes bibliographical references (pages 191-222) and index." ],
+        "abstract" : [ "\"Theories of Globalization offers students and scholars a comprehensive and critical introduction to the concept of globalization. Barrie Axford expertly guides readers through the full range of perspectives on the topic, from international political economy to geography, global anthropology to cultural and communication studies. In so doing he draws out the common threads between competing theories, as well as pinpointing the problems that challenge our understanding of globalization. Key terms such as 'globalism' and 'globality' are carefully explained and central themes like capitalism, governance, culture and history explored in full. In assessing the contribution made by globalization theory, Axford's account also sheds new light on several crucial current issues. These range from the changing shape of democracy and citizen engagement with governance, to issues surrounding 'just war' and humane intervention, and problems relating to empire and post-colonialism. This wide-ranging and detailed new book will be essential reading for students and scholars of international politics, sociology and any area where the concept of globalization is discussed and disputed.\"-- Publisher's website: http://www.politybooks.com/book.asp?ref=9780745634753" ],
+        "cop" : [ "Cambridge, UK ;" ],
+        "pub" : [ "Polity" ],
+        "oclcid" : [ "(ocolc)827267057" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Theories of globalization" ]
+      },
+      "sort" : {
+        "title" : [ "Theories of globalization /" ],
+        "author" : [ "Axford, Barrie, author." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038876440107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038876440107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0745634753,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jz#1318ǂ a965 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "346",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "87",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "41",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "544",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 579,
+    "COMBINED_SEARCH_TIME" : 581,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Globalization",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Axford Barrie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

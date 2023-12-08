@@ -1,0 +1,231 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995642481307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Leonardo (Oxford, England : Online)" ],
+        "subject" : [ "Art, Modern -- 20th century$$QArt, Modern -- 20th century -- Periodicals", "Art -- 20e siècle$$QArt -- 20e siècle -- Périodiques", "Technology (General)", "Visual Arts", "Art, Modern", "Kunst", "Technologie", "Natuurwetenschappen", "1900-1999" ],
+        "identifier" : [ "$$CLC$$V   00215552;$$CISSN$$V1530-9282;$$COCLC$$V(OCoLC)42897651;$$CISSN$$V0024-094X" ],
+        "creationdate" : [ "1968-" ],
+        "publisher" : [ "Oxford ; New York : Pergamon Press", "Vol. 1, no. 1 (Jan. 1968)-" ],
+        "mms" : [ "9995642481307871" ],
+        "contributor" : [ "International Society for the Arts, Sciences, and Technology.$$QInternational Society for the Arts, Sciences, and Technology." ],
+        "frequency" : [ "Five no. a year, 1991-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990027288070107871", "$$Csupplement$$VLeonardo. Supplemental Issue$$QLeonardo. Supplemental Issue$$Z9995620784607871" ],
+        "unititle" : [ "Leonardo (Oxford, England : Online)" ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925420081" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from title screen (JSTOR, viewed Dec. 7, 2005).", "Imprint varies; published: Cambridge, Mass. : MIT Press, 1993-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995642481307871" ],
+        "recordid" : [ "alma9995642481307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925420081" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Leonardo (Oxf. Engl., Online)" ],
+        "date" : [ "1968", "1968-" ],
+        "issn" : [ "1530-9282", "0024-094X" ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Pergamon Press" ],
+        "oclcid" : [ "(ocolc)42897651" ],
+        "lccn" : [ "00215552", "2001256062" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Leonardo (Oxford, England : Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Leonardo (Oxford, England : Online)" ],
+        "author" : [ "International Society for the Arts, Sciences, and Technology." ],
+        "creationdate" : [ "1968" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642481307871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642481307871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995642481307871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:00215552&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#6490",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "18",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "42",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "6",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "213",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 230,
+    "COMBINED_SEARCH_TIME" : 232,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1968",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "Art 20e Siècle Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Art Modern",
+      "count" : "1"
+    }, {
+      "value" : "Art Modern 20th Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Kunst",
+      "count" : "1"
+    }, {
+      "value" : "Natuurwetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Technologie",
+      "count" : "1"
+    }, {
+      "value" : "Technology General",
+      "count" : "1"
+    }, {
+      "value" : "Visual Arts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "International Society For The Arts Sciences And Technology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

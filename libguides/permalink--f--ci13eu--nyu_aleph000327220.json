@@ -1,0 +1,215 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990003272200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Performing playback theatre a training DVD " ],
+        "subject" : [ "Drama -- Study and teaching", "Improvisation (Acting) -- Study and teaching" ],
+        "format" : [ "1 videodisc (76 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)84144303" ],
+        "creationdate" : [ "c2006" ],
+        "publisher" : [ "New Paltz, NY : Hudson River Playback Theatre" ],
+        "description" : [ "Interactive improvisational theatre from true stories for dialogue, community building, and entertainment presents a training DVD for new students, experienced practitioners, company leaders, trainers, and educators. Includes a complete show filmed live, optional introductory commentary for viewers new to Playback Theatre by founder Jonathan Fox and optional conductor's commentary for experienced practitioners by Hudson River Playback Theatre artistic director Jo Salas." ],
+        "mms" : [ "990003272200107871" ],
+        "contributor" : [ "Fox, Jonathan, 1943-$$QFox, Jonathan", "Salas, Jo.$$QSalas, Jo.", "Hudson River Playback Theatre.$$QHudson River Playback Theatre.", "School of Playback Theatre.$$QSchool of Playback Theatre." ],
+        "place" : [ "New Paltz, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000327220" ],
+        "lds53" : [ "000327220" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990003272200107871" ],
+        "recordid" : [ "alma990003272200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000327220-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Fox", "Salas" ],
+        "aufirst" : [ "Jonathan", "Jo." ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Fox, Jonathan", "Salas, Jo." ],
+        "contributorfull" : [ "$$NFox, Jonathan$$LFox$$FJonathan$$Rcontributor", "$$NSalas, Jo.$$Rcontributor" ],
+        "date" : [ "2006", "c2006" ],
+        "abstract" : [ "Interactive improvisational theatre from true stories for dialogue, community building, and entertainment presents a training DVD for new students, experienced practitioners, company leaders, trainers, and educators. Includes a complete show filmed live, optional introductory commentary for viewers new to Playback Theatre by founder Jonathan Fox and optional conductor's commentary for experienced practitioners by Hudson River Playback Theatre artistic director Jo Salas." ],
+        "cop" : [ "New Paltz, NY" ],
+        "pub" : [ "Hudson River Playback Theatre" ],
+        "oclcid" : [ "(ocolc)84144303" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Performing playback theatre a training DVD" ]
+      },
+      "sort" : {
+        "title" : [ "Performing playback theatre a training DVD /" ],
+        "author" : [ "Fox, Jonathan, 1943-" ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003272200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:84144303,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "101",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "46",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "327",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 358,
+    "COMBINED_SEARCH_TIME" : 361,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Drama Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Improvisation Acting Study And Teaching",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Fox Jonathan",
+      "count" : "1"
+    }, {
+      "value" : "Hudson River Playback Theatre",
+      "count" : "1"
+    }, {
+      "value" : "Salas Jo",
+      "count" : "1"
+    }, {
+      "value" : "School Of Playback Theatre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,280 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995628519207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Pharmacology & therapeutics (Online)" ],
+        "subject" : [ "Pharmacology$$QPharmacology -- Periodicals", "Therapeutics$$QTherapeutics -- Periodicals", "Pharmacology -- Periodicals", "Therapeutics -- Periodicals", "Pharmacologie -- Périodiques", "Thérapeutique -- Périodiques", "Pharmacologie$$QPharmacologie -- Périodiques", "Thérapeutique$$QThérapeutique -- Périodiques", "Thérapeutique", "Chimiothérapie", "Pharmacologie", "pharmacology", "Chemotherapy", "Pharmacology", "Therapeutics" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2003233979;$$CISSN$$V1879-016X;$$COCLC$$V(OCoLC)39127146;$$CISSN$$V0163-7258" ],
+        "creationdate" : [ "1979" ],
+        "publisher" : [ "Oxford : Pergamon", "Began with v. 4, issue 1 (1979)." ],
+        "description" : [ "\"An international review journal.\"" ],
+        "mms" : [ "9995628519207871" ],
+        "addtitle" : [ "Pharmacology and therapeutics" ],
+        "frequency" : [ "Monthly" ],
+        "genre" : [ "periodicals", "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VPharmacology & therapeutics. Part A. Chemotherapy, toxicology and metabolic inhibitors$$QPharmacology & therapeutics. Part A. Chemotherapy, toxicology and metabolic inhibitors$$Z9995627179307871", "$$Cearlier_title$$VPharmacology and therapeutics. Part B$$QPharmacology and therapeutics. Part B$$Z9995627616607871", "$$Cearlier_title$$VPharmacology and therapeutics. Part C, Clinical pharmacology and therapeutics$$QPharmacology and therapeutics. Part C, Clinical pharmacology and therapeutics$$Z9995627178807871" ],
+        "mesh" : [ "Drug Therapy", "Pharmacology", "Therapeutics" ],
+        "unititle" : [ "Pharmacology & therapeutics (Online)" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925479571" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995628519207871" ],
+        "recordid" : [ "alma9995628519207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925479571" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "PHARMACOL THERAPEUT", "PHARMACOL THER", "PHARM THERA", "PHARMACOLOGY AND THERAPEUTICS", "PHARMACOL. THER", "Pharmacol. ther. (Online)" ],
+        "addtitle" : [ "Pharmacology and therapeutics" ],
+        "date" : [ "1979" ],
+        "issn" : [ "1879-016X", "0163-7258" ],
+        "abstract" : [ "\"An international review journal.\"" ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Pergamon" ],
+        "oclcid" : [ "(ocolc)39127146" ],
+        "lccn" : [ "2003233979" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Pharmacology & therapeutics (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Pharmacology & therapeutics (Online)" ],
+        "creationdate" : [ "1979" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628519207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2003233979&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rm 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "276",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "39",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "60",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "10",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "31",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "430",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 463,
+    "COMBINED_SEARCH_TIME" : 466,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1979",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Chemotherapy",
+      "count" : "1"
+    }, {
+      "value" : "Chimiothérapie",
+      "count" : "1"
+    }, {
+      "value" : "Drug Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Drug Therapy Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacologie",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacologie Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacology",
+      "count" : "1"
+    }, {
+      "value" : "Pharmacology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Therapeutics",
+      "count" : "1"
+    }, {
+      "value" : "Therapeutics Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Thérapeutique",
+      "count" : "1"
+    }, {
+      "value" : "Thérapeutique Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

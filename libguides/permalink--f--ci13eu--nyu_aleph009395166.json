@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990093951660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Beauty regimes : a history of power and modern empire in the Philippines, 1898-1941 " ],
+        "subject" : [ "Beauty, Personal -- Social aspects -- Philippines", "Beauty, Personal -- Political aspects -- Philippines", "Clothing and dress -- Social aspects -- Philippines", "Clothing and dress -- Political aspects -- Philippines", "Philippines -- Colonization -- Social aspects", "SOCIAL SCIENCE / Gender Studies", "HISTORY / Asia / Southeast Asia", "Beauty, Personal -- Social aspects", "Clothing and dress -- Social aspects", "Colonization -- Social aspects", "Philippines" ],
+        "format" : [ "1 online resource (xiii, 335 pages) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2022040844;$$CISBN$$V9781478024279;$$CISBN$$V1478024275;$$COCLC$$V(OCoLC)1353290499;$$CISBN$$V9781478019640" ],
+        "creationdate" : [ "2023" ],
+        "creator" : [ "Clutario, Genevieve Alva, 1981- author.$$QClutario, Genevieve Alva" ],
+        "publisher" : [ "Durham : Duke University Press" ],
+        "description" : [ "\"In Beauty Regimes, Genevieve Clutario reveals how beauty politics in the Philippines created new relationships between colonial institutions, private industries, and diverse social worlds. During the turbulent transition between Spanish, US, and Japanese empires and the anti-colonial nationalist movement in the Philippines, beauty and fashion shaped intertwined projects of imperial expansion and modern nation-building. Beauty and fashion transformed political, economic, social, and cultural power that converged in the Philippines during the late nineteenth and early twentieth centuries. The Philippines became both a source and resource of beauty, though not always for Filipinos themselves. This pathbreaking book offers new ways of understanding beauty's central place in the making of imperial and nationalist power\"-- Provided by publisher." ],
+        "mms" : [ "990093951660107871" ],
+        "addtitle" : [ "History of power and modern empire in the Philippines, 1898-1941" ],
+        "contents" : [ "Introduction: A queen is crowned -- Tensions at the seams : petty politics and sartorial battles -- Queen makers : beauty, power, and the development of a beauty pageant industrial complex -- Philippine lingerie : transnational Filipina beauty labor under US empire -- Beauty regimens : structure, discipline, and needlework in colonial industrial schools and prisons -- \"The dream of beauty\" : the terno and the Filipina high-fashion system -- Epilogue: Protectionism and preparedness under overlapping empires." ],
+        "relation" : [ "$$Cform$$VPrint version: Clutario, Genevieve Alva, 1981- Beauty regimes Durham : Duke University Press, 2023$$QBeauty regimes" ],
+        "place" : [ "Durham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "dukeeb", "ebceb", "pmuseeba", "aleph009395166" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990093951660107871" ],
+        "recordid" : [ "alma990093951660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009395166-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clutario" ],
+        "aufirst" : [ "Genevieve Alva" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Clutario, Genevieve Alva" ],
+        "creatorfull" : [ "$$NClutario, Genevieve Alva$$LClutario$$FGenevieve Alva$$Rauthor" ],
+        "addtitle" : [ "History of power and modern empire in the Philippines, 1898-1941" ],
+        "date" : [ "2023 - 2023", "2023" ],
+        "isbn" : [ "9781478024279", "1478024275", "9781478019640" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"In Beauty Regimes, Genevieve Clutario reveals how beauty politics in the Philippines created new relationships between colonial institutions, private industries, and diverse social worlds. During the turbulent transition between Spanish, US, and Japanese empires and the anti-colonial nationalist movement in the Philippines, beauty and fashion shaped intertwined projects of imperial expansion and modern nation-building. Beauty and fashion transformed political, economic, social, and cultural power that converged in the Philippines during the late nineteenth and early twentieth centuries. The Philippines became both a source and resource of beauty, though not always for Filipinos themselves. This pathbreaking book offers new ways of understanding beauty's central place in the making of imperial and nationalist power\"-- Provided by publisher." ],
+        "cop" : [ "Durham" ],
+        "pub" : [ "Duke University Press" ],
+        "oclcid" : [ "(ocolc)1353290499" ],
+        "lccn" : [ "2022040844" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Beauty regimes : a history of power and modern empire in the Philippines, 1898-1941" ]
+      },
+      "sort" : {
+        "title" : [ "Beauty regimes : a history of power and modern empire in the Philippines, 1898-1941 /" ],
+        "author" : [ "Clutario, Genevieve Alva, 1981- author." ],
+        "creationdate" : [ "2023" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990093951660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1478024275,OCLC:,LCCN:2022040844&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"499ǂ c58 2023",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "81",
+    "CALL_SOLR_GET_IDS_LIST" : "131",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "69",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "65",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "104",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "394",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 430,
+    "COMBINED_SEARCH_TIME" : 432,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Beauty Personal Political Aspects Philippines",
+      "count" : "1"
+    }, {
+      "value" : "Beauty Personal Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Beauty Personal Social Aspects Philippines",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Political Aspects Philippines",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Social Aspects Philippines",
+      "count" : "1"
+    }, {
+      "value" : "Colonization Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "History Asia Southeast Asia",
+      "count" : "1"
+    }, {
+      "value" : "Philippines",
+      "count" : "1"
+    }, {
+      "value" : "Philippines Colonization Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Gender Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clutario Genevieve Alva",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,216 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041615890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Christopher Marlowe and the failure to unify " ],
+        "subject" : [ "Marlowe, Christopher, 1564-1593 -- Criticism and interpretation", "Marlowe, Christopher, 1564-1593" ],
+        "format" : [ "164 pages ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2014045102;$$CISBN$$V9781472439512 (hardcover : alk. paper);$$CISBN$$V1472439511 (hardcover : alk. paper);$$COCLC$$V(OCoLC)897946340" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Duxfield, Andrew, author.$$QDuxfield, Andrew" ],
+        "publisher" : [ "Farnam, Surrey : Burlington, VT : Ashgate" ],
+        "mms" : [ "990041615890107871" ],
+        "series" : [ "Studies in performance and early modern drama$$QStudies in performance and early modern drama", "Studies in performance and early modern drama.$$QStudies in performance and early modern drama." ],
+        "contents" : [ "Introduction -- Building a statelier Troy: Dido, Queen of Carthage -- Reduced to a map: Tamburlaine the great, parts one and two -- \"Resolve me of all ambiguities\": Doctor Faustus -- Individual and multitude: The Jew of Malta and The massacre at Paris -- True contraries: Edward II -- Afterword." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "place" : [ "Farnam, Surrey : Burlington, VT :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004161589" ],
+        "lds53" : [ "004161589" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041615890107871" ],
+        "recordid" : [ "alma990041615890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004161589-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Duxfield" ],
+        "aufirst" : [ "Andrew" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Duxfield, Andrew" ],
+        "creatorfull" : [ "$$NDuxfield, Andrew$$LDuxfield$$FAndrew$$Rauthor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781472439512", "1472439511" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Farnam, Surrey" ],
+        "pub" : [ "Ashgate" ],
+        "oclcid" : [ "(ocolc)897946340" ],
+        "lccn" : [ "2014045102" ],
+        "seriestitle" : [ "Studies in performance and early modern drama" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Christopher Marlowe and the failure to unify" ]
+      },
+      "sort" : {
+        "title" : [ "Christopher Marlowe and the failure to unify /" ],
+        "author" : [ "Duxfield, Andrew, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041615890107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1472439511,OCLC:,LCCN:2014045102&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2674ǂ d79 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "107",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "67",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "49",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "23",
+    "RETRIVE_FROM_DB_RELATIONS" : "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "65",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "359",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 391,
+    "COMBINED_SEARCH_TIME" : 395,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Marlowe Christopher 1564 1593",
+      "count" : "1"
+    }, {
+      "value" : "Marlowe Christopher 1564 1593 Criticism And Interpretation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Duxfield Andrew",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

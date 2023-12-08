@@ -1,0 +1,246 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002583920107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A Buried past; an annotated bibliography of the Japanese American Research Project Collection." ],
+        "subject" : [ "Japanese Americans -- History$$QJapanese Americans -- History -- Bibliography Catalogs", "Japanese -- United States -- History$$QJapanese -- United States -- History -- Bibliography Catalogs", "Immigrants -- United States -- History$$QImmigrants -- United States -- History -- Bibliography Catalogs", "Japan -- Emigration and immigration -- History$$QJapan -- Emigration and immigration -- History -- Bibliography Catalogs", "United States -- Emigration and immigration -- History$$QUnited States -- Emigration and immigration -- History -- Bibliography Catalogs", "Japanese American Research Project (University of California, Los Angeles)$$QJapanese American Research Project (University of California, Los Angeles) -- Catalogs", "Universities Libraries California. Los Angeles. University of California at Los Angeles. Research Library. Stock: Documents on Japanese in United States. Collections: Japanese American Research Project Collection. Catalogues", "University of California at Los Angeles Research Library$$QUniversity of California at Los Angeles Research Library -- Catalogs", "Japanese American Research Project Collection$$QJapanese American Research Project Collection -- Catalogs", "University of California at Los Angeles Japanese American Research Project", "Japonais aux États-Unis -- Bibliographie -- Catalogues", "Japon -- Emigration et immigration -- Bibliographie -- Catalogues" ],
+        "format" : [ "227 p. 25 cm." ],
+        "identifier" : [ "$$CLC$$V73083063;$$CISBN$$V0520025415;$$COCLC$$V(OCoLC)1009108" ],
+        "creationdate" : [ "1974" ],
+        "publisher" : [ "Berkeley, University of California Press" ],
+        "mms" : [ "990002583920107871" ],
+        "contributor" : [ "Ichioka, Yuji.$$QIchioka, Yuji.", "University of California, Los Angeles. Asian American Studies Center.$$QUniversity of California, Los Angeles. Asian American Studies Center." ],
+        "genre" : [ "Bibliography", "Catalogs" ],
+        "place" : [ "Berkeley," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000258392" ],
+        "lds53" : [ "000258392" ],
+        "lds60" : [ "Prepared in the Asian American Studies Center at the University of California at Los Angeles." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002583920107871" ],
+        "recordid" : [ "alma990002583920107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000258392-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ichioka" ],
+        "aufirst" : [ "Yuji." ],
+        "auinit" : [ "Y" ],
+        "addau" : [ "Ichioka, Yuji." ],
+        "contributorfull" : [ "$$NIchioka, Yuji.$$LIchioka$$FYuji.$$Rcontributor" ],
+        "date" : [ "1974" ],
+        "isbn" : [ "0520025415" ],
+        "cop" : [ "Berkeley" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)1009108" ],
+        "lccn" : [ "73083063" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A Buried past; an annotated bibliography of the Japanese American Research Project Collection." ]
+      },
+      "sort" : {
+        "title" : [ "Buried past; an annotated bibliography of the Japanese American Research Project Collection." ],
+        "author" : [ "Ichioka, Yuji." ],
+        "creationdate" : [ "1974" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002583920107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0520025415,OCLC:,LCCN:73083063&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1361 j2ǂe184 j3ǂb87 1974",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "85",
+    "CALL_SOLR_GET_IDS_LIST" : "59",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "3",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "75",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "14",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "194",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 224,
+    "COMBINED_SEARCH_TIME" : 227,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1974",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Immigrants United States History Bibliography Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japan Emigration And Immigration History Bibliography Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japanese American Research Project Collection Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japanese American Research Project University Of California Los Angeles Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japanese Americans History Bibliography Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japanese United States History Bibliography Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Japon Emigration Et Immigration Bibliographie Catalogues",
+      "count" : "1"
+    }, {
+      "value" : "Japonais Aux États Unis Bibliographie Catalogues",
+      "count" : "1"
+    }, {
+      "value" : "United States Emigration And Immigration History Bibliography Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Universities Libraries California Los Angeles University Of California At Los Angeles Research Library Stock Documents On Japanese In United States Collections Japanese American Research Project Collection Catalogues",
+      "count" : "1"
+    }, {
+      "value" : "University Of California At Los Angeles Japanese American Research Project",
+      "count" : "1"
+    }, {
+      "value" : "University Of California At Los Angeles Research Library Catalogs",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ichioka Yuji",
+      "count" : "1"
+    }, {
+      "value" : "University Of California Los Angeles Asian American Studies Center",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

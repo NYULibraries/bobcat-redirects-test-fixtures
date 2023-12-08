@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074611160107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Theatre & knowledge " ],
+        "subject" : [ "Knowledge, Theory of", "Theater and philosophy" ],
+        "format" : [ "xii, 82 pages ; 18 cm." ],
+        "identifier" : [ "$$CISBN$$V9781352008302;$$CISBN$$V1352008300;$$COCLC$$V(OCoLC)1111772030" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Kornhaber, David, 1979- author.$$QKornhaber, David" ],
+        "publisher" : [ "London, UK : Macmillan International Higher Education : Red Globe Press, an imprint of Springer Nature Limited" ],
+        "description" : [ "From Plato onwards, philosophers the world over have pondered the fraught relationship between the illusory practices of the stage and the rational pursuit of knowledge. In this engaging and accessible volume, David Kornhaber sheds new light on this ancient quarrel. Drawing on a global array of theatrical traditions and spanning millennia--from the Sanskrit dramas of classical India to Shakespeare and Greek tragedy, from the Noh drama of Japan to West End comedies and avant-grade performances--Theatre & Knowledge vividly demonstrates how questions of knowledge have long animated the theatre and continue to motivate some of its most innovative practices. As much as philosophy itself, the theatre has always been instrumental in probing the boundaries of what we can possibly know." ],
+        "mms" : [ "990074611160107871" ],
+        "addtitle" : [ "Theatre and knowledge", "Theater & knowledge", "Theater and knowledge" ],
+        "series" : [ "Theatre &$$QTheatre &", "Theatre&.$$QTheatre&." ],
+        "contents" : [ "Prologue -- An ancient quarrel -- Knowing -- Unknowing -- Gnosis -- Epilogue." ],
+        "place" : [ "London, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007461116" ],
+        "lds53" : [ "007461116" ],
+        "lds60" : [ "Place of publication from www.macmillanihe.com." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074611160107871" ],
+        "recordid" : [ "alma990074611160107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007461116-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kornhaber" ],
+        "aufirst" : [ "David" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Kornhaber, David" ],
+        "creatorfull" : [ "$$NKornhaber, David$$LKornhaber$$FDavid$$Rauthor" ],
+        "addtitle" : [ "Theatre and knowledge", "Theater & knowledge", "Theater and knowledge" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781352008302", "1352008300" ],
+        "notes" : [ "Includes 'further reading' (pages 69-70), bibliographical references (pages 71-75) and index." ],
+        "abstract" : [ "From Plato onwards, philosophers the world over have pondered the fraught relationship between the illusory practices of the stage and the rational pursuit of knowledge. In this engaging and accessible volume, David Kornhaber sheds new light on this ancient quarrel. Drawing on a global array of theatrical traditions and spanning millennia--from the Sanskrit dramas of classical India to Shakespeare and Greek tragedy, from the Noh drama of Japan to West End comedies and avant-grade performances--Theatre & Knowledge vividly demonstrates how questions of knowledge have long animated the theatre and continue to motivate some of its most innovative practices. As much as philosophy itself, the theatre has always been instrumental in probing the boundaries of what we can possibly know." ],
+        "cop" : [ "London, UK" ],
+        "pub" : [ "Macmillan International Higher Education" ],
+        "oclcid" : [ "(ocolc)1111772030" ],
+        "seriestitle" : [ "Theatre &" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Theatre & knowledge" ]
+      },
+      "sort" : {
+        "title" : [ "Theatre & knowledge /" ],
+        "author" : [ "Kornhaber, David, 1979- author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074611160107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1352008300,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2039ǂ k597 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "72",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "107",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "286",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 316,
+    "COMBINED_SEARCH_TIME" : 319,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Knowledge Theory Of",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Philosophy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kornhaber David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

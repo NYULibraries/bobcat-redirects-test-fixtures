@@ -1,0 +1,210 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990024778250107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "CIS US serial set index." ],
+        "subject" : [ "Government publications -- United States -- Indexes" ],
+        "format" : [ "14 v. in 58 ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V75027448;$$CISBN$$V0912380268 (pts. 1-12);$$CISBN$$V9780912380261 (pts. 1-12);$$CISBN$$V0886923069 (pt. 13 : alk. paper);$$CISBN$$V9780886923068 (pt. 13 : alk. paper);$$CISBN$$V0886923441 (pt. 14 : alk. paper);$$CISBN$$V9780886923440 (pt. 14 : alk. paper);$$COCLC$$V(OCoLC)1729151" ],
+        "creationdate" : [ "c1975-c1998" ],
+        "publisher" : [ "Washington : Congressional Information Service" ],
+        "mms" : [ "990024778250107871" ],
+        "contributor" : [ "Congressional Information Service.$$QCongressional Information Service." ],
+        "addtitle" : [ "CIS U.S. serial set index", "US serial set index" ],
+        "contents" : [ "pt. 1. American State papers and the 15th-34th Congresses, 1789-1857 -- pt. 2. 35th-45th Congresses, 1857-1879 -- pt. 3. 46th-50th Congresses, 1879-1889 -- pt. 4. 51st-54th Congresses, 1889-1897 -- pt. 5. 55th-57th Congresses, 1897-1903 -- pt. 6. 58th-60th Congresses, 1903-1909 -- pt. 7. 61st-63rd Congresses, 1909-1915 -- pt. 8. 64th-68th Congresses, 1915-1925 -- pt. 9. 69th-73d Congresses, 1925-1934 -- pt. 10. 74th-79th Congresses, 1935-1946 -- pt. 11. 80th-85th Congresses, 1947-1958 -- pt. 12. 86th Congress-91st Congress, 1st session, 1959-1969 --", "pt. 13. Index by reported bill numbers: 15th-59th Congresses, 1817-1907; 60th-71st Congresses, 1907-1931; 72nd-80th Congresses, 1931-1948; 81st-91st Congresses, First Session 1949-1969 -- pt. 14. Index and carto-bibliography of maps, 1789-1969. [Segment 1] American state papers and the 15th-54th Congresses, 1789-1897 (4 v.) [Segment 2] 55th-68th Congress, 1897-1925 (6 v.). [Segment 3] 69th-91st Congress, 1st session, 1925-1969 (6 v.)" ],
+        "place" : [ "Washington :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002477825" ],
+        "lds53" : [ "002477825" ],
+        "lds60" : [ "Pts. 1-12 each consists of 3 volumes: Subject index, A-K; Subject index, L-Z; Finding lists.", "Pt. 13 issued as a new, revised and improved edition in 1997." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990024778250107871" ],
+        "recordid" : [ "alma990024778250107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002477825-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "CIS U.S. serial set index", "US serial set index" ],
+        "date" : [ "1975 - 1998", "c1975-c1998" ],
+        "isbn" : [ "0912380268", "9780912380261", "0886923069", "9780886923068", "0886923441", "9780886923440" ],
+        "cop" : [ "Washington" ],
+        "pub" : [ "Congressional Information Service" ],
+        "oclcid" : [ "(ocolc)1729151" ],
+        "lccn" : [ "75027448" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "CIS US serial set index." ]
+      },
+      "sort" : {
+        "title" : [ "CIS US serial set index." ],
+        "author" : [ "Congressional Information Service." ],
+        "creationdate" : [ "1975" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990024778250107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780912380261,OCLC:,LCCN:75027448&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1223 z9ǂj74ǂc65 1975",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "77",
+    "CALL_SOLR_GET_IDS_LIST" : "106",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "290",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 316,
+    "COMBINED_SEARCH_TIME" : 318,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1975",
+      "count" : "1"
+    }, {
+      "value" : "1998",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Publications United States Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Congressional Information Service",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

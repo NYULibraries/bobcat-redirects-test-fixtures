@@ -1,0 +1,276 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990040553660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The lean startup : how today's entrepreneurs use continuous innovation to create radically successful businesses " ],
+        "subject" : [ "Nouvelles entreprises", "Consommateurs -- Préférences", "Efficacité organisationnelle", "BUSINESS & ECONOMICS -- Industrial Management", "BUSINESS & ECONOMICS -- Management", "BUSINESS & ECONOMICS -- Management Science", "BUSINESS & ECONOMICS -- Organizational Behavior", "Entrepreneurship", "New Business Enterprises", "Consumers' preferences", "New business enterprises", "Organizational effectiveness", "Kwaliteitszorg", "Organisatieontwikkeling", "Nonfiction", "Business", "Management" ],
+        "format" : [ "1 online resource (x, 320 pages) : illustrations", "text file" ],
+        "identifier" : [ "$$CISBN$$V9780307887917;$$CISBN$$V030788791X;$$CISBN$$V9780670921621;$$CISBN$$V0670921629;$$COCLC$$V(OCoLC)755763779;$$CISBN$$V9780307887894" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Ries, Eric, 1978- author.$$QRies, Eric" ],
+        "publisher" : [ "New York : Crown Business" ],
+        "description" : [ "\"Most startups are built to fail. But those failures, according to entrepreneur Eric Ries, are preventable. Startups don't fail because of bad execution, or missed deadlines, or blown budgets. They fail because they are building something nobody wants. Whether they arise from someone's garage or are created within a mature Fortune 500 organization, new ventures, by definition, are designed to create new products or services under conditions of extreme uncertainly. Their primary mission is to find out what customers ultimately will buy. One of the central premises of The Lean Startup movement is what Ries calls \"validated learning\" about the customer. It is a way of getting continuous feedback from customers so that the company can shift directions or alter its plans inch by inch, minute by minute. Rather than creating an elaborate business plan and a product-centric approach, Lean Startup prizes testing your vision continuously with your customers and making constant adjustments\"--Provided by publisher." ],
+        "mms" : [ "990040553660107871" ],
+        "addtitle" : [ "How today's entrepreneurs use continuous innovation to create radically successful businesses" ],
+        "contents" : [ "Pt. 1. Vision : Start ; Define ; Learn ; Experiment -- Pt. 2. Steer : Leap ; Test ; Measure ; Pivot (or persevere) -- Pt. 3. Accelerate : Batch ; Grow ; Adapt ; Innovate -- Epilogue: Waste not -- Join the movement." ],
+        "relation" : [ "$$Cform$$VPrint version: Ries, Eric, 1978- Lean startup. First edition. New York : Crown Business, [2011]$$QLean startup.$$Z990039883450107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoeb", "aleph004055366" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990040553660107871" ],
+        "recordid" : [ "alma990040553660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004055366-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ries" ],
+        "aufirst" : [ "Eric" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Ries, Eric" ],
+        "creatorfull" : [ "$$NRies, Eric$$LRies$$FEric$$Rauthor" ],
+        "addtitle" : [ "How today's entrepreneurs use continuous innovation to create radically successful businesses" ],
+        "date" : [ "2011 - 2011", "2011" ],
+        "isbn" : [ "9780307887917", "030788791X", "9780670921621", "0670921629", "9780307887894" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Most startups are built to fail. But those failures, according to entrepreneur Eric Ries, are preventable. Startups don't fail because of bad execution, or missed deadlines, or blown budgets. They fail because they are building something nobody wants. Whether they arise from someone's garage or are created within a mature Fortune 500 organization, new ventures, by definition, are designed to create new products or services under conditions of extreme uncertainly. Their primary mission is to find out what customers ultimately will buy. One of the central premises of The Lean Startup movement is what Ries calls \"validated learning\" about the customer. It is a way of getting continuous feedback from customers so that the company can shift directions or alter its plans inch by inch, minute by minute. Rather than creating an elaborate business plan and a product-centric approach, Lean Startup prizes testing your vision continuously with your customers and making constant adjustments\"--Provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Crown Business" ],
+        "oclcid" : [ "(ocolc)755763779" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The lean startup : how today's entrepreneurs use continuous innovation to create radically successful businesses" ]
+      },
+      "sort" : {
+        "title" : [ "lean startup : how today's entrepreneurs use continuous innovation to create radically successful businesses /" ],
+        "author" : [ "Ries, Eric, 1978- author." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040553660107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040553660107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040553660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990040553660107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:030788791X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!62.5ǂ r545 2011a 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "298",
+    "CALL_SOLR_GET_IDS_LIST" : "139",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "92",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "57",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "68",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "59",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "33",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "124",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "664",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 701,
+    "COMBINED_SEARCH_TIME" : 704,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Consommateurs Préférences",
+      "count" : "1"
+    }, {
+      "value" : "Consumers Preferences",
+      "count" : "1"
+    }, {
+      "value" : "Efficacité Organisationnelle",
+      "count" : "1"
+    }, {
+      "value" : "Entrepreneurship",
+      "count" : "1"
+    }, {
+      "value" : "Kwaliteitszorg",
+      "count" : "1"
+    }, {
+      "value" : "Management",
+      "count" : "1"
+    }, {
+      "value" : "New Business Enterprises",
+      "count" : "1"
+    }, {
+      "value" : "Nonfiction",
+      "count" : "1"
+    }, {
+      "value" : "Nouvelles Entreprises",
+      "count" : "1"
+    }, {
+      "value" : "Organisatieontwikkeling",
+      "count" : "1"
+    }, {
+      "value" : "Organizational Effectiveness",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ries Eric",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

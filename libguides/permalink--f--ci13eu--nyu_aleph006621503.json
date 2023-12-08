@@ -1,0 +1,232 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990066215030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Moroni : the riches of Renaissance portraiture " ],
+        "subject" : [ "Moroni, Giovanni Battista, approximately 1523-1578$$QMoroni, Giovanni Battista, approximately 1523-1578 -- Exhibitions", "Portrait painting, Italian -- 16th century$$QPortrait painting, Italian -- 16th century -- Exhibitions", "Moroni, Giovanni Battista, approximately 1523-1578" ],
+        "format" : [ "244 pages : illustrations (chiefly color) ; 29 cm" ],
+        "identifier" : [ "$$CLC$$V2018048722;$$CISBN$$V9781785511844;$$CISBN$$V178551184X;$$CISBN$$V9780912114750;$$CISBN$$V0912114754;$$CISBN$$V1785511858;$$CISBN$$V9781785511851;$$COCLC$$V(OCoLC)1046606330" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "New York : The Frick Collection : in association with Scala Arts Publishers, Inc" ],
+        "description" : [ "Giovanni Battista Moroni is considered one of the great portraitists of sixteenth-century Italy. Published with The Frick Collection to accompany the first major exhibition devoted to the artist in the United States, this sumptuous volume celebrates the painter's eye for exquisite detail in depicting his sitters' interior and material worlds. New scholarship includes in-depth studies of individual portraits, as well as essays on the artist in the context of portrait painting in northern Italy in the later cinquecento. Thirty-seven entries and two illuminating essays provide new insight into the artist and his sitters and reveal Moroni?s creativity in translating their world into paint.00Exhibition:The Frick, New York, USA (21.02-02.06.2019)." ],
+        "mms" : [ "990066215030107871" ],
+        "contributor" : [ "Ng, Aimee, author.$$QNg, Aimee", "Facchinetti, Simone, author.$$QFacchinetti, Simone", "Galansino, Arturo, author.$$QGalansino, Arturo", "Frick Collection, organizer, host institution.$$QFrick Collection" ],
+        "contents" : [ "Moroni's eyes / by Simone Facchinetti and Arturo Galansino -- Moroni and the invention of portraiture / by Aimee Ng -- Catalogue of the exhibition -- Chronology of dated works and major life events." ],
+        "genre" : [ "Exhibitions", "Exhibition catalogs" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006621503" ],
+        "lds53" : [ "006621503" ],
+        "lds60" : [ "\"This catalogue is published on the occasion of Moroni: The Riches of Renaissance Portraiture, an exhibition on view at The Frick Collection from February 21, 2019, to June 2, 2019.\"", "IFA copy acquired throught the T. Kimball Brooker Fun." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990066215030107871" ],
+        "recordid" : [ "alma990066215030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006621503-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ng", "Facchinetti", "Galansino" ],
+        "aufirst" : [ "Aimee", "Simone", "Arturo" ],
+        "auinit" : [ "S", "A" ],
+        "addau" : [ "Ng, Aimee", "Facchinetti, Simone", "Galansino, Arturo" ],
+        "contributorfull" : [ "$$NNg, Aimee$$LNg$$FAimee$$Rcontributor", "$$NFacchinetti, Simone$$Rcontributor", "$$NGalansino, Arturo$$Rcontributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781785511844", "178551184X", "9780912114750", "0912114754", "1785511858", "9781785511851" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Giovanni Battista Moroni is considered one of the great portraitists of sixteenth-century Italy. Published with The Frick Collection to accompany the first major exhibition devoted to the artist in the United States, this sumptuous volume celebrates the painter's eye for exquisite detail in depicting his sitters' interior and material worlds. New scholarship includes in-depth studies of individual portraits, as well as essays on the artist in the context of portrait painting in northern Italy in the later cinquecento. Thirty-seven entries and two illuminating essays provide new insight into the artist and his sitters and reveal Moroni?s creativity in translating their world into paint.00Exhibition:The Frick, New York, USA (21.02-02.06.2019)." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "The Frick Collection" ],
+        "oclcid" : [ "(ocolc)1046606330" ],
+        "lccn" : [ "2018048722" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Moroni : the riches of Renaissance portraiture" ]
+      },
+      "sort" : {
+        "title" : [ "Moroni : the riches of Renaissance portraiture /" ],
+        "author" : [ "Ng, Aimee, author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990066215030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:178551184X,OCLC:,LCCN:2018048722&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nd#1329 m67ǂa4 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "78",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "8",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "302",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 338,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Moroni Giovanni Battista Approximately 1523 1578",
+      "count" : "1"
+    }, {
+      "value" : "Moroni Giovanni Battista Approximately 1523 1578 Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Portrait Painting Italian 16th Century Exhibitions",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Facchinetti Simone",
+      "count" : "1"
+    }, {
+      "value" : "Frick Collection",
+      "count" : "1"
+    }, {
+      "value" : "Galansino Arturo",
+      "count" : "1"
+    }, {
+      "value" : "Ng Aimee",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

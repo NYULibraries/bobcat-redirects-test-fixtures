@@ -1,0 +1,296 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068443050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Lawyers as leaders " ],
+        "subject" : [ "Lawyers -- United States -- Psychology", "Leadership -- United States", "Leadership -- United States -- Psychological aspects", "Leadership -- Moral and ethical aspects -- United States", "Practice of law -- United States -- Psychological aspects", "Avocats -- États-Unis -- Psychologie", "Leadership -- États-Unis", "Leadership -- États-Unis -- Aspect psychologique", "Leadership -- Aspect moral -- États-Unis", "Droit -- Pratique -- États-Unis -- Aspect psychologique", "LAW -- General Practice", "Lawyers -- Psychology", "Leadership", "Leadership -- Moral and ethical aspects", "Leadership -- Psychological aspects", "Practice of law -- Psychological aspects", "United States", "Führungseigenschaft", "Führungskraft", "Rechtsanwalt", "USA" ],
+        "format" : [ "1 online resource", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780199896233;$$CISBN$$V0199896232;$$CISBN$$V1299712843;$$CISBN$$V9781299712843;$$COCLC$$V(OCoLC)852158463;$$CISBN$$V9780199896226" ],
+        "creationdate" : [ "©2013" ],
+        "creator" : [ "Rhode, Deborah L.$$QRhode, Deborah L." ],
+        "publisher" : [ "Oxford ; New York : Oxford University Press" ],
+        "description" : [ "No occupation in America supplies a greater proportion of leaders than the legal profession, yet it has done little to prepare them for this role. Lawyers sit at the helm of a vast array of powerful law firms, businesses, governmental, and nonprofit organizations. Two of the last three presidents have been lawyers. And yet almost no occupation rouses greater public distrust. This paradox raises two important questions: Why do we look to lawyers to lead, and why do so many of them prove to be so ill-prepared for that role? In Lawyers as Leaders, eminent law professor Deborah Rhode not only answ." ],
+        "mms" : [ "990068443050107871" ],
+        "contents" : [ "Lawyers as leaders -- The nature of leadership -- Developing leadership -- Leadership capabilities -- Ethics in leadership -- Leadership scandals -- Diversity -- Law firms -- Social change -- Leaders' legacy." ],
+        "relation" : [ "$$Cform$$VLawyers as leaders$$Z9995657642507871", "$$Cform$$VPrint version: Rhode, Deborah L. Lawyers as leaders. Oxford ; New York : Oxford University Press, ©2013$$QLawyers as leaders." ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph006844305" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068443050107871" ],
+        "recordid" : [ "alma990068443050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006844305-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rhode" ],
+        "aufirst" : [ "Deborah L." ],
+        "auinit" : [ "D" ],
+        "au" : [ "Rhode, Deborah L." ],
+        "creatorfull" : [ "$$NRhode, Deborah L.$$LRhode$$FDeborah L.$$Rauthor" ],
+        "date" : [ "2013", "©2013" ],
+        "isbn" : [ "9780199896233", "0199896232", "1299712843", "9781299712843", "9780199896226" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "No occupation in America supplies a greater proportion of leaders than the legal profession, yet it has done little to prepare them for this role. Lawyers sit at the helm of a vast array of powerful law firms, businesses, governmental, and nonprofit organizations. Two of the last three presidents have been lawyers. And yet almost no occupation rouses greater public distrust. This paradox raises two important questions: Why do we look to lawyers to lead, and why do so many of them prove to be so ill-prepared for that role? In Lawyers as Leaders, eminent law professor Deborah Rhode not only answ." ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)852158463" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Lawyers as leaders" ]
+      },
+      "sort" : {
+        "title" : [ "Lawyers as leaders /" ],
+        "author" : [ "Rhode, Deborah L." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068443050107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068443050107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068443050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068443050107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068443050107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0199896232,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf\"298ǂ r48 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "334",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "140",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "81",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "37",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "107",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "671",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 699,
+    "COMBINED_SEARCH_TIME" : 702,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Avocats États Unis Psychologie",
+      "count" : "1"
+    }, {
+      "value" : "Droit Pratique États Unis Aspect Psychologique",
+      "count" : "1"
+    }, {
+      "value" : "Führungseigenschaft",
+      "count" : "1"
+    }, {
+      "value" : "Führungskraft",
+      "count" : "1"
+    }, {
+      "value" : "Law General Practice",
+      "count" : "1"
+    }, {
+      "value" : "Lawyers Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Lawyers United States Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Leadership",
+      "count" : "1"
+    }, {
+      "value" : "Leadership Aspect Moral États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Leadership Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Leadership Moral And Ethical Aspects United States",
+      "count" : "1"
+    }, {
+      "value" : "Leadership Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Leadership United States",
+      "count" : "1"
+    }, {
+      "value" : "Leadership United States Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Leadership États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Leadership États Unis Aspect Psychologique",
+      "count" : "1"
+    }, {
+      "value" : "Practice Of Law Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Practice Of Law United States Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Rechtsanwalt",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rhode Deborah L",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

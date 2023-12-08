@@ -1,0 +1,237 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046833510107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Dante encyclopedia " ],
+        "subject" : [ "Dante Alighieri, 1265-1321$$QDante Alighieri, 1265-1321 -- Encyclopedias", "Dante Alighieri, 1265-1321 -- Criticism and interpretation", "Dante Alighieri, 1265-1321$$QDante Alighieri, 1265-1321 -- Encyclopédies", "Dante Alighieri, 1265-1321", "POETRY -- Continental European" ],
+        "format" : [ "1 online resource (xxvi, 1006 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780203834473;$$CISBN$$V020383447X;$$COCLC$$V(OCoLC)680038637;$$CISBN$$V0815316593" ],
+        "creationdate" : [ "2000" ],
+        "publisher" : [ "New York : Garland Pub." ],
+        "description" : [ "\"The Dante Encyclopedia is a comprehensive reference work that presents a systematic introduction to Dante's life and works and the cultural context in which his moral and intellectual imagination took shape. It is the only such work currently available in the English language.\"--Jacket" ],
+        "mms" : [ "990046833510107871" ],
+        "contributor" : [ "Lansing, Richard H.$$QLansing, Richard H.", "Barolini, Teodolinda, 1951-$$QBarolini, Teodolinda" ],
+        "series" : [ "Garland reference library of the humanities ; vol. 1836$$QGarland reference library of the humanities ", "Garland reference library of the humanities ; vol. 1836.$$QGarland reference library of the humanities " ],
+        "contents" : [ "Preface -- Abbreviations -- Contributors -- Maps and illustrations -- The encyclopedia -- A chronology of the life of Dante Alighieri -- Popes, 33-1334 C.E. -- Roman and Holy Roman emperors, 27 B.C.E.-1346 C.E. -- Musical settings of the Commedia -- Recorded musical settings of the Commedia -- Reference works -- Index of Italian and Latin proper names in Dante's works -- General index." ],
+        "genre" : [ "Encyclopédies", "Criticism, interpretation, etc", "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version: Dante encyclopedia. New York : Garland Pub., 2000$$QDante encyclopedia.$$Z990016963860107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004683351" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046833510107871" ],
+        "recordid" : [ "alma990046833510107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004683351-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lansing", "Barolini" ],
+        "aufirst" : [ "Richard H.", "Teodolinda" ],
+        "auinit" : [ "R", "T" ],
+        "addau" : [ "Lansing, Richard H.", "Barolini, Teodolinda" ],
+        "contributorfull" : [ "$$NLansing, Richard H.$$LLansing$$FRichard H.$$Rcontributor", "$$NBarolini, Teodolinda$$Rcontributor" ],
+        "date" : [ "2000" ],
+        "isbn" : [ "9780203834473", "020383447X", "0815316593" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "\"The Dante Encyclopedia is a comprehensive reference work that presents a systematic introduction to Dante's life and works and the cultural context in which his moral and intellectual imagination took shape. It is the only such work currently available in the English language.\"--Jacket" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Garland Pub." ],
+        "oclcid" : [ "(ocolc)680038637" ],
+        "seriestitle" : [ "Garland reference library of the humanities ; vol. 1836" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Dante encyclopedia" ]
+      },
+      "sort" : {
+        "title" : [ "Dante encyclopedia /" ],
+        "author" : [ "Lansing, Richard H." ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046833510107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046833510107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046833510107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:020383447X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#4333ǂ d36 2000eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "226",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "80",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "56",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "52",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "62",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "457",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 484,
+    "COMBINED_SEARCH_TIME" : 487,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 2
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Dante Alighieri 1265 1321",
+      "count" : "1"
+    }, {
+      "value" : "Dante Alighieri 1265 1321 Criticism And Interpretation",
+      "count" : "1"
+    }, {
+      "value" : "Dante Alighieri 1265 1321 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Dante Alighieri 1265 1321 Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Poetry Continental European",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barolini Teodolinda",
+      "count" : "1"
+    }, {
+      "value" : "Lansing Richard H",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048600210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the Romance languages. Volume II, Contexts " ],
+        "subject" : [ "Romance languages -- History", "Langues romanes -- Histoire", "FOREIGN LANGUAGE STUDY -- General", "Romance languages", "Romaanse talen", "Taalstructuur", "Languages & Literatures", "Romance Languages" ],
+        "format" : [ "1 online resource (xii, 543 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781139019996;$$CISBN$$V1139019996;$$CISBN$$V1316023788;$$CISBN$$V9781316023785;$$CISBN$$V1316022595;$$CISBN$$V9781316022597;$$COCLC$$V(OCoLC)862729564;$$CISBN$$V9780521800730" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Cambridge ; New York : Cambridge University Press" ],
+        "description" : [ "What is the origin of the Romance languages and how did they evolve? When and how did they become different from Latin, and from each other? Volume 2 of The Cambridge History of the Romance Languages offers fresh and original reflections on the principal questions and issues in the comparative external histories of the Romance languages. It is organised around the two key themes of influences and institutions, exploring the fundamental influence, of contact with and borrowing from, other languages (including Latin), and the cultural and institutional forces at work in the establishment of standard languages and norms of correctness. A perfect complement to the first volume, it offers an external history of the Romance languages combining data and theory to produce new and revealing perspectives on the shaping of the Romance languages." ],
+        "mms" : [ "990048600210107871" ],
+        "contributor" : [ "Maiden, Martin, 1957- editor.$$QMaiden, Martin", "Smith, John Charles, 1950- editor.$$QSmith, John Charles", "Ledgeway, Adam, editor.$$QLedgeway, Adam" ],
+        "addtitle" : [ "Contexts" ],
+        "contents" : [ "Latin and the making of the Romance languages / Alberto Varvaro -- The transition from Latin to the Romance languages / Michel Banniard -- Periodization / Roger Wright -- Evidence and sources / Roger Wright -- Koines and Scriptae / Johannes Kabatek -- Contact and borrowing / Marius Sala -- The Romance languages in the Renaissance and after / Helena L. Sanson -- Geography and distribution of the Romance languages in Europe / Alvise Andreose and Lorenzo Renzi -- The sociology of the Romance languages / Alberto Varvaro -- Romance outside the Romania / Mari C. Jones and Christopher J. Pountain -- Creoles / Iris Bachmann." ],
+        "genre" : [ "History", "Handboeken (vorm)" ],
+        "relation" : [ "$$Cform$$VPrint version: Cambridge history of the Romance languages. Volume II, Contexts$$QCambridge history of the Romance languages. Volume II, Contexts$$Z990039276620107871" ],
+        "place" : [ "Cambridge ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004860021" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048600210107871" ],
+        "recordid" : [ "alma990048600210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004860021-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Maiden", "Smith", "Ledgeway" ],
+        "aufirst" : [ "Martin", "John Charles", "Adam" ],
+        "auinit" : [ "M", "J", "A" ],
+        "addau" : [ "Maiden, Martin", "Smith, John Charles", "Ledgeway, Adam" ],
+        "contributorfull" : [ "$$NMaiden, Martin$$LMaiden$$FMartin$$Reditor", "$$NSmith, John Charles$$Reditor", "$$NLedgeway, Adam$$Reditor" ],
+        "addtitle" : [ "Contexts" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781139019996", "1139019996", "1316023788", "9781316023785", "1316022595", "9781316022597", "9780521800730" ],
+        "notes" : [ "Includes bibliographical references (pages 445-507) and index." ],
+        "abstract" : [ "What is the origin of the Romance languages and how did they evolve? When and how did they become different from Latin, and from each other? Volume 2 of The Cambridge History of the Romance Languages offers fresh and original reflections on the principal questions and issues in the comparative external histories of the Romance languages. It is organised around the two key themes of influences and institutions, exploring the fundamental influence, of contact with and borrowing from, other languages (including Latin), and the cultural and institutional forces at work in the establishment of standard languages and norms of correctness. A perfect complement to the first volume, it offers an external history of the Romance languages combining data and theory to produce new and revealing perspectives on the shaping of the Romance languages." ],
+        "cop" : [ "Cambridge ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)862729564" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the Romance languages. Volume II, Contexts" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the Romance languages. Volume II, Contexts /" ],
+        "author" : [ "Maiden, Martin, 1957- editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048600210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1139019996,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pc!45ǂ c246 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "121",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "59",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "71",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "318",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 350,
+    "COMBINED_SEARCH_TIME" : 354,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Foreign Language Study General",
+      "count" : "1"
+    }, {
+      "value" : "Languages Literatures",
+      "count" : "1"
+    }, {
+      "value" : "Langues Romanes Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Romaanse Talen",
+      "count" : "1"
+    }, {
+      "value" : "Romance Languages",
+      "count" : "1"
+    }, {
+      "value" : "Romance Languages History",
+      "count" : "1"
+    }, {
+      "value" : "Taalstructuur",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ledgeway Adam",
+      "count" : "1"
+    }, {
+      "value" : "Maiden Martin",
+      "count" : "1"
+    }, {
+      "value" : "Smith John Charles",
+      "count" : "1"
+    } ]
+  } ]
+}

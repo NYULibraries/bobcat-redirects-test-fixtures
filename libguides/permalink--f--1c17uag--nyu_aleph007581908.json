@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075819080107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Provenance research in book history : a handbook " ],
+        "subject" : [ "Books -- Provenance -- Research$$QBooks -- Provenance -- Research -- Handbooks, manuals, etc", "Book collecting -- Great Britain$$QBook collecting -- Great Britain -- Handbooks, manuals, etc", "Book collecting", "Books -- Owners' marks", "Library catalogs", "Great Britain", "Books -- Provenance -- Research", "Book collecting -- Great Britain", "Books -- Owners' marks$$QBooks -- Owners' marks -- Handbooks, manuals, etc", "Library catalogs$$QLibrary catalogs -- Handbooks, manuals, etc" ],
+        "format" : [ "xi, 436 pages : illustrations (chiefly color) ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2018054340;$$CISBN$$V9781584563648;$$CISBN$$V1584563648;$$CISBN$$V9781851245109;$$CISBN$$V1851245103;$$COCLC$$V(OCoLC)1081338600" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Pearson, David, 1955- author.$$QPearson, David" ],
+        "publisher" : [ "London : The Bodleian Library" ],
+        "mms" : [ "990075819080107871" ],
+        "contributor" : [ "Bodleian Library, publisher.$$QBodleian Library", "Oak Knoll Press, publisher.$$QOak Knoll Press" ],
+        "edition" : [ "New and revised edition." ],
+        "contents" : [ "1. Introduction -- 2. Inscriptions, mottoes & other manuscript additions -- 3. Bookplates & book labels -- 4. Book stamps & stencils -- 5. Bookbindings & external features -- 6. Sale catalogues -- 7. Catalogues & lists of private libraries -- 8. Provenance indexes to libraries -- 9. Heraldry, palaeography & tracing owners -- 10. Works on provenance, book collecting & private library history -- Appendix. Mottoes used by individual book owners -- Picture references -- Index." ],
+        "genre" : [ "Handbooks, manuals, etc", "Handbooks and manuals" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007581908" ],
+        "lds53" : [ "007581908" ],
+        "lds60" : [ "\"This new edition follows the structure of the original, but has been completely rewritten, with a mostly new (and enlarged) set of illustrations.\"--Page ix.", "Includes half-title page." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075819080107871" ],
+        "recordid" : [ "alma990075819080107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007581908-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Pearson" ],
+        "aufirst" : [ "David" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Pearson, David" ],
+        "creatorfull" : [ "$$NPearson, David$$LPearson$$FDavid$$Rauthor" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9781584563648", "1584563648", "9781851245109", "1851245103" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "cop" : [ "London" ],
+        "pub" : [ "The Bodleian Library" ],
+        "oclcid" : [ "(ocolc)1081338600" ],
+        "lccn" : [ "2018054340" ],
+        "edition" : [ "New and revised edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Provenance research in book history : a handbook" ]
+      },
+      "sort" : {
+        "title" : [ "Provenance research in book history : a handbook /" ],
+        "author" : [ "Pearson, David, 1955- author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990075819080107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1584563648,OCLC:,LCCN:2018054340&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z\"987.5 g7ǂp43 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "365",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 401,
+    "COMBINED_SEARCH_TIME" : 404,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Book Collecting",
+      "count" : "1"
+    }, {
+      "value" : "Book Collecting Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Book Collecting Great Britain Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Books Owners Marks",
+      "count" : "1"
+    }, {
+      "value" : "Books Owners Marks Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Books Provenance Research",
+      "count" : "1"
+    }, {
+      "value" : "Books Provenance Research Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Library Catalogs",
+      "count" : "1"
+    }, {
+      "value" : "Library Catalogs Handbooks Manuals Etc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bodleian Library",
+      "count" : "1"
+    }, {
+      "value" : "Oak Knoll Press",
+      "count" : "1"
+    }, {
+      "value" : "Pearson David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

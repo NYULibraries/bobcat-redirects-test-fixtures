@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995640048907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of American folklore (Online)" ],
+        "subject" : [ "Folklore$$QFolklore -- Periodicals", "Folklore -- United States$$QFolklore -- United States -- Periodicals", "United States -- Social life and customs$$QUnited States -- Social life and customs -- Periodicals", "Manners and customs$$QManners and customs -- Periodicals", "Folklore", "Manners and customs", "United States" ],
+        "identifier" : [ "$$CLC$$V##2002227249;$$CISSN$$V1535-1882;$$COCLC$$V(OCoLC)51205291;$$CISSN$$V0021-8715" ],
+        "creationdate" : [ "1888-" ],
+        "publisher" : [ "Boston ; New York : Published for the American Folk-lore Society by Houghton, Mifflin and Co.", "Vol. 1, no. 1 (Apr./June 1888)-" ],
+        "mms" : [ "9995640048907871" ],
+        "contributor" : [ "American Folklore Society.$$QAmerican Folklore Society." ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990029044100107871" ],
+        "unititle" : [ "Journal of American folklore (Online)" ],
+        "place" : [ "Boston ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925410805" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from title screen (viewed Dec. 12, 2002).", "Place of publication varies.", "Publisher varies: Houghton, Mifflin and Company, 1888-1911; E. Stechert & Co., 1912-1913; American Folklore Society, 1914-", "Vol. 27 (1914), v. 28, no. 109 (July/Sept. 1915), v. 30, no. 116-118 (Apr./June-Oct./Dec. 1917), v. 31 (1918), v. 33, no. 129 (July/Sept. 1920), v. 34 (1921), v. 35-36 (1922-1923), v. 38-39 (1925-1926), v. 41, no. 161 (July/Sept. 1928), v. 42 (1929), v. 43-44 (1930-1931)--are digitized versions of the reprint ed. published: New York : Kraus Reprint Co., 1963-1965." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995640048907871" ],
+        "recordid" : [ "alma9995640048907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925410805" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1888", "1888-" ],
+        "issn" : [ "1535-1882", "0021-8715" ],
+        "cop" : [ "Boston ;" ],
+        "pub" : [ "Published for the American Folk-lore Society by Houghton, Mifflin and Co." ],
+        "oclcid" : [ "(ocolc)51205291" ],
+        "lccn" : [ "##2002227249", "2001211095" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of American folklore (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of American folklore (Online)" ],
+        "author" : [ "American Folklore Society." ],
+        "creationdate" : [ "1888" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640048907871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640048907871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640048907871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640048907871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:##2002227249&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gr 1",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "103",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "306",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "20",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "213",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "93",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "38",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "538",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 562,
+    "COMBINED_SEARCH_TIME" : 565,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1888",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Folklore",
+      "count" : "1"
+    }, {
+      "value" : "Folklore Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Folklore United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Manners And Customs",
+      "count" : "1"
+    }, {
+      "value" : "Manners And Customs Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "United States Social Life And Customs Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Folklore Society",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080855450107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Handbook of healthcare logistics : bridging the gap between theory and practice " ],
+        "subject" : [ "Hôpitaux -- Administration", "Médecine -- Informatique", "Hospitals -- Administration", "Hospitals -- Administration -- Data processing", "Medical appointments and schedules -- Data processing", "Medical informatics" ],
+        "format" : [ "1 online resource (258 pages)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783030602123;$$CISBN$$V3030602125;$$COCLC$$V(OCoLC)1244630192;$$CISBN$$V9783030602116" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Cham, Switzerland : Springer" ],
+        "description" : [ "This book presents healthcare logistics solutions that have been successfully implemented at a variety of healthcare facilities. In each case, a major challenge is presented, along with the solution approach and implementation steps, followed by the impact on hospital operations. Problems encountered when implementing the results in practice are also discussed. Much of the work presented is drawn from the experiences of members of the Center for Healthcare Operations Improvement and Research (CHOIR) at Twente, along with the CHOIR spin-off company, Rhythm." ],
+        "mms" : [ "990080855450107871" ],
+        "contributor" : [ "Zonderland, Maartje E.$$QZonderland, Maartje E.", "Boucherie, Richard J.$$QBoucherie, Richard J.", "Hans, E. W. (Erwin W.)$$QHans, E. W.", "Kortbeek, Nikky.$$QKortbeek, Nikky." ],
+        "series" : [ "International series in operations research & management science ; 302.$$QInternational series in operations research & management science ", "International Series in Operations Research and Management Science ; v. 302$$QInternational Series in Operations Research and Management Science " ],
+        "contents" : [ "Intro -- Contents -- Making an Impact on Healthcare Logistics -- 1 Introduction -- 2 The Ecosystem of Education, Research, and Impact -- 2.1 The Ecosystem -- 2.2 Stakeholders -- 2.3 Education -- 2.4 Research -- 2.5 Impact -- 3 Deliberations for Impact -- 3.1 Theoretical Projects vs. Practical Projects -- 3.2 Theoretical Solutions vs. Solutions from Practice -- 3.3 Building Relationships -- 3.4 Bottom-Up and Top-Down -- 4 The Handbook of Healthcare Logistics -- References -- Part I Overview of the State-of-the-Art", "A Survey of Literature Reviews on Patient Planning and Scheduling in Healthcare -- 1 Introduction -- 2 A 3D Classification of Planning Decisions in Healthcare -- 2.1 Hierarchical Planning Levels and Uncertainty -- 2.2 Planning Complexity -- 2.2.1 Single Activity Planning -- 2.2.2 Multidisciplinary Planning -- 2.2.3 Care Pathway Planning -- 2.3 A 3D Framework for Planning Decisions in Healthcare -- 3 Positioning of Overview Papers on Patient Planning and Scheduling Decisions in Healthcare in the 3D Framework -- References -- Theoretical and Practical Aspects of Outpatient Clinic Optimization", "1 Introduction -- 1.1 The Outpatient Clinic: The Gate to Elective Hospital Care -- 1.2 Crucial Concepts: Access and Waiting Time -- 1.3 Outpatient Clinic Capacity Management -- 2 Planning and Control of Outpatient Clinics -- 2.1 Strategic Planning -- 2.2 Tactical Planning -- 2.3 Offline Operational Planning -- 2.4 Online Operational Planning -- 3 Operations Research Models for Outpatient Clinic Optimization -- 3.1 Patient Flow Analysis -- 3.2 Appointment Planning -- 3.2.1 Single Appointment Planning -- 3.2.2 Multidisciplinary Appointment Planning -- 3.2.3 Care Pathway Planning", "4 Lessons Learned from a Case Study -- 5 Current Challenges in Outpatient Clinic Management -- References -- Robust Surgery Scheduling: A Model-Based Overview -- 1 Introduction -- 2 Internal Variability -- 2.1 Overtime -- 2.2 Deviation from the Schedule -- 3 External Variability -- 3.1 Overtime -- 3.1.1 Non-elective Surgery Policy -- 3.1.2 Required Capacity -- 3.1.3 Scheduling Elective Surgeries Anticipating Emergencies -- 3.2 Waiting Time of Emergency Patients -- 3.2.1 Maximum Waiting Time -- 3.2.2 Average Waiting Time -- 4 Artificial Variability -- 4.1 Blocking Time", "5 Multiple Sources of Disturbance -- 5.1 Overtime -- 5.2 Waiting Time Emergency Patients -- 5.3 Deviation from the Schedule -- 6 Conclusion -- References -- Applications of Hospital Bed Optimization -- 1 Introduction -- 2 Ward Capacity Management -- 2.1 Strategic Ward Capacity Management -- 2.1.1 The Desired Case-Mix of the Hospital -- 2.1.2 Hospital Layout Planning -- 2.1.3 Setting Performance Targets -- 2.1.4 The Number of Beds -- 2.1.5 Workforce Planning -- 2.2 Tactical Ward Capacity Management -- 2.2.1 Master Schedules -- 2.2.2 Flexible Allocation of Capacity" ],
+        "genre" : [ "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Zonderland, Maartje E. Handbook of Healthcare Logistics. Cham : Springer International Publishing AG, ©2021$$QHandbook of Healthcare Logistics." ],
+        "mesh" : [ "Hospital Administration", "Handbook" ],
+        "place" : [ "Cham, Switzerland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008085545" ],
+        "lds60" : [ "2.2.3 Regulating the Demand for Care." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080855450107871" ],
+        "recordid" : [ "alma990080855450107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008085545-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zonderland", "Boucherie", "Hans", "Kortbeek" ],
+        "aufirst" : [ "Maartje E.", "Richard J.", "E. W.", "Nikky." ],
+        "auinit" : [ "M", "R", "E", "N" ],
+        "addau" : [ "Zonderland, Maartje E.", "Boucherie, Richard J.", "Hans, E. W. (Erwin W.)", "Kortbeek, Nikky." ],
+        "contributorfull" : [ "$$NZonderland, Maartje E.$$LZonderland$$FMaartje E.$$Rcontributor", "$$NBoucherie, Richard J.$$Rcontributor", "$$NHans, E. W. (Erwin W.)$$Rcontributor", "$$NKortbeek, Nikky.$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9783030602123", "3030602125", "9783030602116" ],
+        "abstract" : [ "This book presents healthcare logistics solutions that have been successfully implemented at a variety of healthcare facilities. In each case, a major challenge is presented, along with the solution approach and implementation steps, followed by the impact on hospital operations. Problems encountered when implementing the results in practice are also discussed. Much of the work presented is drawn from the experiences of members of the Center for Healthcare Operations Improvement and Research (CHOIR) at Twente, along with the CHOIR spin-off company, Rhythm." ],
+        "cop" : [ "Cham, Switzerland" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1244630192" ],
+        "doi" : [ "10.1007/978-3-030-60212-3" ],
+        "seriestitle" : [ "International Series in Operations Research and Management Science ; v. 302" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Handbook of healthcare logistics : bridging the gap between theory and practice" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of healthcare logistics : bridging the gap between theory and practice /" ],
+        "author" : [ "Zonderland, Maartje E." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080855450107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080855450107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030602125,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ra\"971",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "80",
+    "RETRIVE_FROM_DB_RELATIONS" : "9",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "75",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "345",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 375,
+    "COMBINED_SEARCH_TIME" : 380,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 2
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Hospital Administration",
+      "count" : "1"
+    }, {
+      "value" : "Hospitals Administration",
+      "count" : "1"
+    }, {
+      "value" : "Hospitals Administration Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Hôpitaux Administration",
+      "count" : "1"
+    }, {
+      "value" : "Medical Appointments And Schedules Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Medical Informatics",
+      "count" : "1"
+    }, {
+      "value" : "Médecine Informatique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Boucherie Richard J",
+      "count" : "1"
+    }, {
+      "value" : "Hans E W",
+      "count" : "1"
+    }, {
+      "value" : "Kortbeek Nikky",
+      "count" : "1"
+    }, {
+      "value" : "Zonderland Maartje E",
+      "count" : "1"
+    } ]
+  } ]
+}

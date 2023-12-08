@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990000605850107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "International preservation news : a newsletter of the IFLA Programme on Preservation and Conservation = Internationale Nachrichten der Konservierung = Les nouvelles internationales de préservation = Mezhdunarodnye novosti konservat͡sii." ],
+        "subject" : [ "Library materials -- Conservation and restoration$$QLibrary materials -- Conservation and restoration -- Periodicals", "Archival materials -- Conservation and restoration$$QArchival materials -- Conservation and restoration -- Periodicals", "IFLA Programme on Preservation and Conservation$$QIFLA Programme on Preservation and Conservation -- Periodicals" ],
+        "format" : [ "v. : ill. ; 28 cm" ],
+        "identifier" : [ "$$CLC$$Vsn 86011551;$$CISSN$$V0890-4960;$$COCLC$$V(OCoLC)14267649" ],
+        "creationdate" : [ "1987-" ],
+        "publisher" : [ "Washington, DC : Library of Congress, IFLA PAC Core Programme, National Preservation Program Office", "No. 1 (Sept. 1987)-" ],
+        "mms" : [ "990000605850107871" ],
+        "contributor" : [ "IFLA Programme on Preservation and Conservation.$$QIFLA Programme on Preservation and Conservation.", "Library of Congress. National Preservation Program Office.$$QLibrary of Congress. National Preservation Program Office." ],
+        "addtitle" : [ "Internationale Nachrichten der Konservierung", "Nouvelles internationales de préservation", "Mezhdunarodnye novosti konservat͡sii", "IPN Dec. 1992-", "PAC newsletter Dec. 1992-" ],
+        "frequency" : [ "Semiannual, Dec. 1992-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VInternational preservation news : a newsletter of the IFLA Programme on Preservation and Conservation = Internationale Nachrichten der Konservierung = Les nouvelles internationales de préservation = Mezhdunarodnye novosti konservat͡sii.$$Z9995641738307871" ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000060585" ],
+        "lds53" : [ "000060585" ],
+        "lds60" : [ "Title from caption.", "Latest issue consulted: No. 31 (December 2003)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990000605850107871" ],
+        "recordid" : [ "alma990000605850107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000060585-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Int. preserv. news" ],
+        "addtitle" : [ "Internationale Nachrichten der Konservierung", "Nouvelles internationales de préservation", "Mezhdunarodnye novosti konservat͡sii", "IPN", "PAC newsletter" ],
+        "date" : [ "1987", "1987-" ],
+        "issn" : [ "0890-4960" ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "Library of Congress, IFLA PAC Core Programme, National Preservation Program Office" ],
+        "oclcid" : [ "(ocolc)14267649" ],
+        "lccn" : [ "sn 86011551" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "International preservation news : a newsletter of the IFLA Programme on Preservation and Conservation = Internationale Nachrichten der Konservierung = Les nouvelles internationales de préservation = Mezhdunarodnye novosti konservat͡sii." ]
+      },
+      "sort" : {
+        "title" : [ "International preservation news : a newsletter of the IFLA Programme on Preservation and Conservation = Internationale Nachrichten der Konservierung = Les nouvelles internationales de préservation = Mezhdunarodnye novosti konservat͡sii." ],
+        "author" : [ "IFLA Programme on Preservation and Conservation." ],
+        "creationdate" : [ "1987" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990000605850107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sn 86011551&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z\"700.9ǂ i565",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "237",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "237",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "36",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "233",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "641",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 673,
+    "COMBINED_SEARCH_TIME" : 676,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1987",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Archival Materials Conservation And Restoration Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Ifla Programme On Preservation And Conservation Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Library Materials Conservation And Restoration Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ifla Programme On Preservation And Conservation",
+      "count" : "1"
+    }, {
+      "value" : "Library Of Congress National Preservation Program Office",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163050070007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

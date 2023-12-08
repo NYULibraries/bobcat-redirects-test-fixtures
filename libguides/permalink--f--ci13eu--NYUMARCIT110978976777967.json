@@ -1,0 +1,289 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995638915507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "ita" ],
+        "title" : [ "Libri e riviste d'Italia." ],
+        "subject" : [ "Italian literature$$QItalian literature -- Bibliography Periodicals", "Italian periodicals$$QItalian periodicals -- Bibliography Periodicals", "Italian literature", "Italian periodicals", "Italiaanse boeken", "Boekbesprekingen", "Tijdschriftartikelen" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V0024-2683" ],
+        "creationdate" : [ "1958-" ],
+        "publisher" : [ "Roma : Istituto Poligrafico dello Stato P.V.", "Anno 10, n. 95 (genn. 1958)-anno 56, n. 655/658 (sett./dic. 2004) ; nuova ser., [anno 1], n. 1 (magg./giugno 2005)-", "Ceased with Nuova ser., anno 4, 4-5 (luglio/dic. 2008)." ],
+        "mms" : [ "9995638915507871" ],
+        "contributor" : [ "Italy. Presidenza del Consiglio dei ministri.$$QItaly. Presidenza del Consiglio dei ministri.", "Italy. Presidenza del Consiglio dei ministri. Servizio informazioni.$$QItaly. Presidenza del Consiglio dei ministri. Servizio informazioni.", "Italy. Servizi delle informazioni e della proprietà letteraria, artistica e scientifica.$$QItaly. Servizi delle informazioni e della proprietà letteraria, artistica e scientifica.", "Italy. Ministero per i beni culturali e ambientali. Divisione editoria.$$QItaly. Ministero per i beni culturali e ambientali. Divisione editoria.", "Italy. Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria. Divisione editoria.$$QItaly. Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria. Divisione editoria.", "Italy. Direzione generale per i beni librari e gli istituti culturali.$$QItaly. Direzione generale per i beni librari e gli istituti culturali." ],
+        "frequency" : [ "Bimonthly, 2008-" ],
+        "genre" : [ "Bibliography", "Bibliographies", "Periodicals" ],
+        "relation" : [ "$$Cform$$VPrint version: Libri e riviste d'Italia.$$QLibri e riviste d'Italia." ],
+        "mesh" : [ "Bibliography, National", "Periodicals", "Italy", "Bibliography" ],
+        "place" : [ "Roma :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110978976777967" ],
+        "lds60" : [ "\"Rassegna bibliografica mensile,\" 1960-1972; \"Rassegna mensile di informazione culturale e bibliografica,\" 1973-1983; \"Rassegna di informazione culturale e bibliografica,\" 1984-2004; \"Bimestrale di cultura editoriale e promozione della lettura,\" 2005-2008.", "Issues for July/Aug. 1978- July/Dec. 2008 published by: Istituto Poligrafico e Zecca dello Stato P.V." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995638915507871" ],
+        "recordid" : [ "alma9995638915507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110978976777967" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1958 - 2008", "1958-" ],
+        "issn" : [ "0024-2683" ],
+        "cop" : [ "Roma" ],
+        "pub" : [ "Istituto Poligrafico dello Stato P.V." ],
+        "oclcid" : [ "(ckb)110978976777967", "(conser)sn-97047872-" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Libri e riviste d'Italia." ]
+      },
+      "sort" : {
+        "title" : [ "Libri e riviste d'Italia." ],
+        "author" : [ "Italy. Presidenza del Consiglio dei ministri." ],
+        "creationdate" : [ "1958" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638915507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2345ǂ l63",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "78",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "46",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "18",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "53",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "260",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 286,
+    "COMBINED_SEARCH_TIME" : 289,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "ita",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1958",
+      "count" : "1"
+    }, {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bibliography National",
+      "count" : "1"
+    }, {
+      "value" : "Boekbesprekingen",
+      "count" : "1"
+    }, {
+      "value" : "Italiaanse Boeken",
+      "count" : "1"
+    }, {
+      "value" : "Italian Literature",
+      "count" : "1"
+    }, {
+      "value" : "Italian Literature Bibliography Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Italian Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Italian Periodicals Bibliography Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Tijdschriftartikelen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Italy Direzione Generale Per I Beni Librari E Gli Istituti Culturali",
+      "count" : "1"
+    }, {
+      "value" : "Italy Ministero Per I Beni Culturali E Ambientali Divisione Editoria",
+      "count" : "1"
+    }, {
+      "value" : "Italy Presidenza Del Consiglio Dei Ministri",
+      "count" : "1"
+    }, {
+      "value" : "Italy Presidenza Del Consiglio Dei Ministri Servizio Informazioni",
+      "count" : "1"
+    }, {
+      "value" : "Italy Servizi Delle Informazioni E Della Proprietà Letteraria Artistica E Scientifica",
+      "count" : "1"
+    }, {
+      "value" : "Italy Ufficio Centrale Per I Beni Librari Le Istituzioni Culturali E Leditoria Divisione Editoria",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

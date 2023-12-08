@@ -1,0 +1,269 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080664830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Case in point : complete case interview preparation " ],
+        "subject" : [ "Business consultants -- Case studies", "Consultants -- Case studies", "Employment interviewing -- Case studies", "Employment interviewing$$QEmployment interviewing -- Problems, exercises, etc", "Strategic planning$$QStrategic planning -- Problems, exercises, etc", "Strategic planning", "Consultants -- Vocational guidance", "Consultants", "Business consultants -- Vocational guidance", "Business consultants -- Selection and appointment", "Business consultants", "Business communication", "Business presentations", "Competition", "Employment interviewing", "Interviewleitfaden", "Mitarbeitergespräch", "Unternehmensberatung", "Vorstellungsgespräch" ],
+        "format" : [ "234 pages : illustrations ; 23 cm" ],
+        "identifier" : [ "$$CISBN$$V9780986370762;$$CISBN$$V0986370762;$$COCLC$$V(OCoLC)1194002283" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Cosentino, Marc, author.$$QCosentino, Marc" ],
+        "publisher" : [ "Santa Barbara, CA : Burgee Press" ],
+        "description" : [ "\"Cosentino demystifies the consulting case interview. He takes you inside a typical interview by exploring the various types of case questions, and he shares with you a system that will help you answer today's most sophisticated case questions. With over eighteen years of experience coaching and preparing Harvard students for case interviews, Cosentino offers you the expert advice you need to land a job in the competitive field of management consulting.\" --Back cover." ],
+        "mms" : [ "990080664830107871" ],
+        "addtitle" : [ "Complete case interview preparation" ],
+        "edition" : [ "11th edition." ],
+        "contents" : [ "Introduction -- The interview -- Case questions -- Ivy case system -- Practice cases -- Case starts -- Case practice -- Partner cases -- Final analysis -- Partner case charts -- About the author -- Additional products by CaseQuestions.com" ],
+        "genre" : [ "Problems, exercises, etc", "Problems and exercises", "Case studies" ],
+        "place" : [ "Santa Barbara, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008066483" ],
+        "lds53" : [ "008066483" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080664830107871" ],
+        "recordid" : [ "alma990080664830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008066483-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cosentino" ],
+        "aufirst" : [ "Marc" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Cosentino, Marc" ],
+        "creatorfull" : [ "$$NCosentino, Marc$$LCosentino$$FMarc$$Rauthor" ],
+        "addtitle" : [ "Complete case interview preparation" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9780986370762", "0986370762" ],
+        "abstract" : [ "\"Cosentino demystifies the consulting case interview. He takes you inside a typical interview by exploring the various types of case questions, and he shares with you a system that will help you answer today's most sophisticated case questions. With over eighteen years of experience coaching and preparing Harvard students for case interviews, Cosentino offers you the expert advice you need to land a job in the competitive field of management consulting.\" --Back cover." ],
+        "cop" : [ "Santa Barbara, CA" ],
+        "pub" : [ "Burgee Press" ],
+        "oclcid" : [ "(ocolc)1194002283" ],
+        "edition" : [ "11th edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Case in point : complete case interview preparation" ]
+      },
+      "sort" : {
+        "title" : [ "Case in point : complete case interview preparation /" ],
+        "author" : [ "Cosentino, Marc, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990080664830107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0986370762,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!69 c6ǂc675 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "268",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "101",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "210",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "98",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "556",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 594,
+    "COMBINED_SEARCH_TIME" : 597,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Communication",
+      "count" : "1"
+    }, {
+      "value" : "Business Consultants",
+      "count" : "1"
+    }, {
+      "value" : "Business Consultants Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Business Consultants Selection And Appointment",
+      "count" : "1"
+    }, {
+      "value" : "Business Consultants Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Business Presentations",
+      "count" : "1"
+    }, {
+      "value" : "Competition",
+      "count" : "1"
+    }, {
+      "value" : "Consultants",
+      "count" : "1"
+    }, {
+      "value" : "Consultants Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Consultants Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Employment Interviewing",
+      "count" : "1"
+    }, {
+      "value" : "Employment Interviewing Case Studies",
+      "count" : "1"
+    }, {
+      "value" : "Employment Interviewing Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Interviewleitfaden",
+      "count" : "1"
+    }, {
+      "value" : "Mitarbeitergespräch",
+      "count" : "1"
+    }, {
+      "value" : "Strategic Planning",
+      "count" : "1"
+    }, {
+      "value" : "Strategic Planning Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Unternehmensberatung",
+      "count" : "1"
+    }, {
+      "value" : "Vorstellungsgespräch",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Cosentino Marc",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,242 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045098270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "International dictionary of films and filmmakers " ],
+        "subject" : [ "Motion picture producers and directors$$QMotion picture producers and directors -- Biography Dictionaries", "Motion picture actors and actresses$$QMotion picture actors and actresses -- Biography Dictionaries", "Screenwriters$$QScreenwriters -- Biography Dictionaries", "Cinéma -- Intrigues, thèmes, etc", "Producteurs et réalisateurs de cinéma$$QProducteurs et réalisateurs de cinéma -- Biographies Dictionnaires anglais", "Scénaristes$$QScénaristes -- Biographies Dictionnaires anglais", "Motion picture actors and actresses", "Motion picture producers and directors", "Motion pictures -- Plots, themes, etc", "Screenwriters" ],
+        "format" : [ "1 online resource (4 volumes) : illustrations." ],
+        "identifier" : [ "$$CISBN$$V155862533X;$$CISBN$$V9781558625334;$$CISBN$$V9781558624498;$$CISBN$$V1558624503;$$CISBN$$V9781558624504;$$CISBN$$V1558624511;$$CISBN$$V9781558624511;$$CISBN$$V155862452X;$$CISBN$$V9781558624528;$$CISBN$$V1558624538;$$CISBN$$V9781558624535;$$COCLC$$V(OCoLC)61719831;$$CISBN$$V155862449X" ],
+        "creationdate" : [ "©2000" ],
+        "publisher" : [ "Detroit : Thomson Gale" ],
+        "description" : [ "Provides thorough coverage of films and filmmakers, including legendary films, actors and actresses, directors, writers and other production artists. Entries include a detailed essay written by an expert; biographies; filmographies; comprehensive credits; major awards; and updated bibliographies, as well as photographs. General and professional audiences." ],
+        "mms" : [ "990045098270107871" ],
+        "contributor" : [ "Pendergast, Tom.$$QPendergast, Tom.", "Pendergast, Sara.$$QPendergast, Sara.", "Thomson Gale (Firm)$$QThomson Gale (Firm)" ],
+        "addtitle" : [ "Gale virtual reference library." ],
+        "edition" : [ "4th ed." ],
+        "series" : [ "Gale virtual reference library$$QGale virtual reference library" ],
+        "contents" : [ "1. Films -- 2. Directors -- 3. Actors and actresses -- 4. Writers and production artists." ],
+        "genre" : [ "Biography", "Dictionnaires anglais", "Biographies", "Dictionaries" ],
+        "relation" : [ "$$Cform$$VPrint version: International dictionary of films and filmmakers. 4th ed. [Detroit] : Thomson Gale, ©2000$$QInternational dictionary of films and filmmakers.$$Z990017029570107871" ],
+        "place" : [ "Detroit] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galebic", "galevrl", "aleph004509827" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045098270107871" ],
+        "recordid" : [ "alma990045098270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004509827-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Pendergast" ],
+        "aufirst" : [ "Tom.", "Sara." ],
+        "auinit" : [ "T", "S" ],
+        "addau" : [ "Pendergast, Tom.", "Pendergast, Sara." ],
+        "contributorfull" : [ "$$NPendergast, Tom.$$LPendergast$$FTom.$$Rcontributor", "$$NPendergast, Sara.$$Rcontributor" ],
+        "date" : [ "2000", "©2000" ],
+        "isbn" : [ "155862533X", "9781558625334", "9781558624498", "1558624503", "9781558624504", "1558624511", "9781558624511", "155862452X", "9781558624528", "1558624538", "9781558624535", "155862449X" ],
+        "notes" : [ "Includes filmographies.", "Includes bibliographical references and indexes." ],
+        "abstract" : [ "Provides thorough coverage of films and filmmakers, including legendary films, actors and actresses, directors, writers and other production artists. Entries include a detailed essay written by an expert; biographies; filmographies; comprehensive credits; major awards; and updated bibliographies, as well as photographs. General and professional audiences." ],
+        "cop" : [ "Detroit" ],
+        "pub" : [ "Thomson Gale" ],
+        "oclcid" : [ "(ocolc)61719831" ],
+        "edition" : [ "4th ed." ],
+        "seriestitle" : [ "Gale virtual reference library" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "International dictionary of films and filmmakers" ]
+      },
+      "sort" : {
+        "title" : [ "International dictionary of films and filmmakers /" ],
+        "author" : [ "Pendergast, Tom." ],
+        "creationdate" : [ "2000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045098270107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045098270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781558625334,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997.8ǂ i58 2000",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "151",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "18",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "347",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 378,
+    "COMBINED_SEARCH_TIME" : 380,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2000",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Intrigues Thèmes Etc",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Actors And Actresses",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Actors And Actresses Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Producers And Directors",
+      "count" : "1"
+    }, {
+      "value" : "Motion Picture Producers And Directors Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Plots Themes Etc",
+      "count" : "1"
+    }, {
+      "value" : "Producteurs Et Réalisateurs De Cinéma Biographies Dictionnaires Anglais",
+      "count" : "1"
+    }, {
+      "value" : "Screenwriters",
+      "count" : "1"
+    }, {
+      "value" : "Screenwriters Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Scénaristes Biographies Dictionnaires Anglais",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Pendergast Sara",
+      "count" : "1"
+    }, {
+      "value" : "Pendergast Tom",
+      "count" : "1"
+    }, {
+      "value" : "Thomson Gale Firm",
+      "count" : "1"
+    } ]
+  } ]
+}

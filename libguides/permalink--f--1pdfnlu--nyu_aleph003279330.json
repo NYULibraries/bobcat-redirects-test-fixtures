@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990032793300107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Occult America : the secret history of how mysticism shaped our nation " ],
+        "subject" : [ "Occultism -- United States -- History", "Parapsychology -- United States -- History" ],
+        "format" : [ "290 p. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2009009864;$$CISBN$$V9780553806755 (hardcover : alk. paper);$$CISBN$$V0553806750 (hardcover : alk. paper);$$COCLC$$V(OCoLC)299706517" ],
+        "creationdate" : [ "c2009" ],
+        "creator" : [ "Horowitz, Mitch.$$QHorowitz, Mitch." ],
+        "publisher" : [ "New York : Bantam Books" ],
+        "description" : [ "From the meaning of the symbols on the one-dollar bill to the origins of the Ouija board, \"Occult America\" briskly sweeps from the nation's earliest days of mystical and esoteric movements to the birth of the New Age era, tracing the many people and episodes that continue to exert such a powerful pull on the public today." ],
+        "mms" : [ "990032793300107871" ],
+        "edition" : [ "1st ed." ],
+        "contents" : [ "Introduction: What is the occult? (and what is it doing in America?) -- The psychic highway -- Mystic Americans -- Don't try this at home : Ouija and the selling of spiritualism -- The science of right thinking -- The mail-order prophet -- Go tell pharaoh : the rise of magic in Afro-America -- The return of the \"secret teachings\" -- New deal of the ages : politics and the occult -- The masters among us -- Secrets for sale -- \"The greatest mystic who ever lived in America\" -- Epilogue: Aquarius rising : the new age dawns." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003279330" ],
+        "lds53" : [ "003279330" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990032793300107871" ],
+        "recordid" : [ "alma990032793300107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003279330-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Horowitz" ],
+        "aufirst" : [ "Mitch." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Horowitz, Mitch." ],
+        "creatorfull" : [ "$$NHorowitz, Mitch.$$LHorowitz$$FMitch.$$Rauthor" ],
+        "date" : [ "2009", "c2009" ],
+        "isbn" : [ "9780553806755", "0553806750" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "From the meaning of the symbols on the one-dollar bill to the origins of the Ouija board, \"Occult America\" briskly sweeps from the nation's earliest days of mystical and esoteric movements to the birth of the New Age era, tracing the many people and episodes that continue to exert such a powerful pull on the public today." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Bantam Books" ],
+        "oclcid" : [ "(ocolc)299706517" ],
+        "lccn" : [ "2009009864" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Occult America : the secret history of how mysticism shaped our nation" ]
+      },
+      "sort" : {
+        "title" : [ "Occult America : the secret history of how mysticism shaped our nation /" ],
+        "author" : [ "Horowitz, Mitch." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990032793300107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0553806750,OCLC:,LCCN:2009009864&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bf#1434 u6ǂh67 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "77",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "44",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "46",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "99",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 341,
+    "COMBINED_SEARCH_TIME" : 346,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Occultism United States History",
+      "count" : "1"
+    }, {
+      "value" : "Parapsychology United States History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Horowitz Mitch",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995638823907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Critical arts." ],
+        "subject" : [ "Mass media -- South Africa$$QMass media -- South Africa -- Periodicals", "Mass media and the arts -- South Africa$$QMass media and the arts -- South Africa -- Periodicals", "African Studies", "Mass media", "Mass media and the arts", "South Africa" ],
+        "identifier" : [ "$$CLC$$V  2008227539;$$CISSN$$V1992-6049;$$COCLC$$V(OCoLC)60620647;$$CISSN$$V0256-0046" ],
+        "creationdate" : [ "1980" ],
+        "publisher" : [ "Oxford : Routledge, Taylor & Francis Group ; Pretoria : UNISA Press", "Began with v. 1, no. 1 (Mar. 1980)." ],
+        "description" : [ "\"Examines the relationship between texts and contexts of media in the Third World, cultural formations and other forms of expression. It aims to create a space for an African and Third World perspective of media, culture and social theory. Critical Arts also aims to challenge and engage conventional academic practices which reinforce undemocratic relations in society.\"" ],
+        "mms" : [ "9995638823907871" ],
+        "contributor" : [ "Critical Arts Study Group (South Africa), issuing body.$$QCritical Arts Study Group (South Africa)", "University of Natal. Centre for Cultural and Media Studies, issuing body.$$QUniversity of Natal. Centre for Cultural and Media Studies" ],
+        "addtitle" : [ "CA, <November 2010->" ],
+        "frequency" : [ "Bimonthly, 2013-" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990028503970107871" ],
+        "place" : [ "Oxford : Pretoria :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)960238548165" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "\"A journal of south-north cultural and media studies.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995638823907871" ],
+        "recordid" : [ "alma9995638823907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99960238548165" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "CRITICAL ARTS A JOURNAL FOR CULTURAL STUDIES", "CRITICAL ARTS", "CRIT. ARTS", "CRIT ARTS", "Crit. arts (Online)" ],
+        "addtitle" : [ "CA" ],
+        "date" : [ "1980" ],
+        "issn" : [ "1992-6049", "0256-0046" ],
+        "abstract" : [ "\"Examines the relationship between texts and contexts of media in the Third World, cultural formations and other forms of expression. It aims to create a space for an African and Third World perspective of media, culture and social theory. Critical Arts also aims to challenge and engage conventional academic practices which reinforce undemocratic relations in society.\"" ],
+        "cop" : [ "Johannesburg, South Africa" ],
+        "pub" : [ "[Critical Arts Study Group]" ],
+        "oclcid" : [ "(ocolc)60620647" ],
+        "lccn" : [ "2008227539" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Critical arts." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Critical arts." ],
+        "author" : [ "Critical Arts Study Group (South Africa), issuing body." ],
+        "creationdate" : [ "1980" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638823907871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638823907871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638823907871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2008227539&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "p!92 s58",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "203",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "224",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "47",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "196",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "605",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 640,
+    "COMBINED_SEARCH_TIME" : 643,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1980",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Studies",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media And The Arts",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media And The Arts South Africa Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Mass Media South Africa Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "South Africa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Critical Arts Study Group South Africa",
+      "count" : "1"
+    }, {
+      "value" : "University Of Natal Centre For Cultural And Media Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

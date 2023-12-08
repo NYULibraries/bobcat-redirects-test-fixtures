@@ -1,0 +1,256 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058266280107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng;spa" ],
+        "title" : [ "Latin America : a guide to the historical literature " ],
+        "subject" : [ "Latin America$$QLatin America -- Bibliography", "Latin American literature -- History and criticism", "Littérature latino-américaine -- Histoire et critique", "Amérique latine$$QAmérique latine -- Bibliographie", "Bibliographie nationale", "Amérique latine", "national bibliographies", "Latin American literature", "Bibliography, National", "Latin America", "Latijns-Amerika", "AMERICA LATINA -- HISTORIA -- BIBLIOGRAFIAS" ],
+        "format" : [ "1 online resource (xxx, 700 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780292700895;$$CISBN$$V029270089X;$$COCLC$$V(OCoLC)994994838" ],
+        "creationdate" : [ "1971" ],
+        "creator" : [ "Griffin, Charles C. (Charles Carroll), 1902-$$QGriffin, Charles C." ],
+        "publisher" : [ "Austin : Published for the Conference on Latin American History by the University of Texas Press" ],
+        "mms" : [ "990058266280107871" ],
+        "contributor" : [ "American Council of Learned Societies.$$QAmerican Council of Learned Societies." ],
+        "series" : [ "ACLS Humanities E-Book.$$QACLS Humanities E-Book.", "Conference on Latin American History ; Publication no. 4$$QConference on Latin American History ", "Publications (Conference on Latin American History) ; no. 4.$$QPublications (Conference on Latin American History) " ],
+        "ispartof" : [ "ACLS Humanities E-Book. URL: http://www.humanitiesebook.org$$QACLS Humanities E-Book." ],
+        "genre" : [ "Bibliography", "Bibliographie", "Criticism, interpretation, etc", "Bibliographies", "Directories" ],
+        "mesh" : [ "Bibliography, National", "Latin America" ],
+        "place" : [ "Austin :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aclsheb", "aleph005826628" ],
+        "lds63" : [ "Note: King's username and password off-campus access]." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058266280107871" ],
+        "recordid" : [ "alma990058266280107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005826628-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Griffin" ],
+        "aufirst" : [ "Charles C." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Griffin, Charles C. (Charles Carroll)" ],
+        "creatorfull" : [ "$$NGriffin, Charles C. (Charles Carroll)$$LGriffin$$FCharles C.$$Rauthor" ],
+        "stitle" : [ "ACLS Humanities E-Book." ],
+        "date" : [ "1971" ],
+        "isbn" : [ "9780292700895", "029270089X" ],
+        "cop" : [ "Austin" ],
+        "pub" : [ "Published for the Conference on Latin American History by the University of Texas Press" ],
+        "oclcid" : [ "(ocolc)994994838" ],
+        "lccn" : [ "71165916" ],
+        "seriestitle" : [ "Conference on Latin American History ; Publication no. 4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Latin America : a guide to the historical literature" ]
+      },
+      "sort" : {
+        "title" : [ "Latin America : a guide to the historical literature /" ],
+        "author" : [ "Griffin, Charles C. (Charles Carroll), 1902-" ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058266280107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058266280107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058266280107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:029270089X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1601",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "343",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "83",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "116",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "595",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 622,
+    "COMBINED_SEARCH_TIME" : 625,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "America Latina Historia Bibliografias",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Latine",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Latine Bibliographie",
+      "count" : "1"
+    }, {
+      "value" : "Bibliographie Nationale",
+      "count" : "1"
+    }, {
+      "value" : "Bibliography National",
+      "count" : "1"
+    }, {
+      "value" : "Latijns Amerika",
+      "count" : "1"
+    }, {
+      "value" : "Latin America",
+      "count" : "1"
+    }, {
+      "value" : "Latin America Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Latin American Literature",
+      "count" : "1"
+    }, {
+      "value" : "Latin American Literature History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Latino Américaine Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "National Bibliographies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Council Of Learned Societies",
+      "count" : "1"
+    }, {
+      "value" : "Griffin Charles C",
+      "count" : "1"
+    } ]
+  } ]
+}

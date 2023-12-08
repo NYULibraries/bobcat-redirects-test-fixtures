@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048379500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Early modern actors and Shakespeare's theatre. Thinking with the body " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Stage history -- To 1625", "Shakespeare, William, 1564-1616", "Acting -- History -- 16th century", "Acting -- History -- 17th century", "Theater -- England -- History -- 16th century", "Theater -- England -- History -- 17th century", "Art dramatique -- Histoire -- 16e siècle", "Art dramatique -- Histoire -- 17e siècle", "Théâtre -- Angleterre -- Histoire -- 16e siècle", "Théâtre -- Angleterre -- Histoire -- 17e siècle", "SPORTS & RECREATION -- General", "Acting", "Theater", "England", "To 1699" ],
+        "format" : [ "1 online resource (ix, 227 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781472576057;$$CISBN$$V1472576055;$$COCLC$$V(OCoLC)965825696;$$CISBN$$V9781472576033" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Tribble, Evelyn, author.$$QTribble, Evelyn" ],
+        "publisher" : [ "London : Bloomsbury Academic" ],
+        "description" : [ "What skills did Shakespeare's actors bring to their craft? How do these skills differ from those of contemporary actors?\" This volume \"examines the 'toolkit' of the early modern player and suggests new readings of the plays of Shakespeare and his contemporaries through the lens of their many skills. Theatre is an ephemeral medium. Little remains to us of the plays of Shakespeare and his contemporaries: some printed texts, scattered documents and records, and a few scraps of description, praise, and detraction. Because most of what survives are printed playbooks, students of English theatre find it easy to forget that much of what happened on the early modern stage took place within the gaps of written language: the implicit or explicit calls for fights, dances, military formations, feats of physical skill, song, and clowning. Theatre historians and textual editors have often ignored or denigrated such moments, seeing them merely as extraneous amusements or signs that the text has been 'corrupted' by actors. This book argues that recapturing a positive account of the skills and expertise of the early modern players will result in a more capacious understanding of the nature of theatricality in the period" ],
+        "mms" : [ "990048379500107871" ],
+        "contents" : [ "Introduction--The moving body -- 'Skill of weapon' -- The art of dance -- The skills behind the skills: variety and overtopping -- Conclusions: reconstructing skill" ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Tribble, Evelyn. Early modern actors and Shakespeare's theatre. Thinking with the body. London : Bloomsbury Academic 2016$$QEarly modern actors and Shakespeare's theatre. Thinking with the body.$$Z990081246220107871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004837950" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048379500107871" ],
+        "recordid" : [ "alma990048379500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004837950-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Tribble" ],
+        "aufirst" : [ "Evelyn" ],
+        "auinit" : [ "E" ],
+        "au" : [ "Tribble, Evelyn" ],
+        "creatorfull" : [ "$$NTribble, Evelyn$$LTribble$$FEvelyn$$Rauthor" ],
+        "date" : [ "2017 - 2017", "2017" ],
+        "isbn" : [ "9781472576057", "1472576055", "9781472576033" ],
+        "notes" : [ "Includes bibliographical references and index" ],
+        "abstract" : [ "What skills did Shakespeare's actors bring to their craft? How do these skills differ from those of contemporary actors?\" This volume \"examines the 'toolkit' of the early modern player and suggests new readings of the plays of Shakespeare and his contemporaries through the lens of their many skills. Theatre is an ephemeral medium. Little remains to us of the plays of Shakespeare and his contemporaries: some printed texts, scattered documents and records, and a few scraps of description, praise, and detraction. Because most of what survives are printed playbooks, students of English theatre find it easy to forget that much of what happened on the early modern stage took place within the gaps of written language: the implicit or explicit calls for fights, dances, military formations, feats of physical skill, song, and clowning. Theatre historians and textual editors have often ignored or denigrated such moments, seeing them merely as extraneous amusements or signs that the text has been 'corrupted' by actors. This book argues that recapturing a positive account of the skills and expertise of the early modern players will result in a more capacious understanding of the nature of theatricality in the period" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Academic" ],
+        "oclcid" : [ "(ocolc)965825696" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Early modern actors and Shakespeare's theatre. Thinking with the body" ]
+      },
+      "sort" : {
+        "title" : [ "Early modern actors and Shakespeare's theatre. Thinking with the body /" ],
+        "author" : [ "Tribble, Evelyn, author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048379500107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048379500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048379500107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1472576055,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1560-2924",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "243",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "92",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "44",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "74",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "62",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "85",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "512",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 540,
+    "COMBINED_SEARCH_TIME" : 543,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Acting",
+      "count" : "1"
+    }, {
+      "value" : "Acting History 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Acting History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Art Dramatique Histoire 16e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Art Dramatique Histoire 17e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "England",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Stage History To 1625",
+      "count" : "1"
+    }, {
+      "value" : "Sports Recreation General",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater England History 16th Century",
+      "count" : "1"
+    }, {
+      "value" : "Theater England History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Angleterre Histoire 16e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Angleterre Histoire 17e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "To 1699",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Tribble Evelyn",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990000797220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A bibliography of the Caribbean area for geographers " ],
+        "subject" : [ "Caribbean Area$$QCaribbean Area -- Bibliography", "Central America$$QCentral America -- Bibliography", "Mexico$$QMexico -- Bibliography" ],
+        "format" : [ "3 v. (418 leaves) ; 33 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)789226" ],
+        "creationdate" : [ "1971" ],
+        "creator" : [ "Norton, A. V.$$QNorton, A. V." ],
+        "publisher" : [ "Mona, Jamaica : Geography Dept., University of the West Indies" ],
+        "mms" : [ "990000797220107871" ],
+        "contributor" : [ "University of the West Indies (Mona, Jamaica). Dept. of Geography.$$QUniversity of the West Indies (Mona, Jamaica). Dept. of Geography.", "Research Institute for the Study of Man, former owner.$$QResearch Institute for the Study of Man" ],
+        "addtitle" : [ "Bibliography of the Caribbean for geographers" ],
+        "series" : [ "Occasional publications (University of the West Indies (Mona, Jamaica). Department of Geography) ; no. 7.$$QOccasional publications (University of the West Indies (Mona, Jamaica). Department of Geography) ", "University of the West Indies (Mona, Jamaica). Dept. of Geography. Occasional publications, no. 7$$QUniversity of the West Indies (Mona, Jamaica). Dept. of Geography. Occasional publications" ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Mona, Jamaica] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000079722" ],
+        "lds53" : [ "000079722" ],
+        "lds60" : [ "Cover title.", "\"The Caribbean for the purposes of the bibliography includes: Mexico, Guatemala, British Honduras, Honduras, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Guyana and all the islands of the Caribbean Sea, including the Bahamas. The exclusion of El Salvador, Surinam and Franch Guyana was arbitrary\"--Vol. 1, leaf ii.\"", "Errata slip in vol. 1.", "Are index: v. 3, l. 417-418.", "Bobst copy from the collection of the Research Institute for the Study of Man." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990000797220107871" ],
+        "recordid" : [ "alma990000797220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000079722-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Norton" ],
+        "aufirst" : [ "A. V." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Norton, A. V." ],
+        "creatorfull" : [ "$$NNorton, A. V.$$LNorton$$FA. V.$$Rauthor" ],
+        "addtitle" : [ "Bibliography of the Caribbean for geographers" ],
+        "date" : [ "1971" ],
+        "notes" : [ "Bibliography of bibliographies: v. 3, l. 407-416." ],
+        "cop" : [ "Mona, Jamaica" ],
+        "pub" : [ "Geography Dept., University of the West Indies" ],
+        "oclcid" : [ "(ocolc)789226" ],
+        "seriestitle" : [ "University of the West Indies (Mona, Jamaica). Dept. of Geography. Occasional publications, no. 7" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A bibliography of the Caribbean area for geographers" ]
+      },
+      "sort" : {
+        "title" : [ "bibliography of the Caribbean area for geographers /" ],
+        "author" : [ "Norton, A. V." ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990000797220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:789226,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1595ǂ n67 1971",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "115",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "56",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 330,
+    "COMBINED_SEARCH_TIME" : 332,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Caribbean Area Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Central America Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Mexico Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Norton A V",
+      "count" : "1"
+    }, {
+      "value" : "Research Institute For The Study Of Man",
+      "count" : "1"
+    }, {
+      "value" : "University Of The West Indies Mona Jamaica Dept Of Geography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

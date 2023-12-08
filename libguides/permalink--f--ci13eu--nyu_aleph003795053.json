@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037950530107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dictionary of environmental health " ],
+        "subject" : [ "Environmental health$$QEnvironmental health -- Dictionaries", "Hygiène du milieu", "MEDICAL -- Infectious Diseases", "HEALTH & FITNESS -- Diseases -- Contagious", "Environmental Health -- English", "Environmental health" ],
+        "format" : [ "1 online resource (xii, 291 pages)" ],
+        "identifier" : [ "$$CISBN$$V0203165918;$$CISBN$$V9780203165911;$$CISBN$$V9780203280713;$$CISBN$$V0203280717;$$CISBN$$V0203260554;$$CISBN$$V9780203260555;$$COCLC$$V(OCoLC)52986484;$$CISBN$$V0415267242" ],
+        "creationdate" : [ "2003" ],
+        "creator" : [ "Worthington, David, 1953-$$QWorthington, David" ],
+        "publisher" : [ "London ; New York : Spon Press" ],
+        "mms" : [ "990037950530107871" ],
+        "series" : [ "Clay's library of health and the environment$$QClay's library of health and the environment", "Clay's library of health and the environment.$$QClay's library of health and the environment." ],
+        "genre" : [ "Electronic books", "dictionaries", "Dictionaries", "Dictionnaires" ],
+        "relation" : [ "$$Cform$$VDictionary of environmental health$$Z9995699122607871", "$$Cform$$VPrint version: Worthington, David, 1953- Dictionary of environmental health. London ; New York : Spon Press, 2003$$QDictionary of environmental health.$$Z990008853020107871" ],
+        "mesh" : [ "Environmental Health", "Dictionary" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph003795053" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037950530107871" ],
+        "recordid" : [ "alma990037950530107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003795053-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Worthington" ],
+        "aufirst" : [ "David" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Worthington, David" ],
+        "creatorfull" : [ "$$NWorthington, David$$LWorthington$$FDavid$$Rauthor" ],
+        "date" : [ "2003" ],
+        "isbn" : [ "0203165918", "9780203165911", "9780203280713", "0203280717", "0203260554", "9780203260555", "0415267242" ],
+        "notes" : [ "Includes bibliographical references (pages 289-291)." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Spon Press" ],
+        "oclcid" : [ "(ocolc)52986484" ],
+        "seriestitle" : [ "Clay's library of health and the environment" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dictionary of environmental health" ]
+      },
+      "sort" : {
+        "title" : [ "Dictionary of environmental health /" ],
+        "author" : [ "Worthington, David, 1953-" ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037950530107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037950530107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037950530107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203165911,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ra\"566ǂ w68 2003eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "376",
+    "CALL_SOLR_GET_IDS_LIST" : "108",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "94",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "75",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "32",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "677",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 705,
+    "COMBINED_SEARCH_TIME" : 708,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Environmental Health",
+      "count" : "1"
+    }, {
+      "value" : "Environmental Health Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Environmental Health English",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Diseases Contagious",
+      "count" : "1"
+    }, {
+      "value" : "Hygiène Du Milieu",
+      "count" : "1"
+    }, {
+      "value" : "Medical Infectious Diseases",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Worthington David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

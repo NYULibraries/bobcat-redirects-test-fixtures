@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990063659590107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Historical dictionary of witchcraft " ],
+        "subject" : [ "Witchcraft -- History$$QWitchcraft -- History -- Dictionaries", "BODY, MIND & SPIRIT -- Magick Studies", "BODY, MIND & SPIRIT -- Witchcraft & Wicca", "Witchcraft" ],
+        "format" : [ "1 online resource (xix, 271 p.).", "data file" ],
+        "identifier" : [ "$$CLC$$V2020740395;$$CISBN$$V9780810875128;$$CISBN$$V0810875128;$$CISBN$$V9781299282070;$$CISBN$$V1299282075;$$COCLC$$V(OCoLC)1249707338;$$CISBN$$V9780810872455 (cloth : alk. paper)" ],
+        "creationdate" : [ "c2012" ],
+        "creator" : [ "Durrant, Jonathan B. (Jonathan Bryan)$$QDurrant, Jonathan B." ],
+        "publisher" : [ "Lanham, Md. : Scarecrow Press" ],
+        "description" : [ "Covers the history of witchcraft from 1750 B.C.E. though the modern day. Includes a chronology, an introductory essay, and an extensive bibliography featuring cross-referenced entries on witch hunts, witchcraft trials, and related practices around the world." ],
+        "mms" : [ "990063659590107871" ],
+        "contributor" : [ "Bailey, Michael David, 1971-$$QBailey, Michael David" ],
+        "edition" : [ "2nd ed." ],
+        "series" : [ "Historical dictionaries of religions, philosophies, and movements$$QHistorical dictionaries of religions, philosophies, and movements", "Historical dictionaries of religions, philosophies, and movements.$$QHistorical dictionaries of religions, philosophies, and movements." ],
+        "contents" : [ "Editor's Foreword; Acknowledgments; Chronology; Introduction; THE DICTIONARY; A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; V; W; Y; Bibliography; About the Authors." ],
+        "genre" : [ "Dictionaries", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Historical dictionary of witchcraft Lanham, Md. : Scarecrow Press, c2012.$$QHistorical dictionary of witchcraft$$Z990036942820107871" ],
+        "relatedwork" : [ "Bailey, Michael David, 1971- Historical dictionary of witchcraft.$$QBailey, Michael David, 1971- Historical dictionary of witchcraft." ],
+        "place" : [ "Lanham, Md. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph006365959" ],
+        "lds60" : [ "Rev. ed. of: Historical dictionary of witchcraft / Michael D. Bailey." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990063659590107871" ],
+        "recordid" : [ "alma990063659590107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006365959-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Durrant" ],
+        "aufirst" : [ "Jonathan B." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Durrant, Jonathan B. (Jonathan Bryan)" ],
+        "addau" : [ "Bailey, Michael David" ],
+        "creatorfull" : [ "$$NDurrant, Jonathan B. (Jonathan Bryan)$$LDurrant$$FJonathan B.$$Rauthor" ],
+        "contributorfull" : [ "$$NBailey, Michael David$$LBailey$$FMichael David$$Rcontributor", "$$NBailey, Michael David$$Rcontributor" ],
+        "date" : [ "2012", "c2012" ],
+        "isbn" : [ "9780810875128", "0810875128", "9781299282070", "1299282075", "9780810872455" ],
+        "notes" : [ "Includes bibliographical references (p. 213-270)." ],
+        "abstract" : [ "Covers the history of witchcraft from 1750 B.C.E. though the modern day. Includes a chronology, an introductory essay, and an extensive bibliography featuring cross-referenced entries on witch hunts, witchcraft trials, and related practices around the world." ],
+        "cop" : [ "Lanham, Md" ],
+        "pub" : [ "Scarecrow Press" ],
+        "oclcid" : [ "(ocolc)1249707338" ],
+        "lccn" : [ "2020740395" ],
+        "edition" : [ "2nd ed." ],
+        "seriestitle" : [ "Historical dictionaries of religions, philosophies, and movements" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Historical dictionary of witchcraft" ]
+      },
+      "sort" : {
+        "title" : [ "Historical dictionary of witchcraft /" ],
+        "author" : [ "Durrant, Jonathan B. (Jonathan Bryan)" ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659590107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659590107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659590107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659590107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990063659590107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0810875128,OCLC:,LCCN:2020740395&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bf#1566",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "251",
+    "CALL_SOLR_GET_IDS_LIST" : "337",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "529",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "12",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "467",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "62",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "1203",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 1236,
+    "COMBINED_SEARCH_TIME" : 1238,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Body Mind Spirit Magick Studies",
+      "count" : "1"
+    }, {
+      "value" : "Body Mind Spirit Witchcraft Wicca",
+      "count" : "1"
+    }, {
+      "value" : "Witchcraft",
+      "count" : "1"
+    }, {
+      "value" : "Witchcraft History Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bailey Michael David",
+      "count" : "1"
+    }, {
+      "value" : "Durrant Jonathan B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

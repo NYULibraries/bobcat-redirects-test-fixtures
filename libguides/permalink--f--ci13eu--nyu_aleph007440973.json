@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074409730107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Brenner's encyclopedia of genetics " ],
+        "subject" : [ "Genetics$$QGenetics -- Encyclopedias", "Génétique$$QGénétique -- Encyclopédies", "SCIENCE -- Life Sciences -- Genetics & Genomics", "Genetics" ],
+        "format" : [ "1 online resource (7 volumes) : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9780080961569;$$CISBN$$V0080961568;$$COCLC$$V(OCoLC)836404630;$$CISBN$$V9780123749840" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "San Diego, CA : Academic Press" ],
+        "description" : [ "The explosion of the field of genetics over the last decade, with the new technologies that have stimulated research, suggests that a new sort of reference work is needed to keep pace with such a fast-moving and interdisciplinary field. Brenner's Encyclopedia of Genetics, 2nd edition, builds on the foundation of the first edition by addressing many of the key subfields of genetics that were just in their infancy when the first edition was published. The currency and accessibility of this foundational content will be unrivalled, making this work useful for scientists and non-scientists alike." ],
+        "mms" : [ "990074409730107871" ],
+        "contributor" : [ "Maloy, Stanley R., editor.$$QMaloy, Stanley R.", "Hughes, Kelly, editor.$$QHughes, Kelly" ],
+        "addtitle" : [ "Encyclopedia of genetics" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "V. 1. A-Ch -- v. 2. Ci-E -- v. 3. F-H -- v. 4. I-M -- v. 5. N-P -- v. 6. Q-S -- v. 7. T-Z." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Brenner's encyclopedia of genetics. Second edition. Amsterdam : Elsevier/Academic Press, [2013]$$QBrenner's encyclopedia of genetics." ],
+        "mesh" : [ "Genetics", "Genetic Phenomena", "Encyclopedia" ],
+        "place" : [ "San Diego, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebceb", "elssci", "aleph007440973" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074409730107871" ],
+        "recordid" : [ "alma990074409730107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007440973-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Maloy", "Hughes" ],
+        "aufirst" : [ "Stanley R.", "Kelly" ],
+        "auinit" : [ "S", "K" ],
+        "addau" : [ "Maloy, Stanley R.", "Hughes, Kelly" ],
+        "contributorfull" : [ "$$NMaloy, Stanley R.$$LMaloy$$FStanley R.$$Reditor", "$$NHughes, Kelly$$Reditor" ],
+        "addtitle" : [ "Encyclopedia of genetics" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9780080961569", "0080961568", "9780123749840" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The explosion of the field of genetics over the last decade, with the new technologies that have stimulated research, suggests that a new sort of reference work is needed to keep pace with such a fast-moving and interdisciplinary field. Brenner's Encyclopedia of Genetics, 2nd edition, builds on the foundation of the first edition by addressing many of the key subfields of genetics that were just in their infancy when the first edition was published. The currency and accessibility of this foundational content will be unrivalled, making this work useful for scientists and non-scientists alike." ],
+        "cop" : [ "San Diego, CA" ],
+        "pub" : [ "Academic Press" ],
+        "oclcid" : [ "(ocolc)836404630" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Brenner's encyclopedia of genetics" ]
+      },
+      "sort" : {
+        "title" : [ "Brenner's encyclopedia of genetics /" ],
+        "author" : [ "Maloy, Stanley R., editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074409730107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074409730107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074409730107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074409730107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074409730107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0080961568,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qh\"427ǂ e53 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "73",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "82",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "54",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "305",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 327,
+    "COMBINED_SEARCH_TIME" : 330,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Genetic Phenomena",
+      "count" : "1"
+    }, {
+      "value" : "Genetics",
+      "count" : "1"
+    }, {
+      "value" : "Genetics Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Génétique Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Science Life Sciences Genetics Genomics",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hughes Kelly",
+      "count" : "1"
+    }, {
+      "value" : "Maloy Stanley R",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

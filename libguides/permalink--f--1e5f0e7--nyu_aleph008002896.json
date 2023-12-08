@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990080028960107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Designing and managing a research project : a business student's guide " ],
+        "subject" : [ "Business -- Research -- Methodology", "Affaires -- Recherche -- Méthodologie", "Research" ],
+        "format" : [ "1 online resource (346 pages) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2018017631;$$CISBN$$V9781544316499;$$CISBN$$V1544316496;$$CISBN$$V1544316461;$$CISBN$$V9781544316482;$$CISBN$$V1544316488;$$COCLC$$V(OCoLC)1224901929;$$CISBN$$V9781544316468" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Polonsky, Michael J., author.$$QPolonsky, Michael J." ],
+        "publisher" : [ "Los Angeles, CA : SAGE Publications, Inc" ],
+        "description" : [ "Designing and Managing a Research Project: A Business Student's Guide is a practical, step-by-step guide that shows business students how to successfully conduct a research project, from choosing the topic to presenting the results. The authors have applied their many years of experience in supervising student projects to provide examples of actual research problems and to offer practical solutions. The inclusion of topics such as supervision, group work and ethics, and both qualitative and quantitative data analysis, along with examples from real student research provide a unique perspective. The new Fourth Edition includes broader types of student project examples, such as an Economics thesis, additional international business cases, increased coverage of Questionnaire Design and Institutional Review Boards, and an integrated case throughout the book on ‶High Performance Shoes\" with supporting materials and data. Additional resources including case studies, PowerPoint slides, and test bank are available on the authors' website at http://polonskywaller.com!" ],
+        "mms" : [ "990080028960107871" ],
+        "contributor" : [ "Waller, David S., author.$$QWaller, David S." ],
+        "edition" : [ "4th edition." ],
+        "relation" : [ "$$Cform$$VDesigning and managing a research project : a business student's guide$$Z9995731925707871", "$$Cform$$VPrint version :" ],
+        "place" : [ "Los Angeles, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "sagepub", "aleph008002896" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990080028960107871" ],
+        "recordid" : [ "alma990080028960107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008002896-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Polonsky" ],
+        "aufirst" : [ "Michael J." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Polonsky, Michael J." ],
+        "addau" : [ "Waller, David S." ],
+        "creatorfull" : [ "$$NPolonsky, Michael J.$$LPolonsky$$FMichael J.$$Rauthor" ],
+        "contributorfull" : [ "$$NWaller, David S.$$LWaller$$FDavid S.$$Rcontributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781544316499", "1544316496", "1544316461", "9781544316482", "1544316488", "9781544316468" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Designing and Managing a Research Project: A Business Student's Guide is a practical, step-by-step guide that shows business students how to successfully conduct a research project, from choosing the topic to presenting the results. The authors have applied their many years of experience in supervising student projects to provide examples of actual research problems and to offer practical solutions. The inclusion of topics such as supervision, group work and ethics, and both qualitative and quantitative data analysis, along with examples from real student research provide a unique perspective. The new Fourth Edition includes broader types of student project examples, such as an Economics thesis, additional international business cases, increased coverage of Questionnaire Design and Institutional Review Boards, and an integrated case throughout the book on ‶High Performance Shoes\" with supporting materials and data. Additional resources including case studies, PowerPoint slides, and test bank are available on the authors' website at http://polonskywaller.com!" ],
+        "cop" : [ "Los Angeles, CA" ],
+        "pub" : [ "SAGE Publications, Inc" ],
+        "oclcid" : [ "(ocolc)1224901929" ],
+        "lccn" : [ "2018017631" ],
+        "edition" : [ "4th edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Designing and managing a research project : a business student's guide" ]
+      },
+      "sort" : {
+        "title" : [ "Designing and managing a research project : a business student's guide /" ],
+        "author" : [ "Polonsky, Michael J., author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990080028960107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1544316496,OCLC:,LCCN:2018017631&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "q\"180 a1ǂp65 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "302",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "45",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "56",
+    "RETRIVE_FROM_DB_RELATIONS" : "55",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "501",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 527,
+    "COMBINED_SEARCH_TIME" : 530,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Business Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Research",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Polonsky Michael J",
+      "count" : "1"
+    }, {
+      "value" : "Waller David S",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,281 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990016114080107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Theorizing myth : narrative, ideology, and scholarship " ],
+        "subject" : [ "Myth -- Study and teaching -- History", "Mythe -- Étude et enseignement -- Histoire", "Myth -- Study and teaching", "Theorieën", "Historisk framstilling", "Mytologi (Religion)", "Myter", "Forskning", "Mitos (estudo e ensino;história)", "Mitologia", "Mythe -- Étude et enseignement", "Mythologie", "mytologi", "teori", "metode" ],
+        "format" : [ "xv, 298 pages : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V99013427;$$CISBN$$V0226482014;$$CISBN$$V9780226482019;$$CISBN$$V0226482022;$$CISBN$$V9780226482026;$$COCLC$$V(OCoLC)40762587" ],
+        "creationdate" : [ "1999" ],
+        "creator" : [ "Lincoln, Bruce.$$QLincoln, Bruce." ],
+        "publisher" : [ "Chicago : University of Chicago Press" ],
+        "description" : [ "In Theorizing Myth, Bruce Lincoln explores how scholars and other have used the category of \"myth\" to fetishize or deride certain kinds of stories, usually those told by others. He begins by showing that mythos yielded to logos not as part of a (mythic) \"Greek miracle,\" but as part of struggles over political, linguistic, and epistemological authority occasioned by expanded use of writing and the practice of Athenian democracy. Lincoln then turns his attention to the period when myth was recuperated as a privileged type of narrative, a process he locates in the political and cultural ferment of the eighteenth and nineteenth centuries. Here, he connects renewed enthusiasm for myth to the nexus of Romanticism, nationalism, and Aryan triumphalism, particularly the quest for a language and set of stories on which nation-states could be founded. In the final section of this wide-ranging book, Lincoln advocates a fresh approach to the study of myth, providing varied case studies to support his view of myth - and scholarship on myth - as ideology in narrative form." ],
+        "mms" : [ "990016114080107871" ],
+        "contents" : [ "Mythos among the Greeks -- The Prehistory of Mythos and Logos -- From Homer through Plato -- A Modern History of Myth -- The History of Myth from the Renaissance to the Second World War -- Mr. Jones's Myth of Origins -- Nietzsche's \"Blond Beast\" -- Dumezil's German War God -- New Directions -- From the Second World War to the Present (and Possibly a Little Beyond) -- Plutarch's Sibyl -- Gautrek's Saga and the Gift Fox -- Once Again, the Bovine's Lament -- The Pandits and Mr. Jones -- Epilogue: Scholarship as Myth." ],
+        "genre" : [ "History" ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001611408" ],
+        "lds53" : [ "001611408" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990016114080107871" ],
+        "recordid" : [ "alma990016114080107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001611408-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lincoln" ],
+        "aufirst" : [ "Bruce." ],
+        "auinit" : [ "B" ],
+        "au" : [ "Lincoln, Bruce." ],
+        "creatorfull" : [ "$$NLincoln, Bruce.$$LLincoln$$FBruce.$$Rauthor" ],
+        "date" : [ "1999" ],
+        "isbn" : [ "0226482014", "9780226482019", "0226482022", "9780226482026" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "In Theorizing Myth, Bruce Lincoln explores how scholars and other have used the category of \"myth\" to fetishize or deride certain kinds of stories, usually those told by others. He begins by showing that mythos yielded to logos not as part of a (mythic) \"Greek miracle,\" but as part of struggles over political, linguistic, and epistemological authority occasioned by expanded use of writing and the practice of Athenian democracy. Lincoln then turns his attention to the period when myth was recuperated as a privileged type of narrative, a process he locates in the political and cultural ferment of the eighteenth and nineteenth centuries. Here, he connects renewed enthusiasm for myth to the nexus of Romanticism, nationalism, and Aryan triumphalism, particularly the quest for a language and set of stories on which nation-states could be founded. In the final section of this wide-ranging book, Lincoln advocates a fresh approach to the study of myth, providing varied case studies to support his view of myth - and scholarship on myth - as ideology in narrative form." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)40762587" ],
+        "lccn" : [ "99013427" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Theorizing myth : narrative, ideology, and scholarship" ]
+      },
+      "sort" : {
+        "title" : [ "Theorizing myth : narrative, ideology, and scholarship /" ],
+        "author" : [ "Lincoln, Bruce." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990016114080107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990016114080107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780226482019,OCLC:,LCCN:99013427&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/description/uchi052/99013427.html",
+        "displayLabel" : "Publisher description"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/toc/uchi052/99013427.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bl\"320ǂ l56 1999",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "67",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "21",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "65",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "334",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 361,
+    "COMBINED_SEARCH_TIME" : 365,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Forskning",
+      "count" : "1"
+    }, {
+      "value" : "Historisk Framstilling",
+      "count" : "1"
+    }, {
+      "value" : "Metode",
+      "count" : "1"
+    }, {
+      "value" : "Mitologia",
+      "count" : "1"
+    }, {
+      "value" : "Mitos Estudo E Ensino História",
+      "count" : "1"
+    }, {
+      "value" : "Myter",
+      "count" : "1"
+    }, {
+      "value" : "Myth Study And Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Myth Study And Teaching History",
+      "count" : "1"
+    }, {
+      "value" : "Mythe Étude Et Enseignement",
+      "count" : "1"
+    }, {
+      "value" : "Mythe Étude Et Enseignement Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Mythologie",
+      "count" : "1"
+    }, {
+      "value" : "Mytologi",
+      "count" : "1"
+    }, {
+      "value" : "Mytologi Religion",
+      "count" : "1"
+    }, {
+      "value" : "Teori",
+      "count" : "1"
+    }, {
+      "value" : "Theorieën",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lincoln Bruce",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

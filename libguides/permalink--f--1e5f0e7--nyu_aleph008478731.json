@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990084787310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Business research methodology : research process and methods " ],
+        "subject" : [ "Affaires -- Recherche -- Méthodologie", "Business -- Research -- Methodology", "Betriebswirtschaftslehre", "Forschungsmethode", "Wissenschaftliches Arbeiten" ],
+        "format" : [ "1 online resource (519 pages)", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9783030768577;$$CISBN$$V3030768570;$$COCLC$$V(OCoLC)1291314193;$$CISBN$$V9783030768560" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Aityan, S. K. (Sergey K.), author.$$QAityan, S. K." ],
+        "publisher" : [ "Cham : Springer" ],
+        "description" : [ "This book introduces students to major research processes and methods used in business research. The research process includes all steps in the research project beginning from the problem formulation, through research design, proposal, conducting the research, deriving conclusions, writing research report, and preparing and making presentation. The major research methods include risk assessment, statistics, sampling, hypothesis testing, surveys, and comparative analysis. It helps students develop solid knowledge and practical skills sufficient for conducting a research project from its initiation, through completion, and delivery. The author provides multiple examples as well as the questions and problems for self-testing and self-evaluation in each chapter. The book is structured to provide a smooth flow of understanding and learning the material along the learning curve and is concise enough to fit a one-semester course." ],
+        "mms" : [ "990084787310107871" ],
+        "series" : [ "Classroom companion. Business.$$QClassroom companion.", "Classroom companion: Business$$QClassroom companion: Business" ],
+        "contents" : [ "Part I: The Journey to the Land of Unknown -- Chapter 1: The Nature of Research -- Chapter 2: Scientific Method -- Chapter 3: The Research Process -- Part II: Preparation for Research -- Chapter 4: Formulating a Research Problem -- Chapter 5: Review of Literature -- Chapter 6: Research Design -- Chapter 7: Research Proposal -- Part III: Research Methods -- Chapter 8: Foundations of Probability -- Chapter 9: Distribution, Expectation, and Risk -- Chapter 10: Bayesian Probability -- Chapter 11: Major Distributions -- Chapter 12: Introduction to Statistics -- Chapter 13: Confidence Intervals -- Chapter 14: Statistical Hypotheses Testing -- Chapter 15: Sampling Experiments -- Chapter 16: Survey Method -- Chapter 17: Linear Regression -- Chapter 18: Comparative Analysis -- Part IV: Conducting Research -- Chapter 19: Theories, Experiments, Data Collection, and Analysis -- Chapter 20: Deriving Conclusions -- Chapter 21: Ethical and Legal Issues of Research -- Part V: Delivering the Results -- Chapter 22: Writing Research Report -- Chapter 23: Making Presentations -- Appendix A: The Standard Normal Distribution Tables -- Appendix B: Student's t-Distribution Tables -- Appendix C: Business Research Case Studies." ],
+        "genre" : [ "Lehrbuch" ],
+        "relation" : [ "$$Cform$$VPrint version: Aityan, Sergey K. Business Research Methodology. Cham : Springer International Publishing AG, ©2021$$QBusiness Research Methodology." ],
+        "place" : [ "Cham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008478731" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990084787310107871" ],
+        "recordid" : [ "alma990084787310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008478731-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Aityan" ],
+        "aufirst" : [ "S. K." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Aityan, S. K. (Sergey K.)" ],
+        "creatorfull" : [ "$$NAityan, S. K. (Sergey K.)$$LAityan$$FS. K.$$Rauthor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9783030768577", "3030768570", "9783030768560" ],
+        "abstract" : [ "This book introduces students to major research processes and methods used in business research. The research process includes all steps in the research project beginning from the problem formulation, through research design, proposal, conducting the research, deriving conclusions, writing research report, and preparing and making presentation. The major research methods include risk assessment, statistics, sampling, hypothesis testing, surveys, and comparative analysis. It helps students develop solid knowledge and practical skills sufficient for conducting a research project from its initiation, through completion, and delivery. The author provides multiple examples as well as the questions and problems for self-testing and self-evaluation in each chapter. The book is structured to provide a smooth flow of understanding and learning the material along the learning curve and is concise enough to fit a one-semester course." ],
+        "cop" : [ "Cham" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1291314193" ],
+        "doi" : [ "10.1007/978-3-030-76857-7" ],
+        "seriestitle" : [ "Classroom companion: Business" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Business research methodology : research process and methods" ]
+      },
+      "sort" : {
+        "title" : [ "Business research methodology : research process and methods /" ],
+        "author" : [ "Aityan, S. K. (Sergey K.), author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084787310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990084787310107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3030768570,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "147",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "48",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "123",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "431",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 467,
+    "COMBINED_SEARCH_TIME" : 470,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Betriebswirtschaftslehre",
+      "count" : "1"
+    }, {
+      "value" : "Business Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Forschungsmethode",
+      "count" : "1"
+    }, {
+      "value" : "Wissenschaftliches Arbeiten",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aityan S K",
+      "count" : "1"
+    } ]
+  } ]
+}

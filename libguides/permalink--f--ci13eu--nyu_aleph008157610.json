@@ -1,0 +1,281 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081576100107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Haitians : a decolonial history " ],
+        "subject" : [ "Haiti -- Colonization -- History", "Haiti -- History", "Haiti -- Politics and government", "Souveraineté", "Haïti -- Histoire", "Haïti -- Politique et gouvernement", "sovereignty", "HISTORY / Caribbean & West Indies / General", "Colonization", "Politics and government", "Sovereignty", "Haiti" ],
+        "format" : [ "1 online resource (xxix, 419 pages)", "text file PDF" ],
+        "identifier" : [ "$$CISBN$$V9781469660509;$$CISBN$$V1469660504;$$CISBN$$V9781469660493;$$CISBN$$V1469660490;$$COCLC$$V(OCoLC)1198716249;$$CISBN$$V9781469651545;$$CISBN$$V1469651548;$$CISBN$$V9781469660486;$$CISBN$$V1469660482" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Casimir, Jean, author.$$QCasimir, Jean" ],
+        "publisher" : [ "Chapel Hill : University of North Carolina Press" ],
+        "description" : [ "\"In this sweeping history, leading Haitian intellectual Jean Casimir argues that the story of Haiti should not begin with the usual image of Saint-Domingue as the richest colony of the eighteenth century. Rather, it begins with a reconstruction of how individuals from Africa, in the midst of the golden age of imperialism, created a sovereign society based on political imagination and a radical rejection of the colonial order, persisting even through the U.S. occupation in 1915\"-- Provided by publisher." ],
+        "mms" : [ "990081576100107871" ],
+        "contributor" : [ "Dubois, Laurent, 1971- translator.$$QDubois, Laurent", "Mignolo, Walter, writer of foreword.$$QMignolo, Walter" ],
+        "series" : [ "Latin America in translation/en traducción/em tradução$$QLatin America in translation/en traducción/em tradução", "Latin America in translation/en traducción/em tradução.$$QLatin America in translation/en traducción/em tradução." ],
+        "contents" : [ "Foreword : Thinking Decoloniality Beyond One Nation-One State / Walter D. Mignolo -- Introduction : Perspective -- Resisting the Production of Sufferers -- Colonial Thought -- Slaves or Peasants -- The Pursuit of Impossible Segregation -- The Citizen Property-Owner -- Public Order and Communal Order -- The Power and Beauty of the Sovereign People -- An independent state without a sovereign people -- The state in the nineteenth century." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Casimir, Jean. The Haitians. Chapel Hill : University of North Carolina Press, [2020]$$QThe Haitians.$$Z990076568700107871", "$$Cform$$VPrint version:$$Z990076568700107871", "$$Cform$$VThe Haitians : a decolonial history$$Z9995665062507871" ],
+        "place" : [ "Chapel Hill :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "jstoreba", "oxfacad", "pmusebp", "aleph008157610" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081576100107871" ],
+        "recordid" : [ "alma990081576100107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008157610-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Casimir" ],
+        "aufirst" : [ "Jean" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Casimir, Jean" ],
+        "addau" : [ "Dubois, Laurent", "Mignolo, Walter" ],
+        "creatorfull" : [ "$$NCasimir, Jean$$LCasimir$$FJean$$Rauthor" ],
+        "contributorfull" : [ "$$NDubois, Laurent$$LDubois$$FLaurent$$Rtranslator", "$$NMignolo, Walter$$Rsecondary contributor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781469660509", "1469660504", "9781469660493", "1469660490", "9781469651545", "1469651548", "9781469660486", "1469660482" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"In this sweeping history, leading Haitian intellectual Jean Casimir argues that the story of Haiti should not begin with the usual image of Saint-Domingue as the richest colony of the eighteenth century. Rather, it begins with a reconstruction of how individuals from Africa, in the midst of the golden age of imperialism, created a sovereign society based on political imagination and a radical rejection of the colonial order, persisting even through the U.S. occupation in 1915\"-- Provided by publisher." ],
+        "cop" : [ "Chapel Hill" ],
+        "pub" : [ "University of North Carolina Press" ],
+        "oclcid" : [ "(ocolc)1198716249" ],
+        "seriestitle" : [ "Latin America in translation/en traducción/em tradução" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Haitians : a decolonial history" ]
+      },
+      "sort" : {
+        "title" : [ "Haitians : a decolonial history /" ],
+        "author" : [ "Casimir, Jean, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081576100107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081576100107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081576100107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081576100107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081576100107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1469660504,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#1921ǂ c267 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "261",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "185",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "52",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "158",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "67",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "616",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 650,
+    "COMBINED_SEARCH_TIME" : 654,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Colonization",
+      "count" : "1"
+    }, {
+      "value" : "Haiti",
+      "count" : "1"
+    }, {
+      "value" : "Haiti Colonization History",
+      "count" : "1"
+    }, {
+      "value" : "Haiti History",
+      "count" : "1"
+    }, {
+      "value" : "Haiti Politics And Government",
+      "count" : "1"
+    }, {
+      "value" : "Haïti Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Haïti Politique Et Gouvernement",
+      "count" : "1"
+    }, {
+      "value" : "History Caribbean West Indies General",
+      "count" : "1"
+    }, {
+      "value" : "Politics And Government",
+      "count" : "1"
+    }, {
+      "value" : "Souveraineté",
+      "count" : "1"
+    }, {
+      "value" : "Sovereignty",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Casimir Jean",
+      "count" : "1"
+    }, {
+      "value" : "Dubois Laurent",
+      "count" : "1"
+    }, {
+      "value" : "Mignolo Walter",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

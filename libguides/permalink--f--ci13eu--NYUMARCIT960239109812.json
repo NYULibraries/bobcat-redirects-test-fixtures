@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995638769707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "South Asia bulletin." ],
+        "subject" : [ "South Asia$$QSouth Asia -- Periodicals", "Africa$$QAfrica -- Periodicals", "Middle East$$QMiddle East -- Periodicals", "Africa", "Middle East", "South Asia" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V0732-3867" ],
+        "creationdate" : [ "1981-©1994" ],
+        "publisher" : [ "Los Angeles : University of California, Los Angeles", "Vol. 1 (winter 1981)-v. 14, no. 2 (1994)." ],
+        "mms" : [ "9995638769707871" ],
+        "contributor" : [ "South Asia Association (University of California, Los Angeles)$$QSouth Asia Association (University of California, Los Angeles)", "University of California, Los Angeles.$$QUniversity of California, Los Angeles.", "State University of New York.$$QState University of New York." ],
+        "frequency" : [ "Two no. a year" ],
+        "genre" : [ "Periodicals" ],
+        "relation" : [ "$$Cform$$VPrint version: South Asia bulletin.$$QSouth Asia bulletin.$$Z990027780620107871", "$$Clater_title$$VComparative Studies of South Asia, Africa and the Middle East$$QComparative Studies of South Asia, Africa and the Middle East$$Z9995642228107871" ],
+        "place" : [ "Los Angeles] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)960239109812" ],
+        "lds60" : [ "Issues for 1993-1994 have subtitle: Comparative studies of South Asia, Africa, and the Middle East.", "Title from cover.", "Published: Albany, N.Y. : State Univ. of New York, <1988->" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995638769707871" ],
+        "recordid" : [ "alma9995638769707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99960239109812" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "SOUTH ASIA BULL", "South Asia bull." ],
+        "date" : [ "1981 - 1994", "1981-©1994" ],
+        "issn" : [ "0732-3867" ],
+        "cop" : [ "Los Angeles" ],
+        "pub" : [ "[University of California, Los Angeles]" ],
+        "oclcid" : [ "(ckb)960239109812", "(conser)---82642447-", "(de-599)zdb0732-3867;1089-201x;1548-226x" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "South Asia bulletin." ]
+      },
+      "sort" : {
+        "title" : [ "South Asia bulletin." ],
+        "author" : [ "South Asia Association (University of California, Los Angeles)" ],
+        "creationdate" : [ "1981" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638769707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638769707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995638769707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ds\"335ǂ s58",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "152",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "55",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "26",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "27",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "25",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "316",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 351,
+    "COMBINED_SEARCH_TIME" : 354,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1981",
+      "count" : "1"
+    }, {
+      "value" : "1994",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa",
+      "count" : "1"
+    }, {
+      "value" : "Africa Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Middle East",
+      "count" : "1"
+    }, {
+      "value" : "Middle East Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "South Asia",
+      "count" : "1"
+    }, {
+      "value" : "South Asia Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "South Asia Association University Of California Los Angeles",
+      "count" : "1"
+    }, {
+      "value" : "State University Of New York",
+      "count" : "1"
+    }, {
+      "value" : "University Of California Los Angeles",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

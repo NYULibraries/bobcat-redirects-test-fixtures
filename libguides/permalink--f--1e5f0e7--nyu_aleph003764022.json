@@ -1,0 +1,250 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037640220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Writing science in plain English " ],
+        "subject" : [ "Technical writing", "Communication in science", "English language -- Style" ],
+        "format" : [ "xii, 124 pages ; 22 cm" ],
+        "identifier" : [ "$$CLC$$V2012043145;$$CISBN$$V9780226026374 (pbk. : alk. paper);$$CISBN$$V022602637X (pbk. : alk. paper);$$COCLC$$V(OCoLC)809911038" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Greene, Anne E.$$QGreene, Anne E." ],
+        "publisher" : [ "Chicago ; London : The University of Chicago Press" ],
+        "mms" : [ "990037640220107871" ],
+        "series" : [ "Chicago guides to writing, editing, and publishing$$QChicago guides to writing, editing, and publishing", "Chicago guides to writing, editing, and publishing.$$QChicago guides to writing, editing, and publishing." ],
+        "contents" : [ "Why write science in plain English? -- Before you write. Audience ; Register ; Tone -- Tell a story. Make characters subjects and their actions verbs ; Use strong verbs ; Place subjects and verbs close together -- Favor the active voice. Benefits of active voice ; Proper uses of passive voice -- Choose your words with care. Use short words instead of long ones ; Keep terms the same ; Break up noun strings ; Rethink technical terms -- Omit needless words. Redundancy ; Metadiscourse and transition words ; Affirmatives and negatives -- Old information and new information. Put old information at beginnings of sentences ; Put new information at ends of sentences -- Make lists parallel -- Vary the length of your sentences -- Design your paragraphs. Issue ; Development ; Conclusion ; Point -- Arrange your paragraphs. Chronological order ; General to specific ; Least important to most important ; Problem to solution ; Compare and contrast ; Transition words revisited -- Appendix 1. Basic writing concepts -- Appendix 2. Exercise key." ],
+        "place" : [ "Chicago ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003764022" ],
+        "lds53" : [ "003764022" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037640220107871" ],
+        "recordid" : [ "alma990037640220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003764022-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Greene" ],
+        "aufirst" : [ "Anne E." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Greene, Anne E." ],
+        "creatorfull" : [ "$$NGreene, Anne E.$$LGreene$$FAnne E.$$Rauthor" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9780226026374", "022602637X" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Chicago ;" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)809911038" ],
+        "lccn" : [ "2012043145" ],
+        "seriestitle" : [ "Chicago guides to writing, editing, and publishing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Writing science in plain English" ]
+      },
+      "sort" : {
+        "title" : [ "Writing science in plain English /" ],
+        "author" : [ "Greene, Anne E." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990037640220107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990037640220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990037640220107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:022602637X,OCLC:,LCCN:2012043145&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "t!11ǂ g6814 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "118",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "51",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "20",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "62",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "103",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "349",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 390,
+    "COMBINED_SEARCH_TIME" : 393,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Communication In Science",
+      "count" : "1"
+    }, {
+      "value" : "English Language Style",
+      "count" : "1"
+    }, {
+      "value" : "Technical Writing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Greene Anne E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

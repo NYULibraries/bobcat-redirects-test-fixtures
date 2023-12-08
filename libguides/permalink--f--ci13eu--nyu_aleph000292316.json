@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002923160107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Broadway musicals, 1943-2004 " ],
+        "subject" : [ "Musicals -- New York (State) -- New York$$QMusicals -- New York (State) -- New York -- Encyclopedias" ],
+        "format" : [ "ix, 1039 p. ; 29 cm." ],
+        "identifier" : [ "$$CLC$$V2005024680;$$CISBN$$V0786422440 (library binding : alk. paper);$$COCLC$$V(OCoLC)61362150" ],
+        "creationdate" : [ "c2006" ],
+        "creator" : [ "Stewart, John, 1952-$$QStewart, John" ],
+        "publisher" : [ "Jefferson, N.C. : McFarland" ],
+        "description" : [ "\"This reference book provides information on every musical produced on Broadway since Oklahoma in 1943. Each entry contains a brief synopsis; the pre-Broadway story; the facts of the Broadway run itself, with dates, theatres, and cast and crew; and post-Broadway information with a detailed list of later notable productions, along with important reviews and awards\"--Provided by publisher." ],
+        "mms" : [ "990002923160107871" ],
+        "genre" : [ "Encyclopedias" ],
+        "place" : [ "Jefferson, N.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000292316" ],
+        "lds53" : [ "000292316" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990002923160107871" ],
+        "recordid" : [ "alma990002923160107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000292316-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Stewart" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Stewart, John" ],
+        "creatorfull" : [ "$$NStewart, John$$LStewart$$FJohn$$Rauthor" ],
+        "date" : [ "2006", "c2006" ],
+        "isbn" : [ "0786422440" ],
+        "notes" : [ "Includes bibliographical references (p. 805-806) and indexes." ],
+        "abstract" : [ "\"This reference book provides information on every musical produced on Broadway since Oklahoma in 1943. Each entry contains a brief synopsis; the pre-Broadway story; the facts of the Broadway run itself, with dates, theatres, and cast and crew; and post-Broadway information with a detailed list of later notable productions, along with important reviews and awards\"--Provided by publisher." ],
+        "cop" : [ "Jefferson, N.C" ],
+        "pub" : [ "McFarland" ],
+        "oclcid" : [ "(ocolc)61362150" ],
+        "lccn" : [ "2005024680" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Broadway musicals, 1943-2004" ]
+      },
+      "sort" : {
+        "title" : [ "Broadway musicals, 1943-2004 /" ],
+        "author" : [ "Stewart, John, 1952-" ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990002923160107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0786422440,OCLC:,LCCN:2005024680&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/toc/ecip0518/2005024680.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ml\"102 m88ǂs74 2006",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "134",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "52",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "317",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 339,
+    "COMBINED_SEARCH_TIME" : 341,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Musicals New York State New York Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Stewart John",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

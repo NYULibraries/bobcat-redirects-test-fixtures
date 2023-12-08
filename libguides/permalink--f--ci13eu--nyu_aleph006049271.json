@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060492710107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A guide to clinical assessment & professional report writing in speech-language pathology " ],
+        "subject" : [ "Speech therapy -- Evaluation", "Speech therapy", "Report writing", "Medical writing" ],
+        "format" : [ "xiv, 426 pages : illustrations ; 27 cm" ],
+        "identifier" : [ "$$CLC$$V2017048156;$$CISBN$$V9781630913724;$$CISBN$$V1630913723;$$COCLC$$V(OCoLC)1005929045;$$CISBN$$V9781630913731" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "Thorofare, NJ : SLACK Incorporated" ],
+        "mms" : [ "990060492710107871" ],
+        "contributor" : [ "Stein-Rubin, Cyndi, editor.$$QStein-Rubin, Cyndi", "Fabus, Renee Laura, 1968- editor.$$QFabus, Renee Laura", "Stein-Rubin, Cyndi.$$QStein-Rubin, Cyndi." ],
+        "addtitle" : [ "Guide to clinical assessment and professional report writing in speech-language pathology" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "N introduction to assessment : a diagnostic philosophy in speech-language pathology / Charles Goldman -- Counseling and the diagnostic interview for the speech-language pathologist / Cyndi Stein-Rubin and Beryl T. Adler -- The basics of diagnostic report writing / Cyndi Stein-Rubin and Natalie Schaeffer -- Psychometrics for speech and language assessment : principles and pitfalls / Baila Epstein -- Audiological screening in the speech-language evaluation / Rochelle Cherry, Adrienne Rubinstein and Dorothy Neave-DiToro -- Assessment of the oral-peripheral speech mechanism / Renee Fabus, Felicia Gironda and Susanna Musayeva -- Assessment of speech sound disorders / Renee Fabus and Felicia Gironda -- Assessment of preschool language disorders / Diana Almodóvar, Liat Seiger-Gardner and Naomi Shualy -- Assessment of speech, language, and communication in autism spectrum disorders / Susan Longtin -- Assessment of school-age language and literacy disorders / Gail B. Gurland and Klara Marton -- Assessment of aphasia / Elizabeth E. Galletta and Amy Vogel-Eyny -- Assessment of voice disorders / Natalie Schaeffer -- Assessment of fluency disorders / Naomi Eichorn and Renee Fabus -- Assessment of feeding and swallowing disorders across the life span / Patricia Kerman Lerner and Tina M. Tan -- Assessment of accent / Dalia Elbaz-Pinto and Michaels-Wilde." ],
+        "relation" : [ "$$Cform$$VOnline version: Guide to clinical assessment and professional report writing in speech-language pathology. Second edition. Thorofare, NJ : SLACK Incorporated, [2018]$$QGuide to clinical assessment and professional report writing in speech-language pathology." ],
+        "relatedwork" : [ "Preceded by (work): Stein-Rubin, Cyndi. Guide to clinical assessment and professional report writing in speech-language pathology.$$QStein-Rubin, Cyndi. Guide to clinical assessment and professional report writing in speech-language pathology." ],
+        "place" : [ "Thorofare, NJ :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006049271" ],
+        "lds53" : [ "006049271" ],
+        "lds60" : [ "Preceded by A guide to clinical assessment and professional report writing in speech-language pathology / Cyndi Stein-Rubin, Renee Fabus. Cilifton Park, NY : Cengage Learning, c2012." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060492710107871" ],
+        "recordid" : [ "alma990060492710107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006049271-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Fabus", "Stein-Rubin" ],
+        "aufirst" : [ "Cyndi", "Renee Laura", "Cyndi." ],
+        "auinit" : [ "R", "C" ],
+        "addau" : [ "Stein-Rubin, Cyndi", "Fabus, Renee Laura", "Stein-Rubin, Cyndi." ],
+        "contributorfull" : [ "$$NStein-Rubin, Cyndi$$LStein-Rubin$$FCyndi$$Reditor", "$$NFabus, Renee Laura$$Reditor", "$$NStein-Rubin, Cyndi.$$Rcontributor" ],
+        "addtitle" : [ "Guide to clinical assessment and professional report writing in speech-language pathology" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9781630913724", "1630913723", "9781630913731" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Thorofare, NJ" ],
+        "pub" : [ "SLACK Incorporated" ],
+        "oclcid" : [ "(ocolc)1005929045" ],
+        "lccn" : [ "2017048156" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A guide to clinical assessment & professional report writing in speech-language pathology" ]
+      },
+      "sort" : {
+        "title" : [ "guide to clinical assessment & professional report writing in speech-language pathology /" ],
+        "author" : [ "Stein-Rubin, Cyndi, editor." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990060492710107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1630913723,OCLC:,LCCN:2017048156&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"428.5ǂ s84 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "71",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "154",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "338",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 371,
+    "COMBINED_SEARCH_TIME" : 374,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Medical Writing",
+      "count" : "1"
+    }, {
+      "value" : "Report Writing",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy Evaluation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Fabus Renee Laura",
+      "count" : "1"
+    }, {
+      "value" : "Stein Rubin Cyndi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081650010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "GMAT official guide quantitative review 2022 : book + online " ],
+        "subject" : [ "Graduate Management Admission Test$$QGraduate Management Admission Test -- Study guides", "Universities and colleges -- Graduate work -- Examinations$$QUniversities and colleges -- Graduate work -- Examinations -- Study guides", "Mathematics$$QMathematics -- Examinations, questions, etc", "Management$$QManagement -- Examinations, questions, etc", "Business$$QBusiness -- Examinations, questions, etc", "Business", "Graduate Management Admission Test", "Management", "Mathematics", "Universities and colleges -- Graduate work -- Examinations" ],
+        "format" : [ "vii, 325 pages : illustrations ; 28 cm" ],
+        "identifier" : [ "$$CISBN$$V9781119793786 (paperback) :;$$CISBN$$V1119793785 (paperback) :;$$COCLC$$V(OCoLC)1251928941" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Hoboken, New Jersey : John Wiley & Sons, Inc." ],
+        "description" : [ "A supplement to the Official Guide with 300 additional quantitative questions , The GMAT Official Guide 2019 Quantitative Review provides targeted preparation for the mathematical portion of the GMAT exam. Designed by the Graduate Management Admission Council, this guide contains 300 real GMAT questions from past exams including 45 never-before-seen questions, plus the following features: An overview of the exam to help you get familiar with the content and format Review essential algebra, geometry, arithmetic, and word problems Detailed answer explanations that explain how the test maker thinks about a question Questions organized in order of difficulty from easiest to hardest Access to the same questions online at gmat.wiley.com, where you can build your own practice sets. Don't waste time practicing on fake GMAT questions. Optimize your study time with the GMAT Official Guide 2019 Quantitative Review using real questions from actual past exams." ],
+        "mms" : [ "990081650010107871" ],
+        "contributor" : [ "Graduate Management Admission Council, creator.$$QGraduate Management Admission Council" ],
+        "addtitle" : [ "Graduate Management Admission Test official guide quantitative review 2022", "Official guide quantitative review 2022", "GMAT quantitative review 2022" ],
+        "genre" : [ "Examinations, questions, etc", "Examinations", "Study guides" ],
+        "place" : [ "Hoboken, New Jersey :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008165001" ],
+        "lds53" : [ "008165001" ],
+        "lds60" : [ "\"The only source of real GMAT questions from past exams.\"", "300 quantitative questions unique to this guide", "Includes indexes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081650010107871" ],
+        "recordid" : [ "alma990081650010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008165001-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Graduate Management Admission Test official guide quantitative review 2022", "Official guide quantitative review 2022", "GMAT quantitative review 2022" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9781119793786", "1119793785" ],
+        "abstract" : [ "A supplement to the Official Guide with 300 additional quantitative questions , The GMAT Official Guide 2019 Quantitative Review provides targeted preparation for the mathematical portion of the GMAT exam. Designed by the Graduate Management Admission Council, this guide contains 300 real GMAT questions from past exams including 45 never-before-seen questions, plus the following features: An overview of the exam to help you get familiar with the content and format Review essential algebra, geometry, arithmetic, and word problems Detailed answer explanations that explain how the test maker thinks about a question Questions organized in order of difficulty from easiest to hardest Access to the same questions online at gmat.wiley.com, where you can build your own practice sets. Don't waste time practicing on fake GMAT questions. Optimize your study time with the GMAT Official Guide 2019 Quantitative Review using real questions from actual past exams." ],
+        "cop" : [ "Hoboken, New Jersey" ],
+        "pub" : [ "John Wiley & Sons, Inc." ],
+        "oclcid" : [ "(ocolc)1251928941" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "GMAT official guide quantitative review 2022 : book + online" ]
+      },
+      "sort" : {
+        "title" : [ "GMAT official guide quantitative review 2022 : book + online /" ],
+        "author" : [ "Graduate Management Admission Council, creator." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990081650010107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119793785,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "650.076",
+        "callNumberBrowseField" : "DEWEY_DECIMAL_CLASSIFICATION"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "74",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "22",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "226",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 253,
+    "COMBINED_SEARCH_TIME" : 257,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business",
+      "count" : "1"
+    }, {
+      "value" : "Business Examinations Questions Etc",
+      "count" : "1"
+    }, {
+      "value" : "Graduate Management Admission Test",
+      "count" : "1"
+    }, {
+      "value" : "Graduate Management Admission Test Study Guides",
+      "count" : "1"
+    }, {
+      "value" : "Management",
+      "count" : "1"
+    }, {
+      "value" : "Management Examinations Questions Etc",
+      "count" : "1"
+    }, {
+      "value" : "Mathematics",
+      "count" : "1"
+    }, {
+      "value" : "Mathematics Examinations Questions Etc",
+      "count" : "1"
+    }, {
+      "value" : "Universities And Colleges Graduate Work Examinations",
+      "count" : "1"
+    }, {
+      "value" : "Universities And Colleges Graduate Work Examinations Study Guides",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Graduate Management Admission Council",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

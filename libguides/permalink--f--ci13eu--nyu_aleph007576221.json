@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075762210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The art and practice of costume design " ],
+        "subject" : [ "PERFORMING ARTS -- Theater -- General", "Costume" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2015044292;$$CISBN$$V9781315738420;$$CISBN$$V1315738422;$$CISBN$$V9781317573678;$$CISBN$$V1317573676;$$CISBN$$V9781317573685;$$CISBN$$V1317573684;$$CISBN$$V9781317573661;$$CISBN$$V1317573668;$$COCLC$$V(OCoLC)928889748;$$CISBN$$V9781138828407" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "New York and London : Routledge/Taylor & Francis Group" ],
+        "description" : [ "In The Art and Practice of Costume Design , a panel of seven designers offer a new multi-sided look at the current state and practice of theatrical costume design. Beginning with an exploration of the role of a Costume Designer, the subsequent chapters analyse and explore the psychology of dress, the principles and elements of design, how to create costume renderings, and collaboration within the production. The book also takes a look at the costume shop and the role of the designer within it, and costume design careers within theatrical and fashion industries." ],
+        "mms" : [ "990075762210107871" ],
+        "contributor" : [ "Merz, Melissa, editor.$$QMerz, Melissa" ],
+        "contents" : [ "Preface -- Introduction: what is costume design? -- The magic of costume design / by Melissa L. Merz -- Identifying character through clothing / by Melissa L. Merz -- Costume & character: the elements and principles of design in the creation of sculptures in motion / by Leticia M. Delgado -- Costume rendering / by Steven Stines -- Costume collaboration / by Linda Pisano -- In the costume shop / by Heather Milam -- Costume design training: creating in other contexts / by Esther Van Eek -- Show business: no one calls it \"Show Art\" / by Holly Poe Durbin -- Glossary." ],
+        "relation" : [ "$$Cform$$VPrint version: Art and practice of costume design. New York and London : Routledge/Taylor & Francis Group, 2016$$QArt and practice of costume design." ],
+        "place" : [ "New York and London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspleased", "aspowned", "ebceb", "safaeb", "aleph007576221" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075762210107871" ],
+        "recordid" : [ "alma990075762210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007576221-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Merz" ],
+        "aufirst" : [ "Melissa" ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Merz, Melissa" ],
+        "contributorfull" : [ "$$NMerz, Melissa$$LMerz$$FMelissa$$Reditor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9781315738420", "1315738422", "9781317573678", "1317573676", "9781317573685", "1317573684", "9781317573661", "1317573668", "9781138828407" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "In The Art and Practice of Costume Design , a panel of seven designers offer a new multi-sided look at the current state and practice of theatrical costume design. Beginning with an exploration of the role of a Costume Designer, the subsequent chapters analyse and explore the psychology of dress, the principles and elements of design, how to create costume renderings, and collaboration within the production. The book also takes a look at the costume shop and the role of the designer within it, and costume design careers within theatrical and fashion industries." ],
+        "cop" : [ "New York and London" ],
+        "pub" : [ "Routledge/Taylor & Francis Group" ],
+        "oclcid" : [ "(ocolc)928889748" ],
+        "lccn" : [ "2015044292" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The art and practice of costume design" ]
+      },
+      "sort" : {
+        "title" : [ "art and practice of costume design /" ],
+        "author" : [ "Merz, Melissa, editor." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075762210107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075762210107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075762210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075762210107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1315738422,OCLC:,LCCN:2015044292&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2067",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "136",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "108",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "105",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "426",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 460,
+    "COMBINED_SEARCH_TIME" : 462,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Merz Melissa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

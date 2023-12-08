@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060628190107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Training the actor's body : a guide " ],
+        "subject" : [ "Movement (Acting)" ],
+        "format" : [ "xvi, 253 pages ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2017025539;$$CISBN$$V9781472587787;$$CISBN$$V1472587782;$$CISBN$$V9781472587794;$$CISBN$$V1472587790;$$COCLC$$V(OCoLC)1008774931;$$CISBN$$V9781472587800" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "McCaw, Dick, author.$$QMcCaw, Dick" ],
+        "publisher" : [ "London : Bloomsbury Methuen Drama, an imprint of Bloomsbury Publishing Plc" ],
+        "description" : [ "\"Training the Actor's Body is a practical guide to principles of learning movement for students of acting and performance. It addresses the actor's work from a movement perspective, integrating recent research into how humans move, explaining how discoveries about the neural system can help us use our bodies with greater intelligence and effectiveness. Building on the earlier research of Laban and Moshe Feldenkrais, the book offers readers an illustrated guide of how the body and brain work together, answering basic questions about how it is we function. Including games, exercises and experiments to help readers understand how they can use their physical structure more effectively, Training the Actor's Body is supported by online video examples and includes: summaries of main points at the end of each chapter, links to key practitioners or schools in the field of movement training, a glossary of key neurophysiological terms with explanatory diagrams and a bibliography of relevant literature on neurophysiology\"-- Provided by publisher." ],
+        "mms" : [ "990060628190107871" ],
+        "contents" : [ "An actor's training: why, what, how -- Training the actor's body." ],
+        "relation" : [ "$$Cform$$VOnline version: McCaw, Dick. Training the actor's body. London : Bloomsbury Methuen Drama, an imprint of Bloomsbury Publishing Plc, 2018$$QTraining the actor's body.$$Z990087285370107871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006062819" ],
+        "lds53" : [ "006062819" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060628190107871" ],
+        "recordid" : [ "alma990060628190107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006062819-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "McCaw" ],
+        "aufirst" : [ "Dick" ],
+        "auinit" : [ "D" ],
+        "au" : [ "McCaw, Dick" ],
+        "creatorfull" : [ "$$NMcCaw, Dick$$LMcCaw$$FDick$$Rauthor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9781472587787", "1472587782", "9781472587794", "1472587790", "9781472587800" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Training the Actor's Body is a practical guide to principles of learning movement for students of acting and performance. It addresses the actor's work from a movement perspective, integrating recent research into how humans move, explaining how discoveries about the neural system can help us use our bodies with greater intelligence and effectiveness. Building on the earlier research of Laban and Moshe Feldenkrais, the book offers readers an illustrated guide of how the body and brain work together, answering basic questions about how it is we function. Including games, exercises and experiments to help readers understand how they can use their physical structure more effectively, Training the Actor's Body is supported by online video examples and includes: summaries of main points at the end of each chapter, links to key practitioners or schools in the field of movement training, a glossary of key neurophysiological terms with explanatory diagrams and a bibliography of relevant literature on neurophysiology\"-- Provided by publisher." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Methuen Drama, an imprint of Bloomsbury Publishing Plc" ],
+        "oclcid" : [ "(ocolc)1008774931" ],
+        "lccn" : [ "2017025539" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Training the actor's body : a guide" ]
+      },
+      "sort" : {
+        "title" : [ "Training the actor's body : a guide /" ],
+        "author" : [ "McCaw, Dick, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990060628190107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1472587782,OCLC:,LCCN:2017025539&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2071 m6ǂm387 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "196",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "59",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "80",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "395",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 430,
+    "COMBINED_SEARCH_TIME" : 433,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Movement Acting",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mccaw Dick",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

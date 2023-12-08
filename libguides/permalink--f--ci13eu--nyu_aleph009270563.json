@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990092705630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Refuse to be done : how to write and rewrite a novel in three drafts " ],
+        "subject" : [ "Fiction -- Authorship", "Fiction -- Technique" ],
+        "format" : [ "155 pages ; 21 cm" ],
+        "identifier" : [ "$$CLC$$V2021046774;$$CISBN$$V9781641293419;$$CISBN$$V1641293411;$$COCLC$$V(OCoLC)1258217677" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Bell, Matt, 1980- author.$$QBell, Matt" ],
+        "publisher" : [ "New York, NY : Soho Press, Inc." ],
+        "description" : [ "\"They say writing is rewriting. So why does the second part get such short shrift? Refuse To Be Done will guide you through every step of the novel writing process, from getting started on those first pages to the last tips for making your final draft even tighter and stronger. From lauded writer and teacher Matt Bell, Refuse to Be Done is encouraging and intensely practical, focusing always on specific rewriting tasks, techniques, and activities for every stage of the process. You won't find bromides here about the \"the writing Muse.\" Instead, Bell breaks down the writing process in three sections. In the first, Bell shares a bounty of tactics, all meant to push the writer through the initial conception and get words on the page. The second focuses on reworking the narrative through outlining, modeling, and rewriting. The third and final section offers a layered approach to polishing through a checklist of operations, breaking the daunting project of final revisions into many small, achievable tasks. Whether you are a first time novelist or a veteran writer, you will find an abundance of strategies here to help motivate you and shake up your revision process, allowing you to approach your work, day after day and month after month, with fresh eyes and sharp new tools\"-- Provided by publisher." ],
+        "mms" : [ "990092705630107871" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph009270563" ],
+        "lds53" : [ "009270563" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990092705630107871" ],
+        "recordid" : [ "alma990092705630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009270563-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bell" ],
+        "aufirst" : [ "Matt" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Bell, Matt" ],
+        "creatorfull" : [ "$$NBell, Matt$$LBell$$FMatt$$Rauthor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9781641293419", "1641293411" ],
+        "notes" : [ "Includes bibliographical references (pages [153]-155)." ],
+        "abstract" : [ "\"They say writing is rewriting. So why does the second part get such short shrift? Refuse To Be Done will guide you through every step of the novel writing process, from getting started on those first pages to the last tips for making your final draft even tighter and stronger. From lauded writer and teacher Matt Bell, Refuse to Be Done is encouraging and intensely practical, focusing always on specific rewriting tasks, techniques, and activities for every stage of the process. You won't find bromides here about the \"the writing Muse.\" Instead, Bell breaks down the writing process in three sections. In the first, Bell shares a bounty of tactics, all meant to push the writer through the initial conception and get words on the page. The second focuses on reworking the narrative through outlining, modeling, and rewriting. The third and final section offers a layered approach to polishing through a checklist of operations, breaking the daunting project of final revisions into many small, achievable tasks. Whether you are a first time novelist or a veteran writer, you will find an abundance of strategies here to help motivate you and shake up your revision process, allowing you to approach your work, day after day and month after month, with fresh eyes and sharp new tools\"-- Provided by publisher." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Soho Press, Inc." ],
+        "oclcid" : [ "(ocolc)1258217677" ],
+        "lccn" : [ "2021046774" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Refuse to be done : how to write and rewrite a novel in three drafts" ]
+      },
+      "sort" : {
+        "title" : [ "Refuse to be done : how to write and rewrite a novel in three drafts /" ],
+        "author" : [ "Bell, Matt, 1980- author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990092705630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1641293411,OCLC:,LCCN:2021046774&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#3365ǂ b46 2022",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "147",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "69",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "42",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "108",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "411",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 444,
+    "COMBINED_SEARCH_TIME" : 448,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fiction Authorship",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Technique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bell Matt",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

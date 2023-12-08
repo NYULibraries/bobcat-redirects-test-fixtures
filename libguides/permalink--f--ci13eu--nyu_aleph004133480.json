@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041334800107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng;mul" ],
+        "title" : [ "Saris of India : tradition and beyond " ],
+        "subject" : [ "Saris -- India" ],
+        "format" : [ "274 pages : illustrations (chiefly color), color maps ; 32 cm + 1 booklet (1 volume (unpaged) : ill ; 23 cm)" ],
+        "identifier" : [ "$$CLC$$V2010319320;$$CISBN$$V9788174363749;$$CISBN$$V8174363742;$$COCLC$$V(OCoLC)150384412" ],
+        "creationdate" : [ "2010" ],
+        "creator" : [ "Chishti, Ṛta Kapur.$$QChishti, Ṛta Kapur." ],
+        "publisher" : [ "New Delhi : Lustre Press, Roli Books" ],
+        "mms" : [ "990041334800107871" ],
+        "contributor" : [ "Singh, Martand.$$QSingh, Martand.", "Kelkar, Renuka.$$QKelkar, Renuka." ],
+        "addtitle" : [ "Saris, tradition and beyond" ],
+        "contents" : [ "The sari : an introduction -- Kerala -- Karnataka -- Goa -- Maharashtra -- Gujarat -- Madhya Pradesh -- Chhattisgarh -- Uttar Pradesh and Uttarakhand -- Bihar -- Jharkhand -- West Bengal -- Orissa -- Andhra Pradesh -- Tamil Nadu." ],
+        "place" : [ "New Delhi :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004133480" ],
+        "lds53" : [ "004133480" ],
+        "lds60" : [ "Booklet has title: Acknowledgements.", "Booklet accompanying 2013 printing has title: Index & dank." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041334800107871" ],
+        "recordid" : [ "alma990041334800107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004133480-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chishti" ],
+        "aufirst" : [ "Ṛta Kapur." ],
+        "auinit" : [ "Ṛ" ],
+        "au" : [ "Chishti, Ṛta Kapur." ],
+        "addau" : [ "Singh, Martand.", "Kelkar, Renuka." ],
+        "creatorfull" : [ "$$NChishti, Ṛta Kapur.$$LChishti$$FṚta Kapur.$$Rauthor" ],
+        "contributorfull" : [ "$$NSingh, Martand.$$LSingh$$FMartand.$$Rcontributor", "$$NKelkar, Renuka.$$Rcontributor" ],
+        "addtitle" : [ "Saris, tradition and beyond" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9788174363749", "8174363742" ],
+        "notes" : [ "Includes bibliographical references (page 274)." ],
+        "cop" : [ "New Delhi" ],
+        "pub" : [ "Lustre Press, Roli Books" ],
+        "oclcid" : [ "(ocolc)150384412" ],
+        "lccn" : [ "2010319320" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Saris of India : tradition and beyond" ]
+      },
+      "sort" : {
+        "title" : [ "Saris of India : tradition and beyond /" ],
+        "author" : [ "Chishti, Ṛta Kapur." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041334800107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:8174363742,OCLC:,LCCN:2010319320&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt#1460ǂ c495 2010",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "20",
+    "RETRIVE_FROM_DB_RELATIONS" : "34",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "297",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 327,
+    "COMBINED_SEARCH_TIME" : 330,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "mul",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Saris India",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chishti Ṛta Kapur",
+      "count" : "1"
+    }, {
+      "value" : "Kelkar Renuka",
+      "count" : "1"
+    }, {
+      "value" : "Singh Martand",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

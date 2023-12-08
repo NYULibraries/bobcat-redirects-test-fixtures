@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990043063810107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Python data visualization cookbook : over 60 recipes that will enable you to learn how to create attractive visualizations using Python's most popular libraries " ],
+        "subject" : [ "Python (Langage de programmation)", "COMPUTERS -- Programming Languages -- Python", "Python (Computer program language)" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781782163374;$$CISBN$$V1782163379;$$CISBN$$V9781306166102;$$CISBN$$V1782163360;$$CISBN$$V9781782163367;$$COCLC$$V(OCoLC)864381760;$$CISBN$$V1306166101" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Milovanović, Igor, author.$$QMilovanović, Igor" ],
+        "publisher" : [ "Birmingham, UK : Packt Publishing" ],
+        "description" : [ "This book is written in a Cookbook style targeted towards an advanced audience. It covers the advanced topics of data visualization in Python. Python Data Visualization Cookbook is for developers that already know about Python programming in general. If you have heard about data visualization but you don't know where to start, then this book will guide you from the start and help you understand data, data formats, data visualization, and how to use Python to visualize data. You will need to know some general programming concepts, and any kind of programming experience will be helpful, but the co." ],
+        "mms" : [ "990043063810107871" ],
+        "contents" : [ "Cover; Copyright; Credits; About the Author; About the Reviewers; www.PacktPub.com; Table of Contents; Preface; Chapter 1: Preparing Your Working Environment; Introduction; Installing matplotlib, NumPy, and SciPy; Installing virtualenv and virtualenvwrapper; Installing matplotlib on Mac OS X; Installing matplotlib on Windows; Installing Python Imaging Library (PIL) for image processing; Installing a requests module; Customizing matplotlib's parameters in code; Customizing matplotlib's parameters per project; Chapter 2: Knowing Your Data; Introduction; Importing data from CSV.", "Importing data from Microsoft Excel filesImporting data from fixed-width data files; Importing data from tab-delimited files; Importing data from a JSON resource; Exporting data to JSON, CSV, and Excel; Importing data from a database; Cleaning up data from outliers; Reading files in chunks; Reading streaming data sources; Importing image data into NumPy arrays; Generating controlled random datasets; Smoothing the noise in real-world data; Chapter 3: Drawing Your First Plots and Customizing Them; Introduction; Defining plot types -- bar, line, and stacked charts.", "Drawing simple sine and cosine plotDefining axis lengths and limits; Defining plot line styles, properties, and format strings; Setting ticks, labels, and grids; Adding legend and annotations; Moving spines to the center; Making histograms; Making bar charts with error bars; Making pie charts count; Plotting with filled areas; Drawing scatter plots with colored markers; Chapter 4: More Plots and Customizations; Introduction; Setting the transparency and size of axis labels; Adding a shadow to the chart line; Adding a data table to the figure; Using subplots; Customizing grids.", "Creating contour plotsFilling an under-plot area; Drawing polar plots; Visualizing the file system tree using a polar bar; Chapter 5: Making 3D Visualizations; Introduction; Creating 3D bars; Creating 3D histograms; Animating in matplotlib; Animating with OpenGL; Chapter 6: Plotting Charts with Images and Maps; Introduction; Processing images with PIL; Plotting with images; Displaying image with other plots in the figure; Plotting data on a map using Basemap; Plotting data on a map using Google Map API; Generating CAPTCHA images; Chapter 7: Using Right Plots to Understand Data; Introduction.", "Understanding logarithmic plotsUnderstanding spectrograms; Creating a stem plot; Drawing streamlines of vector flow; Using colormaps; Using scatter plots and histograms; Plotting the cross-correlation between two variables; Importance of autocorrelation; Chapter 8: More on Matplotlib Gems; Introduction; Drawing barbs; Making a box and whisker plot; Making Gantt charts; Making errorbars; Making use of text and font properties; Rendering text with LaTeX; Understanding the difference between pyplot and OO API; Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Milovanovic, Igor. Python Data Visualization Cookbook. Packt Publishing, 2013$$QPython Data Visualization Cookbook.", "$$Cform$$VPython data visualization cookbook$$Z9995655270507871" ],
+        "place" : [ "Birmingham, UK :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebscoac", "aleph004306381" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990043063810107871" ],
+        "recordid" : [ "alma990043063810107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004306381-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Milovanović" ],
+        "aufirst" : [ "Igor" ],
+        "auinit" : [ "I" ],
+        "au" : [ "Milovanović, Igor" ],
+        "creatorfull" : [ "$$NMilovanović, Igor$$LMilovanović$$FIgor$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781782163374", "1782163379", "9781306166102", "1782163360", "9781782163367", "1306166101" ],
+        "abstract" : [ "This book is written in a Cookbook style targeted towards an advanced audience. It covers the advanced topics of data visualization in Python. Python Data Visualization Cookbook is for developers that already know about Python programming in general. If you have heard about data visualization but you don't know where to start, then this book will guide you from the start and help you understand data, data formats, data visualization, and how to use Python to visualize data. You will need to know some general programming concepts, and any kind of programming experience will be helpful, but the co." ],
+        "cop" : [ "Birmingham, UK" ],
+        "pub" : [ "Packt Publishing" ],
+        "oclcid" : [ "(ocolc)864381760" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Python data visualization cookbook : over 60 recipes that will enable you to learn how to create attractive visualizations using Python's most popular libraries" ]
+      },
+      "sort" : {
+        "title" : [ "Python data visualization cookbook : over 60 recipes that will enable you to learn how to create attractive visualizations using Python's most popular libraries /" ],
+        "author" : [ "Milovanović, Igor, author." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043063810107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043063810107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043063810107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043063810107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990043063810107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1782163379,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.73 p98ǂm55 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "323",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "117",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "52",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "82",
+    "RETRIVE_FROM_DB_RELATIONS" : "40",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "90",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "85",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "627",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 654,
+    "COMBINED_SEARCH_TIME" : 656,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computers Programming Languages Python",
+      "count" : "1"
+    }, {
+      "value" : "Python Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "Python Langage De Programmation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Milovanović Igor",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

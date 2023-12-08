@@ -1,0 +1,254 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056011130107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A Doll's House." ],
+        "subject" : [ "Wives -- Norway$$QWives -- Norway -- Drama", "Husband and wife -- Norway$$QHusband and wife -- Norway -- Drama", "Domestic drama, Norwegian", "Husband and wife", "Wives", "Norway" ],
+        "format" : [ "1 online resource", "text file" ],
+        "identifier" : [ "$$CISBN$$V9781467775311;$$CISBN$$V1467775312;$$CISBN$$V9781467757690;$$CISBN$$V1467757691;$$COCLC$$V(OCoLC)968098978" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Ibsen, Henrik, 1828-1906, author.$$QIbsen, Henrik" ],
+        "publisher" : [ "Lerner Publishing Group" ],
+        "description" : [ "It's Christmastime in Norway, and Norma Helmer is preparing her lovely home for the holidays. A dainty, jovial woman, Norma is adored by her husband, Torvald, and their three children. But when an old friend comes to visit, Norma reveals that her life is not as carefree as it seems. Norma is keeping a secret from Torvald, a secret that would shatter his illusion of her as the perfect wife. But is she prepared to maintain that illusion for the rest of her life? This unabridged edition of Henrik Ibsen's provocative three-act play, originally published in 1879, explores the life of a 19th-century wife, ready to disregard social customs and financial security for a shot at independence. -- Provided by publisher." ],
+        "mms" : [ "990056011130107871" ],
+        "series" : [ "First Avenue Classics$$QFirst Avenue Classics", "First Avenue classics.$$QFirst Avenue classics." ],
+        "contents" : [ "Intro; Title Page; Copyright; Contents; Dramatis Personae; Act 1; Act 2; Act 3; Back Cover" ],
+        "genre" : [ "Drama" ],
+        "relation" : [ "$$Cform$$VPrint version: Ibsen, Henrik. Doll's House, A. Minneapolis : Lerner Publishing Group, ©2014$$QDoll's House, A." ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph005601113" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056011130107871" ],
+        "recordid" : [ "alma990056011130107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005601113-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ibsen" ],
+        "aufirst" : [ "Henrik" ],
+        "auinit" : [ "H" ],
+        "au" : [ "Ibsen, Henrik" ],
+        "creatorfull" : [ "$$NIbsen, Henrik$$LIbsen$$FHenrik$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781467775311", "1467775312", "9781467757690", "1467757691" ],
+        "abstract" : [ "It's Christmastime in Norway, and Norma Helmer is preparing her lovely home for the holidays. A dainty, jovial woman, Norma is adored by her husband, Torvald, and their three children. But when an old friend comes to visit, Norma reveals that her life is not as carefree as it seems. Norma is keeping a secret from Torvald, a secret that would shatter his illusion of her as the perfect wife. But is she prepared to maintain that illusion for the rest of her life? This unabridged edition of Henrik Ibsen's provocative three-act play, originally published in 1879, explores the life of a 19th-century wife, ready to disregard social customs and financial security for a shot at independence. -- Provided by publisher." ],
+        "pub" : [ "Lerner Publishing Group" ],
+        "oclcid" : [ "(ocolc)968098978" ],
+        "seriestitle" : [ "First Avenue Classics" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A Doll's House." ]
+      },
+      "sort" : {
+        "title" : [ "Doll's House." ],
+        "author" : [ "Ibsen, Henrik, 1828-1906, author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056011130107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056011130107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056011130107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056011130107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056011130107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1467775312,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pt#8861ǂ a3314 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "115",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "58",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "32",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "349",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 383,
+    "COMBINED_SEARCH_TIME" : 385,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Domestic Drama Norwegian",
+      "count" : "1"
+    }, {
+      "value" : "Husband And Wife",
+      "count" : "1"
+    }, {
+      "value" : "Husband And Wife Norway Drama",
+      "count" : "1"
+    }, {
+      "value" : "Norway",
+      "count" : "1"
+    }, {
+      "value" : "Wives",
+      "count" : "1"
+    }, {
+      "value" : "Wives Norway Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ibsen Henrik",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

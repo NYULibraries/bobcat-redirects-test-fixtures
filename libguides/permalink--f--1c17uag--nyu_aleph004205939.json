@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042059390107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford companion to Shakespeare " ],
+        "subject" : [ "Shakespeare, William, 1564-1616$$QShakespeare, William, 1564-1616 -- Encyclopedias", "Shakespeare, William, 1564-1616" ],
+        "format" : [ "xxix, 574 pages : illustrations, maps, genealogical table ; 29 cm" ],
+        "identifier" : [ "$$CLC$$V2015942567;$$CISBN$$V9780198708735;$$CISBN$$V0198708734;$$COCLC$$V(OCoLC)928556274" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Oxford, United Kingdom : Oxford University Press" ],
+        "description" : [ "\"'The Oxford companion to Shakespeare' is the most comprehensive reference work available on Shakespeare's life, times, works, and his 400-year global legacy. In addition to the authoritative A-Z entries, it includes nearly 100 illustrations, a chronology, a guide to further reading, a thematic contents list, and special feature entries on each of Shakespeare's works. Tying in with the 400th anniversary of Shakespeare's death, this much-loved Companion has been revised and updated, reflecting developments and discoveries made in recent years and to cover the performance, interpretation, and the influence of Shakespeare's works up to the present day. First published in 2001, the online edition was revised in 2011, with updates to over 200 entries plus 16 new entries. These online updates appear in print for the first time in this second edition, along with a further 35,000 new and revised words. These include more than 80 new entries, ranging from important performers, directors, and scholars (such as Lucy Bailey, Samuel West, and Alfredo Michel Modenessi), to topics as diverse as Shakespeare in the digital age and the ubiquity of plants in Shakespeare's works, to the interpretation of Shakespeare globally, from Finland to Iraq. To make information on Shakespeare's major works easier to find, the feature entries have been grouped and placed in a centre section (fully cross-referenced from the A-Z). The thematic listing of entries - described in the press as 'an invaluable panorama of the contents' - has been updated to include all of the new entries. This edition contains a preface written by much-lauded Shakespearian actor Simon Russell Beale. Full of both entertaining trivia and scholarly detail, this authoritative Companion will delight the browser and reward students and academics, as well as anyone wanting to know more about Shakespeare." ],
+        "mms" : [ "990042059390107871" ],
+        "contributor" : [ "Dobson, Michael, 1960- editor.$$QDobson, Michael", "Wells, Stanley W., 1930- editor.$$QWells, Stanley W.", "Sharpe, Will, editor.$$QSharpe, Will", "Sullivan, Erin (Cultural historian), editor.$$QSullivan, Erin" ],
+        "edition" : [ "Second edition / revising editors, Will Sharpe, Erin Sullivan." ],
+        "contents" : [ "Thematic listing of entries -- List of plays in alphabetical order -- Note to the reader -- The Oxford companion to Shakespeare -- The British Isles and France in the English histories and Macbeth -- The royal family on Shakespeare's English histories -- Shakespeare's life, works, and reception : a partial chronology, 1564-2015." ],
+        "genre" : [ "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VThe Oxford companion to Shakespeare$$Z990060480800107871", "$$Cform$$VThe Oxford companion to Shakespeare$$Z9995655745707871" ],
+        "place" : [ "Oxford, United Kingdom :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004205939" ],
+        "lds53" : [ "004205939" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042059390107871" ],
+        "recordid" : [ "alma990042059390107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004205939-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dobson", "Wells", "Sharpe", "Sullivan" ],
+        "aufirst" : [ "Michael", "Stanley W.", "Will", "Erin" ],
+        "auinit" : [ "M", "S", "W", "E" ],
+        "addau" : [ "Dobson, Michael", "Wells, Stanley W.", "Sharpe, Will", "Sullivan, Erin" ],
+        "contributorfull" : [ "$$NDobson, Michael$$LDobson$$FMichael$$Reditor", "$$NWells, Stanley W.$$Reditor", "$$NSharpe, Will$$Reditor", "$$NSullivan, Erin$$Reditor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9780198708735", "0198708734" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"'The Oxford companion to Shakespeare' is the most comprehensive reference work available on Shakespeare's life, times, works, and his 400-year global legacy. In addition to the authoritative A-Z entries, it includes nearly 100 illustrations, a chronology, a guide to further reading, a thematic contents list, and special feature entries on each of Shakespeare's works. Tying in with the 400th anniversary of Shakespeare's death, this much-loved Companion has been revised and updated, reflecting developments and discoveries made in recent years and to cover the performance, interpretation, and the influence of Shakespeare's works up to the present day. First published in 2001, the online edition was revised in 2011, with updates to over 200 entries plus 16 new entries. These online updates appear in print for the first time in this second edition, along with a further 35,000 new and revised words. These include more than 80 new entries, ranging from important performers, directors, and scholars (such as Lucy Bailey, Samuel West, and Alfredo Michel Modenessi), to topics as diverse as Shakespeare in the digital age and the ubiquity of plants in Shakespeare's works, to the interpretation of Shakespeare globally, from Finland to Iraq. To make information on Shakespeare's major works easier to find, the feature entries have been grouped and placed in a centre section (fully cross-referenced from the A-Z). The thematic listing of entries - described in the press as 'an invaluable panorama of the contents' - has been updated to include all of the new entries. This edition contains a preface written by much-lauded Shakespearian actor Simon Russell Beale. Full of both entertaining trivia and scholarly detail, this authoritative Companion will delight the browser and reward students and academics, as well as anyone wanting to know more about Shakespeare." ],
+        "cop" : [ "Oxford, United Kingdom" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)928556274" ],
+        "lccn" : [ "2015942567" ],
+        "edition" : [ "Second edition / revising editors, Will Sharpe, Erin Sullivan." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford companion to Shakespeare" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford companion to Shakespeare /" ],
+        "author" : [ "Dobson, Michael, 1960- editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990042059390107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0198708734,OCLC:,LCCN:2015942567&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2892ǂ o94 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "390",
+    "CALL_SOLR_GET_IDS_LIST" : "157",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "45",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "105",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "39",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "103",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "709",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 747,
+    "COMBINED_SEARCH_TIME" : 750,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dobson Michael",
+      "count" : "1"
+    }, {
+      "value" : "Sharpe Will",
+      "count" : "1"
+    }, {
+      "value" : "Sullivan Erin",
+      "count" : "1"
+    }, {
+      "value" : "Wells Stanley W",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

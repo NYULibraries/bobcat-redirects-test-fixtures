@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012836830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Select list of British Parliamentary papers, 1955-64 " ],
+        "subject" : [ "Great Britain -- Politics and government -- 1945-1964$$QGreat Britain -- Politics and government -- 1945-1964 -- Bibliography", "Great Britain Parliament$$QGreat Britain Parliament -- Bibliography", "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Bibliography" ],
+        "format" : [ "vii, 117 p. ; 25 cm." ],
+        "identifier" : [ "$$CISBN$$V0716508842" ],
+        "creationdate" : [ "c1970" ],
+        "creator" : [ "Ford, P. (Percy), 1894-$$QFord, P." ],
+        "publisher" : [ "Shannon : Irish University Press" ],
+        "mms" : [ "990012836830107871" ],
+        "contributor" : [ "Ford, Grace.$$QFord, Grace.", "Marshallsay, Diana, 1930-$$QMarshallsay, Diana", "Great Britain. Parliament. House of Commons.$$QGreat Britain. Parliament. House of Commons.", "Great Britain. Parliament. House of Lords.$$QGreat Britain. Parliament. House of Lords." ],
+        "series" : [ "Southampton University studies in parliamentary papers$$QSouthampton University studies in parliamentary papers", "Southampton University studies in parliamentary papers.$$QSouthampton University studies in parliamentary papers." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Shannon :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001283683" ],
+        "lds53" : [ "001283683" ],
+        "lds60" : [ "Selected sessional papers 1954/55-1963/64 and non-Parliamentary publications 1955-1964.", "Includes indexes." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012836830107871" ],
+        "recordid" : [ "alma990012836830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001283683-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ford" ],
+        "aufirst" : [ "P." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Ford, P. (Percy)" ],
+        "addau" : [ "Ford, Grace.", "Marshallsay, Diana" ],
+        "creatorfull" : [ "$$NFord, P. (Percy)$$LFord$$FP.$$Rauthor" ],
+        "contributorfull" : [ "$$NFord, Grace.$$LFord$$FGrace.$$Rcontributor", "$$NMarshallsay, Diana$$Rcontributor" ],
+        "date" : [ "1970", "c1970" ],
+        "isbn" : [ "0716508842" ],
+        "cop" : [ "Shannon" ],
+        "pub" : [ "Irish University Press" ],
+        "oclcid" : [ "nyub11673039", "(cty)notisfkl6589", "(cstrlin)ctyafkl6589-b" ],
+        "seriestitle" : [ "Southampton University studies in parliamentary papers" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Select list of British Parliamentary papers, 1955-64" ]
+      },
+      "sort" : {
+        "title" : [ "Select list of British Parliamentary papers, 1955-64 /" ],
+        "author" : [ "Ford, P. (Percy), 1894-" ],
+        "creationdate" : [ "1970" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012836830107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0716508842,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "132",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "128",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "398",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 432,
+    "COMBINED_SEARCH_TIME" : 435,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1970",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Publications Great Britain Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Parliament Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Politics And Government 1945 1964 Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ford Grace",
+      "count" : "1"
+    }, {
+      "value" : "Ford P",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Parliament House Of Commons",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Parliament House Of Lords",
+      "count" : "1"
+    }, {
+      "value" : "Marshallsay Diana",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045181000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Doctor Faustus " ],
+        "subject" : [ "Faust, -approximately 1540$$QFaust, -approximately 1540 -- Drama", "Mephistopheles (Legendary character)$$QMephistopheles (Legendary character) -- Drama", "Mephistopheles (Legendary character)", "Faust, -approximately 1540" ],
+        "format" : [ "1 online resource (1 video file (2 hr., 27 min., 34 sec.)) : sound, colour", "video file" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1004809583" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "London : Bloomsbury" ],
+        "description" : [ "'The Tragical History of Doctor Faustus', to give it its full title, by Christopher Marlowe, was first published in 1604, at least twelve years after its first performance, although the basic story of the play is much older. Having decided he has accumulated all he can of conventional knowledge, Doctor Faustus turns to magic in a quest for greater truths. Before long, he ends up selling his soul to the devil - the famous 'Faustian pact' that has entered everyday language. Dr Faustus gradually realises his terrible mistake. He apparently repents, but finally dies, the devil coming to collect his soul, and his friends the dismembered body." ],
+        "mms" : [ "990045181000107871" ],
+        "contributor" : [ "Dunster, Matthew, stage director.$$QDunster, Matthew", "Russell, Ian (Ian Alexander), film director.$$QRussell, Ian", "Hilton, Paul, actor.$$QHilton, Paul", "Darvill, Arthur, 1982- actor.$$QDarvill, Arthur", "Broom, Charlotte, actor.$$QBroom, Charlotte", "Marlowe, Christopher, 1564-1593.$$QMarlowe, Christopher" ],
+        "series" : [ "Globe on screen$$QGlobe on screen", "Globe on screen.$$QGlobe on screen." ],
+        "genre" : [ "Drama", "Film adaptations", "Feature films", "Théâtre", "Adaptations cinématographiques" ],
+        "relatedwork" : [ "Video adaptation of (work): Marlowe, Christopher, 1564-1593. Doctor Faustus.$$QMarlowe, Christopher, 1564-1593. Doctor Faustus." ],
+        "place" : [ "London] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsdo", "aleph004518100" ],
+        "lds60" : [ "Originally produced in 2011." ],
+        "lds64" : [ "Composer, Jules Maxwell ; choreographer, Georgina Lamb." ],
+        "lds65" : [ "Charlotte Broom, Michael Camp, Nigel Cooke, Jonathan Cullen, Arthur Darvill, Robert Goodale, Paul Hilton, Sarita Piotrowski, Will Mannering, Pearce Quigley, Iris Roberts, Felix Scott, Chinna Wodu, Richard Clews, Jade Williams, Beatriz Romily." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045181000107871" ],
+        "recordid" : [ "alma990045181000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004518100-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dunster", "Russell", "Hilton", "Darvill", "Broom", "Marlowe" ],
+        "aufirst" : [ "Matthew", "Ian", "Paul", "Arthur", "Charlotte", "Christopher" ],
+        "auinit" : [ "M", "I", "P", "A", "C" ],
+        "addau" : [ "Dunster, Matthew", "Russell, Ian (Ian Alexander)", "Hilton, Paul", "Darvill, Arthur", "Broom, Charlotte", "Marlowe, Christopher" ],
+        "contributorfull" : [ "$$NDunster, Matthew$$LDunster$$FMatthew$$Rcontributor", "$$NRussell, Ian (Ian Alexander)$$Rcontributor", "$$NHilton, Paul$$Rcontributor", "$$NDarvill, Arthur$$Rcontributor", "$$NBroom, Charlotte$$Rcontributor", "$$NMarlowe, Christopher$$Rcontributor" ],
+        "date" : [ "2016 - 2011", "2016" ],
+        "abstract" : [ "'The Tragical History of Doctor Faustus', to give it its full title, by Christopher Marlowe, was first published in 1604, at least twelve years after its first performance, although the basic story of the play is much older. Having decided he has accumulated all he can of conventional knowledge, Doctor Faustus turns to magic in a quest for greater truths. Before long, he ends up selling his soul to the devil - the famous 'Faustian pact' that has entered everyday language. Dr Faustus gradually realises his terrible mistake. He apparently repents, but finally dies, the devil coming to collect his soul, and his friends the dismembered body." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury" ],
+        "oclcid" : [ "(ocolc)1004809583" ],
+        "seriestitle" : [ "Globe on screen" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Doctor Faustus" ]
+      },
+      "sort" : {
+        "title" : [ "Doctor Faustus /" ],
+        "author" : [ "Dunster, Matthew, stage director." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045181000107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1004809583,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2664 a21ǂr69 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "74",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "25",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "22",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "264",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 300,
+    "COMBINED_SEARCH_TIME" : 302,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    }, {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Faust Approximately 1540",
+      "count" : "1"
+    }, {
+      "value" : "Faust Approximately 1540 Drama",
+      "count" : "1"
+    }, {
+      "value" : "Mephistopheles Legendary Character",
+      "count" : "1"
+    }, {
+      "value" : "Mephistopheles Legendary Character Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Broom Charlotte",
+      "count" : "1"
+    }, {
+      "value" : "Darvill Arthur",
+      "count" : "1"
+    }, {
+      "value" : "Dunster Matthew",
+      "count" : "1"
+    }, {
+      "value" : "Hilton Paul",
+      "count" : "1"
+    }, {
+      "value" : "Marlowe Christopher",
+      "count" : "1"
+    }, {
+      "value" : "Russell Ian",
+      "count" : "1"
+    } ]
+  } ]
+}

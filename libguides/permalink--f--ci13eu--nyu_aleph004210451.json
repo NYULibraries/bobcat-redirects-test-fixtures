@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042104510107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The dress detective : a practical guide to object-based research in fashion " ],
+        "subject" : [ "Fashion -- Research$$QFashion -- Research -- Handbooks, manuals, etc", "Clothing trade -- Research$$QClothing trade -- Research -- Handbooks, manuals, etc", "Fashion design -- Research -- Methodology$$QFashion design -- Research -- Methodology -- Handbooks, manuals, etc", "History of fashion", "Fashion design & theory", "DESIGN -- Textile & Costume", "Clothing trade -- Research", "Mode -- forskning -- metodik", "Modedesign -- forskning -- metodik" ],
+        "format" : [ "1 online resource (224 pages) : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9781472580535;$$CISBN$$V1472580532;$$CISBN$$V9781472580542;$$CISBN$$V1472580540;$$COCLC$$V(OCoLC)919432548;$$CISBN$$V9781472573988" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Mida, Ingrid, author.$$QMida, Ingrid" ],
+        "publisher" : [ "London ; New York : Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc" ],
+        "description" : [ "The Dress Detective is the first practical guide to analysing fashion objects, clearly demonstrating how their close analysis can enhance and enrich interdisciplinary research. This accessible book provides readers with the tools to uncover the hidden stories in garments, setting out a carefully developed research methodology specific to dress, and providing easy to use checklists that guide the reader through the process. Beautifully illustrated, the book contains seven case studies of fashionable Western garments - ranging from an 1820s coat to a 2004 Kenzo jacket - that articulate the methodological framework for the process, illustrate the use of the checklists, and show how evidence from the garment itself can be used to corroborate theories of dress or fashion. This book outlines a skillset that has, until now, typically been passed on informally. Written in plain language, this book will give any budding fashion historian, curator or researcher the knowledge and confidence to analyse the material in front of them effectively." ],
+        "mms" : [ "990042104510107871" ],
+        "contributor" : [ "Kim, Alexandra, author.$$QKim, Alexandra" ],
+        "contents" : [ "A brief history of object-based research with dress artefacts -- How to read a dress artifact -- Observation -- Reflection -- Interpretation -- Case study of a yellow woolen pelisse -- Case study of a gray-blue sateen corset -- Case study of a brown velveteen and wool bodice -- Case study of a man's evening suit tailcoat and trousers -- Case study of a lanvin wedding dress and headpiece -- Case study of a ruby red velvet jacket by Christian Dior -- Case study of a kimono-style jacket by Kenzo." ],
+        "genre" : [ "Handbooks, manuals, etc", "handbooks", "Handbooks and manuals", "Guides et manuels" ],
+        "relation" : [ "$$Cform$$VPrint version: Mida, Ingrid. Dress detective. London ; New York : Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc, [2015]$$QDress detective.$$Z990049494590107871", "$$Cform$$VThe dress detective : a practical guide to object-based research in fashion$$Z990081241340107871" ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "aleph004210451" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042104510107871" ],
+        "recordid" : [ "alma990042104510107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004210451-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mida" ],
+        "aufirst" : [ "Ingrid" ],
+        "auinit" : [ "I" ],
+        "au" : [ "Mida, Ingrid" ],
+        "addau" : [ "Kim, Alexandra" ],
+        "creatorfull" : [ "$$NMida, Ingrid$$LMida$$FIngrid$$Rauthor" ],
+        "contributorfull" : [ "$$NKim, Alexandra$$LKim$$FAlexandra$$Rcontributor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781472580535", "1472580532", "9781472580542", "1472580540", "9781472573988" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The Dress Detective is the first practical guide to analysing fashion objects, clearly demonstrating how their close analysis can enhance and enrich interdisciplinary research. This accessible book provides readers with the tools to uncover the hidden stories in garments, setting out a carefully developed research methodology specific to dress, and providing easy to use checklists that guide the reader through the process. Beautifully illustrated, the book contains seven case studies of fashionable Western garments - ranging from an 1820s coat to a 2004 Kenzo jacket - that articulate the methodological framework for the process, illustrate the use of the checklists, and show how evidence from the garment itself can be used to corroborate theories of dress or fashion. This book outlines a skillset that has, until now, typically been passed on informally. Written in plain language, this book will give any budding fashion historian, curator or researcher the knowledge and confidence to analyse the material in front of them effectively." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc" ],
+        "oclcid" : [ "(ocolc)919432548" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The dress detective : a practical guide to object-based research in fashion" ]
+      },
+      "sort" : {
+        "title" : [ "dress detective : a practical guide to object-based research in fashion /" ],
+        "author" : [ "Mida, Ingrid, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042104510107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042104510107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042104510107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1472580532,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tt\"497ǂ m54 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "312",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "551",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 587,
+    "COMBINED_SEARCH_TIME" : 590,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing Trade Research",
+      "count" : "1"
+    }, {
+      "value" : "Clothing Trade Research Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Design Textile Costume",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Design Research Methodology Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Design Theory",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Research Handbooks Manuals Etc",
+      "count" : "1"
+    }, {
+      "value" : "History Of Fashion",
+      "count" : "1"
+    }, {
+      "value" : "Mode Forskning Metodik",
+      "count" : "1"
+    }, {
+      "value" : "Modedesign Forskning Metodik",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kim Alexandra",
+      "count" : "1"
+    }, {
+      "value" : "Mida Ingrid",
+      "count" : "1"
+    } ]
+  } ]
+}

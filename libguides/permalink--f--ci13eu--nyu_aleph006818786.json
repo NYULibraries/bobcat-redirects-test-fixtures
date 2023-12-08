@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068187860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "conference_proceeding" ],
+        "language" : [ "eng" ],
+        "title" : [ "CIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010 " ],
+        "subject" : [ "Image processing -- Digital techniques$$QImage processing -- Digital techniques -- Congresses", "Database management$$QDatabase management -- Congresses", "Multimedia systems$$QMultimedia systems -- Congresses", "Traitement d'images -- Techniques numériques$$QTraitement d'images -- Techniques numériques -- Congrès", "Bases de données -- Gestion$$QBases de données -- Gestion -- Congrès", "Multimédia$$QMultimédia -- Congrès", "Database management", "Image processing -- Digital techniques", "Multimedia systems", "Engineering & Applied Sciences", "Applied Physics" ],
+        "format" : [ "1 online resource (484 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V1450301177;$$COCLC$$V(OCoLC)659710660;$$CISBN$$V9781450301176" ],
+        "creationdate" : [ "©2010" ],
+        "creator" : [ "CIVR (Conference) (2010 : Xi'an Shi, China)$$QCIVR (Conference)" ],
+        "publisher" : [ "New York, N.Y. : Association for Computing Machinery" ],
+        "mms" : [ "990068187860107871" ],
+        "contributor" : [ "Li, Shipeng.$$QLi, Shipeng.", "Gao, Xinbo.$$QGao, Xinbo.", "Sebe, Nicu.$$QSebe, Nicu.", "Association for Computing Machinery.$$QAssociation for Computing Machinery." ],
+        "addtitle" : [ "2010 ACM International Conference on Image and Video Retrieval", "ACM International Conference on Image and Video Retrieval", "Available from ACM Portal with title: Proceedings of the ACM International Conference on Image and Video Retrieval" ],
+        "genre" : [ "Congresses", "Congrès", "Conference papers and proceedings" ],
+        "relation" : [ "$$Cform$$VCIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010$$Z9995733493607871", "$$Cform$$VPrint version: CIVR (Conference) (2010 : Xi'an, China). CIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010. New York : ACM, 2010$$QCIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010." ],
+        "place" : [ "New York, N.Y. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "acmpr", "aleph006818786" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068187860107871" ],
+        "recordid" : [ "alma990068187860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006818786-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Li", "Gao", "Sebe" ],
+        "aufirst" : [ "Shipeng.", "Xinbo.", "Nicu." ],
+        "auinit" : [ "S", "X", "N" ],
+        "aucorp" : [ "CIVR (Conference) (2010 : Xi'an Shi, China)" ],
+        "addau" : [ "Li, Shipeng.", "Gao, Xinbo.", "Sebe, Nicu." ],
+        "contributorfull" : [ "$$NLi, Shipeng.$$LLi$$FShipeng.$$Rcontributor", "$$NGao, Xinbo.$$Rcontributor", "$$NSebe, Nicu.$$Rcontributor" ],
+        "addtitle" : [ "2010 ACM International Conference on Image and Video Retrieval", "ACM International Conference on Image and Video Retrieval", "Proceedings of the ACM International Conference on Image and Video Retrieval" ],
+        "date" : [ "2010", "©2010" ],
+        "isbn" : [ "1450301177", "9781450301176" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "Association for Computing Machinery" ],
+        "oclcid" : [ "(ocolc)659710660" ],
+        "format" : [ "book" ],
+        "genre" : [ "proceeding" ],
+        "ristype" : [ "BOOK" ],
+        "atitle" : [ "CIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010" ]
+      },
+      "sort" : {
+        "title" : [ "CIVR 2010 : 2010 ACM International Conference on Image and Video Retrieval, at Xi'an, China, July 5-7, 2010 /" ],
+        "author" : [ "CIVR (Conference) (2010 : Xi'an Shi, China)" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068187860107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068187860107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068187860107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1450301177,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ta#1637ǂ c49 2010eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "180",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "26",
+    "RETRIVE_FROM_DB_RELATIONS" : "19",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "35",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "428",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 464,
+    "COMBINED_SEARCH_TIME" : 467,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "conference_proceedings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Applied Physics",
+      "count" : "1"
+    }, {
+      "value" : "Bases De Données Gestion Congrès",
+      "count" : "1"
+    }, {
+      "value" : "Database Management",
+      "count" : "1"
+    }, {
+      "value" : "Database Management Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Engineering Applied Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Image Processing Digital Techniques",
+      "count" : "1"
+    }, {
+      "value" : "Image Processing Digital Techniques Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Multimedia Systems",
+      "count" : "1"
+    }, {
+      "value" : "Multimedia Systems Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Multimédia Congrès",
+      "count" : "1"
+    }, {
+      "value" : "Traitement Dimages Techniques Numériques Congrès",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Association For Computing Machinery",
+      "count" : "1"
+    }, {
+      "value" : "Civr Conference",
+      "count" : "1"
+    }, {
+      "value" : "Gao Xinbo",
+      "count" : "1"
+    }, {
+      "value" : "Li Shipeng",
+      "count" : "1"
+    }, {
+      "value" : "Sebe Nicu",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

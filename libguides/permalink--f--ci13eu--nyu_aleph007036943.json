@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990070369430107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Python for data science for dummies " ],
+        "subject" : [ "Python (Langage de programmation)", "Exploration de données (Informatique)", "Structures de données (Informatique)", "COMPUTERS -- Programming Languages -- Python", "Data mining", "Data structures (Computer science)", "Programming languages (Electronic computers)", "Python (Computer program language)" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781119547648;$$CISBN$$V1119547644;$$CISBN$$V9781119547662;$$CISBN$$V1119547660;$$COCLC$$V(OCoLC)1083545222;$$CISBN$$V1119547628;$$CISBN$$V9781119547624" ],
+        "creationdate" : [ "2019" ],
+        "creator" : [ "Mueller, John, 1958- author.$$QMueller, John" ],
+        "publisher" : [ "Hoboken, New Jersey : John Wiley and Sons, Inc." ],
+        "description" : [ "The fast and easy way to learn Python programming and statisticsPython is a general-purpose programming language created in the late 1980s & mdash;and named after Monty Python & mdash;that's used by thousands of people to do things from testing microchips at Intel, to powering Instagram, to building video games with the PyGame library. Python For Data Science For Dummies is written for people who are new to data analysis, and discusses the basics of Python data analysis programming and statistics. The book also discusses Google Colab, which makes it possible to write Python code in the cloud. Get started with data science and PythonVisualize informationWrangle dataLearn from dataThe book provides the statistical background needed to get started in data science programming, including probability, random distributions, hypothesis testing, confidence intervals, and building regression models for prediction." ],
+        "mms" : [ "990070369430107871" ],
+        "contributor" : [ "Massaron, Luca, author.$$QMassaron, Luca" ],
+        "addtitle" : [ "Python for data science" ],
+        "edition" : [ "2nd edition." ],
+        "series" : [ "--For dummies.$$Q--For dummies.", "For dummies$$QFor dummies" ],
+        "contents" : [ "Intro; Title Page; Copyright Page; Table of Contents; Introduction; About This Book; Foolish Assumptions; Icons Used in This Book; Beyond the Book; Where to Go from Here; Part 1 Getting Started with Data Science and Python; Chapter 1 Discovering the Match between Data Science and Python; Defining the Sexiest Job of the 21st Century; Considering the emergence of data science; Outlining the core competencies of a data scientist; Linking data science, big data, and AI; Understanding the role of programming; Creating the Data Science Pipeline; Preparing the data.", "Performing exploratory data analysisLearning from data; Visualizing; Obtaining insights and data products; Understanding Python's Role in Data Science; Considering the shifting profile of data scientists; Working with a multipurpose, simple, and efficient language; Learning to Use Python Fast; Loading data; Training a model; Viewing a result; Chapter 2 Introducing Python's Capabilities and Wonders; Why Python?; Grasping Python's Core Philosophy; Contributing to data science; Discovering present and future development goals; Working with Python; Getting a taste of the language.", "Understanding the need for indentationWorking at the command line or in the IDE; Performing Rapid Prototyping and Experimentation; Considering Speed of Execution; Visualizing Power; Using the Python Ecosystem for Data Science; Accessing scientific tools using SciPy; Performing fundamental scientific computing using NumPy; Performing data analysis using pandas; Implementing machine learning using Scikit-learn; Going for deep learning with Keras and TensorFlow; Plotting the data using matplotlib; Creating graphs with NetworkX; Parsing HTML documents using Beautiful Soup.", "Chapter 3 Setting Up Python for Data ScienceConsidering the Off-the-Shelf Cross- Platform Scientific Distributions; Getting Continuum Analytics Anaconda; Getting Enthought Canopy Express; Getting WinPython; Installing Anaconda on Windows; Installing Anaconda on Linux; Installing Anaconda on Mac OS X; Downloading the Datasets and Example Code; Using Jupyter Notebook; Defining the code repository; Understanding the datasets used in this book; Chapter 4 Working with Google Colab; Defining Google Colab; Understanding what Google Colab does; Considering the online coding difference.", "Using local runtime supportGetting a Google Account; Creating the account; Signing in; Working with Notebooks; Creating a new notebook; Opening existing notebooks; Saving notebooks; Downloading notebooks; Performing Common Tasks; Creating code cells; Creating text cells; Creating special cells; Editing cells; Moving cells; Using Hardware Acceleration; Executing the Code; Viewing Your Notebook; Displaying the table of contents; Getting notebook information; Checking code execution; Sharing Your Notebook; Getting Help; Part 2 Getting Your Hands Dirty with Data; Chapter 5 Understanding the Tools." ],
+        "relation" : [ "$$Cform$$VPrint version: Mueller, John, 1958- Python for data science for dummies. 2nd edition. Hoboken, New Jersey : John Wiley and Sons, Inc., [2019]$$QPython for data science for dummies." ],
+        "mesh" : [ "Data Mining" ],
+        "place" : [ "Hoboken, New Jersey :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "skillit", "aleph007036943" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990070369430107871" ],
+        "recordid" : [ "alma990070369430107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007036943-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mueller" ],
+        "aufirst" : [ "John" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Mueller, John" ],
+        "addau" : [ "Massaron, Luca" ],
+        "creatorfull" : [ "$$NMueller, John$$LMueller$$FJohn$$Rauthor" ],
+        "contributorfull" : [ "$$NMassaron, Luca$$LMassaron$$FLuca$$Rcontributor" ],
+        "addtitle" : [ "Python for data science" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9781119547648", "1119547644", "9781119547662", "1119547660", "1119547628", "9781119547624" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The fast and easy way to learn Python programming and statisticsPython is a general-purpose programming language created in the late 1980s & mdash;and named after Monty Python & mdash;that's used by thousands of people to do things from testing microchips at Intel, to powering Instagram, to building video games with the PyGame library. Python For Data Science For Dummies is written for people who are new to data analysis, and discusses the basics of Python data analysis programming and statistics. The book also discusses Google Colab, which makes it possible to write Python code in the cloud. Get started with data science and PythonVisualize informationWrangle dataLearn from dataThe book provides the statistical background needed to get started in data science programming, including probability, random distributions, hypothesis testing, confidence intervals, and building regression models for prediction." ],
+        "cop" : [ "Hoboken, New Jersey" ],
+        "pub" : [ "John Wiley and Sons, Inc." ],
+        "oclcid" : [ "(ocolc)1083545222" ],
+        "edition" : [ "2nd edition." ],
+        "seriestitle" : [ "For dummies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Python for data science for dummies" ]
+      },
+      "sort" : {
+        "title" : [ "Python for data science for dummies /" ],
+        "author" : [ "Mueller, John, 1958- author." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070369430107871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070369430107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070369430107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070369430107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119547644,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.73 p98",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "152",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "52",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "91",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "25",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "419",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 445,
+    "COMBINED_SEARCH_TIME" : 448,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computers Programming Languages Python",
+      "count" : "1"
+    }, {
+      "value" : "Data Mining",
+      "count" : "1"
+    }, {
+      "value" : "Data Structures Computer Science",
+      "count" : "1"
+    }, {
+      "value" : "Exploration De Données Informatique",
+      "count" : "1"
+    }, {
+      "value" : "Programming Languages Electronic Computers",
+      "count" : "1"
+    }, {
+      "value" : "Python Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "Python Langage De Programmation",
+      "count" : "1"
+    }, {
+      "value" : "Structures De Données Informatique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Massaron Luca",
+      "count" : "1"
+    }, {
+      "value" : "Mueller John",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

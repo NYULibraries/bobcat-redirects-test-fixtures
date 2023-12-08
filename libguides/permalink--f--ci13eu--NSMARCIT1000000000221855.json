@@ -1,0 +1,317 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995641904807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Policy & society : journal of public, foreign and global policy." ],
+        "subject" : [ "Australia -- Politics and government -- 1945-$$QAustralia -- Politics and government -- 1945- -- Periodicals", "Australia -- Economic conditions -- 1945-$$QAustralia -- Economic conditions -- 1945- -- Periodicals", "Pacific Area -- Politics and government$$QPacific Area -- Politics and government -- Periodicals", "Pacific Area -- Economic conditions$$QPacific Area -- Economic conditions -- Periodicals", "Policy sciences$$QPolicy sciences -- Periodicals", "Social policy$$QSocial policy -- Periodicals", "Economic policy$$QEconomic policy -- Periodicals", "International relations$$QInternational relations -- Periodicals", "Sciences de la politique$$QSciences de la politique -- Périodiques", "Politique sociale$$QPolitique sociale -- Périodiques", "Politique économique$$QPolitique économique -- Périodiques", "Relations internationales$$QRelations internationales -- Périodiques", "Australie -- Politique et gouvernement -- 1945-$$QAustralie -- Politique et gouvernement -- 1945- -- Périodiques", "Australie -- Conditions économiques -- 1945-$$QAustralie -- Conditions économiques -- 1945- -- Périodiques", "Pacifique, Région du -- Politique et gouvernement$$QPacifique, Région du -- Politique et gouvernement -- Périodiques", "Pacifique, Région du -- Conditions économiques$$QPacifique, Région du -- Conditions économiques -- Périodiques", "Economic history", "Economic policy", "International relations", "Policy sciences", "Politics and government", "Social policy", "Australia", "Pacific Area", "Since 1945" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2013233207;$$CISSN$$V1839-3373;$$COCLC$$V(OCoLC)225030197;$$CISSN$$V1449-4035" ],
+        "creationdate" : [ "2003" ],
+        "publisher" : [ "Oxford : Oxford University Press", "Began with v. 22, no. 2 (2003)." ],
+        "mms" : [ "9995641904807871" ],
+        "contributor" : [ "University of Sydney. School of Economics and Political Science, issuing body.$$QUniversity of Sydney. School of Economics and Political Science", "Lee Kuan Yew School of Public Policy.$$QLee Kuan Yew School of Public Policy." ],
+        "addtitle" : [ "Policy and society" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "periodicals", "Periodicals", "Périodiques" ],
+        "relation" : [ "$$Cearlier_title$$VPolicy organisation and society$$QPolicy organisation and society$$Z9995743043707871" ],
+        "mesh" : [ "Periodical" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000221855" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ],
+        "lds63" : [ "Open Access" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995641904807871" ],
+        "recordid" : [ "alma9995641904807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000221855" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "AN INTERDISCIPLINARY JOURNAL OF POLICY RESEARCH", "POLICY AND SOCIETY : JOURNAL OF PUBLIC, FOREIGN & GLOBAL POLICY", "POLICY & SOCIETY", "POLICY AND SOCIETY : JOURNAL OF PUBLIC, FOREIGN AND GLOBAL POLICY", "POLICY & SOCIETY : JOURNAL OF PUBLIC, FOREIGN & GLOBAL POLICY", "POLICY SOC" ],
+        "addtitle" : [ "Policy and society" ],
+        "date" : [ "2003" ],
+        "issn" : [ "1839-3373", "1449-4035" ],
+        "cop" : [ "Sydney" ],
+        "pub" : [ "Government and International Relations, University of Sydney" ],
+        "oclcid" : [ "(ocolc)225030197" ],
+        "lccn" : [ "2013233207" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Policy & society : journal of public, foreign and global policy." ],
+        "peerreview" : [ "true" ],
+        "openaccess" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Policy & society : journal of public, foreign and global policy." ],
+        "author" : [ "University of Sydney. School of Economics and Political Science, issuing body." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995641904807871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2013233207&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "du\"117.17",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "252",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "176",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "145",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "599",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 631,
+    "COMBINED_SEARCH_TIME" : 633,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Australia",
+      "count" : "1"
+    }, {
+      "value" : "Australia Economic Conditions 1945 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Australia Politics And Government 1945 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Australie Conditions Économiques 1945 Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Australie Politique Et Gouvernement 1945 Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Economic History",
+      "count" : "1"
+    }, {
+      "value" : "Economic Policy",
+      "count" : "1"
+    }, {
+      "value" : "Economic Policy Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "International Relations",
+      "count" : "1"
+    }, {
+      "value" : "International Relations Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pacific Area",
+      "count" : "1"
+    }, {
+      "value" : "Pacific Area Economic Conditions Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pacific Area Politics And Government Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Pacifique Région Du Conditions Économiques Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Pacifique Région Du Politique Et Gouvernement Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Policy Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Policy Sciences Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Politics And Government",
+      "count" : "1"
+    }, {
+      "value" : "Politique Sociale Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Politique Économique Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lee Kuan Yew School Of Public Policy",
+      "count" : "1"
+    }, {
+      "value" : "University Of Sydney School Of Economics And Political Science",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "open_access",
+      "count" : "1"
+    }, {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

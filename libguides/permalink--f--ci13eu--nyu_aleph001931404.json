@@ -1,0 +1,220 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990019314040107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "por" ],
+        "title" : [ "Enciclopédia de literatura brasileira " ],
+        "subject" : [ "Brazilian literature -- Portuguese$$QBrazilian literature -- Portuguese -- Dictionaries", "Authors, Brazilian -- Portuguese$$QAuthors, Brazilian -- Portuguese -- Dictionaries" ],
+        "format" : [ "2 v. (1379 p.) : ill. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$V90190205;$$CISBN$$V8522202435 (v. 2);$$CISBN$$V8522202427 (v. 1);$$CISBN$$V8522202419 (geral);$$COCLC$$V(OCoLC)22137916" ],
+        "creationdate" : [ "1990" ],
+        "publisher" : [ "Rio de Janeiro : Ministério da Educação, Fundação de Assistência ao Estudiante" ],
+        "mms" : [ "990019314040107871" ],
+        "contributor" : [ "Sousa, J. Galante de (José Galante), 1913-$$QSousa, J. Galante de", "Coutinho, Afrânio.$$QCoutinho, Afrânio.", "OLAC (Organization)$$QOLAC (Organization)" ],
+        "genre" : [ "Dictionaries" ],
+        "place" : [ "Rio de Janeiro :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001931404" ],
+        "lds53" : [ "001931404" ],
+        "lds60" : [ "At head of title: Oficina Literária Afrânio Coutinho, OLAC." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990019314040107871" ],
+        "recordid" : [ "alma990019314040107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001931404-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sousa", "Coutinho" ],
+        "aufirst" : [ "J. Galante de", "Afrânio." ],
+        "auinit" : [ "J", "A" ],
+        "addau" : [ "Sousa, J. Galante de (José Galante)", "Coutinho, Afrânio." ],
+        "contributorfull" : [ "$$NSousa, J. Galante de (José Galante)$$LSousa$$FJ. Galante de$$Rcontributor", "$$NCoutinho, Afrânio.$$Rcontributor" ],
+        "date" : [ "1990" ],
+        "isbn" : [ "8522202435", "8522202427", "8522202419" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Rio de Janeiro" ],
+        "pub" : [ "Ministério da Educação, Fundação de Assistência ao Estudiante" ],
+        "oclcid" : [ "(ocolc)22137916" ],
+        "lccn" : [ "90190205" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Enciclopédia de literatura brasileira" ]
+      },
+      "sort" : {
+        "title" : [ "Enciclopédia de literatura brasileira /" ],
+        "author" : [ "Sousa, J. Galante de (José Galante), 1913-" ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990019314040107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:8522202435,OCLC:,LCCN:90190205&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#9506ǂ e53 1990",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "88",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "307",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 331,
+    "COMBINED_SEARCH_TIME" : 335,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "por",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Authors Brazilian Dictionaries Portuguese",
+      "count" : "1"
+    }, {
+      "value" : "Brazilian Literature Dictionaries Portuguese",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coutinho Afrânio",
+      "count" : "1"
+    }, {
+      "value" : "Olac Organization",
+      "count" : "1"
+    }, {
+      "value" : "Sousa J Galante De",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

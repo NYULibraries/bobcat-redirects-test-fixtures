@@ -1,0 +1,191 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990071748600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Luxury Retail and Digital Management, 2nd Edition " ],
+        "format" : [ "1 online resource (384 pages)", "text file" ],
+        "identifier" : [ "$$CISBN$$V1119542332;$$CISBN$$V9781119542339;$$COCLC$$V(OCoLC)1266265125" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Chevalier, Michel, author.$$QChevalier, Michel" ],
+        "publisher" : [ "Wiley" ],
+        "description" : [ "Develop a winning customer experience in the digital world Luxury consumers are changing - they come from all over the world, they are young and they are digital natives. How can luxury brands that have built themselves as pure physical players adapt their business model and practices to address their expectations without abandoning their luxury DNA? Luxury Retail and Digital Management, 2nd Edition sets focus on the major retailing challenges and customer evolutions luxury brands are facing today: the digitalisation and the emergence of the millennials and Chinese luxury consumers. These major changes have been affecting the distribution and communication channels of luxury brands; they now have to think simultaneously physical stores and e-commerce, global marketing and digital marketing. • Defines all the tools that are necessary to manage luxury stores including analysis of location and design concept • Explores the selection, training and motivation of the staff • Covers everything executives, managers and retail staff need to know in order to enter, expand, understand and succeed in the world of luxury retail Written by luxury retail experts Michel Chevalier and Michel Gutsatz, who lend their solid academic credentials and professional expertise to the subject, Luxury Retail and Digital Management, 2nd Edition provides deep insight into the main challenges that luxury brands are facing in this digital age." ],
+        "mms" : [ "990071748600107871" ],
+        "contributor" : [ "Gutsatz, Michel, author.$$QGutsatz, Michel", "O'Reilly for Higher Education (Firm), distributor.$$QO'Reilly for Higher Education (Firm)", "Safari, an O'Reilly Media Company.$$QSafari, an O'Reilly Media Company." ],
+        "edition" : [ "2nd edition." ],
+        "relation" : [ "$$Cform$$VLuxury retail and digital management : developing customer experience in a digital world$$Z990085640760107871", "$$Cform$$VLuxury retail and digital management : developing customer experience in a digital world$$Z9995691737007871" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph007174860" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990071748600107871" ],
+        "recordid" : [ "alma990071748600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007174860-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chevalier" ],
+        "aufirst" : [ "Michel" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Chevalier, Michel" ],
+        "addau" : [ "Gutsatz, Michel" ],
+        "creatorfull" : [ "$$NChevalier, Michel$$LChevalier$$FMichel$$Rauthor" ],
+        "contributorfull" : [ "$$NGutsatz, Michel$$LGutsatz$$FMichel$$Rcontributor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "1119542332", "9781119542339" ],
+        "abstract" : [ "Develop a winning customer experience in the digital world Luxury consumers are changing - they come from all over the world, they are young and they are digital natives. How can luxury brands that have built themselves as pure physical players adapt their business model and practices to address their expectations without abandoning their luxury DNA? Luxury Retail and Digital Management, 2nd Edition sets focus on the major retailing challenges and customer evolutions luxury brands are facing today: the digitalisation and the emergence of the millennials and Chinese luxury consumers. These major changes have been affecting the distribution and communication channels of luxury brands; they now have to think simultaneously physical stores and e-commerce, global marketing and digital marketing. • Defines all the tools that are necessary to manage luxury stores including analysis of location and design concept • Explores the selection, training and motivation of the staff • Covers everything executives, managers and retail staff need to know in order to enter, expand, understand and succeed in the world of luxury retail Written by luxury retail experts Michel Chevalier and Michel Gutsatz, who lend their solid academic credentials and professional expertise to the subject, Luxury Retail and Digital Management, 2nd Edition provides deep insight into the main challenges that luxury brands are facing in this digital age." ],
+        "pub" : [ "Wiley" ],
+        "oclcid" : [ "(ocolc)1266265125" ],
+        "edition" : [ "2nd edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Luxury Retail and Digital Management, 2nd Edition" ]
+      },
+      "sort" : {
+        "title" : [ "Luxury Retail and Digital Management, 2nd Edition /" ],
+        "author" : [ "Chevalier, Michel, author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990071748600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781119542339,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "339",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "70",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "543",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 566,
+    "COMBINED_SEARCH_TIME" : 567,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chevalier Michel",
+      "count" : "1"
+    }, {
+      "value" : "Gutsatz Michel",
+      "count" : "1"
+    }, {
+      "value" : "Oreilly For Higher Education Firm",
+      "count" : "1"
+    }, {
+      "value" : "Safari An Oreilly Media Company",
+      "count" : "1"
+    } ]
+  } ]
+}

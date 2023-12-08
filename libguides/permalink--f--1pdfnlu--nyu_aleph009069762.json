@@ -1,0 +1,232 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990090697620107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A to Z of creative writing methods " ],
+        "subject" : [ "Creative writing -- Technique", "Création littéraire -- Technique" ],
+        "format" : [ "1 online resource (217 p.)." ],
+        "identifier" : [ "$$CISBN$$V9781350184220;$$CISBN$$V1350184225;$$COCLC$$V(OCoLC)1341444073;$$CISBN$$V9781350184206" ],
+        "creationdate" : [ "2022" ],
+        "publisher" : [ "London : Bloomsbury Publishing Plc" ],
+        "mms" : [ "990090697620107871" ],
+        "contributor" : [ "Wardle, Deborah, editor.$$QWardle, Deborah", "Loon, Julienne van.$$QLoon, Julienne van.", "Taylor, Stayci.$$QTaylor, Stayci.", "Rendle-Short, Francesca.$$QRendle-Short, Francesca.", "Murray, Peta.$$QMurray, Peta.", "Carlin, David.$$QCarlin, David." ],
+        "series" : [ "Research in creative writing$$QResearch in creative writing", "Research in Creative Writing Ser.$$QResearch in Creative Writing Ser." ],
+        "contents" : [ "Cover -- Contents -- List of contributors -- Acknowledgement of country -- Acknowledgements -- Introduction Deborah Wardle, Julienne van Loon, Stayci Taylor, Francesca Rendle-Short, Peta Murray, David Carlin -- Archival-poetics Natalie Harkin -- Aswang Allan N. Derain -- Atmospherics Kathleen Stewart -- Braiding Catherine McKinnon -- Bricolage Dominique Hecq -- Bung wantaim Steven Winduo -- Camping Soile Veijola -- Character Lina Maria Ferreira Cabeza-Vanegas -- Chorality Martina Copley -- Code Benjamin Laird -- Collaboration Quinn Eades -- Collecting Ander Monson", "Communitas Francesca Rendle-Short -- Dialogue Cath Moore -- Drawing Sarah Leavitt -- Ekphrasis Sarah Holland-Batt -- Ensemble Shuchi Kothari -- Erasure Nhã Thuyên -- Experience Kári Gíslason -- Experimentation Collier Nogues -- Facilitator Ali Cobby Eckermann -- Fade out Stayci Taylor -- Feelings Erik Knudsen -- Flow Mary Cappello -- Ghost Weaving Paola Balla -- Hybrid Marion May Campbell -- Imagination Paula Morris -- Iterative thinking Ames Hawkins -- Juxtaposition Wendy S. Walters -- Keepsake Fiona Murphy -- Listening Marjorie Evasco -- Listing David Carlin -- Memory work Maria Tumarkin", "Metaphor me Selina Tusitala Marsh -- Nonhuman imaginaries Deborah Wardle -- Not-knowing Julienne van Loon -- Notebooking Safdar Ahmed -- Observation Stephen Carleton -- Paragraphing Delia Falconer -- Permission Tina Makereti -- Phototextuality Karen L. Carr -- Play Nicole Walker -- Preposition Martin Villanueva -- Procrastination Aritha van Herk -- Queering Marion May Campbell, Lawrence Lacambra Ypil, Francesca Rendle-Short, Deborah Wardle, Ames Hawkins, Quinn Eades, Stayci Taylor, Peta Murray, Natalie Harkin, Antonia Pont and Anonymous -- Radical effrontery Jeanine Leane", "Reading Belinda Castles -- Resistance James Byrne -- Rites Manola-Gayatri Kumarswamy -- Sensing CM Burroughs -- Speculation Robin Hemley -- Taxonomy Lavanya Shanbhogue Arvind -- Translation Rúnar Helgi Vignisson -- Uncertainty Lawrence Lacambra Ypil -- Vocabulary Peta Murray -- Writing-foreign-language Fan Dai -- Xenos Nike Sulway -- Yoga Antonia Pont -- Zim Alvin Pang -- Index" ],
+        "relation" : [ "$$Cform$$VPrint version: Wardle, Deborah A to Z of Creative Writing Methods London : Bloomsbury Publishing Plc,c2022$$QA to Z of Creative Writing Methods" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph009069762" ],
+        "lds60" : [ "Description based upon print version of record." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990090697620107871" ],
+        "recordid" : [ "alma990090697620107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009069762-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wardle", "Loon", "Taylor", "Rendle-Short", "Murray", "Carlin" ],
+        "aufirst" : [ "Deborah", "Julienne van.", "Stayci.", "Francesca.", "Peta.", "David." ],
+        "auinit" : [ "J", "S", "F", "P", "D" ],
+        "addau" : [ "Wardle, Deborah", "Loon, Julienne van.", "Taylor, Stayci.", "Rendle-Short, Francesca.", "Murray, Peta.", "Carlin, David." ],
+        "contributorfull" : [ "$$NWardle, Deborah$$LWardle$$FDeborah$$Reditor", "$$NLoon, Julienne van.$$Rcontributor", "$$NTaylor, Stayci.$$Rcontributor", "$$NRendle-Short, Francesca.$$Rcontributor", "$$NMurray, Peta.$$Rcontributor", "$$NCarlin, David.$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9781350184220", "1350184225", "9781350184206" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Publishing Plc" ],
+        "oclcid" : [ "(ocolc)1341444073" ],
+        "seriestitle" : [ "Research in creative writing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A to Z of creative writing methods" ]
+      },
+      "sort" : {
+        "title" : [ "A to Z of creative writing methods /" ],
+        "author" : [ "Wardle, Deborah, editor." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990090697620107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990090697620107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990090697620107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1350184225,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "176",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "162",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "80",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "76",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "86",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "550",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 590,
+    "COMBINED_SEARCH_TIME" : 593,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Creative Writing Technique",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire Technique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carlin David",
+      "count" : "1"
+    }, {
+      "value" : "Loon Julienne Van",
+      "count" : "1"
+    }, {
+      "value" : "Murray Peta",
+      "count" : "1"
+    }, {
+      "value" : "Rendle Short Francesca",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Stayci",
+      "count" : "1"
+    }, {
+      "value" : "Wardle Deborah",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

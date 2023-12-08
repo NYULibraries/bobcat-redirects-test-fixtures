@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048186420107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "SAGE qualitative research methods " ],
+        "subject" : [ "Sciences sociales -- Recherche -- Méthodologie", "Recherche qualitative", "Qualitative research", "Social sciences -- Research -- Methodology" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9780857028211;$$CISBN$$V0857028219;$$CISBN$$V9781446275702;$$CISBN$$V1446275701;$$COCLC$$V(OCoLC)738380302;$$CISBN$$V9781849203784" ],
+        "creationdate" : [ "2011" ],
+        "publisher" : [ "London : SAGE" ],
+        "description" : [ "SAGE has been a major force shaping the field of qualitative methods. This collection includes research from the past four decades and addresses key issues or controversies, such as : explanations and defences of qualitative methods, ethics, research questions and foreshadowed problems, access, and first days in the field." ],
+        "mms" : [ "990048186420107871" ],
+        "contributor" : [ "Atkinson, Paul, 1947-$$QAtkinson, Paul", "Delamont, Sara, 1947-$$QDelamont, Sara" ],
+        "addtitle" : [ "Qualitative research methods", "Sage research methods online." ],
+        "series" : [ "Sage benchmarks in social research methods$$QSage benchmarks in social research methods", "Sage benchmarks in social research methods.$$QSage benchmarks in social research methods." ],
+        "contents" : [ "Cover; Volume 1; Contents; Appendix of Sources; Editors' Introduction; 1 -- A Stranger at the Gate: Reflections on the Chicago School of Sociology; 2 -- The Past and the Future of Ethnography; 3 -- Ethnography: Post, Past, and Present; 4 -- The Interactional Study of Organizations: A Critique and Reformulation; 5 -- Comparative Methods in Social Science; 6 -- Towards a Peopled Ethnography: Developing Theory from Group Life; 7 -- Beyond Groups: Seven Pillars of Peopled Ethnography in Organizations and Communities; 8 -- Participant Observation in the Era of \"Ethnography\"; 9 -- On Fieldwork", "10 -- Erving Goffman's Sociological Legacies11 -- Field Reality: Orientations; 12 -- Accessing, Waiting, Plunging in, Wondering, and Writing: Retrospective Sense-Making of Fieldwork; 13 -- Exchange and Access in Field Work; 14 -- From How to Why: On Luminous Description and Causal Inference in Ethnography (Part 1); 15 -- From How to Why: On Luminous Description and Causal Inference in Ethnography (Part 2); 16 -- Reminiscences of Classic Chicago: The Blumer-Hughes Talk; 17 -- Toward a Critical Ethnography: A Reexamination of the Chicago Legacy", "18 -- Everett C. Hughes and the Development of Fieldwork in Sociology19 -- A Meta-Ethnographic Approach and The Freeman Refutation of Mead; Volume II; Contents; 20 -- Stability and Flexibility: Maintaining Relations within Organized and Unorganized Groups; 21 -- Ethnographic Evidence; 22 -- The Hired Hand and the Lone Wolf:Issues in the Use of Observers in Large-Scale Program Evaluation; 23 -- Four Ways to Improve the Craft of Fieldwork; 24 -- \"Déjà Entendu\": The Liminal Qualities of Anthropological Fieldnotes; 25 -- Images of Recovery: A Photo-Elicitation Study on the Hospital Ward", "26 -- Educational Ethnography as Performance Art: Towards a Sensuous Feeling and Knowing27 -- Discipline and the Material Form of Images: An Analysis of Scientific Visibility; 28 -- Understanding Urban Life:The Chicago Legacy; 29 -- Street Phenomenology: The Go-Along as Ethnographic Research Tool; 30 -- \"Just Another Native?\" Soundscapes, Chorasters, and Borderlands in Edmonton, Alberta, Canada; 31 -- Doing Research in Cyberspace; 32 -- How I Learned What a Crock Was; 33 -- Ten Lies of Ethnography: Moral Dilemmas of Field Research", "34 -- Problems in the Field: Participant Observation and the Assumption of Neutrality35 -- Collecting Data from Elites and Ultra Elites: Telephone and Face-to-Face Interviews with Macroeconomists; 36 -- The Ubiquity of Ambiguity in Research Interviewing: An Exemplar; 37 -- Referencing as Persuasion; 38 -- Contradictions of Feminist Methodology; 39 -- Jurors' Use of Judges' Instructions: Conceptual and Methodological Issues for Simulated Jury Studies; Volume III; Contents; 40 -- Notes on the Nature and Development of General Theories", "41 -- Grounded Theory Method: Philosophical Perspectives, Paradigm of Inquiry, and Postmodernism" ],
+        "relation" : [ "$$Cform$$VPrint version" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sagepub", "aleph004818642" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048186420107871" ],
+        "recordid" : [ "alma990048186420107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004818642-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Atkinson", "Delamont" ],
+        "aufirst" : [ "Paul", "Sara" ],
+        "auinit" : [ "P", "S" ],
+        "addau" : [ "Atkinson, Paul", "Delamont, Sara" ],
+        "contributorfull" : [ "$$NAtkinson, Paul$$LAtkinson$$FPaul$$Rcontributor", "$$NDelamont, Sara$$Rcontributor" ],
+        "addtitle" : [ "Qualitative research methods" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9780857028211", "0857028219", "9781446275702", "1446275701", "9781849203784" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "SAGE has been a major force shaping the field of qualitative methods. This collection includes research from the past four decades and addresses key issues or controversies, such as : explanations and defences of qualitative methods, ethics, research questions and foreshadowed problems, access, and first days in the field." ],
+        "cop" : [ "London" ],
+        "pub" : [ "SAGE" ],
+        "oclcid" : [ "(ocolc)738380302" ],
+        "seriestitle" : [ "Sage benchmarks in social research methods" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "SAGE qualitative research methods" ]
+      },
+      "sort" : {
+        "title" : [ "SAGE qualitative research methods /" ],
+        "author" : [ "Atkinson, Paul, 1947-" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048186420107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048186420107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0857028219,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "h!62ǂ s325 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "84",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "287",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 460,
+    "COMBINED_SEARCH_TIME" : 464,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Qualitative Research",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Qualitative",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Research Methodology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Atkinson Paul",
+      "count" : "1"
+    }, {
+      "value" : "Delamont Sara",
+      "count" : "1"
+    } ]
+  } ]
+}

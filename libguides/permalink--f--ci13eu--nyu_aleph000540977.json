@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990005409770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Rediscoveries II : important writers select their favorite works of neglected fiction " ],
+        "subject" : [ "Books and reading -- United States", "Novelists, American -- 20th century -- Books and reading", "Best books -- United States", "Fiction -- History and criticism", "Canon (Literature)" ],
+        "format" : [ "340 p. ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V88007246;$$CISBN$$V0881843911 :;$$CISBN$$V9780881843910;$$COCLC$$V(OCoLC)17650708" ],
+        "creationdate" : [ "1988" ],
+        "publisher" : [ "New York : Carroll & Graf Publishers" ],
+        "mms" : [ "990005409770107871" ],
+        "contributor" : [ "Madden, David, 1933-$$QMadden, David", "Bach, Peggy.$$QBach, Peggy." ],
+        "addtitle" : [ "Rediscoveries 2.", "Rediscoveries two." ],
+        "edition" : [ "1st Carroll & Graf ed." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000540977" ],
+        "lds53" : [ "000540977" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990005409770107871" ],
+        "recordid" : [ "alma990005409770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000540977-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Madden", "Bach" ],
+        "aufirst" : [ "David", "Peggy." ],
+        "auinit" : [ "D", "P" ],
+        "addau" : [ "Madden, David", "Bach, Peggy." ],
+        "contributorfull" : [ "$$NMadden, David$$LMadden$$FDavid$$Rcontributor", "$$NBach, Peggy.$$Rcontributor" ],
+        "date" : [ "1988" ],
+        "isbn" : [ "0881843911", "9780881843910" ],
+        "notes" : [ "Bibliography: p. [336]-340." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Carroll & Graf Publishers" ],
+        "oclcid" : [ "(ocolc)17650708" ],
+        "lccn" : [ "88007246" ],
+        "edition" : [ "1st Carroll & Graf ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Rediscoveries II : important writers select their favorite works of neglected fiction" ]
+      },
+      "sort" : {
+        "title" : [ "Rediscoveries II : important writers select their favorite works of neglected fiction /" ],
+        "author" : [ "Madden, David, 1933-" ],
+        "creationdate" : [ "1988" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990005409770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780881843910,OCLC:,LCCN:88007246&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#1003.2ǂ r45 1988",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "292",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 328,
+    "COMBINED_SEARCH_TIME" : 330,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1988",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Best Books United States",
+      "count" : "1"
+    }, {
+      "value" : "Books And Reading United States",
+      "count" : "1"
+    }, {
+      "value" : "Canon Literature",
+      "count" : "1"
+    }, {
+      "value" : "Fiction History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Novelists American 20th Century Books And Reading",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bach Peggy",
+      "count" : "1"
+    }, {
+      "value" : "Madden David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

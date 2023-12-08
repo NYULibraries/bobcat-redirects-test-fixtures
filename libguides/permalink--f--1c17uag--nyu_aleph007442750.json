@@ -1,0 +1,256 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074427500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Aiiieeeee! : an anthology of Asian American writers " ],
+        "subject" : [ "Asian Americans -- Literary collections", "American literature -- 20th century", "American literature", "American literature -- Asian American authors", "1900-1999" ],
+        "format" : [ "lviii, 307 pages ; 23 cm." ],
+        "identifier" : [ "$$CLC$$V2019023199;$$CISBN$$V9780295746487;$$CISBN$$V9780295746760;$$CISBN$$V0295746769;$$CISBN$$V0295746483;$$COCLC$$V(OCoLC)1104907391;$$CISBN$$V9780295746494" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Seattle : University of Washington Press" ],
+        "description" : [ "\"In the eyes of white America, \"Aiiieeeee!\" was the racist cry from Asian Americans, their singular expression of all emotions-it signified and perpetuated Asian Americans as inscrutable, foreign, obedient, self-hating, undesirable, and one dimensional. With this anthology, first published in 1974, Frank Chin, Jeffery Chan, Lawson Inada, and Shawn Wong outlined the history of Asian American literature and boldly drew the boundaries for what was truly Asian American and what was white puppetry. Showcasing fourteen uncompromising works from authors such as Carlos Bulosan and John Okada, the editors introduced readers to a variety of daring voices. Forty-five years later, the groundbreaking anthology remains a vital collection that still sparks controversy. In the seventies, it helped to establish Asian American literature as a serious and distinct literary tradition, and today, the editors' forceful voices still reverberate in contemporary discussions about American literary traditions. Now back in print with a new foreword by literary scholar Tara Fickle, this third edition of the book is an essential anthology that demonstrates how Asian Americans fought for-and seized-their place in the American literary canon\"-- Provided by publisher." ],
+        "mms" : [ "990074427500107871" ],
+        "contributor" : [ "Chin, Frank, 1940- editor.$$QChin, Frank", "Chan, Jeffery Paul, editor.$$QChan, Jeffery Paul", "Inada, Lawson Fusao, editor.$$QInada, Lawson Fusao", "Wong, Shawn, 1949- editor.$$QWong, Shawn", "Fickle, Tara, author of foreword.$$QFickle, Tara" ],
+        "edition" : [ "Third edition." ],
+        "series" : [ "Classics of Asian American literature$$QClassics of Asian American literature", "Classics of Asian American literature.$$QClassics of Asian American literature." ],
+        "relation" : [ "$$Cform$$VAiiieeeee! : an anthology of Asian American writers$$Z990084562840107871", "$$Cform$$VOnline version: Aiiieeeee! 3rd. Seattle : University of Washington Press, 2019.$$QAiiieeeee!$$Z9995821397907871" ],
+        "place" : [ "Seattle :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007442750" ],
+        "lds53" : [ "007442750" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074427500107871" ],
+        "recordid" : [ "alma990074427500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007442750-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chin", "Chan", "Inada", "Wong", "Fickle" ],
+        "aufirst" : [ "Frank", "Jeffery Paul", "Lawson Fusao", "Shawn", "Tara" ],
+        "auinit" : [ "F", "J", "L", "S", "T" ],
+        "addau" : [ "Chin, Frank", "Chan, Jeffery Paul", "Inada, Lawson Fusao", "Wong, Shawn", "Fickle, Tara" ],
+        "contributorfull" : [ "$$NChin, Frank$$LChin$$FFrank$$Reditor", "$$NChan, Jeffery Paul$$Reditor", "$$NInada, Lawson Fusao$$Reditor", "$$NWong, Shawn$$Reditor", "$$NFickle, Tara$$Rsecondary contributor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9780295746487", "9780295746760", "0295746769", "0295746483", "9780295746494" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"In the eyes of white America, \"Aiiieeeee!\" was the racist cry from Asian Americans, their singular expression of all emotions-it signified and perpetuated Asian Americans as inscrutable, foreign, obedient, self-hating, undesirable, and one dimensional. With this anthology, first published in 1974, Frank Chin, Jeffery Chan, Lawson Inada, and Shawn Wong outlined the history of Asian American literature and boldly drew the boundaries for what was truly Asian American and what was white puppetry. Showcasing fourteen uncompromising works from authors such as Carlos Bulosan and John Okada, the editors introduced readers to a variety of daring voices. Forty-five years later, the groundbreaking anthology remains a vital collection that still sparks controversy. In the seventies, it helped to establish Asian American literature as a serious and distinct literary tradition, and today, the editors' forceful voices still reverberate in contemporary discussions about American literary traditions. Now back in print with a new foreword by literary scholar Tara Fickle, this third edition of the book is an essential anthology that demonstrates how Asian Americans fought for-and seized-their place in the American literary canon\"-- Provided by publisher." ],
+        "cop" : [ "Seattle" ],
+        "pub" : [ "University of Washington Press" ],
+        "oclcid" : [ "(ocolc)1104907391" ],
+        "lccn" : [ "2019023199" ],
+        "edition" : [ "Third edition." ],
+        "seriestitle" : [ "Classics of Asian American literature" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Aiiieeeee! : an anthology of Asian American writers" ]
+      },
+      "sort" : {
+        "title" : [ "Aiiieeeee! : an anthology of Asian American writers /" ],
+        "author" : [ "Chin, Frank, 1940- editor." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074427500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074427500107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0295746769,OCLC:,LCCN:2019023199&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps\"508 a8ǂa4 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "318",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "58",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "97",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "530",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 552,
+    "COMBINED_SEARCH_TIME" : 556,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "American Literature",
+      "count" : "1"
+    }, {
+      "value" : "American Literature 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "American Literature Asian American Authors",
+      "count" : "1"
+    }, {
+      "value" : "Asian Americans Literary Collections",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chan Jeffery Paul",
+      "count" : "1"
+    }, {
+      "value" : "Chin Frank",
+      "count" : "1"
+    }, {
+      "value" : "Fickle Tara",
+      "count" : "1"
+    }, {
+      "value" : "Inada Lawson Fusao",
+      "count" : "1"
+    }, {
+      "value" : "Wong Shawn",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

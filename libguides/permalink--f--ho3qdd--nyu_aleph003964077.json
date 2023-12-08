@@ -1,0 +1,275 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039640770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Metaphors we live by " ],
+        "subject" : [ "Language and languages -- Philosophy", "Metaphor", "Concepts", "Truth", "Metaforen", "Filosofische aspecten", "Metapher", "Sprachliches Weltbild" ],
+        "format" : [ "xiii, 276 p. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V2003044774;$$CISBN$$V0226468011 (pbk. : alk. paper);$$CISBN$$V9780226468013 (pbk. : alk. paper);$$CISBN$$V0226468372 (pbk. : alk. paper);$$CISBN$$V9780226468372 (pbk. : alk. paper);$$COCLC$$V(OCoLC)51817207" ],
+        "creationdate" : [ "2003" ],
+        "creator" : [ "Lakoff, George.$$QLakoff, George." ],
+        "publisher" : [ "Chicago : University of Chicago Press" ],
+        "description" : [ "Metaphor, the authors explain, is a fundamental mechanism of mind, one that allows us to use what we know about our physical and social experience to provide understanding of countless other subjects. Because such metaphors structure our most basic understandings of our experience, they are \"metaphors we live by\" -- metaphors that can shape our perceptions and actions without our ever noticing them. --from publisher description." ],
+        "mms" : [ "990039640770107871" ],
+        "contributor" : [ "Johnson, Mark, 1949-$$QJohnson, Mark" ],
+        "contents" : [ "1. Concepts we live by -- 2. The systematicity of metaphorical concepts -- 3. Metaphorical systematicity: highlighting and hiding -- 4. Orientational metaphors -- 5. Metaphor and cultural coherence -- 6. Ontological metaphors -- 7. Personification -- 8. Metonymy -- 9. Challenges to metaphorical coherence -- 10. Some further examples -- 11. The partial nature of metaphorical structuring -- 12. How is our conceptual system grounded? -- 13. The grounding of structural metaphors -- 14. Causation: partly emergent and partly metaphorical -- 15. The coherent structuring of experience -- 16. Metaphorical coherence -- 17. Complex coherences across metaphors -- 18. Some consequences for theories of conceptual structure -- 19. Definition and understanding -- 20. How metaphor can give meaning to form -- 21. New meaning -- 22. The creation of similarity -- 23. Metaphor, truth, and action -- 24. Truth -- 25. The myths of objectivism and subjectivism -- 26. The myth of objectivism in Western philosophy and linguistics -- 27. How metaphor reveals the limitations of the myth of objectivism -- 28. Some inadequacies of the myth of subjectivism -- 29. The experientialist alternative: giving new meaning to the old myths -- 30. Understanding." ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003964077" ],
+        "lds53" : [ "003964077" ],
+        "lds60" : [ "Originally published: Chicago : University of Chicago Press, 1980." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039640770107871" ],
+        "recordid" : [ "alma990039640770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003964077-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lakoff" ],
+        "aufirst" : [ "George." ],
+        "auinit" : [ "G" ],
+        "au" : [ "Lakoff, George." ],
+        "addau" : [ "Johnson, Mark" ],
+        "creatorfull" : [ "$$NLakoff, George.$$LLakoff$$FGeorge.$$Rauthor" ],
+        "contributorfull" : [ "$$NJohnson, Mark$$LJohnson$$FMark$$Rcontributor" ],
+        "date" : [ "2003 - 1980", "2003" ],
+        "isbn" : [ "0226468011", "9780226468013", "0226468372", "9780226468372" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Metaphor, the authors explain, is a fundamental mechanism of mind, one that allows us to use what we know about our physical and social experience to provide understanding of countless other subjects. Because such metaphors structure our most basic understandings of our experience, they are \"metaphors we live by\" -- metaphors that can shape our perceptions and actions without our ever noticing them. --from publisher description." ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)51817207" ],
+        "lccn" : [ "2003044774" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Metaphors we live by" ]
+      },
+      "sort" : {
+        "title" : [ "Metaphors we live by /" ],
+        "author" : [ "Lakoff, George." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990039640770107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990039640770107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990039640770107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780226468013,OCLC:,LCCN:2003044774&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "p\"106ǂ l235 2003",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "89",
+    "CALL_SOLR_GET_IDS_LIST" : "108",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "38",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "329",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 364,
+    "COMBINED_SEARCH_TIME" : 367,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1980",
+      "count" : "1"
+    }, {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Concepts",
+      "count" : "1"
+    }, {
+      "value" : "Filosofische Aspecten",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Metaforen",
+      "count" : "1"
+    }, {
+      "value" : "Metapher",
+      "count" : "1"
+    }, {
+      "value" : "Metaphor",
+      "count" : "1"
+    }, {
+      "value" : "Sprachliches Weltbild",
+      "count" : "1"
+    }, {
+      "value" : "Truth",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Johnson Mark",
+      "count" : "1"
+    }, {
+      "value" : "Lakoff George",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

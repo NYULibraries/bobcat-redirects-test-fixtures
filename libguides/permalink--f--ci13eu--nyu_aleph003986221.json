@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990039862210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Learn to write badly : how to succeed in the social sciences " ],
+        "subject" : [ "Sciences sociales -- Recherche", "Communication in the social sciences", "English language -- Writing", "Social sciences -- Research", "Sozialwissenschaften", "Kommunikation", "schrijven", "writing", "schrijfvaardigheden", "writing skills", "publiceren", "publishing", "sociale wetenschappen", "social sciences", "sociale wetenschappers", "social scientists", "Reporting", "Publishing", "Rapporteren", "Publiceren" ],
+        "format" : [ "1 online resource (viii, 234 pages)" ],
+        "identifier" : [ "$$CISBN$$V1139208837;$$CISBN$$V9781139208833;$$COCLC$$V(OCoLC)855891031;$$CISBN$$V9781107676985;$$CISBN$$V1107676983" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Billig, Michael.$$QBillig, Michael." ],
+        "publisher" : [ "Cambridge : Cambridge University Press" ],
+        "description" : [ "\"Modern academia is increasingly competitive yet the writing style of social scientists is routinely poor and continues to deteriorate. Are social science postgraduates being taught to write poorly? What conditions adversely affect the way they write? And which linguistic features contribute towards this bad writing? Michael Billig's witty and entertaining book analyses these questions in a quest to pinpoint exactly what is going wrong with the way social scientists write. Using examples from diverse fields such as linguistics, sociology and experimental social psychology, Billig shows how technical terminology is regularly less precise than simpler language. He demonstrates that there are linguistic problems with the noun-based terminology that social scientists habitually use--'reification' or 'nominalization' rather than the corresponding verbs 'reify' or 'nominalize'. According to Billig, social scientists not only use their terminology to exaggerate and to conceal, but also to promote themselves and their work.\"--Back cover." ],
+        "mms" : [ "990039862210107871" ],
+        "contents" : [ "Introduction -- Mass publication and academic life -- Learning to write badly -- Jargon, nouns and acronyms -- Turning people into things -- How to avoid saying who did it -- Some sociological things: governmentality, cosmopolitanization and conversation analysis -- Experimental social psychology: concealing and exaggerating -- Conclusion and recommendations." ],
+        "relation" : [ "$$Cform$$VPrint version: Billig, Michael. Learn to write badly. Cambridge : Cambridge University Press, 2013$$QLearn to write badly.$$Z990038376290107871" ],
+        "place" : [ "Cambridge :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "ebceb", "aleph003986221" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990039862210107871" ],
+        "recordid" : [ "alma990039862210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003986221-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Billig" ],
+        "aufirst" : [ "Michael." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Billig, Michael." ],
+        "creatorfull" : [ "$$NBillig, Michael.$$LBillig$$FMichael.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "1139208837", "9781139208833", "9781107676985", "1107676983" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Modern academia is increasingly competitive yet the writing style of social scientists is routinely poor and continues to deteriorate. Are social science postgraduates being taught to write poorly? What conditions adversely affect the way they write? And which linguistic features contribute towards this bad writing? Michael Billig's witty and entertaining book analyses these questions in a quest to pinpoint exactly what is going wrong with the way social scientists write. Using examples from diverse fields such as linguistics, sociology and experimental social psychology, Billig shows how technical terminology is regularly less precise than simpler language. He demonstrates that there are linguistic problems with the noun-based terminology that social scientists habitually use--'reification' or 'nominalization' rather than the corresponding verbs 'reify' or 'nominalize'. According to Billig, social scientists not only use their terminology to exaggerate and to conceal, but also to promote themselves and their work.\"--Back cover." ],
+        "cop" : [ "Cambridge" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)855891031" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Learn to write badly : how to succeed in the social sciences" ]
+      },
+      "sort" : {
+        "title" : [ "Learn to write badly : how to succeed in the social sciences /" ],
+        "author" : [ "Billig, Michael." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990039862210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781139208833,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "h!61.8ǂ b55 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "153",
+    "CALL_SOLR_GET_IDS_LIST" : "162",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "20",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "428",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 455,
+    "COMBINED_SEARCH_TIME" : 457,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Communication In The Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "English Language Writing",
+      "count" : "1"
+    }, {
+      "value" : "Kommunikation",
+      "count" : "1"
+    }, {
+      "value" : "Publiceren",
+      "count" : "1"
+    }, {
+      "value" : "Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Rapporteren",
+      "count" : "1"
+    }, {
+      "value" : "Reporting",
+      "count" : "1"
+    }, {
+      "value" : "Schrijfvaardigheden",
+      "count" : "1"
+    }, {
+      "value" : "Schrijven",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Research",
+      "count" : "1"
+    }, {
+      "value" : "Social Scientists",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Wetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Wetenschappers",
+      "count" : "1"
+    }, {
+      "value" : "Sozialwissenschaften",
+      "count" : "1"
+    }, {
+      "value" : "Writing",
+      "count" : "1"
+    }, {
+      "value" : "Writing Skills",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Billig Michael",
+      "count" : "1"
+    } ]
+  } ]
+}

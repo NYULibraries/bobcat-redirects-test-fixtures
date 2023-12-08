@@ -1,0 +1,238 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058882530107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Heard on the street : quantitative questions from Wall Street job interviews " ],
+        "subject" : [ "Securities industry -- Vocational guidance -- United States", "Options (Finance) -- United States$$QOptions (Finance) -- United States -- Problems, exercises, etc", "Stock exchanges -- United States$$QStock exchanges -- United States -- Problems, exercises, etc", "Employment interviewing", "Finance -- Vocational guidance", "Options (Finance)", "Securities industry -- Vocational guidance", "Stock exchanges", "United States" ],
+        "format" : [ "xi, 272 pages : illustrations ; 28 cm" ],
+        "identifier" : [ "$$CISBN$$V9780994138637;$$CISBN$$V0994138636;$$COCLC$$V(OCoLC)972501080" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Crack, Timothy Falcon, author.$$QCrack, Timothy Falcon" ],
+        "publisher" : [ "Dunedin : Timothy Falcon Crack" ],
+        "mms" : [ "990058882530107871" ],
+        "addtitle" : [ "At head of cover title: Original book of quant interview questions" ],
+        "edition" : [ "Revised 17th edition." ],
+        "contents" : [ "Purely quantitative & logic questions -- Derivatives questions -- Other financial economics questions -- Statistics questions -- Non-quantitative questions." ],
+        "genre" : [ "Problems, exercises, etc", "Problems and exercises" ],
+        "place" : [ "Dunedin] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005888253" ],
+        "lds53" : [ "005888253" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058882530107871" ],
+        "recordid" : [ "alma990058882530107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005888253-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Crack" ],
+        "aufirst" : [ "Timothy Falcon" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Crack, Timothy Falcon" ],
+        "creatorfull" : [ "$$NCrack, Timothy Falcon$$LCrack$$FTimothy Falcon$$Rauthor" ],
+        "addtitle" : [ "Original book of quant interview questions" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "isbn" : [ "9780994138637", "0994138636" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Dunedin" ],
+        "pub" : [ "Timothy Falcon Crack" ],
+        "oclcid" : [ "(ocolc)972501080" ],
+        "edition" : [ "Revised 17th edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Heard on the street : quantitative questions from Wall Street job interviews" ]
+      },
+      "sort" : {
+        "title" : [ "Heard on the street : quantitative questions from Wall Street job interviews /" ],
+        "author" : [ "Crack, Timothy Falcon, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990058882530107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0994138636,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5549.5 i6ǂc72 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "106",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "57",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "194",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "493",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 517,
+    "COMBINED_SEARCH_TIME" : 521,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Employment Interviewing",
+      "count" : "1"
+    }, {
+      "value" : "Finance Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Options Finance",
+      "count" : "1"
+    }, {
+      "value" : "Options Finance United States Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "Securities Industry Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Securities Industry Vocational Guidance United States",
+      "count" : "1"
+    }, {
+      "value" : "Stock Exchanges",
+      "count" : "1"
+    }, {
+      "value" : "Stock Exchanges United States Problems Exercises Etc",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Crack Timothy Falcon",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

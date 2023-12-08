@@ -1,0 +1,260 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056207030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford history of Greece and the Hellenistic world " ],
+        "subject" : [ "Greece -- History -- To 146 B.C", "Hellénisme", "Grèce -- Histoire -- Jusqu'à 146 av. J.-C", "HISTORY -- Ancient -- Greece", "Greece", "Hellenisme", "Cultuurgeschiedenis", "Grieken", "Klassieke oudheid", "Hellenism", "Greece -- Civilization", "To 146 B.C", "Greece History, B.C.323- A.D.323" ],
+        "format" : [ "1 online resource (viii, 520 pages, 4 unnumbered pages of plates) : illustrations", "data file" ],
+        "identifier" : [ "$$CLC$$V91011926;$$CISBN$$V9780191647307;$$CISBN$$V0191647306;$$COCLC$$V(OCoLC)796813387;$$CISBN$$V0192852477" ],
+        "creationdate" : [ "1991" ],
+        "publisher" : [ "Oxford ; New York : Oxford University Press" ],
+        "description" : [ "Covering the period from the emergence of the Greek city-state to the reign of Alexander the Great and the establishment of Greek monarchies, this text reproduces \"The Oxford History of the Classical World: Greece and the Hellenistic World\" in a smaller format, with new illustrations." ],
+        "mms" : [ "990056207030107871" ],
+        "contributor" : [ "Boardman, John, 1927- editor.$$QBoardman, John", "Griffin, Jasper, editor.$$QGriffin, Jasper", "Murray, Oswyn, editor.$$QMurray, Oswyn" ],
+        "addtitle" : [ "Greece and the Hellenistic world", "Oxford history of the classical world.", "Greece and the Hellenistic world." ],
+        "contents" : [ "Introduction / Jasper Griffin -- Greece: the history of the Archaic Period / George Forrest -- Homer / Oliver Taplin -- Greek myth and Hesiod / Jasper Griffin -- Lyric and elegiac poetry / Ewen Bowie -- Early Greek philosophy / Martin West -- Greece: the history of the Classical Period / Simon Hornblower -- Greek drama / Peter Levi -- Greek historians / Oswyn Murray -- Life and society in Classical Greece / Oswyn Murray -- Classical Greek philosophy / Julia Annas -- Greek religion / Robert Parker -- Greek art and architecture / John Boardman -- The history of the Hellenistic Period / Simon Price -- Hellenistic culture and literature / Robin Lane Fox -- Hellenistic philosophy and science / Jonathan Barnes -- Hellenistic and Graeco-Roman art / Roger Ling." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Oxford history of Greece and the Hellenistic world. Oxford ; New York : Oxford University Press, 1991$$QOxford history of Greece and the Hellenistic world.$$Z990019865120107871" ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "aleph005620703" ],
+        "lds60" : [ "Half title: Greece and the Hellenistic world.", "\"The text ... first published 1986 ... in The Oxford history of the classical world\"--Title page verso" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056207030107871" ],
+        "recordid" : [ "alma990056207030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005620703-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Boardman", "Griffin", "Murray" ],
+        "aufirst" : [ "John", "Jasper", "Oswyn" ],
+        "auinit" : [ "J", "O" ],
+        "addau" : [ "Boardman, John", "Griffin, Jasper", "Murray, Oswyn" ],
+        "contributorfull" : [ "$$NBoardman, John$$LBoardman$$FJohn$$Reditor", "$$NGriffin, Jasper$$Reditor", "$$NMurray, Oswyn$$Reditor" ],
+        "addtitle" : [ "Greece and the Hellenistic world" ],
+        "date" : [ "1991" ],
+        "isbn" : [ "9780191647307", "0191647306", "0192852477" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Covering the period from the emergence of the Greek city-state to the reign of Alexander the Great and the establishment of Greek monarchies, this text reproduces \"The Oxford History of the Classical World: Greece and the Hellenistic World\" in a smaller format, with new illustrations." ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)796813387" ],
+        "lccn" : [ "91011926" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford history of Greece and the Hellenistic world" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford history of Greece and the Hellenistic world /" ],
+        "author" : [ "Boardman, John, 1927- editor." ],
+        "creationdate" : [ "1991" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056207030107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056207030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056207030107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0191647306,OCLC:,LCCN:91011926&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "df\"214ǂ o94 1991eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "182",
+    "CALL_SOLR_GET_IDS_LIST" : "64",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "33",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "98",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "388",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1991",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cultuurgeschiedenis",
+      "count" : "1"
+    }, {
+      "value" : "Greece",
+      "count" : "1"
+    }, {
+      "value" : "Greece Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Greece History B C 323 A D 323",
+      "count" : "1"
+    }, {
+      "value" : "Greece History To 146 B C",
+      "count" : "1"
+    }, {
+      "value" : "Grieken",
+      "count" : "1"
+    }, {
+      "value" : "Grèce Histoire Jusquà 146 Av J C",
+      "count" : "1"
+    }, {
+      "value" : "Hellenism",
+      "count" : "1"
+    }, {
+      "value" : "Hellenisme",
+      "count" : "1"
+    }, {
+      "value" : "Hellénisme",
+      "count" : "1"
+    }, {
+      "value" : "History Ancient Greece",
+      "count" : "1"
+    }, {
+      "value" : "Klassieke Oudheid",
+      "count" : "1"
+    }, {
+      "value" : "To 146 B C",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Boardman John",
+      "count" : "1"
+    }, {
+      "value" : "Griffin Jasper",
+      "count" : "1"
+    }, {
+      "value" : "Murray Oswyn",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,237 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990013810870107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Television and video preservation 1997 : a report on the current state of American television and video preservation : report of the Librarian of Congress." ],
+        "subject" : [ "Television film -- Preservation -- United States", "Video tapes -- Conservation and restoration -- United States" ],
+        "format" : [ "5 v. in 3 : ill. ; 28 cm." ],
+        "identifier" : [ "$$CLC$$V97031530;$$CISBN$$V0844409464 (set);$$COCLC$$V(OCoLC)ocm37580326" ],
+        "creationdate" : [ "1997" ],
+        "publisher" : [ "Washington, D.C. : Library of Congress : For sale by the U.S. G.P.O., Supt. of Docs." ],
+        "mms" : [ "990013810870107871" ],
+        "contributor" : [ "Murphy, William Thomas, 1942-$$QMurphy, William Thomas", "Library of Congress.$$QLibrary of Congress." ],
+        "contents" : [ "v. 1. Report -- v. 2. Los Angeles hearing, March 1996 -- v. 3. New York hearing, March 1996 -- v. 4. Washington hearing, March 1996 -- v. 5. Submissions." ],
+        "relation" : [ "$$Cform$$VTelevision and video preservation 1997 : a report on the current state of American television and video preservation : report of the Librarian of Congress$$Z9995876004607871" ],
+        "place" : [ "Washington, D.C. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001381087" ],
+        "lds53" : [ "001381087" ],
+        "lds60" : [ "\"This report was written by William T. Murphy, assigned to the Library of Congress under an inter-agency agreement with the National Archives and Records Administration, effective October 1, 1995 to November 15, 1996--T.p. verso.", "\"October 1997.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990013810870107871" ],
+        "recordid" : [ "alma990013810870107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001381087-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Murphy" ],
+        "aufirst" : [ "William Thomas" ],
+        "auinit" : [ "W" ],
+        "addau" : [ "Murphy, William Thomas" ],
+        "contributorfull" : [ "$$NMurphy, William Thomas$$LMurphy$$FWilliam Thomas$$Rcontributor" ],
+        "date" : [ "1997" ],
+        "isbn" : [ "0844409464" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "Library of Congress" ],
+        "oclcid" : [ "(ocolc)37580326" ],
+        "lccn" : [ "97031530" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Television and video preservation 1997 : a report on the current state of American television and video preservation : report of the Librarian of Congress." ]
+      },
+      "sort" : {
+        "title" : [ "Television and video preservation 1997 : a report on the current state of American television and video preservation : report of the Librarian of Congress." ],
+        "author" : [ "Murphy, William Thomas, 1942-" ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990013810870107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990013810870107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0844409464,OCLC:,LCCN:97031530&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tr\"886.3ǂ t45 1997",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "221",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "35",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "415",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 448,
+    "COMBINED_SEARCH_TIME" : 450,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Television Film Preservation United States",
+      "count" : "1"
+    }, {
+      "value" : "Video Tapes Conservation And Restoration United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Library Of Congress",
+      "count" : "1"
+    }, {
+      "value" : "Murphy William Thomas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7874–112295960007874",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7874",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,226 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012450550107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Deadheads an American subculture " ],
+        "subject" : [ "Subculture", "Social structure", "Popular culture" ],
+        "format" : [ "1 videocassette (29 min.) : sd., col. ; 1/2 in." ],
+        "identifier" : [ "$$CPUBNUM$$VFFH 2547;$$COCLC$$V(OCoLC)ocm33433778" ],
+        "creationdate" : [ "1993" ],
+        "publisher" : [ "Princeton, NJ : Films for the Humanities & Sciences" ],
+        "description" : [ "This program examines the Deadhead subculture, individuals who follow the Grateful Dead from concert to concert: what kinds of people are attracted to this culture, and what attracts them to it, what social forms do Deadheads resist, what forms shape their behavior, what separates them from the mainstream? The program also examies the workings of a subculture from within." ],
+        "mms" : [ "990012450550107871" ],
+        "contributor" : [ "Edwards, Emily.$$QEdwards, Emily.", "Adams, Rebecca G.$$QAdams, Rebecca G.", "University of North Carolina at Greensboro.$$QUniversity of North Carolina at Greensboro.", "Films for the Humanities (Firm)$$QFilms for the Humanities (Firm)" ],
+        "contents" : [ "Persistence of the subculture -- The parking lot: a portable community -- Freedom and order in the subculture -- Norms & values of the subculture -- Ticket to paradise." ],
+        "place" : [ "Princeton, NJ :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001245055" ],
+        "lds53" : [ "001245055" ],
+        "lds64" : [ "Videography, F. Eugene Stewart, Fran Russ, Eddie Anthony." ],
+        "lds65" : [ "[Presenter]: Rebecca Adams." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012450550107871" ],
+        "recordid" : [ "alma990012450550107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001245055-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Edwards", "Adams" ],
+        "aufirst" : [ "Emily.", "Rebecca G." ],
+        "auinit" : [ "E", "R" ],
+        "addau" : [ "Edwards, Emily.", "Adams, Rebecca G." ],
+        "contributorfull" : [ "$$NEdwards, Emily.$$LEdwards$$FEmily.$$Rcontributor", "$$NAdams, Rebecca G.$$Rcontributor" ],
+        "date" : [ "1993" ],
+        "abstract" : [ "This program examines the Deadhead subculture, individuals who follow the Grateful Dead from concert to concert: what kinds of people are attracted to this culture, and what attracts them to it, what social forms do Deadheads resist, what forms shape their behavior, what separates them from the mainstream? The program also examies the workings of a subculture from within." ],
+        "cop" : [ "Princeton, NJ" ],
+        "pub" : [ "Films for the Humanities & Sciences" ],
+        "oclcid" : [ "(ocolc)33433778" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Deadheads an American subculture" ]
+      },
+      "sort" : {
+        "title" : [ "Deadheads an American subculture /" ],
+        "author" : [ "Edwards, Emily." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012450550107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:33433778,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv000000005809.d000000000043000000001993e",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "55",
+    "CALL_SOLR_GET_IDS_LIST" : "104",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "1",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "62",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "272",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 294,
+    "COMBINED_SEARCH_TIME" : 297,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Popular Culture",
+      "count" : "1"
+    }, {
+      "value" : "Social Structure",
+      "count" : "1"
+    }, {
+      "value" : "Subculture",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Adams Rebecca G",
+      "count" : "1"
+    }, {
+      "value" : "Edwards Emily",
+      "count" : "1"
+    }, {
+      "value" : "Films For The Humanities Firm",
+      "count" : "1"
+    }, {
+      "value" : "University Of North Carolina At Greensboro",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

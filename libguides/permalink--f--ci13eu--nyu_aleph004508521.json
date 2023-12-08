@@ -1,0 +1,205 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045085210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Arts & humanities through the eras." ],
+        "subject" : [ "Arts -- History", "Civilization -- History" ],
+        "format" : [ "1 online resource (5 volumes) : illustrations, photos." ],
+        "identifier" : [ "$$CISBN$$V9780787693848;$$CISBN$$V0787693847;$$COCLC$$V(OCoLC)527355732;$$CISBN$$V078765695X" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "Detroit, Mich. : Thomson Gale" ],
+        "description" : [ "Profiling milestones and movements in the arts, literature, music and religion from a specific period, each volume in this set helps students and researchers understand the various disciplines of the humanities in relation to each other, as well as to history and culture. An overview of the period and a chronology of major world events begin each volume." ],
+        "mms" : [ "990045085210107871" ],
+        "contributor" : [ "Gale Group.$$QGale Group." ],
+        "addtitle" : [ "Arts and humanities through the eras" ],
+        "series" : [ "Gale eBooks$$QGale eBooks" ],
+        "contents" : [ "[1] Ancient Egypt (2675 B.C.E.-332 B.C.E.) / Edward Bleiberg, editor -- [2] Ancient Greece and Rome (1200 B.C.E.-476 C.E.) / James Allan Evans, editor -- [3] Medieval Europe (814-1450) / Kristen Mossler Figg and John Block Friedman, editors -- [4] Renaissance Europe (1300-1600) / Philip M. Soergel, editor -- [5] The age of Baroque and Enlightenment (1600-1800) / Philip M. Soergel, editor." ],
+        "relation" : [ "$$Cform$$VPrint version: Arts & humanities through the eras. Detroit, Mich. : Thomson Gale, c2005$$QArts & humanities through the eras." ],
+        "place" : [ "Detroit, Mich. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galevrl", "aleph004508521" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045085210107871" ],
+        "recordid" : [ "alma990045085210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004508521-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Arts and humanities through the eras" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "9780787693848", "0787693847", "078765695X" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Profiling milestones and movements in the arts, literature, music and religion from a specific period, each volume in this set helps students and researchers understand the various disciplines of the humanities in relation to each other, as well as to history and culture. An overview of the period and a chronology of major world events begin each volume." ],
+        "cop" : [ "Detroit, Mich" ],
+        "pub" : [ "Thomson Gale" ],
+        "oclcid" : [ "(ocolc)527355732" ],
+        "seriestitle" : [ "Gale eBooks" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Arts & humanities through the eras." ]
+      },
+      "sort" : {
+        "title" : [ "Arts & humanities through the eras." ],
+        "author" : [ "Gale Group." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045085210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045085210107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0787693847,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nx\"440",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "15",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "9",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "322",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 355,
+    "COMBINED_SEARCH_TIME" : 357,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Arts History",
+      "count" : "1"
+    }, {
+      "value" : "Civilization History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gale Group",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,262 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059633600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Animal minds & animal ethics : connecting two separate fields " ],
+        "subject" : [ "Animaux (Philosophie)", "Cognition chez les animaux", "Relations homme-animal -- Philosophie", "SOCIAL SCIENCE -- Essays", "SOCIAL SCIENCE -- Reference", "SOCIAL SCIENCE / General", "Animals -- Moral and ethical aspects", "Animals (Philosophy)", "Cognition in animals", "Human-animal relationships -- Philosophy" ],
+        "format" : [ "1 online resource (359 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9783839424629;$$CISBN$$V3839424623;$$COCLC$$V(OCoLC)903974694" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Bielefeld : Transcript" ],
+        "description" : [ "Animal minds and animal ethics - different origins, connecting similarities. Philosophers working on questions of animal ethics usually draw on research into animal cognition and subscribe to strong positions regarding animal minds. Whereas philosophers interested in the question of animal minds sometimes draw ethical conclusions from the positions they argue for. In spite of such overlaps, these two areas of research have grown up separately. One reason for this separation stems from the institutional distinction between theoretical and practical philosophy. The principal aim of this anthology is to build bridges between the fields and different philosophical approaches of animal ethics and of animal minds and cognition." ],
+        "mms" : [ "990059633600107871" ],
+        "contributor" : [ "Petrus, Klaus, 1967- editor.$$QPetrus, Klaus", "Wild, Markus, editor.$$QWild, Markus" ],
+        "addtitle" : [ "Animal minds and animal ethics" ],
+        "series" : [ "Human-animal studies$$QHuman-animal studies", "Human-animal studies (Series : Bielefeld, Germany)$$QHuman-animal studies (Series : Bielefeld, Germany)" ],
+        "contents" : [ "Frontmatter -- Contents -- Introduction -- 1. Animal Mind / Rollin, Bernard E. -- 2. Animal Minds, Cognitive Ethology, and Ethics / Allen, Colin ; Bekoff, Marc -- 3. A Form of War / Smith, Justin E.H. -- 4. Cognition and Community / Steiner, Gary -- 5. Mental Capacities and Animal Ethics / Glock, Hans-Johann -- 6. The Question of Belief Attribution in Great Apes / Lurz, Robert W. -- 7. Ape Autonomy? / Andrews, Kristin -- 8. The Nonhuman Roots of Human Morality / Pluhar, Evelyn B. -- 9. Animal Rights / Kriegel, Uriah -- 10. Taking Sentience Seriously / Francione, Gary L. -- 12. Personhood, Interaction and Skepticism / Aaltola, Elisa -- 13. Eating and Experimenting on Animals / Crary, Alice -- Contributors." ],
+        "place" : [ "Bielefeld :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebceb", "ebscoac", "aleph005963360" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059633600107871" ],
+        "recordid" : [ "alma990059633600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005963360-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Petrus", "Wild" ],
+        "aufirst" : [ "Klaus", "Markus" ],
+        "auinit" : [ "K", "M" ],
+        "addau" : [ "Petrus, Klaus", "Wild, Markus" ],
+        "contributorfull" : [ "$$NPetrus, Klaus$$LPetrus$$FKlaus$$Reditor", "$$NWild, Markus$$Reditor" ],
+        "addtitle" : [ "Animal minds and animal ethics" ],
+        "date" : [ "2013 - 2013", "2013" ],
+        "isbn" : [ "9783839424629", "3839424623" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Animal minds and animal ethics - different origins, connecting similarities. Philosophers working on questions of animal ethics usually draw on research into animal cognition and subscribe to strong positions regarding animal minds. Whereas philosophers interested in the question of animal minds sometimes draw ethical conclusions from the positions they argue for. In spite of such overlaps, these two areas of research have grown up separately. One reason for this separation stems from the institutional distinction between theoretical and practical philosophy. The principal aim of this anthology is to build bridges between the fields and different philosophical approaches of animal ethics and of animal minds and cognition." ],
+        "cop" : [ "Bielefeld" ],
+        "pub" : [ "Transcript" ],
+        "oclcid" : [ "(ocolc)903974694" ],
+        "seriestitle" : [ "Human-animal studies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Animal minds & animal ethics : connecting two separate fields" ]
+      },
+      "sort" : {
+        "title" : [ "Animal minds & animal ethics : connecting two separate fields /" ],
+        "author" : [ "Petrus, Klaus, 1967- editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059633600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059633600107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059633600107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059633600107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3839424623,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b\"105 a55ǂa55 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "407",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "355",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "53",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "219",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "326",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "126",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "993",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 1027,
+    "COMBINED_SEARCH_TIME" : 1032,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animals Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Animals Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Animaux Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Cognition Chez Les Animaux",
+      "count" : "1"
+    }, {
+      "value" : "Cognition In Animals",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Relations Homme Animal Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Essays",
+      "count" : "1"
+    }, {
+      "value" : "Social Science General",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Reference",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Petrus Klaus",
+      "count" : "1"
+    }, {
+      "value" : "Wild Markus",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

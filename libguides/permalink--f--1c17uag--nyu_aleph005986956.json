@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059869560107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "We want freedom : a life in the Black Panther Party " ],
+        "subject" : [ "African American political activists$$QAfrican American political activists -- Biography", "Political activists -- United States$$QPolitical activists -- United States -- Biography", "Black Panther Party$$QBlack Panther Party -- Biography", "Black Panther Party -- History", "Philadelphia (Pa.) -- Race relations", "Philadelphia (Pa.)$$QPhiladelphia (Pa.) -- Biography", "African American prisoners$$QAfrican American prisoners -- Biography", "Abu-Jamal, Mumia", "Black Panther Party", "African American political activists", "African American prisoners", "Political activists", "Race relations", "Pennsylvania -- Philadelphia", "United States" ],
+        "format" : [ "xxx, 296 pages : illustrations, portraits ; 22 cm" ],
+        "identifier" : [ "$$CLC$$V2016952179;$$CISBN$$V1942173040;$$CISBN$$V9781942173045;$$COCLC$$V(OCoLC)959039070" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Abu-Jamal, Mumia, author.$$QAbu-Jamal, Mumia" ],
+        "publisher" : [ "Brooklyn, NY : Common Notions" ],
+        "description" : [ "\"Mumia Abu Jamal, America's most famous political prisoner, is internationally known for his radio broadcasts and books emerging \"Live from Death Row.\" In his youth Mumia Abu-Jamal helped found the Philadelphia branch of the Black Panther Party, wrote for the national newspaper, and began his life-long work of exposing the violence of the state as it manifests in entrenched poverty, endemic racism, and unending police brutality. In We Want Freedom, Mumia combines his memories of day-to-day life in the Party with analysis of the history of Black liberation struggles. The result is a vivid and compelling picture of the Black Panther Party and its legacy. Applying his poetic voice and unsparing critical gaze, Mumia examines one of the most revolutionary and most misrepresented groups in the US. As the calls that Black Lives Matter continue to grow louder, Mumia connects the historic dots in this revised/updated edition, observing that the Panthers had legal observers to monitor the police and demanded the \"immediate end to police brutality and the murder of Black people.\" By focusing on the men and women who were the Party, as much as on the leadership; by locating the Black Panthers in a struggle centuries old--and in the personal memories of a young man--Mumia Abu-Jamal helps us to understand freedom.\" -- Publisher's description" ],
+        "mms" : [ "990059869560107871" ],
+        "edition" : [ "New edition." ],
+        "contents" : [ "Introduction / Kathleen Cleaver -- The beginnings of the black panther part and the history it sprang from -- A Panther walks in Philly -- The Black Panther Party -- \"Huey's Party\" grows -- The empire strikes back: cointelpro -- A woman's party -- A Panther's life -- The split -- One, two, many parties." ],
+        "genre" : [ "Biography", "History", "Biographies" ],
+        "place" : [ "Brooklyn, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005986956" ],
+        "lds53" : [ "005986956" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059869560107871" ],
+        "recordid" : [ "alma990059869560107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005986956-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Abu-Jamal" ],
+        "aufirst" : [ "Mumia" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Abu-Jamal, Mumia" ],
+        "creatorfull" : [ "$$NAbu-Jamal, Mumia$$LAbu-Jamal$$FMumia$$Rauthor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "1942173040", "9781942173045" ],
+        "notes" : [ "Includes bibliographical references (pages 273-286) and index." ],
+        "abstract" : [ "\"Mumia Abu Jamal, America's most famous political prisoner, is internationally known for his radio broadcasts and books emerging \"Live from Death Row.\" In his youth Mumia Abu-Jamal helped found the Philadelphia branch of the Black Panther Party, wrote for the national newspaper, and began his life-long work of exposing the violence of the state as it manifests in entrenched poverty, endemic racism, and unending police brutality. In We Want Freedom, Mumia combines his memories of day-to-day life in the Party with analysis of the history of Black liberation struggles. The result is a vivid and compelling picture of the Black Panther Party and its legacy. Applying his poetic voice and unsparing critical gaze, Mumia examines one of the most revolutionary and most misrepresented groups in the US. As the calls that Black Lives Matter continue to grow louder, Mumia connects the historic dots in this revised/updated edition, observing that the Panthers had legal observers to monitor the police and demanded the \"immediate end to police brutality and the murder of Black people.\" By focusing on the men and women who were the Party, as much as on the leadership; by locating the Black Panthers in a struggle centuries old--and in the personal memories of a young man--Mumia Abu-Jamal helps us to understand freedom.\" -- Publisher's description" ],
+        "cop" : [ "Brooklyn, NY" ],
+        "pub" : [ "Common Notions" ],
+        "oclcid" : [ "(ocolc)959039070" ],
+        "lccn" : [ "2016952179" ],
+        "edition" : [ "New edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "We want freedom : a life in the Black Panther Party" ]
+      },
+      "sort" : {
+        "title" : [ "We want freedom : a life in the Black Panther Party /" ],
+        "author" : [ "Abu-Jamal, Mumia, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990059869560107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781942173045,OCLC:,LCCN:2016952179&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.97 a18ǂa3 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "126",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "61",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "337",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 365,
+    "COMBINED_SEARCH_TIME" : 369,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Abu Jamal Mumia",
+      "count" : "1"
+    }, {
+      "value" : "African American Political Activists",
+      "count" : "1"
+    }, {
+      "value" : "African American Political Activists Biography",
+      "count" : "1"
+    }, {
+      "value" : "African American Prisoners",
+      "count" : "1"
+    }, {
+      "value" : "African American Prisoners Biography",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party Biography",
+      "count" : "1"
+    }, {
+      "value" : "Black Panther Party History",
+      "count" : "1"
+    }, {
+      "value" : "Pennsylvania Philadelphia",
+      "count" : "1"
+    }, {
+      "value" : "Philadelphia Pa Biography",
+      "count" : "1"
+    }, {
+      "value" : "Philadelphia Pa Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Political Activists",
+      "count" : "1"
+    }, {
+      "value" : "Political Activists United States Biography",
+      "count" : "1"
+    }, {
+      "value" : "Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Abu Jamal Mumia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    } ]
+  } ]
+}

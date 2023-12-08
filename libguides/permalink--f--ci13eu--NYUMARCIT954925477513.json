@@ -1,0 +1,311 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995628451407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Language, speech & hearing services in schools (Online)" ],
+        "subject" : [ "Speech therapy for children$$QSpeech therapy for children -- Periodicals", "Speech disorders in children$$QSpeech disorders in children -- Periodicals", "Deaf children -- Language$$QDeaf children -- Language -- Periodicals", "Hearing disorders in children$$QHearing disorders in children -- Periodicals", "Children -- Language$$QChildren -- Language -- Periodicals", "Orthophonie pour enfants$$QOrthophonie pour enfants -- Périodiques", "Audition, Troubles de l', chez l'enfant$$QAudition, Troubles de l', chez l'enfant -- Périodiques", "Children -- Language", "Deaf children -- Language", "Hearing disorders in children", "Speech disorders in children", "Speech therapy for children", "Taalproblemen", "Spraakstoornissen", "Gehoorstoornissen", "Scholen", "Remedial teaching" ],
+        "format" : [ "1 online resource (volumes) : illustrations" ],
+        "identifier" : [ "$$CLC$$V  2005215835;$$CISSN$$V1558-9129;$$COCLC$$V(OCoLC)44858563;$$CISSN$$V0161-1461" ],
+        "creationdate" : [ "1971" ],
+        "publisher" : [ "Rockville, MD : American Speech-Language-Hearing Association", "Print began in 1971." ],
+        "mms" : [ "9995628451407871" ],
+        "contributor" : [ "American Speech-Language-Hearing Association.$$QAmerican Speech-Language-Hearing Association." ],
+        "addtitle" : [ "Language, speech, and hearing services in schools" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990029290900107871" ],
+        "mesh" : [ "Speech Therapy", "Hearing Disorders -- therapy", "Language Therapy", "School Health Services", "Periodical" ],
+        "unititle" : [ "Language, speech & hearing services in schools (Online)" ],
+        "place" : [ "Rockville, MD :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925477513" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995628451407871" ],
+        "recordid" : [ "alma9995628451407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925477513" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "LANGUAGE SPEECH AND HEARING SERVICES IN SCHOOLS", "LANG SPEECH HEAR SERV SCH", "LANGUAGE, SPEECH, AND HEARING SERVICES IN SCHOOLS", "LANG SPEECH HEAR SER", "LANG. SPEECH HEAR. SERV. SCH" ],
+        "addtitle" : [ "Language, speech, and hearing services in schools" ],
+        "date" : [ "1971" ],
+        "issn" : [ "1558-9129", "0161-1461" ],
+        "coden" : [ "LGSHA4" ],
+        "cop" : [ "Rockville, MD" ],
+        "pub" : [ "American Speech-Language-Hearing Association" ],
+        "oclcid" : [ "(ocolc)44858563" ],
+        "lccn" : [ "2005215835" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Language, speech & hearing services in schools (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Language, speech & hearing services in schools (Online)" ],
+        "author" : [ "American Speech-Language-Hearing Association." ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995628451407871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2005215835&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "136",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "266",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "50",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "238",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "47",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "541",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 571,
+    "COMBINED_SEARCH_TIME" : 574,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Audition Troubles De L Chez Lenfant Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Children Language",
+      "count" : "1"
+    }, {
+      "value" : "Children Language Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Deaf Children Language",
+      "count" : "1"
+    }, {
+      "value" : "Deaf Children Language Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Gehoorstoornissen",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders In Children",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders In Children Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Language Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Orthophonie Pour Enfants Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Remedial Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Scholen",
+      "count" : "1"
+    }, {
+      "value" : "School Health Services",
+      "count" : "1"
+    }, {
+      "value" : "Speech Disorders In Children",
+      "count" : "1"
+    }, {
+      "value" : "Speech Disorders In Children Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy For Children",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy For Children Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Spraakstoornissen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Speech Language Hearing Association",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

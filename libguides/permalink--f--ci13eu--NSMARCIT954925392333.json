@@ -1,0 +1,214 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995640907507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Contemporary literature (Online)" ],
+        "subject" : [ "Literature, Modern -- 20th century -- History and criticism$$QLiterature, Modern -- 20th century -- History and criticism -- Periodicals", "Littérature -- 20e siècle -- Histoire et critique$$QLittérature -- 20e siècle -- Histoire et critique -- Périodiques", "Literature, Modern", "1900-1999" ],
+        "identifier" : [ "$$CLC$$V  2004212181;$$CISSN$$V1548-9949;$$COCLC$$V(OCoLC)38584750;$$CISSN$$V0010-7484" ],
+        "creationdate" : [ "1968-" ],
+        "publisher" : [ "Madison, Wis. : University of Wisconsin Press", "Vol. 9, no. 1 (winter 1968)-" ],
+        "mms" : [ "9995640907507871" ],
+        "frequency" : [ "Quarterly" ],
+        "genre" : [ "Périodiques", "Criticism, interpretation, etc", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VWisconsin Studies in Contemporary Literature$$QWisconsin Studies in Contemporary Literature$$Z9995634371707871", "$$Cform$$VLink to related record$$Z990029505170107871" ],
+        "unititle" : [ "Contemporary literature (Online)" ],
+        "place" : [ "Madison, Wis. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925392333" ],
+        "lds60" : [ "Title from title screen (JSTOR, viewed August 12, 2004)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995640907507871" ],
+        "recordid" : [ "alma9995640907507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925392333" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "CONTEMP LITERATURE" ],
+        "date" : [ "1968", "1968-" ],
+        "issn" : [ "1548-9949", "0010-7484" ],
+        "cop" : [ "Madison, Wis" ],
+        "pub" : [ "University of Wisconsin Press" ],
+        "oclcid" : [ "(ocolc)38584750" ],
+        "lccn" : [ "2004212181" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Contemporary literature (Online)" ]
+      },
+      "sort" : {
+        "title" : [ "Contemporary literature (Online)" ],
+        "creationdate" : [ "1968" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640907507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640907507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640907507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995640907507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2004212181&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "234",
+    "CALL_SOLR_GET_IDS_LIST" : "68",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "173",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "6",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "39",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "100",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "73",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "557",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 592,
+    "COMBINED_SEARCH_TIME" : 595,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1968",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "Literature Modern",
+      "count" : "1"
+    }, {
+      "value" : "Literature Modern 20th Century History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Littérature 20e Siècle Histoire Et Critique Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

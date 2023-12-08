@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037675140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Old books, new technologies : the representation, conservation and transformation of books since 1700 " ],
+        "subject" : [ "Books -- Conservation and restoration -- History", "Book industries and trade -- History", "Publishers and publishing -- History", "Livres -- Industrie -- Innovations", "Livres -- Conservation et restauration -- Histoire", "Livres -- Industrie -- Histoire", "LANGUAGE ARTS & DISCIPLINES -- Publishing", "Book industries and trade", "Book industries and trade -- Technological innovations", "Books -- Conservation and restoration", "Publishers and publishing", "Publishers and publishing -- Technological innovations", "Alter Druck", "Buchrestaurierung", "Reproduktion", "Media Studies" ],
+        "format" : [ "1 online resource", "data file" ],
+        "identifier" : [ "$$CLC$$V2012038444;$$CISBN$$V113956563X;$$CISBN$$V9781139565639;$$CISBN$$V9781107342248;$$CISBN$$V1107342244;$$CISBN$$V9781107345997;$$CISBN$$V1107345995;$$CISBN$$V9781107348493;$$CISBN$$V1107348498;$$COCLC$$V(OCoLC)840132554;$$CISBN$$V9781107035935;$$CISBN$$V1107035937" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "McKitterick, David.$$QMcKitterick, David." ],
+        "publisher" : [ "Cambridge England ; New York : Cambridge University Press" ],
+        "description" : [ "\"Any new technology, just like any new idea, requires some understanding not just of what is new, but also of what it replaces. The current revolution in printing and publishing is no different. It offers new ways of doing things, and new ways of thinking. It offers opportunities for creativity and imagination on a scale and by routes of which we are so far scarcely aware. During the past few years there has emerged a considerable literature about the effect on conventional publishing of what is sometimes called the digital age.\"-- Provided by publisher." ],
+        "mms" : [ "990037675140107871" ],
+        "contents" : [ "The past in pixels -- Restoration and invention -- Conservation, counterfeiting and bookbinding -- Representation and imitation -- From copying to facsimile -- The arrival of photography -- Public exhibition -- The Caxton exhibition of 1877 -- A bibliographical and public revolution -- Conclusion." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Cambridge England] ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "ebcacls", "ebceb", "ebscoac", "aleph003767514" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037675140107871" ],
+        "recordid" : [ "alma990037675140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003767514-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "McKitterick" ],
+        "aufirst" : [ "David." ],
+        "auinit" : [ "D" ],
+        "au" : [ "McKitterick, David." ],
+        "creatorfull" : [ "$$NMcKitterick, David.$$LMcKitterick$$FDavid.$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "113956563X", "9781139565639", "9781107342248", "1107342244", "9781107345997", "1107345995", "9781107348493", "1107348498", "9781107035935", "1107035937" ],
+        "notes" : [ "Includes bibliographical references (pages 245-277) and index." ],
+        "abstract" : [ "\"Any new technology, just like any new idea, requires some understanding not just of what is new, but also of what it replaces. The current revolution in printing and publishing is no different. It offers new ways of doing things, and new ways of thinking. It offers opportunities for creativity and imagination on a scale and by routes of which we are so far scarcely aware. During the past few years there has emerged a considerable literature about the effect on conventional publishing of what is sometimes called the digital age.\"-- Provided by publisher." ],
+        "cop" : [ "Cambridge [England] ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)840132554" ],
+        "lccn" : [ "2012038444" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Old books, new technologies : the representation, conservation and transformation of books since 1700" ]
+      },
+      "sort" : {
+        "title" : [ "Old books, new technologies : the representation, conservation and transformation of books since 1700 /" ],
+        "author" : [ "McKitterick, David." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037675140107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037675140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037675140107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037675140107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037675140107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781139565639,OCLC:,LCCN:2012038444&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z\"280ǂ m35 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "265",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "59",
+    "RETRIVE_FROM_DB_RELATIONS" : "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "237",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "28",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "591",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 618,
+    "COMBINED_SEARCH_TIME" : 622,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Alter Druck",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade History",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Books Conservation And Restoration",
+      "count" : "1"
+    }, {
+      "value" : "Books Conservation And Restoration History",
+      "count" : "1"
+    }, {
+      "value" : "Buchrestaurierung",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Livres Conservation Et Restauration Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Industrie Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Industrie Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Media Studies",
+      "count" : "1"
+    }, {
+      "value" : "Publishers And Publishing",
+      "count" : "1"
+    }, {
+      "value" : "Publishers And Publishing History",
+      "count" : "1"
+    }, {
+      "value" : "Publishers And Publishing Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Reproduktion",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mckitterick David",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

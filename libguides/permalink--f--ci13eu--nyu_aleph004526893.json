@@ -1,0 +1,189 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045268930107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Freedman's friend (Philadelphia, Pa.)" ],
+        "subject" : [ "Society of Friends$$QSociety of Friends -- Periodicals", "Freedmen$$QFreedmen -- Periodicals", "African Americans -- Education$$QAfrican Americans -- Education -- Periodicals" ],
+        "format" : [ "1 no. ; 31 cm." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)607386888" ],
+        "creationdate" : [ "1865" ],
+        "publisher" : [ "Philadelphia, Pa. : Friends' Association of Philadelphia and Its Vicinity for the Relief of Colored Freedmen", "Vol. 1, no. 12 (1865)." ],
+        "mms" : [ "990045268930107871" ],
+        "contributor" : [ "Friends' Freedmen's Association.$$QFriends' Freedmen's Association." ],
+        "series" : [ "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition$$QSlavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition", "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition.$$QSlavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition." ],
+        "genre" : [ "Periodicals" ],
+        "unititle" : [ "Freedman's friend (Philadelphia, Pa.)" ],
+        "place" : [ "Philadelphia, Pa. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "galeprim", "aleph004526893" ],
+        "lds60" : [ "Reproduction of the original from John Rylands University Library. Reproduced courtesy of World Microfilms Publications." ],
+        "lds62" : [ "Images from the source libraries are selected or scattered issues as well as various editions of the cataloged title and related titles (where indicated in the MARC record) as representative of the general publishing history of the title during the nineteenth century." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045268930107871" ],
+        "recordid" : [ "alma990045268930107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004526893-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1865 - 1865", "1865" ],
+        "cop" : [ "Philadelphia, Pa" ],
+        "pub" : [ "Friends' Association of Philadelphia and Its Vicinity for the Relief of Colored Freedmen" ],
+        "oclcid" : [ "(ocolc)607386888" ],
+        "seriestitle" : [ "Slavery and anti-slavery: a transnational archive: Part I: Debates over slavery and abolition" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Freedman's friend (Philadelphia, Pa.)" ]
+      },
+      "sort" : {
+        "title" : [ "Freedman's friend (Philadelphia, Pa.)" ],
+        "author" : [ "Friends' Freedmen's Association." ],
+        "creationdate" : [ "1865" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045268930107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:607386888,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "53",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "30",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "287",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 311,
+    "COMBINED_SEARCH_TIME" : 313,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1865",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Education Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Freedmen Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Society Of Friends Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Friends Freedmens Association",
+      "count" : "1"
+    } ]
+  } ]
+}

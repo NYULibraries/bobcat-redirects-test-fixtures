@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990079267500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A concise history of Greece " ],
+        "subject" : [ "Greece -- History -- 1821-", "Grèce -- Histoire -- 1821-", "Greece", "Since 1821" ],
+        "format" : [ "1 online resource (xv, 352 pages) : illustrations, maps." ],
+        "identifier" : [ "$$CISBN$$V9781108953924;$$CISBN$$V1108953921;$$COCLC$$V(OCoLC)1237132120;$$CISBN$$V9781108844895" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Clogg, Richard, 1939- author.$$QClogg, Richard" ],
+        "publisher" : [ "Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press" ],
+        "description" : [ "Now reissued in a fourth, updated edition, this book provides a concise, illustrated introduction to the modern history of Greece, from the first stirrings of the national movement in the late eighteenth century to the present day. As Greece emerges from a devastating economic crisis, this fourth edition offers analyses of contemporary political, economic and social developments. It includes additional illustrations, together with updated tables and suggestions for further reading. A new concluding chapter considers the trajectory of Greek history over the two hundred years since the beginning of the War of Independence in 1821. Designed to provide a basic introduction, the first edition of this hugely successful Concise History won the Runciman Award for a best book on an Hellenic topic in 1992 and has been translated into thirteen languages, including all the languages of the Balkans." ],
+        "mms" : [ "990079267500107871" ],
+        "edition" : [ "Fourth edition." ],
+        "series" : [ "Cambridge concise histories$$QCambridge concise histories", "Cambridge concise histories.$$QCambridge concise histories." ],
+        "contents" : [ "Introduction -- Ottoman rule and the emergence of the Greek state 1770-1831 -- Nation building, the 'Great Idea' and National Schism 1831-1922 -- Catastrophe and occupation and their consequences 1923-49 -- The legacy of the civil war 1950-74 -- The consolidation of democracy and the populist decade 1974-90 -- Balkan turmoil and the political modernisation: Greece in the 1990s -- Greece in the new millennium: from affluence to austerity -- A Greek odyssey: two hundred years since independence." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Clogg, Richard, 1939- Concise history of Greece. Fourth edition. Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2021$$QConcise history of Greece." ],
+        "place" : [ "Cambridge, United Kingdom ; New York, NY, USA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph007926750" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990079267500107871" ],
+        "recordid" : [ "alma990079267500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007926750-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clogg" ],
+        "aufirst" : [ "Richard" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Clogg, Richard" ],
+        "creatorfull" : [ "$$NClogg, Richard$$LClogg$$FRichard$$Rauthor" ],
+        "date" : [ "2021 - 2021", "2021" ],
+        "isbn" : [ "9781108953924", "1108953921", "9781108844895" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Now reissued in a fourth, updated edition, this book provides a concise, illustrated introduction to the modern history of Greece, from the first stirrings of the national movement in the late eighteenth century to the present day. As Greece emerges from a devastating economic crisis, this fourth edition offers analyses of contemporary political, economic and social developments. It includes additional illustrations, together with updated tables and suggestions for further reading. A new concluding chapter considers the trajectory of Greek history over the two hundred years since the beginning of the War of Independence in 1821. Designed to provide a basic introduction, the first edition of this hugely successful Concise History won the Runciman Award for a best book on an Hellenic topic in 1992 and has been translated into thirteen languages, including all the languages of the Balkans." ],
+        "cop" : [ "Cambridge, United Kingdom ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)1237132120" ],
+        "edition" : [ "Fourth edition." ],
+        "seriestitle" : [ "Cambridge concise histories" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A concise history of Greece" ]
+      },
+      "sort" : {
+        "title" : [ "concise history of Greece /" ],
+        "author" : [ "Clogg, Richard, 1939- author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079267500107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079267500107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079267500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1108953921,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "df\"802ǂ c57 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "98",
+    "CALL_SOLR_GET_IDS_LIST" : "133",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "80",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "54",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "11",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "50",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "413",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 449,
+    "COMBINED_SEARCH_TIME" : 452,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Greece",
+      "count" : "1"
+    }, {
+      "value" : "Greece History 1821",
+      "count" : "1"
+    }, {
+      "value" : "Grèce Histoire 1821",
+      "count" : "1"
+    }, {
+      "value" : "Since 1821",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clogg Richard",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

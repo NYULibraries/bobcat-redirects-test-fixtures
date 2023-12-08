@@ -1,0 +1,263 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995613291407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Translation and literature." ],
+        "subject" : [ "English literature -- History and criticism$$QEnglish literature -- History and criticism -- Periodicals", "Literature -- History and criticism$$QLiterature -- History and criticism -- Translations Periodicals", "Translating and interpreting$$QTranslating and interpreting -- Periodicals", "Traduction littéraire$$QTraduction littéraire -- Périodiques", "Littérature -- Traductions anglaises -- Histoire et critique$$QLittérature -- Traductions anglaises -- Histoire et critique -- Périodiques", "English literature", "Literature", "Translating and interpreting", "Traduction", "Traduction littéraire", "Littérature" ],
+        "identifier" : [ "$$CLC$$V  2007252095;$$CISSN$$V1750-0214;$$COCLC$$V(OCoLC)51782651;$$CISSN$$V0968-1361" ],
+        "creationdate" : [ "1992-" ],
+        "publisher" : [ "Edinburgh : Edinburgh University Press", "Vol. 1 (1992)-" ],
+        "mms" : [ "9995613291407871" ],
+        "addtitle" : [ "Translation & literature" ],
+        "frequency" : [ "Three times a year, 2011-" ],
+        "genre" : [ "Translations", "Périodiques", "Criticism, interpretation, etc", "Periodicals", "Périodique électronique (Descripteur de forme)", "Ressource Internet (Descripteur de forme)" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990022321220107871" ],
+        "place" : [ "Edinburgh :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)110975946727483" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995613291407871" ],
+        "recordid" : [ "alma9995613291407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99110975946727483" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "TRANSLATION & LITERATURE" ],
+        "addtitle" : [ "Translation & literature" ],
+        "date" : [ "1992", "1992-" ],
+        "issn" : [ "1750-0214", "0968-1361" ],
+        "coden" : [ "TRLIF6" ],
+        "cop" : [ "Edinburgh" ],
+        "pub" : [ "Edinburgh University Press" ],
+        "oclcid" : [ "(ocolc)51782651" ],
+        "lccn" : [ "2007252095" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Translation and literature." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Translation and literature." ],
+        "creationdate" : [ "1992" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613291407871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613291407871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613291407871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613291407871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995613291407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2007252095&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn\"241",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "151",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "73",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "48",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "45",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "45",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "345",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 375,
+    "COMBINED_SEARCH_TIME" : 377,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1992",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "English Literature",
+      "count" : "1"
+    }, {
+      "value" : "English Literature History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Literature",
+      "count" : "1"
+    }, {
+      "value" : "Literature Translations History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Traductions Anglaises Histoire Et Critique Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Traduction",
+      "count" : "1"
+    }, {
+      "value" : "Traduction Littéraire",
+      "count" : "1"
+    }, {
+      "value" : "Traduction Littéraire Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Translating And Interpreting",
+      "count" : "1"
+    }, {
+      "value" : "Translating And Interpreting Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

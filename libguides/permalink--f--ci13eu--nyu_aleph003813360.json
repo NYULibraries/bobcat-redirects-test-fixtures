@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038133600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "ben" ],
+        "title" : [ "Amara bandhu Raseda" ],
+        "subject" : [ "Bangladesh -- History -- Revolution, 1971$$QBangladesh -- History -- Revolution, 1971 -- Drama", "Bangladesh -- History -- Revolution, 1971 -- Children$$QBangladesh -- History -- Revolution, 1971 -- Children -- Drama", "Boys -- Bangladesh$$QBoys -- Bangladesh -- Drama", "Rescues -- Bangladesh$$QRescues -- Bangladesh -- Drama", "Revolution (Bangladesh : 1971)", "Boys", "Children", "Rescues", "Bangladesh", "1971" ],
+        "format" : [ "1 videodisc (ca. 95 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CLC$$V2012351292;$$COCLC$$V(OCoLC)813204915" ],
+        "creationdate" : [ "2011" ],
+        "publisher" : [ "Dhaka : Laser Vision" ],
+        "description" : [ "Film based on the story of 1971 liberation war of Bangladesh, seen through the eyes of a young boy who helps rescue a freedom fighter from the Pakistan Army." ],
+        "mms" : [ "990038133600107871" ],
+        "contributor" : [ "Isalāma, Moraśedula.$$QIsalāma, Moraśedula.", "Sāgara, Pharidura Rejā, 1955-$$QSāgara, Pharidura Rejā", "Monon Chalachitra (Firm)$$QMonon Chalachitra (Firm)", "Impress Telefilm Limited.$$QImpress Telefilm Limited.", "Laser Vision (Firm : Bangladesh)$$QLaser Vision (Firm : Bangladesh)" ],
+        "addtitle" : [ "My friend Rashed" ],
+        "genre" : [ "War films", "Film adaptations", "Feature films", "Fiction films", "Drama", "History" ],
+        "place" : [ "Dhaka :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003813360" ],
+        "lds53" : [ "003813360" ],
+        "lds60" : [ "Parallel statement of responsibly taken from the English credits.", "Oritginally released as a motion picture in 2011.", "Based on a novel by Muhammad Zafar Iqbal.", "Special features: making-of featurette and trailer." ],
+        "lds64" : [ "Music, Emon Saha ; editing & sound, Ratan Paul ; cinematography, L. Apu Rozario." ],
+        "lds65" : [ "Chowdhury Zawata Afnan, Rayan Ibtesham Chowdhury, Refayat Zinnat, Faiyaz Bin Zia." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038133600107871" ],
+        "recordid" : [ "alma990038133600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003813360-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Isalāma", "Sāgara" ],
+        "aufirst" : [ "Moraśedula.", "Pharidura Rejā" ],
+        "auinit" : [ "M", "P" ],
+        "addau" : [ "Isalāma, Moraśedula.", "Sāgara, Pharidura Rejā" ],
+        "contributorfull" : [ "$$NIsalāma, Moraśedula.$$LIsalāma$$FMoraśedula.$$Rcontributor", "$$NSāgara, Pharidura Rejā$$Rcontributor" ],
+        "addtitle" : [ "My friend Rashed" ],
+        "date" : [ "2011" ],
+        "abstract" : [ "Film based on the story of 1971 liberation war of Bangladesh, seen through the eyes of a young boy who helps rescue a freedom fighter from the Pakistan Army." ],
+        "cop" : [ "Dhaka" ],
+        "pub" : [ "Laser Vision" ],
+        "oclcid" : [ "(ocolc)813204915" ],
+        "lccn" : [ "2012351292" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Amara bandhu Raseda" ]
+      },
+      "sort" : {
+        "title" : [ "Amara bandhu Raseda" ],
+        "author" : [ "Isalāma, Moraśedula." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990038133600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2012351292&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn000000001997.000000000002.a000000008373000000002011",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "62",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "9",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "80",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "275",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 302,
+    "COMBINED_SEARCH_TIME" : 305,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "ben",
+      "count" : "1"
+    }, {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    }, {
+      "value" : "Bangladesh",
+      "count" : "1"
+    }, {
+      "value" : "Bangladesh History Revolution 1971 Children Drama",
+      "count" : "1"
+    }, {
+      "value" : "Bangladesh History Revolution 1971 Drama",
+      "count" : "1"
+    }, {
+      "value" : "Boys",
+      "count" : "1"
+    }, {
+      "value" : "Boys Bangladesh Drama",
+      "count" : "1"
+    }, {
+      "value" : "Children",
+      "count" : "1"
+    }, {
+      "value" : "Rescues",
+      "count" : "1"
+    }, {
+      "value" : "Rescues Bangladesh Drama",
+      "count" : "1"
+    }, {
+      "value" : "Revolution Bangladesh 1971",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Impress Telefilm Limited",
+      "count" : "1"
+    }, {
+      "value" : "Isalāma Moraśedula",
+      "count" : "1"
+    }, {
+      "value" : "Laser Vision Firm Bangladesh",
+      "count" : "1"
+    }, {
+      "value" : "Monon Chalachitra Firm",
+      "count" : "1"
+    }, {
+      "value" : "Sāgara Pharidura Rejā",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,247 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990034311210107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The enchanted screen : the unknown history of fairy-tale films " ],
+        "subject" : [ "Fairy tales in motion pictures", "Fairy tales$$QFairy tales -- Film adaptations" ],
+        "format" : [ "xii, 435 p. : ill. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V2010042961;$$CISBN$$V9780415990622 (hardback);$$CISBN$$V0415990629 (hardback);$$CISBN$$V9780415990615 (pbk.);$$CISBN$$V0415990610 (pbk.);$$COCLC$$V(OCoLC)377834772" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Zipes, Jack, 1937-$$QZipes, Jack" ],
+        "publisher" : [ "New York : Routledge" ],
+        "mms" : [ "990034311210107871" ],
+        "contents" : [ "Filmic adaptation and appropriation of the fairy tale -- De-Disneyfying Disney : notes on the development of the fairy-tale film -- Georges Méliès : pioneer of the fairy-tale film and the art of the ridiculous -- Animated fairy-tale cartoons : celebrating the carnival art of the ridiculous -- Animated feature fairy-tale films -- Cracking the magic mirror : re-presentations of Snow White -- The trials and tribulations of Little Red Riding Hood revisited and reviewed -- Bluebeard's original sin and the rise of serial killing, mass murder, and fascism -- The triumph of the underdog : Cinderella's legacy -- Abusing and abandoning children : \"Hansel and Gretel,\" \"Tom Thumb,\" \"The Pied Piper,\" \"Donkey-skin,\" and \"The juniper tree\" -- Choosing the right mate : why beasts and frogs make for ideal husbands -- Andersen's cinematic legacy : trivialization and innovation -- Adapting fairy-tale novels -- Between slave language and utopian optimism : neglected fairy-tale films of Central and Eastern Europe -- Fairy-tale films in dark times : breaking molds, seeing the world anew." ],
+        "genre" : [ "Film adaptations" ],
+        "relation" : [ "$$Cform$$VThe enchanted screen : the unknown history of fairy-tale films$$Z990034472780107871", "$$Cform$$VThe enchanted screen : the unknown history of fairy-tale films$$Z9995683683907871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003431121" ],
+        "lds53" : [ "003431121" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990034311210107871" ],
+        "recordid" : [ "alma990034311210107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003431121-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Zipes" ],
+        "aufirst" : [ "Jack" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Zipes, Jack" ],
+        "creatorfull" : [ "$$NZipes, Jack$$LZipes$$FJack$$Rauthor" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9780415990622", "0415990629", "9780415990615", "0415990610" ],
+        "notes" : [ "Includes bibliographical references, filmography, and index." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)377834772" ],
+        "lccn" : [ "2010042961" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The enchanted screen : the unknown history of fairy-tale films" ]
+      },
+      "sort" : {
+        "title" : [ "enchanted screen : the unknown history of fairy-tale films /" ],
+        "author" : [ "Zipes, Jack, 1937-" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034311210107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034311210107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034311210107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0415990629,OCLC:,LCCN:2010042961&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1995.9 f34ǂz57 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "599",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "53",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "58",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "63",
+    "RETRIVE_FROM_DB_RELATIONS" : "82",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "47",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "833",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 867,
+    "COMBINED_SEARCH_TIME" : 870,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fairy Tales Film Adaptations",
+      "count" : "1"
+    }, {
+      "value" : "Fairy Tales In Motion Pictures",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Zipes Jack",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

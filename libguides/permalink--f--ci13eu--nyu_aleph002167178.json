@@ -1,0 +1,240 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990021671780107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "ger" ],
+        "title" : [ "Historisches Wörterbuch der Philosophie " ],
+        "subject" : [ "Philosophy -- German$$QPhilosophy -- German -- Dictionaries" ],
+        "format" : [ "13 v. ; 28 cm. + 1 computer optical disc (4 3/4 in.)" ],
+        "identifier" : [ "$$CLC$$V77573524 //r81;$$CISBN$$V379650115X (set);$$COCLC$$V(OCoLC)861029369" ],
+        "creationdate" : [ "1971-2007" ],
+        "publisher" : [ "Basel ; Stuttgart : Schwabe" ],
+        "mms" : [ "990021671780107871" ],
+        "contributor" : [ "Ritter, Joachim, 1903-1974.$$QRitter, Joachim", "Gründer, Karlfried.$$QGründer, Karlfried.", "Eisler, Rudolf, 1873-1926.$$QEisler, Rudolf" ],
+        "edition" : [ "Völlig neubearbeitete Ausg. des Wörterbuchs der philosophischen Begriffe von Rudolf Eisler." ],
+        "contents" : [ "Bd. 1. A-C -- Bd. 2. D-F -- Bd. 3. G-H -- Bd. 4. I-K -- Bd. 5. L-Mn -- Bd. 6. Mo-O -- Bd. 7. P-Q -- Bd. 8. R-Sc -- Bd. 9. Se-Sp -- Bd. 10. St-T -- Bd. 11. U-V -- Bd. 12. W-Z -- Bd. 13. Register." ],
+        "genre" : [ "Dictionaries" ],
+        "relatedwork" : [ "Eisler, Rudolf, 1873-1926. Wörterbuch der philosophischen Begriffe.$$QEisler, Rudolf, 1873-1926. Wörterbuch der philosophischen Begriffe." ],
+        "place" : [ "Basel ; Stuttgart :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002167178" ],
+        "lds53" : [ "002167178" ],
+        "lds60" : [ "Bd. 4-10 edited by J. Ritter and K. Gründer; Bd. 11- edited by J. Ritter, K. Gründer and Gottfried Gabriel.", "Bd. 13 contains errata slip for Bd. 1-12 & accompanied by disc in pocket and instructional booklet for CD-ROM.", "Vol. 7-11 has statement: unter Mitwirkung von mehr als 1200 Fachgelehrten.", "Vol. 12-13 has statement: unter Mitwirkung von mehr als 1500 Fachgelehrten.", "\"Symbole der Junktoren- und Quantorenlogik\" and \"Siglen für Ausgaben, Buchtitel, Lexika und Sammelwerke\" tipped in Bd. 9." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990021671780107871" ],
+        "recordid" : [ "alma990021671780107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002167178-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ritter", "Gründer", "Eisler" ],
+        "aufirst" : [ "Joachim", "Karlfried.", "Rudolf" ],
+        "auinit" : [ "J", "K", "R" ],
+        "addau" : [ "Ritter, Joachim", "Gründer, Karlfried.", "Eisler, Rudolf" ],
+        "contributorfull" : [ "$$NRitter, Joachim$$LRitter$$FJoachim$$Rcontributor", "$$NGründer, Karlfried.$$Rcontributor", "$$NEisler, Rudolf$$Rcontributor" ],
+        "date" : [ "1971 - 2007", "1971-2007" ],
+        "isbn" : [ "379650115X" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Basel ;" ],
+        "pub" : [ "Schwabe" ],
+        "oclcid" : [ "(ocolc)861029369" ],
+        "lccn" : [ "77573524 //r81" ],
+        "edition" : [ "Völlig neubearbeitete Ausg. des Wörterbuchs der philosophischen Begriffe von Rudolf Eisler." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Historisches Wörterbuch der Philosophie" ]
+      },
+      "sort" : {
+        "title" : [ "Historisches Wörterbuch der Philosophie /" ],
+        "author" : [ "Ritter, Joachim, 1903-1974." ],
+        "creationdate" : [ "1971" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021671780107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990021671780107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:379650115X,OCLC:,LCCN:77573524&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b!43ǂ r59 1971",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "98",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "303",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 328,
+    "COMBINED_SEARCH_TIME" : 331,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "ger",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1971",
+      "count" : "1"
+    }, {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Philosophy Dictionaries German",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Eisler Rudolf",
+      "count" : "1"
+    }, {
+      "value" : "Gründer Karlfried",
+      "count" : "1"
+    }, {
+      "value" : "Ritter Joachim",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,320 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074608100107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Pan's Labyrinth " ],
+        "subject" : [ "Girls -- Spain$$QGirls -- Spain -- Drama", "Cruelty$$QCruelty -- Drama", "Labyrinths$$QLabyrinths -- Drama", "Good and evil$$QGood and evil -- Drama", "Imagination in children$$QImagination in children -- Drama", "Mothers and daughters$$QMothers and daughters -- Drama", "Government, Resistance to -- Spain -- History -- 20th century$$QGovernment, Resistance to -- Spain -- History -- 20th century -- Drama", "Spain -- History -- 1939-1975$$QSpain -- History -- 1939-1975 -- Drama", "Cruelty", "Girls", "Good and evil", "Government, Resistance to", "Imagination in children", "Labyrinths", "Mothers and daughters", "Spain", "1900-1999" ],
+        "format" : [ "1 online resource (1 streaming video file (112 min.)) : sound, color", "streaming video file" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1155150115" ],
+        "creationdate" : [ "2006" ],
+        "publisher" : [ "Burbank, CA : Warner Home Video" ],
+        "description" : [ "In this fairy tale, a small family in Spain moves into an old house in 1943 after the rise of Fascism. Their eldest daughter, at age 12, falls in love with a fawn that lives in the old ruined labyrinth behind their decrepit home." ],
+        "mms" : [ "990074608100107871" ],
+        "contributor" : [ "Toro, Guillermo del, 1964- film producer, film director, screenwriter.$$QToro, Guillermo del", "Gil, Ariadna, actor.$$QGil, Ariadna", "Baquero, Ivana, 1994- actor.$$QBaquero, Ivana", "López, Sergi, 1965- actor.$$QLópez, Sergi", "Verdú, Maribel, 1970- actor.$$QVerdú, Maribel", "Jones, Doug, 1960- actor.$$QJones, Doug", "Angulo, Alex, actor.$$QAngulo, Alex", "Solo, Manolo, actor.$$QSolo, Manolo", "Vea, César, actor.$$QVea, César", "Casamajor, Roger, actor.$$QCasamajor, Roger", "Massagué, Ivan, 1976- actor.$$QMassagué, Ivan", "Uriarte, Gonzalo, 1952- actor.$$QUriarte, Gonzalo", "Swank Digital Campus, provider.$$QSwank Digital Campus", "Swank Motion Pictures, Inc.$$QSwank Motion Pictures, Inc.", "Warner Home Video (Firm), film distributor.$$QWarner Home Video (Firm)" ],
+        "addtitle" : [ "Laberinto del fauno (Motion picture)", "Container of (expression) Laberinto del fauno (Motion picture). English." ],
+        "genre" : [ "Drama", "History", "Feature films", "Fantasy films", "Films fantastiques" ],
+        "place" : [ "Burbank, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "swankdc", "aleph007460810" ],
+        "lds60" : [ "Title from title screen.", "Streaming video file." ],
+        "lds64" : [ "Directed by, Guillermo del Toro" ],
+        "lds65" : [ "Ivana Baquero, Sergi López, Maribel Verdú, Alex Angulo, Doug Jones" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074608100107871" ],
+        "recordid" : [ "alma990074608100107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007460810-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Toro", "Gil", "Baquero", "López", "Verdú", "Jones", "Angulo", "Solo", "Vea", "Casamajor", "Massagué", "Uriarte" ],
+        "aufirst" : [ "Guillermo del", "Ariadna", "Ivana", "Sergi", "Maribel", "Doug", "Alex", "Manolo", "César", "Roger", "Ivan", "Gonzalo" ],
+        "auinit" : [ "S", "D", "A", "M", "C", "R", "I", "G" ],
+        "addau" : [ "Toro, Guillermo del", "Gil, Ariadna", "Baquero, Ivana", "López, Sergi", "Verdú, Maribel", "Jones, Doug", "Angulo, Alex", "Solo, Manolo", "Vea, César", "Casamajor, Roger", "Massagué, Ivan", "Uriarte, Gonzalo" ],
+        "contributorfull" : [ "$$NToro, Guillermo del$$LToro$$FGuillermo del$$Rcontributor", "$$NGil, Ariadna$$Rcontributor", "$$NBaquero, Ivana$$Rcontributor", "$$NLópez, Sergi$$Rcontributor", "$$NVerdú, Maribel$$Rcontributor", "$$NJones, Doug$$Rcontributor", "$$NAngulo, Alex$$Rcontributor", "$$NSolo, Manolo$$Rcontributor", "$$NVea, César$$Rcontributor", "$$NCasamajor, Roger$$Rcontributor", "$$NMassagué, Ivan$$Rcontributor", "$$NUriarte, Gonzalo$$Rcontributor" ],
+        "date" : [ "2006" ],
+        "abstract" : [ "In this fairy tale, a small family in Spain moves into an old house in 1943 after the rise of Fascism. Their eldest daughter, at age 12, falls in love with a fawn that lives in the old ruined labyrinth behind their decrepit home." ],
+        "cop" : [ "Burbank, CA" ],
+        "pub" : [ "Warner Home Video" ],
+        "oclcid" : [ "(ocolc)1155150115" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Pan's Labyrinth" ]
+      },
+      "sort" : {
+        "title" : [ "Pan's Labyrinth /" ],
+        "author" : [ "Toro, Guillermo del, 1964- film producer, film director, screenwriter." ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074608100107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074608100107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074608100107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074608100107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1155150115,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997.2ǂ p36 2006evid 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "128",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "76",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "53",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "46",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "411",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 449,
+    "COMBINED_SEARCH_TIME" : 451,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "Cruelty",
+      "count" : "1"
+    }, {
+      "value" : "Cruelty Drama",
+      "count" : "1"
+    }, {
+      "value" : "Girls",
+      "count" : "1"
+    }, {
+      "value" : "Girls Spain Drama",
+      "count" : "1"
+    }, {
+      "value" : "Good And Evil",
+      "count" : "1"
+    }, {
+      "value" : "Good And Evil Drama",
+      "count" : "1"
+    }, {
+      "value" : "Government Resistance To",
+      "count" : "1"
+    }, {
+      "value" : "Government Resistance To Spain History 20th Century Drama",
+      "count" : "1"
+    }, {
+      "value" : "Imagination In Children",
+      "count" : "1"
+    }, {
+      "value" : "Imagination In Children Drama",
+      "count" : "1"
+    }, {
+      "value" : "Labyrinths",
+      "count" : "1"
+    }, {
+      "value" : "Labyrinths Drama",
+      "count" : "1"
+    }, {
+      "value" : "Mothers And Daughters",
+      "count" : "1"
+    }, {
+      "value" : "Mothers And Daughters Drama",
+      "count" : "1"
+    }, {
+      "value" : "Spain",
+      "count" : "1"
+    }, {
+      "value" : "Spain History 1939 1975 Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Angulo Alex",
+      "count" : "1"
+    }, {
+      "value" : "Baquero Ivana",
+      "count" : "1"
+    }, {
+      "value" : "Casamajor Roger",
+      "count" : "1"
+    }, {
+      "value" : "Gil Ariadna",
+      "count" : "1"
+    }, {
+      "value" : "Jones Doug",
+      "count" : "1"
+    }, {
+      "value" : "López Sergi",
+      "count" : "1"
+    }, {
+      "value" : "Massagué Ivan",
+      "count" : "1"
+    }, {
+      "value" : "Solo Manolo",
+      "count" : "1"
+    }, {
+      "value" : "Swank Digital Campus",
+      "count" : "1"
+    }, {
+      "value" : "Swank Motion Pictures Inc",
+      "count" : "1"
+    }, {
+      "value" : "Toro Guillermo Del",
+      "count" : "1"
+    }, {
+      "value" : "Uriarte Gonzalo",
+      "count" : "1"
+    }, {
+      "value" : "Vea César",
+      "count" : "1"
+    }, {
+      "value" : "Verdú Maribel",
+      "count" : "1"
+    }, {
+      "value" : "Warner Home Video Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

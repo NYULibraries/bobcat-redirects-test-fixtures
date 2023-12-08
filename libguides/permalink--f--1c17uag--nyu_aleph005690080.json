@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056900800107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Medieval Italy : an Encyclopedia." ],
+        "subject" : [ "Italy -- Civilization -- 476-1268$$QItaly -- Civilization -- 476-1268 -- Encyclopedias", "Italy -- Civilization -- 1268-1559$$QItaly -- Civilization -- 1268-1559 -- Encyclopedias", "Italy -- History -- 1268-1492$$QItaly -- History -- 1268-1492 -- Encyclopedias", "Italy -- History -- Germanic rule, 962-1268$$QItaly -- History -- Germanic rule, 962-1268 -- Encyclopedias", "Italy -- Intellectual life -- 1268-1559$$QItaly -- Intellectual life -- 1268-1559 -- Encyclopedias", "Italy -- Intellectual life -- To 1268$$QItaly -- Intellectual life -- To 1268 -- Encyclopedias", "Italie -- Civilisation -- 476-1268$$QItalie -- Civilisation -- 476-1268 -- Encyclopédies", "Italie -- Civilisation -- 1268-1559$$QItalie -- Civilisation -- 1268-1559 -- Encyclopédies", "Civilization", "Italy", "476-1559" ],
+        "format" : [ "1 online resource (1265 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781135948801;$$CISBN$$V1135948801;$$COCLC$$V(OCoLC)895427696;$$CISBN$$V9780415939294" ],
+        "creationdate" : [ "2004" ],
+        "creator" : [ "Kleinhenz, Christopher.$$QKleinhenz, Christopher." ],
+        "publisher" : [ "Hoboken : Taylor and Francis" ],
+        "description" : [ "This Encyclopedia gathers together the most recent scholarship on Medieval Italy, while offering a sweeping view of all aspects of life in Italy during the Middle Ages. This two volume, illustrated, A-Z reference is a cross-disciplinary resource for information on literature, history, the arts, science, philosophy, and religion in Italy between A.D. 450 and 1375. For more information including the introduction, a full list of entries and contributors, a generous selection of sample pages, and more, visit the Medieval Italy: An Encyclopedia website." ],
+        "mms" : [ "990056900800107871" ],
+        "contents" : [ "Cover; Half Title; Title Page; Copyright Page; Table of Contents; Introduction; Acknowledgements; Publisher's Note; Contributors; Alphabetical List of Entries; Entries A-K." ],
+        "genre" : [ "Encyclopédies", "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version: Kleinhenz, Christopher. Medieval Italy : An Encyclopedia. Hoboken : Taylor and Francis, ©2004$$QMedieval Italy : An Encyclopedia." ],
+        "place" : [ "Hoboken :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph005690080" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056900800107871" ],
+        "recordid" : [ "alma990056900800107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005690080-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kleinhenz" ],
+        "aufirst" : [ "Christopher." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Kleinhenz, Christopher." ],
+        "creatorfull" : [ "$$NKleinhenz, Christopher.$$LKleinhenz$$FChristopher.$$Rauthor" ],
+        "date" : [ "2004" ],
+        "isbn" : [ "9781135948801", "1135948801", "9780415939294" ],
+        "abstract" : [ "This Encyclopedia gathers together the most recent scholarship on Medieval Italy, while offering a sweeping view of all aspects of life in Italy during the Middle Ages. This two volume, illustrated, A-Z reference is a cross-disciplinary resource for information on literature, history, the arts, science, philosophy, and religion in Italy between A.D. 450 and 1375. For more information including the introduction, a full list of entries and contributors, a generous selection of sample pages, and more, visit the Medieval Italy: An Encyclopedia website." ],
+        "cop" : [ "Hoboken" ],
+        "pub" : [ "Taylor and Francis" ],
+        "oclcid" : [ "(ocolc)895427696" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Medieval Italy : an Encyclopedia." ]
+      },
+      "sort" : {
+        "title" : [ "Medieval Italy : an Encyclopedia." ],
+        "author" : [ "Kleinhenz, Christopher." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056900800107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1135948801,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dg\"501",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "14",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "6",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "14",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "162",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 184,
+    "COMBINED_SEARCH_TIME" : 187,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "476 1559",
+      "count" : "1"
+    }, {
+      "value" : "Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Italie Civilisation 1268 1559 Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Italie Civilisation 476 1268 Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Italy Civilization 1268 1559 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Italy Civilization 476 1268 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Italy History 1268 1492 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Italy History Germanic Rule 962 1268 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Italy Intellectual Life 1268 1559 Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Italy Intellectual Life To 1268 Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kleinhenz Christopher",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990041654280107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Entangled empathy : an alternative ethic for our relationships with animals " ],
+        "subject" : [ "Animal rights", "Animal welfare -- Moral and ethical aspects", "Human-animal relationships" ],
+        "format" : [ "xv, 117 pages ; 21 cm" ],
+        "identifier" : [ "$$CLC$$V2014049780;$$CISBN$$V9781590564875;$$CISBN$$V1590564871;$$COCLC$$V(OCoLC)899880596" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Gruen, Lori, author.$$QGruen, Lori" ],
+        "publisher" : [ "Brooklyn, NY : Lantern Books" ],
+        "description" : [ "n Entangled Empathy, scholar and activist Lori Gruen argues that rather than focusing on animal rights, we ought to work to make our relationships with animals right by empathetically responding to their needs, interests, desires, vulnerabilities, hopes, and unique perspectives. Pointing out that we are already entangled in complex and life-altering relationships with other animals, Gruen guides readers through a new way of thinking about and practicing animal ethics. Lori Gruen is Professor of Philosophy and Coordinator of Wesleyan Animal Studies at Wesleyan University. She is the author of Ethics and Animals and co-editor, with Carol Adams, of Ecofeminism: Feminist Intersections with Animals and the Earth.--COVER." ],
+        "mms" : [ "990041654280107871" ],
+        "relation" : [ "$$Cform$$VEntangled empathy : an alternative ethic for our relationships with animals$$Z990090311500107871" ],
+        "place" : [ "Brooklyn, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004165428" ],
+        "lds53" : [ "004165428" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990041654280107871" ],
+        "recordid" : [ "alma990041654280107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004165428-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gruen" ],
+        "aufirst" : [ "Lori" ],
+        "auinit" : [ "L" ],
+        "au" : [ "Gruen, Lori" ],
+        "creatorfull" : [ "$$NGruen, Lori$$LGruen$$FLori$$Rauthor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781590564875", "1590564871" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "n Entangled Empathy, scholar and activist Lori Gruen argues that rather than focusing on animal rights, we ought to work to make our relationships with animals right by empathetically responding to their needs, interests, desires, vulnerabilities, hopes, and unique perspectives. Pointing out that we are already entangled in complex and life-altering relationships with other animals, Gruen guides readers through a new way of thinking about and practicing animal ethics. Lori Gruen is Professor of Philosophy and Coordinator of Wesleyan Animal Studies at Wesleyan University. She is the author of Ethics and Animals and co-editor, with Carol Adams, of Ecofeminism: Feminist Intersections with Animals and the Earth.--COVER." ],
+        "cop" : [ "Brooklyn, NY" ],
+        "pub" : [ "Lantern Books" ],
+        "oclcid" : [ "(ocolc)899880596" ],
+        "lccn" : [ "2014049780" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Entangled empathy : an alternative ethic for our relationships with animals" ]
+      },
+      "sort" : {
+        "title" : [ "Entangled empathy : an alternative ethic for our relationships with animals /" ],
+        "author" : [ "Gruen, Lori, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990041654280107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1590564871,OCLC:,LCCN:2014049780&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv#4708ǂ g779 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "202",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "16",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "414",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 437,
+    "COMBINED_SEARCH_TIME" : 439,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animal Rights",
+      "count" : "1"
+    }, {
+      "value" : "Animal Welfare Moral And Ethical Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Human Animal Relationships",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gruen Lori",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

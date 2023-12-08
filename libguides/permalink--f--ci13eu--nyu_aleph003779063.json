@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037790630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Animals and war : studies of Europe and North America " ],
+        "subject" : [ "Animaux -- Utilisation militaire", "HISTORY -- Military -- Strategy", "Animals -- War use" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9789004241749;$$CISBN$$V9004241744;$$COCLC$$V(OCoLC)820155005;$$CISBN$$V9789004236202" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Hediger, Ryan.$$QHediger, Ryan." ],
+        "publisher" : [ "Boston : Brill" ],
+        "description" : [ "Animals and War is the first collection of essays to study its topic. Using sociology, history, anthropology, and cultural studies, it analyzes a wide range of phenomena and exposes the often paradoxical contours of human-animal relationships." ],
+        "mms" : [ "990037790630107871" ],
+        "contributor" : [ "Hediger, Ryan.$$QHediger, Ryan." ],
+        "series" : [ "Human-animal studies ; 15$$QHuman-animal studies ", "Human-animal studies ; 15.$$QHuman-animal studies " ],
+        "contents" : [ "Animals in war -- Bees, border and bombs: a social account of theorizing and weaponizing bees / Lisa Jean Moore and Mary Kosut -- Zoo animals and modern war : captive casualties, patriotic citizens, and good -- Soldiers / John M. Kinder -- Canine soldiers, mascots, and stray dogs in U.S. wars: ethical considerations / Janet M. Alger and Steven F. Alger -- The best friend of the murderers : guard dogs and the Nazi Holocaust / Robert Tindol -- Finnish narratives of the horse in World War II / Riitta-Marja Leinonen -- Nuclear war, radioactive rats, and the ecology of exterminism / Brian Lindseth -- Animal representations and war -- Recognizing and resisting animal subjectivity in Timothy Findley's the wars / Paul Huebener -- Jackie the lucky raven : myth, commerce, and their historical foundations / Boria Sax -- Wars of images and representations : contested meanings and narratives surrounding animal advocacy / Brian M. Lowe -- Animals and war memorials : diffferent approaches to commemorating the human-animal relationship / Hilda Kean." ],
+        "relation" : [ "$$Cform$$VPrint version: Hediger, Ryan. Animals and war. Boston : Brill, 2013$$QAnimals and war." ],
+        "place" : [ "Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "brilleb", "ebcacls", "ebceb", "ebscoac", "aleph003779063" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037790630107871" ],
+        "recordid" : [ "alma990037790630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003779063-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hediger" ],
+        "aufirst" : [ "Ryan." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Hediger, Ryan." ],
+        "addau" : [ "Hediger, Ryan." ],
+        "creatorfull" : [ "$$NHediger, Ryan.$$LHediger$$FRyan.$$Rauthor" ],
+        "contributorfull" : [ "$$NHediger, Ryan.$$LHediger$$FRyan.$$Rcontributor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9789004241749", "9004241744", "9789004236202" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Animals and War is the first collection of essays to study its topic. Using sociology, history, anthropology, and cultural studies, it analyzes a wide range of phenomena and exposes the often paradoxical contours of human-animal relationships." ],
+        "cop" : [ "Boston" ],
+        "pub" : [ "Brill" ],
+        "oclcid" : [ "(ocolc)820155005" ],
+        "seriestitle" : [ "Human-animal studies ; 15" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Animals and war : studies of Europe and North America" ]
+      },
+      "sort" : {
+        "title" : [ "Animals and war : studies of Europe and North America /" ],
+        "author" : [ "Hediger, Ryan." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037790630107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037790630107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037790630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9004241744,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "uh!87ǂ h43 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "106",
+    "CALL_SOLR_GET_IDS_LIST" : "113",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "51",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "96",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "377",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 412,
+    "COMBINED_SEARCH_TIME" : 415,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animals War Use",
+      "count" : "1"
+    }, {
+      "value" : "Animaux Utilisation Militaire",
+      "count" : "1"
+    }, {
+      "value" : "History Military Strategy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hediger Ryan",
+      "count" : "1"
+    } ]
+  } ]
+}

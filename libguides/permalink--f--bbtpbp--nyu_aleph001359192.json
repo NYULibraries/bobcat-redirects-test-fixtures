@@ -1,0 +1,291 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990013591920107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Life on the screen : identity in the age of the Internet " ],
+        "subject" : [ "Computers and civilization", "Computer networks -- Psychological aspects", "Sociale aspecten", "Identiteit", "Ciência da computação (aspectos sociais;aspectos psicológicos)", "Interface multimídia", "Identidade cultural", "Virtuelle Realität", "Sozialpsychologie", "Identität", "Internet", "Ordinateurs et civilisation", "Réseaux d'ordinateurs -- Aspect psychologique" ],
+        "format" : [ "347 p. ; 25 cm." ],
+        "identifier" : [ "$$CLC$$V95038428;$$CISBN$$V0684803534;$$CISBN$$V9780684803531;$$CISBN$$V0684833484;$$CISBN$$V9780684833484;$$COCLC$$V(OCoLC)33078560" ],
+        "creationdate" : [ "c1995" ],
+        "creator" : [ "Turkle, Sherry.$$QTurkle, Sherry." ],
+        "publisher" : [ "New York : Simon & Schuster" ],
+        "description" : [ "A book about people and how computers are causing us to reevaluate our identities in the age of the Internet." ],
+        "mms" : [ "990013591920107871" ],
+        "contents" : [ "Introduction : identity in the age of the Internet -- I. The seductions of the interface. A tale of two aesthetics ; The triumph of tinkering -- II. Of dreams and beasts. Making a pass at a robot ; Taking things at interface value ; The quality of emergence ; Artificial life as the new frontier -- III. On the Internet. Aspects of the self ; TinySex and gender trouble ; Virtuality and its discontents ; Identity crisis -- A note on method: the inner history of technology." ],
+        "relation" : [ "$$Cform$$VOnline version: Turkle, Sherry. Life on the screen. New York : Simon & Schuster, c1995$$QLife on the screen.", "$$Cform$$VOnline version: Turkle, Sherry. Life on the screen. New York : Simon & Schuster, c1995$$QLife on the screen." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001359192" ],
+        "lds53" : [ "001359192" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990013591920107871" ],
+        "recordid" : [ "alma990013591920107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001359192-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Turkle" ],
+        "aufirst" : [ "Sherry." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Turkle, Sherry." ],
+        "creatorfull" : [ "$$NTurkle, Sherry.$$LTurkle$$FSherry.$$Rauthor" ],
+        "date" : [ "1995", "c1995" ],
+        "isbn" : [ "0684803534", "9780684803531", "0684833484", "9780684833484" ],
+        "notes" : [ "Includes bibliographical references (p. [271]-320) and index." ],
+        "abstract" : [ "A book about people and how computers are causing us to reevaluate our identities in the age of the Internet." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Simon & Schuster" ],
+        "oclcid" : [ "(ocolc)33078560" ],
+        "lccn" : [ "95038428" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Life on the screen : identity in the age of the Internet" ]
+      },
+      "sort" : {
+        "title" : [ "Life on the screen : identity in the age of the Internet /" ],
+        "author" : [ "Turkle, Sherry." ],
+        "creationdate" : [ "1995" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990013591920107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990013591920107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990013591920107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780684803531,OCLC:,LCCN:95038428&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/bios/simon053/95038428.html",
+        "displayLabel" : "Contributor biographical information"
+      }, {
+        "@id" : ":_2",
+        "linkType" : "addlink",
+        "linkURL" : "http://catdir.loc.gov/catdir/description/simon052/95038428.html",
+        "displayLabel" : "Publisher description"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.9 c66ǂt87 1995",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "128",
+    "CALL_SOLR_GET_IDS_LIST" : "101",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "57",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "365",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 397,
+    "COMBINED_SEARCH_TIME" : 400,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1995",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ciência Da Computação Aspectos Sociais Aspectos Psicológicos",
+      "count" : "1"
+    }, {
+      "value" : "Computer Networks Psychological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Computers And Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Identidade Cultural",
+      "count" : "1"
+    }, {
+      "value" : "Identiteit",
+      "count" : "1"
+    }, {
+      "value" : "Identität",
+      "count" : "1"
+    }, {
+      "value" : "Interface Multimídia",
+      "count" : "1"
+    }, {
+      "value" : "Internet",
+      "count" : "1"
+    }, {
+      "value" : "Ordinateurs Et Civilisation",
+      "count" : "1"
+    }, {
+      "value" : "Réseaux Dordinateurs Aspect Psychologique",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Aspecten",
+      "count" : "1"
+    }, {
+      "value" : "Sozialpsychologie",
+      "count" : "1"
+    }, {
+      "value" : "Virtuelle Realität",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Turkle Sherry",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

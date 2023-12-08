@@ -1,0 +1,288 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995621194707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Nineteenth century theatre and film." ],
+        "subject" : [ "Drama -- 19th century -- History and criticism$$QDrama -- 19th century -- History and criticism -- Periodicals", "Performing arts -- History -- 19th century$$QPerforming arts -- History -- 19th century -- Periodicals", "Silent films -- History and criticism$$QSilent films -- History and criticism -- Periodicals", "Theater -- History -- 19th century$$QTheater -- History -- 19th century -- Periodicals", "Théâtre (Genre littéraire) -- 19e siècle -- Histoire et critique$$QThéâtre (Genre littéraire) -- 19e siècle -- Histoire et critique -- Périodiques", "Arts du spectacle -- Histoire -- 19e siècle$$QArts du spectacle -- Histoire -- 19e siècle -- Périodiques", "Films muets -- Histoire et critique$$QFilms muets -- Histoire et critique -- Périodiques", "Théâtre -- Histoire -- 19e siècle$$QThéâtre -- Histoire -- 19e siècle -- Périodiques", "Theaterwetenschap", "Drama", "Performing arts", "Silent films", "Theater", "1800-1899" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISSN$$V2048-2906;$$CISSN$$V1748-3727" ],
+        "creationdate" : [ "©2002-" ],
+        "publisher" : [ "Manchester : Manchester University Press with the support of the Dept. of Drama", "Vol. 29, no. 1 (summer 2002)-" ],
+        "mms" : [ "9995621194707871" ],
+        "contributor" : [ "University of Manchester. Department of Drama.$$QUniversity of Manchester. Department of Drama." ],
+        "addtitle" : [ "19th century theatre and film", "Nineteenth century theatre & film" ],
+        "frequency" : [ "Semiannual" ],
+        "genre" : [ "Périodiques", "Criticism, interpretation, etc", "History", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VNineteenth Century Theatre$$QNineteenth Century Theatre$$Z9995641081507871", "$$Cform$$VPrint version: Nineteenth century theatre and film.$$QNineteenth century theatre and film." ],
+        "place" : [ "Manchester :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)1000000000210735" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995621194707871" ],
+        "recordid" : [ "alma9995621194707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "991000000000210735" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "19th century theatre and film", "Nineteenth century theatre & film" ],
+        "date" : [ "2002", "©2002-" ],
+        "issn" : [ "2048-2906", "1748-3727" ],
+        "cop" : [ "Manchester" ],
+        "pub" : [ "Manchester University Press with the support of the Dept. of Drama" ],
+        "oclcid" : [ "(ckb)1000000000210735", "(conser)--2003256039", "(uk-cbpil)28018", "(de-599)zdb2147547-7" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Nineteenth century theatre and film." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Nineteenth century theatre and film." ],
+        "author" : [ "University of Manchester. Department of Drama." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621194707871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1851ǂ n55",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "207",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "215",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "66",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "185",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "78",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "598",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 636,
+    "COMBINED_SEARCH_TIME" : 639,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1800 1899",
+      "count" : "1"
+    }, {
+      "value" : "Arts Du Spectacle Histoire 19e Siècle Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Drama",
+      "count" : "1"
+    }, {
+      "value" : "Drama 19th Century History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Films Muets Histoire Et Critique Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts History 19th Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Silent Films",
+      "count" : "1"
+    }, {
+      "value" : "Silent Films History And Criticism Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater History 19th Century Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Theaterwetenschap",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Genre Littéraire 19e Siècle Histoire Et Critique Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Histoire 19e Siècle Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "University Of Manchester Department Of Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

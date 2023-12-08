@@ -1,0 +1,265 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062488960107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng" ],
+        "title" : [ "North American women's letters and diaries." ],
+        "subject" : [ "Women -- North America$$QWomen -- North America -- Correspondence", "Women -- North America$$QWomen -- North America -- Diaries", "Women -- United States$$QWomen -- United States -- Correspondence", "Women -- Canada$$QWomen -- Canada -- Correspondence", "Women -- Canada$$QWomen -- Canada -- Diaries", "Women -- United States$$QWomen -- United States -- Diaries", "Diaries -- Women authors", "Letters -- Women authors", "Women", "Canada", "North America", "United States", "Gender & Sexuality Studies", "History" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2011228756;$$COCLC$$V(OCoLC)46371336" ],
+        "creationdate" : [ "2001-" ],
+        "publisher" : [ "Alexandria, Va. : Alexander Street Press", "Began in 2001." ],
+        "description" : [ "North American Women's Letters and Diaries includes the immediate experiences of 1,325 women and 150,000 pages of diaries and letters. -- Description from NYU Libraries.", "North American Women's Letters and Diaries (NAWLD) is a full-text database of the personal experiences as reflected in the letters and diaries of 1,325 women who lived in North America before 1960." ],
+        "mms" : [ "990062488960107871" ],
+        "contributor" : [ "Rhind-Tutt, Stephen.$$QRhind-Tutt, Stephen.", "Alexander Street Press.$$QAlexander Street Press.", "University of Chicago.$$QUniversity of Chicago." ],
+        "addtitle" : [ "NAWLD", "North American women's letters and diaries : Colonial to 1950" ],
+        "genre" : [ "Correspondence", "Text. Correspondance", "Diaries", "Personal correspondence" ],
+        "place" : [ "Alexandria, Va. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph006248896" ],
+        "lds60" : [ "Includes data from Colonial era to 1950.", "Originator of project: Stephen Rhind-Tutt." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062488960107871" ],
+        "recordid" : [ "alma990062488960107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006248896-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rhind-Tutt" ],
+        "aufirst" : [ "Stephen." ],
+        "auinit" : [ "S" ],
+        "addau" : [ "Rhind-Tutt, Stephen." ],
+        "contributorfull" : [ "$$NRhind-Tutt, Stephen.$$LRhind-Tutt$$FStephen.$$Rcontributor" ],
+        "addtitle" : [ "NAWLD" ],
+        "date" : [ "2001", "2001-" ],
+        "abstract" : [ "North American Women's Letters and Diaries includes the immediate experiences of 1,325 women and 150,000 pages of diaries and letters. -- Description from NYU Libraries.", "North American Women's Letters and Diaries (NAWLD) is a full-text database of the personal experiences as reflected in the letters and diaries of 1,325 women who lived in North America before 1960." ],
+        "cop" : [ "Alexandria, Va" ],
+        "pub" : [ "Alexander Street Press" ],
+        "oclcid" : [ "(ocolc)46371336" ],
+        "lccn" : [ "2011228756" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "North American women's letters and diaries." ]
+      },
+      "sort" : {
+        "title" : [ "North American women's letters and diaries." ],
+        "author" : [ "Rhind-Tutt, Stephen." ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062488960107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062488960107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062488960107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2011228756&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hq#1400ǂ n67",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "52",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "265",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 303,
+    "COMBINED_SEARCH_TIME" : 305,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Canada",
+      "count" : "1"
+    }, {
+      "value" : "Diaries Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "Gender Sexuality Studies",
+      "count" : "1"
+    }, {
+      "value" : "History",
+      "count" : "1"
+    }, {
+      "value" : "Letters Women Authors",
+      "count" : "1"
+    }, {
+      "value" : "North America",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "Women",
+      "count" : "1"
+    }, {
+      "value" : "Women Canada Correspondence",
+      "count" : "1"
+    }, {
+      "value" : "Women Canada Diaries",
+      "count" : "1"
+    }, {
+      "value" : "Women North America Correspondence",
+      "count" : "1"
+    }, {
+      "value" : "Women North America Diaries",
+      "count" : "1"
+    }, {
+      "value" : "Women United States Correspondence",
+      "count" : "1"
+    }, {
+      "value" : "Women United States Diaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Alexander Street Press",
+      "count" : "1"
+    }, {
+      "value" : "Rhind Tutt Stephen",
+      "count" : "1"
+    }, {
+      "value" : "University Of Chicago",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

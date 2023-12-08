@@ -1,0 +1,209 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990018174010107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "newspaper" ],
+        "language" : [ "eng" ],
+        "title" : [ "Philanthropist (New Richmond, Ohio : 1836)" ],
+        "format" : [ "8 v. ; 67 cm." ],
+        "identifier" : [ "$$CLC$$Vsf 89091878;$$COCLC$$V(OCoLC)10379685" ],
+        "creationdate" : [ "1836-1843" ],
+        "publisher" : [ "New Richmond, Ohio : James G. Birney", "Vol. 1, no. 1 (Jan. 1, 1836)-v. 8, no. 4 (Oct. 11, 1843)." ],
+        "mms" : [ "990018174010107871" ],
+        "contributor" : [ "Birney, James Gillespie, 1792-1857.$$QBirney, James Gillespie", "Ohio Anti-slavery Society.$$QOhio Anti-slavery Society." ],
+        "frequency" : [ "Weekly (irregular)" ],
+        "series" : [ "American periodical series, 1800-1850 ; 1409-1411.$$QAmerican periodical series, 1800-1850 " ],
+        "relation" : [ "$$Cform$$VPhilanthropist (New Richmond, Ohio)$$QPhilanthropist (New Richmond, Ohio)", "$$Clater_title$$VCincinnati weekly herald and philanthropist$$QCincinnati weekly herald and philanthropist" ],
+        "unititle" : [ "Philanthropist (New Richmond, Ohio : 1836)" ],
+        "place" : [ "New Richmond, Ohio :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001817401" ],
+        "lds53" : [ "001817401" ],
+        "lds60" : [ "Published at New Richmond, Ohio: Jan. 1-29, Feb. 12-Apr. 8, 1836; published at Cincinnati, Ohio: Feb. 5, Apr. 15, 1836-1843.", "Publishers: J. G. Birney, Jan. 1-May <6>, 1836; Ohio State Anti-Slavery Society, May <20>, 1836-June 29, 1842; Wm. Birney, July 9-16, 1842; G. Bailey, June 23, 1842-1843.", "Title from caption." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990018174010107871" ],
+        "recordid" : [ "alma990018174010107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001817401-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Birney" ],
+        "aufirst" : [ "James Gillespie" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Birney, James Gillespie" ],
+        "contributorfull" : [ "$$NBirney, James Gillespie$$LBirney$$FJames Gillespie$$Rcontributor" ],
+        "date" : [ "1836 - 1843", "1836-1843" ],
+        "cop" : [ "New Richmond, Ohio" ],
+        "pub" : [ "James G. Birney" ],
+        "oclcid" : [ "(ocolc)10379685" ],
+        "lccn" : [ "sf 89091878", "sn 84005844" ],
+        "seriestitle" : [ "American periodical series, 1800-1850 ; 1409-1411." ],
+        "btitle" : [ "Philanthropist (New Richmond, Ohio : 1836)" ]
+      },
+      "sort" : {
+        "title" : [ "Philanthropist (New Richmond, Ohio : 1836)" ],
+        "author" : [ "Birney, James Gillespie, 1792-1857." ],
+        "creationdate" : [ "1836" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990018174010107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:sf 89091878&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000011/000000000020/000000000092t000000000010/000000000006/000000000089t000000000004/000000000020/000000000093t",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "48",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "22",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "53",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "246",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 267,
+    "COMBINED_SEARCH_TIME" : 270,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1836",
+      "count" : "1"
+    }, {
+      "value" : "1843",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "newspapers",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Birney James Gillespie",
+      "count" : "1"
+    }, {
+      "value" : "Ohio Anti Slavery Society",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

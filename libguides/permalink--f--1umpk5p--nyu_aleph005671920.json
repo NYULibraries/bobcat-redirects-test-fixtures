@@ -1,0 +1,215 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056719200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill " ],
+        "subject" : [ "State, The$$QState, The -- Early works to 1800", "Political science$$QPolitical science -- Early works to 1800", "État$$QÉtat -- Ouvrages avant 1800", "Political science", "State, The" ],
+        "format" : [ "1 online resource (528 pages) : illustrations" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1097441385" ],
+        "creationdate" : [ "1651" ],
+        "creator" : [ "Hobbes, Thomas, 1588-1679, author.$$QHobbes, Thomas" ],
+        "publisher" : [ "London : Printed for A. Crooke, at the Green Dragon in St. Pauls Church-yard" ],
+        "mms" : [ "990056719200107871" ],
+        "contributor" : [ "Bosse, Abraham, 1602-1676, artist.$$QBosse, Abraham", "Crooke, Andrew, -1674, bookseller.$$QCrooke, Andrew" ],
+        "addtitle" : [ "Hobbes's Leviathan", "Matter, form, and power of a common-wealth ecclesiastical and civil", "Matter, forme, and power of a common-wealth ecclesiasticall and civill" ],
+        "genre" : [ "Early works to 1800", "Ouvrages avant 1800", "Early works" ],
+        "unititle" : [ "Leviathan" ],
+        "includes" : [ "Hobbes, Thomas, 1588-1679, Leviathan$$QHobbes, Thomas, 1588-1679, Leviathan" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "heinall", "proqlit", "aleph005671920" ],
+        "lds60" : [ "Added, engraved title page by Abraham Bosse; designed with input from Hobbes, it shows an oversized regal figure towering over a landscape, with a triptych below showing contrasting devices of statecraft and religion." ],
+        "lds63" : [ "Access restricted to subscribing institutions." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056719200107871" ],
+        "recordid" : [ "alma990056719200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005671920-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hobbes" ],
+        "aufirst" : [ "Thomas" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Hobbes, Thomas" ],
+        "addau" : [ "Bosse, Abraham", "Crooke, Andrew" ],
+        "creatorfull" : [ "$$NHobbes, Thomas$$LHobbes$$FThomas$$Rauthor" ],
+        "contributorfull" : [ "$$NBosse, Abraham$$LBosse$$FAbraham$$Rcontributor", "$$NCrooke, Andrew$$Rcontributor" ],
+        "addtitle" : [ "Hobbes's Leviathan", "Matter, form, and power of a common-wealth ecclesiastical and civil", "Matter, forme, and power of a common-wealth ecclesiasticall and civill" ],
+        "date" : [ "1651" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Printed for A. Crooke, at the Green Dragon in St. Pauls Church-yard" ],
+        "oclcid" : [ "(ocolc)1097441385" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill" ]
+      },
+      "sort" : {
+        "title" : [ "Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill /" ],
+        "author" : [ "Hobbes, Thomas, 1588-1679, author." ],
+        "creationdate" : [ "1651" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990056719200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1097441385,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jc\"153ǂ h63 1651",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "112",
+    "CALL_SOLR_GET_IDS_LIST" : "136",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "86",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "21",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "82",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "167",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "515",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 545,
+    "COMBINED_SEARCH_TIME" : 549,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1651",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Political Science",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Early Works To 1800",
+      "count" : "1"
+    }, {
+      "value" : "State The",
+      "count" : "1"
+    }, {
+      "value" : "State The Early Works To 1800",
+      "count" : "1"
+    }, {
+      "value" : "État Ouvrages Avant 1800",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bosse Abraham",
+      "count" : "1"
+    }, {
+      "value" : "Crooke Andrew",
+      "count" : "1"
+    }, {
+      "value" : "Hobbes Thomas",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058845630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Bartholmew Fair " ],
+        "subject" : [ "English drama -- 17th century", "Théâtre anglais -- 17e siècle", "DRAMA -- English, Irish, Scottish, Welsh", "English drama", "1600-1699" ],
+        "format" : [ "1 online resource (xxxiii, 189 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781408144688;$$CISBN$$V1408144689;$$CISBN$$V9781408144671;$$CISBN$$V1408144670;$$COCLC$$V(OCoLC)869735983;$$CISBN$$V9780713674279" ],
+        "creationdate" : [ "2007" ],
+        "creator" : [ "Jonson, Ben, 1573?-1637.$$QJonson, Ben" ],
+        "publisher" : [ "London : A. & C. Black : W.W. Norton" ],
+        "description" : [ "Accessible, easy-to-use and with a focus on performance, 'New Mermaids' bring the finest classic drama texts alive for the actor, student and theatre-goer alike." ],
+        "mms" : [ "990058845630107871" ],
+        "contributor" : [ "Hibbard, G. R. (George Richard), 1915-$$QHibbard, G. R." ],
+        "series" : [ "New mermaids$$QNew mermaids", "New mermaids.$$QNew mermaids." ],
+        "ispartof" : [ "Bloomsbury Drama Online Core Collection UK and ROW. Bloomsbury Publishing$$QBloomsbury Drama Online Core Collection UK and ROW." ],
+        "relation" : [ "$$Cform$$VPrint version: Jonson, Ben, 1573?-1637. Bartholmew Fair$$QBartholmew Fair" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsdo", "aleph005884563" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058845630107871" ],
+        "recordid" : [ "alma990058845630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005884563-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Jonson" ],
+        "aufirst" : [ "Ben" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Jonson, Ben" ],
+        "addau" : [ "Hibbard, G. R. (George Richard)" ],
+        "creatorfull" : [ "$$NJonson, Ben$$LJonson$$FBen$$Rauthor" ],
+        "contributorfull" : [ "$$NHibbard, G. R. (George Richard)$$LHibbard$$FG. R.$$Rcontributor" ],
+        "stitle" : [ "Bloomsbury Drama Online Core Collection UK and ROW." ],
+        "date" : [ "2007" ],
+        "isbn" : [ "9781408144688", "1408144689", "9781408144671", "1408144670", "9780713674279" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Accessible, easy-to-use and with a focus on performance, 'New Mermaids' bring the finest classic drama texts alive for the actor, student and theatre-goer alike." ],
+        "cop" : [ "London" ],
+        "pub" : [ "A. & C. Black" ],
+        "oclcid" : [ "(ocolc)869735983" ],
+        "seriestitle" : [ "New mermaids" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Bartholmew Fair" ]
+      },
+      "sort" : {
+        "title" : [ "Bartholmew Fair /" ],
+        "author" : [ "Jonson, Ben, 1573?-1637." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058845630107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058845630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1408144689,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pr#2606ǂ a15 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "98",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "164",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "158",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "116",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "476",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 502,
+    "COMBINED_SEARCH_TIME" : 505,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1600 1699",
+      "count" : "1"
+    }, {
+      "value" : "Drama English Irish Scottish Welsh",
+      "count" : "1"
+    }, {
+      "value" : "English Drama",
+      "count" : "1"
+    }, {
+      "value" : "English Drama 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Anglais 17e Siècle",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hibbard G R",
+      "count" : "1"
+    }, {
+      "value" : "Jonson Ben",
+      "count" : "1"
+    } ]
+  } ]
+}

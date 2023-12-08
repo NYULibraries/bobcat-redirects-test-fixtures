@@ -1,0 +1,223 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990025295410107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Nineteenth-century American drama : a finding guide " ],
+        "subject" : [ "English and American plays of the nineteenth century American plays, 1831-1900$$QEnglish and American plays of the nineteenth century American plays, 1831-1900 -- Indexes", "American drama -- 19th century$$QAmerican drama -- 19th century -- Indexes", "Drama -- 19th century$$QDrama -- 19th century -- Indexes" ],
+        "format" : [ "xi, 579 p. ; 22 cm." ],
+        "identifier" : [ "$$CLC$$V77012057;$$CISBN$$V0810810832;$$COCLC$$V(OCoLC)3293315" ],
+        "creationdate" : [ "c1977" ],
+        "creator" : [ "Hixon, Donald L.$$QHixon, Donald L." ],
+        "publisher" : [ "Metuchen, N.J. : Scarecrow Press" ],
+        "mms" : [ "990025295410107871" ],
+        "contributor" : [ "Hennessee, Don A.$$QHennessee, Don A." ],
+        "addtitle" : [ "English and American plays of the nineteenth century. American plays, 1831-1900." ],
+        "genre" : [ "Indexes" ],
+        "place" : [ "Metuchen, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002529541" ],
+        "lds53" : [ "002529541" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990025295410107871" ],
+        "recordid" : [ "alma990025295410107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002529541-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hixon" ],
+        "aufirst" : [ "Donald L." ],
+        "auinit" : [ "D" ],
+        "au" : [ "Hixon, Donald L." ],
+        "addau" : [ "Hennessee, Don A." ],
+        "creatorfull" : [ "$$NHixon, Donald L.$$LHixon$$FDonald L.$$Rauthor" ],
+        "contributorfull" : [ "$$NHennessee, Don A.$$LHennessee$$FDon A.$$Rcontributor" ],
+        "date" : [ "1977", "c1977" ],
+        "isbn" : [ "0810810832" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Metuchen, N.J" ],
+        "pub" : [ "Scarecrow Press" ],
+        "oclcid" : [ "(ocolc)3293315" ],
+        "lccn" : [ "77012057" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Nineteenth-century American drama : a finding guide" ]
+      },
+      "sort" : {
+        "title" : [ "Nineteenth-century American drama : a finding guide /" ],
+        "author" : [ "Hixon, Donald L." ],
+        "creationdate" : [ "1977" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990025295410107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0810810832,OCLC:,LCCN:77012057&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps\"632ǂ h57",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "60",
+    "CALL_SOLR_GET_IDS_LIST" : "65",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "44",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "208",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 230,
+    "COMBINED_SEARCH_TIME" : 233,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1977",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Drama 19th Century Indexes",
+      "count" : "1"
+    }, {
+      "value" : "Drama 19th Century Indexes",
+      "count" : "1"
+    }, {
+      "value" : "English And American Plays Of The Nineteenth Century American Plays 1831 1900 Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hennessee Don A",
+      "count" : "1"
+    }, {
+      "value" : "Hixon Donald L",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

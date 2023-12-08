@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045392260107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Decoding Andean mythology " ],
+        "subject" : [ "Indian mythology -- Andes Region", "Indians of South America -- Andes Region$$QIndians of South America -- Andes Region -- Folklore", "Indian mythology", "Indians of South America", "Andes Region" ],
+        "format" : [ "xiv, 465 pages, 32 unnumbered pages of plates : color illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2016014223;$$CISBN$$V9781607815082;$$CISBN$$V1607815087;$$COCLC$$V(OCoLC)945730169" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Marín-Dale, Margarita B., 1958- author.$$QMarín-Dale, Margarita B." ],
+        "publisher" : [ "Salt Lake City : The University of Utah Press" ],
+        "mms" : [ "990045392260107871" ],
+        "contents" : [ "A note on pronunciation -- Introduction -- Andean animism -- Intermediaries -- Pachacuti -- Huacas -- The origin of culture -- Sexuality and guilt -- Supernatural beings -- Social protest." ],
+        "genre" : [ "Folklore" ],
+        "relation" : [ "$$Cform$$VDecoding Andean mythology$$Z990071840270107871", "$$Cform$$VDecoding Andean Mythology$$Z9995726304907871" ],
+        "place" : [ "Salt Lake City :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004539226" ],
+        "lds53" : [ "004539226" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045392260107871" ],
+        "recordid" : [ "alma990045392260107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004539226-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Marín-Dale" ],
+        "aufirst" : [ "Margarita B." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Marín-Dale, Margarita B." ],
+        "creatorfull" : [ "$$NMarín-Dale, Margarita B.$$LMarín-Dale$$FMargarita B.$$Rauthor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9781607815082", "1607815087" ],
+        "notes" : [ "Includes bibliographical references (pages 421-444) and index." ],
+        "cop" : [ "Salt Lake City" ],
+        "pub" : [ "The University of Utah Press" ],
+        "oclcid" : [ "(ocolc)945730169" ],
+        "lccn" : [ "2016014223" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Decoding Andean mythology" ]
+      },
+      "sort" : {
+        "title" : [ "Decoding Andean mythology /" ],
+        "author" : [ "Marín-Dale, Margarita B., 1958- author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990045392260107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1607815087,OCLC:,LCCN:2016014223&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#2230.1 r3ǂm28 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "295",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "23",
+    "RETRIVE_FROM_DB_RELATIONS" : "79",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "492",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 519,
+    "COMBINED_SEARCH_TIME" : 525,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 4
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Andes Region",
+      "count" : "1"
+    }, {
+      "value" : "Indian Mythology",
+      "count" : "1"
+    }, {
+      "value" : "Indian Mythology Andes Region",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of South America Andes Region Folklore",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Marín Dale Margarita B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

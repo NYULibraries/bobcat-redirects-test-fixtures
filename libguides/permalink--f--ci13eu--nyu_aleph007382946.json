@@ -1,0 +1,246 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073829460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the book in Britain. Volume VII, The twentieth century and beyond " ],
+        "subject" : [ "Books -- Great Britain -- History", "Book industries and trade -- Great Britain -- History", "Livres -- Grande-Bretagne -- Histoire", "Livres -- Industrie -- Grande-Bretagne -- Histoire", "Book industries and trade", "Books", "Great Britain" ],
+        "format" : [ "1 online resource (xvii, 766 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780511862489;$$CISBN$$V0511862482;$$COCLC$$V(OCoLC)1105273561;$$CISBN$$V9781107010604" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Cambridge, United Kingdom : Cambridge University Press" ],
+        "description" : [ "The Cambridge History of the Book in Britain is an authoritative series which surveys the history of publishing, bookselling, authorship and reading in Britain. This seventh and final volume surveys the twentieth and twenty-first centuries from a range of perspectives in order to create a comprehensive guide, from growing professionalisation at the beginning of the twentieth century, to the impact of digital technologies at the end. Its multi-authored focus on the material book and its manufacture broadens to a study of the book's authorship and readership, and its production and dissemination via publishing and bookselling. It examines in detail key market sectors over the course of the period, and concludes with a series of essays concentrating on aspects of book history: the book in wartime; class, democracy and value; books and other media; intellectual property and copyright; and imperialism and post-imperialism." ],
+        "mms" : [ "990073829460107871" ],
+        "contributor" : [ "Nash, Andrew, 1972- editor$$QNash, Andrew", "Squires, Claire, editor$$QSquires, Claire", "Willison, I. R. (Ian R.), editor$$QWillison, I. R." ],
+        "addtitle" : [ "Cambridge history of the book in Britain. Volume 7, The twentieth century and beyond", "Twentieth century and beyond" ],
+        "contents" : [ "Introduction / Andrew Nash, Claire Squires and I.R. Willison -- Materials, technologies and the printing industry / Sarah Bromage and Helen Williams -- Format and design / Sebastian Carter -- The digital book / Padmini Ray Murray -- Authorship / Andrew Nash and Claire Squires -- Publishing / David Finkelstein and Alistair McCleery -- Distribution and bookselling / Iain Stevenson -- Reading and ownership / Andrew Nash, Claire Squires and Shafquat Towheed -- Literature / Andrew Nash and Jane Potter -- Children's books / Peter Hunt and Lucy Pearson -- Schoolbooks and textbook publishing / Sarah Pedersen -- Popular science / Peter J. Bowler -- Popular history / Helen Williams -- Religion / Michael Ledger-Lomas -- Publishing for leisure / Susan Pickford -- Museum and art books publishing / Sarah Anne Hughs -- Music / John Wagstaff -- University presses and academic publishing / Samantha J. Rayner -- Journals (STM and humanities) / Michael Mabe and Anthony Watkinson -- Information, reference and government publishing / Susan Pickford -- Maps, cartography and geographical publishing / Iain Stevenson -- Magazines and periodicals / Anthony Quinn -- Comics and graphic novels / Mark Nixon -- The book in wartime / Jane potter -- Books, intellectual property and copyright / Catherine Seville -- Books and the mass market : class, democracy and value / Ronan McDonald -- The book and civil society / Kate Longworth -- Sex, race and class : the radical, alternative and minority book trade in Britain / Gail Chester -- Counter-culture and underground / Chris Atton -- Books and other media / Alexis Weedon -- Book events, book environments / David Finkelstein and Claire Squires -- The book, British imperialism and post-imperialism / Caroline Davis." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Cambridge history of the book in Britain. Volume VII, The twentieth century and beyond$$QCambridge history of the book in Britain. Volume VII, The twentieth century and beyond$$Z990016194130107871" ],
+        "place" : [ "Cambridge, United Kingdom :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph007382946" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073829460107871" ],
+        "recordid" : [ "alma990073829460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007382946-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Nash", "Squires", "Willison" ],
+        "aufirst" : [ "Andrew", "Claire", "I. R." ],
+        "auinit" : [ "A", "C", "I" ],
+        "addau" : [ "Nash, Andrew", "Squires, Claire", "Willison, I. R. (Ian R.)" ],
+        "contributorfull" : [ "$$NNash, Andrew$$LNash$$FAndrew$$Reditor", "$$NSquires, Claire$$Reditor", "$$NWillison, I. R. (Ian R.)$$Reditor" ],
+        "addtitle" : [ "Cambridge history of the book in Britain. Volume 7, The twentieth century and beyond", "Twentieth century and beyond" ],
+        "date" : [ "2019 - 2019", "2019" ],
+        "isbn" : [ "9780511862489", "0511862482", "9781107010604" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The Cambridge History of the Book in Britain is an authoritative series which surveys the history of publishing, bookselling, authorship and reading in Britain. This seventh and final volume surveys the twentieth and twenty-first centuries from a range of perspectives in order to create a comprehensive guide, from growing professionalisation at the beginning of the twentieth century, to the impact of digital technologies at the end. Its multi-authored focus on the material book and its manufacture broadens to a study of the book's authorship and readership, and its production and dissemination via publishing and bookselling. It examines in detail key market sectors over the course of the period, and concludes with a series of essays concentrating on aspects of book history: the book in wartime; class, democracy and value; books and other media; intellectual property and copyright; and imperialism and post-imperialism." ],
+        "cop" : [ "Cambridge, United Kingdom" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)1105273561" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the book in Britain. Volume VII, The twentieth century and beyond" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the book in Britain. Volume VII, The twentieth century and beyond /" ],
+        "author" : [ "Nash, Andrew, 1972- editor" ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073829460107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073829460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990073829460107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0511862482,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z 8 g7ǂc367 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "188",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "67",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "23",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "80",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "411",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 438,
+    "COMBINED_SEARCH_TIME" : 441,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Book Industries And Trade",
+      "count" : "1"
+    }, {
+      "value" : "Book Industries And Trade Great Britain History",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books Great Britain History",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Livres Grande Bretagne Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Livres Industrie Grande Bretagne Histoire",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Nash Andrew",
+      "count" : "1"
+    }, {
+      "value" : "Squires Claire",
+      "count" : "1"
+    }, {
+      "value" : "Willison I R",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,199 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990059994480107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "web_resource" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of social work (2013)" ],
+        "subject" : [ "Social service$$QSocial service -- Encyclopedias", "Service social$$QService social -- Encyclopédies", "Social service" ],
+        "format" : [ "1 online resource : color illustrations" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)858044845;$$CISBN$$V9780195310368" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "New York, NY : Oxford University Press", "Began in 2013." ],
+        "description" : [ "A continuously updated online collaboration between the National Association of Social Workers (NASW Press) and Oxford University Press (OUP). Includes 800+ overview articles on key topics from international issues to ethical standards, 200+ biographies on key figures, and references and links to related social work resources." ],
+        "mms" : [ "990059994480107871" ],
+        "contributor" : [ "National Association of Social Workers, creator.$$QNational Association of Social Workers", "Oxford University Press, publisher, creator.$$QOxford University Press" ],
+        "addtitle" : [ "ESW", "Oxford research encyclopedias" ],
+        "frequency" : [ "Updated monthly" ],
+        "genre" : [ "Encyclopédies", "Electronic reference sources", "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of social work. 20th ed. Washington, DC : NASW Press ; Oxford ; New York : Oxford University Press, 2008$$QEncyclopedia of social work.$$Z990000326390107871" ],
+        "unititle" : [ "Encyclopedia of social work (2013)" ],
+        "place" : [ "New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxfore", "aleph005999448" ],
+        "lds60" : [ "20th edition is also available as an e-book" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990059994480107871" ],
+        "recordid" : [ "alma990059994480107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005999448-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "ESW", "Oxford research encyclopedias" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780195310368" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "A continuously updated online collaboration between the National Association of Social Workers (NASW Press) and Oxford University Press (OUP). Includes 800+ overview articles on key topics from international issues to ethical standards, 200+ biographies on key figures, and references and links to related social work resources." ],
+        "cop" : [ "New York, NY" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)858044845" ],
+        "btitle" : [ "Encyclopedia of social work (2013)" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of social work (2013)" ],
+        "author" : [ "National Association of Social Workers, creator." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990059994480107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0195310365,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv!12ǂ e53",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "220",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "56",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "100",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "464",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 489,
+    "COMBINED_SEARCH_TIME" : 493,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "web_resources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Service Social Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Social Service",
+      "count" : "1"
+    }, {
+      "value" : "Social Service Encyclopedias",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "National Association Of Social Workers",
+      "count" : "1"
+    }, {
+      "value" : "Oxford University Press",
+      "count" : "1"
+    } ]
+  } ]
+}

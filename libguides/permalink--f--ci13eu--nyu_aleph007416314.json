@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074163140107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Continuum encyclopedia of popular music of the world. Volume IV, North America " ],
+        "subject" : [ "Popular music genres -- North America$$QPopular music genres -- North America -- Encyclopedias", "Popular music -- North America -- History and criticism", "Genres de musique populaire -- Amérique du Nord$$QGenres de musique populaire -- Amérique du Nord -- Encyclopédies", "Musique populaire -- Amérique du Nord -- Histoire et critique", "Popular music", "Popular music genres", "North America" ],
+        "format" : [ "1 online resource (xxi, 362 pages, plates) : maps" ],
+        "identifier" : [ "$$CISBN$$V9781501329166;$$CISBN$$V1501329162;$$COCLC$$V(OCoLC)992289476" ],
+        "creationdate" : [ "©2005" ],
+        "publisher" : [ "New York : Continuum" ],
+        "description" : [ "\"The Bloomsbury Encyclopedia of Popular Music of the World's five-volume work is the most authoritative reference work on the history and current practice of popular music ever published. The five volumes that form Part 2 of this multi-volume work follow on from the two volumes of Part 1: Media, Industry and Society (Volume I) and Performance and Production (Volume II). They cover over 200 nation states and are organized according to continental regions: Volume III: Caribbean and Latin America Volume IV: North America, Volume V: Asia and Oceania, Volume VI: Africa and the Middle East, and Volume VII: Europe. Each discusses the history, development and current practice of popular music in cities, districts, cross-border regions, nation states and diasporic communities around the world. Includes coverage of: \"The historical, geographical, demographical, political, economic and cultural context Genres for which the location is known or which have been important to the development and current practice of its popular music. Significant venues such as theatres, dance halls, clubs and bars. The role of the industry: music publishers, record companies/labels, recording studios, radio and TV. \"The role of the state and government regulatory bodies. The teaching and research of popular music in educational institutions. Songs associated with the location. Notable performers and other practitioners such as producers, engineers, technological innovators, record company heads, journalists, critics and scholars, songwriters, composers and lyricists. 250 leading popular music scholars and practitioners have contributed over 500 entries. They include Rafael Jose de Menezes Bastos on Brazil, Peter Manuel on India and the Caribbean Islands, John Collins on Ghana, Moya Aliya Malamusi on Malawi, Tōru Mitsui on Japan, Motti Regev on Israel, Martin Stokes on Turkey, Richard Peterson on Nashville, Amy Kuuleialoha Stillman on Hawaii, Bruce Johnson on Australia, Paolo Prato on Italy, Svanibor Pettan on Croatia and Alf Bjornberg on Sweden.\"--Bloomsbury Publishing." ],
+        "mms" : [ "990074163140107871" ],
+        "contributor" : [ "Horn, David, 1942-$$QHorn, David", "Shepherd, John, 1947-$$QShepherd, John", "Laing, Dave.$$QLaing, Dave." ],
+        "addtitle" : [ "Encyclopedia of popular music of the world", "Popular music of the world", "North America" ],
+        "genre" : [ "Encyclopédies", "Criticism, interpretation, etc", "Encyclopedias" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloompop", "aleph007416314" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074163140107871" ],
+        "recordid" : [ "alma990074163140107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007416314-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Horn", "Shepherd", "Laing" ],
+        "aufirst" : [ "David", "John", "Dave." ],
+        "auinit" : [ "J", "D" ],
+        "addau" : [ "Horn, David", "Shepherd, John", "Laing, Dave." ],
+        "contributorfull" : [ "$$NHorn, David$$LHorn$$FDavid$$Rcontributor", "$$NShepherd, John$$Rcontributor", "$$NLaing, Dave.$$Rcontributor" ],
+        "addtitle" : [ "Encyclopedia of popular music of the world", "Popular music of the world", "North America" ],
+        "date" : [ "2005", "©2005" ],
+        "isbn" : [ "9781501329166", "1501329162" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The Bloomsbury Encyclopedia of Popular Music of the World's five-volume work is the most authoritative reference work on the history and current practice of popular music ever published. The five volumes that form Part 2 of this multi-volume work follow on from the two volumes of Part 1: Media, Industry and Society (Volume I) and Performance and Production (Volume II). They cover over 200 nation states and are organized according to continental regions: Volume III: Caribbean and Latin America Volume IV: North America, Volume V: Asia and Oceania, Volume VI: Africa and the Middle East, and Volume VII: Europe. Each discusses the history, development and current practice of popular music in cities, districts, cross-border regions, nation states and diasporic communities around the world. Includes coverage of: \"The historical, geographical, demographical, political, economic and cultural context Genres for which the location is known or which have been important to the development and current practice of its popular music. Significant venues such as theatres, dance halls, clubs and bars. The role of the industry: music publishers, record companies/labels, recording studios, radio and TV. \"The role of the state and government regulatory bodies. The teaching and research of popular music in educational institutions. Songs associated with the location. Notable performers and other practitioners such as producers, engineers, technological innovators, record company heads, journalists, critics and scholars, songwriters, composers and lyricists. 250 leading popular music scholars and practitioners have contributed over 500 entries. They include Rafael Jose de Menezes Bastos on Brazil, Peter Manuel on India and the Caribbean Islands, John Collins on Ghana, Moya Aliya Malamusi on Malawi, Tōru Mitsui on Japan, Motti Regev on Israel, Martin Stokes on Turkey, Richard Peterson on Nashville, Amy Kuuleialoha Stillman on Hawaii, Bruce Johnson on Australia, Paolo Prato on Italy, Svanibor Pettan on Croatia and Alf Bjornberg on Sweden.\"--Bloomsbury Publishing." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Continuum" ],
+        "oclcid" : [ "(ocolc)992289476" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Continuum encyclopedia of popular music of the world. Volume IV, North America" ]
+      },
+      "sort" : {
+        "title" : [ "Continuum encyclopedia of popular music of the world. Volume IV, North America /" ],
+        "author" : [ "Horn, David, 1942-" ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074163140107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990074163140107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1501329162,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ml\"102 p66ǂc66 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "40",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "298",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 335,
+    "COMBINED_SEARCH_TIME" : 337,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Genres De Musique Populaire Amérique Du Nord Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Musique Populaire Amérique Du Nord Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "North America",
+      "count" : "1"
+    }, {
+      "value" : "Popular Music",
+      "count" : "1"
+    }, {
+      "value" : "Popular Music Genres",
+      "count" : "1"
+    }, {
+      "value" : "Popular Music Genres North America Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Popular Music North America History And Criticism",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Horn David",
+      "count" : "1"
+    }, {
+      "value" : "Laing Dave",
+      "count" : "1"
+    }, {
+      "value" : "Shepherd John",
+      "count" : "1"
+    } ]
+  } ]
+}

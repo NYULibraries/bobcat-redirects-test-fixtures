@@ -1,0 +1,294 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995630458007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of nutrition education and behavior." ],
+        "subject" : [ "Nutrition$$QNutrition -- Periodicals", "nutrition physiology", "education", "feeding behavior", "Nutrition$$QNutrition -- Périodiques", "Habitudes alimentaires -- Canada$$QHabitudes alimentaires -- Canada -- Périodiques", "Nutrition", "Voedingsgedrag", "Gezondheidsvoorlichting en -opvoeding", "Nutritional Sciences -- education", "Food Habits", "Periodicals" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2009247522;$$CISSN$$V1878-2620;$$COCLC$$V(OCoLC)60628757;$$CISSN$$V1499-4046" ],
+        "creationdate" : [ "2002" ],
+        "publisher" : [ "Hamilton, Ont. : Decker", "Print began with v. 34, no. 1 (Jan./Feb. 2002)." ],
+        "mms" : [ "9995630458007871" ],
+        "contributor" : [ "Society for Nutrition Education.$$QSociety for Nutrition Education." ],
+        "addtitle" : [ "Some providers show title as: Journal of nutrition education & behavior", "JNEB" ],
+        "frequency" : [ "Bimonthly" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of nutrition education$$QJournal of nutrition education$$Z9995623967107871" ],
+        "mesh" : [ "Nutritional Physiological Phenomena", "Health Education", "Feeding Behavior", "Societies, Scientific", "Periodical" ],
+        "place" : [ "Hamilton, Ont. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)111006469466306" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Published: Elsevier, Jan./Feb. 2006-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995630458007871" ],
+        "recordid" : [ "alma9995630458007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99111006469466306" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "JOURNAL OF NUTRITION EDUCATION AND BEHAVIOR FORMERLY JOURNAL OF NUTRITION EDUCA", "J NUTR EDUC BEHAV", "JOURNAL OF NUTRITION EDUCATION & BEHAVIOR", "J. NUTR. EDUC. BEHAV" ],
+        "addtitle" : [ "Journal of nutrition education & behavior", "JNEB" ],
+        "date" : [ "2002" ],
+        "issn" : [ "1878-2620", "1499-4046" ],
+        "cop" : [ "Hamilton, Ont" ],
+        "pub" : [ "Decker" ],
+        "oclcid" : [ "(ocolc)60628757" ],
+        "lccn" : [ "2009247522" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of nutrition education and behavior." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of nutrition education and behavior." ],
+        "author" : [ "Society for Nutrition Education." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995630458007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2009247522&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qp\"141 a1ǂj66",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "176",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "241",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "53",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "20",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "221",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "54",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "567",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 588,
+    "COMBINED_SEARCH_TIME" : 591,
+    "PROCESS_COMBINED_RESULTS" : 1,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Feeding Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Food Habits",
+      "count" : "1"
+    }, {
+      "value" : "Gezondheidsvoorlichting En Opvoeding",
+      "count" : "1"
+    }, {
+      "value" : "Habitudes Alimentaires Canada Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Health Education",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Physiology",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Nutritional Physiological Phenomena",
+      "count" : "1"
+    }, {
+      "value" : "Nutritional Sciences Education",
+      "count" : "1"
+    }, {
+      "value" : "Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Societies Scientific",
+      "count" : "1"
+    }, {
+      "value" : "Voedingsgedrag",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Society For Nutrition Education",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

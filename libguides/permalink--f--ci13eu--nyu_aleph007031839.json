@@ -1,0 +1,253 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990070318390107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "R cookbook " ],
+        "subject" : [ "Corrélation multiple (Statistique)", "R (Langage de programmation)", "Statistique -- Informatique", "Informatique", "Langages de programmation", "Logiciels", "Infographie", "computer science", "data processing", "software", "computer graphics", "Programming languages (Electronic computers)", "Electronic data processing", "Computer software", "Computer science", "Computer programs", "Computer graphics", "Mathematical statistics -- Graphic methods -- Data processing", "Multiple comparisons (Statistics)", "R (Computer program language)", "Statistics -- Data processing", "Statistik", "Datenanalyse", "Open Source", "R Programm" ],
+        "format" : [ "1 online resource (xviii, 413 pages) : illustrations", "text file" ],
+        "identifier" : [ "$$CLC$$V2011282768;$$CISBN$$V9780596809287;$$CISBN$$V059680928X;$$CISBN$$V0596809158;$$CISBN$$V9781449307370;$$CISBN$$V144930737X;$$CISBN$$V9781449307264;$$CISBN$$V1449307264;$$CISBN$$V1306814340;$$CISBN$$V9781306814348;$$COCLC$$V(OCoLC)733755354;$$CISBN$$V9780596809157" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Teetor, Paul, 1954-$$QTeetor, Paul" ],
+        "publisher" : [ "Beijing ; Sebastopol, Calif. : O'Reilly" ],
+        "description" : [ "With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression. Each recipe addresses a specific problem, with a discussion that explains the solution and offers insight into how it works. If you're a beginner, R Cookbook will help get you started. If you're an experienced data programmer, it will jog your memory and expand your horizons. You'll get the job done faster and learn more about R in the process. Create vectors, handle variables, and perform other basic functions Input and output data Tackle data structures such as matrices, lists, factors, and data frames Work with probability, probability distributions, and random variables Calculate statistics and confidence intervals, and perform statistical tests Create a variety of graphic displays Build statistical models with linear regressions and analysis of variance (ANOVA) Explore advanced statistical techniques, such as finding clusters in your data \"Wonderfully readable, R Cookbook serves not only as a solutions manual of sorts, but as a truly enjoyable way to explore the R language--one practical example at a time.\"--Jeffrey Ryan, software consultant and R package author." ],
+        "mms" : [ "990070318390107871" ],
+        "edition" : [ "1st ed." ],
+        "contents" : [ "Ch. 1. Getting Started and Getting Help -- Ch. 2. Some Basics -- Ch. 3. Navigating the Software -- Ch. 4. Input and Output -- Ch. 5. Data Structures -- Ch. 6. Data Transformations -- Ch. 7. Strings and Dates -- Ch. 8. Probability -- Ch. 9. General Statistics -- Ch. 10. Graphics -- Ch. 11. Linear Regression and ANOVA -- Ch. 12. Useful Tricks -- Ch. 13. Beyond Basic Numerics and Statistics -- Ch. 14. Time Series Analysis." ],
+        "relation" : [ "$$Cform$$VPrint version: Teetor, Paul. R cookbook. 1st ed. Beijing ; Sebastopol, CA : O'Reilly, 2011$$QR cookbook." ],
+        "mesh" : [ "Electronic Data Processing", "Programming Languages", "Software", "Statistics", "Computer Graphics" ],
+        "place" : [ "Beijing ; Sebastopol, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph007031839" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990070318390107871" ],
+        "recordid" : [ "alma990070318390107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007031839-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Teetor" ],
+        "aufirst" : [ "Paul" ],
+        "auinit" : [ "P" ],
+        "au" : [ "Teetor, Paul" ],
+        "creatorfull" : [ "$$NTeetor, Paul$$LTeetor$$FPaul$$Rauthor" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9780596809287", "059680928X", "0596809158", "9781449307370", "144930737X", "9781449307264", "1449307264", "1306814340", "9781306814348", "9780596809157" ],
+        "abstract" : [ "With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression. Each recipe addresses a specific problem, with a discussion that explains the solution and offers insight into how it works. If you're a beginner, R Cookbook will help get you started. If you're an experienced data programmer, it will jog your memory and expand your horizons. You'll get the job done faster and learn more about R in the process. Create vectors, handle variables, and perform other basic functions Input and output data Tackle data structures such as matrices, lists, factors, and data frames Work with probability, probability distributions, and random variables Calculate statistics and confidence intervals, and perform statistical tests Create a variety of graphic displays Build statistical models with linear regressions and analysis of variance (ANOVA) Explore advanced statistical techniques, such as finding clusters in your data \"Wonderfully readable, R Cookbook serves not only as a solutions manual of sorts, but as a truly enjoyable way to explore the R language--one practical example at a time.\"--Jeffrey Ryan, software consultant and R package author." ],
+        "cop" : [ "Beijing ;" ],
+        "pub" : [ "O'Reilly" ],
+        "oclcid" : [ "(ocolc)733755354" ],
+        "lccn" : [ "2011282768" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "R cookbook" ]
+      },
+      "sort" : {
+        "title" : [ "R cookbook /" ],
+        "author" : [ "Teetor, Paul, 1954-" ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070318390107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:059680928X,OCLC:,LCCN:2011282768&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"276.45 r3ǂt44 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "78",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "48",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "152",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "347",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 385,
+    "COMBINED_SEARCH_TIME" : 388,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computer Graphics",
+      "count" : "1"
+    }, {
+      "value" : "Computer Programs",
+      "count" : "1"
+    }, {
+      "value" : "Computer Science",
+      "count" : "1"
+    }, {
+      "value" : "Computer Software",
+      "count" : "1"
+    }, {
+      "value" : "Corrélation Multiple Statistique",
+      "count" : "1"
+    }, {
+      "value" : "Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Datenanalyse",
+      "count" : "1"
+    }, {
+      "value" : "Electronic Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Infographie",
+      "count" : "1"
+    }, {
+      "value" : "Informatique",
+      "count" : "1"
+    }, {
+      "value" : "Langages De Programmation",
+      "count" : "1"
+    }, {
+      "value" : "Logiciels",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics Graphic Methods Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Multiple Comparisons Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Open Source",
+      "count" : "1"
+    }, {
+      "value" : "Programming Languages",
+      "count" : "1"
+    }, {
+      "value" : "Programming Languages Electronic Computers",
+      "count" : "1"
+    }, {
+      "value" : "R Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "R Langage De Programmation",
+      "count" : "1"
+    }, {
+      "value" : "R Programm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Teetor Paul",
+      "count" : "1"
+    } ]
+  } ]
+}

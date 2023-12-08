@@ -1,0 +1,286 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990056836660107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "From dusk till dawn " ],
+        "subject" : [ "Fugitives from justice -- Mexico$$QFugitives from justice -- Mexico -- Drama", "Vampires$$QVampires -- Drama", "Fugitives from justice", "Vampires", "Mexico" ],
+        "format" : [ "1 videodisc (108 min.) : sound, color ; 4 3/4 in.", "video file DVD video region 1" ],
+        "identifier" : [ "$$CPUBNUM$$V46262;$$COCLC$$V(OCoLC)889813542" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "Burbank, CA : Miramax" ],
+        "description" : [ "The Gecko brothers, two dangerous outlaws on a wild crime spree, kidnap a father and his two kids then head south to a seedy Mexican bar to hide out in safety. But when they face the bar's truly notorious clientele, they're forced to team up with their hostages in order to make it out alive!" ],
+        "mms" : [ "990056836660107871" ],
+        "contributor" : [ "Rodriguez, Robert, 1968- film director, editor of moving image work.$$QRodriguez, Robert", "Tarantino, Quentin, screenwriter, actor.$$QTarantino, Quentin", "Kurtzman, Robert, screenwriter.$$QKurtzman, Robert", "Nunnari, Gianni, film producer.$$QNunnari, Gianni", "Teper, Meir, film producer.$$QTeper, Meir", "Clooney, George, actor.$$QClooney, George", "Hayek, Salma, 1966- actor.$$QHayek, Salma", "Keitel, Harvey, actor.$$QKeitel, Harvey", "Marin, Cheech, actor.$$QMarin, Cheech", "Lewis, Juliette, actor.$$QLewis, Juliette", "Preston, Kelly, actor.$$QPreston, Kelly", "Williamson, Fred, actor.$$QWilliamson, Fred", "Saxon, John, 1935- actor.$$QSaxon, John", "Trejo, Danny, 1944- actor.$$QTrejo, Danny", "Parks, Michael, 1940-2017, actor.$$QParks, Michael", "Hillhouse, Brenda, 1953- actor.$$QHillhouse, Brenda", "Savini, Tom, actor.$$QSavini, Tom", "Revell, Graeme, composer.$$QRevell, Graeme", "Mazón, Graciela, costume designer.$$QMazón, Graciela", "Montiel, Cecilia, production designer.$$QMontiel, Cecilia", "Navarro, Guillermo, director of photography.$$QNavarro, Guillermo", "Band Apart (Firm), production company.$$QBand Apart (Firm)", "Dimension Films (1990- ), presenter.$$QDimension Films (1990- )", "Los Hooligans Productions, production company.$$QLos Hooligans Productions", "Miramax Films, production company, film distributor.$$QMiramax Films" ],
+        "genre" : [ "Drama", "Feature films", "Fiction films", "Horror films", "Vampire films", "Video recordings for the hearing impaired" ],
+        "unititle" : [ "From dusk till dawn (Motion picture)" ],
+        "place" : [ "Burbank, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005683666" ],
+        "lds53" : [ "005683666" ],
+        "lds60" : [ "Originally released as a motion picture in 1996." ],
+        "lds64" : [ "Music by Graeme Revell ; costume designer, Graciela Mazón ; production designer, Cecilia Montiel ; director of photography, Guillermo Navarro" ],
+        "lds65" : [ "George Clooney, Salma Hayek, Harvey Keitel, Cheech Marin, Juliette Lewis, Quentin Tarantino, Kelly Preston, Fred Williamson, John Saxon, Danny Trejo, Michael Parks, Brenda Hillhouse, Tom Savini." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990056836660107871" ],
+        "recordid" : [ "alma990056836660107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005683666-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rodriguez", "Tarantino", "Kurtzman", "Nunnari", "Teper", "Clooney", "Hayek", "Keitel", "Marin", "Lewis", "Preston", "Williamson", "Saxon", "Trejo", "Parks", "Hillhouse", "Savini", "Revell", "Mazón", "Montiel", "Navarro" ],
+        "aufirst" : [ "Quentin", "Robert", "Gianni", "Meir", "George", "Salma", "Harvey", "Cheech", "Juliette", "Kelly", "Fred", "John", "Danny", "Michael", "Brenda", "Tom", "Graeme", "Graciela", "Cecilia", "Guillermo" ],
+        "auinit" : [ "Q", "R", "S", "H", "K", "F", "J", "D", "M", "B", "T", "C", "G" ],
+        "addau" : [ "Rodriguez, Robert", "Tarantino, Quentin", "Kurtzman, Robert", "Nunnari, Gianni", "Teper, Meir", "Clooney, George", "Hayek, Salma", "Keitel, Harvey", "Marin, Cheech", "Lewis, Juliette", "Preston, Kelly", "Williamson, Fred", "Saxon, John", "Trejo, Danny", "Parks, Michael", "Hillhouse, Brenda", "Savini, Tom", "Revell, Graeme", "Mazón, Graciela", "Montiel, Cecilia", "Navarro, Guillermo" ],
+        "contributorfull" : [ "$$NRodriguez, Robert$$LRodriguez$$FRobert$$Rcontributor", "$$NTarantino, Quentin$$Rcontributor", "$$NKurtzman, Robert$$Rcontributor", "$$NNunnari, Gianni$$Rcontributor", "$$NTeper, Meir$$Rcontributor", "$$NClooney, George$$Rcontributor", "$$NHayek, Salma$$Rcontributor", "$$NKeitel, Harvey$$Rcontributor", "$$NMarin, Cheech$$Rcontributor", "$$NLewis, Juliette$$Rcontributor", "$$NPreston, Kelly$$Rcontributor", "$$NWilliamson, Fred$$Rcontributor", "$$NSaxon, John$$Rcontributor", "$$NTrejo, Danny$$Rcontributor", "$$NParks, Michael$$Rcontributor", "$$NHillhouse, Brenda$$Rcontributor", "$$NSavini, Tom$$Rcontributor", "$$NRevell, Graeme$$Rcomposer", "$$NMazón, Graciela$$Rcontributor", "$$NMontiel, Cecilia$$Rcontributor", "$$NNavarro, Guillermo$$Rcontributor" ],
+        "date" : [ "2014 - 1996", "2014" ],
+        "abstract" : [ "The Gecko brothers, two dangerous outlaws on a wild crime spree, kidnap a father and his two kids then head south to a seedy Mexican bar to hide out in safety. But when they face the bar's truly notorious clientele, they're forced to team up with their hostages in order to make it out alive!" ],
+        "cop" : [ "Burbank, CA" ],
+        "pub" : [ "Miramax" ],
+        "oclcid" : [ "(ocolc)889813542" ],
+        "upcid" : [ "031398206347" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "From dusk till dawn" ]
+      },
+      "sort" : {
+        "title" : [ "From dusk till dawn /" ],
+        "author" : [ "Rodriguez, Robert, 1968- film director, editor of moving image work." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990056836660107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:889813542,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997ǂ f76 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "8",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "306",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 338,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1996",
+      "count" : "1"
+    }, {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fugitives From Justice",
+      "count" : "1"
+    }, {
+      "value" : "Fugitives From Justice Mexico Drama",
+      "count" : "1"
+    }, {
+      "value" : "Mexico",
+      "count" : "1"
+    }, {
+      "value" : "Vampires",
+      "count" : "1"
+    }, {
+      "value" : "Vampires Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Band Apart Firm",
+      "count" : "1"
+    }, {
+      "value" : "Clooney George",
+      "count" : "1"
+    }, {
+      "value" : "Dimension Films 1990",
+      "count" : "1"
+    }, {
+      "value" : "Hayek Salma",
+      "count" : "1"
+    }, {
+      "value" : "Hillhouse Brenda",
+      "count" : "1"
+    }, {
+      "value" : "Keitel Harvey",
+      "count" : "1"
+    }, {
+      "value" : "Kurtzman Robert",
+      "count" : "1"
+    }, {
+      "value" : "Lewis Juliette",
+      "count" : "1"
+    }, {
+      "value" : "Los Hooligans Productions",
+      "count" : "1"
+    }, {
+      "value" : "Marin Cheech",
+      "count" : "1"
+    }, {
+      "value" : "Mazón Graciela",
+      "count" : "1"
+    }, {
+      "value" : "Miramax Films",
+      "count" : "1"
+    }, {
+      "value" : "Montiel Cecilia",
+      "count" : "1"
+    }, {
+      "value" : "Navarro Guillermo",
+      "count" : "1"
+    }, {
+      "value" : "Nunnari Gianni",
+      "count" : "1"
+    }, {
+      "value" : "Parks Michael",
+      "count" : "1"
+    }, {
+      "value" : "Preston Kelly",
+      "count" : "1"
+    }, {
+      "value" : "Revell Graeme",
+      "count" : "1"
+    }, {
+      "value" : "Rodriguez Robert",
+      "count" : "1"
+    }, {
+      "value" : "Savini Tom",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

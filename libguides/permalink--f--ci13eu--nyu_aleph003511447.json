@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035114470107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Reclaiming fair use : how to put balance back in copyright " ],
+        "subject" : [ "Fair use (Copyright) -- United States", "Copyright infringement -- United States" ],
+        "format" : [ "xiv, 199 p. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2010053817;$$CISBN$$V9780226032276 (cloth : alk. paper);$$CISBN$$V0226032272 (cloth : alk. paper);$$CISBN$$V9780226032283 (pbk. : alk. paper);$$CISBN$$V0226032280 (pbk. : alk. paper);$$COCLC$$V(OCoLC)694283215" ],
+        "creationdate" : [ "c2011" ],
+        "creator" : [ "Aufderheide, Patricia.$$QAufderheide, Patricia." ],
+        "publisher" : [ "Chicago ; London : The University of Chicago Press" ],
+        "description" : [ "Reclaiming Fair Use begins by surveying the landscape of contemporary copyright law--and the dampening effect it can have on creativity--before laying out how the fair-use principle can be employed to avoid copyright violation. Finally, Aufderheide and Jaszi summarize their work with artists and professional groups to develop best practice documents for fair use and discuss fair use in an international context. Appendixes address common myths about fair use and provide a template for creating the reader's own best practices. --From publisher description" ],
+        "mms" : [ "990035114470107871" ],
+        "contributor" : [ "Jaszi, Peter.$$QJaszi, Peter." ],
+        "contents" : [ "The culture of fear and doubt, and how to leave it -- Long and strong copyright: why fair use is so important -- The decline and rise of fair use: the back-room story -- The decline and rise of fair use: the public campaigns -- Fair use resurgent -- Fair use in the courtroom: how judges think now -- Documentary filmmakers: pioneering best practices -- Codes of best practices catch on -- How to fair use -- A note on the international environment -- Codes of best practices in fair use -- A template for a code of best practices in fair use -- Documentary filmmakers' statement of best practices in fair use -- Myths and realities about fair use -- Answers to fair use: you be the judge." ],
+        "relation" : [ "$$Cform$$VReclaiming fair use : how to put balance back in copyright$$Z990042082580107871", "$$Cform$$VReclaiming fair use how to put balance back in copyright$$Z9995730194307871" ],
+        "place" : [ "Chicago ; London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003511447" ],
+        "lds53" : [ "003511447" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035114470107871" ],
+        "recordid" : [ "alma990035114470107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003511447-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Aufderheide" ],
+        "aufirst" : [ "Patricia." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Aufderheide, Patricia." ],
+        "addau" : [ "Jaszi, Peter." ],
+        "creatorfull" : [ "$$NAufderheide, Patricia.$$LAufderheide$$FPatricia.$$Rauthor" ],
+        "contributorfull" : [ "$$NJaszi, Peter.$$LJaszi$$FPeter.$$Rcontributor" ],
+        "date" : [ "2011", "c2011" ],
+        "isbn" : [ "9780226032276", "0226032272", "9780226032283", "0226032280" ],
+        "notes" : [ "Includes bibliographical references (p. [187]-190) and index." ],
+        "abstract" : [ "Reclaiming Fair Use begins by surveying the landscape of contemporary copyright law--and the dampening effect it can have on creativity--before laying out how the fair-use principle can be employed to avoid copyright violation. Finally, Aufderheide and Jaszi summarize their work with artists and professional groups to develop best practice documents for fair use and discuss fair use in an international context. Appendixes address common myths about fair use and provide a template for creating the reader's own best practices. --From publisher description" ],
+        "cop" : [ "Chicago ;" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)694283215" ],
+        "lccn" : [ "2010053817" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Reclaiming fair use : how to put balance back in copyright" ]
+      },
+      "sort" : {
+        "title" : [ "Reclaiming fair use : how to put balance back in copyright /" ],
+        "author" : [ "Aufderheide, Patricia." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035114470107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0226032272,OCLC:,LCCN:2010053817&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf#3020ǂ a984 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "421",
+    "CALL_SOLR_GET_IDS_LIST" : "123",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "76",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "151",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "741",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 766,
+    "COMBINED_SEARCH_TIME" : 770,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Copyright Infringement United States",
+      "count" : "1"
+    }, {
+      "value" : "Fair Use Copyright United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aufderheide Patricia",
+      "count" : "1"
+    }, {
+      "value" : "Jaszi Peter",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

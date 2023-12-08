@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990000794030107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Standards : for educational and psychological testing " ],
+        "subject" : [ "Educational tests and measurements -- Standards -- United States", "Psychological tests -- Standards -- United States" ],
+        "format" : [ "ix, 194 p. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V99066845;$$CISBN$$V0935302255;$$COCLC$$V(OCoLC)44174490" ],
+        "creationdate" : [ "2004" ],
+        "creator" : [ "American Educational Research Association.$$QAmerican Educational Research Association." ],
+        "publisher" : [ "Washington, DC American Educational Research Association" ],
+        "mms" : [ "990000794030107871" ],
+        "contributor" : [ "American Psychological Association.$$QAmerican Psychological Association.", "National Council on Measurement in Education.$$QNational Council on Measurement in Education.", "Joint Committee on Standards for Educational and Psychological Testing (U.S.)$$QJoint Committee on Standards for Educational and Psychological Testing (U.S.)" ],
+        "place" : [ "Washington, DC" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000079403" ],
+        "lds53" : [ "000079403" ],
+        "lds60" : [ "\"Prepared by the Joint Committee on Standards for Educational and Psychological Testing of the American Educational Research Association, the American Psychological Association, and the National Council on Mesurement in Education\"--T.p. verso.", "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990000794030107871" ],
+        "recordid" : [ "alma990000794030107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000079403-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "American Educational Research Association." ],
+        "date" : [ "1999", "2004" ],
+        "isbn" : [ "0935302255" ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "American Educational Research Association" ],
+        "oclcid" : [ "(ocolc)44174490" ],
+        "lccn" : [ "99066845" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Standards : for educational and psychological testing" ]
+      },
+      "sort" : {
+        "title" : [ "Standards : for educational and psychological testing /" ],
+        "author" : [ "American Educational Research Association." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990000794030107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0935302255,OCLC:,LCCN:99066845&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "lb#3051ǂ a693 1999",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "110",
+    "CALL_SOLR_GET_IDS_LIST" : "125",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "400",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 435,
+    "COMBINED_SEARCH_TIME" : 438,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    }, {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Educational Tests And Measurements Standards United States",
+      "count" : "1"
+    }, {
+      "value" : "Psychological Tests Standards United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Educational Research Association",
+      "count" : "1"
+    }, {
+      "value" : "American Psychological Association",
+      "count" : "1"
+    }, {
+      "value" : "Joint Committee On Standards For Educational And Psychological Testing U S",
+      "count" : "1"
+    }, {
+      "value" : "National Council On Measurement In Education",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

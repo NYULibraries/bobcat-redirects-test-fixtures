@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073377890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "rus" ],
+        "title" : [ "Ispovedʹ boevika : Otkrovenii͡a dobrovolʹt͡sa " ],
+        "subject" : [ "Ukraine Conflict, 2014-", "Ukraine Conflict, 2014-$$QUkraine Conflict, 2014- -- Personal narratives", "Mercenary troops -- Ukraine" ],
+        "format" : [ "115 pages : portraits, facsimiles, photographs ; 21 cm." ],
+        "identifier" : [ "$$CISBN$$V9785447440541;$$CISBN$$V5447440548;$$COCLC$$V(OCoLC)1201261319" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Dorovskikh, Bondo, author.$$QDorovskikh, Bondo", "Доровских, Бондо, author.$$QДоровских, Бондо" ],
+        "publisher" : [ "Place of publication not identified : Izdatelʹskie reshenii͡a, Po lit͡senzii Ridero ", "Place of publication not identified : Издательские решения, По лицензии Ridero " ],
+        "mms" : [ "990073377890107871" ],
+        "vertitle" : [ "Исповедь боевика : Откровения добровольца / Бондо Доровских." ],
+        "genre" : [ "Personal narratives" ],
+        "place" : [ "Place of publication not identified] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007337789" ],
+        "lds53" : [ "007337789" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990073377890107871" ],
+        "recordid" : [ "alma990073377890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007337789-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Dorovskikh" ],
+        "aufirst" : [ "Bondo" ],
+        "auinit" : [ "B" ],
+        "au" : [ "Dorovskikh, Bondo" ],
+        "creatorfull" : [ "$$NDorovskikh, Bondo$$LDorovskikh$$FBondo$$Rauthor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9785447440541", "5447440548" ],
+        "cop" : [ "Place of publication not identified" ],
+        "pub" : [ "Izdatelʹskie reshenii͡a, Po lit͡senzii Ridero" ],
+        "oclcid" : [ "(ocolc)1201261319" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ispovedʹ boevika : Otkrovenii͡a dobrovolʹt͡sa" ]
+      },
+      "sort" : {
+        "title" : [ "Ispovedʹ boevika : Otkrovenii͡a dobrovolʹt͡sa /" ],
+        "author" : [ "Dorovskikh, Bondo, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990073377890107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:5447440548,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dk\"508.852ǂ d67 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "7",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "302",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 330,
+    "COMBINED_SEARCH_TIME" : 332,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "rus",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mercenary Troops Ukraine",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Conflict 2014",
+      "count" : "1"
+    }, {
+      "value" : "Ukraine Conflict 2014 Personal Narratives",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dorovskikh Bondo",
+      "count" : "1"
+    }, {
+      "value" : "Доровских Бондо",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,273 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990047803770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Critical Theory : a Very Short Introduction." ],
+        "subject" : [ "Théorie critique", "Philosophie", "Sciences sociales", "critical theories (dialectical critiques)", "philosophy", "social sciences", "critical theory (sociological concept)", "Critical theory", "Philosophy", "Social sciences", "Kritische Theorie", "Frankfurtskolan", "Kritisk teori" ],
+        "format" : [ "1 online resource (145 pages)." ],
+        "identifier" : [ "$$CISBN$$V9780199830565;$$CISBN$$V0199830568;$$COCLC$$V(OCoLC)781370449;$$CISBN$$V9780199730070" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Bronner, Stephen Eric.$$QBronner, Stephen Eric." ],
+        "publisher" : [ "Oxford : Oxford University Press, USA" ],
+        "description" : [ "Critical Theory emerged in the 1920s from the work of the Frankfurt School, the circle of German-Jewish academics who sought to diagnose-and, if at all possible, cure-the ills of society, particularly fascism and capitalism. In this book, Stephen Eric Bronner provides sketches of leading representatives of the critical tradition (such as George Lukacs and Ernst Bloch, Theodor Adorno and Walter Benjamin, Herbert Marcuse and Jurgen Habermas) as well as many of its seminal texts and empirical investigations. This Very Short Introduction sheds light on the cluster of concepts and themes that set c." ],
+        "mms" : [ "990047803770107871" ],
+        "series" : [ "Very Short Introductions$$QVery Short Introductions", "Very short introductions.$$QVery short introductions." ],
+        "contents" : [ "Cover; Contents; List of illustrations; Introduction: what is critical theory?; 1 The Frankfurt School; 2 A matter of method; 3 Alienation and reification; 4 Enlightened illusions; 5 The utopian laboratory; 6 The happy consciousness; 7 The great refusal; 8 From resignation to renewal; Further reading; Index." ],
+        "relation" : [ "$$Cform$$VPrint version: Bronner, Stephen Eric. Critical Theory : A Very Short Introduction. Oxford : Oxford University Press, USA, ©2011$$QCritical Theory : A Very Short Introduction.$$Z990034351780107871" ],
+        "mesh" : [ "Philosophy", "Social Sciences" ],
+        "place" : [ "Oxford :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "oxfacad", "aleph004780377" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990047803770107871" ],
+        "recordid" : [ "alma990047803770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004780377-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bronner" ],
+        "aufirst" : [ "Stephen Eric." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Bronner, Stephen Eric." ],
+        "creatorfull" : [ "$$NBronner, Stephen Eric.$$LBronner$$FStephen Eric.$$Rauthor" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9780199830565", "0199830568", "9780199730070" ],
+        "notes" : [ "Includes bibliographical references (pages 117-121) and index." ],
+        "abstract" : [ "Critical Theory emerged in the 1920s from the work of the Frankfurt School, the circle of German-Jewish academics who sought to diagnose-and, if at all possible, cure-the ills of society, particularly fascism and capitalism. In this book, Stephen Eric Bronner provides sketches of leading representatives of the critical tradition (such as George Lukacs and Ernst Bloch, Theodor Adorno and Walter Benjamin, Herbert Marcuse and Jurgen Habermas) as well as many of its seminal texts and empirical investigations. This Very Short Introduction sheds light on the cluster of concepts and themes that set c." ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Oxford University Press, USA" ],
+        "oclcid" : [ "(ocolc)781370449" ],
+        "lccn" : [ "2010027472" ],
+        "seriestitle" : [ "Very Short Introductions" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Critical Theory : a Very Short Introduction." ]
+      },
+      "sort" : {
+        "title" : [ "Critical Theory : a Very Short Introduction." ],
+        "author" : [ "Bronner, Stephen Eric." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047803770107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047803770107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047803770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047803770107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990047803770107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0199830568,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hm\"480 b76 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "238",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "176",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "51",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "25",
+    "RETRIVE_FROM_DB_RELATIONS" : "69",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "77",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "99",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "603",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 643,
+    "COMBINED_SEARCH_TIME" : 645,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Critical Theories Dialectical Critiques",
+      "count" : "1"
+    }, {
+      "value" : "Critical Theory",
+      "count" : "1"
+    }, {
+      "value" : "Critical Theory Sociological Concept",
+      "count" : "1"
+    }, {
+      "value" : "Frankfurtskolan",
+      "count" : "1"
+    }, {
+      "value" : "Kritische Theorie",
+      "count" : "1"
+    }, {
+      "value" : "Kritisk Teori",
+      "count" : "1"
+    }, {
+      "value" : "Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Théorie Critique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bronner Stephen Eric",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

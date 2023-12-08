@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028670810107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Film literature index." ],
+        "subject" : [ "Motion pictures -- Periodicals$$QMotion pictures -- Periodicals -- Indexes", "Television -- Periodicals$$QTelevision -- Periodicals -- Indexes", "Video recordings -- Periodicals$$QVideo recordings -- Periodicals -- Indexes", "Cinema -- Recommended" ],
+        "format" : [ "32 v.: 22 cm." ],
+        "identifier" : [ "$$CLC$$V74642396;$$CISSN$$V0093-6758;$$COCLC$$V(OCoLC)1792681" ],
+        "creationdate" : [ "1973 - 2004" ],
+        "publisher" : [ "Ipswich, Mass., etc. EBSCO Pub. etc.", "v. 1-32; 1973-2004." ],
+        "description" : [ "The Film Literature Index (FLI) annually indexes 150 film and television periodicals from 30 countries cover-to-cover and 200 other periodicals selectively for articles on film and television. The periodicals range from the scholarly to the popular. More than 2,000 subject headings provide detailed analysis of the articles. The National Endowment for the Humanities awarded Indiana University a grant in 2002 to convert the print version of the Film Literature Index to electronic form. The FLI Online contains approximately 700,000 citations to articles, film reviews and book reviews published between 1976-2001." ],
+        "mms" : [ "990028670810107871" ],
+        "contributor" : [ "State University of New York at Albany.$$QState University of New York at Albany." ],
+        "addtitle" : [ "Also known as: FLI" ],
+        "frequency" : [ "Quarterly, with annual cumulations" ],
+        "genre" : [ "Indexes" ],
+        "relation" : [ "$$Cform$$VFilm literature index (Online)$$QFilm literature index (Online)", "$$Cform$$VFilm literature index.$$Z9995625755607871", "$$Clater_title$$VContinued by an online publication entitled: Film & television literature index with full text$$QFilm & television literature index with full text" ],
+        "place" : [ "Ipswich, Mass., etc.]" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002867081" ],
+        "lds53" : [ "002867081" ],
+        "lds60" : [ "\"Author-subject periodical index to the international literature of film.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028670810107871" ],
+        "recordid" : [ "alma990028670810107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002867081-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Film lit. index" ],
+        "addtitle" : [ "FLI" ],
+        "date" : [ "1973 - 2004" ],
+        "issn" : [ "0093-6758" ],
+        "abstract" : [ "The Film Literature Index (FLI) annually indexes 150 film and television periodicals from 30 countries cover-to-cover and 200 other periodicals selectively for articles on film and television. The periodicals range from the scholarly to the popular. More than 2,000 subject headings provide detailed analysis of the articles. The National Endowment for the Humanities awarded Indiana University a grant in 2002 to convert the print version of the Film Literature Index to electronic form. The FLI Online contains approximately 700,000 citations to articles, film reviews and book reviews published between 1976-2001." ],
+        "cop" : [ "Ipswich, Mass., [etc" ],
+        "pub" : [ "EBSCO Pub. [etc.]" ],
+        "oclcid" : [ "(ocolc)1792681" ],
+        "lccn" : [ "74642396" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Film literature index." ]
+      },
+      "sort" : {
+        "title" : [ "Film literature index." ],
+        "author" : [ "State University of New York at Albany." ],
+        "creationdate" : [ "1973" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028670810107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:74642396&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#5784 m9ǂf45",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "220",
+    "CALL_SOLR_GET_IDS_LIST" : "2921",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "38",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "3243",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 3267,
+    "COMBINED_SEARCH_TIME" : 3270,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1973",
+      "count" : "1"
+    }, {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinema Recommended",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Periodicals Indexes",
+      "count" : "1"
+    }, {
+      "value" : "Television Periodicals Indexes",
+      "count" : "1"
+    }, {
+      "value" : "Video Recordings Periodicals Indexes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "State University Of New York At Albany",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

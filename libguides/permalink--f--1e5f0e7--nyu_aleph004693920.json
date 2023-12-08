@@ -1,0 +1,205 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046939200107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Statistical methods in psychiatry research and SPSS " ],
+        "subject" : [ "SPSS (Computer file)", "Psychiatrie -- Recherche -- Méthodes statistiques", "MATHEMATICS -- Applied", "MATHEMATICS -- Probability & Statistics -- General", "Psychiatry -- Research -- Statistical methods" ],
+        "format" : [ "1 online resource : text file, PDF" ],
+        "identifier" : [ "$$CISBN$$V9781482253313;$$CISBN$$V1482253313;$$COCLC$$V(OCoLC)897560006;$$CISBN$$V9781771880350" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Reddy, M. Venkataswamy, author.$$QReddy, M. Venkataswamy" ],
+        "publisher" : [ "Waretown, NJ : Apple Academic Press, Inc. ; Boca Raton, FL : CRC Press" ],
+        "description" : [ "This book has been prepared to help psychiatrists expand their knowledge of statistical methods and fills the gaps in their applications as well as introduces data analysis software. The book emphasizes the classification of fundamental statistical methods in psychiatry research that are precise and simple. Professionals in the field of mental health and allied subjects without any mathematical background can easily understand all the relevant statistical methods and carry out the analysis and interpret the results in their respective fields without consulting a statistician." ],
+        "mms" : [ "990046939200107871" ],
+        "contents" : [ "1. Psychiatric research -- 2. Observational studies -- 3. Experimental studies -- 4. One-variable descriptive statistics -- 5. Mental health statistics -- 6. Probability and probability distributions -- 7. Sampling theory and methods -- 8. Basic elements of statistical inference -- 9. Parametric tests of significance -- 10. Experimental data analysis : ANOVA -- 11. Non-parametric tests of significance -- 12. Correlation analysis and regression analysis -- 13. Reliability analysis and validity analysis -- 14. Survival analysis and time series analysis -- 15. Multivariate statistical methods -- 16. Cluster analysis -- 17. Discriminant analysis -- 18. Factor analysis -- 19. Meta-analysis -- 20. Reporting the results -- 21. Statistical package for social sciences -- 22. Running data analysis using SPSS." ],
+        "relation" : [ "$$Cform$$VPrint version:", "$$Cform$$VStatistical methods in psychiatry research and SPSS$$Z9995709663907871" ],
+        "place" : [ "Waretown, NJ : Boca Raton, FL :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph004693920" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046939200107871" ],
+        "recordid" : [ "alma990046939200107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004693920-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Reddy" ],
+        "aufirst" : [ "M. Venkataswamy" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Reddy, M. Venkataswamy" ],
+        "creatorfull" : [ "$$NReddy, M. Venkataswamy$$LReddy$$FM. Venkataswamy$$Rauthor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781482253313", "1482253313", "9781771880350" ],
+        "notes" : [ "Includes bibliographical references (pages 301-302) and index." ],
+        "abstract" : [ "This book has been prepared to help psychiatrists expand their knowledge of statistical methods and fills the gaps in their applications as well as introduces data analysis software. The book emphasizes the classification of fundamental statistical methods in psychiatry research that are precise and simple. Professionals in the field of mental health and allied subjects without any mathematical background can easily understand all the relevant statistical methods and carry out the analysis and interpret the results in their respective fields without consulting a statistician." ],
+        "cop" : [ "Waretown, NJ" ],
+        "pub" : [ "Apple Academic Press, Inc." ],
+        "oclcid" : [ "(ocolc)897560006" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Statistical methods in psychiatry research and SPSS" ]
+      },
+      "sort" : {
+        "title" : [ "Statistical methods in psychiatry research and SPSS /" ],
+        "author" : [ "Reddy, M. Venkataswamy, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046939200107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1482253313,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"337ǂ r43 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "243",
+    "CALL_SOLR_GET_IDS_LIST" : "115",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "88",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "490",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 522,
+    "COMBINED_SEARCH_TIME" : 526,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mathematics Applied",
+      "count" : "1"
+    }, {
+      "value" : "Mathematics Probability Statistics General",
+      "count" : "1"
+    }, {
+      "value" : "Psychiatrie Recherche Méthodes Statistiques",
+      "count" : "1"
+    }, {
+      "value" : "Psychiatry Research Statistical Methods",
+      "count" : "1"
+    }, {
+      "value" : "Spss Computer File",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Reddy M Venkataswamy",
+      "count" : "1"
+    } ]
+  } ]
+}

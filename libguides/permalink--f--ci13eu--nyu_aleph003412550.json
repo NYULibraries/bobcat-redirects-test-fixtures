@@ -1,0 +1,270 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990034125500107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng;fre" ],
+        "title" : [ "Sleepy Hollow" ],
+        "subject" : [ "Irving, Washington, 1783-1859$$QIrving, Washington, 1783-1859 -- Film adaptations", "Ghost plays", "New York (State)$$QNew York (State) -- Drama" ],
+        "format" : [ "1 videodisc (105 min.) : sd., col. ; 4 3/4 in." ],
+        "identifier" : [ "$$CPUBNUM$$V32962;$$COCLC$$V(OCoLC)77521699" ],
+        "creationdate" : [ "2006" ],
+        "publisher" : [ "Hollywood, Calif. : Paramount Pictures" ],
+        "description" : [ "A New York magistrate orders Ichabod Crane to travel to the small town of Sleepy Hollow to investigate two murders. Crane is determined to apprehend the murderous Headless Horseman and prove him to be a flesh-and-blood mortal." ],
+        "mms" : [ "990034125500107871" ],
+        "contributor" : [ "Rudin, Scott, 1958-$$QRudin, Scott", "Burton, Tim, 1958-$$QBurton, Tim", "Yagher, Kevin.$$QYagher, Kevin.", "Walker, Andrew Kevin.$$QWalker, Andrew Kevin.", "Depp, Johnny.$$QDepp, Johnny.", "Ricci, Christina.$$QRicci, Christina.", "Richardson, Miranda.$$QRichardson, Miranda.", "Gambon, Michael.$$QGambon, Michael.", "Van Dien, Casper, 1968-$$QVan Dien, Casper", "Jones, Jeffrey, 1947-$$QJones, Jeffrey", "Elfman, Danny.$$QElfman, Danny.", "Irving, Washington, 1783-1859.$$QIrving, Washington", "Paramount Pictures Corporation.$$QParamount Pictures Corporation.", "Mandalay Pictures.$$QMandalay Pictures.", "American Zoetrope (Firm)$$QAmerican Zoetrope (Firm)" ],
+        "edition" : [ "Widescreen ed." ],
+        "genre" : [ "Film adaptations", "Drama", "Horror films", "Video recordings for the hearing impaired" ],
+        "relatedwork" : [ "Irving, Washington, 1783-1859. Legend of Sleepy Hollow.$$QIrving, Washington, 1783-1859. Legend of Sleepy Hollow." ],
+        "place" : [ "Hollywood, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003412550" ],
+        "lds53" : [ "003412550" ],
+        "lds60" : [ "Videodisc release of the 1999 motion picture.", "Based on the story by Washington Irving.", "Special features: trailers, \"Behind the legend\" featurette, cast and crew interviews, photo gallery, cast biographies, commentary by director Tim Burton." ],
+        "lds64" : [ "Director of photography, Emmanuel Lubezki; editor, Chris Lebenzon; music, Danny Elfman." ],
+        "lds65" : [ "Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon, Casper Van Dien, Jeffrey Jones." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990034125500107871" ],
+        "recordid" : [ "alma990034125500107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003412550-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rudin", "Burton", "Yagher", "Walker", "Depp", "Ricci", "Richardson", "Gambon", "VanDien", "Jones", "Elfman", "Irving" ],
+        "aufirst" : [ "Scott", "Tim", "Kevin.", "Andrew Kevin.", "Johnny.", "Christina.", "Miranda.", "Michael.", "Casper", "Jeffrey", "Danny.", "Washington" ],
+        "auinit" : [ "S", "T", "K", "A", "M", "C", "J", "D", "W" ],
+        "addau" : [ "Rudin, Scott", "Burton, Tim", "Yagher, Kevin.", "Walker, Andrew Kevin.", "Depp, Johnny.", "Ricci, Christina.", "Richardson, Miranda.", "Gambon, Michael.", "Van Dien, Casper", "Jones, Jeffrey", "Elfman, Danny.", "Irving, Washington" ],
+        "contributorfull" : [ "$$NRudin, Scott$$LRudin$$FScott$$Rcontributor", "$$NBurton, Tim$$Rcontributor", "$$NYagher, Kevin.$$Rcontributor", "$$NWalker, Andrew Kevin.$$Rcontributor", "$$NDepp, Johnny.$$Rcontributor", "$$NRicci, Christina.$$Rcontributor", "$$NRichardson, Miranda.$$Rcontributor", "$$NGambon, Michael.$$Rcontributor", "$$NVan Dien, Casper$$Rcontributor", "$$NJones, Jeffrey$$Rcontributor", "$$NElfman, Danny.$$Rcontributor", "$$NIrving, Washington$$Rcontributor" ],
+        "date" : [ "2006 - 1999", "2006" ],
+        "abstract" : [ "A New York magistrate orders Ichabod Crane to travel to the small town of Sleepy Hollow to investigate two murders. Crane is determined to apprehend the murderous Headless Horseman and prove him to be a flesh-and-blood mortal." ],
+        "cop" : [ "Hollywood, Calif" ],
+        "pub" : [ "Paramount Pictures" ],
+        "oclcid" : [ "(ocolc)77521699" ],
+        "upcid" : [ "097363296249", "097363296263" ],
+        "edition" : [ "Widescreen ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Sleepy Hollow" ]
+      },
+      "sort" : {
+        "title" : [ "Sleepy Hollow" ],
+        "author" : [ "Rudin, Scott, 1958-" ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990034125500107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0792164903,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1997ǂ s5827x 2006",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "10",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "285",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 318,
+    "COMBINED_SEARCH_TIME" : 320,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    }, {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ghost Plays",
+      "count" : "1"
+    }, {
+      "value" : "Irving Washington 1783 1859 Film Adaptations",
+      "count" : "1"
+    }, {
+      "value" : "New York State Drama",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Zoetrope Firm",
+      "count" : "1"
+    }, {
+      "value" : "Burton Tim",
+      "count" : "1"
+    }, {
+      "value" : "Depp Johnny",
+      "count" : "1"
+    }, {
+      "value" : "Elfman Danny",
+      "count" : "1"
+    }, {
+      "value" : "Gambon Michael",
+      "count" : "1"
+    }, {
+      "value" : "Irving Washington",
+      "count" : "1"
+    }, {
+      "value" : "Jones Jeffrey",
+      "count" : "1"
+    }, {
+      "value" : "Mandalay Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Paramount Pictures Corporation",
+      "count" : "1"
+    }, {
+      "value" : "Ricci Christina",
+      "count" : "1"
+    }, {
+      "value" : "Richardson Miranda",
+      "count" : "1"
+    }, {
+      "value" : "Rudin Scott",
+      "count" : "1"
+    }, {
+      "value" : "Van Dien Casper",
+      "count" : "1"
+    }, {
+      "value" : "Walker Andrew Kevin",
+      "count" : "1"
+    }, {
+      "value" : "Yagher Kevin",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163049100007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

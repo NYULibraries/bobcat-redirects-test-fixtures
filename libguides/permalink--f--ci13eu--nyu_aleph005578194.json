@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990055781940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The strategy and tactics of pricing : a guide to growing more profitably " ],
+        "subject" : [ "Prix -- Fixation", "BUSINESS & ECONOMICS -- Marketing -- General", "BUSINESS & ECONOMICS -- Industrial Management", "BUSINESS & ECONOMICS -- Management", "BUSINESS & ECONOMICS -- Management Science", "BUSINESS & ECONOMICS -- Organizational Behavior", "Price fixing", "Marketing -- Decision making", "Pricing" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781351969512;$$CISBN$$V135196951X;$$CISBN$$V9781351969505;$$CISBN$$V1351969501;$$CISBN$$V9781138227095;$$CISBN$$V1138227099;$$CISBN$$V9781292023236;$$CISBN$$V1292023236;$$CISBN$$V9780136106821;$$CISBN$$V013610682X;$$CISBN$$V9781315266220;$$CISBN$$V1315266229;$$CISBN$$V9781351969499;$$CISBN$$V1351969498;$$COCLC$$V(OCoLC)957464921;$$CISBN$$V9780136106814;$$CISBN$$V0136106811" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Nagle, Thomas T., 1951- author.$$QNagle, Thomas T." ],
+        "publisher" : [ "Abingdon, Oxon ; New York : Routledge, Taylor and Francis Group" ],
+        "mms" : [ "990055781940107871" ],
+        "contributor" : [ "Zale, Joseph, author.$$QZale, Joseph", "Hogan, John E. (College teacher), author.$$QHogan, John E." ],
+        "edition" : [ "Fifth edition." ],
+        "contents" : [ "Strategic pricing : coordinating the drivers of profitability -- Value creation : the source of pricing advantage -- Price structure : tactics for pricing differently across segments -- Price and value communication : strategies to influence willingness-to-pay -- Pricing policy : managing expectations to improve price realization -- Price level : setting the right price for sustainable profit -- Pricing over the product life cycle : adapting strategy in an evolving market -- Pricing strategy implemention : embedding strategic pricing in the organization -- Costs : how should they affect pricing decisions? -- Financial analysis : pricing for profit -- Competition : managing conflict thoughtfully -- Measurement of price sensitivity : research techniques to supplement judgment -- Ethics and the law : understanding the constraints on pricing." ],
+        "relation" : [ "$$Cform$$VPrint version: Nagle, Thomas T., 1951- Strategy and tactics of pricing. Fifth edition. Abingdon, Oxon ; New York : Routledge, Taylor and Francis Group, 2016$$QStrategy and tactics of pricing." ],
+        "place" : [ "Abingdon, Oxon ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph005578194" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990055781940107871" ],
+        "recordid" : [ "alma990055781940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005578194-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Nagle" ],
+        "aufirst" : [ "Thomas T." ],
+        "auinit" : [ "T" ],
+        "au" : [ "Nagle, Thomas T." ],
+        "addau" : [ "Zale, Joseph", "Hogan, John E." ],
+        "creatorfull" : [ "$$NNagle, Thomas T.$$LNagle$$FThomas T.$$Rauthor" ],
+        "contributorfull" : [ "$$NZale, Joseph$$LZale$$FJoseph$$Rcontributor", "$$NHogan, John E.$$Rcontributor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "9781351969512", "135196951X", "9781351969505", "1351969501", "9781138227095", "1138227099", "9781292023236", "1292023236", "9780136106821", "013610682X", "9781315266220", "1315266229", "9781351969499", "1351969498", "9780136106814", "0136106811" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Abingdon, Oxon ;" ],
+        "pub" : [ "Routledge, Taylor and Francis Group" ],
+        "oclcid" : [ "(ocolc)957464921" ],
+        "doi" : [ "10.4324/9781315266220" ],
+        "edition" : [ "Fifth edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The strategy and tactics of pricing : a guide to growing more profitably" ]
+      },
+      "sort" : {
+        "title" : [ "strategy and tactics of pricing : a guide to growing more profitably /" ],
+        "author" : [ "Nagle, Thomas T., 1951- author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990055781940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:135196951X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5416.5ǂ n34 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "53",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "235",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 268,
+    "COMBINED_SEARCH_TIME" : 271,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Marketing General",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Decision Making",
+      "count" : "1"
+    }, {
+      "value" : "Price Fixing",
+      "count" : "1"
+    }, {
+      "value" : "Pricing",
+      "count" : "1"
+    }, {
+      "value" : "Prix Fixation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hogan John E",
+      "count" : "1"
+    }, {
+      "value" : "Nagle Thomas T",
+      "count" : "1"
+    }, {
+      "value" : "Zale Joseph",
+      "count" : "1"
+    } ]
+  } ]
+}

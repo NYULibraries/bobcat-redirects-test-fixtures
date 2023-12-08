@@ -1,0 +1,244 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049369150107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Preparing to perform Shakespeare " ],
+        "subject" : [ "Shakespeare, William, 1564-1616 -- Dramatic production", "Shakespeare, William, 1564-1616", "Theater" ],
+        "format" : [ "1 online resource (1 streaming video (52 min.))." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)630570027" ],
+        "creationdate" : [ "©1979" ],
+        "publisher" : [ "Princeton, N.J. : Films for the Humanities" ],
+        "description" : [ "Members of the Royal Shakespeare Company present a workshop before a television studio audience to demonstrate how they rehearse and learn to perform Shakespeare's plays." ],
+        "mms" : [ "990049369150107871" ],
+        "contributor" : [ "Barton, John, 1928-2018.$$QBarton, John", "Hands, Terry.$$QHands, Terry.", "Howard, Alan.$$QHoward, Alan.", "Lapotaire, Jane.$$QLapotaire, Jane.", "McKellen, Ian.$$QMcKellen, Ian.", "Nunn, Trevor.$$QNunn, Trevor.", "Pennington, Michael.$$QPennington, Michael.", "Snell, Andrew.$$QSnell, Andrew.", "Stewart, Patrick, 1940-$$QStewart, Patrick", "Suchet, David.$$QSuchet, David.", "Walker, Peter.$$QWalker, Peter.", "Royal Shakespeare Company.$$QRoyal Shakespeare Company." ],
+        "addtitle" : [ "South Bank show (Television program)" ],
+        "series" : [ "Playing Shakespeare$$QPlaying Shakespeare", "Playing Shakespeare.$$QPlaying Shakespeare." ],
+        "genre" : [ "Online media", "Internet videos", "Vidéos sur Internet" ],
+        "mesh" : [ "Webcast" ],
+        "place" : [ "Princeton, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspowned", "aleph004936915" ],
+        "lds63" : [ "Access restricted to York University faculty, staff and students." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049369150107871" ],
+        "recordid" : [ "alma990049369150107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004936915-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Barton", "Hands", "Howard", "Lapotaire", "McKellen", "Nunn", "Pennington", "Snell", "Stewart", "Suchet", "Walker" ],
+        "aufirst" : [ "John", "Terry.", "Alan.", "Jane.", "Ian.", "Trevor.", "Michael.", "Andrew.", "Patrick", "David.", "Peter." ],
+        "auinit" : [ "J", "I", "T", "M", "A", "D", "P" ],
+        "addau" : [ "Barton, John", "Hands, Terry.", "Howard, Alan.", "Lapotaire, Jane.", "McKellen, Ian.", "Nunn, Trevor.", "Pennington, Michael.", "Snell, Andrew.", "Stewart, Patrick", "Suchet, David.", "Walker, Peter." ],
+        "contributorfull" : [ "$$NBarton, John$$LBarton$$FJohn$$Rcontributor", "$$NHands, Terry.$$Rcontributor", "$$NHoward, Alan.$$Rcontributor", "$$NLapotaire, Jane.$$Rcontributor", "$$NMcKellen, Ian.$$Rcontributor", "$$NNunn, Trevor.$$Rcontributor", "$$NPennington, Michael.$$Rcontributor", "$$NSnell, Andrew.$$Rcontributor", "$$NStewart, Patrick$$Rcontributor", "$$NSuchet, David.$$Rcontributor", "$$NWalker, Peter.$$Rcontributor" ],
+        "date" : [ "1979", "©1979" ],
+        "abstract" : [ "Members of the Royal Shakespeare Company present a workshop before a television studio audience to demonstrate how they rehearse and learn to perform Shakespeare's plays." ],
+        "cop" : [ "Princeton, N.J" ],
+        "pub" : [ "Films for the Humanities" ],
+        "oclcid" : [ "(ocolc)630570027" ],
+        "seriestitle" : [ "Playing Shakespeare" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Preparing to perform Shakespeare" ]
+      },
+      "sort" : {
+        "title" : [ "Preparing to perform Shakespeare /" ],
+        "author" : [ "Barton, John, 1928-2018." ],
+        "creationdate" : [ "1979" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049369150107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049369150107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:630570027,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ae 5ǂ a860 internet 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "50",
+    "CALL_SOLR_GET_IDS_LIST" : "67",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "26",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "70",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "230",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 256,
+    "COMBINED_SEARCH_TIME" : 260,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1979",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Dramatic Production",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barton John",
+      "count" : "1"
+    }, {
+      "value" : "Hands Terry",
+      "count" : "1"
+    }, {
+      "value" : "Howard Alan",
+      "count" : "1"
+    }, {
+      "value" : "Lapotaire Jane",
+      "count" : "1"
+    }, {
+      "value" : "Mckellen Ian",
+      "count" : "1"
+    }, {
+      "value" : "Nunn Trevor",
+      "count" : "1"
+    }, {
+      "value" : "Pennington Michael",
+      "count" : "1"
+    }, {
+      "value" : "Royal Shakespeare Company",
+      "count" : "1"
+    }, {
+      "value" : "Snell Andrew",
+      "count" : "1"
+    }, {
+      "value" : "Stewart Patrick",
+      "count" : "1"
+    }, {
+      "value" : "Suchet David",
+      "count" : "1"
+    }, {
+      "value" : "Walker Peter",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,239 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990053520940107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford dictionary of modern quotations " ],
+        "subject" : [ "Citations", "Citations anglaises", "quotations (texts)", "Dictionnaires", "Encyclopédies", "Ouvrages de référence", "Quotations, English", "Quotations", "verbale communicatie", "verbal communication", "woordenboeken", "dictionaries", "Dictionaries - Sociology", "Woordenboeken - Sociologie" ],
+        "format" : [ "1 online resource (xiii, 479 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780191727702;$$CISBN$$V0191727709;$$COCLC$$V(OCoLC)181158692;$$CISBN$$V9780199547463" ],
+        "creationdate" : [ "2007" ],
+        "publisher" : [ "Oxford : Oxford University Press" ],
+        "description" : [ "\"This up-to-date, comprehensive collection offers a vivid picture both of the world today, and of the landmark events and key voices leading to it since 1900. From Catherine Tate and the Simpsons to Mother Teresa and Winston Churchill, Modern Quotations charts watersheds such as two World Wars and 9/11 as well as the ebbs and flows of popular culture. The 5,000+ quotations from authors as diverse as Elizabeth Arden, Billy Connolly, Bertolt Brecht, Linda Evangelista, Eddie Izzard, Carl Sagan, William Shatner, and Desmond Tutu, combine the informative and the entertaining, and range from the deeply serious to the frivolous and surreal. New authors include Pamela Anderson, Kemal Ataturk, Pope Benedict XVI, David Cameron, Paula Ratcliffe, and Oprah Winfrey.\"--Title screen" ],
+        "mms" : [ "990053520940107871" ],
+        "contributor" : [ "Knowles, Elizabeth (Elizabeth M.)$$QKnowles, Elizabeth", "Oxford University Press.$$QOxford University Press." ],
+        "edition" : [ "3rd ed." ],
+        "genre" : [ "quotations (texts)", "dictionaries", "Quotations", "Dictionaries", "Citations", "Dictionnaires" ],
+        "relation" : [ "$$Cform$$VPrint version: Oxford dictionary of modern quotations. 3rd ed. Oxford ; New York : Oxford University Press, 2008$$QOxford dictionary of modern quotations." ],
+        "mesh" : [ "Dictionary" ],
+        "place" : [ "Oxford :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph005352094" ],
+        "lds60" : [ "Title from title screen (viewed on 11/14/2007)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990053520940107871" ],
+        "recordid" : [ "alma990053520940107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005352094-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Knowles" ],
+        "aufirst" : [ "Elizabeth" ],
+        "auinit" : [ "E" ],
+        "addau" : [ "Knowles, Elizabeth (Elizabeth M.)" ],
+        "contributorfull" : [ "$$NKnowles, Elizabeth (Elizabeth M.)$$LKnowles$$FElizabeth$$Rcontributor" ],
+        "date" : [ "2007" ],
+        "isbn" : [ "9780191727702", "0191727709", "9780199547463" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This up-to-date, comprehensive collection offers a vivid picture both of the world today, and of the landmark events and key voices leading to it since 1900. From Catherine Tate and the Simpsons to Mother Teresa and Winston Churchill, Modern Quotations charts watersheds such as two World Wars and 9/11 as well as the ebbs and flows of popular culture. The 5,000+ quotations from authors as diverse as Elizabeth Arden, Billy Connolly, Bertolt Brecht, Linda Evangelista, Eddie Izzard, Carl Sagan, William Shatner, and Desmond Tutu, combine the informative and the entertaining, and range from the deeply serious to the frivolous and surreal. New authors include Pamela Anderson, Kemal Ataturk, Pope Benedict XVI, David Cameron, Paula Ratcliffe, and Oprah Winfrey.\"--Title screen" ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)181158692" ],
+        "edition" : [ "3rd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford dictionary of modern quotations" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford dictionary of modern quotations /" ],
+        "author" : [ "Knowles, Elizabeth (Elizabeth M.)" ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053520940107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0191727709,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6081ǂ o895 2007",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "55",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "1",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "72",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "267",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 305,
+    "COMBINED_SEARCH_TIME" : 309,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Citations",
+      "count" : "1"
+    }, {
+      "value" : "Citations Anglaises",
+      "count" : "1"
+    }, {
+      "value" : "Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Dictionaries Sociology",
+      "count" : "1"
+    }, {
+      "value" : "Dictionnaires",
+      "count" : "1"
+    }, {
+      "value" : "Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Ouvrages De Référence",
+      "count" : "1"
+    }, {
+      "value" : "Quotations",
+      "count" : "1"
+    }, {
+      "value" : "Quotations English",
+      "count" : "1"
+    }, {
+      "value" : "Quotations Texts",
+      "count" : "1"
+    }, {
+      "value" : "Verbal Communication",
+      "count" : "1"
+    }, {
+      "value" : "Verbale Communicatie",
+      "count" : "1"
+    }, {
+      "value" : "Woordenboeken",
+      "count" : "1"
+    }, {
+      "value" : "Woordenboeken Sociologie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Knowles Elizabeth",
+      "count" : "1"
+    }, {
+      "value" : "Oxford University Press",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,285 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990062544460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Algorithms of oppression : how search engines reinforce racism " ],
+        "subject" : [ "Internet searching -- Social aspects", "Computer algorithms -- Social aspects", "Search engines -- Sociological aspects", "Recherche sur Internet -- Aspect social", "Algorithmes -- Aspect social", "Moteurs de recherche -- Aspect sociologique", "Erreurs systématiques", "LANGUAGE ARTS & DISCIPLINES -- Library & Information Science -- General", "Discrimination", "Algorithmus", "Diskriminierung", "Google", "Suchmaschine", "Computers and IT" ],
+        "format" : [ "1 online resource (xv, 229 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781479833641;$$CISBN$$V1479833649;$$COCLC$$V(OCoLC)1017736697;$$CISBN$$V9781479849949" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Noble, Safiya Umoja, author.$$QNoble, Safiya Umoja" ],
+        "publisher" : [ "New York : New York University Press" ],
+        "description" : [ "\"In Algorithms of Oppression, Safiya Umoja Noble challenges the idea that search engines like Google offer an equal playing field for all forms of ideas, identities, and activities. Data discrimination is a real social problem. Noble argues that the combination of private interests in promoting certain sites, along with the monopoly status of a relatively small number of Internet search engines, leads to a biased set of search algorithms that privilege whiteness and discriminate against people of color, especially women of color. Through an analysis of textual and media searches as well as extensive research on paid online advertising, Noble exposes a culture of racism and sexism in the way discoverability is created online. As search engines and their related companies grow in importance--operating as a source for email, a major vehicle for primary and secondary school learning, and beyond--understanding and reversing these disquieting trends and discriminatory practices are of utmost importance.\"--Provided by publisher" ],
+        "mms" : [ "990062544460107871" ],
+        "addtitle" : [ "How search engines reinforce racism" ],
+        "contents" : [ "Introduction: the power of algorithms -- A society, searching -- Searching for Black girls -- Searching for people and communities -- Searching for protections from search engines -- The future of knowledge in the public -- The future of information culture -- Conclusion: algorithms of oppression -- Epilogue." ],
+        "genre" : [ "Internet Resources" ],
+        "relation" : [ "$$Cform$$VPrint version: Noble, Safiya Umoja. Algorithms of oppression. New York : New York University Press, [2018]$$QAlgorithms of oppression.$$Z990059858040107871" ],
+        "mesh" : [ "Bias" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebcacls", "ebceb", "ebscoac", "pmusebp", "aleph006254446" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990062544460107871" ],
+        "recordid" : [ "alma990062544460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006254446-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Noble" ],
+        "aufirst" : [ "Safiya Umoja" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Noble, Safiya Umoja" ],
+        "creatorfull" : [ "$$NNoble, Safiya Umoja$$LNoble$$FSafiya Umoja$$Rauthor" ],
+        "addtitle" : [ "How search engines reinforce racism" ],
+        "date" : [ "2018 - 2018", "2018" ],
+        "isbn" : [ "9781479833641", "1479833649", "9781479849949" ],
+        "notes" : [ "Includes bibliographical references (pages 187-217) and index." ],
+        "abstract" : [ "\"In Algorithms of Oppression, Safiya Umoja Noble challenges the idea that search engines like Google offer an equal playing field for all forms of ideas, identities, and activities. Data discrimination is a real social problem. Noble argues that the combination of private interests in promoting certain sites, along with the monopoly status of a relatively small number of Internet search engines, leads to a biased set of search algorithms that privilege whiteness and discriminate against people of color, especially women of color. Through an analysis of textual and media searches as well as extensive research on paid online advertising, Noble exposes a culture of racism and sexism in the way discoverability is created online. As search engines and their related companies grow in importance--operating as a source for email, a major vehicle for primary and secondary school learning, and beyond--understanding and reversing these disquieting trends and discriminatory practices are of utmost importance.\"--Provided by publisher" ],
+        "cop" : [ "New York" ],
+        "pub" : [ "New York University Press" ],
+        "oclcid" : [ "(ocolc)1017736697" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Algorithms of oppression : how search engines reinforce racism" ]
+      },
+      "sort" : {
+        "title" : [ "Algorithms of oppression : how search engines reinforce racism /" ],
+        "author" : [ "Noble, Safiya Umoja, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062544460107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062544460107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062544460107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062544460107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990062544460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1479833649,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "za#4230ǂ n63 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "278",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "377",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "67",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "76",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "104",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "273",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "138",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "895",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 924,
+    "COMBINED_SEARCH_TIME" : 926,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Algorithmes Aspect Social",
+      "count" : "1"
+    }, {
+      "value" : "Algorithmus",
+      "count" : "1"
+    }, {
+      "value" : "Bias",
+      "count" : "1"
+    }, {
+      "value" : "Computer Algorithms Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Computers And It",
+      "count" : "1"
+    }, {
+      "value" : "Discrimination",
+      "count" : "1"
+    }, {
+      "value" : "Diskriminierung",
+      "count" : "1"
+    }, {
+      "value" : "Erreurs Systématiques",
+      "count" : "1"
+    }, {
+      "value" : "Google",
+      "count" : "1"
+    }, {
+      "value" : "Internet Searching Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Language Arts Disciplines Library Information Science General",
+      "count" : "1"
+    }, {
+      "value" : "Moteurs De Recherche Aspect Sociologique",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Sur Internet Aspect Social",
+      "count" : "1"
+    }, {
+      "value" : "Search Engines Sociological Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Suchmaschine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Noble Safiya Umoja",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

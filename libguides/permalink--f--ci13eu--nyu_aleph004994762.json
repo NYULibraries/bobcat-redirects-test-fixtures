@@ -1,0 +1,210 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049947620107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Professionalism across occupational therapy practice " ],
+        "subject" : [ "Ergothérapie", "occupational therapy", "MEDICAL -- Pharmacology", "Occupational therapy" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2017005575;$$CISBN$$V9781630910921;$$CISBN$$V1630910929;$$CISBN$$V9781630910938;$$CISBN$$V1630910937;$$COCLC$$V(OCoLC)971615478;$$CISBN$$V9781630910914" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "DeIuliis, Elizabeth D., 1981- author.$$QDeIuliis, Elizabeth D." ],
+        "publisher" : [ "Thorofare, NJ : SLACK Incorporated" ],
+        "description" : [ "Professionalism Across Occupational Therapy Practice by Dr. Elizabeth D. DeIuliis provides an overview of the wide-ranging knowledge, skills, and attitudes that encompass professionalism across the occupational therapy profession. While there is no formal endorsed definition of professionalism in occupational therapy practice, suggestions are provided to serve as a blueprint for use." ],
+        "mms" : [ "990049947620107871" ],
+        "contents" : [ "Definitions of professionalism / Elizabeth D. DeIuliis -- The evolution of professionalism / Elizabeth D. DeIuliis -- Interprofessional professionalism / Sarah E. Wallace, Elizabeth D. DeIuliis, and Leesa M. DiBartola -- The professionalization of the occupational therapy profession / Elizabeth D. DeIuliis -- Emphasis on professionalism in occupational therapy education / Elizabeth D. DeIuliis -- Socializing students to professional expectations in the classroom / Elizabeth D. DeIuliis -- What is fieldwork education? / Elizabeth D. DeIuliis -- Professionalism and fieldwork education / Elizabeth D. DeIuliis -- Clinical vignettes : common fieldwork professional behavior scenarios / Elizabeth D. DeIuliis -- The credentialing process / Elizabeth D. DeIuliis -- Marketing yourself as a professional / Elizabeth D. DeIuliis -- The job search and interview process / Elizabeth D. DeIuliis -- Continued competence and professional engagement / Elizabeth D. DeIuliis -- Professionalism and scholarly writing / Elizabeth D. DeIuliis -- Professionalism and ethics in research / Andrea D. Fairman." ],
+        "relation" : [ "$$Cform$$VPrint version: DeIuliis, Elizabeth D., 1981- Professionalism across occupational therapy practice. Thorofare, NJ : SLACK Incorporated, [2017]$$QProfessionalism across occupational therapy practice." ],
+        "mesh" : [ "Occupational Therapists", "Professionalism", "Occupational Therapy -- ethics", "Occupational Therapy" ],
+        "place" : [ "Thorofare, NJ :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004994762" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049947620107871" ],
+        "recordid" : [ "alma990049947620107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004994762-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "DeIuliis" ],
+        "aufirst" : [ "Elizabeth D." ],
+        "auinit" : [ "E" ],
+        "au" : [ "DeIuliis, Elizabeth D." ],
+        "creatorfull" : [ "$$NDeIuliis, Elizabeth D.$$LDeIuliis$$FElizabeth D.$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781630910921", "1630910929", "9781630910938", "1630910937", "9781630910914" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "Professionalism Across Occupational Therapy Practice by Dr. Elizabeth D. DeIuliis provides an overview of the wide-ranging knowledge, skills, and attitudes that encompass professionalism across the occupational therapy profession. While there is no formal endorsed definition of professionalism in occupational therapy practice, suggestions are provided to serve as a blueprint for use." ],
+        "cop" : [ "Thorofare, NJ" ],
+        "pub" : [ "SLACK Incorporated" ],
+        "oclcid" : [ "(ocolc)971615478" ],
+        "lccn" : [ "2017005575" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Professionalism across occupational therapy practice" ]
+      },
+      "sort" : {
+        "title" : [ "Professionalism across occupational therapy practice /" ],
+        "author" : [ "DeIuliis, Elizabeth D., 1981- author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049947620107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1630910929,OCLC:,LCCN:2017005575&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rm\"735ǂ d45 2017e 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "87",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "137",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "378",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 411,
+    "COMBINED_SEARCH_TIME" : 414,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Ergothérapie",
+      "count" : "1"
+    }, {
+      "value" : "Medical Pharmacology",
+      "count" : "1"
+    }, {
+      "value" : "Occupational Therapists",
+      "count" : "1"
+    }, {
+      "value" : "Occupational Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Occupational Therapy Ethics",
+      "count" : "1"
+    }, {
+      "value" : "Professionalism",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Deiuliis Elizabeth D",
+      "count" : "1"
+    } ]
+  } ]
+}

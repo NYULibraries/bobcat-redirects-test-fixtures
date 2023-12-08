@@ -1,0 +1,237 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990035013860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Flexible parametric survival analysis using Stata : beyond the Cox model " ],
+        "subject" : [ "Survival analysis (Biometry)", "Medical statistics", "Medicine -- Research -- Statistical methods", "Stata", "Mathematical statistics -- Data processing", "Biometry", "Statistics" ],
+        "format" : [ "xvi, 347 p. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2011921921;$$CISBN$$V9781597180795 (pbk.);$$CISBN$$V1597180793 (pbk.);$$COCLC$$V(OCoLC)707965934" ],
+        "creationdate" : [ "2011" ],
+        "creator" : [ "Royston, Patrick.$$QRoyston, Patrick." ],
+        "publisher" : [ "College Station, Tex. : Stata Press" ],
+        "mms" : [ "990035013860107871" ],
+        "contributor" : [ "Lambert, Paul C.$$QLambert, Paul C." ],
+        "addtitle" : [ "Survival analysis using Stata", "Cox model" ],
+        "edition" : [ "1st ed." ],
+        "place" : [ "College Station, Tex. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003501386" ],
+        "lds53" : [ "003501386" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990035013860107871" ],
+        "recordid" : [ "alma990035013860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003501386-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Royston" ],
+        "aufirst" : [ "Patrick." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Royston, Patrick." ],
+        "addau" : [ "Lambert, Paul C." ],
+        "creatorfull" : [ "$$NRoyston, Patrick.$$LRoyston$$FPatrick.$$Rauthor" ],
+        "contributorfull" : [ "$$NLambert, Paul C.$$LLambert$$FPaul C.$$Rcontributor" ],
+        "addtitle" : [ "Survival analysis using Stata", "Cox model" ],
+        "date" : [ "2011" ],
+        "isbn" : [ "9781597180795", "1597180793" ],
+        "notes" : [ "Includes bibliographical references (p. [331]-339) and indexes." ],
+        "cop" : [ "College Station, Tex" ],
+        "pub" : [ "Stata Press" ],
+        "oclcid" : [ "(ocolc)707965934" ],
+        "lccn" : [ "2011921921" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Flexible parametric survival analysis using Stata : beyond the Cox model" ]
+      },
+      "sort" : {
+        "title" : [ "Flexible parametric survival analysis using Stata : beyond the Cox model /" ],
+        "author" : [ "Royston, Patrick." ],
+        "creationdate" : [ "2011" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990035013860107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1597180793,OCLC:,LCCN:2011921921&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "r\"853 s7ǂqa276.4ǂr697 2011",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "294",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 368,
+    "COMBINED_SEARCH_TIME" : 372,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biometry",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Medical Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Medicine Research Statistical Methods",
+      "count" : "1"
+    }, {
+      "value" : "Stata",
+      "count" : "1"
+    }, {
+      "value" : "Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Survival Analysis Biometry",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lambert Paul C",
+      "count" : "1"
+    }, {
+      "value" : "Royston Patrick",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

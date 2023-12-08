@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990036478070107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng;ger;fre" ],
+        "title" : [ "The complete costume history : from ancient times to the 19th century = Vollständige kostümgeschichte : vom altertum bis zum 19. jarhundert = Le costume historique : du monde antique au XIXe siècle " ],
+        "subject" : [ "Costume -- History$$QCostume -- History -- Pictorial works", "Clothing and dress -- History$$QClothing and dress -- History -- Pictorial works" ],
+        "format" : [ "2 v. : ill. ; 33 cm." ],
+        "identifier" : [ "$$CISBN$$V9783836531078;$$CISBN$$V3836531070;$$COCLC$$V(OCoLC)795780332" ],
+        "creationdate" : [ "c2012" ],
+        "creator" : [ "Racinet, A. (Auguste), 1825-1893.$$QRacinet, A." ],
+        "publisher" : [ "Köln : Taschen" ],
+        "mms" : [ "990036478070107871" ],
+        "addtitle" : [ "Vollständige kostümgeschichte", "Costume historique" ],
+        "contents" : [ "v. 1. The ancient world = Altertum = Le monde antique -- The 19th century beyond the borders of Euorpe = 19. Jahrhundert aussereuropäische Zivilisationen = XIXe siècle, Le monde en dehors de l'Europe -- Europe 400-1800 = Europa 400-1800 = L'Europe 400-1800 -- Traditional costume till the late 19th century = Traditionelle Kostüme bis zum Ende des 19. Jahrhunderts = Costumes traditionnels jusqu'à la fin du XIXe siècle -- Patterns and templates = Schnittmuster und Modelle = Coupes et patrons -- v. 2. Commentaries = Erläuterungen = Commentaires." ],
+        "genre" : [ "Pictorial works" ],
+        "unititle" : [ "Costume historique. Polyglot" ],
+        "includes" : [ "Racinet, A. (Auguste), 1825-1893. Costume historique. Polyglot$$QRacinet, A. (Auguste), 1825-1893. Costume historique. Polyglot" ],
+        "place" : [ "Köln :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003647807" ],
+        "lds53" : [ "003647807" ],
+        "lds60" : [ "\"This reprint of Auguste Recinet's Le costume historique of 1888 is based on a copy of the possession of Michael Whiteway in London and was made possible by the kind permission of the owner\"--T.p. verso of v. 1.", "Vol. 2 includes an essay by Françoise Tétart-Vittu: \"Auguste Racinet's Le costume historique : a monumental 19th-century achievement = Auguste Racinets Le costume historique : ein Monumentalwerk des 19. Jahrhunderts = Le costume historique d'Auguste Racinet : un monument du XIXe siecle.\"", "Issued in slipcase.", "\"All plates in colour / Sämtliche Farbtafeln / Les planches completes en couleurs\"--T.p. of v. 1." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990036478070107871" ],
+        "recordid" : [ "alma990036478070107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003647807-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Racinet" ],
+        "aufirst" : [ "A." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Racinet, A. (Auguste)" ],
+        "creatorfull" : [ "$$NRacinet, A. (Auguste)$$LRacinet$$FA.$$Rauthor" ],
+        "addtitle" : [ "Vollständige kostümgeschichte", "Costume historique" ],
+        "date" : [ "2012", "c2012" ],
+        "isbn" : [ "9783836531078", "3836531070" ],
+        "notes" : [ "Includes bibliographical references (p. 239, v. 2)." ],
+        "cop" : [ "Köln" ],
+        "pub" : [ "Taschen" ],
+        "oclcid" : [ "(ocolc)795780332" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The complete costume history : from ancient times to the 19th century = Vollständige kostümgeschichte : vom altertum bis zum 19. jarhundert = Le costume historique : du monde antique au XIXe siècle" ]
+      },
+      "sort" : {
+        "title" : [ "complete costume history : from ancient times to the 19th century = Vollständige kostümgeschichte : vom altertum bis zum 19. jarhundert = Le costume historique : du monde antique au XIXe siècle /" ],
+        "author" : [ "Racinet, A. (Auguste), 1825-1893." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990036478070107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:3836531070,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"510ǂ r3313 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "50",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "46",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "121",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "342",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 380,
+    "COMBINED_SEARCH_TIME" : 382,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "ger",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing And Dress History Pictorial Works",
+      "count" : "1"
+    }, {
+      "value" : "Costume History Pictorial Works",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Racinet A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

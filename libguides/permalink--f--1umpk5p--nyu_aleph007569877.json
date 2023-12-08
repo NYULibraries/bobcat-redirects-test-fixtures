@@ -1,0 +1,225 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075698770107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Qualitative research in marketing and management : doing interpretive research projects " ],
+        "subject" : [ "Marketing -- Recherche", "Consommateurs -- Recherche", "Recherche qualitative", "BUSINESS & ECONOMICS / General", "BUSINESS & ECONOMICS / Management", "BUSINESS & ECONOMICS / Marketing / Research", "Qualitative research", "Consumers -- Research", "Management -- Research", "Marketing research" ],
+        "format" : [ "1 online resource (x, 266 pages)" ],
+        "identifier" : [ "$$CLC$$V2019042883;$$CISBN$$V9780429446801;$$CISBN$$V0429446802;$$CISBN$$V9780429822803;$$CISBN$$V0429822804;$$CISBN$$V9780429822797;$$CISBN$$V0429822790;$$CISBN$$V9780429822780;$$CISBN$$V0429822782;$$COCLC$$V(OCoLC)1121444251;$$CISBN$$V9781138332195" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Hackley, Christopher E., author.$$QHackley, Christopher E." ],
+        "publisher" : [ "Abingdon, Oxon ; New York, NY : Routledge" ],
+        "description" : [ "\"This is a practical and accessible, yet sophisticated introduction to interpretive methods for doing qualitative research projects and dissertations. Bringing together concepts of qualitative research from ethnography, phenomenology, critical discourse analysis, semiotics, literary analysis, postmodernism and poststructuralism, this textbook offers an accessible and comprehensive introduction to the subject. Utilising a uniquely pragmatic approach, it bridges the gap between advanced, specialised books on research traditions with more general introductory business research books. This new edition has been fully updated to include new examples, explorations of the field, and an improved pedagogy with better exposition of key issues and concepts, as well as more schematics and diagrams to aid understanding. The first half of the book considers the practicalities of research and writing a research project, including the craft of academic writing, the critical literature review, the role of the independent research project as part of university courses, suggested projected structures, standards of academic scholarship, and the main techniques for gathering qualitative data. The book's second half deals with abstract concepts and advanced theory by looking at key theoretical traditions that guide the interpretation of qualitative data. It is perfect for advanced undergraduate and postgraduate students of marketing, management, consumer behaviour and research methods. It will also be useful as a primer for practitioners in qualitative research\"-- Provided by publisher." ],
+        "mms" : [ "990075698770107871" ],
+        "edition" : [ "Second edition." ],
+        "relation" : [ "$$Cform$$VPrint version: Hackley, Christopher E.. Qualitative research in marketing and management Second Edition. New York : Routledge, 2020.$$QQualitative research in marketing and management" ],
+        "unititle" : [ "Doing research projects in marketing, management and consumer research." ],
+        "includes" : [ "Hackley, Christopher E., Doing research projects in marketing, management and consumer research.$$QHackley, Christopher E., Doing research projects in marketing, management and consumer research." ],
+        "place" : [ "Abingdon, Oxon ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph007569877" ],
+        "lds60" : [ "Revised edition of the author's Doing research projects in marketing, management and consumer research, 2003." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075698770107871" ],
+        "recordid" : [ "alma990075698770107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007569877-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hackley" ],
+        "aufirst" : [ "Christopher E." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Hackley, Christopher E." ],
+        "creatorfull" : [ "$$NHackley, Christopher E.$$LHackley$$FChristopher E.$$Rauthor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9780429446801", "0429446802", "9780429822803", "0429822804", "9780429822797", "0429822790", "9780429822780", "0429822782", "9781138332195" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This is a practical and accessible, yet sophisticated introduction to interpretive methods for doing qualitative research projects and dissertations. Bringing together concepts of qualitative research from ethnography, phenomenology, critical discourse analysis, semiotics, literary analysis, postmodernism and poststructuralism, this textbook offers an accessible and comprehensive introduction to the subject. Utilising a uniquely pragmatic approach, it bridges the gap between advanced, specialised books on research traditions with more general introductory business research books. This new edition has been fully updated to include new examples, explorations of the field, and an improved pedagogy with better exposition of key issues and concepts, as well as more schematics and diagrams to aid understanding. The first half of the book considers the practicalities of research and writing a research project, including the craft of academic writing, the critical literature review, the role of the independent research project as part of university courses, suggested projected structures, standards of academic scholarship, and the main techniques for gathering qualitative data. The book's second half deals with abstract concepts and advanced theory by looking at key theoretical traditions that guide the interpretation of qualitative data. It is perfect for advanced undergraduate and postgraduate students of marketing, management, consumer behaviour and research methods. It will also be useful as a primer for practitioners in qualitative research\"-- Provided by publisher." ],
+        "cop" : [ "Abingdon, Oxon ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)1121444251" ],
+        "lccn" : [ "2019042883" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Qualitative research in marketing and management : doing interpretive research projects" ]
+      },
+      "sort" : {
+        "title" : [ "Qualitative research in marketing and management : doing interpretive research projects /" ],
+        "author" : [ "Hackley, Christopher E., author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075698770107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0429446802,OCLC:,LCCN:2019042883&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4ǂ h28 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "101",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "318",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 345,
+    "COMBINED_SEARCH_TIME" : 350,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics General",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Marketing Research",
+      "count" : "1"
+    }, {
+      "value" : "Consommateurs Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Consumers Research",
+      "count" : "1"
+    }, {
+      "value" : "Management Research",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Marketing Research",
+      "count" : "1"
+    }, {
+      "value" : "Qualitative Research",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Qualitative",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hackley Christopher E",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,242 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616158207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Design issues." ],
+        "subject" : [ "Design$$QDesign -- Periodicals", "Architectural design$$QArchitectural design -- Periodicals", "Industrial design$$QIndustrial design -- Periodicals", "Design architectural$$QDesign architectural -- Périodiques", "Design$$QDesign -- Périodiques", "Sztuka użytkowa", "Architecture", "Visual Arts", "Architectural design", "Design", "Industrial design" ],
+        "identifier" : [ "$$CLC$$V   00213665;$$CISSN$$V1531-4790;$$COCLC$$V(OCoLC)44910652;$$CISSN$$V0747-9360" ],
+        "creationdate" : [ "1984-" ],
+        "publisher" : [ "Chicago : University of Illinois at Chicago", "Vol. 1, no. 1 (spring 1984)-" ],
+        "mms" : [ "9995616158207871" ],
+        "contributor" : [ "University of Illinois at Chicago. School of Art and Design.$$QUniversity of Illinois at Chicago. School of Art and Design.", "Carnegie Mellon University. Department of Design.$$QCarnegie Mellon University. Department of Design.", "Carnegie Mellon University. School of Design.$$QCarnegie Mellon University. School of Design." ],
+        "frequency" : [ "Quarterly, 2001-" ],
+        "genre" : [ "Périodiques", "Czasopismo o sztuce", "Periodicals" ],
+        "relation" : [ "$$Cform$$VLink to related record$$Z990028911860107871" ],
+        "place" : [ "Chicago :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925542205" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Title from title screen (JSTOR, viewed Sept. 14, 2005).", "Imprint varies; published: Cambridge, Mass. : MIT Press, fall 1998-" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616158207871" ],
+        "recordid" : [ "alma9995616158207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925542205" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "DESIGN ISSUES A JOURNAL OF HISTORY THEORY AND CRITICISM", "DES ISSUES", "Des. issues (Online)" ],
+        "date" : [ "1984", "1984-" ],
+        "issn" : [ "1531-4790", "0747-9360" ],
+        "cop" : [ "Chicago" ],
+        "pub" : [ "University of Illinois at Chicago" ],
+        "oclcid" : [ "(ocolc)44910652" ],
+        "lccn" : [ "00213665" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Design issues." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Design issues." ],
+        "author" : [ "University of Illinois at Chicago. School of Art and Design." ],
+        "creationdate" : [ "1984" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-E" ],
+      "serviceMode" : [ "Viewit" ],
+      "availability" : [ "not_restricted" ],
+      "availabilityLinks" : null,
+      "availabilityLinksUrl" : null,
+      "displayedAvailability" : "Not available",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616158207871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616158207871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616158207871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:00213665&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "nk#1160",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "106",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "205",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "12",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "176",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "68",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "461",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 486,
+    "COMBINED_SEARCH_TIME" : 489,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1984",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architectural Design",
+      "count" : "1"
+    }, {
+      "value" : "Architectural Design Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Design",
+      "count" : "1"
+    }, {
+      "value" : "Design Architectural Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Design Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Design Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Industrial Design",
+      "count" : "1"
+    }, {
+      "value" : "Industrial Design Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Sztuka Użytkowa",
+      "count" : "1"
+    }, {
+      "value" : "Visual Arts",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carnegie Mellon University Department Of Design",
+      "count" : "1"
+    }, {
+      "value" : "Carnegie Mellon University School Of Design",
+      "count" : "1"
+    }, {
+      "value" : "University Of Illinois At Chicago School Of Art And Design",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

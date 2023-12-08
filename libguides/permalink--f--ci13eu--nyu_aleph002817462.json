@@ -1,0 +1,213 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028174620107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "spa" ],
+        "title" : [ "Masas (Partido Obrero Revolucionario, Bolivia)" ],
+        "subject" : [ "Bolivia -- Politics and government -- 1952-1982$$QBolivia -- Politics and government -- 1952-1982 -- Periodicals", "National liberation movements -- Bolivia$$QNational liberation movements -- Bolivia -- Periodicals", "Socialism -- Latin America$$QSocialism -- Latin America -- Periodicals", "Socialism -- Bolivia$$QSocialism -- Bolivia -- Periodicals", "Working class -- Bolivia$$QWorking class -- Bolivia -- Periodicals", "Partido Obrero Revolucionario (Bolivia)$$QPartido Obrero Revolucionario (Bolivia) -- Periodicals" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)269250619" ],
+        "creationdate" : [ "27 cm" ],
+        "publisher" : [ "s.l. : ill. " ],
+        "mms" : [ "990028174620107871" ],
+        "contributor" : [ "Partido Obrero Revolucionario (Bolivia)$$QPartido Obrero Revolucionario (Bolivia)" ],
+        "frequency" : [ "Monthly" ],
+        "genre" : [ "Periodicals" ],
+        "unititle" : [ "Masas (Partido Obrero Revolucionario, Bolivia)" ],
+        "place" : [ "s.l.] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002817462" ],
+        "lds53" : [ "002817462" ],
+        "lds60" : [ "Description based on: No. 401 (Oct. 1971); title from cover." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028174620107871" ],
+        "recordid" : [ "alma990028174620107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002817462-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "19??", "27 cm" ],
+        "cop" : [ "s.l" ],
+        "pub" : [ "ill." ],
+        "oclcid" : [ "(ocolc)269250619" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Masas (Partido Obrero Revolucionario, Bolivia)" ]
+      },
+      "sort" : {
+        "title" : [ "Masas (Partido Obrero Revolucionario, Bolivia)" ],
+        "author" : [ "Partido Obrero Revolucionario (Bolivia)" ],
+        "creationdate" : [ "1900" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028174620107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:269250619,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "000000000005/000000000007/000000000087ct",
+        "callNumberBrowseField" : "LOCAL_CL_09X"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "41",
+    "CALL_SOLR_GET_IDS_LIST" : "112",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "20",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "126",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "327",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 359,
+    "COMBINED_SEARCH_TIME" : 363,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "spa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bolivia Politics And Government 1952 1982 Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "National Liberation Movements Bolivia Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Partido Obrero Revolucionario Bolivia Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Socialism Bolivia Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Socialism Latin America Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Working Class Bolivia Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Partido Obrero Revolucionario Bolivia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053220007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

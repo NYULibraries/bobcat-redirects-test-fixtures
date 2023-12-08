@@ -1,0 +1,228 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990010803830107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Reference sources in history : an introductory guide " ],
+        "subject" : [ "History$$QHistory -- Bibliography" ],
+        "format" : [ "xxv, 334 p. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V2003025558;$$CISBN$$V0874368839 (hardcover : alk. paper);$$COCLC$$V(OCoLC)53824081" ],
+        "creationdate" : [ "c2004" ],
+        "creator" : [ "Fritze, Ronald H., 1951-$$QFritze, Ronald H." ],
+        "publisher" : [ "Santa Barbara, Calif. : ABC-CLIO" ],
+        "mms" : [ "990010803830107871" ],
+        "contributor" : [ "Coutts, Brian E.$$QCoutts, Brian E.", "Vyhnanek, Louis Andrew.$$QVyhnanek, Louis Andrew." ],
+        "addtitle" : [ "Ronald H. Fritze, Brian E. Coutts, Louis A. Vyhnanek ; with the assistance of Walter Bell and Jimmy Bryant" ],
+        "edition" : [ "2nd ed." ],
+        "genre" : [ "Bibliography" ],
+        "place" : [ "Santa Barbara, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001080383" ],
+        "lds53" : [ "001080383" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990010803830107871" ],
+        "recordid" : [ "alma990010803830107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001080383-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Fritze" ],
+        "aufirst" : [ "Ronald H." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Fritze, Ronald H." ],
+        "addau" : [ "Coutts, Brian E.", "Vyhnanek, Louis Andrew." ],
+        "creatorfull" : [ "$$NFritze, Ronald H.$$LFritze$$FRonald H.$$Rauthor" ],
+        "contributorfull" : [ "$$NCoutts, Brian E.$$LCoutts$$FBrian E.$$Rcontributor", "$$NVyhnanek, Louis Andrew.$$Rcontributor" ],
+        "addtitle" : [ "Ronald H. Fritze, Brian E. Coutts, Louis A. Vyhnanek ; with the assistance of Walter Bell and Jimmy Bryant" ],
+        "date" : [ "2004", "c2004" ],
+        "isbn" : [ "0874368839" ],
+        "cop" : [ "Santa Barbara, Calif" ],
+        "pub" : [ "ABC-CLIO" ],
+        "oclcid" : [ "(ocolc)53824081" ],
+        "lccn" : [ "2003025558" ],
+        "edition" : [ "2nd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Reference sources in history : an introductory guide" ]
+      },
+      "sort" : {
+        "title" : [ "Reference sources in history : an introductory guide /" ],
+        "author" : [ "Fritze, Ronald H., 1951-" ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990010803830107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0874368839,OCLC:,LCCN:2003025558&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      }, {
+        "@id" : ":_1",
+        "linkType" : "addlink",
+        "linkURL" : "http://www.loc.gov/catdir/toc/ecip0411/2003025558.html",
+        "displayLabel" : "Table of contents"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#6201ǂd20ǂ f72 2004",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "182",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "68",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "56",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "415",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 442,
+    "COMBINED_SEARCH_TIME" : 445,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "History Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coutts Brian E",
+      "count" : "1"
+    }, {
+      "value" : "Fritze Ronald H",
+      "count" : "1"
+    }, {
+      "value" : "Vyhnanek Louis Andrew",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

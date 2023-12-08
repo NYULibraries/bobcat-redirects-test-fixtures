@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074836920107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "R in action : data analysis and graphics with R " ],
+        "subject" : [ "R (Computer program language)", "Statistics -- Data processing", "R$$QR", "Datenanalyse", "Statistik", "Statistiek", "Wiskundige methoden", "R (computerprogramma)" ],
+        "format" : [ "xxviii, 579 pages : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2015458096;$$CISBN$$V9781617291388;$$CISBN$$V1617291382;$$COCLC$$V(OCoLC)858312494;$$CNDC$$V417" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Kabacoff, Robert, author.$$QKabacoff, Robert" ],
+        "publisher" : [ "Shelter Island : Manning" ],
+        "description" : [ "R in Action, Second Edition presents both the R language and the examples that make it so useful for business developers. Focusing on practical solutions, the book offers a crash course in statistics and covers elegant methods for dealing with messy and incomplete data that are difficult to analyze using traditional methods. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on time series analysis, cluster analysis, and classification methodologies, including decision trees, random forests, and support vector machines." ],
+        "mms" : [ "990074836920107871" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "Getting started -- Basic methods -- Intermediate methods -- Advanced methods -- Expanding your skills." ],
+        "relation" : [ "$$Cform$$VR in action : data analysis and graphics with R$$Z990055742920107871" ],
+        "place" : [ "Shelter Island :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007483692" ],
+        "lds53" : [ "007483692" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074836920107871" ],
+        "recordid" : [ "alma990074836920107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007483692-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kabacoff" ],
+        "aufirst" : [ "Robert" ],
+        "auinit" : [ "R" ],
+        "au" : [ "Kabacoff, Robert" ],
+        "creatorfull" : [ "$$NKabacoff, Robert$$LKabacoff$$FRobert$$Rauthor" ],
+        "date" : [ "2015 - 2015", "2015" ],
+        "isbn" : [ "9781617291388", "1617291382" ],
+        "notes" : [ "Includes bibliographical references (pages 558-561) and index." ],
+        "abstract" : [ "R in Action, Second Edition presents both the R language and the examples that make it so useful for business developers. Focusing on practical solutions, the book offers a crash course in statistics and covers elegant methods for dealing with messy and incomplete data that are difficult to analyze using traditional methods. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on time series analysis, cluster analysis, and classification methodologies, including decision trees, random forests, and support vector machines." ],
+        "cop" : [ "Shelter Island" ],
+        "pub" : [ "Manning" ],
+        "oclcid" : [ "(ocolc)858312494" ],
+        "lccn" : [ "2015458096" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "R in action : data analysis and graphics with R" ]
+      },
+      "sort" : {
+        "title" : [ "R in action : data analysis and graphics with R /" ],
+        "author" : [ "Kabacoff, Robert, author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074836920107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1617291382,OCLC:,LCCN:2015458096&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"276.45 r3ǂk33 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "212",
+    "CALL_SOLR_GET_IDS_LIST" : "88",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "449",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 475,
+    "COMBINED_SEARCH_TIME" : 476,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Datenanalyse",
+      "count" : "1"
+    }, {
+      "value" : "R",
+      "count" : "1"
+    }, {
+      "value" : "R Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "R Computerprogramma",
+      "count" : "1"
+    }, {
+      "value" : "Statistics Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Statistiek",
+      "count" : "1"
+    }, {
+      "value" : "Statistik",
+      "count" : "1"
+    }, {
+      "value" : "Wiskundige Methoden",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Kabacoff Robert",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163051130007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,266 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990057818190107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Appalachian elegy : poetry and place " ],
+        "subject" : [ "hooks, bell, 1952-2021 -- Childhood and youth$$Qhooks, bell, 1952-2021 -- Childhood and youth -- Poetry", "hooks, bell, 1952-2021", "Appalachian Region$$QAppalachian Region -- Poetry", "Kentucky$$QKentucky -- Poetry", "Kentucky$$QKentucky -- Poésie", "POETRY -- American -- General", "Childhood and youth of a person", "Appalachian Region", "Kentucky" ],
+        "format" : [ "1 online resource.", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780813136707;$$CISBN$$V0813136709;$$CISBN$$V9780813140766;$$CISBN$$V0813140765;$$COCLC$$V(OCoLC)806034371;$$CISBN$$V9780813136691" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "hooks, bell, 1952-2021, author.$$Qhooks, bell" ],
+        "publisher" : [ "Lexington, Kentucky : University Press of Kentucky" ],
+        "description" : [ "A collection of poems centered around life in Appalachia addresses topics ranging from the marginalization of the region's people to the environmental degradation it has endured throughout history.", "Author, activist, feminist, teacher, and artist, bell hooks is celebrated as one of the nation's leading intellectuals. Born in Hopkinsville, Kentucky, hooks drew her unique pseudonym from the name of her grandmother, an intelligent and strong-willed African American woman who inspired her to stand up against a dominating and repressive society. Her poetry, novels, memoirs, and children's books reflect her Appalachian upbringing and feature her struggles with racially integrated schools and unwelcome authority figures. One of Utne Reader's \"100 Visionaries Who Can Change Your Life,\" hooks has won wide acclaim from critics and readers alike." ],
+        "mms" : [ "990057818190107871" ],
+        "series" : [ "Kentucky voices$$QKentucky voices", "Kentucky voices.$$QKentucky voices." ],
+        "contents" : [ "Front Cover; Praise for Appalachian Elegy; Title Page; Copyright Page; Contents; Introduction; 1. hear them cry; 2. such then is beauty; 3. night moves; 4. earth works; 5. small horses ride me; 6. listen little sister; 7. again and again; 8. snow-covered earth; 9. autumn ending; 10. here and there; 11. no crops grow; 12. mud sliding down; 13. wingspan side; 14. hard rain; 15. pink and white oleander; 16. go high up; 17. straight ahead; 18 when trees die; 19. all fields; 20. the glory in old barns; 21. turtle islands everywhere; 22. sometimes falling rain; 23. bring Buddha.", "24. clouds dressed in gray25. soil rich with lime; 26. equine whispering; 27. sublime shadows of midnight; 28. morning dawn; 29. softly treading black bear; 30. burning pain; 31. returning to sacred places; 32. walking the long way home; 33. tap dancing; 34. fierce winter cold; 35. winds of fate; 36. mammoth caves; 37. stained black; 38. toward light; 39. ritual places; 40. on hallowed ground; 41. fierce unyielding winds; 42. heavy heart; 43. when the dawn; 44. fly high; 45. barren broken hill; 46. overlooking water; 47. red beard; 48. sunken faces; 49. with water; 50. all old souls.", "51. in the gray blue wash of dawn52. renegades roam here; 53. blackbirds; 54. burning body of love; 55. take the; 56. star of david; 57. fierce grief shadows me; 58. earth spirit; 59. migrating birds; 60. wilderness within; 61. lingering twilight; 62. harsh winder wind; 63. stark stolen sky; 64. daybreak; 65. my world is green; 66. fire so hot; Index of First Lines; Kentucky Voices Series Page." ],
+        "genre" : [ "Poésie", "Poetry" ],
+        "relation" : [ "$$Cform$$VPrint version: Hooks, Bell. Appalachian elegy. Lexington : University Press of Kentucky, ©2012$$QAppalachian elegy.$$Z990036677930107871" ],
+        "place" : [ "Lexington, Kentucky :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "jstoreba", "pmusebp", "aleph005781819" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990057818190107871" ],
+        "recordid" : [ "alma990057818190107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005781819-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "hooks" ],
+        "aufirst" : [ "bell" ],
+        "auinit" : [ "b" ],
+        "au" : [ "hooks, bell" ],
+        "creatorfull" : [ "$$Nhooks, bell$$Lhooks$$Fbell$$Rauthor" ],
+        "date" : [ "2012 - 2012", "2012" ],
+        "isbn" : [ "9780813136707", "0813136709", "9780813140766", "0813140765", "9780813136691" ],
+        "abstract" : [ "A collection of poems centered around life in Appalachia addresses topics ranging from the marginalization of the region's people to the environmental degradation it has endured throughout history.", "Author, activist, feminist, teacher, and artist, bell hooks is celebrated as one of the nation's leading intellectuals. Born in Hopkinsville, Kentucky, hooks drew her unique pseudonym from the name of her grandmother, an intelligent and strong-willed African American woman who inspired her to stand up against a dominating and repressive society. Her poetry, novels, memoirs, and children's books reflect her Appalachian upbringing and feature her struggles with racially integrated schools and unwelcome authority figures. One of Utne Reader's \"100 Visionaries Who Can Change Your Life,\" hooks has won wide acclaim from critics and readers alike." ],
+        "cop" : [ "Lexington, Kentucky" ],
+        "pub" : [ "University Press of Kentucky" ],
+        "oclcid" : [ "(ocolc)806034371" ],
+        "seriestitle" : [ "Kentucky voices" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Appalachian elegy : poetry and place" ]
+      },
+      "sort" : {
+        "title" : [ "Appalachian elegy : poetry and place /" ],
+        "author" : [ "hooks, bell, 1952-2021, author." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057818190107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057818190107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057818190107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057818190107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990057818190107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0813136709,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps#3608 o594ǂa84 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "223",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "219",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "58",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "193",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "116",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "655",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 692,
+    "COMBINED_SEARCH_TIME" : 694,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Appalachian Region",
+      "count" : "1"
+    }, {
+      "value" : "Appalachian Region Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Childhood And Youth Of A Person",
+      "count" : "1"
+    }, {
+      "value" : "Hooks Bell 1952 2021",
+      "count" : "1"
+    }, {
+      "value" : "Hooks Bell 1952 2021 Childhood And Youth Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Kentucky",
+      "count" : "1"
+    }, {
+      "value" : "Kentucky Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Kentucky Poésie",
+      "count" : "1"
+    }, {
+      "value" : "Poetry American General",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hooks Bell",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

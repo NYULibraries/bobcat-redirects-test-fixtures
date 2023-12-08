@@ -1,0 +1,241 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990069247460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "conference_proceeding" ],
+        "language" : [ "eng" ],
+        "title" : [ "What you need for the first job, besides the Ph. D. in chemistry " ],
+        "subject" : [ "Chemistry -- Vocational guidance$$QChemistry -- Vocational guidance -- Congresses", "Chimie -- Orientation professionnelle$$QChimie -- Orientation professionnelle -- Congrès", "Chimie", "Orientation professionnelle", "Enseignement", "chemistry", "vocational guidance", "teaching", "SCIENCE -- Chemistry -- General", "Vocational guidance", "Teaching", "Chemistry", "Chemistry -- Vocational guidance" ],
+        "format" : [ "1 online resource (x, 183 pages) : illustrations (some color)" ],
+        "identifier" : [ "$$CLC$$V2014027500;$$CISBN$$V0841229635;$$CISBN$$V9780841229631;$$COCLC$$V(OCoLC)886644169;$$CISBN$$V9780841229624" ],
+        "creationdate" : [ "2014" ],
+        "publisher" : [ "Washington, DC : American Chemical Society" ],
+        "mms" : [ "990069247460107871" ],
+        "contributor" : [ "Benvenuto, Mark A. (Mark Anthony), editor.$$QBenvenuto, Mark A.", "American Chemical Society. Division of Chemical Education, sponsoring body.$$QAmerican Chemical Society. Division of Chemical Education" ],
+        "series" : [ "ACS symposium series ; 1165$$QACS symposium series ", "ACS symposium series ; 1165.$$QACS symposium series " ],
+        "contents" : [ "What Do You Need for the First Industrial Job, Besides the Ph.D. in Chemistry? / Truitt, Ralph E. / http://dx.doi.org/10.1021/bk-2014-1165.ch001 -- What Do You Need To Know To Work in Industry Besides a Ph.D.? / Ranbom, Wayne / http://dx.doi.org/10.1021/bk-2014-1165.ch002 -- Academia to Industry: Getting Ready for the First Job after Graduate School / Selcuk, Sibel / http://dx.doi.org/10.1021/bk-2014-1165.ch003 -- So You've Got Your Ph.D ... Now What? A Primer in Career (and Life!) Planning / Plaumann, Heinz / http://dx.doi.org/10.1021/bk-2014-1165.ch004 -- Building Your Career in a Government Laboratory / Sullivan, Kelly O., Institutional Strategy, Pacific Northwest National Laboratory, Richland, Washington 99352, United States; Snyder, Seth W., Energy Systems, Argonne National Laboratory, Argonne, Illinois 60439, United States / http://dx.doi.org/10.1021/bk-2014-1165.ch005 -- Life Beyond Chemistry / Bohn, Robert / http://dx.doi.org/10.1021/bk-2014-1165.ch006 -- Tenure-Track Position at an Undergraduate Institution − Application Package and Beyond / Otto, Charlotte A.; Marincean, Simona / http://dx.doi.org/10.1021/bk-2014-1165.ch007 -- How To Avoid Common Mistakes When Searching for a Faculty Position / Bodner, George M. / http://dx.doi.org/10.1021/bk-2014-1165.ch008 -- Academic Leadership / Donohue, Marc D., Department of Chemical and Biomolecular Engineering, Johns Hopkins University, 3400 N. Charles Street, Baltimore, Maryland 21218, United States; Kilburg, Richard R., RRK Coaching and Executive Development, 5 Barrow Court, Towson, Maryland 21204, United States / http://dx.doi.org/10.1021/bk-2014-1165.ch009 -- Missing Components of Training in the Chemical Sciences / Howell, Bob A. / http://dx.doi.org/10.1021/bk-2014-1165.ch010 -- Don't Know Much about Pedagogy: Your First Job in Chemical Academe / Mio, Matthew J. / http://dx.doi.org/10.1021/bk-2014-1165.ch011 -- What You Need To Start an Academic Career as a Chemical Educator / Kolopajlo, Larry / http://dx.doi.org/10.1021/bk-2014-1165.ch012 -- Lecturing at a Research 1 Institution: A Rewarding Position for Someone Who Loves To Teach / Ray, C. R. / http://dx.doi.org/10.1021/bk-2014-1165.ch013 -- Editor's Biography / http://dx.doi.org/10.1021/bk-2014-1165.ot001" ],
+        "genre" : [ "Congresses", "Congrès", "Conference papers and proceedings" ],
+        "relation" : [ "$$Cform$$VPrint version: What you need for the first job, besides the Ph. D. in chemistry. Washington, DC : American Chemical Society, [2014]$$QWhat you need for the first job, besides the Ph. D. in chemistry.$$Z990041501930107871" ],
+        "mesh" : [ "Chemistry", "Vocational Guidance", "Laboratory Personnel", "Government Employees", "Faculty", "Chemistry -- education", "Education", "Teaching" ],
+        "place" : [ "Washington, DC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "acseb", "ebceb", "aleph006924746" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990069247460107871" ],
+        "recordid" : [ "alma990069247460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006924746-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Benvenuto" ],
+        "aufirst" : [ "Mark A." ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Benvenuto, Mark A. (Mark Anthony)" ],
+        "contributorfull" : [ "$$NBenvenuto, Mark A. (Mark Anthony)$$LBenvenuto$$FMark A.$$Reditor" ],
+        "date" : [ "2014 - 2014", "2014" ],
+        "isbn" : [ "0841229635", "9780841229631", "9780841229624" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Washington, DC" ],
+        "pub" : [ "American Chemical Society" ],
+        "oclcid" : [ "(ocolc)886644169" ],
+        "lccn" : [ "2014027500" ],
+        "seriestitle" : [ "ACS symposium series ; 1165" ],
+        "format" : [ "book" ],
+        "genre" : [ "proceeding" ],
+        "ristype" : [ "BOOK" ],
+        "atitle" : [ "What you need for the first job, besides the Ph. D. in chemistry" ]
+      },
+      "sort" : {
+        "title" : [ "What you need for the first job, besides the Ph. D. in chemistry /" ],
+        "author" : [ "Benvenuto, Mark A. (Mark Anthony), editor." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990069247460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780841229631,OCLC:,LCCN:2014027500&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qd!39.5ǂ w43 2014c online only 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "240",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "61",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "121",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "473",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 511,
+    "COMBINED_SEARCH_TIME" : 515,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "conference_proceedings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Chemistry",
+      "count" : "1"
+    }, {
+      "value" : "Chemistry Education",
+      "count" : "1"
+    }, {
+      "value" : "Chemistry Vocational Guidance",
+      "count" : "1"
+    }, {
+      "value" : "Chemistry Vocational Guidance Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Chimie",
+      "count" : "1"
+    }, {
+      "value" : "Chimie Orientation Professionnelle Congrès",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Enseignement",
+      "count" : "1"
+    }, {
+      "value" : "Faculty",
+      "count" : "1"
+    }, {
+      "value" : "Government Employees",
+      "count" : "1"
+    }, {
+      "value" : "Laboratory Personnel",
+      "count" : "1"
+    }, {
+      "value" : "Orientation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Science Chemistry General",
+      "count" : "1"
+    }, {
+      "value" : "Teaching",
+      "count" : "1"
+    }, {
+      "value" : "Vocational Guidance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Chemical Society Division Of Chemical Education",
+      "count" : "1"
+    }, {
+      "value" : "Benvenuto Mark A",
+      "count" : "1"
+    } ]
+  } ]
+}

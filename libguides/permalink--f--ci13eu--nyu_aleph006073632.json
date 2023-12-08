@@ -1,0 +1,248 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060736320107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Thinking animals : why animal studies now? " ],
+        "subject" : [ "Animaux (Philosophie)", "Animaux dans la littérature", "SCIENCE -- Cosmology", "NATURE -- Animal Rights", "Animals in literature", "Animals (Philosophy)", "Mens-dier-relatie" ],
+        "format" : [ "1 online resource (xxiv, 190 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780231519847;$$CISBN$$V0231519842;$$COCLC$$V(OCoLC)794493962;$$CISBN$$V9780231148085" ],
+        "creationdate" : [ "©2012" ],
+        "creator" : [ "Weil, Kari.$$QWeil, Kari." ],
+        "publisher" : [ "New York : Columbia University Press" ],
+        "description" : [ "Animal studies has emerged as a major field within the humanities, despite its challenge to the very notion of the human\" that shapes humanities scholarship. Kari Weil investigates the rise of animal studies and its singular reading of literature and philosophy through the lens of human-animal relations and difference, providing not only a critical introduction to the field but also an appreciation of its thrilling acts of destabilization. Weil explores the mechanisms we use to build knowledge of other animals, to understand ourselves in relation to other animals, and to represent." ],
+        "mms" : [ "990060736320107871" ],
+        "contents" : [ "A report on the animal turn -- Seeing animals -- Is a pet an animal? Domestication and animal agency -- Gendered subjects/abject objects : man(n)'s best friend -- Dog love/w(o)olf love -- A proper death -- Thinking and unthinking animal death : Temple Grandin and J.M. Coetzee -- Animal liberation or shameless freedom." ],
+        "relation" : [ "$$Cform$$VPrint version: Weil, Kari. Thinking animals. New York : Columbia University Press, ©2012$$QThinking animals.$$Z990036146790107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "aleph006073632" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060736320107871" ],
+        "recordid" : [ "alma990060736320107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006073632-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Weil" ],
+        "aufirst" : [ "Kari." ],
+        "auinit" : [ "K" ],
+        "au" : [ "Weil, Kari." ],
+        "creatorfull" : [ "$$NWeil, Kari.$$LWeil$$FKari.$$Rauthor" ],
+        "date" : [ "2012", "©2012" ],
+        "isbn" : [ "9780231519847", "0231519842", "9780231148085" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Animal studies has emerged as a major field within the humanities, despite its challenge to the very notion of the human\" that shapes humanities scholarship. Kari Weil investigates the rise of animal studies and its singular reading of literature and philosophy through the lens of human-animal relations and difference, providing not only a critical introduction to the field but also an appreciation of its thrilling acts of destabilization. Weil explores the mechanisms we use to build knowledge of other animals, to understand ourselves in relation to other animals, and to represent." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Columbia University Press" ],
+        "oclcid" : [ "(ocolc)794493962" ],
+        "lccn" : [ "2011035566" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Thinking animals : why animal studies now?" ]
+      },
+      "sort" : {
+        "title" : [ "Thinking animals : why animal studies now? /" ],
+        "author" : [ "Weil, Kari." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060736320107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060736320107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060736320107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060736320107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231519842,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "b\"105 a55ǂw45 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "221",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "46",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "36",
+    "RETRIVE_FROM_DB_RELATIONS" : "45",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "33",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "90",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "467",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 498,
+    "COMBINED_SEARCH_TIME" : 501,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Animals In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Animals Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Animaux Dans La Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Animaux Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Mens Dier Relatie",
+      "count" : "1"
+    }, {
+      "value" : "Nature Animal Rights",
+      "count" : "1"
+    }, {
+      "value" : "Science Cosmology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Weil Kari",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

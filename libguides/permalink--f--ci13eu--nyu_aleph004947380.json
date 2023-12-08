@@ -1,0 +1,267 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049473800107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "audio" ],
+        "language" : [ "eng" ],
+        "title" : [ "The tempest " ],
+        "subject" : [ "Shakespeare, William, 1564-1616$$QShakespeare, William, 1564-1616 -- Musical settings", "Shakespeare, William, 1564-1616", "Operas" ],
+        "format" : [ "1 online resource." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)820477009" ],
+        "creationdate" : [ "2009" ],
+        "creator" : [ "Adès, Thomas, composer, conductor.$$QAdès, Thomas" ],
+        "publisher" : [ "Hayes, Middlesex, England : EMI Classics" ],
+        "mms" : [ "990049473800107871" ],
+        "contributor" : [ "Bostridge, Ian.$$QBostridge, Ian.", "Cordier, David.$$QCordier, David.", "Danby, Graeme.$$QDanby, Graeme.", "Kaasch, Donald.$$QKaasch, Donald.", "Keenlyside, Simon.$$QKeenlyside, Simon.", "Langridge, Philip, 1939-2010.$$QLangridge, Philip", "Oakes, Meredith.$$QOakes, Meredith.", "Richardson, Stephen (Bass)$$QRichardson, Stephen", "Royal, Kate.$$QRoyal, Kate.", "Sieden, Cyndia.$$QSieden, Cyndia.", "Spence, Toby.$$QSpence, Toby.", "Summers, Jonathan, 1946-$$QSummers, Jonathan", "Shakespeare, William, 1564-1616.$$QShakespeare, William", "Royal Opera House (London, England). Chorus.$$QRoyal Opera House (London, England). Chorus.", "Royal Opera House (London, England). Orchestra.$$QRoyal Opera House (London, England). Orchestra." ],
+        "series" : [ "Classical music library$$QClassical music library" ],
+        "genre" : [ "sound recordings", "Musical settings", "Live sound recordings", "Sound recordings", "Enregistrements sonores live", "Enregistrements sonores" ],
+        "relation" : [ "$$Cform$$VPrint version: Adès, Thomas. Tempest. [Hayes, Middlesex, England] : EMI Classics, 2009 digital UPC number 5099969523557$$QTempest.", "$$Cform$$VPrint version: Adès, Thomas. Tempest. [Hayes, Middlesex, England] : EMI Classics, 2009 physical UPC number 5099969523427$$QTempest." ],
+        "relatedwork" : [ "Shakespeare, William, 1564-1616. Tempest.$$QShakespeare, William, 1564-1616. Tempest." ],
+        "place" : [ "Hayes, Middlesex, England] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspleased", "aleph004947380" ],
+        "lds60" : [ "Opera in 3 acts.", "Previously released as a compact disc.", "Program notes by Tom Service and synopsis in English, with German and French translations and libretto in English (30 p. : col. ports.) linked to from website.", "Title from resource description page (viewed May 1, 2012)." ],
+        "lds65" : [ "Cyndia Sieden, Kate Royal, sopranos ; David Cordier, countertenor ; Ian Bostridge, Toby Spence, Philip Langridge, Donald Kaasch, tenors ; Simon Keenlyside, Jonathan Summers, baritones ; Stephen Richardson, Graeme Danby, basses ; the Royal Opera Chorus ; the Orchestra of the Royal Opera House, Covent Garden ; Thomas Adès, conductor." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049473800107871" ],
+        "recordid" : [ "alma990049473800107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004947380-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Adès" ],
+        "aufirst" : [ "Thomas" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Adès, Thomas" ],
+        "addau" : [ "Bostridge, Ian.", "Cordier, David.", "Danby, Graeme.", "Kaasch, Donald.", "Keenlyside, Simon.", "Langridge, Philip", "Oakes, Meredith.", "Richardson, Stephen", "Royal, Kate.", "Sieden, Cyndia.", "Spence, Toby.", "Summers, Jonathan", "Shakespeare, William" ],
+        "creatorfull" : [ "$$NAdès, Thomas$$LAdès$$FThomas$$Rauthor" ],
+        "contributorfull" : [ "$$NBostridge, Ian.$$LBostridge$$FIan.$$Rcontributor", "$$NCordier, David.$$Rcontributor", "$$NDanby, Graeme.$$Rcontributor", "$$NKaasch, Donald.$$Rcontributor", "$$NKeenlyside, Simon.$$Rcontributor", "$$NLangridge, Philip$$Rcontributor", "$$NOakes, Meredith.$$Rcontributor", "$$NRichardson, Stephen$$Rcontributor", "$$NRoyal, Kate.$$Rcontributor", "$$NSieden, Cyndia.$$Rcontributor", "$$NSpence, Toby.$$Rcontributor", "$$NSummers, Jonathan$$Rcontributor", "$$NShakespeare, William$$Rcontributor" ],
+        "date" : [ "2009 - 2007", "2009" ],
+        "cop" : [ "Hayes, Middlesex, England" ],
+        "pub" : [ "EMI Classics" ],
+        "oclcid" : [ "(ocolc)820477009" ],
+        "seriestitle" : [ "Classical music library" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "SOUND" ],
+        "btitle" : [ "The tempest" ]
+      },
+      "sort" : {
+        "title" : [ "tempest /" ],
+        "author" : [ "Adès, Thomas, composer, conductor." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049473800107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049473800107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:820477009,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "m#1500 a34ǂa347 2009",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "100",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "48",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "18",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "97",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "337",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 373,
+    "COMBINED_SEARCH_TIME" : 377,
+    "PROCESS_COMBINED_RESULTS" : 1,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "fre",
+      "count" : "1"
+    }, {
+      "value" : "ger",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    }, {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "audios",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Operas",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William 1564 1616 Musical Settings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Adès Thomas",
+      "count" : "1"
+    }, {
+      "value" : "Bostridge Ian",
+      "count" : "1"
+    }, {
+      "value" : "Cordier David",
+      "count" : "1"
+    }, {
+      "value" : "Danby Graeme",
+      "count" : "1"
+    }, {
+      "value" : "Kaasch Donald",
+      "count" : "1"
+    }, {
+      "value" : "Keenlyside Simon",
+      "count" : "1"
+    }, {
+      "value" : "Langridge Philip",
+      "count" : "1"
+    }, {
+      "value" : "Oakes Meredith",
+      "count" : "1"
+    }, {
+      "value" : "Richardson Stephen",
+      "count" : "1"
+    }, {
+      "value" : "Royal Kate",
+      "count" : "1"
+    }, {
+      "value" : "Royal Opera House London England Chorus",
+      "count" : "1"
+    }, {
+      "value" : "Royal Opera House London England Orchestra",
+      "count" : "1"
+    }, {
+      "value" : "Shakespeare William",
+      "count" : "1"
+    }, {
+      "value" : "Sieden Cyndia",
+      "count" : "1"
+    }, {
+      "value" : "Spence Toby",
+      "count" : "1"
+    }, {
+      "value" : "Summers Jonathan",
+      "count" : "1"
+    } ]
+  } ]
+}

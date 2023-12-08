@@ -1,0 +1,221 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990050982240107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The encyclopedia of applied ethics " ],
+        "subject" : [ "Applied ethics$$QApplied ethics -- Encyclopedias", "Ethical problems$$QEthical problems -- Encyclopedias", "Éthique appliquée$$QÉthique appliquée -- Encyclopédies", "Problèmes moraux$$QProblèmes moraux -- Encyclopédies", "Éthique médicale", "Applied ethics", "Ethical problems" ],
+        "format" : [ "1 online resource (4 volumes) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780123739322;$$CISBN$$V0123739322;$$COCLC$$V(OCoLC)773665438;$$CISBN$$V9780123736321" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "London : Academic Press" ],
+        "description" : [ "\"The four-volume set includes detailed investigations of historical and theoretical material including topics from the award-winning first edition published in 1998, plus topics on issues that were not or only just barely on the horizon. In addition to the areas in which particular issues arise, it is still essential for those engaged in applied ethics to reflect on what is being 'applied.' The work includes a number of articles on ethical and philosophical approaches, historical and contemporary, religious and secular. ... It is written not only by practitioners in the particular fields in question; but by academics from disciplines such as law and economics. A broad and inclusive table of contents ensures detailed investigation of historical and theoretical material as well as in-depth analysis of current issues.\"--Publisher description" ],
+        "mms" : [ "990050982240107871" ],
+        "contributor" : [ "Chadwick, Ruth F., editor.$$QChadwick, Ruth F." ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "v. 1. A-D -- v. 2. E-L -- v. 3. M-R -- v. 4. S-Z, Index." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of applied ethics. 2nd ed. Amsterdam ; London : Elsevier/Academic Press, ©2012$$QEncyclopedia of applied ethics." ],
+        "mesh" : [ "Ethics, Medical", "Ethics", "Encyclopedia" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "elssci", "aleph005098224" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990050982240107871" ],
+        "recordid" : [ "alma990050982240107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005098224-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Chadwick" ],
+        "aufirst" : [ "Ruth F." ],
+        "auinit" : [ "R" ],
+        "addau" : [ "Chadwick, Ruth F." ],
+        "contributorfull" : [ "$$NChadwick, Ruth F.$$LChadwick$$FRuth F.$$Reditor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9780123739322", "0123739322", "9780123736321" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The four-volume set includes detailed investigations of historical and theoretical material including topics from the award-winning first edition published in 1998, plus topics on issues that were not or only just barely on the horizon. In addition to the areas in which particular issues arise, it is still essential for those engaged in applied ethics to reflect on what is being 'applied.' The work includes a number of articles on ethical and philosophical approaches, historical and contemporary, religious and secular. ... It is written not only by practitioners in the particular fields in question; but by academics from disciplines such as law and economics. A broad and inclusive table of contents ensures detailed investigation of historical and theoretical material as well as in-depth analysis of current issues.\"--Publisher description" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Academic Press" ],
+        "oclcid" : [ "(ocolc)773665438" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The encyclopedia of applied ethics" ]
+      },
+      "sort" : {
+        "title" : [ "encyclopedia of applied ethics /" ],
+        "author" : [ "Chadwick, Ruth F., editor." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990050982240107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0123739322,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bj!63ǂ e69 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "118",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "36",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "156",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "402",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 436,
+    "COMBINED_SEARCH_TIME" : 438,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Applied Ethics",
+      "count" : "1"
+    }, {
+      "value" : "Applied Ethics Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Ethical Problems",
+      "count" : "1"
+    }, {
+      "value" : "Ethical Problems Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Ethics",
+      "count" : "1"
+    }, {
+      "value" : "Ethics Medical",
+      "count" : "1"
+    }, {
+      "value" : "Problèmes Moraux Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Éthique Appliquée Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Éthique Médicale",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Chadwick Ruth F",
+      "count" : "1"
+    } ]
+  } ]
+}

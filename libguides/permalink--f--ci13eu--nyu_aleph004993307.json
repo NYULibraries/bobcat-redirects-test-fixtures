@@ -1,0 +1,259 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049933070107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Fashion forward : 300 years of fashion : collections of the Musée des Arts Décoratifs, Paris " ],
+        "subject" : [ "Costume -- France -- History$$QCostume -- France -- History -- Exhibitions", "Fashion -- France -- History$$QFashion -- France -- History -- Exhibitions", "Fashion designers -- France -- History$$QFashion designers -- France -- History -- Exhibitions", "Clothing trade -- France -- History$$QClothing trade -- France -- History -- Exhibitions", "Musée des arts décoratifs (France)$$QMusée des arts décoratifs (France) -- Exhibitions", "Fashion -- History -- 18th century$$QFashion -- History -- 18th century -- Exhibitions", "Fashion -- History -- 19th century$$QFashion -- History -- 19th century -- Exhibitions", "Fashion -- History -- 20th century$$QFashion -- History -- 20th century -- Exhibitions", "Fashion -- History -- 21st century$$QFashion -- History -- 21st century -- Exhibitions", "Fashion designers$$QFashion designers -- Exhibitions" ],
+        "format" : [ "279 pages : illustrations (chiefly color), portraits ; 31 cm" ],
+        "identifier" : [ "$$CLC$$V2016955438;$$CISBN$$V0847859770;$$CISBN$$V9780847859771;$$COCLC$$V(OCoLC)954104422" ],
+        "creationdate" : [ "2017" ],
+        "publisher" : [ "New York : Rizzoli" ],
+        "description" : [ "\"Tracing the evolution of fashion from the opulence of the court of Louis XV to the catwalk couture of today this stunningly illustrated volume charts three centuries of fashion trends and innovations\"--Publisher's description." ],
+        "mms" : [ "990049933070107871" ],
+        "contributor" : [ "Ascoli, Marc, artistic director.$$QAscoli, Marc", "Demey, Chloé, editor.$$QDemey, Chloé", "Jacobs, Denise Raab, translator.$$QJacobs, Denise Raab", "Tripp, Liza, translator.$$QTripp, Liza", "Musée des arts décoratifs (France), issuing body, host institution.$$QMusée des arts décoratifs (France)" ],
+        "addtitle" : [ "300 years of fashion", "Three hundred years of fashion" ],
+        "contents" : [ "Fashion at the museum / Pierre Bergé and Oliver Gabet -- The system of fashion / Pamela Golbin -- \"From these sumptuous and insubstantial phantoms\" / Denis Bruna -- Collections / Marie-Sophie Carron de la Carrière, Éric Pujalet-Plaà, Hélène Renaudin, Marie-Pierre Ribère." ],
+        "genre" : [ "Exhibitions" ],
+        "unititle" : [ "Trois siècles de mode. English." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004993307" ],
+        "lds53" : [ "004993307" ],
+        "lds60" : [ "\"This book was produced for the exhibition 'Fashion Forward: Three Centuries of Fashion' presented at the Musée des Arts Décoratifs, Paris, from April 7, 2016 until August 14, 2016\"--Page 278.", "Translation of: Trois siècles de mode : fashion forward.", "\"Originally published in French in 2016 by Musée des Arts Décoratifs [LCCN: 2016415405]\"--Page 279." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049933070107871" ],
+        "recordid" : [ "alma990049933070107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004993307-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ascoli", "Demey", "Jacobs", "Tripp" ],
+        "aufirst" : [ "Marc", "Chloé", "Denise Raab", "Liza" ],
+        "auinit" : [ "M", "C", "D", "L" ],
+        "addau" : [ "Ascoli, Marc", "Demey, Chloé", "Jacobs, Denise Raab", "Tripp, Liza" ],
+        "contributorfull" : [ "$$NAscoli, Marc$$LAscoli$$FMarc$$Rcontributor", "$$NDemey, Chloé$$Reditor", "$$NJacobs, Denise Raab$$Rtranslator", "$$NTripp, Liza$$Rtranslator" ],
+        "addtitle" : [ "300 years of fashion", "Three hundred years of fashion" ],
+        "date" : [ "2017 - 2016", "2017" ],
+        "isbn" : [ "0847859770", "9780847859771" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Tracing the evolution of fashion from the opulence of the court of Louis XV to the catwalk couture of today this stunningly illustrated volume charts three centuries of fashion trends and innovations\"--Publisher's description." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Rizzoli" ],
+        "oclcid" : [ "(ocolc)954104422" ],
+        "lccn" : [ "2016955438" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fashion forward : 300 years of fashion : collections of the Musée des Arts Décoratifs, Paris" ]
+      },
+      "sort" : {
+        "title" : [ "Fashion forward : 300 years of fashion : collections of the Musée des Arts Décoratifs, Paris /" ],
+        "author" : [ "Ascoli, Marc, artistic director." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990049933070107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780847859771,OCLC:,LCCN:2016955438&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt\"853ǂ t76513 2017",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "41",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "120",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "333",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 363,
+    "COMBINED_SEARCH_TIME" : 365,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    }, {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Clothing Trade France History Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Costume France History Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Designers Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion Designers France History Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion France History Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion History 18th Century Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion History 19th Century Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion History 20th Century Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Fashion History 21st Century Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Musée Des Arts Décoratifs France Exhibitions",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ascoli Marc",
+      "count" : "1"
+    }, {
+      "value" : "Demey Chloé",
+      "count" : "1"
+    }, {
+      "value" : "Jacobs Denise Raab",
+      "count" : "1"
+    }, {
+      "value" : "Musée Des Arts Décoratifs France",
+      "count" : "1"
+    }, {
+      "value" : "Tripp Liza",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163054240007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

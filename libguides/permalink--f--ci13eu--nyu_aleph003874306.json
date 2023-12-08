@@ -1,0 +1,217 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038743060107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Sustainable buildings in practice : what the users think " ],
+        "subject" : [ "Sustainable buildings -- Evaluation", "Constructions durables -- Évaluation", "Constructions -- Comportement", "ARCHITECTURE -- Sustainability & Green Design", "Buildings -- Performance" ],
+        "format" : [ "1 online resource (ix, 335 pages) : color illustrations, plans" ],
+        "identifier" : [ "$$CISBN$$V9780203865453;$$CISBN$$V0203865456;$$CISBN$$V9781135222895;$$CISBN$$V1135222894;$$CISBN$$V0415399327;$$CISBN$$V9781135222901;$$CISBN$$V1135222908;$$CISBN$$V9781135222857;$$CISBN$$V1135222851;$$CISBN$$V9781138471474;$$CISBN$$V113847147X;$$COCLC$$V(OCoLC)569742895;$$CISBN$$V9780415399326" ],
+        "creationdate" : [ "2010" ],
+        "creator" : [ "Baird, George, 1938-$$QBaird, George" ],
+        "publisher" : [ "Abingdon, Oxon ; New York : Routledge" ],
+        "description" : [ "Presents 30 sustainable buildings from around the globe and examines how they work in practice, from the point of view of the people who use them. This book considers common issues and the lessons that can be learnt for future sustainable building design." ],
+        "mms" : [ "990038743060107871" ],
+        "contents" : [ "Overview of the buildings and their performance -- pt. I. Buildings in cold-temperate climates : NRG Systems Facility, Hinesburg, Vermont ; Computer Science and Engineering (CS & E) Building, York University, Ontario, Canada ; Military Families Resource Centre (MFRC), Toronto, Ontario ; Sciencepark, Gelsenkirchen, Germany ; National Works Yards, Vancouver, British Columbia ; Liu Institute, University of British Columbia, Vancouver ; pt. II. Buildings in medium-temperate climates : Gifford Studios, Southampton, England ; Arup Campus, Holihull, England / with Barry Austin and Alexander Wilson ; ZICER Building, University of East Anglia, Norwich, England ; Renewable Energy Systems (RES) Building, Kings Langley, England ; City Hall, London, England ; The Foundation Building, Eden Project, St. Austell, Cornwall, England / Sue Turpin-Brooks ; The Mathematics and Statistics and Computer Science (MSCS) Building, Canterbury University, Christchurch, New Zealand ; St. Mary's Credit Union, Navan, Ireland ; Scottsdale Forest Ecocentre, Tasmania, Australia ; Tokyo Gas, Kohoku New Town, Yokohama, Japan / with Toshiharu Ikaga and Junko Endo ; Nikken Sekkei Building, Tokyo, Japan / with Junko Endo and Toshiharu Ikaga -- pt. III. Buildings in warm-temperate climates : The Landcare Research Laboratory, Auckland, New Zealand ; The Campus Reception and Administration Building, Auckland University of Technology (AUT Akoranga), Auckland, New Zealand ; 60 Leicester Street, South Melbourne, Victoria, Australia ; 40 Albert Road, South Melbourne, Victoria, Australia / Monica Vandenberg and Leena Thomas ; The Red Centre Building, University of New South Wales, Sydney, NSW, Australia ; Institute of Languages, University of New South Wales, Sydney, NSW, Australia / Leena Thomas ; General Purpose Building, University of Newcastle, NSW, Australia / Jodie Dixon ; Student Services Centre, University of Newcastle, NSW, Australia / Jodie Dixon ; Natural Resources Defense Council (NRDC), Santa Monica, California -- pt. IV. Buildings in hot-humid climates : Institute of Technical Education, Bishan, Singapore ; Ministry of Energy, Water and Communications (MEWC) Building, Putrajaya, Malaysia ; / with Maisarah Ali and Shireen Jahnkassim ; Menara UMNO, Penang, Malaysia ; Torrent Research Centre, Ahmedabad, Gujarat, India / with Leena Thomas." ],
+        "relation" : [ "$$Cform$$VPrint version: Baird, George, 1938- Sustainable buildings in practice. Abingdon, Oxon ; New York : Routledge, 2010$$QSustainable buildings in practice.$$Z990033611490107871", "$$Cform$$VSustainable buildings in practice : what the users think$$Z9995657020607871" ],
+        "place" : [ "Abingdon, Oxon ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomarc", "ebceb", "tayfeb", "aleph003874306" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038743060107871" ],
+        "recordid" : [ "alma990038743060107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003874306-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Baird" ],
+        "aufirst" : [ "George" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Baird, George" ],
+        "creatorfull" : [ "$$NBaird, George$$LBaird$$FGeorge$$Rauthor" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9780203865453", "0203865456", "9781135222895", "1135222894", "0415399327", "9781135222901", "1135222908", "9781135222857", "1135222851", "9781138471474", "113847147X", "9780415399326" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Presents 30 sustainable buildings from around the globe and examines how they work in practice, from the point of view of the people who use them. This book considers common issues and the lessons that can be learnt for future sustainable building design." ],
+        "cop" : [ "Abingdon, Oxon ;" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)569742895" ],
+        "doi" : [ "10.5040/9780203865453." ],
+        "lccn" : [ "2009020432" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Sustainable buildings in practice : what the users think" ]
+      },
+      "sort" : {
+        "title" : [ "Sustainable buildings in practice : what the users think /" ],
+        "author" : [ "Baird, George, 1938-" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038743060107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038743060107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0203865456,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "th\"880ǂ b35 2010eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "314",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "38",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "45",
+    "RETRIVE_FROM_DB_RELATIONS" : "77",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "513",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 551,
+    "COMBINED_SEARCH_TIME" : 553,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture Sustainability Green Design",
+      "count" : "1"
+    }, {
+      "value" : "Buildings Performance",
+      "count" : "1"
+    }, {
+      "value" : "Constructions Comportement",
+      "count" : "1"
+    }, {
+      "value" : "Constructions Durables Évaluation",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Buildings Evaluation",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Baird George",
+      "count" : "1"
+    } ]
+  } ]
+}

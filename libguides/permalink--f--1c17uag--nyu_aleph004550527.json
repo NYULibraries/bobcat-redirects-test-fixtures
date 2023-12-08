@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045505270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Performing bodies in pain : medieval and post-modern martyrs, mystics, and artists " ],
+        "subject" : [ "Umschulungswerkstätten für Siedler und Auswanderer Bitterfeld", "Theater -- United States -- History -- 21st century", "Theater -- France -- History -- Medieval, 500-1500", "French drama -- To 1500 -- History and criticism", "Passion-plays -- History and criticism", "Douleur au théâtre", "Violence au théâtre", "Théâtre -- États-Unis -- Histoire -- 21e siècle", "Théâtre -- France -- Histoire -- 500-1500 (Moyen Âge)", "Théâtre français -- Jusqu'à 1500 -- Histoire et critique", "Passions (Théâtre) -- Histoire et critique", "Theatre studies", "PERFORMING ARTS -- Acting & Auditioning", "Performing Arts", "French drama", "Pain in the theater", "Passion-plays", "Performance art", "Theater", "Theater -- Medieval", "Violence in the theater", "France", "United States", "Mysterienspiel", "Schmerz Motiv", "Martyrium Motiv", "Gewalt Motiv", "Rezeption", "Frankreich", "Smärta på scenen", "Våld på scenen", "Teater -- historia -- Förenta staterna -- 2000-talet", "Teater -- historia -- France -- medeltiden", "To 2099" ],
+        "format" : [ "1 online resource (xii, 227 pages) : illustrations", "text file", "PDF" ],
+        "identifier" : [ "$$CISBN$$V9780230111486;$$CISBN$$V0230111483;$$CISBN$$V9781349288274;$$CISBN$$V1349288276;$$COCLC$$V(OCoLC)696333878;$$CISBN$$V9780230103863" ],
+        "creationdate" : [ "2010" ],
+        "creator" : [ "Carlson, Marla.$$QCarlson, Marla." ],
+        "publisher" : [ "New York : Palgrave Macmillan" ],
+        "description" : [ "The urgent debate about torture in public discourse of the twenty-first century thrusts pain into the foreground while research in neuroscience is transforming our understanding of this fundamental human experience. In late-medieval France, a country devastated by the Black Death, torn by civil strife, and strained by the Hundred Year's War with England, the notion of pain shifted within the conceptual frameworks provided by theology and medicine. Performing Bodies in Pain analyzes the cultural work of spectacular suffering during these two periods, reading recent dramatizations of torture and performances of self-mutilating conceptual art against late-medieval saint plays." ],
+        "mms" : [ "990045505270107871" ],
+        "edition" : [ "1st ed." ],
+        "series" : [ "Palgrave studies in theatre and performance history$$QPalgrave studies in theatre and performance history", "Palgrave studies in theatre and performance history.$$QPalgrave studies in theatre and performance history." ],
+        "contents" : [ "Introduction -- Feeling torture -- Imagining death -- Enduring ecstasy -- Whipping up community -- Containing chaos -- Conclusion." ],
+        "genre" : [ "Criticism, interpretation, etc", "History", "Performance art" ],
+        "relation" : [ "$$Cform$$VPerforming Bodies in Pain Medieval and Post-Modern Martyrs, Mystics, and Artists$$Z9995719566007871", "$$Cform$$VPrint version: Carlson, Marla. Performing bodies in pain. 1st ed. New York : Palgrave Macmillan, 2010$$QPerforming bodies in pain.$$Z990033725150107871" ],
+        "mesh" : [ "Pain -- history" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph004550527" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045505270107871" ],
+        "recordid" : [ "alma990045505270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004550527-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Carlson" ],
+        "aufirst" : [ "Marla." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Carlson, Marla." ],
+        "creatorfull" : [ "$$NCarlson, Marla.$$LCarlson$$FMarla.$$Rauthor" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9780230111486", "0230111483", "9781349288274", "1349288276", "9780230103863" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The urgent debate about torture in public discourse of the twenty-first century thrusts pain into the foreground while research in neuroscience is transforming our understanding of this fundamental human experience. In late-medieval France, a country devastated by the Black Death, torn by civil strife, and strained by the Hundred Year's War with England, the notion of pain shifted within the conceptual frameworks provided by theology and medicine. Performing Bodies in Pain analyzes the cultural work of spectacular suffering during these two periods, reading recent dramatizations of torture and performances of self-mutilating conceptual art against late-medieval saint plays." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)696333878" ],
+        "doi" : [ "10.1057/9780230111486" ],
+        "edition" : [ "1st ed." ],
+        "seriestitle" : [ "Palgrave studies in theatre and performance history" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Performing bodies in pain : medieval and post-modern martyrs, mystics, and artists" ]
+      },
+      "sort" : {
+        "title" : [ "Performing bodies in pain : medieval and post-modern martyrs, mystics, and artists /" ],
+        "author" : [ "Carlson, Marla." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045505270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0230111483,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2272.5 p35ǂc37 2010",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "496",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "59",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "76",
+    "RETRIVE_FROM_DB_RELATIONS" : "144",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "194",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "863",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 897,
+    "COMBINED_SEARCH_TIME" : 901,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Douleur Au Théâtre",
+      "count" : "1"
+    }, {
+      "value" : "France",
+      "count" : "1"
+    }, {
+      "value" : "Frankreich",
+      "count" : "1"
+    }, {
+      "value" : "French Drama",
+      "count" : "1"
+    }, {
+      "value" : "French Drama To 1500 History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Gewalt Motiv",
+      "count" : "1"
+    }, {
+      "value" : "Martyrium Motiv",
+      "count" : "1"
+    }, {
+      "value" : "Mysterienspiel",
+      "count" : "1"
+    }, {
+      "value" : "Pain History",
+      "count" : "1"
+    }, {
+      "value" : "Pain In The Theater",
+      "count" : "1"
+    }, {
+      "value" : "Passion Plays",
+      "count" : "1"
+    }, {
+      "value" : "Passion Plays History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Passions Théâtre Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Performance Art",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Acting Auditioning",
+      "count" : "1"
+    }, {
+      "value" : "Rezeption",
+      "count" : "1"
+    }, {
+      "value" : "Schmerz Motiv",
+      "count" : "1"
+    }, {
+      "value" : "Smärta På Scenen",
+      "count" : "1"
+    }, {
+      "value" : "Teater Historia France Medeltiden",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carlson Marla",
+      "count" : "1"
+    } ]
+  } ]
+}

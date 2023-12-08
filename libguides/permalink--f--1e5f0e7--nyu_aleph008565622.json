@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085656220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Development practice of digital business environment in China" ],
+        "subject" : [ "Electronic commerce -- China", "Commerce électronique -- Chine", "Electronic commerce", "China" ],
+        "format" : [ "1 online resource." ],
+        "identifier" : [ "$$CISBN$$V9789811685279;$$CISBN$$V9811685274;$$COCLC$$V(OCoLC)1296533333;$$CISBN$$V9811685266;$$CISBN$$V9789811685262" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Li, Xiaolong, author.$$QLi, Xiaolong" ],
+        "publisher" : [ "Singapore : Springer" ],
+        "description" : [ "This book gives an in-depth research on digital business environment as well as its indicators analysis by means of collecting huge data and cases in China. Additionally, its on the first try to apply bibliometric method to business environment literature review. The main contents of this book contain the research on the connotation and evaluation indicator system of digital business environment, and a series of excellent practices in improving the business environment in China in the aspects of digital infrastructure construction, digital market order, digital security, digital government application, digital literacy and innovation, etc. The expected readers are scholars who study business environment-related topics, groups interested in digital business environment, businessmen and officials. The most significant features of this book lie in its novel topics and detailed cases, which can help readers to have a more comprehensive and in-depth understanding of China's digital business environment construction." ],
+        "mms" : [ "990085656220107871" ],
+        "contributor" : [ "Li, Jiyin, author.$$QLi, Jiyin", "Yuan, Chunhui, author.$$QYuan, Chunhui", "Guo, Songliang, author.$$QGuo, Songliang", "Wang, Zhen, 1949 November- author.$$QWang, Zhen" ],
+        "series" : [ "Applied Economics and Policy Studies$$QApplied Economics and Policy Studies", "Applied economics and policy studies.$$QApplied economics and policy studies." ],
+        "contents" : [ "Intro -- Contents -- 1 Introduction -- 1.1 Digital Technology Iterative Innovation Brings About the Transformation of Business -- 1.2 The Vigorous Global Digital Economy Provides a Solid Foundation for Digital Business Environment -- 2 Concept Scope -- 2.1 The Concept of the Doing-Digital-Business Environment Is \"Ready to Come Out\" -- 2.2 Overview of Researches on Business Environment Based on Bibliometrics -- 2.3 Connotation of Business Environment -- 2.4 Researches on Business Environment Assessment", "2.5 Countries Continuously Perfect Policy System and Optimize the Doing-Digital-Business Environment -- 3 Digital Infrastructure -- 3.1 Overview of Digital Infrastructure Construction -- 3.2 Research on Digital Infrastructure Evaluation Indicator of Digital Business Environment -- 3.2.1 The Principle of Setting Indicators -- 3.2.2 Indicators' Setting -- 3.3 Best Practices of Digital Infrastructure Construction in China -- 3.3.1 5G Network -- 3.3.2 Datacenter -- 3.3.3 Industry Internet -- 3.3.4 Basic Software -- 3.3.5 Baidu Group's Digital Infrastructure Practice", "3.3.6 Construction of Software Park in Haidian District -- 4 Digital Order -- 4.1 Concepts and Development of Digital Market Order -- 4.1.1 Concepts of Market Order -- 4.1.2 Development of Digital Market Order Theory -- 4.2 Digital Business Environment-Research on Evaluation Indicators of Digital Market Order -- 4.3 Best Practice of Digital Market Order -- 4.3.1 Alibaba Anti-counterfeiting Alliance -- 4.3.2 Alibaba Under Antitrust Investigation -- 4.3.3 E-commerce Livestreaming Platforms Help to Maintain Market Order and Create New Governance Models -- 5 Digital Security", "5.1 New Risks of Digital Security and Its Technical Protection Measures -- 5.1.1 New Risks of Digital Security in the Digital Economy Era -- 5.1.2 Technical Means of Digital Security Protection -- 5.2 Status of Creating Digital Security Environment -- 5.2.1 Government Public Data Open and Sharing -- 5.2.2 Consumer Personal Data Protection -- 5.2.3 Cross-Border Data Flow -- 5.3 Doing-Digital-Business Environment-Research on Digital Security Assessment Indicators -- 5.4 China's Digital Security Best Practices", "5.4.1 Beijing Municipal Government Affairs Data Resources Network Promotes Public Data Sharing by Multi-means -- 5.4.2 Venustech Accentuates the Government's Support in Building Network Security -- 5.4.3 TOPSEC Highlights Personal Data Protection -- 5.4.4 Many Provinces and Cities in China Have Issued Policies Related to Government Data Security -- 6 Digital Services -- 6.1 Demand of the Times for the Development of Digital Government Services -- 6.1.1 Social Needs -- 6.1.2 Digital Technology -- 6.2 Digital Government Services for Doing-Digital-Business Environment Assessment" ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Singapore :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008565622" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085656220107871" ],
+        "recordid" : [ "alma990085656220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008565622-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Li" ],
+        "aufirst" : [ "Xiaolong" ],
+        "auinit" : [ "X" ],
+        "au" : [ "Li, Xiaolong" ],
+        "addau" : [ "Li, Jiyin", "Yuan, Chunhui", "Guo, Songliang", "Wang, Zhen" ],
+        "creatorfull" : [ "$$NLi, Xiaolong$$LLi$$FXiaolong$$Rauthor" ],
+        "contributorfull" : [ "$$NLi, Jiyin$$LLi$$FJiyin$$Rcontributor", "$$NYuan, Chunhui$$Rcontributor", "$$NGuo, Songliang$$Rcontributor", "$$NWang, Zhen$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "isbn" : [ "9789811685279", "9811685274", "9811685266", "9789811685262" ],
+        "abstract" : [ "This book gives an in-depth research on digital business environment as well as its indicators analysis by means of collecting huge data and cases in China. Additionally, its on the first try to apply bibliometric method to business environment literature review. The main contents of this book contain the research on the connotation and evaluation indicator system of digital business environment, and a series of excellent practices in improving the business environment in China in the aspects of digital infrastructure construction, digital market order, digital security, digital government application, digital literacy and innovation, etc. The expected readers are scholars who study business environment-related topics, groups interested in digital business environment, businessmen and officials. The most significant features of this book lie in its novel topics and detailed cases, which can help readers to have a more comprehensive and in-depth understanding of China's digital business environment construction." ],
+        "cop" : [ "Singapore" ],
+        "pub" : [ "Springer" ],
+        "oclcid" : [ "(ocolc)1296533333" ],
+        "doi" : [ "10.1007/978-981-16-8527-9" ],
+        "seriestitle" : [ "Applied Economics and Policy Studies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Development practice of digital business environment in China" ]
+      },
+      "sort" : {
+        "title" : [ "Development practice of digital business environment in China" ],
+        "author" : [ "Li, Xiaolong, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085656220107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085656220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9811685274,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5548.325 c6",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "160",
+    "CALL_SOLR_GET_IDS_LIST" : "76",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "71",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "29",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "357",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 389,
+    "COMBINED_SEARCH_TIME" : 394,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 2
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Commerce Électronique Chine",
+      "count" : "1"
+    }, {
+      "value" : "Electronic Commerce",
+      "count" : "1"
+    }, {
+      "value" : "Electronic Commerce China",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Guo Songliang",
+      "count" : "1"
+    }, {
+      "value" : "Li Jiyin",
+      "count" : "1"
+    }, {
+      "value" : "Li Xiaolong",
+      "count" : "1"
+    }, {
+      "value" : "Wang Zhen",
+      "count" : "1"
+    }, {
+      "value" : "Yuan Chunhui",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,227 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990058359380107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Hands-on programming with R " ],
+        "subject" : [ "R (Langage de programmation)", "COMPUTERS -- Computer Literacy", "COMPUTERS -- Computer Science", "COMPUTERS -- Data Processing", "COMPUTERS -- Hardware -- General", "COMPUTERS -- Information Technology", "COMPUTERS -- Machine Theory", "COMPUTERS -- Reference", "Mathematical statistics", "R (Computer program language)", "Statistiek", "Programmeertalen" ],
+        "format" : [ "1 online resource : illustrations", "text file" ],
+        "identifier" : [ "$$CLC$$V2014451870;$$CISBN$$V1449359019;$$CISBN$$V1449359086;$$CISBN$$V9781449359089;$$CISBN$$V9781449359119;$$CISBN$$V1449359116;$$CISBN$$V9781449359102;$$CISBN$$V1449359108;$$COCLC$$V(OCoLC)884735622;$$CISBN$$V9781449359010" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Grolemund, Garrett, author.$$QGrolemund, Garrett" ],
+        "publisher" : [ "Place of publication not identified : O'Reilly Media" ],
+        "description" : [ "Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you'll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools." ],
+        "mms" : [ "990058359380107871" ],
+        "contents" : [ "Project 1: Weighted dice -- Project 2: Playing cards -- Project 3: Slot machine." ],
+        "genre" : [ "Handbooks and manuals" ],
+        "relation" : [ "$$Cform$$VGrolemund, Garrett. Hands-on programming with R. First edition. Sebastopol, CA : O'Reilly, 2014$$QHands-on programming with R.$$Z990040219130107871" ],
+        "place" : [ "Place of publication not identified] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph005835938" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990058359380107871" ],
+        "recordid" : [ "alma990058359380107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005835938-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Grolemund" ],
+        "aufirst" : [ "Garrett" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Grolemund, Garrett" ],
+        "creatorfull" : [ "$$NGrolemund, Garrett$$LGrolemund$$FGarrett$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "1449359019", "1449359086", "9781449359089", "9781449359119", "1449359116", "9781449359102", "1449359108", "9781449359010" ],
+        "abstract" : [ "Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you'll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools." ],
+        "cop" : [ "Place of publication not identified" ],
+        "pub" : [ "O'Reilly Media" ],
+        "oclcid" : [ "(ocolc)884735622" ],
+        "lccn" : [ "2014451870" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Hands-on programming with R" ]
+      },
+      "sort" : {
+        "title" : [ "Hands-on programming with R /" ],
+        "author" : [ "Grolemund, Garrett, author." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990058359380107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1449359116,OCLC:,LCCN:2014451870&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa!76.73 r3ǂg76 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "157",
+    "CALL_SOLR_GET_IDS_LIST" : "104",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "27",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "395",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 421,
+    "COMBINED_SEARCH_TIME" : 423,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Computers Computer Literacy",
+      "count" : "1"
+    }, {
+      "value" : "Computers Computer Science",
+      "count" : "1"
+    }, {
+      "value" : "Computers Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Computers Hardware General",
+      "count" : "1"
+    }, {
+      "value" : "Computers Information Technology",
+      "count" : "1"
+    }, {
+      "value" : "Computers Machine Theory",
+      "count" : "1"
+    }, {
+      "value" : "Computers Reference",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Programmeertalen",
+      "count" : "1"
+    }, {
+      "value" : "R Computer Program Language",
+      "count" : "1"
+    }, {
+      "value" : "R Langage De Programmation",
+      "count" : "1"
+    }, {
+      "value" : "Statistiek",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Grolemund Garrett",
+      "count" : "1"
+    } ]
+  } ]
+}

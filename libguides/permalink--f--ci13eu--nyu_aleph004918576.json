@@ -1,0 +1,236 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990049185760107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Loving story " ],
+        "subject" : [ "Loving, Richard Perry -- Trials, litigation, etc", "Loving, Mildred Jeter -- Trials, litigation, etc", "Loving, Mildred Jeter", "Loving, Richard Perry", "Interracial marriage -- Law and legislation -- Virginia", "Interracial marriage -- Law and legislation", "Virginia" ],
+        "format" : [ "1 online resource (1 streaming video file (77 min.))" ],
+        "identifier" : [ "$$CPUBNUM$$Vif-ls;$$COCLC$$V(OCoLC)916530273" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "Brooklyn, New York : Distributed by Icarus Films" ],
+        "description" : [ "On June 2, 1958, Richard Loving and his fiancee Mildred Jeter traveled from Caroline County, VA, to Washington, D.C. to be married. Later, the newlyweds were arrested, tried and convicted of the felony crime of miscegenation. Two young ACLU lawyers took on the Lovings case, fully aware of the challenges posed. The U.S. Supreme Court ruled unanimously in their favor on June 12, 1967 and resulted in sixteen states being ordered to overturn their bans on interracial marriage." ],
+        "mms" : [ "990049185760107871" ],
+        "contributor" : [ "Buirski, Nancy, screenwriter, film director, film producer.$$QBuirski, Nancy", "James, Elisabeth Haviland, film producer, film editor.$$QJames, Elisabeth Haviland", "Powell, Susie Ruth, screenwriter.$$QPowell, Susie Ruth", "Loving, Richard Perry, interviewee.$$QLoving, Richard Perry", "Loving, Mildred Jeter, interviewee.$$QLoving, Mildred Jeter", "HBO Documentary Films.$$QHBO Documentary Films.", "Augusta Films.$$QAugusta Films.", "Icarus Films.$$QIcarus Films." ],
+        "genre" : [ "Trials, litigation, etc", "Documentary films", "Feature films", "Nonfiction films", "Documentaires", "Films autres que de fiction" ],
+        "mesh" : [ "Documentaries and Factual Films" ],
+        "place" : [ "Brooklyn, New York] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspowned", "docusk", "aleph004918576" ],
+        "lds60" : [ "Title from title frames.", "Originally produced by: Augusta Films, c2011." ],
+        "lds64" : [ "Cinematography, Rex Miller, Steve Milligan, Abbot Mills ; editor, Elisabeth Haviland James ; original music, David Majzlin." ],
+        "lds65" : [ "Interviews, Richard Loving, Mildred Loving and others." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990049185760107871" ],
+        "recordid" : [ "alma990049185760107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004918576-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Buirski", "James", "Powell", "Loving" ],
+        "aufirst" : [ "Nancy", "Elisabeth Haviland", "Susie Ruth", "Richard Perry", "Mildred Jeter" ],
+        "auinit" : [ "N", "E", "S", "R", "M" ],
+        "addau" : [ "Buirski, Nancy", "James, Elisabeth Haviland", "Powell, Susie Ruth", "Loving, Richard Perry", "Loving, Mildred Jeter" ],
+        "contributorfull" : [ "$$NBuirski, Nancy$$LBuirski$$FNancy$$Rcontributor", "$$NJames, Elisabeth Haviland$$Rcontributor", "$$NPowell, Susie Ruth$$Rcontributor", "$$NLoving, Richard Perry$$Rcontributor", "$$NLoving, Mildred Jeter$$Rcontributor" ],
+        "date" : [ "2012 - 2011", "2012" ],
+        "abstract" : [ "On June 2, 1958, Richard Loving and his fiancee Mildred Jeter traveled from Caroline County, VA, to Washington, D.C. to be married. Later, the newlyweds were arrested, tried and convicted of the felony crime of miscegenation. Two young ACLU lawyers took on the Lovings case, fully aware of the challenges posed. The U.S. Supreme Court ruled unanimously in their favor on June 12, 1967 and resulted in sixteen states being ordered to overturn their bans on interracial marriage." ],
+        "cop" : [ "Brooklyn, New York" ],
+        "pub" : [ "[Distributed by] Icarus Films" ],
+        "oclcid" : [ "(ocolc)916530273" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The Loving story" ]
+      },
+      "sort" : {
+        "title" : [ "Loving story /" ],
+        "author" : [ "Buirski, Nancy, screenwriter, film director, film producer." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990049185760107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:916530273,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf\"224 l68ǂl69 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "111",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "117",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "372",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 406,
+    "COMBINED_SEARCH_TIME" : 409,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2011",
+      "count" : "1"
+    }, {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Interracial Marriage Law And Legislation",
+      "count" : "1"
+    }, {
+      "value" : "Interracial Marriage Law And Legislation Virginia",
+      "count" : "1"
+    }, {
+      "value" : "Loving Mildred Jeter",
+      "count" : "1"
+    }, {
+      "value" : "Loving Mildred Jeter Trials Litigation Etc",
+      "count" : "1"
+    }, {
+      "value" : "Loving Richard Perry",
+      "count" : "1"
+    }, {
+      "value" : "Loving Richard Perry Trials Litigation Etc",
+      "count" : "1"
+    }, {
+      "value" : "Virginia",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Augusta Films",
+      "count" : "1"
+    }, {
+      "value" : "Buirski Nancy",
+      "count" : "1"
+    }, {
+      "value" : "Hbo Documentary Films",
+      "count" : "1"
+    }, {
+      "value" : "Icarus Films",
+      "count" : "1"
+    }, {
+      "value" : "James Elisabeth Haviland",
+      "count" : "1"
+    }, {
+      "value" : "Loving Mildred Jeter",
+      "count" : "1"
+    }, {
+      "value" : "Loving Richard Perry",
+      "count" : "1"
+    }, {
+      "value" : "Powell Susie Ruth",
+      "count" : "1"
+    } ]
+  } ]
+}

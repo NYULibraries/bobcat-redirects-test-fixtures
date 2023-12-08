@@ -1,0 +1,271 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995627694407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "The journal of consumer research." ],
+        "subject" : [ "Consumer behavior$$QConsumer behavior -- Periodicals", "Motivation research (Marketing)$$QMotivation research (Marketing) -- Periodicals", "Consumer behavior", "Motivation research (Marketing)", "HW_MM", "Journal", "Online Journal" ],
+        "format" : [ "1 online resource (: illustrations" ],
+        "identifier" : [ "$$CLC$$V  2001211392;$$CISSN$$V1537-5277;$$COCLC$$V(OCoLC)48417873;$$CISSN$$V0093-5301" ],
+        "creationdate" : [ "1974-" ],
+        "publisher" : [ "Cary, NC : Oxford University Press", "Began with Volume 1, number 1 (June 1974)." ],
+        "mms" : [ "9995627694407871" ],
+        "contributor" : [ "American Association for Public Opinion Research, sponsoring body.$$QAmerican Association for Public Opinion Research", "University of Chicago. Press.$$QUniversity of Chicago. Press." ],
+        "addtitle" : [ "JCR", "Consumer research 1974" ],
+        "frequency" : [ "Bimonthly, June 2007-" ],
+        "genre" : [ "Electronic journal", "Periodicals" ],
+        "place" : [ "Cary, NC :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954921366559" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995627694407871" ],
+        "recordid" : [ "alma9995627694407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954921366559" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "JOURNAL OF CONSUMER RESEARCH", "JOURNAL OF CONSUMER RESEARCH AN INTERDISCIPLINARY QUARTERLY", "J CONSUM RES", "J. CONSUM. RES", "J. consum. res. (Online, Univ. Chic., Press)" ],
+        "addtitle" : [ "JCR", "Consumer research" ],
+        "date" : [ "1974", "1974-" ],
+        "issn" : [ "1537-5277", "0093-5301" ],
+        "cop" : [ "Chicago, Illinois" ],
+        "pub" : [ "Journal of Consumer Research" ],
+        "oclcid" : [ "(ocolc)48417873" ],
+        "lccn" : [ "2001211392", "2001227346" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "The journal of consumer research." ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "journal of consumer research." ],
+        "author" : [ "American Association for Public Opinion Research, sponsoring body." ],
+        "creationdate" : [ "1974" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627694407871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2001211392&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5415.3",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "111",
+    "CALL_SOLR_GET_IDS_LIST" : "3038",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "72",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "55",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "43",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "29",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "8",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "3240",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 3259,
+    "COMBINED_SEARCH_TIME" : 3263,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1974",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Consumer Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Consumer Behavior Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hw Mm",
+      "count" : "1"
+    }, {
+      "value" : "Journal",
+      "count" : "1"
+    }, {
+      "value" : "Motivation Research Marketing",
+      "count" : "1"
+    }, {
+      "value" : "Motivation Research Marketing Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Online Journal",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Association For Public Opinion Research",
+      "count" : "1"
+    }, {
+      "value" : "University Of Chicago Press",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

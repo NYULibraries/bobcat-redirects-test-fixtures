@@ -1,0 +1,287 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990070832570107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Staging personhood : costuming in early Qing drama " ],
+        "subject" : [ "Costume -- China -- History -- Ming-Qing dynasties, 1368-1912", "Clothing and dress -- China -- History -- Ming-Qing dynasties, 1368-1912", "Clothing and dress -- Social aspects -- China", "Theater -- China -- History -- 17th century", "Theater and society -- China", "Théâtre -- Chine -- Histoire -- 17e siècle", "Théâtre et société -- Chine", "DESIGN -- Textile & Costume", "LITERARY CRITICISM -- Drama", "Clothing and dress -- Ming-Qing dynasties", "Clothing and dress -- Social aspects", "Costume -- Ming-Qing dynasties", "Theater", "Theater and society", "China", "1368-1912" ],
+        "format" : [ "1 online resource (xii, 300 pages) : illustrations." ],
+        "identifier" : [ "$$CLC$$V2019033436;$$CISBN$$V9780231549578;$$CISBN$$V0231549571;$$COCLC$$V(OCoLC)1129398697;$$CISBN$$V9780231191906" ],
+        "creationdate" : [ "2020" ],
+        "creator" : [ "Wang, Guojun, 1982- author.$$QWang, Guojun" ],
+        "publisher" : [ "New York : Columbia University Press" ],
+        "description" : [ "\"Throughout Chinese history, almost all the \"conquest\" dynasties forced Chinese people to conform to the rulers' ethnic clothing and hairstyle in the wake of the conquests. This was no different in the early Qing period, when Manchu rulers forced their style on the Han majority. However, the theater was one of the only areas of life that was not permeated by Manchu culture and where Han costumes remained. In Exile to the Stage: Costuming and Personhood in Early Qing Drama, Guojun Wang explores clothing and costumes as indices of ethnic and gender identities during the Ming-Qing transition\"-- Provided by publisher." ],
+        "mms" : [ "990070832570107871" ],
+        "contents" : [ "Introduction: Costuming as method -- Ways to dress and ways to see -- Across genders and ethnicities -- Between family and state -- The chaste lady immortal of seamless stitching -- From state attire to stage prop -- Epilogue: Dressing other and self." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Wang, Guojun, 1982- Staging personhood. New York : Columbia University Press, [2020]$$QStaging personhood.$$Z990074659030107871" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "ebceb", "ebscoac", "jstoreba", "aleph007083257" ],
+        "lds60" : [ "Revision of the author's thesis: Sartorial spectacle : clothing, identity, and the state in early Qing drama." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990070832570107871" ],
+        "recordid" : [ "alma990070832570107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007083257-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wang" ],
+        "aufirst" : [ "Guojun" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Wang, Guojun" ],
+        "creatorfull" : [ "$$NWang, Guojun$$LWang$$FGuojun$$Rauthor" ],
+        "date" : [ "2020" ],
+        "isbn" : [ "9780231549578", "0231549571", "9780231191906" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Throughout Chinese history, almost all the \"conquest\" dynasties forced Chinese people to conform to the rulers' ethnic clothing and hairstyle in the wake of the conquests. This was no different in the early Qing period, when Manchu rulers forced their style on the Han majority. However, the theater was one of the only areas of life that was not permeated by Manchu culture and where Han costumes remained. In Exile to the Stage: Costuming and Personhood in Early Qing Drama, Guojun Wang explores clothing and costumes as indices of ethnic and gender identities during the Ming-Qing transition\"-- Provided by publisher." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Columbia University Press" ],
+        "oclcid" : [ "(ocolc)1129398697" ],
+        "lccn" : [ "2019033436" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Staging personhood : costuming in early Qing drama" ]
+      },
+      "sort" : {
+        "title" : [ "Staging personhood : costuming in early Qing drama /" ],
+        "author" : [ "Wang, Guojun, 1982- author." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070832570107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070832570107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070832570107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070832570107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990070832570107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231549571,OCLC:,LCCN:2019033436&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "gt#1555ǂ w35 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "240",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "257",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "29",
+    "RETRIVE_FROM_DB_RELATIONS" : "48",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "229",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "115",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "697",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 734,
+    "COMBINED_SEARCH_TIME" : 737,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1368 1912",
+      "count" : "1"
+    }, {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress China History Ming Qing Dynasties 1368 1912",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Ming Qing Dynasties",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Clothing And Dress Social Aspects China",
+      "count" : "1"
+    }, {
+      "value" : "Costume China History Ming Qing Dynasties 1368 1912",
+      "count" : "1"
+    }, {
+      "value" : "Costume Ming Qing Dynasties",
+      "count" : "1"
+    }, {
+      "value" : "Design Textile Costume",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Drama",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Society",
+      "count" : "1"
+    }, {
+      "value" : "Theater And Society China",
+      "count" : "1"
+    }, {
+      "value" : "Theater China History 17th Century",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Chine Histoire 17e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Théâtre Et Société Chine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wang Guojun",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

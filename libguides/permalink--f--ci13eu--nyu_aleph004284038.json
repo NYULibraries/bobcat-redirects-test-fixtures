@@ -1,0 +1,230 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042840380107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Genealogies of religion : discipline and reasons of power in Christianity and Islam " ],
+        "subject" : [ "Rushdie, Salman", "Rushdie, Salman, (1947- ...)", "religion (discipline)", "Christian civilization", "Islamic civilization", "Christendom", "Islam", "Antropologische aspecten", "Religion et civilisation", "Civilisation islamique", "Civilisation chrétienne", "Religion", "Religion Broadcasting" ],
+        "format" : [ "1 online resource (335 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780801895937;$$CISBN$$V0801895936;$$COCLC$$V(OCoLC)623917118" ],
+        "creationdate" : [ "©1993" ],
+        "creator" : [ "Asad, Talal, author.$$QAsad, Talal" ],
+        "publisher" : [ "Baltimore : Johns Hopkins University Press" ],
+        "description" : [ "\"In Genealogies of Religion Asad explores how religion as a historical category emerged in the West and has come to be applied by scholars, journalists, and politicians as a universal concept. The idea that religion has undergone a radical change since the Christian Reformation - from totalitarian and socially repressive to private and relatively benign - is a familiar part of the story of secularization. It is often invoked to explain and justify the liberal politics and world-view of modernity. And it leads to the view that \"politicized religions\" threaten both reason and liberty. Asad's essays explore and question all these assumptions. He argues that \"religion\" is a construction of European modernity, a construction that authorizes - for Westerners and non-Westerners alike - particular forms of \"history making.\" Asad examines aspects of this authorizing process in the so-called fundamentalism of Saudi Arabia, in the Rushdie affair in Great Britain, and in other phenomena.\"--Jacket" ],
+        "mms" : [ "990042840380107871" ],
+        "contents" : [ "Genealogies -- The Construction of Religion as an Anthropological Category -- Toward a Genealogy of the Concept of Ritual -- Archaisms -- Pain and Truth in Medieval Christian Ritual -- On Discipline and Humility in Medieval Christian Monasticism -- Translations -- The Concept of Cultural Translation in British Social Anthropology -- The Limits of Religious Criticism in the Middle East: Notes on Islamic Public Argument -- Polemics -- Multiculturalism and British Identity in the Wake of the Rushdie Affair -- Ethnography, Literature, and Politics: Some Readings and Uses of Salman Rushdie's Satanic Verses." ],
+        "relation" : [ "$$Cform$$VPrint version: Asad, Talal. Genealogies of religion. Baltimore : Johns Hopkins University Press, ©1993$$QGenealogies of religion.$$Z990021755620107871" ],
+        "mesh" : [ "Religion" ],
+        "place" : [ "Baltimore :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "pmusebp", "aleph004284038" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042840380107871" ],
+        "recordid" : [ "alma990042840380107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004284038-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Asad" ],
+        "aufirst" : [ "Talal" ],
+        "auinit" : [ "T" ],
+        "au" : [ "Asad, Talal" ],
+        "creatorfull" : [ "$$NAsad, Talal$$LAsad$$FTalal$$Rauthor" ],
+        "date" : [ "1993", "©1993" ],
+        "isbn" : [ "9780801895937", "0801895936" ],
+        "notes" : [ "Includes bibliographical references (pages 307-323) and index." ],
+        "abstract" : [ "\"In Genealogies of Religion Asad explores how religion as a historical category emerged in the West and has come to be applied by scholars, journalists, and politicians as a universal concept. The idea that religion has undergone a radical change since the Christian Reformation - from totalitarian and socially repressive to private and relatively benign - is a familiar part of the story of secularization. It is often invoked to explain and justify the liberal politics and world-view of modernity. And it leads to the view that \"politicized religions\" threaten both reason and liberty. Asad's essays explore and question all these assumptions. He argues that \"religion\" is a construction of European modernity, a construction that authorizes - for Westerners and non-Westerners alike - particular forms of \"history making.\" Asad examines aspects of this authorizing process in the so-called fundamentalism of Saudi Arabia, in the Rushdie affair in Great Britain, and in other phenomena.\"--Jacket" ],
+        "cop" : [ "Baltimore" ],
+        "pub" : [ "Johns Hopkins University Press" ],
+        "oclcid" : [ "(ocolc)623917118" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Genealogies of religion : discipline and reasons of power in Christianity and Islam" ]
+      },
+      "sort" : {
+        "title" : [ "Genealogies of religion : discipline and reasons of power in Christianity and Islam /" ],
+        "author" : [ "Asad, Talal, author." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990042840380107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0801895936,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bl!50ǂ a85 1993",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "205",
+    "CALL_SOLR_GET_IDS_LIST" : "90",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "213",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "206",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "614",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 643,
+    "COMBINED_SEARCH_TIME" : 645,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Antropologische Aspecten",
+      "count" : "1"
+    }, {
+      "value" : "Christendom",
+      "count" : "1"
+    }, {
+      "value" : "Christian Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Civilisation Chrétienne",
+      "count" : "1"
+    }, {
+      "value" : "Civilisation Islamique",
+      "count" : "1"
+    }, {
+      "value" : "Islam",
+      "count" : "1"
+    }, {
+      "value" : "Islamic Civilization",
+      "count" : "1"
+    }, {
+      "value" : "Religion",
+      "count" : "1"
+    }, {
+      "value" : "Religion Broadcasting",
+      "count" : "1"
+    }, {
+      "value" : "Religion Discipline",
+      "count" : "1"
+    }, {
+      "value" : "Religion Et Civilisation",
+      "count" : "1"
+    }, {
+      "value" : "Rushdie Salman",
+      "count" : "1"
+    }, {
+      "value" : "Rushdie Salman 1947",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Asad Talal",
+      "count" : "1"
+    } ]
+  } ]
+}

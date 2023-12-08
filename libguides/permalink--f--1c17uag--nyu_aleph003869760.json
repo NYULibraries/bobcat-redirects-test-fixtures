@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990038697600107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Florentine villa : architecture, history, society " ],
+        "subject" : [ "Country homes -- Italy -- Florence (Province)", "Architecture and society -- Italy -- Florence (Province)", "Architecture and society", "Country homes", "Italy -- Florence (Province)" ],
+        "format" : [ "1 online resource (223 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780203939253;$$CISBN$$V0203939255;$$COCLC$$V(OCoLC)505083247" ],
+        "creationdate" : [ "©2007" ],
+        "creator" : [ "Gobbi, Grazia.$$QGobbi, Grazia." ],
+        "publisher" : [ "London : Routledge" ],
+        "mms" : [ "990038697600107871" ],
+        "series" : [ "Classical tradition in architecture.$$QClassical tradition in architecture.", "The classical tradition in architecture$$QThe classical tradition in architecture" ],
+        "contents" : [ "Part PART ONE -- chapter 1 Origins and Development of the Villa -- chapter 2 The Ideology of Villa Life in Florentine Culture and Society -- chapter 3 Typological Research and Renaissance Treatises -- chapter 4 The Garden: Origin and Development -- chapter 5 Villas in the Nineteenth Century -- part PART TWO -- chapter 6 The Shape of the Landscape -- chapter 7 The History of the Area -- chapter 8 Mapping the Area." ],
+        "relation" : [ "$$Cform$$VPrint version: Gobbi, Grazia. Villa fiorentina. English. Florentine villa. London : Routledge, ©2007$$QFlorentine villa." ],
+        "unititle" : [ "Villa fiorentina. English" ],
+        "includes" : [ "Gobbi, Grazia. Villa fiorentina. English$$QGobbi, Grazia. Villa fiorentina. English" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph003869760" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990038697600107871" ],
+        "recordid" : [ "alma990038697600107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003869760-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gobbi" ],
+        "aufirst" : [ "Grazia." ],
+        "auinit" : [ "G" ],
+        "au" : [ "Gobbi, Grazia." ],
+        "creatorfull" : [ "$$NGobbi, Grazia.$$LGobbi$$FGrazia.$$Rauthor" ],
+        "date" : [ "2007", "©2007" ],
+        "isbn" : [ "9780203939253", "0203939255" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)505083247" ],
+        "seriestitle" : [ "The classical tradition in architecture" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Florentine villa : architecture, history, society" ]
+      },
+      "sort" : {
+        "title" : [ "Florentine villa : architecture, history, society /" ],
+        "author" : [ "Gobbi, Grazia." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990038697600107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0203939255,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na#7565ǂ g63 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "244",
+    "CALL_SOLR_GET_IDS_LIST" : "190",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "80",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "48",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "75",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "107",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "634",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 668,
+    "COMBINED_SEARCH_TIME" : 671,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture And Society",
+      "count" : "1"
+    }, {
+      "value" : "Architecture And Society Italy Florence Province",
+      "count" : "1"
+    }, {
+      "value" : "Country Homes",
+      "count" : "1"
+    }, {
+      "value" : "Country Homes Italy Florence Province",
+      "count" : "1"
+    }, {
+      "value" : "Italy Florence Province",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gobbi Grazia",
+      "count" : "1"
+    } ]
+  } ]
+}

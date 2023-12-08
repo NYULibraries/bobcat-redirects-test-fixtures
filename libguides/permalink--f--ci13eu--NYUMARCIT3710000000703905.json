@@ -1,0 +1,261 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995627878407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Perspectives of the ASHA special interest groups (Online)" ],
+        "subject" : [ "People with disabilities -- Means of communication$$QPeople with disabilities -- Means of communication -- Periodicals", "Communicative disorders -- Treatment$$QCommunicative disorders -- Treatment -- Periodicals", "Speech therapy$$QSpeech therapy -- Periodicals", "Audiology$$QAudiology -- Periodicals", "Hearing disorders -- Treatment$$QHearing disorders -- Treatment -- Periodicals", "Audiology", "Communicative disorders -- Treatment", "Hearing disorders -- Treatment", "People with disabilities -- Means of communication", "Speech therapy" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2015203004;$$CISSN$$V2381-473X;$$COCLC$$V(OCoLC)925481158;$$CISSN$$V2381-4764" ],
+        "creationdate" : [ "2016-" ],
+        "publisher" : [ "Rockville, MD : American Speech-Language-Hearing Association" ],
+        "mms" : [ "9995627878407871" ],
+        "contributor" : [ "American Speech-Language-Hearing Association, issuing body.$$QAmerican Speech-Language-Hearing Association" ],
+        "addtitle" : [ "Perspectives of the American Speech-Language-Hearing Association special interest groups" ],
+        "genre" : [ "Periodicals" ],
+        "mesh" : [ "Speech-Language Pathology", "Periodical" ],
+        "unititle" : [ "Perspectives of the ASHA special interest groups (Online)" ],
+        "place" : [ "Rockville, MD] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)3710000000703905" ],
+        "lds60" : [ "Refereed/Peer-reviewed" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995627878407871" ],
+        "recordid" : [ "alma9995627878407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "993710000000703905" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "Perspect. ASHA special interest groups (Online)" ],
+        "addtitle" : [ "Perspectives of the American Speech-Language-Hearing Association special interest groups" ],
+        "date" : [ "2016", "2016-" ],
+        "issn" : [ "2381-473X", "2381-4764" ],
+        "cop" : [ "Rockville, MD" ],
+        "pub" : [ "American Speech-Language-Hearing Association" ],
+        "oclcid" : [ "(ocolc)925481158" ],
+        "lccn" : [ "2015203004" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Perspectives of the ASHA special interest groups (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Perspectives of the ASHA special interest groups (Online)" ],
+        "author" : [ "American Speech-Language-Hearing Association, issuing body." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627878407871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627878407871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627878407871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995627878407871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2015203004&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "issn record 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "56",
+    "CALL_SOLR_GET_IDS_LIST" : "106",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "34",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "10",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "52",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "264",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 303,
+    "COMBINED_SEARCH_TIME" : 305,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Audiology",
+      "count" : "1"
+    }, {
+      "value" : "Audiology Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Communicative Disorders Treatment",
+      "count" : "1"
+    }, {
+      "value" : "Communicative Disorders Treatment Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders Treatment",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders Treatment Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "People With Disabilities Means Of Communication",
+      "count" : "1"
+    }, {
+      "value" : "People With Disabilities Means Of Communication Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Speech Language Pathology",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy",
+      "count" : "1"
+    }, {
+      "value" : "Speech Therapy Periodicals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Speech Language Hearing Association",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

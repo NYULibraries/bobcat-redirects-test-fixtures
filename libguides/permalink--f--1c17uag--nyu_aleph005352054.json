@@ -1,0 +1,204 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990053520540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Black women in America " ],
+        "subject" : [ "African American women$$QAfrican American women -- Encyclopedias", "Noires américaines$$QNoires américaines -- Encyclopédies", "African American women" ],
+        "format" : [ "1 online resource (3 volumes)" ],
+        "identifier" : [ "$$CISBN$$V9780195371307;$$CISBN$$V0195371305;$$CISBN$$V0195223748;$$CISBN$$V9780195223743;$$CISBN$$V0195223756;$$CISBN$$V9780195223750;$$CISBN$$V0195223764;$$CISBN$$V9780195223767;$$COCLC$$V(OCoLC)192019147;$$CISBN$$V0195156773;$$CISBN$$V9780195156775" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "Oxford ; New York : Oxford University Press" ],
+        "description" : [ "\"Women such as Venus and Serena Williams, Condoleezza Rice, Carol Moseley Braun, Ruth Simmons, and Ann Fudge have become household names for their remarkable contributions to sports, politics, academia, and business. In nearly 600 entries, Black Women in America celebrates the remarkable achievements of black women throughout history, highlights their ongoing contributions in America today, and represents the new research the first edition helped to generate.\"" ],
+        "mms" : [ "990053520540107871" ],
+        "contributor" : [ "Hine, Darlene Clark.$$QHine, Darlene Clark." ],
+        "edition" : [ "2nd ed." ],
+        "contents" : [ "v. 1. A-G -- v. 2. H-Q -- v. 3. R-Z." ],
+        "genre" : [ "Electronic reference sources", "encyclopedias", "Sources", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version. Black women in America$$QBlack women in America$$Z990000683410107871" ],
+        "mesh" : [ "Encyclopedia" ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph005352054" ],
+        "lds60" : [ "Title from home page (viewed Apr 28, 2008)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990053520540107871" ],
+        "recordid" : [ "alma990053520540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005352054-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hine" ],
+        "aufirst" : [ "Darlene Clark." ],
+        "auinit" : [ "D" ],
+        "addau" : [ "Hine, Darlene Clark." ],
+        "contributorfull" : [ "$$NHine, Darlene Clark.$$LHine$$FDarlene Clark.$$Rcontributor" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "9780195371307", "0195371305", "0195223748", "9780195223743", "0195223756", "9780195223750", "0195223764", "9780195223767", "0195156773", "9780195156775" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "\"Women such as Venus and Serena Williams, Condoleezza Rice, Carol Moseley Braun, Ruth Simmons, and Ann Fudge have become household names for their remarkable contributions to sports, politics, academia, and business. In nearly 600 entries, Black Women in America celebrates the remarkable achievements of black women throughout history, highlights their ongoing contributions in America today, and represents the new research the first edition helped to generate.\"" ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)192019147" ],
+        "edition" : [ "2nd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Black women in America" ]
+      },
+      "sort" : {
+        "title" : [ "Black women in America /" ],
+        "author" : [ "Hine, Darlene Clark." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990053520540107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0195371305,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"185.86ǂ b542 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "258",
+    "CALL_SOLR_GET_IDS_LIST" : "55",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "42",
+    "RETRIVE_FROM_DB_RELATIONS" : "54",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "129",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "485",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 520,
+    "COMBINED_SEARCH_TIME" : 522,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African American Women",
+      "count" : "1"
+    }, {
+      "value" : "African American Women Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Noires Américaines Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hine Darlene Clark",
+      "count" : "1"
+    } ]
+  } ]
+}

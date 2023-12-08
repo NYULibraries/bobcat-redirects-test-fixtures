@@ -1,0 +1,246 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042670630107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Freedom is a constant struggle : Ferguson, Palestine, and the foundations of a movement " ],
+        "subject" : [ "Civil rights", "Liberty", "Oppression (Psychology)", "Social problems", "Violence" ],
+        "format" : [ "xiv, 158 pages ; 20 cm" ],
+        "identifier" : [ "$$CISBN$$V1608465640;$$CISBN$$V9781608465644;$$COCLC$$V(OCoLC)907653030" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Davis, Angela Y. (Angela Yvonne), 1944- author.$$QDavis, Angela Y." ],
+        "publisher" : [ "Chicago, Illinois : Haymarket Books" ],
+        "description" : [ "In these newly collected essays, interviews, and speeches, world-renowned activist and scholar Angela Y. Davis illuminates the connections between struggles against state violence and oppression throughout history and around the world. Reflecting on the importance of black feminism, intersectionality, and prison abolitionism for today's struggles, Davis discusses the legacies of previous liberation struggles, from the Black Freedom Movement to the South African anti-Apartheid movement. She highlights connections and analyzes today's struggles against state terror, from Ferguson to Palestine. Facing a world of outrageous injustice, Davis challenges us to imagine and build the movement for human liberation. And in doing so, she reminds us that \"Freedom is a constant struggle.\"" ],
+        "mms" : [ "990042670630107871" ],
+        "contributor" : [ "Barat, Frank, editor.$$QBarat, Frank" ],
+        "contents" : [ "Progressive struggles against insidious capitalist individualism -- Ferguson reminds us of the importance of a global context -- We have to talk about systematic change -- On Palestine, G4S, and the prison-industrial complex -- Closures and continuities -- From Michael Brown to Assata Shakur, the racist state of America persists -- The Truth Telling Project: violence in America -- Feminism and abolition: theories and practices for the twenty-first century -- Political activism and protest from the 1960s to the age of Obama -- Transnational solidarities." ],
+        "relation" : [ "$$Cform$$VFreedom is a constant struggle : Ferguson, Palestine, and the foundations of a movement$$Z990075453560107871" ],
+        "place" : [ "Chicago, Illinois :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004267063" ],
+        "lds53" : [ "004267063" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990042670630107871" ],
+        "recordid" : [ "alma990042670630107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004267063-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Davis" ],
+        "aufirst" : [ "Angela Y." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Davis, Angela Y. (Angela Yvonne)" ],
+        "addau" : [ "Barat, Frank" ],
+        "creatorfull" : [ "$$NDavis, Angela Y. (Angela Yvonne)$$LDavis$$FAngela Y.$$Rauthor" ],
+        "contributorfull" : [ "$$NBarat, Frank$$LBarat$$FFrank$$Reditor" ],
+        "date" : [ "2016" ],
+        "isbn" : [ "1608465640", "9781608465644" ],
+        "abstract" : [ "In these newly collected essays, interviews, and speeches, world-renowned activist and scholar Angela Y. Davis illuminates the connections between struggles against state violence and oppression throughout history and around the world. Reflecting on the importance of black feminism, intersectionality, and prison abolitionism for today's struggles, Davis discusses the legacies of previous liberation struggles, from the Black Freedom Movement to the South African anti-Apartheid movement. She highlights connections and analyzes today's struggles against state terror, from Ferguson to Palestine. Facing a world of outrageous injustice, Davis challenges us to imagine and build the movement for human liberation. And in doing so, she reminds us that \"Freedom is a constant struggle.\"" ],
+        "cop" : [ "Chicago, Illinois" ],
+        "pub" : [ "Haymarket Books" ],
+        "oclcid" : [ "(ocolc)907653030" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Freedom is a constant struggle : Ferguson, Palestine, and the foundations of a movement" ]
+      },
+      "sort" : {
+        "title" : [ "Freedom is a constant struggle : Ferguson, Palestine, and the foundations of a movement /" ],
+        "author" : [ "Davis, Angela Y. (Angela Yvonne), 1944- author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990042670630107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990042670630107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781608465644,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "jc\"571ǂ d3343 2016",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "166",
+    "CALL_SOLR_GET_IDS_LIST" : "97",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "29",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "22",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "384",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 429,
+    "COMBINED_SEARCH_TIME" : 431,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Civil Rights",
+      "count" : "1"
+    }, {
+      "value" : "Liberty",
+      "count" : "1"
+    }, {
+      "value" : "Oppression Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Social Problems",
+      "count" : "1"
+    }, {
+      "value" : "Violence",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barat Frank",
+      "count" : "1"
+    }, {
+      "value" : "Davis Angela Y",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

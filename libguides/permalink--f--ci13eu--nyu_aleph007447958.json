@@ -1,0 +1,231 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074479580107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The entrepreneur's guide to business law " ],
+        "subject" : [ "Commercial law -- United States", "Business enterprises -- Law and legislation -- United States$$QBusiness enterprises -- Law and legislation -- United States -- Popular works", "Business enterprises -- Law and legislation", "Commercial law", "United States" ],
+        "format" : [ "xxiii, 816 pages : forms ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2010942598;$$CISBN$$V9780538466462;$$CISBN$$V0538466464;$$CISBN$$V9780538466479;$$CISBN$$V0538466472;$$COCLC$$V(OCoLC)657601769" ],
+        "creationdate" : [ "©2012" ],
+        "creator" : [ "Bagley, Constance E.$$QBagley, Constance E." ],
+        "publisher" : [ "Mason, Ohio : South-Western" ],
+        "mms" : [ "990074479580107871" ],
+        "contributor" : [ "Dauchy, Craig E., 1949-$$QDauchy, Craig E." ],
+        "edition" : [ "4th ed." ],
+        "contents" : [ "Taking the plunge -- Leaving your employer -- Selecting and working with an attorney -- Deciding whether to incorporate -- Structuring the ownership -- Forming and working with the board -- Raising money and securities regulation -- Marshaling human resources -- Contracts and leases -- E-commerce and sales of goods and services -- Operational liabilities and insurance -- Creditor's rights and bankruptcy -- Venture capital -- Intellectual property and cyberlaw -- Going global -- Buying and selling a business -- Going public." ],
+        "genre" : [ "Popular works" ],
+        "place" : [ "Mason, Ohio :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007447958" ],
+        "lds53" : [ "007447958" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074479580107871" ],
+        "recordid" : [ "alma990074479580107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007447958-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bagley" ],
+        "aufirst" : [ "Constance E." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Bagley, Constance E." ],
+        "addau" : [ "Dauchy, Craig E." ],
+        "creatorfull" : [ "$$NBagley, Constance E.$$LBagley$$FConstance E.$$Rauthor" ],
+        "contributorfull" : [ "$$NDauchy, Craig E.$$LDauchy$$FCraig E.$$Rcontributor" ],
+        "date" : [ "2012", "©2012" ],
+        "isbn" : [ "9780538466462", "0538466464", "9780538466479", "0538466472" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Mason, Ohio" ],
+        "pub" : [ "South-Western" ],
+        "oclcid" : [ "(ocolc)657601769" ],
+        "lccn" : [ "2010942598" ],
+        "edition" : [ "4th ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The entrepreneur's guide to business law" ]
+      },
+      "sort" : {
+        "title" : [ "entrepreneur's guide to business law /" ],
+        "author" : [ "Bagley, Constance E." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074479580107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0538466464,OCLC:,LCCN:2010942598&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "kf\"390 b84ǂb34 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "96",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "15",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "92",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "94",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "375",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 405,
+    "COMBINED_SEARCH_TIME" : 408,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Enterprises Law And Legislation",
+      "count" : "1"
+    }, {
+      "value" : "Business Enterprises Law And Legislation United States Popular Works",
+      "count" : "1"
+    }, {
+      "value" : "Commercial Law",
+      "count" : "1"
+    }, {
+      "value" : "Commercial Law United States",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bagley Constance E",
+      "count" : "1"
+    }, {
+      "value" : "Dauchy Craig E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

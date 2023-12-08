@@ -1,0 +1,256 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990003015640107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Janson's history of art : the western tradition " ],
+        "subject" : [ "Art -- History", "Art -- Histoire" ],
+        "format" : [ "2 v. (various pagings) : ill. (chiefly col.), maps (chiefly col.) ; 30 cm." ],
+        "identifier" : [ "$$CLC$$V2005054647;$$CISBN$$V9780131934559;$$CISBN$$V0131934554;$$CISBN$$V0131934686 (v. 1 : pbk.);$$CISBN$$V9780131934689 (v. 1 : pbk.);$$CISBN$$V0131934724 (v. 2 : pbk.);$$CISBN$$V9780131934726 (v. 2 : pbk.);$$CISBN$$V0131934783;$$CISBN$$V9780131934788;$$COCLC$$V(OCoLC)61660302" ],
+        "creationdate" : [ "c2007" ],
+        "creator" : [ "Janson, H. W. (Horst Woldemar), 1913-$$QJanson, H. W." ],
+        "publisher" : [ "Upper Saddle River, N.J. : Pearson Prentice Hall" ],
+        "mms" : [ "990003015640107871" ],
+        "contributor" : [ "Davies, Penelope J. E., 1964-$$QDavies, Penelope J. E.", "Janson, H. W. (Horst Woldemar), 1913-$$QJanson, H. W." ],
+        "addtitle" : [ "History of art" ],
+        "edition" : [ "7th ed." ],
+        "contents" : [ "v. 1 -- The ancient world. Prehistoric art ; Ancient Near Eastern art ; Egyptian art ; Aegean art ; Greek art ; Etruscan art ; Roman art. -- The Middle Ages. Early Christian and Byzantine art ; Islamic art ; Early Medieval art ; Romanesque art ; Gothic art ; Art in thirteenth- and fourteenth-century Italy.", "v. 2 -- The Renaissance through the Rococo. Art in thirteenth- and fourteenth-century Italy ; Artistic innovations in fifteenth-century Northern Europe ; The early Renaissance in fifteenth-century Italy ; The high Renaissance in Italy ; The late Renaissance and Mannerism in sixteenth-century Italy ; Renaissance and Reformation in sixteenth-century Northern Europe ; The Baroque in Italy and Spain ; The Baroque in the Netherlands ; The Baroque in France and England ; The Rococo. -- The modern world. Art in the age of the Enlightenment, 1750-1789 ; Art in the age of Romanticism, 1789-1848 ; The age of positivism: Realism, Impressionism, and the Pre-Raphaelites, 1848-1885 ; Progress and its discontents: Post-Impressionism, Symbolism, and Art Nouveau, 1880-1905 ; Toward abstraction: the Modernist revolution, 1904-1914 ; Art between the wars ; Postwar to Postmodern, 1945-1980 ; The Postmodern era: art since 1980." ],
+        "relatedwork" : [ "Janson, H. W. (Horst Woldemar), 1913- History of art.$$QJanson, H. W. (Horst Woldemar), 1913- History of art." ],
+        "place" : [ "Upper Saddle River, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph000301564" ],
+        "lds53" : [ "000301564" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990003015640107871" ],
+        "recordid" : [ "alma990003015640107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "000301564-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Janson" ],
+        "aufirst" : [ "H. W." ],
+        "auinit" : [ "H" ],
+        "au" : [ "Janson, H. W. (Horst Woldemar)" ],
+        "addau" : [ "Davies, Penelope J. E.", "Janson, H. W. (Horst Woldemar)" ],
+        "creatorfull" : [ "$$NJanson, H. W. (Horst Woldemar)$$LJanson$$FH. W.$$Rauthor" ],
+        "contributorfull" : [ "$$NDavies, Penelope J. E.$$LDavies$$FPenelope J. E.$$Rcontributor", "$$NJanson, H. W. (Horst Woldemar)$$Rcontributor" ],
+        "addtitle" : [ "History of art" ],
+        "date" : [ "2007", "c2007" ],
+        "isbn" : [ "9780131934559", "0131934554", "0131934686", "9780131934689", "0131934724", "9780131934726", "0131934783", "9780131934788" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "cop" : [ "Upper Saddle River, N.J" ],
+        "pub" : [ "Pearson Prentice Hall" ],
+        "oclcid" : [ "(ocolc)61660302" ],
+        "lccn" : [ "2005054647" ],
+        "edition" : [ "7th ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Janson's history of art : the western tradition" ]
+      },
+      "sort" : {
+        "title" : [ "Janson's history of art : the western tradition /" ],
+        "author" : [ "Janson, H. W. (Horst Woldemar), 1913-" ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003015640107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003015640107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990003015640107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0131934554,OCLC:,LCCN:2005054647&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#5300ǂ j3 2007",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "130",
+    "CALL_SOLR_GET_IDS_LIST" : "129",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "85",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "34",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "24",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "81",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "446",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 465,
+    "COMBINED_SEARCH_TIME" : 468,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Art History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Davies Penelope J E",
+      "count" : "1"
+    }, {
+      "value" : "Janson H W",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,242 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046888330107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Comics and the Senses : a Multisensory Approach to Comics and Graphic Novels." ],
+        "subject" : [ "Comic books, strips, etc -- History and criticism", "Graphic novels -- History and criticism", "Romans graphiques -- Histoire et critique", "Sens et sensations dans la littérature", "ART -- Techniques -- Drawing", "Comic books, strips, etc", "Graphic novels", "Senses and sensation in literature" ],
+        "format" : [ "1 online resource (214 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781134684557;$$CISBN$$V113468455X;$$COCLC$$V(OCoLC)868491200;$$CISBN$$V9780415713979" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Hague, Ian.$$QHague, Ian." ],
+        "publisher" : [ "Hoboken : Taylor and Francis" ],
+        "description" : [ "Attempts to define what comics are and explain how they work have not always been successful because they are premised upon the idea that comic strips, comic books and graphic novels are inherently and almost exclusively visual. This book challenges that premise, and asserts that comics is not just a visual medium. The book outlines the multisensory aspects of comics: the visual, audible, tactile, olfactory and gustatory elements of the medium. It rejects a synaesthetic approach (by which all the senses are engaged through visual stimuli) and instead argues for a truly multisensory model by." ],
+        "mms" : [ "990046888330107871" ],
+        "series" : [ "Routledge Research in Cultural and Media Studies$$QRoutledge Research in Cultural and Media Studies", "Routledge research in cultural and media studies.$$QRoutledge research in cultural and media studies." ],
+        "contents" : [ "Cover; Title; Copyright; Contents; List of Illustrations; Note; Acknowledgements; Introduction; 1 Eye Like Comics, or, Ocularcentrism in Comics Scholarship; 2 Sight, or, the Ideal Perspective and the Physicality of Seeing; 3 Hearing, or, Visible Sounds and Seeing With the Ears; 4 Touch, or, the Taboo/Fetish Character of Comics and Tactile Performance; 5 Smell and Taste, or, the Scent of Nostalgia and the Flavour of Advertising; 6 Multisensory Aspects of the Comics of Alan Moore; Conclusion; References; Index." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Hague, Ian. Comics and the Senses : A Multisensory Approach to Comics and Graphic Novels. Hoboken : Taylor and Francis, ©2014$$QComics and the Senses : A Multisensory Approach to Comics and Graphic Novels.$$Z990039667590107871" ],
+        "place" : [ "Hoboken :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph004688833" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046888330107871" ],
+        "recordid" : [ "alma990046888330107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004688833-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hague" ],
+        "aufirst" : [ "Ian." ],
+        "auinit" : [ "I" ],
+        "au" : [ "Hague, Ian." ],
+        "creatorfull" : [ "$$NHague, Ian.$$LHague$$FIan.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781134684557", "113468455X", "9780415713979" ],
+        "abstract" : [ "Attempts to define what comics are and explain how they work have not always been successful because they are premised upon the idea that comic strips, comic books and graphic novels are inherently and almost exclusively visual. This book challenges that premise, and asserts that comics is not just a visual medium. The book outlines the multisensory aspects of comics: the visual, audible, tactile, olfactory and gustatory elements of the medium. It rejects a synaesthetic approach (by which all the senses are engaged through visual stimuli) and instead argues for a truly multisensory model by." ],
+        "cop" : [ "Hoboken" ],
+        "pub" : [ "Taylor and Francis" ],
+        "oclcid" : [ "(ocolc)868491200" ],
+        "seriestitle" : [ "Routledge Research in Cultural and Media Studies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Comics and the Senses : a Multisensory Approach to Comics and Graphic Novels." ]
+      },
+      "sort" : {
+        "title" : [ "Comics and the Senses : a Multisensory Approach to Comics and Graphic Novels." ],
+        "author" : [ "Hague, Ian." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046888330107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046888330107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046888330107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:113468455X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#6710 h27 2013",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "190",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "50",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "54",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "21",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "29",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "105",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "431",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 457,
+    "COMBINED_SEARCH_TIME" : 459,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Art Techniques Drawing",
+      "count" : "1"
+    }, {
+      "value" : "Comic Books Strips Etc",
+      "count" : "1"
+    }, {
+      "value" : "Comic Books Strips Etc History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Graphic Novels",
+      "count" : "1"
+    }, {
+      "value" : "Graphic Novels History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Romans Graphiques Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Sens Et Sensations Dans La Littérature",
+      "count" : "1"
+    }, {
+      "value" : "Senses And Sensation In Literature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hague Ian",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

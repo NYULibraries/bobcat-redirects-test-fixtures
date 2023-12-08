@@ -1,0 +1,284 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990068593490107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford Companion to American Theatre " ],
+        "subject" : [ "Fürstliches Schauspielhaus Bad Pyrmont", "Universidad Sergio Arboleda", "Theater -- United States$$QTheater -- United States -- Dictionaries", "Theater -- United States$$QTheater -- United States -- Biography Dictionaries", "American drama$$QAmerican drama -- Dictionaries", "Theater -- United States", "Théâtre -- États-Unis", "Théâtre (Genre littéraire)", "Théâtre -- États-Unis$$QThéâtre -- États-Unis -- Biographies Dictionnaires anglais", "plays (performing arts compositions)", "drama (literary genre)", "PERFORMING ARTS -- Theater -- History & Criticism", "Drama", "American drama", "United States", "Dramatiker", "Schauspieler", "USA", "Theater", "Toneel", "Théâtre (Spectacle)", "Théâtre américain (Littérature)", "Comédien", "États-Unis", "theater", "theatre", "uitvoerende kunsten", "performing arts", "drama", "uitvoerend kunstenaars", "performers", "naslagwerken", "reference works", "vs", "usa", "Arts (General)", "Kunst (algemeen)" ],
+        "format" : [ "1 online resource", "data file" ],
+        "identifier" : [ "$$CLC$$V2003021367;$$CISBN$$V9780199916474;$$CISBN$$V0199916470;$$CISBN$$V1423740394;$$CISBN$$V9781423740391;$$CISBN$$V0199771154;$$CISBN$$V9780199771158;$$COCLC$$V(OCoLC)56923022;$$CISBN$$V0195169867" ],
+        "creationdate" : [ "2004" ],
+        "publisher" : [ "New York, N.Y. ; Oxford : Oxford University Press" ],
+        "description" : [ "A guide to the American stage from its beginnings to the present. Includes entries on playwrights, plays, actors, directors, producers, songwriters, famous playhouses, dramatic movements, classic works, commercially successful plays, and foreign figures that have influenced American dramatic development." ],
+        "mms" : [ "990068593490107871" ],
+        "contributor" : [ "Bordman, Gerald Martin.$$QBordman, Gerald Martin.", "Hischak, Thomas S.$$QHischak, Thomas S.", "Oxford University Press.$$QOxford University Press." ],
+        "addtitle" : [ "Companion to American Theatre", "American Theatre", "Oxford Companion to American Theater" ],
+        "edition" : [ "3rd ed." ],
+        "series" : [ "North American theatre online.$$QNorth American theatre online." ],
+        "contents" : [ "\"\"Foreword\"\"; \"\"Preface to the Third Edition\"\"; \"\"From the Preface to the First Edition\"\"; \"\"The Oxford Companion to American Theatre\"\"; \"\"A\"\"; \"\"B\"\"; \"\"C\"\"; \"\"D\"\"; \"\"E\"\"; \"\"F\"\"; \"\"G\"\"; \"\"H\"\"; \"\"I\"\"; \"\"J\"\"; \"\"K\"\"; \"\"L\"\"; \"\"M\"\"; \"\"N\"\"; \"\"O\"\"; \"\"P\"\"; \"\"Q\"\"; \"\"R\"\"; \"\"S\"\"; \"\"T\"\"; \"\"U\"\"; \"\"V\"\"; \"\"W\"\"; \"\"Y\"\"; \"\"Z\"\"" ],
+        "genre" : [ "Biography", "Dictionnaires anglais", "dictionaries", "collective biographies", "Répertoire (Descripteur de forme)", "Dictionnaire (Descripteur de forme)", "Dictionaries", "Dictionnaires", "Biographies" ],
+        "relation" : [ "$$Cform$$VPrint version: Bordman, Gerald Martin. Oxford companion to American theatre. 3rd ed. New York : Oxford University Press, 2004$$QOxford companion to American theatre.$$Z990010489080107871" ],
+        "place" : [ "New York, N.Y.] ; Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "ebceb", "ebscoac", "oxforo", "aleph006859349" ],
+        "lds60" : [ "Title from home page (Oxford University Press, viewed Oct. 11, 2005)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990068593490107871" ],
+        "recordid" : [ "alma990068593490107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006859349-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bordman", "Hischak" ],
+        "aufirst" : [ "Gerald Martin.", "Thomas S." ],
+        "auinit" : [ "G", "T" ],
+        "addau" : [ "Bordman, Gerald Martin.", "Hischak, Thomas S." ],
+        "contributorfull" : [ "$$NBordman, Gerald Martin.$$LBordman$$FGerald Martin.$$Rcontributor", "$$NHischak, Thomas S.$$Rcontributor" ],
+        "addtitle" : [ "Companion to American Theatre", "American Theatre", "Oxford Companion to American Theater" ],
+        "date" : [ "2004" ],
+        "isbn" : [ "9780199916474", "0199916470", "1423740394", "9781423740391", "0199771154", "9780199771158", "0195169867" ],
+        "abstract" : [ "A guide to the American stage from its beginnings to the present. Includes entries on playwrights, plays, actors, directors, producers, songwriters, famous playhouses, dramatic movements, classic works, commercially successful plays, and foreign figures that have influenced American dramatic development." ],
+        "cop" : [ "New York, N.Y.] ;" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(ocolc)56923022" ],
+        "lccn" : [ "2003021367" ],
+        "edition" : [ "3rd ed." ],
+        "seriestitle" : [ "North American theatre online." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Oxford Companion to American Theatre" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford Companion to American Theatre /" ],
+        "author" : [ "Bordman, Gerald Martin." ],
+        "creationdate" : [ "2004" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068593490107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068593490107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990068593490107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0199916470,OCLC:,LCCN:2003021367&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2220ǂ b6 2004",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "251",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "38",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "56",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "77",
+    "RETRIVE_FROM_DB_RELATIONS" : "25",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "8",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "165",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "548",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 574,
+    "COMBINED_SEARCH_TIME" : 577,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2004",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Drama",
+      "count" : "1"
+    }, {
+      "value" : "American Drama Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Arts General",
+      "count" : "1"
+    }, {
+      "value" : "Comédien",
+      "count" : "1"
+    }, {
+      "value" : "Drama",
+      "count" : "1"
+    }, {
+      "value" : "Drama Literary Genre",
+      "count" : "1"
+    }, {
+      "value" : "Dramatiker",
+      "count" : "1"
+    }, {
+      "value" : "Fürstliches Schauspielhaus Bad Pyrmont",
+      "count" : "1"
+    }, {
+      "value" : "Kunst Algemeen",
+      "count" : "1"
+    }, {
+      "value" : "Naslagwerken",
+      "count" : "1"
+    }, {
+      "value" : "Performers",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Theater History Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Plays Performing Arts Compositions",
+      "count" : "1"
+    }, {
+      "value" : "Reference Works",
+      "count" : "1"
+    }, {
+      "value" : "Schauspieler",
+      "count" : "1"
+    }, {
+      "value" : "Theater",
+      "count" : "1"
+    }, {
+      "value" : "Theater United States",
+      "count" : "1"
+    }, {
+      "value" : "Theater United States Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Theater United States Dictionaries",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bordman Gerald Martin",
+      "count" : "1"
+    }, {
+      "value" : "Hischak Thomas S",
+      "count" : "1"
+    }, {
+      "value" : "Oxford University Press",
+      "count" : "1"
+    } ]
+  } ]
+}

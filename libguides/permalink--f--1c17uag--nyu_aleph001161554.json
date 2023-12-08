@@ -1,0 +1,224 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990011615540107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Johns Hopkins guide to literary theory & criticism " ],
+        "subject" : [ "Criticism$$QCriticism -- Bio-bibliography", "Literature -- History and criticism -- Theory, etc$$QLiterature -- History and criticism -- Theory, etc -- Bio-bibliography" ],
+        "format" : [ "xvii. 985 p. ; 26 cm." ],
+        "identifier" : [ "$$CLC$$V2004043814;$$CISBN$$V0801880106 (alk. paper)" ],
+        "creationdate" : [ "2005" ],
+        "publisher" : [ "Baltimore, Md. : Johns Hopkins University Press" ],
+        "mms" : [ "990011615540107871" ],
+        "contributor" : [ "Groden, Michael.$$QGroden, Michael.", "Kreiswirth, Martin.$$QKreiswirth, Martin.", "Szeman, Imre, 1968-$$QSzeman, Imre" ],
+        "addtitle" : [ "Guide to literary theory and criticism" ],
+        "edition" : [ "2nd ed." ],
+        "genre" : [ "Bio-bibliography" ],
+        "relation" : [ "$$Cform$$VThe Johns Hopkins guide to literary theory & criticism$$Z990062487710107871" ],
+        "place" : [ "Baltimore, Md. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001161554" ],
+        "lds53" : [ "001161554" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990011615540107871" ],
+        "recordid" : [ "alma990011615540107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001161554-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Groden", "Kreiswirth", "Szeman" ],
+        "aufirst" : [ "Michael.", "Martin.", "Imre" ],
+        "auinit" : [ "M", "I" ],
+        "addau" : [ "Groden, Michael.", "Kreiswirth, Martin.", "Szeman, Imre" ],
+        "contributorfull" : [ "$$NGroden, Michael.$$LGroden$$FMichael.$$Rcontributor", "$$NKreiswirth, Martin.$$Rcontributor", "$$NSzeman, Imre$$Rcontributor" ],
+        "addtitle" : [ "Guide to literary theory and criticism" ],
+        "date" : [ "2005" ],
+        "isbn" : [ "0801880106" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "cop" : [ "Baltimore, Md" ],
+        "pub" : [ "Johns Hopkins University Press" ],
+        "oclcid" : [ "nyub12985681", "(dlc) 2004043814" ],
+        "lccn" : [ "2004043814" ],
+        "edition" : [ "2nd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Johns Hopkins guide to literary theory & criticism" ]
+      },
+      "sort" : {
+        "title" : [ "Johns Hopkins guide to literary theory & criticism /" ],
+        "author" : [ "Groden, Michael." ],
+        "creationdate" : [ "2005" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990011615540107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0801880106,OCLC:,LCCN:2004043814&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn!81ǂ j554 2005",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "472",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "48",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "65",
+    "RETRIVE_FROM_DB_RELATIONS" : "76",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "724",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 754,
+    "COMBINED_SEARCH_TIME" : 757,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2005",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Criticism Bio Bibliography",
+      "count" : "1"
+    }, {
+      "value" : "Literature History And Criticism Theory Etc Bio Bibliography",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Groden Michael",
+      "count" : "1"
+    }, {
+      "value" : "Kreiswirth Martin",
+      "count" : "1"
+    }, {
+      "value" : "Szeman Imre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    } ]
+  } ]
+}

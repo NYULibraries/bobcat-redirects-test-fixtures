@@ -1,0 +1,310 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995621966507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "Journal of speech, language, and hearing research (Online)" ],
+        "subject" : [ "Speech disorders$$QSpeech disorders -- Periodicals", "Speech$$QSpeech -- Periodicals", "Hearing$$QHearing -- Periodicals", "Language disorders$$QLanguage disorders -- Periodicals", "Hearing disorders$$QHearing disorders -- Periodicals", "Troubles de la parole$$QTroubles de la parole -- Périodiques", "Troubles du langage$$QTroubles du langage -- Périodiques", "Troubles de l'audition$$QTroubles de l'audition -- Périodiques", "Parole$$QParole -- Périodiques", "Audiologie", "Troubles de la parole", "Troubles de l'audition", "Troubles du langage", "Oto-rhino-laryngologie", "Otolaryngology", "Language disorders", "Hearing disorders", "Audiology", "Hearing", "Speech", "Speech disorders", "Sprecherziehung", "Zeitschrift", "Sprechkunde", "Spraak", "Gehoor", "Taalpsychologie", "Hörerziehung" ],
+        "format" : [ "1 online resource (volumes)" ],
+        "identifier" : [ "$$CLC$$V  2005215833;$$CISSN$$V1558-9102;$$COCLC$$V(OCoLC)39109342;$$CISSN$$V1092-4388" ],
+        "creationdate" : [ "1997" ],
+        "publisher" : [ "Rockville, MD : American Speech-Language-Hearing Association", "Print began with vol. 40, issue 1 (Feb. 1, 1997)." ],
+        "mms" : [ "9995621966507871" ],
+        "contributor" : [ "American Speech-Language-Hearing Association.$$QAmerican Speech-Language-Hearing Association." ],
+        "addtitle" : [ "JSLHR", "J speech lang hear res" ],
+        "frequency" : [ "Bimonthly" ],
+        "genre" : [ "periodicals", "Periodicals", "Périodiques" ],
+        "relation" : [ "$$Cearlier_title$$VJournal of speech and hearing research$$QJournal of speech and hearing research$$Z9995625761307871", "$$Cform$$VLink to related record$$Z990012473700107871" ],
+        "mesh" : [ "Audiology", "Speech Disorders", "Hearing Disorders", "Language Disorders", "Otolaryngology", "Periodical" ],
+        "unititle" : [ "Journal of speech, language, and hearing research (Online)" ],
+        "place" : [ "Rockville, MD] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)954925609906" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Online only beginning Dec. 2009." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995621966507871" ],
+        "recordid" : [ "alma9995621966507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99954925609906" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.8009637E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "stitle" : [ "JOURNAL OF SPEECH LANGUAGE AND", "J SPEECH LANG HEAR RES", "JOURNAL OF SPEECH, LANGUAGE, & HEARING RESEARCH", "JSLHR", "JOURNAL OF SPEECH, LANGUAGE AND HEARING RESEARCH" ],
+        "addtitle" : [ "JSLHR", "J speech lang hear res" ],
+        "date" : [ "1997" ],
+        "issn" : [ "1558-9102", "1092-4388" ],
+        "cop" : [ "Rockville, MD" ],
+        "pub" : [ "American Speech-Language-Hearing Association" ],
+        "oclcid" : [ "(ocolc)39109342" ],
+        "lccn" : [ "2005215833" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "Journal of speech, language, and hearing research (Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "Journal of speech, language, and hearing research (Online)" ],
+        "author" : [ "American Speech-Language-Hearing Association." ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995621966507871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2005215833&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rc\"423ǂ j7",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "179",
+    "CALL_SOLR_GET_IDS_LIST" : "65",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "285",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "55",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "257",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "582",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 612,
+    "COMBINED_SEARCH_TIME" : 615,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Audiologie",
+      "count" : "1"
+    }, {
+      "value" : "Audiology",
+      "count" : "1"
+    }, {
+      "value" : "Gehoor",
+      "count" : "1"
+    }, {
+      "value" : "Hearing",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Disorders Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hearing Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Hörerziehung",
+      "count" : "1"
+    }, {
+      "value" : "Language Disorders",
+      "count" : "1"
+    }, {
+      "value" : "Language Disorders Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Oto Rhino Laryngologie",
+      "count" : "1"
+    }, {
+      "value" : "Otolaryngology",
+      "count" : "1"
+    }, {
+      "value" : "Parole Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Speech",
+      "count" : "1"
+    }, {
+      "value" : "Speech Disorders",
+      "count" : "1"
+    }, {
+      "value" : "Speech Disorders Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Speech Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Spraak",
+      "count" : "1"
+    }, {
+      "value" : "Sprecherziehung",
+      "count" : "1"
+    }, {
+      "value" : "Sprechkunde",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Speech Language Hearing Association",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

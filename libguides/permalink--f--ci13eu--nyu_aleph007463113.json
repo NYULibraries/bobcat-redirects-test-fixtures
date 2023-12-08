@@ -1,0 +1,255 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074631130107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Taking shape : abstraction from the Arab world, 1950s-1980s " ],
+        "subject" : [ "Art, Arab -- 20th century$$QArt, Arab -- 20th century -- Exhibitions", "Abstract expressionism -- Arab countries$$QAbstract expressionism -- Arab countries -- Exhibitions", "Abstract expressionism", "Art, Arab", "Arab countries", "1900-1999" ],
+        "format" : [ "256 pages : illustrations (chiefly color), facsimile, portrait ; 29 cm" ],
+        "identifier" : [ "$$CLC$$V2019914807;$$CISBN$$V3777434280;$$CISBN$$V9783777434285;$$COCLC$$V(OCoLC)1110435781" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Munich, Germany : Hirmer Publishers" ],
+        "description" : [ "\"Taking Shape: Abstraction from the Arab World, 1950s-1980s explores the development of abstraction in the Arab world via paintings, sculpture, and works on paper dating from the 1950s through the 1980s. By looking critically at the history and historiography of mid-20th century abstraction, the exhibition considers art from North Africa and West Asia as integral to the discourse on global modernism. At its heart, the project raises a fundamental art historical question: How do we study abstraction across different contexts and what models of analysis do we use? Examining how and why artists investigated the expressive capacities of line, color, and texture, Taking Shape highlights a number of abstract movements that developed in the Middle East, North Africa, and West Asia, as well as the Arab diaspora.\"--Artsy website (accessed 18/2/20)." ],
+        "mms" : [ "990074631130107871" ],
+        "contributor" : [ "Takesh, Suheyla, editor.$$QTakesh, Suheyla", "Gumpert, Lynn, editor, writer of foreword.$$QGumpert, Lynn", "Dadi, Iftikhar, writer of supplementary textual content.$$QDadi, Iftikhar", "Grey Art Gallery, host institution.$$QGrey Art Gallery", "Mary and Leigh Block Museum of Art, host institution.$$QMary and Leigh Block Museum of Art", "Herbert F. Johnson Museum of Art, host institution.$$QHerbert F. Johnson Museum of Art", "McMullen Museum of Art, host institution.$$QMcMullen Museum of Art", "University of Michigan. Museum of Art, host institution.$$QUniversity of Michigan. Museum of Art" ],
+        "addtitle" : [ "Abstraction from the Arab world 1950s-1980s" ],
+        "contents" : [ "“No longer a horizon, but infinity” / Suhueyla Takesh – Recollections: women and abstraction in the Arab world, 1960-1990 / Salwa Mikdadi – Mediating abstraction through the Arabic letter / Nada Shabout – Abstraction in the Arab world / Iftikhar Dadi – When identity becomes “form” : Calligraphic abstraction and Sudanese modernism / Salah M. Hassan – Abstracted: Land for art in Lebanon / Kaelen Wilson-Goldie – Abstract anxieties and Algerian abstraction / Hannah Feldman – Toward abstraction: the case of Kuwait in the 1960s / Sultan Sooud Al Qassemi – Abstraction of the many? Finding plenitude in Arab painting." ],
+        "genre" : [ "Exhibitions", "Exhibition catalogs" ],
+        "place" : [ "Munich, Germany :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph007463113" ],
+        "lds53" : [ "007463113" ],
+        "lds60" : [ "Published to accompany exhibitions held at Grey Art Gallery, New York University, January 14 - April 4, 2020, Mary and Leigh Block Museum of Art, April 28 - July 26 2020, Herbert F. Johnson Museum of Art, August 22 - December 13, 2020, McMullen Museum of Art, Boston College, January 25 - June 6 2021, University of Michigan Museum of Art, June 25 - September 19, 2021." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990074631130107871" ],
+        "recordid" : [ "alma990074631130107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007463113-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Takesh", "Gumpert", "Dadi" ],
+        "aufirst" : [ "Suheyla", "Lynn", "Iftikhar" ],
+        "auinit" : [ "S", "L", "I" ],
+        "addau" : [ "Takesh, Suheyla", "Gumpert, Lynn", "Dadi, Iftikhar" ],
+        "contributorfull" : [ "$$NTakesh, Suheyla$$LTakesh$$FSuheyla$$Reditor", "$$NGumpert, Lynn$$Rcontributor", "$$NDadi, Iftikhar$$Rsecondary contributor" ],
+        "addtitle" : [ "Abstraction from the Arab world 1950s-1980s" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "3777434280", "9783777434285" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Taking Shape: Abstraction from the Arab World, 1950s-1980s explores the development of abstraction in the Arab world via paintings, sculpture, and works on paper dating from the 1950s through the 1980s. By looking critically at the history and historiography of mid-20th century abstraction, the exhibition considers art from North Africa and West Asia as integral to the discourse on global modernism. At its heart, the project raises a fundamental art historical question: How do we study abstraction across different contexts and what models of analysis do we use? Examining how and why artists investigated the expressive capacities of line, color, and texture, Taking Shape highlights a number of abstract movements that developed in the Middle East, North Africa, and West Asia, as well as the Arab diaspora.\"--Artsy website (accessed 18/2/20)." ],
+        "cop" : [ "Munich, Germany" ],
+        "pub" : [ "Hirmer Publishers" ],
+        "oclcid" : [ "(ocolc)1110435781" ],
+        "lccn" : [ "2019914807" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Taking shape : abstraction from the Arab world, 1950s-1980s" ]
+      },
+      "sort" : {
+        "title" : [ "Taking shape : abstraction from the Arab world, 1950s-1980s /" ],
+        "author" : [ "Takesh, Suheyla, editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990074631130107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9783777434285,OCLC:,LCCN:2019914807&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n#7265.3ǂ t35 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "92",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "320",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 340,
+    "COMBINED_SEARCH_TIME" : 343,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 1999",
+      "count" : "1"
+    }, {
+      "value" : "Abstract Expressionism",
+      "count" : "1"
+    }, {
+      "value" : "Abstract Expressionism Arab Countries Exhibitions",
+      "count" : "1"
+    }, {
+      "value" : "Arab Countries",
+      "count" : "1"
+    }, {
+      "value" : "Art Arab",
+      "count" : "1"
+    }, {
+      "value" : "Art Arab 20th Century Exhibitions",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Dadi Iftikhar",
+      "count" : "1"
+    }, {
+      "value" : "Grey Art Gallery",
+      "count" : "1"
+    }, {
+      "value" : "Gumpert Lynn",
+      "count" : "1"
+    }, {
+      "value" : "Herbert F Johnson Museum Of Art",
+      "count" : "1"
+    }, {
+      "value" : "Mary And Leigh Block Museum Of Art",
+      "count" : "1"
+    }, {
+      "value" : "Mcmullen Museum Of Art",
+      "count" : "1"
+    }, {
+      "value" : "Takesh Suheyla",
+      "count" : "1"
+    }, {
+      "value" : "University Of Michigan Museum Of Art",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163052940007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

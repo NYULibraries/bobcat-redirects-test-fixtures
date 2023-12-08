@@ -1,0 +1,219 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990075408930107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Analysing quantitative data for business and management students " ],
+        "subject" : [ "Affaires -- Recherche", "Sciences de la gestion", "Recherche quantitative", "Business -- Research", "Management science", "Quantitative research" ],
+        "format" : [ "1 online resource (165 pages) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2014943646;$$CISBN$$V9781529716719;$$CISBN$$V1529716713;$$CISBN$$V9781446273524;$$CISBN$$V1446273520;$$CISBN$$V1446273539;$$COCLC$$V(OCoLC)1136127030;$$CISBN$$V9781446273531" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Scherbaum, Charles A., author.$$QScherbaum, Charles A." ],
+        "publisher" : [ "Los Angeles, CA : SAGE Publications, Inc." ],
+        "description" : [ "In Analysing Quantitative Data, Charles A. Scherbaum and Kristen M. Shockley guide the reader through Understanding Quantitative Data Analysis, Basic Components of Quantitative Data Analysis, Conducting Quantitative Data Analysis, Examples of Quantitative Data Analysis and Conclusions. An appendix contains Excel Formulas." ],
+        "mms" : [ "990075408930107871" ],
+        "contributor" : [ "Shockley, Kristen M., author.$$QShockley, Kristen M." ],
+        "edition" : [ "1st edition." ],
+        "series" : [ "Mastering Business Research Methods$$QMastering Business Research Methods", "Mastering business research methods.$$QMastering business research methods." ],
+        "contents" : [ "1. Introduction -- 2. Understanding quantitative data analysis -- 3. Basic components of quantitative data analysis -- 4. Conducting quantitative data analysis -- 5. Examples of quantitative data analysis -- 6. Conclusions." ],
+        "relation" : [ "$$Cform$$VAnalysing quantitative data for business and management students$$Z9995741828507871", "$$Cform$$VPrint version :" ],
+        "place" : [ "Los Angeles, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "sagepub", "aleph007540893" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990075408930107871" ],
+        "recordid" : [ "alma990075408930107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007540893-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Scherbaum" ],
+        "aufirst" : [ "Charles A." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Scherbaum, Charles A." ],
+        "addau" : [ "Shockley, Kristen M." ],
+        "creatorfull" : [ "$$NScherbaum, Charles A.$$LScherbaum$$FCharles A.$$Rauthor" ],
+        "contributorfull" : [ "$$NShockley, Kristen M.$$LShockley$$FKristen M.$$Rcontributor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781529716719", "1529716713", "9781446273524", "1446273520", "1446273539", "9781446273531" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "In Analysing Quantitative Data, Charles A. Scherbaum and Kristen M. Shockley guide the reader through Understanding Quantitative Data Analysis, Basic Components of Quantitative Data Analysis, Conducting Quantitative Data Analysis, Examples of Quantitative Data Analysis and Conclusions. An appendix contains Excel Formulas." ],
+        "cop" : [ "Los Angeles, CA" ],
+        "pub" : [ "SAGE Publications, Inc." ],
+        "oclcid" : [ "(ocolc)1136127030" ],
+        "lccn" : [ "2014943646" ],
+        "edition" : [ "1st edition." ],
+        "seriestitle" : [ "Mastering Business Research Methods" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Analysing quantitative data for business and management students" ]
+      },
+      "sort" : {
+        "title" : [ "Analysing quantitative data for business and management students /" ],
+        "author" : [ "Scherbaum, Charles A., author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990075408930107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1529716713,OCLC:,LCCN:2014943646&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4ǂ s325 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "225",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "44",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "37",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "465",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 498,
+    "COMBINED_SEARCH_TIME" : 501,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Affaires Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Business Research",
+      "count" : "1"
+    }, {
+      "value" : "Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Quantitative Research",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Quantitative",
+      "count" : "1"
+    }, {
+      "value" : "Sciences De La Gestion",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Scherbaum Charles A",
+      "count" : "1"
+    }, {
+      "value" : "Shockley Kristen M",
+      "count" : "1"
+    } ]
+  } ]
+}

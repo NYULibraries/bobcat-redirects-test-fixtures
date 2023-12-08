@@ -1,0 +1,203 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990055725520107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Make-up, hair and costume for film and television " ],
+        "subject" : [ "Maquillage (Cinéma)", "Costume", "Film makeup", "Television makeup" ],
+        "format" : [ "1 online resource (1 volume) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781136055614;$$CISBN$$V1136055614;$$CISBN$$V0240516605;$$CISBN$$V9780240516608;$$COCLC$$V(OCoLC)903404096" ],
+        "creationdate" : [ "2013" ],
+        "creator" : [ "Musgrove, Jan, author.$$QMusgrove, Jan" ],
+        "publisher" : [ "Burlington, MA : Focal Press" ],
+        "description" : [ "An introductory guide for students learning professional make-up, hairdressing and wardrobe skills and `front of camera' professionals needing an understanding of the techniques. Written by an experienced professional, this manual offers a step-by step approach for the complete beginner with diagrams to show procedures for a variety of make-up effects, from corrective and character make-up, to period dramas, special effects and prosthetics. It describes the skills required of the job, introduces special make-up products and how to apply them for different effect and sets the context for the make-up artist's role, by considering technical requirements such as lighting, camerawork and chroma-key backgrounds." ],
+        "mms" : [ "990055725520107871" ],
+        "series" : [ "Media manual$$QMedia manual", "Media manuals.$$QMedia manuals." ],
+        "relation" : [ "$$Cform$$VMake-up, hair and costume for film and television$$Z9995744972907871" ],
+        "place" : [ "Burlington, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph005572552" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990055725520107871" ],
+        "recordid" : [ "alma990055725520107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005572552-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Musgrove" ],
+        "aufirst" : [ "Jan" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Musgrove, Jan" ],
+        "creatorfull" : [ "$$NMusgrove, Jan$$LMusgrove$$FJan$$Rauthor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781136055614", "1136055614", "0240516605", "9780240516608" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "An introductory guide for students learning professional make-up, hairdressing and wardrobe skills and `front of camera' professionals needing an understanding of the techniques. Written by an experienced professional, this manual offers a step-by step approach for the complete beginner with diagrams to show procedures for a variety of make-up effects, from corrective and character make-up, to period dramas, special effects and prosthetics. It describes the skills required of the job, introduces special make-up products and how to apply them for different effect and sets the context for the make-up artist's role, by considering technical requirements such as lighting, camerawork and chroma-key backgrounds." ],
+        "cop" : [ "Burlington, MA" ],
+        "pub" : [ "Focal Press" ],
+        "oclcid" : [ "(ocolc)903404096" ],
+        "seriestitle" : [ "Media manual" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Make-up, hair and costume for film and television" ]
+      },
+      "sort" : {
+        "title" : [ "Make-up, hair and costume for film and television /" ],
+        "author" : [ "Musgrove, Jan, author." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990055725520107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1136055614,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1992.8 m36",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "308",
+    "CALL_SOLR_GET_IDS_LIST" : "113",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "94",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "66",
+    "RETRIVE_FROM_DB_RELATIONS" : "58",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "89",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "109",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "633",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 670,
+    "COMBINED_SEARCH_TIME" : 673,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Costume",
+      "count" : "1"
+    }, {
+      "value" : "Film Makeup",
+      "count" : "1"
+    }, {
+      "value" : "Maquillage Cinéma",
+      "count" : "1"
+    }, {
+      "value" : "Television Makeup",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Musgrove Jan",
+      "count" : "1"
+    } ]
+  } ]
+}

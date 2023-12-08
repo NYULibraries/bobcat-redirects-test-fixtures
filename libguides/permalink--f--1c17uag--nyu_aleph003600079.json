@@ -1,0 +1,233 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990036000790107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Multilevel and longitudinal modeling using Stata " ],
+        "subject" : [ "Stata", "Latent variables", "Latent structure analysis", "Mathematical statistics -- Data processing", "Linear models (Statistics)", "Multilevel models (Statistics)" ],
+        "format" : [ "2 v. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2012392863;$$CISBN$$V9781597181082 (v.1-2);$$CISBN$$V1597181080 (v.1-2);$$CISBN$$V9781597181037 (v. 1);$$CISBN$$V159718103X (v. 1);$$CISBN$$V9781597181044 (v. 2);$$CISBN$$V1597181048 (v. 2);$$COCLC$$V(OCoLC)787853271" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "Rabe-Hesketh, S.$$QRabe-Hesketh, S." ],
+        "publisher" : [ "College Station, Tex. : Stata Press Publication" ],
+        "mms" : [ "990036000790107871" ],
+        "contributor" : [ "Skrondal, Anders.$$QSkrondal, Anders." ],
+        "edition" : [ "3rd ed." ],
+        "contents" : [ "v. 1: Continuous responses -- v. 2: Categorical responses, counts, and survival." ],
+        "place" : [ "College Station, Tex. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph003600079" ],
+        "lds53" : [ "003600079" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990036000790107871" ],
+        "recordid" : [ "alma990036000790107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003600079-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Rabe-Hesketh" ],
+        "aufirst" : [ "S." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Rabe-Hesketh, S." ],
+        "addau" : [ "Skrondal, Anders." ],
+        "creatorfull" : [ "$$NRabe-Hesketh, S.$$LRabe-Hesketh$$FS.$$Rauthor" ],
+        "contributorfull" : [ "$$NSkrondal, Anders.$$LSkrondal$$FAnders.$$Rcontributor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781597181082", "1597181080", "9781597181037", "159718103X", "9781597181044", "1597181048" ],
+        "notes" : [ "Includes bibliographical references (p. [941]-953) and indexes." ],
+        "cop" : [ "College Station, Tex" ],
+        "pub" : [ "Stata Press Publication" ],
+        "oclcid" : [ "(ocolc)787853271" ],
+        "lccn" : [ "2012392863" ],
+        "edition" : [ "3rd ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Multilevel and longitudinal modeling using Stata" ]
+      },
+      "sort" : {
+        "title" : [ "Multilevel and longitudinal modeling using Stata /" ],
+        "author" : [ "Rabe-Hesketh, S." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990036000790107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1597181080,OCLC:,LCCN:2012392863&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"278.6ǂ s57 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "207",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "60",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "84",
+    "RETRIVE_FROM_DB_RELATIONS" : "57",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "113",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "469",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 492,
+    "COMBINED_SEARCH_TIME" : 496,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Latent Structure Analysis",
+      "count" : "1"
+    }, {
+      "value" : "Latent Variables",
+      "count" : "1"
+    }, {
+      "value" : "Linear Models Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Mathematical Statistics Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Multilevel Models Statistics",
+      "count" : "1"
+    }, {
+      "value" : "Stata",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rabe Hesketh S",
+      "count" : "1"
+    }, {
+      "value" : "Skrondal Anders",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

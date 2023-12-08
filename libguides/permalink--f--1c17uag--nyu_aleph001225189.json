@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990012251890107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The mythology of all races." ],
+        "subject" : [ "Mythology" ],
+        "format" : [ "13 v. illus., maps (part fold.) plates (part col.) 24 cm." ],
+        "identifier" : [ "$$CLC$$V65003246;$$COCLC$$V(OCoLC)358721" ],
+        "creationdate" : [ "1964 c1916-32" ],
+        "publisher" : [ "New York, Cooper Square Publishers" ],
+        "mms" : [ "990012251890107871" ],
+        "contributor" : [ "Gray, Louis H. (Louis Herbert), 1875-1955.$$QGray, Louis H.", "MacCulloch, J. A. (John Arnott), 1868-1950.$$QMacCulloch, J. A." ],
+        "contents" : [ "1. Greek and Roman, by W. S. Fox.--2. Eddic, by J. A. Macculloch.--3. Celtic, by J. A. Macculloch. Slavic, by J. Machal.--4. Finno-Ugric, Siberian, by U. Holmberg.--5. Semitic, by S. H. Langdon.--6. Indian, by A. B. Keith. Iranian, by A. J. Carnoy.--7. Armenian, M. H. Ananikian. African, by A. Werner.--8. Chinese, by J. C. Ferguson. Japanese, by M. Anesaki.--9. Oceanic, by R. B. Dixon.--10. North American, H. B. Alexander.--11. Latin-American, by H. B. Alexander.--12. Egyptian, by W. M. Muller. Indo-Chinese, by J. G. Scott.--13. Complete index." ],
+        "place" : [ "New York," ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001225189" ],
+        "lds53" : [ "001225189" ],
+        "lds60" : [ "Vols. 2, 4-5, 7-8, 13 are edited by J. A. Macculloch and G. F. Moore." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990012251890107871" ],
+        "recordid" : [ "alma990012251890107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001225189-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gray", "MacCulloch" ],
+        "aufirst" : [ "Louis H.", "J. A." ],
+        "auinit" : [ "L", "J" ],
+        "addau" : [ "Gray, Louis H. (Louis Herbert)", "MacCulloch, J. A. (John Arnott)" ],
+        "contributorfull" : [ "$$NGray, Louis H. (Louis Herbert)$$LGray$$FLouis H.$$Rcontributor", "$$NMacCulloch, J. A. (John Arnott)$$Rcontributor" ],
+        "date" : [ "1964 - 1916", "1964 c1916-32" ],
+        "notes" : [ "Includes bibliographies." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Cooper Square Publishers" ],
+        "oclcid" : [ "(ocolc)358721" ],
+        "lccn" : [ "65003246" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The mythology of all races." ]
+      },
+      "sort" : {
+        "title" : [ "mythology of all races." ],
+        "author" : [ "Gray, Louis H. (Louis Herbert), 1875-1955." ],
+        "creationdate" : [ "1964" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012251890107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990012251890107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:65003246&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "bl!25ǂ m8 1964",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "68",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "180",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "28",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "176",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "79",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "443",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 472,
+    "COMBINED_SEARCH_TIME" : 475,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1916",
+      "count" : "1"
+    }, {
+      "value" : "1964",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Mythology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gray Louis H",
+      "count" : "1"
+    }, {
+      "value" : "Macculloch J A",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367730007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

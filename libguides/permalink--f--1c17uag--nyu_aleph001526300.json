@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990015263000107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Dictionnaire critique et documentaire des peintres, sculpteurs, dessinateurs et graveurs de tous les temps et de tous les pays " ],
+        "subject" : [ "Artists$$QArtists -- Biography Dictionaries", "Artists' marks", "Monograms" ],
+        "format" : [ "14 v. ; 25 cm." ],
+        "identifier" : [ "$$CISBN$$V2700030109 (série classique);$$CISBN$$V2700030257 (série usage intensif);$$CISBN$$V2700030400 (série prestige);$$CISBN$$V2700030117 (v. 1);$$CISBN$$V2700030125 (v. 2);$$CISBN$$V2700030109 (v. 3);$$CISBN$$V2700030141 (v. 4);$$CISBN$$V270003015x (v. 5);$$CISBN$$V2700030168 (v. 6);$$CISBN$$V2700030176 (v. 7);$$CISBN$$V2700030184 (v. 8);$$CISBN$$V2700030109 (v. 9);$$CISBN$$V2700030206 (v. 10);$$CISBN$$V2700030214 (v. 11);$$CISBN$$V2700030222 (v. 12);$$CISBN$$V2700030230 (v. 13);$$CISBN$$V2700030249 (v. 14);$$COCLC$$V(OCoLC)58669865" ],
+        "creationdate" : [ "c1999" ],
+        "creator" : [ "Bénézit, E. (Emmanuel), 1854-1920.$$QBénézit, E." ],
+        "publisher" : [ "Paris : Gründ" ],
+        "mms" : [ "990015263000107871" ],
+        "contributor" : [ "Busse, Jacques.$$QBusse, Jacques." ],
+        "addtitle" : [ "Dictionnaire des peintres, sculpteurs, dessinateurs et graveurs" ],
+        "edition" : [ "Nouvelle éd., entièrement ref. / sous la direction de Jacques Busse." ],
+        "contents" : [ "t. 1. Aa-Beduschi -- t. 2. Beduschi-Burchard -- t. 3. Burchard-Couderc -- t. 4. Coudert-Dzwonowski -- t. 5. Eadie-Gence -- t. 6. Genck-Herwarth -- t. 7. Herweg-Koster -- t. 8. Köster-Magand -- t. 9. Maganza-Muller-Zschoppach -- t. 10. Müllert-Pinto Pereira -- t. 11. Pintoricchio-Rottel -- t. 12. Rottenhamer-Solimena -- t. 13. Solimena-Valentin -- t. 14. Valentin-Zyw." ],
+        "genre" : [ "Biography", "Dictionaries" ],
+        "place" : [ "Paris :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph001526300" ],
+        "lds53" : [ "001526300" ],
+        "lds60" : [ "\"Cette quatrième édition du dictionnaire Bénézit, en quatorze volumes, a été élaborée à partir de la troisième édition, en dix volumes, qui à été entièrement révisée et augmentée des artistes nouvellement apparus ou des informations venues compléter les anciennes notices, concernant, entre autres, les prix atteints en ventes publiques\"--Préface." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990015263000107871" ],
+        "recordid" : [ "alma990015263000107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "001526300-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bénézit" ],
+        "aufirst" : [ "E." ],
+        "auinit" : [ "E" ],
+        "au" : [ "Bénézit, E. (Emmanuel)" ],
+        "addau" : [ "Busse, Jacques." ],
+        "creatorfull" : [ "$$NBénézit, E. (Emmanuel)$$LBénézit$$FE.$$Rauthor" ],
+        "contributorfull" : [ "$$NBusse, Jacques.$$LBusse$$FJacques.$$Rcontributor" ],
+        "addtitle" : [ "Dictionnaire des peintres, sculpteurs, dessinateurs et graveurs" ],
+        "date" : [ "1999", "c1999" ],
+        "isbn" : [ "2700030257", "2700030400", "2700030117", "2700030125", "2700030141", "270003015x", "2700030168", "2700030176", "2700030184", "2700030109", "2700030206", "2700030214", "2700030222", "2700030230", "2700030249" ],
+        "cop" : [ "Paris" ],
+        "pub" : [ "Gründ" ],
+        "oclcid" : [ "(ocolc)58669865" ],
+        "edition" : [ "Nouvelle éd., entièrement ref. / sous la direction de Jacques Busse." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Dictionnaire critique et documentaire des peintres, sculpteurs, dessinateurs et graveurs de tous les temps et de tous les pays" ]
+      },
+      "sort" : {
+        "title" : [ "Dictionnaire critique et documentaire des peintres, sculpteurs, dessinateurs et graveurs de tous les temps et de tous les pays /" ],
+        "author" : [ "Bénézit, E. (Emmanuel), 1854-1920." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990015263000107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990015263000107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:2700030257,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "n!40ǂ b47 1999",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "167",
+    "CALL_SOLR_GET_IDS_LIST" : "137",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "62",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "63",
+    "RETRIVE_FROM_DB_RELATIONS" : "36",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "57",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "100",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "477",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 509,
+    "COMBINED_SEARCH_TIME" : 514,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Artists Biography Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Artists Marks",
+      "count" : "1"
+    }, {
+      "value" : "Monograms",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Busse Jacques",
+      "count" : "1"
+    }, {
+      "value" : "Bénézit E",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7876–163055270007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

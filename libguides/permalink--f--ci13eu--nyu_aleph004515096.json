@@ -1,0 +1,234 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990045150960107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Greek philosophical vocabulary " ],
+        "subject" : [ "Greek language -- Etymology$$QGreek language -- Etymology -- Dictionaries", "Philosophy, Ancient -- Greek$$QPhilosophy, Ancient -- Greek -- Dictionaries", "Greek language -- English$$QGreek language -- English -- Dictionaries", "Greek language$$QGreek language -- Dictionaries", "Grec (Langue) -- Étymologie$$QGrec (Langue) -- Étymologie -- Dictionnaires anglais", "Philosophie ancienne -- Greek$$QPhilosophie ancienne -- Greek -- Dictionnaires anglais", "Grec (Langue)$$QGrec (Langue) -- Dictionnaires anglais", "Greek language", "Greek language -- Etymology", "Philosophy, Ancient", "Griekse oudheid", "Filosofie", "Filosofia (dic enciclopedias)", "Greek philosophy, ancient period Language" ],
+        "format" : [ "1 online resource (173 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781474229487;$$CISBN$$V1474229484;$$COCLC$$V(OCoLC)556140880" ],
+        "creationdate" : [ "1990" ],
+        "creator" : [ "Urmson, J. O.$$QUrmson, J. O." ],
+        "publisher" : [ "London : Duckworth" ],
+        "description" : [ "J.O. Urmson's The Greek Philosophical Vocabulary contains some five hundred alphabetically arranged entries, each aiming to provide useful information on a particular word used by Greek philosophers. The book includes a wealth of quotations ranging from the fifth century BC to the sixth century AD. Western thought derives principally from the Greeks, but few people now are able to read Greek philosophy in the original. This book helps remedy the defect. It consists of about 600 entries, in alphabetical order, on the most important Greek philosophical terms. Quotations, all with translations, are designed to illustrate the meaning of the terms and the philosophical settings in which they occur. Plato and Aristotle receive most attention, but quotations range from Anaximenes in the fifth century BC to Simplicius in the sixth century AD. The book includes the sources of all quotations, and any necessary explanatory matter. The book is intended primarily for students of philosophy with no, or only a limited, knowledge of Greek; but - because it reflects a lifetime's reading of ancient philosophy by a distinguished professional philosopher - it will be of considerable interest also to specialists." ],
+        "mms" : [ "990045150960107871" ],
+        "contents" : [ "Introduction -- Abbreviations -- Vocabulary" ],
+        "genre" : [ "Dictionnaires anglais", "Dictionaries" ],
+        "relation" : [ "$$Cform$$VPrint version: Urmson, J.O. Greek philosophical vocabulary. London : Duckworth, 1990$$QGreek philosophical vocabulary.$$Z990019478070107871" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsco", "aleph004515096" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990045150960107871" ],
+        "recordid" : [ "alma990045150960107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004515096-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Urmson" ],
+        "aufirst" : [ "J. O." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Urmson, J. O." ],
+        "creatorfull" : [ "$$NUrmson, J. O.$$LUrmson$$FJ. O.$$Rauthor" ],
+        "date" : [ "1990" ],
+        "isbn" : [ "9781474229487", "1474229484" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "J.O. Urmson's The Greek Philosophical Vocabulary contains some five hundred alphabetically arranged entries, each aiming to provide useful information on a particular word used by Greek philosophers. The book includes a wealth of quotations ranging from the fifth century BC to the sixth century AD. Western thought derives principally from the Greeks, but few people now are able to read Greek philosophy in the original. This book helps remedy the defect. It consists of about 600 entries, in alphabetical order, on the most important Greek philosophical terms. Quotations, all with translations, are designed to illustrate the meaning of the terms and the philosophical settings in which they occur. Plato and Aristotle receive most attention, but quotations range from Anaximenes in the fifth century BC to Simplicius in the sixth century AD. The book includes the sources of all quotations, and any necessary explanatory matter. The book is intended primarily for students of philosophy with no, or only a limited, knowledge of Greek; but - because it reflects a lifetime's reading of ancient philosophy by a distinguished professional philosopher - it will be of considerable interest also to specialists." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Duckworth" ],
+        "oclcid" : [ "(ocolc)556140880" ],
+        "doi" : [ "10.5040/9781474229487" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Greek philosophical vocabulary" ]
+      },
+      "sort" : {
+        "title" : [ "Greek philosophical vocabulary /" ],
+        "author" : [ "Urmson, J. O." ],
+        "creationdate" : [ "1990" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990045150960107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1474229484,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pa\"455 p48ǂu76 1990eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "223",
+    "CALL_SOLR_GET_IDS_LIST" : "105",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "36",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "64",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "434",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 460,
+    "COMBINED_SEARCH_TIME" : 462,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1990",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Filosofia Dic Enciclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Filosofie",
+      "count" : "1"
+    }, {
+      "value" : "Grec Langue Dictionnaires Anglais",
+      "count" : "1"
+    }, {
+      "value" : "Grec Langue Étymologie Dictionnaires Anglais",
+      "count" : "1"
+    }, {
+      "value" : "Greek Language",
+      "count" : "1"
+    }, {
+      "value" : "Greek Language Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Greek Language Dictionaries English",
+      "count" : "1"
+    }, {
+      "value" : "Greek Language Etymology",
+      "count" : "1"
+    }, {
+      "value" : "Greek Language Etymology Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Greek Philosophy Ancient Period Language",
+      "count" : "1"
+    }, {
+      "value" : "Griekse Oudheid",
+      "count" : "1"
+    }, {
+      "value" : "Philosophie Ancienne Dictionnaires Anglais Greek",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Ancient",
+      "count" : "1"
+    }, {
+      "value" : "Philosophy Ancient Dictionaries Greek",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Urmson J O",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,229 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990022181270107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Castle of perseverance a perspective " ],
+        "subject" : [ "Castle of perseverance (Morality play)", "Moralities, English", "English drama -- To 1500 -- History and criticism" ],
+        "format" : [ "1 videocassette (55 min.) : sd., col. ; 1/2 in." ],
+        "creationdate" : [ "c1982" ],
+        "publisher" : [ "Toronto : Media Centre, University of Toronto" ],
+        "description" : [ "Excerpts of key scenes, combined with photographs of the production, provide a comprehensive introduction to the earliest of the English morality plays to have survived with a complete text. An historical background to the play is provided along with an analysis of its structure and content." ],
+        "mms" : [ "990022181270107871" ],
+        "contributor" : [ "Parry, David.$$QParry, David.", "Edmunds, Michael.$$QEdmunds, Michael.", "Glickman, Ted.'.$$QGlickman, Ted.'.", "France, Jim.$$QFrance, Jim.", "Poculi Ludique Societas.$$QPoculi Ludique Societas.", "University of Toronto. Media Centre.$$QUniversity of Toronto. Media Centre.", "Records of Early English Drama (Firm)$$QRecords of Early English Drama (Firm)" ],
+        "addtitle" : [ "Castle of perseverance (Morality play). Selections." ],
+        "place" : [ "Toronto :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002218127" ],
+        "lds53" : [ "002218127" ],
+        "lds60" : [ "Performed at the University of Toronto, Aug. 1980.", "\"From the Medieval Videos collection.\" -- Container." ],
+        "lds64" : [ "Camera, Jim France; editing, Ted Glickman, Michael Edmunds, David Parry." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990022181270107871" ],
+        "recordid" : [ "alma990022181270107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002218127-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Parry", "Edmunds", "Glickman", "France" ],
+        "aufirst" : [ "David.", "Michael.", "Ted.'.", "Jim." ],
+        "auinit" : [ "D", "M", "T", "J" ],
+        "addau" : [ "Parry, David.", "Edmunds, Michael.", "Glickman, Ted.'.", "France, Jim." ],
+        "contributorfull" : [ "$$NParry, David.$$LParry$$FDavid.$$Rcontributor", "$$NEdmunds, Michael.$$Rcontributor", "$$NGlickman, Ted.'.$$Rcontributor", "$$NFrance, Jim.$$Rcontributor" ],
+        "date" : [ "1982", "c1982" ],
+        "abstract" : [ "Excerpts of key scenes, combined with photographs of the production, provide a comprehensive introduction to the earliest of the English morality plays to have survived with a complete text. An historical background to the play is provided along with an analysis of its structure and content." ],
+        "cop" : [ "Toronto" ],
+        "pub" : [ "Media Centre, University of Toronto" ],
+        "oclcid" : [ "nyub11266446", "ocm25649470" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "The Castle of perseverance a perspective" ]
+      },
+      "sort" : {
+        "title" : [ "Castle of perseverance a perspective /" ],
+        "author" : [ "Parry, David." ],
+        "creationdate" : [ "1982" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990022181270107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "127",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "17",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "65",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "313",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 345,
+    "COMBINED_SEARCH_TIME" : 349,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1982",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Castle Of Perseverance Morality Play",
+      "count" : "1"
+    }, {
+      "value" : "English Drama To 1500 History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Moralities English",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Edmunds Michael",
+      "count" : "1"
+    }, {
+      "value" : "France Jim",
+      "count" : "1"
+    }, {
+      "value" : "Glickman Ted",
+      "count" : "1"
+    }, {
+      "value" : "Parry David",
+      "count" : "1"
+    }, {
+      "value" : "Poculi Ludique Societas",
+      "count" : "1"
+    }, {
+      "value" : "Records Of Early English Drama Firm",
+      "count" : "1"
+    }, {
+      "value" : "University Of Toronto Media Centre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163048410007876",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,245 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990079564750107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Data makes the difference : the smart nurse's handbook for using data to improve care " ],
+        "subject" : [ "Soins infirmiers -- Informatique", "HEALTH & FITNESS / Holism", "HEALTH & FITNESS / Reference", "MEDICAL / Alternative Medicine", "MEDICAL / Atlases", "MEDICAL / Essays", "MEDICAL / Family & General Practice", "MEDICAL / Holistic Medicine", "MEDICAL / Osteopathy", "Nursing -- Data processing", "Nursing informatics" ],
+        "format" : [ "1 online resource (viii, 109 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781558106123;$$CISBN$$V155810612X;$$COCLC$$V(OCoLC)914255768;$$CISBN$$V9781558106116" ],
+        "creationdate" : [ "2015" ],
+        "creator" : [ "Glassman, Kimberly S., author.$$QGlassman, Kimberly S." ],
+        "publisher" : [ "Silver Spring, Maryland : American Nurses Association" ],
+        "description" : [ "\"Data Makes the Difference: The Smart Nurse's Handbook for Using Data to Improve Care helps RNs like you understand how to use accurate and meaningful quality and safety data in your practice. It demystifies data and counters the negative, incorrect perception that nurses can't use it to drive patient care. It also empowers you to become confident and comfortable in using quality and safety data to demonstrate the contributions of nurses to patient-centered outcomes.\"--Publisher website." ],
+        "mms" : [ "990079564750107871" ],
+        "contributor" : [ "Rosenfeld, Peri, author.$$QRosenfeld, Peri", "American Nurses Association, issuing body.$$QAmerican Nurses Association" ],
+        "contents" : [ "History, background, and introduction -- Quality data : definitions, measures, and metrics -- Utilizing data to inform patient care and track outcomes : answering the question, how are we doing? -- Future directions in the use of quality data : electronic health records, telehealth and emeasures -- How nurses lead through data use and interpretation : insights from the chief nurse." ],
+        "relation" : [ "$$Cform$$VPrint version: Glassman, Kimberly S. Data makes the difference. Silver Spring, MD : American Nurses Association, 2015$$QData makes the difference." ],
+        "mesh" : [ "Nursing Informatics", "Decision Support Systems, Clinical", "Quality Assurance, Health Care -- methods", "Patient Safety", "Data Collection -- standards" ],
+        "place" : [ "Silver Spring, Maryland :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007956475" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990079564750107871" ],
+        "recordid" : [ "alma990079564750107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "007956475-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Glassman" ],
+        "aufirst" : [ "Kimberly S." ],
+        "auinit" : [ "K" ],
+        "au" : [ "Glassman, Kimberly S." ],
+        "addau" : [ "Rosenfeld, Peri" ],
+        "creatorfull" : [ "$$NGlassman, Kimberly S.$$LGlassman$$FKimberly S.$$Rauthor" ],
+        "contributorfull" : [ "$$NRosenfeld, Peri$$LRosenfeld$$FPeri$$Rcontributor" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9781558106123", "155810612X", "9781558106116" ],
+        "notes" : [ "Includes bibliographical references (pages 93-101) and index." ],
+        "abstract" : [ "\"Data Makes the Difference: The Smart Nurse's Handbook for Using Data to Improve Care helps RNs like you understand how to use accurate and meaningful quality and safety data in your practice. It demystifies data and counters the negative, incorrect perception that nurses can't use it to drive patient care. It also empowers you to become confident and comfortable in using quality and safety data to demonstrate the contributions of nurses to patient-centered outcomes.\"--Publisher website." ],
+        "cop" : [ "Silver Spring, Maryland" ],
+        "pub" : [ "American Nurses Association" ],
+        "oclcid" : [ "(ocolc)914255768" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Data makes the difference : the smart nurse's handbook for using data to improve care" ]
+      },
+      "sort" : {
+        "title" : [ "Data makes the difference : the smart nurse's handbook for using data to improve care /" ],
+        "author" : [ "Glassman, Kimberly S., author." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990079564750107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:155810612X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rt!50.5ǂ g63 2015eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "72",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "11",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "120",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "312",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 337,
+    "COMBINED_SEARCH_TIME" : 340,
+    "PROCESS_COMBINED_RESULTS" : 1,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Data Collection Standards",
+      "count" : "1"
+    }, {
+      "value" : "Decision Support Systems Clinical",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Holism",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Reference",
+      "count" : "1"
+    }, {
+      "value" : "Medical Alternative Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Medical Atlases",
+      "count" : "1"
+    }, {
+      "value" : "Medical Essays",
+      "count" : "1"
+    }, {
+      "value" : "Medical Family General Practice",
+      "count" : "1"
+    }, {
+      "value" : "Medical Holistic Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Medical Osteopathy",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Data Processing",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Informatics",
+      "count" : "1"
+    }, {
+      "value" : "Patient Safety",
+      "count" : "1"
+    }, {
+      "value" : "Quality Assurance Health Care Methods",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Informatique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "American Nurses Association",
+      "count" : "1"
+    }, {
+      "value" : "Glassman Kimberly S",
+      "count" : "1"
+    }, {
+      "value" : "Rosenfeld Peri",
+      "count" : "1"
+    } ]
+  } ]
+}

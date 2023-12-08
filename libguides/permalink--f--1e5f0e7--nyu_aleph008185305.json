@@ -1,0 +1,222 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990081853050107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Inclusive finance in China " ],
+        "subject" : [ "Microfinance -- China", "Financial services industry -- China", "Services financiers -- Chine", "Financial services industry", "Microfinance", "China" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9789811617881;$$CISBN$$V9811617880;$$COCLC$$V(OCoLC)1255465058;$$CISBN$$V9789811617874;$$CISBN$$V9811617872" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Singapore : Palgrave Macmillan" ],
+        "description" : [ "This book explores for the first time the world of micro-finance, Chinese startups, and the digitalization of the Chinese economy. Through the cases such as the Ant Financial Services Group, CFPA Microfinance, micro-financial projects of China Minsheng Bank, Meixing in Nanchong, and more, this book introduces the practical exploration in the recent years from the perspectives of microfinance, financing of small and medium sized enterprises, digital inclusive finance, and credit. From the perspective of management, it especially integrates an enterprises task, vision, and value into the design of organization process, deeply explores how to realized the double bottom lines of social and financial performances, manifests how microfinances marginal cost is reduced by digital finance such as data, internet, cloud computing, artificial intelligence and the advantages of digital finance in providing convenient, low-cost, and touchable service, and discusses its huge technological bonus to small-amount, decentralized, and large-quantity microfinance. This book will be of value to journalists, economists and researchers. Li Yan is Director and Professor of the Department of Finance of the School of Business at Renmin University. Wang Lin is a Lecturer of School of Economics and Management, Beijing University of Posts and Telecommunications." ],
+        "mms" : [ "990081853050107871" ],
+        "contributor" : [ "Li, Yan.$$QLi, Yan.", "Wang, Lin.$$QWang, Lin." ],
+        "contents" : [ "Part I: Microfinance -- 1. Can Microfinance Achieve Both Social and Financial Goals? -- 2. Boundaries of Microfinance -- Part II: Financing of Small and Medium-sized Enterprises -- 3. Solving the Financing Difficulty of SMEs by Community Construction -- 4. Big Bank, Small Finance -- Part III: Digital Inclusive Finance -- 5. Information Reform and Efficiency Improvement of Traditional Micro Finance -- 6. Defender PPDAI -- Digital Finance + Insurance + Leading Enterprise + E-commerce --8. Wenshang Pioneer Loan -- Part IV: Credit -- 9. Credit Use and Cost of Discredit -- 10. Bairong Zhixin." ],
+        "relation" : [ "$$Cform$$VPrint version:", "$$Cform$$VPrint version: INCLUSIVE FINANCE IN CHINA. [S.l.] : PALGRAVE MACMILLAN, 2021$$QINCLUSIVE FINANCE IN CHINA." ],
+        "place" : [ "Singapore :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sprnglnk", "aleph008185305" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990081853050107871" ],
+        "recordid" : [ "alma990081853050107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008185305-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Li", "Wang" ],
+        "aufirst" : [ "Yan.", "Lin." ],
+        "auinit" : [ "Y", "L" ],
+        "addau" : [ "Li, Yan.", "Wang, Lin." ],
+        "contributorfull" : [ "$$NLi, Yan.$$LLi$$FYan.$$Rcontributor", "$$NWang, Lin.$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9789811617881", "9811617880", "9789811617874", "9811617872" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "This book explores for the first time the world of micro-finance, Chinese startups, and the digitalization of the Chinese economy. Through the cases such as the Ant Financial Services Group, CFPA Microfinance, micro-financial projects of China Minsheng Bank, Meixing in Nanchong, and more, this book introduces the practical exploration in the recent years from the perspectives of microfinance, financing of small and medium sized enterprises, digital inclusive finance, and credit. From the perspective of management, it especially integrates an enterprises task, vision, and value into the design of organization process, deeply explores how to realized the double bottom lines of social and financial performances, manifests how microfinances marginal cost is reduced by digital finance such as data, internet, cloud computing, artificial intelligence and the advantages of digital finance in providing convenient, low-cost, and touchable service, and discusses its huge technological bonus to small-amount, decentralized, and large-quantity microfinance. This book will be of value to journalists, economists and researchers. Li Yan is Director and Professor of the Department of Finance of the School of Business at Renmin University. Wang Lin is a Lecturer of School of Economics and Management, Beijing University of Posts and Telecommunications." ],
+        "cop" : [ "Singapore" ],
+        "pub" : [ "Palgrave Macmillan" ],
+        "oclcid" : [ "(ocolc)1255465058" ],
+        "doi" : [ "10.1007/978-981-16-1788-1" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Inclusive finance in China" ]
+      },
+      "sort" : {
+        "title" : [ "Inclusive finance in China /" ],
+        "author" : [ "Li, Yan." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081853050107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990081853050107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9811617880,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hg\"178.33 c6",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "142",
+    "CALL_SOLR_GET_IDS_LIST" : "119",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "75",
+    "RETRIVE_FROM_DB_RELATIONS" : "20",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "419",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 452,
+    "COMBINED_SEARCH_TIME" : 456,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "China",
+      "count" : "1"
+    }, {
+      "value" : "Financial Services Industry",
+      "count" : "1"
+    }, {
+      "value" : "Financial Services Industry China",
+      "count" : "1"
+    }, {
+      "value" : "Microfinance",
+      "count" : "1"
+    }, {
+      "value" : "Microfinance China",
+      "count" : "1"
+    }, {
+      "value" : "Services Financiers Chine",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Li Yan",
+      "count" : "1"
+    }, {
+      "value" : "Wang Lin",
+      "count" : "1"
+    } ]
+  } ]
+}

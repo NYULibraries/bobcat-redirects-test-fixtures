@@ -1,0 +1,218 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990055699460107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Cutting-edge marketing analytics : real world cases and data sets for hands on learning " ],
+        "subject" : [ "Consumer profiling -- Research", "Segmentation du marché", "Rentabilité -- Gestion", "Profil des consommateurs -- Recherche", "BUSINESS & ECONOMICS -- Industrial Management", "BUSINESS & ECONOMICS -- Management", "BUSINESS & ECONOMICS -- Management Science", "BUSINESS & ECONOMICS -- Organizational Behavior", "Market segmentation", "Revenue management" ],
+        "format" : [ "1 online resource (1 volume) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780133552577;$$CISBN$$V0133552578;$$COCLC$$V(OCoLC)881691294" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Venkatesan, Rajkumar.$$QVenkatesan, Rajkumar." ],
+        "publisher" : [ "Upper Saddle River, N.J. : Pearson Education" ],
+        "description" : [ "Master practical strategic marketing analysis through real-life case studies and hands-on examples. In Cutting Edge Marketing Analytics, three pioneering experts integrate all three core areas of marketing analytics: statistical analysis, experiments, and managerial intuition. They fully detail a best-practice marketing analytics methodology, augmenting it with case studies that illustrate the quantitative and data analysis tools you'll need to allocate resources, define optimal marketing mixes; perform effective analysis of customers and digital marketing campaigns, and create high-value dashboards and metrics. For each marketing problem, the authors help you: Identify the right data and analytics techniques Conduct the analysis and obtain insights from it Outline what-if scenarios and define optimal solutions Connect your insights to strategic decision-making Each chapter contains technical notes, statistical knowledge, case studies, and real data you can use to perform the analysis yourself. As you proceed, you'll gain an in-depth understanding of: The real value of marketing analytics How to integrate quantitative analysis with managerial sensibility How to apply linear regression, logistic regression, cluster analysis, and Anova models The crucial role of careful experimental design For all marketing professionals specializing in marketing analytics and/or business intelligence; and for students and faculty in all graduate-level business courses covering Marketing Analytics, Marketing Effectiveness, or Marketing Metrics." ],
+        "mms" : [ "990055699460107871" ],
+        "place" : [ "Upper Saddle River, N.J. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "safaeb", "aleph005569946" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990055699460107871" ],
+        "recordid" : [ "alma990055699460107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "005569946-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Venkatesan" ],
+        "aufirst" : [ "Rajkumar." ],
+        "auinit" : [ "R" ],
+        "au" : [ "Venkatesan, Rajkumar." ],
+        "creatorfull" : [ "$$NVenkatesan, Rajkumar.$$LVenkatesan$$FRajkumar.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9780133552577", "0133552578" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Master practical strategic marketing analysis through real-life case studies and hands-on examples. In Cutting Edge Marketing Analytics, three pioneering experts integrate all three core areas of marketing analytics: statistical analysis, experiments, and managerial intuition. They fully detail a best-practice marketing analytics methodology, augmenting it with case studies that illustrate the quantitative and data analysis tools you'll need to allocate resources, define optimal marketing mixes; perform effective analysis of customers and digital marketing campaigns, and create high-value dashboards and metrics. For each marketing problem, the authors help you: Identify the right data and analytics techniques Conduct the analysis and obtain insights from it Outline what-if scenarios and define optimal solutions Connect your insights to strategic decision-making Each chapter contains technical notes, statistical knowledge, case studies, and real data you can use to perform the analysis yourself. As you proceed, you'll gain an in-depth understanding of: The real value of marketing analytics How to integrate quantitative analysis with managerial sensibility How to apply linear regression, logistic regression, cluster analysis, and Anova models The crucial role of careful experimental design For all marketing professionals specializing in marketing analytics and/or business intelligence; and for students and faculty in all graduate-level business courses covering Marketing Analytics, Marketing Effectiveness, or Marketing Metrics." ],
+        "cop" : [ "Upper Saddle River, N.J" ],
+        "pub" : [ "Pearson Education" ],
+        "oclcid" : [ "(ocolc)881691294" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Cutting-edge marketing analytics : real world cases and data sets for hands on learning" ]
+      },
+      "sort" : {
+        "title" : [ "Cutting-edge marketing analytics : real world cases and data sets for hands on learning /" ],
+        "author" : [ "Venkatesan, Rajkumar." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990055699460107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0133552578,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hf#5415.127ǂv465 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "14",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "120",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "334",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 370,
+    "COMBINED_SEARCH_TIME" : 373,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Consumer Profiling Research",
+      "count" : "1"
+    }, {
+      "value" : "Market Segmentation",
+      "count" : "1"
+    }, {
+      "value" : "Profil Des Consommateurs Recherche",
+      "count" : "1"
+    }, {
+      "value" : "Rentabilité Gestion",
+      "count" : "1"
+    }, {
+      "value" : "Revenue Management",
+      "count" : "1"
+    }, {
+      "value" : "Segmentation Du Marché",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Venkatesan Rajkumar",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,207 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990046908610107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Higher engineering mathematics " ],
+        "subject" : [ "Mathématiques de l'ingénieur", "TECHNOLOGY & ENGINEERING -- Engineering (General)", "TECHNOLOGY & ENGINEERING -- Reference", "Engineering mathematics", "Mathematics" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781317937852;$$CISBN$$V1317937856;$$CISBN$$V9781315858821;$$CISBN$$V1315858827;$$CISBN$$V9781306584616;$$CISBN$$V1306584612;$$CISBN$$V1317937864;$$CISBN$$V9781317937869;$$CISBN$$V0315858826;$$CISBN$$V9780315858824;$$COCLC$$V(OCoLC)876592090;$$CISBN$$V9780415662826" ],
+        "creationdate" : [ "2014" ],
+        "creator" : [ "Bird, J. O.$$QBird, J. O." ],
+        "publisher" : [ "Abingdon, Oxon : Routledge" ],
+        "description" : [ "A practical introduction to the core mathematics principles required at higher engineering levelJohn Bird's approach to mathematics, based on numerous worked examples and interactive problems, is ideal for vocational students that require an advanced textbook. Theory is kept to a minimum, with the emphasis firmly placed on problem-solving skills, making this a thoroughly practical introduction to the advanced mathematics engineering that students need to master. The extensive and thorough topic coverage makes this an ideal text for upper level vocational courses. Now in." ],
+        "mms" : [ "990046908610107871" ],
+        "edition" : [ "Seventh edition." ],
+        "contents" : [ "Section A. Number and algebra -- section B. Geometry and trigonometry -- section C. Graphs -- section D. Complex numbers -- section E. Matrices and determinants -- section F. Vector geometry -- section G. Differential calculus -- section H. Integral calculus -- section I. Differential equations -- section J. Statistics and probability -- section K. Laplace transforms -- section L. Fourier series.", "Contents note continued: 68.1. The Laplace transform of eat f (t) -- 68.2. Laplace transforms of the form eat f (t) -- 68.3. The Laplace transforms of derivatives -- 68.4. The initial and final value theorems -- 69. Inverse Laplace transforms -- 69.1. Definition of the inverse Laplace transform -- 69.2. Inverse Laplace transforms of simple functions -- 69.3. Inverse Laplace transforms using partial fractions -- 69.4. Poles and zeros -- 70. The Laplace transform of the Heaviside function -- 70.1. Heaviside unit step function -- 70.2. Laplace transform of H (t -- c) -- 70.3. Laplace transform of H (t -- c).f (t -- c) -- 70.4. Inverse Laplace transforms of Heaviside functions -- 71. The solution of differential equations using Laplace transforms -- 71.1. Introduction -- 71.2. Procedure to solve differential equations by using Laplace transforms -- 71.3. Worked problems on solving differential equations using Laplace transforms -- 72. The solution of simultaneous differential equations using Laplace transforms -- 72.1. Introduction -- 72.2. Procedure to solve simultaneous differential equations using Laplace transforms -- 72.3. Worked problems on solving simultaneous differential equations by using Laplace transforms -- Revision Test 19 -- 73. Fourier series for periodic functions of period 2π -- 73.1. Introduction -- 73.2. Periodic functions -- 73.3. Fourier series -- 73.4. Worked problems on Fourier series of periodic functions of period 2π -- 74. Fourier series for a non-periodic function over range 2π -- 74.1. Expansion of non-periodic functions -- 74.2. Worked problems on Fourier series of non-periodic functions over a range of 2π -- 75. Even and odd functions and half-range Fourier series -- 75.1. Even and odd functions -- 75.2. Fourier cosine and Fourier sine series -- 75.3. Half-range Fourier series -- 76. Fourier series over any range -- 76.1. Expansion of a periodic function of period L -- 76.2. Half-range Fourier series for functions defined over range L -- 77. A numerical method of harmonic analysis -- 77.1. Introduction -- 77.2. Harmonic analysis on data given in tabular or graphical form -- 77.3. Complex waveform considerations -- 78. The complex or exponential form of a Fourier series -- 78.1. Introduction -- 78.2. Exponential or complex notation -- 78.3. The complex coefficients -- 78.4. Symmetry relationships -- 78.5. The frequency spectrum -- 78.6. Phasors -- Revision Test 20.", "Machine generated contents note: 1. Algebra -- 1.1. Introduction -- 1.2. Revision of basic laws -- 1.3. Revision of equations -- 1.4. Polynomial division -- 1.5. The factor theorem -- 1.6. The remainder theorem -- 2. Partial fractions -- 2.1. Introduction to partial fractions -- 2.2. Worked problems on partial fractions with linear factors -- 2.3. Worked problems on partial fractions with repeated linear factors -- 2.4. Worked problems on partial fractions with quadratic factors -- 3. Logarithms -- 3.1. Introduction to logarithms -- 3.2. Laws of logarithms -- 3.3. Indicial equations -- 3.4. Graphs of logarithmic functions -- 4. Exponential functions -- 4.1. Introduction to exponential functions -- 4.2. The power series for ex -- 4.3. Graphs of exponential functions -- 4.4. Napierian logarithms -- 4.5. Laws of growth and decay -- 4.6. Reduction of exponential laws to linear form -- 5. Inequalities -- 5.1. Introduction to inequalities -- 5.2. Simple inequalities -- 5.3. Inequalities involving a modulus -- 5.4. Inequalities involving quotients -- 5.5. Inequalities involving square functions -- 5.6. Quadratic inequalities -- Revision Test 1 -- 6. Arithmetic and geometric progressions -- 6.1. Arithmetic progressions -- 6.2. Worked problems on arithmetic progressions -- 6.3. Further worked problems on arithmetic progressions -- 6.4. Geometric progressions -- 6.5. Worked problems on geometric progressions -- 6.6. Further worked problems on geometric progressions -- 7. The binomial series -- 7.1. Pascal's triangle -- 7.2. The binomial series -- 7.3. Worked problems on the binomial series -- 7.4. Further worked problems on the binomial series -- 7.5. Practical problems involving the binomial theorem -- 8. Maclaurin's series -- 8.1. Introduction -- 8.2. Derivation of Maclaurin's theorem -- 8.3. Conditions of Maclaurin's series -- 8.4. Worked problems on Maclaurin's series -- 8.5. Numerical integration using Maclaurin's series -- 8.6. Limiting values -- Revision Test 2 -- 9. Solving equations by iterative methods -- 9.1. Introduction to iterative methods -- 9.2. The bisection method -- 9.3. An algebraic method of successive approximations -- 9.4. The Newton-Raphson method -- 10. Binary, octal and hexadecimal numbers -- 10.1. Introduction -- 10.2. Binary numbers -- 10.3. Octal numbers -- 10.4. Hexadecimal numbers -- 11. Boolean algebra and logic circuits -- 11.1. Boolean algebra and switching circuits -- 11.2. Simplifying Boolean expressions -- 11.3. Laws and rules of Boolean algebra -- 11.4. De Morgan's laws -- 11.5. Karnaugh maps -- 11.6. Logic circuits -- 11.7. Universal logic gates -- Revision Test 3 -- 12. Introduction to trigonometry -- 12.1. Trigonometry -- 12.2. The theorem of Pythagoras -- 12.3. Trigonometric ratios of acute angles -- 12.4. Evaluating trigonometric ratios -- 12.5. Solution of right-angled triangles -- 12.6. Angles of elevation and depression -- 12.7. Sine and cosine rules -- 12.8. Area of any triangle -- 12.9. Worked problems on the solution of triangles and finding their areas -- 12.10. Further worked problems on solving triangles and finding their areas -- 12.11. Practical situations involving trigonometry -- 12.12. Further practical situations involving trigonometry -- 13. Cartesian and polar co-ordinates -- 13.1. Introduction -- 13.2. Changing from Cartesian into polar co-ordinates -- 13.3. Changing from polar into Cartesian co-ordinates -- 13.4. Use of Pol/Rec functions on calculators -- 14. The circle and its properties -- 14.1. Introduction -- 14.2. Properties of circles -- 14.3. Radians and degrees -- 14.4. Arc length and area of circles and sectors -- 14.5. The equation of a circle -- 14.6. Linear and angular velocity -- 14.7. Centripetal force -- Revision Test 4 -- 15. Trigonometric waveforms -- 15.1. Graphs of trigonometric functions -- 15.2. Angles of any magnitude -- 15.3. The production of a sine and cosine wave -- 15.4. Sine and cosine curves -- 15.5. Sinusoidal form A sin (ωt ± a) -- 15.6. Harmonic synthesis with complex waveforms -- 16. Hyperbolic functions -- 16.1. Introduction to hyperbolic functions -- 16.2. Graphs of hyperbolic functions -- 16.3. Hyperbolic identities -- 16.4. Solving equations involving hyperbolic functions -- 16.5. Series expansions for coshx and sinhx -- 17. Trigonometric identities and equations -- 17.1. Trigonometric identities -- 17.2. Worked problems on trigonometric identities -- 17.3. Trigonometric equations -- 17.4. Worked problems (i) on trigonometric equations -- 17.5. Worked problems (ii) on trigonometric equations -- 17.6. Worked problems (iii) on trigonometric equations.", "17.7. Worked problems (iv) on trigonometric equations -- 18. The relationship between trigonometric and hyperbolic functions -- 18.1. The relationship between trigonometric and hyperbolic functions -- 18.2. Hyperbolic identities -- 19. Compound angles -- 19.1. Compound angle formulae -- 19.2. Conversion of a sin ωt + b cos ωt into R sin(ωt + α) -- 19.3. Double angles -- 19.4. Changing products of sines and cosines into sums or differences -- 19.5. Changing sums or differences of sines and cosines into products -- 19.6. Power waveforms in a.c. circuits -- Revision Test 5 -- 20. Functions and their curves -- 20.1. Standard curves -- 20.2. Simple transformations -- 20.3. Periodic functions -- 20.4. Continuous and discontinuous functions -- 20.5. Even and odd functions -- 20.6. Inverse functions -- 20.7. Asymptotes -- 20.8. Brief guide to curve sketching -- 20.9. Worked problems on curve sketching -- 21. Irregular areas, volumes and mean values of waveforms -- 21.1. Areas of irregular figures -- 21.2. Volumes of irregular solids -- 21.3. The mean or average value of a waveform -- Revision Test 6 -- 22. Complex numbers -- 22.1. Cartesian complex numbers -- 22.2. The Argand diagram -- 22.3. Addition and subtraction of complex numbers -- 22.4. Multiplication and division of complex numbers -- 22.5. Complex equations -- 22.6. The polar form of a complex number -- 22.7. Multiplication and division in polar form -- 22.8. Applications of complex numbers -- 23. De Moivre's theorem -- 23.1. Introduction -- 23.2. Powers of complex numbers -- 23.3. Roots of complex numbers -- 23.4. The exponential form of a complex number -- 23.5. Introduction to locus problems -- 24. The theory of matrices and determinants -- 24.1. Matrix notation -- 24.2. Addition, subtraction and multiplication of matrices -- 24.3. The unit matrix -- 24.4. The determinant of a 2 by 2 matrix -- 24.5. The inverse or reciprocal of a 2 by 2 matrix -- 24.6. The determinant of a 3 by 3 matrix -- 24.7. The inverse or reciprocal of a 3 by 3 matrix -- 25. Applications of matrices and determinants -- 25.1. Solution of simultaneous equations by matrices -- 25.2. Solution of simultaneous equations by determinants -- 25.3. Solution of simultaneous equations using Cramer's rule -- 25.4. Solution of simultaneous equations using the Gaussian elimination method -- 25.5. Eigenvalues and eigenvectors -- Revision Test 7 -- 26. Vectors -- 26.1. Introduction -- 26.2. Scalars and vectors -- 26.3. Drawing a vector -- 26.4. Addition of vectors by drawing -- 26.5. Resolving vectors into horizontal and vertical components -- 26.6. Addition of vectors by calculation -- 26.7. Vector subtraction -- 26.8. Relative velocity -- 26.9. i, j and k notation -- 27. Methods of adding alternating waveforms -- 27.1. Combination of two periodic functions -- 27.2. Plotting periodic functions -- 27.3. Determining resultant phasors by drawing -- 27.4. Determining resultant phasors by the sine and cosine rules -- 27.5. Determining resultant phasors by horizontal and vertical components -- 27.6. Determining resultant phasors by complex numbers -- 28. Scalar and vector products -- 28.1. The unit triad -- 28.2. The scalar product of two vectors -- 28.3. Vector products -- 28.4. Vector equation of a line -- Revision Test 8 -- 29. Methods of differentiation -- 29.1. Introduction to calculus -- 29.2. The gradient of a curve -- 29.3. Differentiation from first principles -- 29.4. Differentiation of common functions -- 29.5. Differentiation of a product -- 29.6. Differentiation of a quotient -- 29.7. Function of a function -- 29.8. Successive differentiation -- 30. Some applications of differentiation -- 30.1. Rates of change -- 30.2. Velocity and acceleration -- 30.3. Turning points -- 30.4. Practical problems involving maximum and minimum values -- 30.5. Points of inflexion -- 30.6. Tangents and normals -- 30.7. Small changes -- 31. Differentiation of parametric equations -- 31.1. Introduction to parametric equations -- 31.2. Some common parametric equations -- 31.3. Differentiation in parameters -- 31.4. Further worked problems on differentiation of parametric equations -- 32. Differentiation of implicit functions -- 32.1. Implicit functions -- 32.2. Differentiating implicit functions -- 32.3. Differentiating implicit functions containing products and quotients -- 32.4. Further implicit differentiation -- 33. Logarithmic differentiation -- 33.1. Introduction to logarithmic differentiation -- 33.2. Laws of logarithms -- 33.3. Differentiation of logarithmic functions -- 33.4. Differentiation of further logarithmic functions.", "Contents note continued: 33.5. Differentiation of [f(x)]x -- Revision Test 9 -- 34. Differentiation of hyperbolic functions -- 34.1. Standard differential coefficients of hyperbolic functions -- 34.2. Further worked problems on differentiation of hyperbolic functions -- 35. Differentiation of inverse trigonometric and hyperbolic functions -- 35.1. Inverse functions -- 35.2. Differentiation of inverse trigonometric functions -- 35.3. Logarithmic forms of the inverse hyperbolic functions -- 35.4. Differentiation of inverse hyperbolic functions -- 36. Partial differentiation -- 36.1. Introduction to partial derivatives -- 36.2. First-order partial derivatives -- 36.3. Second-order partial derivatives -- 37. Total differential, rates of change and small changes -- 37.1. Total differential -- 37.2. Rates of change -- 37.3. Small changes -- 38. Maxima, minima and saddle points for functions of two variables -- 38.1. Functions of two independent variables -- 38.2. Maxima, minima and saddle points -- 38.3. Procedure to determine maxima, minima and saddle points for functions of two variables -- 38.4. Worked problems on maxima, minima and saddle points for functions of two variables -- 38.5. Further worked problems on maxima, minima and saddle points for functions of two variables -- Revision Test 10 -- 39. Standard integration -- 39.1. The process of integration -- 39.2. The general solution of integrals of the form axn -- 39.3. Standard integrals -- 39.4. Definite integrals -- 40. Some applications of integration -- 40.1. Introduction -- 40.2. Areas under and between curves -- 40.3. Mean and rms values -- 40.4. Volumes of solids of revolution -- 40.5. Centroids -- 40.6. Theorem of Pappus -- 40.7. Second moments of area of regular sections -- 41. Integration using algebraic substitutions -- 41.1. Introduction -- 41.2. Algebraic substitutions -- 41.3. Worked problems on integration using algebraic substitutions -- 41.4. Further worked problems on integration using algebraic substitutions -- 41.5. Change of limits -- Revision Test 11 -- 42. Integration using trigonometric and hyperbolic substitutions -- 42.1. Introduction -- 42.2. Worked problems on integration of sin2x, cos2x, tan2x and cot2x -- 42.3. Worked problems on integration of powers of sines and cosines -- 42.4. Worked problems on integration of products of sines and cosines -- 42.5. Worked problems on integration using the sin θ substitution -- 42.6. Worked problems on integration using tan θ substitution -- 42.7. Worked problems on integration using the sinh θ substitution -- 42.8. Worked problems on integration using the cosh θ substitution -- 43. Integration using partial fractions -- 43.1. Introduction -- 43.2. Worked problems on integration using partial fractions with linear factors -- 43.3. Worked problems on integration using partial fractions with repeated linear factors -- 43.4. Worked problems on integration using partial fractions with quadratic factors -- 44. The t = tan θ/2 substitution -- 44.1. Introduction -- 44.2. Worked problems on the t = tan θ/2substitution -- 44.3. Further worked problems on thet = tan θ/2substitution -- Revision Test 12 -- 45. Integration by parts -- 45.1. Introduction -- 45.2. Worked problems on integration by parts -- 45.3. Further worked problems on integration by parts -- 46. Reduction formulae -- 46.1. Introduction -- 46.2. Using reduction formulae for integrals of the form fxnexdx -- 46.3. Using reduction formulae for integrals of the form fxn cosxdx and fxn sin x dx -- 46.4. Using reduction formulae for integrals of the form fsine x dx and fcosn x dx -- 46.5. Further reduction formulae -- 47. Double and triple integrals -- 47.1. Double integrals -- 47.2. Triple integrals -- 48. Numerical integration -- 48.1. Introduction -- 48.2. The trapezoidal rule -- 48.3. The mid-ordinate rule -- 48.4. Simpson's rule -- Revision Test 13 -- 49. Solution of first-order differential equations by -. separation of variables -- 49.1. Family of curves -- 49.2. Differential equations -- 49.3. The solution of equations of the form dy/dx = f(x) -- 49.4. The solution of equations of the form dy/dx-f(y) -- 49.5. The solution of equations of the form dy/dx=f(x) f(y) -- 50. Homogeneous first-order differential equations -- 50.1. Introduction -- 50.2. Procedure to solve differential equations of the form Pdy/dx=Q -- 50.3. Worked problems on homogeneous first-order differential equations -- 50.4. Further worked problems on homogeneous first-order differential equations -- 51. Linear first-order differential equations -- 51.1. Introduction -- 51.2. Procedure to solve differential equations of the form dy/dx+Py=Q." ],
+        "relation" : [ "$$Cform$$VPrint version: Bird, J.O. Higher engineering mathematics. Seventh edition$$QHigher engineering mathematics." ],
+        "place" : [ "Abingdon, Oxon :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph004690861" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990046908610107871" ],
+        "recordid" : [ "alma990046908610107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004690861-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bird" ],
+        "aufirst" : [ "J. O." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Bird, J. O." ],
+        "creatorfull" : [ "$$NBird, J. O.$$LBird$$FJ. O.$$Rauthor" ],
+        "date" : [ "2014" ],
+        "isbn" : [ "9781317937852", "1317937856", "9781315858821", "1315858827", "9781306584616", "1306584612", "1317937864", "9781317937869", "0315858826", "9780315858824", "9780415662826" ],
+        "abstract" : [ "A practical introduction to the core mathematics principles required at higher engineering levelJohn Bird's approach to mathematics, based on numerous worked examples and interactive problems, is ideal for vocational students that require an advanced textbook. Theory is kept to a minimum, with the emphasis firmly placed on problem-solving skills, making this a thoroughly practical introduction to the advanced mathematics engineering that students need to master. The extensive and thorough topic coverage makes this an ideal text for upper level vocational courses. Now in." ],
+        "cop" : [ "Abingdon, Oxon" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)876592090" ],
+        "edition" : [ "Seventh edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Higher engineering mathematics" ]
+      },
+      "sort" : {
+        "title" : [ "Higher engineering mathematics /" ],
+        "author" : [ "Bird, J. O." ],
+        "creationdate" : [ "2014" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990046908610107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1317937856,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ta\"330ǂ b52 2014eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "148",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "91",
+    "RETRIVE_FROM_DB_RELATIONS" : "13",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "83",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "365",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 416,
+    "COMBINED_SEARCH_TIME" : 420,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Engineering Mathematics",
+      "count" : "1"
+    }, {
+      "value" : "Mathematics",
+      "count" : "1"
+    }, {
+      "value" : "Mathématiques De Lingénieur",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Engineering General",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Reference",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bird J O",
+      "count" : "1"
+    } ]
+  } ]
+}

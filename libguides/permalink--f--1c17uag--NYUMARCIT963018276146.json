@@ -1,0 +1,284 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995616156607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "journal" ],
+        "language" : [ "eng" ],
+        "title" : [ "NACLA report on the Americas (New York, N.Y. : 1993 : Online)" ],
+        "subject" : [ "Latin America$$QLatin America -- Periodicals", "Latin America -- Foreign relations -- United States$$QLatin America -- Foreign relations -- United States -- Periodicals", "United States -- Foreign relations -- Latin America$$QUnited States -- Foreign relations -- Latin America -- Periodicals", "Amérique latine$$QAmérique latine -- Périodiques", "Amérique latine -- Relations extérieures -- États-Unis$$QAmérique latine -- Relations extérieures -- États-Unis -- Périodiques", "États-Unis -- Relations extérieures -- Amérique latine$$QÉtats-Unis -- Relations extérieures -- Amérique latine -- Périodiques", "Diplomatic relations", "Latin America", "United States", "Imperialism -- Latin America", "Inter-American foreign relations" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V  2016201533;$$CISSN$$V2471-2620;$$COCLC$$V(OCoLC)679873124;$$CISSN$$V1071-4839" ],
+        "creationdate" : [ "1993-" ],
+        "publisher" : [ "Abingdon, UK : Routledge, Taylor & Francis", "Began with: Vol. 26, no. 5 (May 1993)." ],
+        "mms" : [ "9995616156607871" ],
+        "contributor" : [ "Taylor & Francis, publisher.$$QTaylor & Francis", "North American Congress on Latin America, issuing body.$$QNorth American Congress on Latin America" ],
+        "addtitle" : [ "North American Congress on Latin America report on the Americas", "Report on the Americas", "NACLA report" ],
+        "frequency" : [ "Quarterly, 2012-" ],
+        "genre" : [ "Périodiques", "Periodicals" ],
+        "relation" : [ "$$Cearlier_title$$VReport on the Americas$$QReport on the Americas$$Z9995640178207871", "$$Cform$$VLink to related record$$Z990020589110107871" ],
+        "unititle" : [ "NACLA report on the Americas (New York, N.Y. : 1993 : Online)" ],
+        "place" : [ "Abingdon, UK] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "(CKB)963018276146" ],
+        "lds60" : [ "Refereed/Peer-reviewed", "Taylor & Francis website also lists issues from previous titles." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995616156607871" ],
+        "recordid" : [ "alma9995616156607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "99963018276146" ],
+        "sourcesystem" : [ "SFX" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "8.800962E-7" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "North American Congress on Latin America report on the Americas", "Report on the Americas", "NACLA report" ],
+        "date" : [ "1993", "1993-" ],
+        "issn" : [ "2471-2620", "1071-4839" ],
+        "cop" : [ "New York, N.Y" ],
+        "pub" : [ "NACLA" ],
+        "oclcid" : [ "(ocolc)679873124" ],
+        "lccn" : [ "2016201533", "sn 93004285" ],
+        "format" : [ "journal" ],
+        "genre" : [ "journal" ],
+        "ristype" : [ "JOUR" ],
+        "jtitle" : [ "NACLA report on the Americas (New York, N.Y. : 1993 : Online)" ],
+        "peerreview" : [ "true" ]
+      },
+      "sort" : {
+        "title" : [ "NACLA report on the Americas (New York, N.Y. : 1993 : Online)" ],
+        "author" : [ "Taylor & Francis, publisher." ],
+        "creationdate" : [ "1993" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_HS",
+        "instName" : "New York University Health Sciences",
+        "instId" : "7878",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995616156607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:2016201533&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "f#1401",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "341",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "295",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "42",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "89",
+    "RETRIVE_FROM_DB_RELATIONS" : "74",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "266",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "803",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 837,
+    "COMBINED_SEARCH_TIME" : 849,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 10
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1993",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "journals",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Amérique Latine Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Amérique Latine Relations Extérieures États Unis Périodiques",
+      "count" : "1"
+    }, {
+      "value" : "Diplomatic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Imperialism Latin America",
+      "count" : "1"
+    }, {
+      "value" : "Inter American Foreign Relations",
+      "count" : "1"
+    }, {
+      "value" : "Latin America",
+      "count" : "1"
+    }, {
+      "value" : "Latin America Foreign Relations United States Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "Latin America Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "United States Foreign Relations Latin America Periodicals",
+      "count" : "1"
+    }, {
+      "value" : "États Unis Relations Extérieures Amérique Latine Périodiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "North American Congress On Latin America",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Francis",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "peer_reviewed",
+      "count" : "1"
+    }, {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}

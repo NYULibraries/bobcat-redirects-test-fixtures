@@ -1,0 +1,241 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085122860107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Reimagining sustainable cities : strategies for designing greener, healthier, more equitable communities " ],
+        "subject" : [ "City planning -- Environmental aspects", "City planning -- Social aspects", "Urban ecology (Sociology)" ],
+        "format" : [ "x, 325 pages : illustrations ; 24 cm" ],
+        "identifier" : [ "$$CLC$$V2021012102;$$CISBN$$V9780520381216;$$CISBN$$V0520381211;$$COCLC$$V(OCoLC)1243351134;$$CISBN$$V9780520381209" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Wheeler, Stephen M., 1957- author.$$QWheeler, Stephen M." ],
+        "publisher" : [ "Oakland, California : University of California Press" ],
+        "description" : [ "\"A cutting-edge, solutions-oriented analysis of how we can reimagine cities around the world to build sustainable futures. In recent years, cities have stepped up efforts to address climate and sustainability crises. But progress has not been fast enough or gone deep enough. If communities are to thrive in the future, we need to quickly imagine and implement an entirely new approach to urban development: one that is centered on equity and rethinks social, political, and economic systems as well as urban designs. With attention to this need for structural change, Reimagining Sustainable Cities advocates for a community-informed model of racially, economically, and socially just cities and regions. Stephen M. Wheeler and Christina D. Rosan ask big-picture questions of interest to readers worldwide: How do we get to carbon neutrality? How do we adapt to a climate-changed world? How can we create affordable, inclusive, and equitable cities? While many books dwell on the analysis of problems, Reimagining Sustainable Cities prioritizes solutions-oriented thinking-surveying historical trends, providing examples of constructive action worldwide, and outlining alternative problem-solving strategies. Wheeler and Rosan use a social ecology lens and draw perspectives from multiple disciplines to rethink urban sustainability for a new era. Positive, readable, and constructive in tone, Reimagining Sustainable Cities identifies actions ranging from urban design to institutional restructuring that can bring about fundamental change and prepare us for the challenges ahead\"-- Provided by publisher." ],
+        "mms" : [ "990085122860107871" ],
+        "contributor" : [ "Rosan, Christina, author.$$QRosan, Christina" ],
+        "contents" : [ "Introduction -- How do we get to carbon neutrality? -- How do we adapt to the climate crisis? -- How might we create more sustainable economies? -- How can we make affordable, inclusive, and equitable cities? -- How do we reduce spatial inequality? -- How could we get where we need to go more sustainably? -- How do we manage land sustainably? -- How can we design greener cities? -- How do we reduce our ecological footprints? -- How can cities better support human development? -- How might we have more functional democracy? -- How can each of us help lead the move toward sustainable communities? -- Conclusion." ],
+        "relation" : [ "$$Cform$$VOnline version: Wheeler, Stephen M., 1957- Reimagining sustainable cities Oakland, California : University of California Press, [2021]$$QReimagining sustainable cities$$Z990085055350107871" ],
+        "place" : [ "Oakland, California :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph008512286" ],
+        "lds53" : [ "008512286" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990085122860107871" ],
+        "recordid" : [ "alma990085122860107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008512286-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wheeler" ],
+        "aufirst" : [ "Stephen M." ],
+        "auinit" : [ "S" ],
+        "au" : [ "Wheeler, Stephen M." ],
+        "addau" : [ "Rosan, Christina" ],
+        "creatorfull" : [ "$$NWheeler, Stephen M.$$LWheeler$$FStephen M.$$Rauthor" ],
+        "contributorfull" : [ "$$NRosan, Christina$$LRosan$$FChristina$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9780520381216", "0520381211", "9780520381209" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"A cutting-edge, solutions-oriented analysis of how we can reimagine cities around the world to build sustainable futures. In recent years, cities have stepped up efforts to address climate and sustainability crises. But progress has not been fast enough or gone deep enough. If communities are to thrive in the future, we need to quickly imagine and implement an entirely new approach to urban development: one that is centered on equity and rethinks social, political, and economic systems as well as urban designs. With attention to this need for structural change, Reimagining Sustainable Cities advocates for a community-informed model of racially, economically, and socially just cities and regions. Stephen M. Wheeler and Christina D. Rosan ask big-picture questions of interest to readers worldwide: How do we get to carbon neutrality? How do we adapt to a climate-changed world? How can we create affordable, inclusive, and equitable cities? While many books dwell on the analysis of problems, Reimagining Sustainable Cities prioritizes solutions-oriented thinking-surveying historical trends, providing examples of constructive action worldwide, and outlining alternative problem-solving strategies. Wheeler and Rosan use a social ecology lens and draw perspectives from multiple disciplines to rethink urban sustainability for a new era. Positive, readable, and constructive in tone, Reimagining Sustainable Cities identifies actions ranging from urban design to institutional restructuring that can bring about fundamental change and prepare us for the challenges ahead\"-- Provided by publisher." ],
+        "cop" : [ "Oakland, California" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)1243351134" ],
+        "lccn" : [ "2021012102" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Reimagining sustainable cities : strategies for designing greener, healthier, more equitable communities" ]
+      },
+      "sort" : {
+        "title" : [ "Reimagining sustainable cities : strategies for designing greener, healthier, more equitable communities /" ],
+        "author" : [ "Wheeler, Stephen M., 1957- author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990085122860107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990085122860107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0520381211,OCLC:,LCCN:2021012102&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ht\"166ǂ w93 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "268",
+    "CALL_SOLR_GET_IDS_LIST" : "103",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "53",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "42",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "37",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "486",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 512,
+    "COMBINED_SEARCH_TIME" : 514,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "City Planning Environmental Aspects",
+      "count" : "1"
+    }, {
+      "value" : "City Planning Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Urban Ecology Sociology",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Rosan Christina",
+      "count" : "1"
+    }, {
+      "value" : "Wheeler Stephen M",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7874–112295960007874",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7874",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

@@ -1,0 +1,264 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990028882020107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng;chi" ],
+        "title" : [ "Songs of Gold Mountain : Cantonese rhymes from San Francisco Chinatown " ],
+        "subject" : [ "Chinese poetry -- California -- San Francisco$$QChinese poetry -- California -- San Francisco -- Translations into English", "Chinese poetry -- California -- San Francisco", "Chinese poetry -- 20th century", "China -- Emigration and immigration$$QChina -- Emigration and immigration -- Poetry", "California -- Emigration and immigration$$QCalifornia -- Emigration and immigration -- Poetry", "Chinatown (San Francisco, Calif.)$$QChinatown (San Francisco, Calif.) -- Poetry" ],
+        "format" : [ "ix, 322 pages : maps ; 22 cm" ],
+        "identifier" : [ "$$CLC$$V86011234;$$CISBN$$V0520056078;$$CISBN$$V9780520056077;$$CISBN$$V0520081048;$$CISBN$$V9780520081048;$$COCLC$$V(OCoLC)13581100" ],
+        "creationdate" : [ "©1987" ],
+        "publisher" : [ "Berkeley : University of California Press" ],
+        "mms" : [ "990028882020107871" ],
+        "contributor" : [ "Hom, Marlon K.$$QHom, Marlon K." ],
+        "contents" : [ "An introduction to Cantonese Vernacular Rhymes from San Francisco Chinatown -- Immigration Blues -- Lamentations of stranded sojourners -- Lamentations of estranged wives -- Nostalgic Blues -- Rhapsodies on Gold -- Songs of Western influence and the american-borns -- Nuptial Rhapsodies -- Ballads of the Libertines -- Songs of the young at heart -- Songs of prodigals and addicts -- Songs of the hundred men's wife." ],
+        "genre" : [ "Translations into English", "Poetry" ],
+        "relation" : [ "$$Cform$$VSongs of Gold Mountain : Cantonese rhymes from San Francisco Chinatown$$Z990089912900107871" ],
+        "unititle" : [ "Jinshan ge ji. Selections. English." ],
+        "place" : [ "Berkeley :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph002888202" ],
+        "lds53" : [ "002888202" ],
+        "lds60" : [ "Contains 220 of the folksongs from Songs of Gold Mountain (Jinshan ge ji) published in 1911 and 1915.", "English and Chinese." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990028882020107871" ],
+        "recordid" : [ "alma990028882020107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "002888202-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hom" ],
+        "aufirst" : [ "Marlon K." ],
+        "auinit" : [ "M" ],
+        "addau" : [ "Hom, Marlon K." ],
+        "contributorfull" : [ "$$NHom, Marlon K.$$LHom$$FMarlon K.$$Rcontributor" ],
+        "date" : [ "1987", "©1987" ],
+        "isbn" : [ "0520056078", "9780520056077", "0520081048", "9780520081048" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "cop" : [ "Berkeley" ],
+        "pub" : [ "University of California Press" ],
+        "oclcid" : [ "(ocolc)13581100" ],
+        "lccn" : [ "86011234" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Songs of Gold Mountain : Cantonese rhymes from San Francisco Chinatown" ]
+      },
+      "sort" : {
+        "title" : [ "Songs of Gold Mountain : Cantonese rhymes from San Francisco Chinatown /" ],
+        "author" : [ "Hom, Marlon K." ],
+        "creationdate" : [ "1987" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028882020107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028882020107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990028882020107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780520056077,OCLC:,LCCN:86011234&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pl#3164.5 e5ǂc54 1987",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "212",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "28",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "415",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 447,
+    "COMBINED_SEARCH_TIME" : 449,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "chi",
+      "count" : "1"
+    }, {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1987",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "California Emigration And Immigration Poetry",
+      "count" : "1"
+    }, {
+      "value" : "China Emigration And Immigration Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Chinatown San Francisco Calif Poetry",
+      "count" : "1"
+    }, {
+      "value" : "Chinese Poetry 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "Chinese Poetry California San Francisco",
+      "count" : "1"
+    }, {
+      "value" : "Chinese Poetry California San Francisco Translations Into English",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hom Marlon K",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7875–124367400007875",
+      "count" : "1"
+    }, {
+      "value" : "7876–163048130007876",
+      "count" : "1"
+    }, {
+      "value" : "7877–125467120007877",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7875",
+      "count" : "1"
+    }, {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7877",
+      "count" : "1"
+    } ]
+  } ]
+}

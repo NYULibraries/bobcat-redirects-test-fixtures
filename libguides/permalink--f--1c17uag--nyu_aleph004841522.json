@@ -1,0 +1,271 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990048415220107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The craft of research " ],
+        "subject" : [ "Recherche -- Méthodologie", "Rédaction technique", "Écriture", "technical writing", "writing (processes)", "Writing", "Research -- Methodology", "Technical writing", "Forschung", "Methodologie", "Wissenschaftlicher Text", "Wissenschaftliches Arbeiten", "General" ],
+        "format" : [ "1 online resource (xvi, 316 pages) : illustrations, graphs" ],
+        "identifier" : [ "$$CLC$$V2016000143;$$CISBN$$V9780226239873;$$CISBN$$V022623987X;$$CISBN$$V022623956X;$$CISBN$$V022623973X;$$CISBN$$V9780226239736;$$COCLC$$V(OCoLC)970359761;$$CISBN$$V9780226239569" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Booth, Wayne C., author.$$QBooth, Wayne C." ],
+        "publisher" : [ "Chicago Illinois ; London England : The University of Chicago Press" ],
+        "description" : [ "\"With more than three-quarters of a million copies sold since its first publication, The Craft of Research has helped generations of researchers at every level-from first-year undergraduates to advanced graduate students to research reporters in business and government-learn how to conduct effective and meaningful research. Conceived by seasoned researchers and educators Wayne C. Booth, Gregory G. Colomb, and Joseph M. Williams, this fundamental work explains how to find and evaluate sources, anticipate and respond to reader reservations, and integrate these pieces into an argument that stands up to reader critique. The fourth edition has been thoroughly but respectfully revised by Joseph Bizup and William T. FitzGerald. It retains the original five-part structure, as well as the sound advice of earlier editions, but reflects the way research and writing are taught and practiced today. Its chapters on finding and engaging sources now incorporate recent developments in library and Internet research, emphasizing new techniques made possible by online databases and search engines. Bizup and FitzGerald provide fresh examples and standardized terminology to clarify concepts like argument, warrant, and problem. Following the same guiding principle as earlier editions-that the skills of doing and reporting research are not just for elite students but for everyone-this new edition retains the accessible voice and direct approach that have made The Craft of Research a leader in the field of research reference. With updated examples and information on evaluation and using contemporary sources, this beloved classic is ready for the next generation of researchers\"--The publisher." ],
+        "mms" : [ "990048415220107871" ],
+        "contributor" : [ "Colomb, Gregory G., author.$$QColomb, Gregory G.", "Williams, Joseph M., author.$$QWilliams, Joseph M.", "Bizup, Joseph, 1966- author.$$QBizup, Joseph", "FitzGerald, William T., author.$$QFitzGerald, William T." ],
+        "edition" : [ "Fourth edition." ],
+        "series" : [ "Chicago Guides to Writing, Editing, and Publishing$$QChicago Guides to Writing, Editing, and Publishing", "Chicago guides to writing, editing, and publishing.$$QChicago guides to writing, editing, and publishing." ],
+        "contents" : [ "I. Research, researchers, and readers -- Prologue : becoming a researcher -- Thinking in print : the uses of research, public and private -- Connecting with your reader : creating a role for yourself and your readers -- II. Asking questions, finding answers -- Prologue : planning your project -- an overview -- From topics to questions -- From questions to a problem -- From problems to sources -- Engaging sources -- III. Making an argument -- Prologue : assembling a research argument -- Making good arguments : an overview -- Making claims -- Assembling reasons and evidence -- Acknowledgments and responses -- Warrants -- IV. Writing your argument -- Prologue : planning again -- Planning and drafting -- Organizing your argument -- Incorporating sources -- Communicating evidence visually -- Introductions and conclusions -- Revising style : telling your story clearly -- V. Some last considerations -- The ethics of research -- A postscript for teachers." ],
+        "relation" : [ "$$Cform$$VPrint version: Craft of research. Fourth edition. Chicago, [Illinois] ; London, [England] : The University of Chicago Press, ©2016 xvi, 316 pages Chicago guides to writing, editing, and publishing.$$QCraft of research.$$Z990045013050107871" ],
+        "mesh" : [ "Research Design", "Writing" ],
+        "place" : [ "Chicago Illinois] ; London England] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebcacls", "aleph004841522" ],
+        "lds60" : [ "Includes index." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990048415220107871" ],
+        "recordid" : [ "alma990048415220107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004841522-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203848E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Booth" ],
+        "aufirst" : [ "Wayne C." ],
+        "auinit" : [ "W" ],
+        "au" : [ "Booth, Wayne C." ],
+        "addau" : [ "Colomb, Gregory G.", "Williams, Joseph M.", "Bizup, Joseph", "FitzGerald, William T." ],
+        "creatorfull" : [ "$$NBooth, Wayne C.$$LBooth$$FWayne C.$$Rauthor" ],
+        "contributorfull" : [ "$$NColomb, Gregory G.$$LColomb$$FGregory G.$$Rcontributor", "$$NWilliams, Joseph M.$$Rcontributor", "$$NBizup, Joseph$$Rcontributor", "$$NFitzGerald, William T.$$Rcontributor" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "isbn" : [ "9780226239873", "022623987X", "022623956X", "022623973X", "9780226239736", "9780226239569" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"With more than three-quarters of a million copies sold since its first publication, The Craft of Research has helped generations of researchers at every level-from first-year undergraduates to advanced graduate students to research reporters in business and government-learn how to conduct effective and meaningful research. Conceived by seasoned researchers and educators Wayne C. Booth, Gregory G. Colomb, and Joseph M. Williams, this fundamental work explains how to find and evaluate sources, anticipate and respond to reader reservations, and integrate these pieces into an argument that stands up to reader critique. The fourth edition has been thoroughly but respectfully revised by Joseph Bizup and William T. FitzGerald. It retains the original five-part structure, as well as the sound advice of earlier editions, but reflects the way research and writing are taught and practiced today. Its chapters on finding and engaging sources now incorporate recent developments in library and Internet research, emphasizing new techniques made possible by online databases and search engines. Bizup and FitzGerald provide fresh examples and standardized terminology to clarify concepts like argument, warrant, and problem. Following the same guiding principle as earlier editions-that the skills of doing and reporting research are not just for elite students but for everyone-this new edition retains the accessible voice and direct approach that have made The Craft of Research a leader in the field of research reference. With updated examples and information on evaluation and using contemporary sources, this beloved classic is ready for the next generation of researchers\"--The publisher." ],
+        "cop" : [ "Chicago [Illinois] ;" ],
+        "pub" : [ "The University of Chicago Press" ],
+        "oclcid" : [ "(ocolc)970359761" ],
+        "lccn" : [ "2016000143" ],
+        "edition" : [ "Fourth edition." ],
+        "seriestitle" : [ "Chicago Guides to Writing, Editing, and Publishing" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The craft of research" ]
+      },
+      "sort" : {
+        "title" : [ "craft of research /" ],
+        "author" : [ "Booth, Wayne C., author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048415220107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048415220107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990048415220107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:022623987X,OCLC:,LCCN:2016000143&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "q\"180.55 m4ǂ c734 2016eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "432",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "58",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "104",
+    "RETRIVE_FROM_DB_RELATIONS" : "115",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "679",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 726,
+    "COMBINED_SEARCH_TIME" : 730,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 0
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Forschung",
+      "count" : "1"
+    }, {
+      "value" : "General",
+      "count" : "1"
+    }, {
+      "value" : "Methodologie",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Research Design",
+      "count" : "1"
+    }, {
+      "value" : "Research Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Rédaction Technique",
+      "count" : "1"
+    }, {
+      "value" : "Technical Writing",
+      "count" : "1"
+    }, {
+      "value" : "Wissenschaftlicher Text",
+      "count" : "1"
+    }, {
+      "value" : "Wissenschaftliches Arbeiten",
+      "count" : "1"
+    }, {
+      "value" : "Writing",
+      "count" : "1"
+    }, {
+      "value" : "Writing Processes",
+      "count" : "1"
+    }, {
+      "value" : "Écriture",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bizup Joseph",
+      "count" : "1"
+    }, {
+      "value" : "Booth Wayne C",
+      "count" : "1"
+    }, {
+      "value" : "Colomb Gregory G",
+      "count" : "1"
+    }, {
+      "value" : "Fitzgerald William T",
+      "count" : "1"
+    }, {
+      "value" : "Williams Joseph M",
+      "count" : "1"
+    } ]
+  } ]
+}

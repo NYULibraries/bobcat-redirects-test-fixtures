@@ -1,0 +1,235 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990040317040107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Interpreting and visualizing regression models using Stata " ],
+        "subject" : [ "Regression analysis -- Computer simulation", "Stata" ],
+        "format" : [ "xxviii, 558 p. : ill. ; 24 cm." ],
+        "identifier" : [ "$$CLC$$V2011943975;$$CISBN$$V9781597181075 (pbk.);$$CISBN$$V1597181072 (pbk.);$$COCLC$$V(OCoLC)ocn783169117" ],
+        "creationdate" : [ "2012" ],
+        "creator" : [ "Mitchell, Michael N.$$QMitchell, Michael N." ],
+        "publisher" : [ "College Station, Tex. : Stata Press" ],
+        "description" : [ "\"Michael Mitchell’s Interpreting and Visualizing Regression Models Using Stata is a clear treatment of how to carefully present results from model-fitting in a wide variety of settings. It is a boon to anyone who has to present the tangible meaning of a complex model in a clear fashion, regardless of the audience. As an example, many experienced researchers start to squirm when asked to give a simple explanation of the practical meaning of interactions in nonlinear models such as logistic regression. The techniques presented in Mitchell's book make answering those questions easy. The overarching theme of the book is that graphs make interpreting even the most complicated models containing interaction terms, categorical variables, and other intricacies straightforward. Using a dataset based on the General Social Survey, Mitchell starts with a basic linear regression with a single independent variable and then illustrates how to tabulate and graph predicted values. Mitchell focuses on Stata’s margins and marginsplot commands, which play a central role in the book and which greatly simplify the calculation and presentation of results from regression models. In particular, through use of the marginsplot command, Mitchell shows how you can graphically visualize every model presented in the book. Gaining insight into results is much easier when you can view them in a graph rather than in a mundane table of results ...\"", "\"... Mitchell then proceeds to more-complicated models where the effects of the independent variables are nonlinear. After discussing how to detect nonlinear effects, he presents examples using both standard polynomial terms (squares and cubes of variables) as well as fractional polynomial models, where independent variables can be raised to powers like −1 or 1/2. In all cases, Mitchell again uses the marginsplot command to illustrate the effect that changing an independent variable has on the dependent variable. Piecewise-linear models are presented as well; these are linear models in which the slope or intercept is allowed to change depending on the range of an independent variable. Mitchell also uses the contrast command when discussing categorical variables; as the name suggests, this command allows you to easily contrast predictions made for various levels of the categorical variable. Interaction terms can be tricky to interpret, but Mitchell shows how graphs produced by marginsplot greatly clarify results. Individual chapters are devoted to two- and three-way interactions containing all continuous or all categorical variables and include many practical examples. Raw regression output including interactions of continuous and categorical variables can be nigh impossible to interpret, but again Mitchell makes this a snap through judicious use of the margins and marginsplot commands in subsequent chapters ...\"", "\"... The first two-thirds of the book is devoted to cross-sectional data, while the final third considers longitudinal data and complex survey data. A significant difference between this book and most others on regression models is that Mitchell spends quite some time on fitting and visualizing discontinuous models—models where the outcome can change value suddenly at thresholds. Such models are natural in settings such as education and policy evaluation, where graduation or policy changes can make sudden changes in income or revenue. This book is a worthwhile addition to the library of anyone involved in statistical consulting, teaching, or collaborative applied statistical environments. Graphs greatly aid the interpretation of regression models, and Mitchell’s book shows you how.\"-- Publisher's description: http://www.stata.com/bookstore/interpreting-visualizing-regression-models/" ],
+        "mms" : [ "990040317040107871" ],
+        "addtitle" : [ "Regression models using Stata", "Stata" ],
+        "edition" : [ "1st ed." ],
+        "place" : [ "College Station, Tex. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph004031704" ],
+        "lds53" : [ "004031704" ],
+        "lds60" : [ "\"A Stata Press Publication.\"" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990040317040107871" ],
+        "recordid" : [ "alma990040317040107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "004031704-NYU01" ],
+        "sourcesystem" : [ "ILS" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mitchell" ],
+        "aufirst" : [ "Michael N." ],
+        "auinit" : [ "M" ],
+        "au" : [ "Mitchell, Michael N." ],
+        "creatorfull" : [ "$$NMitchell, Michael N.$$LMitchell$$FMichael N.$$Rauthor" ],
+        "addtitle" : [ "Regression models using Stata", "Stata" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781597181075", "1597181072" ],
+        "notes" : [ "Includes bibliographical references (p. [545]-547) and indexes." ],
+        "abstract" : [ "\"Michael Mitchell’s Interpreting and Visualizing Regression Models Using Stata is a clear treatment of how to carefully present results from model-fitting in a wide variety of settings. It is a boon to anyone who has to present the tangible meaning of a complex model in a clear fashion, regardless of the audience. As an example, many experienced researchers start to squirm when asked to give a simple explanation of the practical meaning of interactions in nonlinear models such as logistic regression. The techniques presented in Mitchell's book make answering those questions easy. The overarching theme of the book is that graphs make interpreting even the most complicated models containing interaction terms, categorical variables, and other intricacies straightforward. Using a dataset based on the General Social Survey, Mitchell starts with a basic linear regression with a single independent variable and then illustrates how to tabulate and graph predicted values. Mitchell focuses on Stata’s margins and marginsplot commands, which play a central role in the book and which greatly simplify the calculation and presentation of results from regression models. In particular, through use of the marginsplot command, Mitchell shows how you can graphically visualize every model presented in the book. Gaining insight into results is much easier when you can view them in a graph rather than in a mundane table of results ...\"", "\"... Mitchell then proceeds to more-complicated models where the effects of the independent variables are nonlinear. After discussing how to detect nonlinear effects, he presents examples using both standard polynomial terms (squares and cubes of variables) as well as fractional polynomial models, where independent variables can be raised to powers like −1 or 1/2. In all cases, Mitchell again uses the marginsplot command to illustrate the effect that changing an independent variable has on the dependent variable. Piecewise-linear models are presented as well; these are linear models in which the slope or intercept is allowed to change depending on the range of an independent variable. Mitchell also uses the contrast command when discussing categorical variables; as the name suggests, this command allows you to easily contrast predictions made for various levels of the categorical variable. Interaction terms can be tricky to interpret, but Mitchell shows how graphs produced by marginsplot greatly clarify results. Individual chapters are devoted to two- and three-way interactions containing all continuous or all categorical variables and include many practical examples. Raw regression output including interactions of continuous and categorical variables can be nigh impossible to interpret, but again Mitchell makes this a snap through judicious use of the margins and marginsplot commands in subsequent chapters ...\"", "\"... The first two-thirds of the book is devoted to cross-sectional data, while the final third considers longitudinal data and complex survey data. A significant difference between this book and most others on regression models is that Mitchell spends quite some time on fitting and visualizing discontinuous models—models where the outcome can change value suddenly at thresholds. Such models are natural in settings such as education and policy evaluation, where graduation or policy changes can make sudden changes in income or revenue. This book is a worthwhile addition to the library of anyone involved in statistical consulting, teaching, or collaborative applied statistical environments. Graphs greatly aid the interpretation of regression models, and Mitchell’s book shows you how.\"-- Publisher's description: http://www.stata.com/bookstore/interpreting-visualizing-regression-models/" ],
+        "cop" : [ "College Station, Tex" ],
+        "pub" : [ "Stata Press" ],
+        "oclcid" : [ "(ocolc)783169117" ],
+        "lccn" : [ "2011943975" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Interpreting and visualizing regression models using Stata" ]
+      },
+      "sort" : {
+        "title" : [ "Interpreting and visualizing regression models using Stata /" ],
+        "author" : [ "Mitchell, Michael N." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990040317040107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-P",
+          "linkRecordId" : "990040317040107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_in_institution",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1597181072,OCLC:,LCCN:2011943975&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qa\"278.2ǂ m565 2012",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "56",
+    "CALL_SOLR_GET_IDS_LIST" : "71",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "2",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "47",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "219",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 248,
+    "COMBINED_SEARCH_TIME" : 250,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Regression Analysis Computer Simulation",
+      "count" : "1"
+    }, {
+      "value" : "Stata",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mitchell Michael N",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "library",
+    "values" : [ {
+      "value" : "7876–163053680007876",
+      "count" : "1"
+    }, {
+      "value" : "7879–112350240007879",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "available_p",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "institution",
+    "values" : [ {
+      "value" : "7876",
+      "count" : "1"
+    }, {
+      "value" : "7879",
+      "count" : "1"
+    } ]
+  } ]
+}

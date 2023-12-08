@@ -1,0 +1,209 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990037969450107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Using the engineering literature " ],
+        "subject" : [ "Documentation technique", "TECHNOLOGY & ENGINEERING -- Engineering (General)", "TECHNOLOGY & ENGINEERING -- Reference", "Engineering -- Computer network resources", "Technical literature" ],
+        "format" : [ "1 online resource (xx, 580 pages)", "data file" ],
+        "identifier" : [ "$$CLC$$V2011002506;$$CISBN$$V9781439850039;$$CISBN$$V1439850038;$$CISBN$$V0429061986;$$CISBN$$V9780429061981;$$CISBN$$V1283274582;$$CISBN$$V9781283274586;$$CISBN$$V9786613274588;$$CISBN$$V6613274585;$$COCLC$$V(OCoLC)750247217;$$CISBN$$V9781439850022" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "Boca Raton, FL : CRC Press" ],
+        "description" : [ "With the encroachment of the internet into nearly all aspects of work and life, it seems as though information is everywhere. However, there is information and then there is correct, appropriate, and timely information. While we might love being able to turn to Wikipedia for encyclopedia-like information or search Google for the thousands of links on a topic, engineers need the best information, information that is evaluated, up-to-date, and complete. Accurate, vetted information is necessary when building new skyscrapers or developing new prosthetics for returning military veterans. While the first edition of Using the Engineering Literature used a roadmap analogy, we now need a three-dimensional analysis reflecting the complex and dynamic nature of research in the information age. This book provides a guide to the wide range of resources available in all fields of engineering. This second edition has been thoroughly revised and features new sections on nanotechnology as well as green engineering." ],
+        "mms" : [ "990037969450107871" ],
+        "contributor" : [ "Osif, Bonnie A., editor.$$QOsif, Bonnie A." ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "Ch. 1. Introduction / Bonnie A. Osif -- ch. 2. General engineering resources / John J. Meier -- ch. 3. Aeronautical and aerospace engineering / Thomas W. Conkling -- ch. 4. Agricultural and food engineering / Kathy Fescemyer and Helen Smith -- ch. 5. Architectural engineering / Barbara Opar -- ch. 6. Bioengineering / Honora Nerz Eskridge and Linda Martinez -- ch. 7. Chemical engineering / Dana Roth -- ch. 8. Civil engineering / Carol Reese and Michael Chrimes -- ch. 9. Computer engineering / Hema Ramachandran -- ch. 10. Electrical and electronics engineering / Larry Thompson -- ch. 11. Engineering education / Jill H. Powell and Jeremy Cusker -- ch. 12. Environmental engineering / Robert Tolliver -- ch. 13. History of engineering / Nestor L. Osorio and Mary A. Osorio -- ch. 14. Industrial engineering / Nestor L. Osorio and Andrew W. Otieno -- ch. 15. Materials science and engineering / Leena N. Lalwani and Sara Samuel -- ch. 16. Mechanical engineering / Aleteia Greenwood and Mel DeSart -- ch. 17. Mining engineering / Jerry Kowalyk -- ch. 18. Nuclear engineering / Mary Frances Lembo -- ch. 19. Petroleum engineering and refining / Randy Reichardt -- ch. 20. Transportation engineering / Rita Evans and Kendra K. Levine." ],
+        "relation" : [ "$$Cform$$VPrint version: Using the engineering literature. 2nd ed. Boca Raton, FL : CRC Press, ©2012$$QUsing the engineering literature.$$Z990035500930107871" ],
+        "place" : [ "Boca Raton, FL :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "safaeb", "tayfeb", "aleph003796945" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990037969450107871" ],
+        "recordid" : [ "alma990037969450107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "003796945-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Osif" ],
+        "aufirst" : [ "Bonnie A." ],
+        "auinit" : [ "B" ],
+        "addau" : [ "Osif, Bonnie A." ],
+        "contributorfull" : [ "$$NOsif, Bonnie A.$$LOsif$$FBonnie A.$$Reditor" ],
+        "date" : [ "2012" ],
+        "isbn" : [ "9781439850039", "1439850038", "0429061986", "9780429061981", "1283274582", "9781283274586", "9786613274588", "6613274585", "9781439850022" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "With the encroachment of the internet into nearly all aspects of work and life, it seems as though information is everywhere. However, there is information and then there is correct, appropriate, and timely information. While we might love being able to turn to Wikipedia for encyclopedia-like information or search Google for the thousands of links on a topic, engineers need the best information, information that is evaluated, up-to-date, and complete. Accurate, vetted information is necessary when building new skyscrapers or developing new prosthetics for returning military veterans. While the first edition of Using the Engineering Literature used a roadmap analogy, we now need a three-dimensional analysis reflecting the complex and dynamic nature of research in the information age. This book provides a guide to the wide range of resources available in all fields of engineering. This second edition has been thoroughly revised and features new sections on nanotechnology as well as green engineering." ],
+        "cop" : [ "Boca Raton, FL" ],
+        "pub" : [ "CRC Press" ],
+        "oclcid" : [ "(ocolc)750247217" ],
+        "doi" : [ "10.1201/b11072" ],
+        "lccn" : [ "2011002506" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Using the engineering literature" ]
+      },
+      "sort" : {
+        "title" : [ "Using the engineering literature /" ],
+        "author" : [ "Osif, Bonnie A., editor." ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990037969450107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1439850038,OCLC:,LCCN:2011002506&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "t!10.7ǂ u85 2012eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "247",
+    "CALL_SOLR_GET_IDS_LIST" : "135",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "60",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "58",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "88",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "547",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 603,
+    "COMBINED_SEARCH_TIME" : 607,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Documentation Technique",
+      "count" : "1"
+    }, {
+      "value" : "Engineering Computer Network Resources",
+      "count" : "1"
+    }, {
+      "value" : "Technical Literature",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Engineering General",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Reference",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Osif Bonnie A",
+      "count" : "1"
+    } ]
+  } ]
+}

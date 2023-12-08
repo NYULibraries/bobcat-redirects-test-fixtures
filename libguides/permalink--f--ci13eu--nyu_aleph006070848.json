@@ -1,0 +1,257 @@
+{
+  "info" : {
+    "totalResultsLocal" : 1,
+    "totalResultsPC" : -1,
+    "total" : 1,
+    "first" : 1,
+    "last" : 1
+  },
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990060708480107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "History of the mafia " ],
+        "subject" : [ "Mafia -- Italy -- History", "Mafia -- Italie -- Histoire", "TRUE CRIME -- Organized Crime", "HISTORY -- Europe -- Italy", "Mafia", "Italy", "Maffia -- historia -- Italien -- Sicilien" ],
+        "format" : [ "1 online resource (xvi, 328 pages)", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780231505390;$$CISBN$$V0231505396;$$CISBN$$V1282796267;$$CISBN$$V9781282796263;$$CISBN$$V661279626X;$$COCLC$$V(OCoLC)676814293;$$CISBN$$V9786612796265" ],
+        "creationdate" : [ "2009" ],
+        "creator" : [ "Lupo, Salvatore, 1951- author.$$QLupo, Salvatore" ],
+        "publisher" : [ "New York : Columbia University Press" ],
+        "description" : [ "\"Combining a nuanced history with a unique counternarrative concerning stereotypes of the immigrant, Salvatore Lupo, a leading historian of modern Italy and a major authority on its criminal history, has written the definitive account of the Sicilian Mafia from 1860 to the present. Consulting rare archival sources, he traces the web of associations, both illicit and legitimate, that have defined Cosa Nostra during its various incarnations. He focuses on several crucial periods of transition: the Italian unification of 1860 to 1861, the murder of noted politician Notarbartolo, fascist repression of the Mafia, the Allied invasion of 1943, social conflicts after each world war, and the major murders and trials of the 1980s.\" \"Lupo identifies the internal cultural codes that define the Mafia and places these codes within the context of social groups and communities. He also challenges the belief that the Mafia has grown more ruthless in recent decades. Rather than representing a shift from \"honorable\" crime to immoral drug trafficking and violence, Lupo argues the terroristic activities of the modern Mafia signify a new desire for visibility and a distinct break from the state. Where these pursuits will take the family adds a fascinating coda to Lupo's work.\"--Jacket." ],
+        "mms" : [ "990060708480107871" ],
+        "contributor" : [ "Shugaar, Antony, translator.$$QShugaar, Antony" ],
+        "contents" : [ "The revelation -- Guardiani and profiteers -- Democratization, totalitarianism, democracy -- La cosa loro : their thing." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version:$$Z9995665948807871" ],
+        "unititle" : [ "Storia della mafia. English" ],
+        "includes" : [ "Lupo, Salvatore, 1951- Storia della mafia. English$$QLupo, Salvatore, 1951- Storia della mafia. English" ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscoac", "aleph006070848" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990060708480107871" ],
+        "recordid" : [ "alma990060708480107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "006070848-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "3.5203855E-6" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Lupo" ],
+        "aufirst" : [ "Salvatore" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Lupo, Salvatore" ],
+        "addau" : [ "Shugaar, Antony" ],
+        "creatorfull" : [ "$$NLupo, Salvatore$$LLupo$$FSalvatore$$Rauthor" ],
+        "contributorfull" : [ "$$NShugaar, Antony$$LShugaar$$FAntony$$Rtranslator" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9780231505390", "0231505396", "1282796267", "9781282796263", "661279626X", "9786612796265" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Combining a nuanced history with a unique counternarrative concerning stereotypes of the immigrant, Salvatore Lupo, a leading historian of modern Italy and a major authority on its criminal history, has written the definitive account of the Sicilian Mafia from 1860 to the present. Consulting rare archival sources, he traces the web of associations, both illicit and legitimate, that have defined Cosa Nostra during its various incarnations. He focuses on several crucial periods of transition: the Italian unification of 1860 to 1861, the murder of noted politician Notarbartolo, fascist repression of the Mafia, the Allied invasion of 1943, social conflicts after each world war, and the major murders and trials of the 1980s.\" \"Lupo identifies the internal cultural codes that define the Mafia and places these codes within the context of social groups and communities. He also challenges the belief that the Mafia has grown more ruthless in recent decades. Rather than representing a shift from \"honorable\" crime to immoral drug trafficking and violence, Lupo argues the terroristic activities of the modern Mafia signify a new desire for visibility and a distinct break from the state. Where these pursuits will take the family adds a fascinating coda to Lupo's work.\"--Jacket." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Columbia University Press" ],
+        "oclcid" : [ "(ocolc)676814293" ],
+        "lccn" : [ "2009011765" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "History of the mafia" ]
+      },
+      "sort" : {
+        "title" : [ "History of the mafia /" ],
+        "author" : [ "Lupo, Salvatore, 1951- author." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060708480107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060708480107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060708480107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990060708480107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0231505396,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv#6453 i8ǂl8613 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
+  "timelog" : {
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "441",
+    "CALL_SOLR_GET_IDS_LIST" : "108",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "171",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "105",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "118",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "121",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "856",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 882,
+    "COMBINED_SEARCH_TIME" : 885,
+    "PROCESS_COMBINED_RESULTS" : 0,
+    "FEATURED_SEARCH_TIME" : 1
+  },
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "History Europe Italy",
+      "count" : "1"
+    }, {
+      "value" : "Italy",
+      "count" : "1"
+    }, {
+      "value" : "Maffia Historia Italien Sicilien",
+      "count" : "1"
+    }, {
+      "value" : "Mafia",
+      "count" : "1"
+    }, {
+      "value" : "Mafia Italie Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Mafia Italy History",
+      "count" : "1"
+    }, {
+      "value" : "True Crime Organized Crime",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Lupo Salvatore",
+      "count" : "1"
+    }, {
+      "value" : "Shugaar Antony",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
+}
