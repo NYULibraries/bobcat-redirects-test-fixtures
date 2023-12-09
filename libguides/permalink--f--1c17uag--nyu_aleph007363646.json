@@ -1,22 +1,214 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996750550507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Calcutta Gazette. Thursday, February 2, 1928. Parts I, IA, IB, Appendix, II." ],
+        "subject" : [ "Government, Politics and Public Policy" ],
+        "format" : [ "1 online resource : text file, PDF." ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "England : Taylor & Francis" ],
+        "mms" : [ "9996750550507871" ],
+        "contributor" : [ "Coherent Digital (Firm)$$QCoherent Digital (Firm)" ],
+        "contents" : [ "Part I / unknown -- Part IA / unknown -- Part IB / unknown -- Appendix to the Calcutta Gazette / unknown -- Part II / unknown." ],
+        "genre" : [ "Gazetteer" ],
+        "relation" : [ "$$Cdata_source$$VSouth Asia Archive SACO_SARF$$QSouth Asia Archive" ],
+        "place" : [ "England :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007363646" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996750550507871" ],
+        "recordid" : [ "alma9996750550507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)d2d5944836163f44" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2013 - 1928", "2013" ],
+        "cop" : [ "England" ],
+        "pub" : [ "Taylor & Francis" ],
+        "oclcid" : [ "(vaalcd)20.500.12592/q092t2" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Calcutta Gazette. Thursday, February 2, 1928. Parts I, IA, IB, Appendix, II." ]
+      },
+      "sort" : {
+        "title" : [ "The Calcutta Gazette. Thursday, February 2, 1928. Parts I, IA, IB, Appendix, II." ],
+        "author" : [ "Coherent Digital (Firm)" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996750550507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996750550507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996750550507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "70",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "80",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "110",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "141",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "70",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "33",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "69",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "72",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "452",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 81,
-    "COMBINED_SEARCH_TIME" : 84,
+    "BUILD_COMBINED_RESULTS_MAP" : 489,
+    "COMBINED_SEARCH_TIME" : 492,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1928",
+      "count" : "1"
+    }, {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Politics And Public Policy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

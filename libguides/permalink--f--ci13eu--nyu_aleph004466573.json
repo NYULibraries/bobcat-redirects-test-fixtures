@@ -1,22 +1,222 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996705899207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "International encyclopedia of the social & behavioral sciences " ],
+        "subject" : [ "Social sciences$$QSocial sciences -- Encyclopedias", "Psychology", "Sciences sociales$$QSciences sociales -- Encyclopédies", "Sciences sociales", "Sciences du comportement", "social sciences", "behavioral sciences", "Social sciences", "Sociale wetenschappen", "Gedragswetenschappen" ],
+        "format" : [ "1 online resource (26 volumes) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780080548050;$$CISBN$$V0080548059;$$COCLC$$V(OCoLC)191565681;$$CISBN$$V0080430767;$$CISBN$$V9780080430768" ],
+        "creationdate" : [ "2001" ],
+        "publisher" : [ "Amsterdam ; New York : Elsevier" ],
+        "description" : [ "This Encyclopedia is the first attempt in a generation to map the social and behavioral sciences on a grand scale. Not since the publication in 1968 of the International Encyclopedia of the Social Sciences, edited by David L. Sills, has there been such an ambitious project to describe the state of the art in all the fields encompassed within the social and behavioral sciences. Available in both print (26 volumes) and online editions, it comprises 4,000 articles, commissioned by 52 Section Editors, and includes 90,000 bibliographic references as well as comprehensive name and subject indexes." ],
+        "mms" : [ "9996705899207871" ],
+        "contributor" : [ "Smelser, Neil J.$$QSmelser, Neil J.", "Baltes, Paul B.$$QBaltes, Paul B." ],
+        "addtitle" : [ "International encyclopedia of the social and behavioral sciences" ],
+        "edition" : [ "1st ed." ],
+        "contents" : [ "v. 1. A-ARC -- v. 2. ARE-B -- v. 3. C-COG -- v. 4. COH-COU -- v. 5. CR-DEU -- v. 6. DEV-EDU -- v. 7. EFF-EV -- v. 8. EX-FOO -- v. 9. FOR-G -- v. 10. H -- v. 11. I-INT -- v. 12. INV-LA -- v. 13. LE-MAO -- v. 14. MAR-MIN -- v. 15. MIS-NEU -- v. 16. NEW-PER -- v. 17. PES-PRE -- v. 18. PRI-Q -- v. 19. R-RET -- v. 20. REV-SER -- v. 21. SET-SOM -- v. 22. SOU-SU -- v. 23. SY-UNO -- v. 24. UR-Z -- v. 25. Name index -- v. 26. Subject index." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: International encyclopedia of the social & behavioral sciences. 1st ed. Amsterdam ; New York : Elsevier, 2001$$QInternational encyclopedia of the social & behavioral sciences." ],
+        "mesh" : [ "Social Sciences", "Behavioral Sciences", "Encyclopedia" ],
+        "place" : [ "Amsterdam ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph004466573" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996705899207871" ],
+        "recordid" : [ "alma9996705899207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)191565681" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Smelser", "Baltes" ],
+        "aufirst" : [ "Neil J.", "Paul B." ],
+        "auinit" : [ "N", "P" ],
+        "addau" : [ "Smelser, Neil J.", "Baltes, Paul B." ],
+        "contributorfull" : [ "$$NSmelser, Neil J.$$LSmelser$$FNeil J.$$Rcontributor", "$$NBaltes, Paul B.$$Rcontributor" ],
+        "addtitle" : [ "International encyclopedia of the social and behavioral sciences" ],
+        "date" : [ "2001" ],
+        "isbn" : [ "9780080548050", "0080548059", "0080430767", "9780080430768" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "This Encyclopedia is the first attempt in a generation to map the social and behavioral sciences on a grand scale. Not since the publication in 1968 of the International Encyclopedia of the Social Sciences, edited by David L. Sills, has there been such an ambitious project to describe the state of the art in all the fields encompassed within the social and behavioral sciences. Available in both print (26 volumes) and online editions, it comprises 4,000 articles, commissioned by 52 Section Editors, and includes 90,000 bibliographic references as well as comprehensive name and subject indexes." ],
+        "cop" : [ "Amsterdam ;" ],
+        "pub" : [ "Elsevier" ],
+        "oclcid" : [ "(ocolc)191565681" ],
+        "edition" : [ "1st ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "International encyclopedia of the social & behavioral sciences" ]
+      },
+      "sort" : {
+        "title" : [ "International encyclopedia of the social & behavioral sciences /" ],
+        "author" : [ "Smelser, Neil J." ],
+        "creationdate" : [ "2001" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0080548059,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "h!41ǂ i58 2001eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "28",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "36",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "516",
+    "CALL_SOLR_GET_IDS_LIST" : "73",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "46",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "1",
+    "RETRIVE_FROM_DB_RECORDS" : "477",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "42",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "718",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 38,
-    "COMBINED_SEARCH_TIME" : 40,
+    "BUILD_COMBINED_RESULTS_MAP" : 744,
+    "COMBINED_SEARCH_TIME" : 746,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2001",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Behavioral Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Gedragswetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Du Comportement",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Wetenschappen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Baltes Paul B",
+      "count" : "1"
+    }, {
+      "value" : "Smelser Neil J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

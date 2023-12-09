@@ -12,34 +12,38 @@
   "docs" : [ {
     "context" : "L",
     "adaptor" : "Local Search Engine",
-    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990064652340107871",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996708762707871",
     "pnx" : {
       "display" : {
         "source" : [ "Alma" ],
         "type" : [ "book" ],
         "language" : [ "eng" ],
-        "title" : [ "Sustainable Construction Green Building Design and Delivery." ],
-        "format" : [ "1 online resource (602 p.)." ],
-        "identifier" : [ "$$CISBN$$V9781119055310;$$CISBN$$V1119055318;$$COCLC$$V(OCoLC)1347028620;$$CISBN$$V9781119055174" ],
+        "title" : [ "Sustainable construction : green building design and delivery " ],
+        "subject" : [ "Sustainable buildings -- United States -- Design and construction", "Green technology -- United States", "Construction durable", "Constructions durables -- États-Unis -- Conception et construction", "Technologie de protection de l'environnement -- États-Unis", "Architecture durable", "TECHNOLOGY & ENGINEERING -- Construction -- General", "Green technology", "Sustainable architecture", "Sustainable buildings -- Design and construction", "Sustainable construction", "United States" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CLC$$V2015045967;$$CISBN$$V9781119055310;$$CISBN$$V1119055318;$$CISBN$$V9781119055327;$$CISBN$$V1119055326;$$CISBN$$V1119055172;$$COCLC$$V(OCoLC)930067889;$$CISBN$$V9781119055174" ],
         "creationdate" : [ "2016" ],
-        "creator" : [ "Kibert, Charles J.$$QKibert, Charles J." ],
-        "publisher" : [ "Newark : John Wiley & Sons, Incorporated" ],
-        "mms" : [ "990064652340107871" ],
-        "series" : [ "New York Academy of Sciences Ser.$$QNew York Academy of Sciences Ser." ],
-        "relation" : [ "$$Cform$$VPrint version: Kibert, Charles J. Sustainable Construction Newark : John Wiley & Sons, Incorporated,c2016$$QSustainable Construction$$Z990048456540107871" ],
-        "place" : [ "Newark :" ],
+        "creator" : [ "Kibert, Charles J., author.$$QKibert, Charles J." ],
+        "publisher" : [ "Hoboken, New Jersey : Wiley" ],
+        "description" : [ "The leading green building reference, updated with the latest advances in the field Sustainable Construction is the leading reference for the design, construction, and operation of high performance green buildings. With broad coverage including architecture, engineering, and construction, this book nevertheless delivers detailed information on all aspects of the green building process, from materials selection to building systems and more. This new fourth edition has been updated to reflect the latest codes and standards, including LEED v4, and includes new coverage of carbon accounting. The discussion has been updated to align with the current thinking on economics, climate change, net zero buildings, and more, with contributions by leaders in the field that illustrate the most recent shifts in thinking and practice. Ancillary materials including an instructor's manual and PowerPoint presentations for each chapter help bring this clear and up-to-date information into the classroom, making this book a valuable reference for working construction professionals. Also, Interactive graphics found throughout the course help activate the content and highlight key concepts for students. Sustainable construction has gone mainstream, and will one day be the industry norm. This book provides a comprehensive reference to all aspects of a project to show you how green building concepts and principles apply throughout the design and construction process. Get up to date on the latest green building codes and standards Learn about the newest technology in green building materials Adopt the best practices in procurement and delivery systems Apply sustainability concepts to all aspects of construction and design Green buildings operate at a very high level of efficiency, which is made possible only by careful consideration every step of the way. Appropriate land use, landscaping, construction materials, siting, water use, and more all play a role in a structure's ultimate carbon footprint. Sustainable Construction provides clear guidance for all aspects of green building, including the most recent advances and the latest technology." ],
+        "mms" : [ "9996708762707871" ],
+        "edition" : [ "Fourth edition." ],
+        "contents" : [ "Sustainable Construction -- Contents -- Preface -- Chapter 1 Introduction and Overview -- The Shifting Landscape for Green Buildings -- The Roots of Sustainable Construction -- Sustainable Development and Sustainable Construction -- The Vocabulary of Sustainable Development and Sustainable Construction -- Sustainable Construction -- Green Building -- High-Performance Buildings, Systems Thinking, and Whole-Building Design -- Sustainable Design, Ecological Design, and Green Design -- Land Resources -- Energy and At mosphere -- Water Issues -- Ecosystems: The Forgotten Resource.", "Rationale for High-Performance Green Buildings -- State and Local Guidelines for High-Performance Construction -- Green Building Progress and Obstacles -- Trends in High-Performance Green Building -- Transparency -- Carbon Accounting -- Net-Zero Buildings -- Building Information Modeling -- Life-Cycle Assessment -- Book Organization -- Case Study: The Pertamina Energy Tower: A Primer on Green Skyscraper Design -- Summary and Conclusions -- Notes -- References -- Part I Green Building Foundations -- Chapter 2 Background -- The Driving Forces for Sustainable Construction.", "Ethics and Sustainability -- The Ethical Challenges -- Intergenerational Justice and the Chain of Obligation -- Distributional Equity -- The Precautionary Principle -- The Reversibility Principle -- The Polluter Pays Principle and Producer Responsibility -- Protecting the Vulnerable -- Protecting the Rights of the Nonhuman World -- Respect for Nature and the Land Ethic -- Basic Concepts and Vocabulary -- Sustainable Development -- Industrial Ecology -- Construction Ecology -- Biomimicry -- Design for the Environment -- Ecological Economics -- Carrying Capacity -- Ecological Footprint.", "The Ecological Rucksack and Materials Intensity per Unit Service -- The Biophilia Hypothesis -- Eco-Efficiency -- The Natural Step -- Life-Cycle Assessment -- Life-Cycle Costing -- Embodied Energy -- Factor 4, Factor 5, and Factor 10 -- Major Environmental and Resource Concerns -- Climate Change -- Deforestation, Desertification, and Soil Erosion -- Eutrophication and Acidification -- Loss of Biodiversity -- Toxic Substances and Endocrine Disruptors -- Depletion of Metal Stocks -- The Green Building Movement -- Green Building Organizations-United States.", "Green Building Organizations-International -- History of the U.S. Green Building Movement -- New Directions in High-Performance Green Building -- Case Study: OWP 11, Stuttgart, Germany -- Summary and Conclusions -- Notes -- References -- Chapter 3 Ecological Design -- Design versus Ecological Design -- Benefits of Ecological Design -- R. Buckminster Fuller -- Frank Lloyd Wright -- Richard Neutra -- Lewis Mumford -- Ian McHarg -- Malcolm Wells -- John Lyle -- Contemporary Ecological Design -- Key Green Building Publications: Early 1990s -- The Hannover Principles." ],
+        "genre" : [ "e-books", "Livres numériques" ],
+        "relation" : [ "$$Cform$$VPrint version: Kibert, Charles J. Sustainable construction. Fourth edition. Hoboken, New Jersey : John Wiley & Sons Inc., 2016$$QSustainable construction." ],
+        "place" : [ "Hoboken, New Jersey :" ],
         "version" : [ "0" ],
-        "lds52" : [ "ebcacls", "aleph007960214" ],
-        "lds60" : [ "Description based upon print version of record." ]
+        "lds52" : [ "ebceb", "aleph006465234" ],
+        "lds60" : [ "Includes index." ]
       },
       "control" : {
-        "sourcerecordid" : [ "990064652340107871" ],
-        "recordid" : [ "alma990064652340107871" ],
+        "sourcerecordid" : [ "9996708762707871" ],
+        "recordid" : [ "alma9996708762707871" ],
         "sourceid" : "alma",
-        "originalsourceid" : [ "006465234-NYU01" ],
+        "originalsourceid" : [ "new_(OCoLC)930067889" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203855E-6" ],
+        "score" : [ "1.6209055E-4" ],
         "isDedup" : false
       },
       "addata" : {
@@ -49,19 +53,22 @@
         "au" : [ "Kibert, Charles J." ],
         "creatorfull" : [ "$$NKibert, Charles J.$$LKibert$$FCharles J.$$Rauthor" ],
         "date" : [ "2016" ],
-        "isbn" : [ "9781119055310", "1119055318", "9781119055174" ],
-        "cop" : [ "Newark" ],
-        "pub" : [ "John Wiley & Sons, Incorporated" ],
-        "oclcid" : [ "(ocolc)1347028620" ],
-        "seriestitle" : [ "New York Academy of Sciences Ser." ],
+        "isbn" : [ "9781119055310", "1119055318", "9781119055327", "1119055326", "1119055172", "9781119055174" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The leading green building reference, updated with the latest advances in the field Sustainable Construction is the leading reference for the design, construction, and operation of high performance green buildings. With broad coverage including architecture, engineering, and construction, this book nevertheless delivers detailed information on all aspects of the green building process, from materials selection to building systems and more. This new fourth edition has been updated to reflect the latest codes and standards, including LEED v4, and includes new coverage of carbon accounting. The discussion has been updated to align with the current thinking on economics, climate change, net zero buildings, and more, with contributions by leaders in the field that illustrate the most recent shifts in thinking and practice. Ancillary materials including an instructor's manual and PowerPoint presentations for each chapter help bring this clear and up-to-date information into the classroom, making this book a valuable reference for working construction professionals. Also, Interactive graphics found throughout the course help activate the content and highlight key concepts for students. Sustainable construction has gone mainstream, and will one day be the industry norm. This book provides a comprehensive reference to all aspects of a project to show you how green building concepts and principles apply throughout the design and construction process. Get up to date on the latest green building codes and standards Learn about the newest technology in green building materials Adopt the best practices in procurement and delivery systems Apply sustainability concepts to all aspects of construction and design Green buildings operate at a very high level of efficiency, which is made possible only by careful consideration every step of the way. Appropriate land use, landscaping, construction materials, siting, water use, and more all play a role in a structure's ultimate carbon footprint. Sustainable Construction provides clear guidance for all aspects of green building, including the most recent advances and the latest technology." ],
+        "cop" : [ "Hoboken, New Jersey" ],
+        "pub" : [ "Wiley" ],
+        "oclcid" : [ "(ocolc)930067889" ],
+        "lccn" : [ "2015045967" ],
+        "edition" : [ "Fourth edition." ],
         "format" : [ "book" ],
         "genre" : [ "book" ],
         "ristype" : [ "BOOK" ],
-        "btitle" : [ "Sustainable Construction Green Building Design and Delivery." ]
+        "btitle" : [ "Sustainable construction : green building design and delivery" ]
       },
       "sort" : {
-        "title" : [ "Sustainable Construction Green Building Design and Delivery." ],
-        "author" : [ "Kibert, Charles J." ],
+        "title" : [ "Sustainable construction : green building design and delivery /" ],
+        "author" : [ "Kibert, Charles J., author." ],
         "creationdate" : [ "2016" ]
       },
       "facets" : {
@@ -85,37 +92,7 @@
       "additionalLocations" : null,
       "physicalItemTextCodes" : null,
       "feDisplayOtherLocations" : null,
-      "almaInstitutionsList" : [ {
-        "getitLink" : [ {
-          "displayText" : "Alma-E",
-          "linkRecordId" : "990064652340107871"
-        } ],
-        "instCode" : "01NYU_CU",
-        "instName" : "Cooper Union",
-        "instId" : "7874",
-        "availabilityStatus" : "available_online",
-        "envURL" : ""
-      }, {
-        "getitLink" : [ {
-          "displayText" : "Alma-E",
-          "linkRecordId" : "990064652340107871"
-        } ],
-        "instCode" : "01NYU_TNS",
-        "instName" : "The New School",
-        "instId" : "7875",
-        "availabilityStatus" : "available_online",
-        "envURL" : ""
-      }, {
-        "getitLink" : [ {
-          "displayText" : "Alma-E",
-          "linkRecordId" : "990064652340107871"
-        } ],
-        "instCode" : "01NYU_INST",
-        "instName" : "New York University - New York",
-        "instId" : "7876",
-        "availabilityStatus" : "available_online",
-        "envURL" : ""
-      } ],
+      "almaInstitutionsList" : null,
       "recordInstitutionCode" : null,
       "recordOwner" : "01NYU_NETWORK",
       "hasFilteredServices" : null,
@@ -141,7 +118,7 @@
       "link" : [ {
         "@id" : ":_0",
         "linkType" : "thumbnail",
-        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119055318,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1119055318,OCLC:,LCCN:2015045967&jscmd=viewapi&callback=updateGBSCover",
         "displayLabel" : "thumbnail"
       } ],
       "hasD" : null
@@ -151,24 +128,29 @@
         "isVirtualBrowseEnabled" : false,
         "callNumber" : "",
         "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "th\"880",
+        "callNumberBrowseField" : "LOC_CL"
       }
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "199",
-    "CALL_SOLR_GET_IDS_LIST" : "89",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "7",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "111",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
     "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "20",
-    "RETRIVE_FROM_DB_RELATIONS" : "32",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
-    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "59",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "393",
+    "RETRIVE_FROM_DB_RECORDS" : "71",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "313",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 423,
-    "COMBINED_SEARCH_TIME" : 426,
+    "BUILD_COMBINED_RESULTS_MAP" : 356,
+    "COMBINED_SEARCH_TIME" : 359,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
@@ -191,9 +173,54 @@
       "count" : "1"
     } ]
   }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture Durable",
+      "count" : "1"
+    }, {
+      "value" : "Construction Durable",
+      "count" : "1"
+    }, {
+      "value" : "Constructions Durables États Unis Conception Et Construction",
+      "count" : "1"
+    }, {
+      "value" : "Green Technology",
+      "count" : "1"
+    }, {
+      "value" : "Green Technology United States",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Buildings Design And Construction",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Buildings United States Design And Construction",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Construction",
+      "count" : "1"
+    }, {
+      "value" : "Technologie De Protection De Lenvironnement États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Technology Engineering Construction General",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    } ]
+  }, {
     "name" : "creator",
     "values" : [ {
       "value" : "Kibert Charles J",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
       "count" : "1"
     } ]
   } ]

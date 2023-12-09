@@ -1,22 +1,221 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995905722607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "conference_proceeding" ],
+        "language" : [ "eng" ],
+        "title" : [ "Horror literature from Gothic to post-modern : critical essays " ],
+        "subject" : [ "Horror tales -- History and criticism$$QHorror tales -- History and criticism -- Congresses", "Horror in literature$$QHorror in literature -- Congresses", "Récits d'horreur -- Histoire et critique$$QRécits d'horreur -- Histoire et critique -- Congrès", "Horreur dans la littérature$$QHorreur dans la littérature -- Congrès", "Horror in literature", "Horror tales" ],
+        "format" : [ "1 online resource (viii, 228 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781476637914;$$CISBN$$V1476637911;$$COCLC$$V(OCoLC)1141112369;$$CISBN$$V9781476674889;$$CISBN$$V1476674884" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Jefferson, North Carolina : McFarland & Company, Inc., Publishers" ],
+        "description" : [ "\"From shambling zombies to Gothic ghosts, horror has entertained thrill-seeking readers for centuries. A versatile literary genre, it offers commentary on societal issues, fresh insight into the everyday and moral tales disguised in haunting tropes and grotesque acts, with many stories worthy of critical appraisal. This collection of new essays takes in a range of topics, focusing on historic works such as Ann Radcliffe's Gaston de Blondeville (1826) and modern novels including Max Brooks' World War Z. Other contributions examine weird fiction, Stephen King, Richard Laymon, Indigenous Australian monster mythology and horror in picture books for young children\"-- Provided by publisher" ],
+        "mms" : [ "9995905722607871" ],
+        "contributor" : [ "Brittany, Michele, 1965- editor.$$QBrittany, Michele", "Diak, Nicholas, 1982- editor.$$QDiak, Nicholas", "Morton, Lisa, 1958- writer of foreword.$$QMorton, Lisa", "Spratford, Becky Siegel, writer of afterword.$$QSpratford, Becky Siegel", "Horror Writers Association. Ann Radcliffe Academic Conference 2017 : Long Beach, Calif.)$$QHorror Writers Association. Ann Radcliffe Academic Conference", "Horror Writers Association. Ann Radcliffe Academic Conference 2018 : Providence, R.I.)$$QHorror Writers Association. Ann Radcliffe Academic Conference" ],
+        "contents" : [ "\"The mist of death is on me\" : Ann Radcliffe's unexplained supernatural in Gaston de Blondeville / Elizabeth Bobbitt -- Jekyll and Hyde everywhere : inconsistency and disparity in the real world / Erica McCrystal -- Scattergories : class upheaval, social chaos and the horrors of category crisis in World war Z / J. Rocky Colavito -- Marjorie Bowen and the third fury / John C. Tibbetts -- \"When the cage came up there was something crouched a-top of it\" : the haunted tale of L.T.C. Rolt / Danny Rhodes -- Richard Laymon's rhetorical style : minimalism, suspense and negative space / Gavin F. Hurley -- Four quadrants of success : the metalinguistics of author protagonists in the fiction of Stephen King / James Arthur Anderson -- \"The symptoms of possession\" : gender, power and trauma in late 20th century horror novels / Bridget E. Keown -- \"Not a bedtime story\" : investigating textual interactions between the horror genre and children's picture books / Emily Anctil -- Synchronic horror and the dreaming : a theory of aboriginal australian horror and monstrosity / Naomi Simone Borwein -- \"Gelatinous green immensity\" : weird fiction and the grotesque sublime / Johnny Murray -- Night of the living dead, or Endgame : Jan Kott, Samuel Beckett and zombies / Kevin J. Wetmore, Jr. -- Koji Suzuki's Ring : a world literary perspective / Frazer Lee -- Mapping digital disease : representations of movement and technology in Jim Sonzero's Pulse and Stephen King's Cell / Rahel Sixta Schmitz -- Afterword: Guardians of the damned : horror scholarship and the library / Becky Spratford." ],
+        "genre" : [ "Congresses", "Congrès", "Conference papers and proceedings", "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Horror literature from Gothic to post-modern. Jefferson, North Carolina : McFarland & Company, Inc., Publishers, [2020]$$QHorror literature from Gothic to post-modern." ],
+        "place" : [ "Jefferson, North Carolina :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoac", "aleph009737941" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995905722607871" ],
+        "recordid" : [ "alma9995905722607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009737941-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brittany", "Diak", "Morton", "Spratford" ],
+        "aufirst" : [ "Michele", "Nicholas", "Lisa", "Becky Siegel" ],
+        "auinit" : [ "M", "N", "L", "B" ],
+        "addau" : [ "Brittany, Michele", "Diak, Nicholas", "Morton, Lisa", "Spratford, Becky Siegel" ],
+        "contributorfull" : [ "$$NBrittany, Michele$$LBrittany$$FMichele$$Reditor", "$$NDiak, Nicholas$$Reditor", "$$NMorton, Lisa$$Rsecondary contributor", "$$NSpratford, Becky Siegel$$Rsecondary contributor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781476637914", "1476637911", "9781476674889", "1476674884" ],
+        "notes" : [ "Includes bibliographical references and index" ],
+        "abstract" : [ "\"From shambling zombies to Gothic ghosts, horror has entertained thrill-seeking readers for centuries. A versatile literary genre, it offers commentary on societal issues, fresh insight into the everyday and moral tales disguised in haunting tropes and grotesque acts, with many stories worthy of critical appraisal. This collection of new essays takes in a range of topics, focusing on historic works such as Ann Radcliffe's Gaston de Blondeville (1826) and modern novels including Max Brooks' World War Z. Other contributions examine weird fiction, Stephen King, Richard Laymon, Indigenous Australian monster mythology and horror in picture books for young children\"-- Provided by publisher" ],
+        "cop" : [ "Jefferson, North Carolina" ],
+        "pub" : [ "McFarland & Company, Inc., Publishers" ],
+        "oclcid" : [ "(ocolc)1141112369" ],
+        "format" : [ "book" ],
+        "genre" : [ "proceeding" ],
+        "ristype" : [ "BOOK" ],
+        "atitle" : [ "Horror literature from Gothic to post-modern : critical essays" ]
+      },
+      "sort" : {
+        "title" : [ "Horror literature from Gothic to post-modern : critical essays /" ],
+        "author" : [ "Brittany, Michele, 1965- editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995905722607871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1476637911,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn!56 h6ǂh66 2020eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "20",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "29",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "96",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "66",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "62",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "351",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 31,
-    "COMBINED_SEARCH_TIME" : 34,
+    "BUILD_COMBINED_RESULTS_MAP" : 398,
+    "COMBINED_SEARCH_TIME" : 400,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "conference_proceedings",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Horreur Dans La Littérature Congrès",
+      "count" : "1"
+    }, {
+      "value" : "Horror In Literature",
+      "count" : "1"
+    }, {
+      "value" : "Horror In Literature Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Horror Tales",
+      "count" : "1"
+    }, {
+      "value" : "Horror Tales History And Criticism Congresses",
+      "count" : "1"
+    }, {
+      "value" : "Récits Dhorreur Histoire Et Critique Congrès",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brittany Michele",
+      "count" : "1"
+    }, {
+      "value" : "Diak Nicholas",
+      "count" : "1"
+    }, {
+      "value" : "Horror Writers Association Ann Radcliffe Academic Conference",
+      "count" : "1"
+    }, {
+      "value" : "Morton Lisa",
+      "count" : "1"
+    }, {
+      "value" : "Spratford Becky Siegel",
+      "count" : "1"
+    } ]
+  } ]
 }

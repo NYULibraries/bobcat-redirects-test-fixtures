@@ -1,22 +1,225 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996708096307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of human nutrition " ],
+        "subject" : [ "Nutrition$$QNutrition -- Encyclopedias", "Dietetics$$QDietetics -- Encyclopedias", "Nutrition$$QNutrition -- Encyclopédies", "Diététique$$QDiététique -- Encyclopédies", "HEALTH & FITNESS / Healthy Living", "HEALTH & FITNESS / Holism", "HEALTH & FITNESS / Reference", "MEDICAL / Preventive Medicine", "Dietetics", "Nutrition" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9780123848857;$$CISBN$$V0123848857;$$COCLC$$V(OCoLC)828743402;$$CISBN$$V9780123750839" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "San Diego, CA : Elsevier Academic Press" ],
+        "description" : [ "\"This encyclopedia contains signed articles with bibliographies written by an international group of distinguished academics, research scientists, and food-industry professionals. The alphabetical entries cover the scientific, political, and social aspects of nutrition. Among the subjects included are individual nutrients and foods, anatomy and physiology, nutritional therapy for diseases and conditions, and subjects such as nutritional management of refugees, nutrition education, religious customs, and folklore. Appendixes with charts of weights and measures, nutritional allowances, and nutritional content of foods appear in each volume. In-depth coverage of the scientific, political, and social aspects of nutrition set this work apart from other reference sources in the field.\"--\"Outstanding reference sources 2000\", American Libraries, May 2000. Comp. by the Reference Sources Committee, RUSA, ALA." ],
+        "mms" : [ "9996708096307871" ],
+        "contributor" : [ "Caballero, Benjamin, editor.$$QCaballero, Benjamin", "Allen, Lindsay, 1946- editor.$$QAllen, Lindsay", "Prentice, Andrew, editor.$$QPrentice, Andrew" ],
+        "edition" : [ "Third edition." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of human nutrition. Third edition. Oxford : Elsevier/Academic Press, [2013]$$QEncyclopedia of human nutrition." ],
+        "mesh" : [ "Encyclopedia" ],
+        "place" : [ "San Diego, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph005744901" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996708096307871" ],
+        "recordid" : [ "alma9996708096307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)828743402" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Caballero", "Allen", "Prentice" ],
+        "aufirst" : [ "Benjamin", "Lindsay", "Andrew" ],
+        "auinit" : [ "B", "L", "A" ],
+        "addau" : [ "Caballero, Benjamin", "Allen, Lindsay", "Prentice, Andrew" ],
+        "contributorfull" : [ "$$NCaballero, Benjamin$$LCaballero$$FBenjamin$$Reditor", "$$NAllen, Lindsay$$Reditor", "$$NPrentice, Andrew$$Reditor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9780123848857", "0123848857", "9780123750839" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"This encyclopedia contains signed articles with bibliographies written by an international group of distinguished academics, research scientists, and food-industry professionals. The alphabetical entries cover the scientific, political, and social aspects of nutrition. Among the subjects included are individual nutrients and foods, anatomy and physiology, nutritional therapy for diseases and conditions, and subjects such as nutritional management of refugees, nutrition education, religious customs, and folklore. Appendixes with charts of weights and measures, nutritional allowances, and nutritional content of foods appear in each volume. In-depth coverage of the scientific, political, and social aspects of nutrition set this work apart from other reference sources in the field.\"--\"Outstanding reference sources 2000\", American Libraries, May 2000. Comp. by the Reference Sources Committee, RUSA, ALA." ],
+        "cop" : [ "San Diego, CA" ],
+        "pub" : [ "Elsevier Academic Press" ],
+        "oclcid" : [ "(ocolc)828743402" ],
+        "edition" : [ "Third edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of human nutrition" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of human nutrition /" ],
+        "author" : [ "Caballero, Benjamin, editor." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0123848857,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qp\"141ǂ e53 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "30",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "39",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "122",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "56",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "74",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "43",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "13",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "397",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 41,
-    "COMBINED_SEARCH_TIME" : 43,
+    "BUILD_COMBINED_RESULTS_MAP" : 427,
+    "COMBINED_SEARCH_TIME" : 430,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Dietetics",
+      "count" : "1"
+    }, {
+      "value" : "Dietetics Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Diététique Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Healthy Living",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Holism",
+      "count" : "1"
+    }, {
+      "value" : "Health Fitness Reference",
+      "count" : "1"
+    }, {
+      "value" : "Medical Preventive Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Nutrition Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Allen Lindsay",
+      "count" : "1"
+    }, {
+      "value" : "Caballero Benjamin",
+      "count" : "1"
+    }, {
+      "value" : "Prentice Andrew",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

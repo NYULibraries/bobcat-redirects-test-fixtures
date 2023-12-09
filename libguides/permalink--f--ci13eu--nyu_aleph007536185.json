@@ -1,22 +1,216 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996720585507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "THE CITY OF EDMONTON BYLAW 5590 TRAFFIC BYLAW (CONSOLIDATED ON MARCH 15, 2021)" ],
+        "subject" : [ "enforcement" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2021" ],
+        "publisher" : [ "Canada : Edmonton, Alberta." ],
+        "description" : [ "(S.2, Bylaw 18787, July 16, 2019) (j) “gross weight” means: (i) in respect of a single axle of a vehicle, the total weight that a single axle transmits to a highway; (ii) in respect of an axle group of a vehicle, the sum of the Page 8 of 46 Bylaw 5590 weights transmitted to a highway by all of the axles within the axle group; (iii) in respect of a tire of a vehicle, the total weight t. [...] PARALLEL 22 (1) A vehicle parked on a highway shall be parked: PARKING (a) with: (i) the sides of the vehicle parallel to the curb or edge Page 15 of 46 Bylaw 5590 of the roadway, and (ii) the right wheels of the vehicle not more than 500 millimetres from the right curb or edge of the roadway, or (b) in the case of a one-way highway where parking on either side is permitted, wit. [...] METERED SPACE 43 A vehicle parked on a highway in any space governed by a parking Page 21 of 46 Bylaw 5590 PARKING meter shall: (a) be parked completely within the metered space; and (b) if the metered space is parallel to the edge of the roadway, be parked so that: (i) the front of the vehicle is as close as possible to the parking meter if the meter is situated at the front of the. [...] (2) The order may: (a) direct a person to stop doing something, or to change the way in which the person is doing it; (b) direct a person to take any action or measures necessary to remedy the contravention of the bylaw and, if necessary, to prevent a re-occurrence of the contravention; (c) state a time within which the person must comply with the directions; (d) state that if the person. [...] (3) Subsection (1) does not apply if the owner of the vehicle satisfies the court that, at the time that the vehicle was involved in the offence: (a) in the case of a vehicle that was in motion, (i) the owner of the vehicle was not driving the vehicle, and (ii) no other person was driving the vehicle with the owner’s expressed or implied consent, and (b) in the case of a vehicle that was." ],
+        "mms" : [ "9996720585507871" ],
+        "contributor" : [ "Office of the City Manager/Office of the City Clerk/Information Services$$QOffice of the City Manager/Office of the City Clerk/Information Services", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: Canada POCO_POCC_CAN$$QCities: Canada", "$$Cdata_source$$VGovernment CANA_GOVT$$QGovernment", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "Canada] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007536185" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996720585507871" ],
+        "recordid" : [ "alma9996720585507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)1cd6a10ddc741673" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Office of the City Manager/Office of the City Clerk/Information Services" ],
+        "contributorfull" : [ "$$NOffice of the City Manager/Office of the City Clerk/Information Services$$Rcontributor" ],
+        "date" : [ "2021" ],
+        "abstract" : [ "(S.2, Bylaw 18787, July 16, 2019) (j) “gross weight” means: (i) in respect of a single axle of a vehicle, the total weight that a single axle transmits to a highway; (ii) in respect of an axle group of a vehicle, the sum of the Page 8 of 46 Bylaw 5590 weights transmitted to a highway by all of the axles within the axle group; (iii) in respect of a tire of a vehicle, the total weight t. [...] PARALLEL 22 (1) A vehicle parked on a highway shall be parked: PARKING (a) with: (i) the sides of the vehicle parallel to the curb or edge Page 15 of 46 Bylaw 5590 of the roadway, and (ii) the right wheels of the vehicle not more than 500 millimetres from the right curb or edge of the roadway, or (b) in the case of a one-way highway where parking on either side is permitted, wit. [...] METERED SPACE 43 A vehicle parked on a highway in any space governed by a parking Page 21 of 46 Bylaw 5590 PARKING meter shall: (a) be parked completely within the metered space; and (b) if the metered space is parallel to the edge of the roadway, be parked so that: (i) the front of the vehicle is as close as possible to the parking meter if the meter is situated at the front of the. [...] (2) The order may: (a) direct a person to stop doing something, or to change the way in which the person is doing it; (b) direct a person to take any action or measures necessary to remedy the contravention of the bylaw and, if necessary, to prevent a re-occurrence of the contravention; (c) state a time within which the person must comply with the directions; (d) state that if the person. [...] (3) Subsection (1) does not apply if the owner of the vehicle satisfies the court that, at the time that the vehicle was involved in the offence: (a) in the case of a vehicle that was in motion, (i) the owner of the vehicle was not driving the vehicle, and (ii) no other person was driving the vehicle with the owner’s expressed or implied consent, and (b) in the case of a vehicle that was." ],
+        "cop" : [ "Canada" ],
+        "pub" : [ "Edmonton, Alberta." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/580tqn" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "THE CITY OF EDMONTON BYLAW 5590 TRAFFIC BYLAW (CONSOLIDATED ON MARCH 15, 2021)" ]
+      },
+      "sort" : {
+        "title" : [ "CITY OF EDMONTON BYLAW 5590 TRAFFIC BYLAW (CONSOLIDATED ON MARCH 15, 2021)," ],
+        "author" : [ "Office of the City Manager/Office of the City Clerk/Information Services" ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720585507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720585507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720585507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "18",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "27",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 30,
-    "COMBINED_SEARCH_TIME" : 33,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "126",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "57",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "61",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "32",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "71",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "366",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 404,
+    "COMBINED_SEARCH_TIME" : 406,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Enforcement",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Office Of The City Manager Office Of The City Clerk Information Services",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

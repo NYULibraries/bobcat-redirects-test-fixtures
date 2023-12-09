@@ -1,22 +1,233 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996720739007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "WESTERN (R): Germany (RG). Political relations: GDR: Hungary (FO371-183029)." ],
+        "subject" : [ "Diplomatic relations", "Foreign relations", "Politics and government", "Great Britain -- Foreign relations -- 1906-1966$$QGreat Britain -- Foreign relations -- 1906-1966 -- Sources", "Germany", "Germany -- Foreign and political relations -- Hungary" ],
+        "format" : [ "1 online resource : colour text file, PDF" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "Abingdon, England: Taylor & Francis" ],
+        "description" : [ "A file containing documents concerning East Germany's relations with Hungary. Subjects covered in the file include a visit to East Germany by a delegation from the Hungarian Foreign Ministry, led by János Péter, the Hungarian foreign minister. The communiqué published at the end of the visit stated that the two countries had talked about the preservation of European Security, the \"widening aggressive tendencies of the United States\", the \"increased militarist and revanchist aspirations\" of West Germany, and the importance of preventing West German access to nuclear weapons. Analysis from the British Military Government in West Berlin notes that very little development had taken place in relations between the two countries over the preceding year; and that the status of Berlin had not been mentioned in the communiqué, which, along with other phraseology in the document, suggested a worsening of relations between the two countries." ],
+        "mms" : [ "9996720739007871" ],
+        "contributor" : [ "Great Britain. Foreign Office. Political Departments.$$QGreat Britain. Foreign Office. Political Departments.", "Coherent Digital (Firm)$$QCoherent Digital (Firm)" ],
+        "series" : [ "Cold War Eastern Europe.$$QCold War Eastern Europe.", "FO371: Foreign Office: Political Departments: General Correspondence from 1906-1966 ; FO371-183029$$QFO371: Foreign Office: Political Departments: General Correspondence from 1906-1966 ", "General Correspondence from 1906-1966 (Great Britain. Foreign Office. Political Departments) ; FO371-183029.$$QGeneral Correspondence from 1906-1966 (Great Britain. Foreign Office. Political Departments) " ],
+        "genre" : [ "Sources" ],
+        "relation" : [ "$$Cdata_source$$VCold War Eastern Europe, 1947-1982 HICO_CWEE$$QCold War Eastern Europe, 1947-1982", "$$Cdata_source$$VCold War Eastern Europe, 1961-1966: Module 2 HICO_CWM2$$QCold War Eastern Europe, 1961-1966: Module 2", "$$Cdata_source$$VHistory Commons HICO_ALL$$QHistory Commons", "$$Cform$$VPrint manuscript version: WESTERN (R): Germany (RG). Political relations: GDR: Hungary (London : Foreign Office, 1965)$$QWESTERN (R): Germany (RG). Political relations: GDR: Hungary" ],
+        "place" : [ "Abingdon, England:" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007399080" ],
+        "lds60" : [ "Title from Cold War Eastern Europe Module II.", "File date: 1965.", "Date document(s) were released to the public domain: 1995." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996720739007871" ],
+        "recordid" : [ "alma9996720739007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)206907b4c6bb492d" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2018" ],
+        "abstract" : [ "A file containing documents concerning East Germany's relations with Hungary. Subjects covered in the file include a visit to East Germany by a delegation from the Hungarian Foreign Ministry, led by János Péter, the Hungarian foreign minister. The communiqué published at the end of the visit stated that the two countries had talked about the preservation of European Security, the \"widening aggressive tendencies of the United States\", the \"increased militarist and revanchist aspirations\" of West Germany, and the importance of preventing West German access to nuclear weapons. Analysis from the British Military Government in West Berlin notes that very little development had taken place in relations between the two countries over the preceding year; and that the status of Berlin had not been mentioned in the communiqué, which, along with other phraseology in the document, suggested a worsening of relations between the two countries." ],
+        "cop" : [ "Abingdon, England" ],
+        "pub" : [ "Taylor & Francis" ],
+        "oclcid" : [ "(vaalcd)20.500.12592/89wh6p" ],
+        "seriestitle" : [ "FO371: Foreign Office: Political Departments: General Correspondence from 1906-1966 ; FO371-183029" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "WESTERN (R): Germany (RG). Political relations: GDR: Hungary (FO371-183029)." ]
+      },
+      "sort" : {
+        "title" : [ "WESTERN (R): Germany (RG). Political relations: GDR: Hungary (FO371-183029)." ],
+        "author" : [ "Great Britain. Foreign Office. Political Departments." ],
+        "creationdate" : [ "9999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720739007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720739007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996720739007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "50",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "57",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 60,
-    "COMBINED_SEARCH_TIME" : 62,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "85",
+    "CALL_SOLR_GET_IDS_LIST" : "106",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "79",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "42",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "37",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "127",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "410",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 446,
+    "COMBINED_SEARCH_TIME" : 450,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1965",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Diplomatic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Foreign Relations",
+      "count" : "1"
+    }, {
+      "value" : "Germany",
+      "count" : "1"
+    }, {
+      "value" : "Germany Foreign And Political Relations Hungary",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Foreign Relations 1906 1966 Sources",
+      "count" : "1"
+    }, {
+      "value" : "Politics And Government",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Foreign Office Political Departments",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

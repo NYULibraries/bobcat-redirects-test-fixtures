@@ -1,22 +1,249 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996708567707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "International encyclopedia of the social & behavioral sciences " ],
+        "subject" : [ "Psychology$$QPsychology -- Encyclopedias", "Social sciences$$QSocial sciences -- Encyclopedias", "Sciences du comportement$$QSciences du comportement -- Encyclopédies", "Sciences sociales$$QSciences sociales -- Encyclopédies", "Psychologie$$QPsychologie -- Encyclopédies", "Sciences du comportement", "Sciences sociales", "behavioral sciences", "social sciences", "SOCIAL SCIENCE -- Essays", "SOCIAL SCIENCE -- Reference", "PSYCHOLOGY -- Reference", "Psychology", "Social sciences", "Sozialwissenschaften", "Verhaltenswissenschaften", "Psychologie", "Soziologie", "Sociale wetenschappen", "Gedragswetenschappen" ],
+        "format" : [ "1 online resource (26 volumes (23185 pages)) : illustrations (some color)" ],
+        "identifier" : [ "$$CISBN$$V9780080970875;$$CISBN$$V0080970877;$$COCLC$$V(OCoLC)904209795;$$CISBN$$V9780080970868" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "Amsterdam : Elsevier" ],
+        "description" : [ "Fully revised and updated, the second edition of the International Encyclopedia of the Social and Behavioral Sciences, first published in 2001, offers a source of social and behavioral sciences reference material that is broader and deeper than any other. Available in both print and online editions, it comprises over 3,900 articles, commissioned by 71 Section Editors, and includes 90,000 bibliographic references as well as comprehensive name and subject indexes. Provides authoritative, foundational, interdisciplinary knowledge across the wide range of behavioral and social sciences fields." ],
+        "mms" : [ "9996708567707871" ],
+        "contributor" : [ "Wright, James D., editor.$$QWright, James D." ],
+        "addtitle" : [ "International encyclopedia of the social and behavioral sciences" ],
+        "edition" : [ "Second edition." ],
+        "contents" : [ "Volume 1. A -- volume 2. B -- volume 3. C -- volume 4. D -- volume 5. E -- volume 6. F -- volume 7. G -- volume 8. H -- volume 9. I -- volume 10. J -- volume 11. K -- volume 12. L -- volume 13. M -- volume 14. N -- volume 15. O -- volume 16. P -- volume 17. Q -- volume 18. R -- volume 19. S -- volume 20. T -- volume 21. U -- volume 22. V -- volume 23. W -- volume 24. X -- volume 25. Y -- volume 26. Z." ],
+        "genre" : [ "encyclopedias", "Encyclopedieën (vorm)", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Wright, James D. International Encyclopedia of the Social & Behavioral Sciences. Burlington : Elsevier Science, ©2015$$QInternational Encyclopedia of the Social & Behavioral Sciences." ],
+        "mesh" : [ "Behavioral Sciences", "Social Sciences" ],
+        "place" : [ "Amsterdam :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph004485254" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996708567707871" ],
+        "recordid" : [ "alma9996708567707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)904209795" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wright" ],
+        "aufirst" : [ "James D." ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Wright, James D." ],
+        "contributorfull" : [ "$$NWright, James D.$$LWright$$FJames D.$$Reditor" ],
+        "addtitle" : [ "International encyclopedia of the social and behavioral sciences" ],
+        "date" : [ "2015" ],
+        "isbn" : [ "9780080970875", "0080970877", "9780080970868" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "Fully revised and updated, the second edition of the International Encyclopedia of the Social and Behavioral Sciences, first published in 2001, offers a source of social and behavioral sciences reference material that is broader and deeper than any other. Available in both print and online editions, it comprises over 3,900 articles, commissioned by 71 Section Editors, and includes 90,000 bibliographic references as well as comprehensive name and subject indexes. Provides authoritative, foundational, interdisciplinary knowledge across the wide range of behavioral and social sciences fields." ],
+        "cop" : [ "Amsterdam" ],
+        "pub" : [ "Elsevier" ],
+        "oclcid" : [ "(ocolc)904209795" ],
+        "edition" : [ "Second edition." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "International encyclopedia of the social & behavioral sciences" ]
+      },
+      "sort" : {
+        "title" : [ "International encyclopedia of the social & behavioral sciences /" ],
+        "author" : [ "Wright, James D., editor." ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0080970877,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "h!41ǂ i58 2015",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "62",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "71",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 74,
-    "COMBINED_SEARCH_TIME" : 76,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "69",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "10",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "87",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "301",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 338,
+    "COMBINED_SEARCH_TIME" : 341,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Behavioral Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Gedragswetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Psychologie",
+      "count" : "1"
+    }, {
+      "value" : "Psychologie Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Psychology",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Psychology Reference",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Du Comportement",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Du Comportement Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Essays",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Reference",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Wetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Sozialwissenschaften",
+      "count" : "1"
+    }, {
+      "value" : "Soziologie",
+      "count" : "1"
+    }, {
+      "value" : "Verhaltenswissenschaften",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wright James D",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

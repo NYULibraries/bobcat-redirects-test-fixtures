@@ -1,22 +1,199 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996715225607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Annual Financial Statements for the Year Ended December 31, 2009" ],
+        "subject" : [ "municipal government", "tax revenues", "administration, management", "municipal services", "finance departments", "municipal finance", "cities, towns", "taxation rates", "budget" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "Augusta, GA : City of Augusta." ],
+        "description" : [ "Reconciliation of the Balance Sheet of the Governmental Funds to the Statement of Net Assets. [...] In our opinion, based upon our audit and the report of other auditors, the basic financial statements referred to above present fairly, in all material respects, the respective financial position of the governmental activities, the business-type activities, the aggregate discretely presented component units, each major fund and the aggregate remaining fund information of Augusta, Georgia, as of De [...] The purpose of that report is to describe the scope of our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide an opinion on the internal control over financial reporting. [...] We and the other auditors have applied certain limited procedures to the required supplementary information in accordance with auditing standards generally accepted in the United States of America, which consisted of inquiries of management regarding the methods of preparing the information and comparing the information for consistency with management’s responses to our inquiries, the basic financ [...] The combining and individual nonmajor fund financial statements are the responsibility of management and were derived from and relate directly to the underlying accounting and other records used to prepare the financial statements. [...] The information has been subjected to the auditing procedures applied by us and the other auditors in the audit of the financial statements and certain additional procedures, including comparing and reconciling such information directly to the underlying accounting and other records used to prepare the financial statements or to the financial statements themselves, and other additional procedures [...] The government-wide financial statements include the following two statements: The Statement of Net Assets presents information on all of the Government’s assets and liabilities, with the difference between the two reported as net assets. [...] The relationship between government activities in the government-wide financial statements and the governmental funds financial statements is described in a reconciliation that is a part of the fund financial statements. [...] Governmental activities increased the Government’s net assets by {dollar}33 million, and thereby accounting for 88% of the total growth in the net assets of the Government. [...] The legal debt margin for the Government is {dollar}475 million based on the 2009 County-wide bond digest of {dollar}4.75 billion Additional information regarding the Government’s long-term debt can be found in Note 3 of the notes to the financial statements of this report." ],
+        "mms" : [ "9996715225607871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US Mid-Atlantic POCO_POCC_USMA$$QCities: US Mid-Atlantic", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "Augusta, GA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008074772" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996715225607871" ],
+        "recordid" : [ "alma9996715225607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)04e5d0a5f9fd1d4b" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2010" ],
+        "abstract" : [ "Reconciliation of the Balance Sheet of the Governmental Funds to the Statement of Net Assets. [...] In our opinion, based upon our audit and the report of other auditors, the basic financial statements referred to above present fairly, in all material respects, the respective financial position of the governmental activities, the business-type activities, the aggregate discretely presented component units, each major fund and the aggregate remaining fund information of Augusta, Georgia, as of De [...] The purpose of that report is to describe the scope of our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide an opinion on the internal control over financial reporting. [...] We and the other auditors have applied certain limited procedures to the required supplementary information in accordance with auditing standards generally accepted in the United States of America, which consisted of inquiries of management regarding the methods of preparing the information and comparing the information for consistency with management’s responses to our inquiries, the basic financ [...] The combining and individual nonmajor fund financial statements are the responsibility of management and were derived from and relate directly to the underlying accounting and other records used to prepare the financial statements. [...] The information has been subjected to the auditing procedures applied by us and the other auditors in the audit of the financial statements and certain additional procedures, including comparing and reconciling such information directly to the underlying accounting and other records used to prepare the financial statements or to the financial statements themselves, and other additional procedures [...] The government-wide financial statements include the following two statements: The Statement of Net Assets presents information on all of the Government’s assets and liabilities, with the difference between the two reported as net assets. [...] The relationship between government activities in the government-wide financial statements and the governmental funds financial statements is described in a reconciliation that is a part of the fund financial statements. [...] Governmental activities increased the Government’s net assets by {dollar}33 million, and thereby accounting for 88% of the total growth in the net assets of the Government. [...] The legal debt margin for the Government is {dollar}475 million based on the 2009 County-wide bond digest of {dollar}4.75 billion Additional information regarding the Government’s long-term debt can be found in Note 3 of the notes to the financial statements of this report." ],
+        "cop" : [ "Augusta, GA" ],
+        "pub" : [ "City of Augusta." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/tbz5s2" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Annual Financial Statements for the Year Ended December 31, 2009" ]
+      },
+      "sort" : {
+        "title" : [ "Annual Financial Statements for the Year Ended December 31, 2009," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "47",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "52",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 54,
-    "COMBINED_SEARCH_TIME" : 57,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "74",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "74",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "58",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "288",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 323,
+    "COMBINED_SEARCH_TIME" : 326,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Administration Management",
+      "count" : "1"
+    }, {
+      "value" : "Budget",
+      "count" : "1"
+    }, {
+      "value" : "Cities Towns",
+      "count" : "1"
+    }, {
+      "value" : "Finance Departments",
+      "count" : "1"
+    }, {
+      "value" : "Municipal Finance",
+      "count" : "1"
+    }, {
+      "value" : "Municipal Government",
+      "count" : "1"
+    }, {
+      "value" : "Municipal Services",
+      "count" : "1"
+    }, {
+      "value" : "Tax Revenues",
+      "count" : "1"
+    }, {
+      "value" : "Taxation Rates",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

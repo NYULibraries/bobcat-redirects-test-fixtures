@@ -1,22 +1,258 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996746483907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Settlement of Ruhr deadlock" ],
+        "subject" : [ "french-german relations", "france", "media, propaganda, and public opinion", "international law", "united kingdom", "germany", "law", "occupation", "ruhr", "united states of america", "dutch press", "british foreign policy", "netherlands", "the peace settlement and occupation", "international relations and foreign policy", "american foreign policy" ],
+        "format" : [ "1 website", "text file" ],
+        "creationdate" : [ "1923-03-19" ],
+        "publisher" : [ "United Kingdom : Foreign Office." ],
+        "description" : [ "68 The Hauge, 19th March, 1923. 54 The No. 135. My Lord, With reference to my despatch No. 95 of February 20th last, I have the honour to report that the \"Handelsbled\" of the 14th March contains a further article by Professor Kohnstamm on the occupation of the Ruhr. Professor Kohnstamm is of opinion that it is not sufficient merely to seek for the solution of the reparations question, but that it is essential to ascertain that such a solution can be enforced. In other words, the writer believes that the population of the Ruhr should be morally and materially supported in order that they may not yield to pressure from France, even temporarily. Professor Kohnstamm lays stress on the words \"even temporarily\" for he considers that no power in the world, not even the French military power of to-day with the aid of its black troops, could enforce its wishes on a nation of sixty millions. The temporary victory of the French would merely protract the inevitable struggle. Professor Kohnstamm quotes Mr. Bonar Law to show that Germany is unable to pay what the French demand and he considers that the only thing is for France to be taught that everything is to be gained by resorting to arbitration and that nothing is to be expected from the action of force. International arbitration on the Ruhr question would mean arbitration on the reparations question Marquess Curzon of Kedleston, K.G., etc., etc., etc." ],
+        "mms" : [ "9996746483907871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "series" : [ "Germany: Occupation of the Ruhr, British-French Relations, and French Press$$QGermany: Occupation of the Ruhr, British-French Relations, and French Press" ],
+        "relation" : [ "$$Cdata_source$$VWeimar and Nazi Germany HICO_WENA$$QWeimar and Nazi Germany" ],
+        "place" : [ "United Kingdom] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007084396" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996746483907871" ],
+        "recordid" : [ "alma9996746483907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)bbd6a4dcae613189" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "1923", "1923-03-19" ],
+        "abstract" : [ "68 The Hauge, 19th March, 1923. 54 The No. 135. My Lord, With reference to my despatch No. 95 of February 20th last, I have the honour to report that the \"Handelsbled\" of the 14th March contains a further article by Professor Kohnstamm on the occupation of the Ruhr. Professor Kohnstamm is of opinion that it is not sufficient merely to seek for the solution of the reparations question, but that it is essential to ascertain that such a solution can be enforced. In other words, the writer believes that the population of the Ruhr should be morally and materially supported in order that they may not yield to pressure from France, even temporarily. Professor Kohnstamm lays stress on the words \"even temporarily\" for he considers that no power in the world, not even the French military power of to-day with the aid of its black troops, could enforce its wishes on a nation of sixty millions. The temporary victory of the French would merely protract the inevitable struggle. Professor Kohnstamm quotes Mr. Bonar Law to show that Germany is unable to pay what the French demand and he considers that the only thing is for France to be taught that everything is to be gained by resorting to arbitration and that nothing is to be expected from the action of force. International arbitration on the Ruhr question would mean arbitration on the reparations question Marquess Curzon of Kedleston, K.G., etc., etc., etc." ],
+        "cop" : [ "United Kingdom" ],
+        "pub" : [ "Foreign Office." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/qkm2t5" ],
+        "seriestitle" : [ "Germany: Occupation of the Ruhr, British-French Relations, and French Press" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Settlement of Ruhr deadlock" ]
+      },
+      "sort" : {
+        "title" : [ "Settlement of Ruhr deadlock," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "1923" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996746483907871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996746483907871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996746483907871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "25",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "30",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 32,
-    "COMBINED_SEARCH_TIME" : 34,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "134",
+    "CALL_SOLR_GET_IDS_LIST" : "70",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "90",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "71",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "61",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "29",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "94",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "395",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 421,
+    "COMBINED_SEARCH_TIME" : 423,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1923",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "American Foreign Policy",
+      "count" : "1"
+    }, {
+      "value" : "British Foreign Policy",
+      "count" : "1"
+    }, {
+      "value" : "Dutch Press",
+      "count" : "1"
+    }, {
+      "value" : "France",
+      "count" : "1"
+    }, {
+      "value" : "French German Relations",
+      "count" : "1"
+    }, {
+      "value" : "Germany",
+      "count" : "1"
+    }, {
+      "value" : "International Law",
+      "count" : "1"
+    }, {
+      "value" : "International Relations And Foreign Policy",
+      "count" : "1"
+    }, {
+      "value" : "Law",
+      "count" : "1"
+    }, {
+      "value" : "Media Propaganda And Public Opinion",
+      "count" : "1"
+    }, {
+      "value" : "Netherlands",
+      "count" : "1"
+    }, {
+      "value" : "Occupation",
+      "count" : "1"
+    }, {
+      "value" : "Ruhr",
+      "count" : "1"
+    }, {
+      "value" : "The Peace Settlement And Occupation",
+      "count" : "1"
+    }, {
+      "value" : "United Kingdom",
+      "count" : "1"
+    }, {
+      "value" : "United States Of America",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,22 +1,230 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995912589707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Writing the Radical Memoir A Theoretical and Craft-Based Approach." ],
+        "subject" : [ "Deconstructionism", "Structuralism -- Post-structuralism$$QStructuralism -- Post-structuralism -- Biography", "Creative writing & creative writing guides", "Writing & editing guides" ],
+        "format" : [ "1 online resource (185 p.)" ],
+        "identifier" : [ "$$CISBN$$V9781350272224;$$CISBN$$V1350272221;$$COCLC$$V(OCoLC)1354205135;$$CISBN$$V9781350272200" ],
+        "creationdate" : [ "2023" ],
+        "creator" : [ "Williams, Paul.$$QWilliams, Paul." ],
+        "publisher" : [ "London : Bloomsbury Publishing Plc" ],
+        "description" : [ "For those that have mastered the basics of memoir and wish to probe this brand of creative nonfiction further, <i>Writing the Radical Memoir</i> uses salient theories about memory and the self to challenge assumptions about how we remember and tell the truth of our lives when we write about it. Innovative in approach and making new critical ideas accessible, each chapter maps out the key principles of such writers as Barthes, Lacan, Derrida, Lewis Mehl-Madrona, Philippe Le Jeune and Joseph Campbell, invokes literary examples to show how other writers have mastered the idea before reflecting on how you can practically apply the theory to your writing. With original exercises and prompts for further reading that bridge the gap between the theoretical and how it might be put into practice, the book is attentive to the multiple facets of the genre of nonfiction writing generally, covering such topics as: - The writer/ reader contract - How to embark on a thematic/ symbolic exploration of themes and incidents in your life - How neuro-scientific theory can inform our understanding of memory and recall and what happens to our memories when we remember them - Character development and the ethics of writing about real people - How constructing your identity in memoir offers a chance to push back against traditional structures - That memoir might not be preservation of your past but a process of self-erasure - How J. M. Coetzee's <i>Autrebiography</i> trilogy challenges traditional biography By bringing together lived experience, post-structuralist and postmodernist theories, praxis and artistic vision as a unique approach to writing memoir, this book encourages you to think the self, how it is portrayed, created, erased and made strange through the process of writing and remembering." ],
+        "mms" : [ "9995912589707871" ],
+        "contributor" : [ "Davidow, Shelley.$$QDavidow, Shelley." ],
+        "contents" : [ "Cover -- Contents -- List of illustrations -- About the authors -- Introduction: What is radical memoir? -- 1 The reader/writer contract -- 2 Memoir as cartography: Mapping your life -- 3 The hero's journey -- and beyond -- 4 Memory and neuroscience -- 5 The art of turning real people into characters -- 6 Writing memoir as decolonial, genre-busting and rule-bending act -- 7 Memoir as erasure -- 8 Collective memoir -- 9 Autrebiography -- 10 Biographemes -- Afterword: Your radical memoir 161 -- References -- Index" ],
+        "genre" : [ "Biography", "Biographies" ],
+        "relation" : [ "$$Cform$$VPrint version: Williams, Paul Writing the Radical Memoir London : Bloomsbury Publishing Plc,c2023$$QWriting the Radical Memoir" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsco", "ebceb", "aleph009602544" ],
+        "lds60" : [ "Description based upon print version of record." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995912589707871" ],
+        "recordid" : [ "alma9995912589707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009602544-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967245E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Williams" ],
+        "aufirst" : [ "Paul." ],
+        "auinit" : [ "P" ],
+        "au" : [ "Williams, Paul." ],
+        "addau" : [ "Davidow, Shelley." ],
+        "creatorfull" : [ "$$NWilliams, Paul.$$LWilliams$$FPaul.$$Rauthor" ],
+        "contributorfull" : [ "$$NDavidow, Shelley.$$LDavidow$$FShelley.$$Rcontributor" ],
+        "date" : [ "2023" ],
+        "isbn" : [ "9781350272224", "1350272221", "9781350272200" ],
+        "abstract" : [ "For those that have mastered the basics of memoir and wish to probe this brand of creative nonfiction further, <i>Writing the Radical Memoir</i> uses salient theories about memory and the self to challenge assumptions about how we remember and tell the truth of our lives when we write about it. Innovative in approach and making new critical ideas accessible, each chapter maps out the key principles of such writers as Barthes, Lacan, Derrida, Lewis Mehl-Madrona, Philippe Le Jeune and Joseph Campbell, invokes literary examples to show how other writers have mastered the idea before reflecting on how you can practically apply the theory to your writing. With original exercises and prompts for further reading that bridge the gap between the theoretical and how it might be put into practice, the book is attentive to the multiple facets of the genre of nonfiction writing generally, covering such topics as: - The writer/ reader contract - How to embark on a thematic/ symbolic exploration of themes and incidents in your life - How neuro-scientific theory can inform our understanding of memory and recall and what happens to our memories when we remember them - Character development and the ethics of writing about real people - How constructing your identity in memoir offers a chance to push back against traditional structures - That memoir might not be preservation of your past but a process of self-erasure - How J. M. Coetzee's <i>Autrebiography</i> trilogy challenges traditional biography By bringing together lived experience, post-structuralist and postmodernist theories, praxis and artistic vision as a unique approach to writing memoir, this book encourages you to think the self, how it is portrayed, created, erased and made strange through the process of writing and remembering." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Publishing Plc" ],
+        "oclcid" : [ "(ocolc)1354205135" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Writing the Radical Memoir A Theoretical and Craft-Based Approach." ]
+      },
+      "sort" : {
+        "title" : [ "Writing the Radical Memoir A Theoretical and Craft-Based Approach." ],
+        "author" : [ "Williams, Paul." ],
+        "creationdate" : [ "2023" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995912589707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995912589707871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995912589707871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1350272221,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "25",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "33",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 36,
-    "COMBINED_SEARCH_TIME" : 38,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "97",
+    "CALL_SOLR_GET_IDS_LIST" : "94",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "101",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "56",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "386",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Creative Writing Creative Writing Guides",
+      "count" : "1"
+    }, {
+      "value" : "Deconstructionism",
+      "count" : "1"
+    }, {
+      "value" : "Structuralism Post Structuralism Biography",
+      "count" : "1"
+    }, {
+      "value" : "Writing Editing Guides",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Davidow Shelley",
+      "count" : "1"
+    }, {
+      "value" : "Williams Paul",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

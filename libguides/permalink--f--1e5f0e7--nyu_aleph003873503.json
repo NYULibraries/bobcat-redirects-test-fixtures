@@ -1,22 +1,202 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997187999907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of social work with groups " ],
+        "subject" : [ "Social group work$$QSocial group work -- Encyclopedias", "POLITICAL SCIENCE -- Public Policy -- Social Services & Welfare", "SOCIAL SCIENCE -- Human Services", "Social group work" ],
+        "format" : [ "1 online resource (xx, 332 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780203868850;$$CISBN$$V0203868854;$$COCLC$$V(OCoLC)457207875;$$CISBN$$V9780789036360;$$CISBN$$V0789036363" ],
+        "creationdate" : [ "2009" ],
+        "publisher" : [ "New York : Routledge" ],
+        "description" : [ "What do you have to know, today, to be an effective group worker and what are the different group work approaches? With 110 articles and entries, this book provides a comprehensive overview of social work with groups from its initial development to its astounding range of diverse practice today with many populations in different places." ],
+        "mms" : [ "9997187999907871" ],
+        "contributor" : [ "Gitterman, Alex, 1938-$$QGitterman, Alex", "Salmon, Robert, 1930-$$QSalmon, Robert" ],
+        "contents" : [ "Group Work History: Past, Present and Future -- Canada / Nancy E. Sullivan, Ellen Sue Mesbur, and Norma C. Lang -- United States / Albert S. Alissi -- Jane Addams / Judith A.B. Lee -- Grace Longwell Coyle / David S. Crampton -- The Association for the Advancement of Social Work with Groups, Inc., an international professional organization (AASWG) / John H. Ramey -- Summer Camps / Meryl Nadel and Susan Scher -- Contemporary landscape -/ Harriet Goodman -- Struggle for survival / Shirley R. Simon and Joyce A. Webster -- Group Work Values -- Humanistic and democratic values / Urania Glassman -- Social context / Maura McIntyre and Lynne Mitchell -- Group Work Major Models -- Cognitive-behavioral / Randy Magen -- Empowerment model / Rhonda E. Hudson -- Mutual aid model / Dominique Moyse Steinberg -- Psychodynamic model / Carol Tasone -- Task-centered model / Charles D. Garvin -- Group Work Approaches and Methods -- Activity: history / Maxine Lynn and Dannielle Nisivoccia -- Activity: use and selection / Edna Comer and Kasumi Hirayama -- Activity therapy for children / Lorraine R. Tempel -- Anti-oppressive practice / Izumi Sakamoto -- Curricular-based approach / Joan Letendre -- Emergency crisis interventions / Ogden Rogers -- Family involvement approach / David S. Crampton -- Intergroup dialogue: introduction / Nancy Rodenborg and Lois A. Bosch -- Intergroup dialogue: principles / Mona C.S. Schatz -- Multiple family approach / Geetha Gopalan and Lydia Franco -- Needs acquisition and behavior change approach / Tom Caplan -- Psychoeducational approach / Lynn Turner -- Self-directed approach / Audrey Mullender and David Ward -- Sprituality / Carlean Gilbert -- Systemic approach / Oded Manor.", "Group Stages of Development -- Boston Model / Francis Bartolomeo -- Relational Model / Linda Yael Schiller -- Group Work Phases of Helping -- Preliminary phase / Lawrence Shulman -- Beginning phase / Lawrence Shulman -- Middle phase / Hal Lipton -- Sessional Endings / Martin L. Birnbaum and Andrew Cicchetti -- Termination phase / Steven Rose -- Group Work Education -- Field instruction / Carol S. Cohen and Julianne Wayne -- Use of literature in Teaching -- Dana Grossman Leeman -- Use of technology in teaching / Shirley R. Simon and Kathleen W. Stauber -- Group Work Research -- Evidence-based group work / Mark J. Macgowan -- Focus group / Lawrence C. Shulman and Michelle G. Shedlin -- Intervention Research / Maeda J. Galinsky and Mark W. Fraser -- Measurement / Mark J. Macgowan -- Quantitative and qualitative methods / Varsha Pandya -- SYMLOG / Saul S. Kutner, and Ruth D. Kirsch -- Group Work Journals -- Groupwork / Mark Doel -- Small group research / Aaron M. Brower, Charels D. Garvin, and Richard Kettner-Polley -- Social work with groups / Andrew Malekoff -- Group Work in Fields of Practice -- Community settings for adolescents / Maryanne Sabatino -- Corrections / Karen Green and Robert Green -- Family and children's services / Mary Pender Greene -- Foster care / Michael Wagner -- The homeless / Sarah Stevenson -- Partial hospitalization / Gilan Miller-Gertz and Nancy L. Herron -- Residential care settings for adolescents / Francis Bartolomeo -- Schools / Steven Rose.", "Group Work with Specific Populations -- Adolescents with co-occurring mental health and substance abuse problems / Marvin W. Clifford -- Adults with co-occurring mental health and substance abuse problems / Brian E. Perron and Kimberly Bender -- Adult survivors of childhood sexual abuse / Carolyn Knight -- Blind adults / Faith Fogelman -- Children with traumatic grief / Alison Salloum -- Domestic violence survivors / Patricia O'Brien -- Family violence survivors / Wendy Bunston -- Lesbian, gay, bisexual and transgender individuals / Mitch Rosenwald -- Nonresidential fathers / Glenn Stone -- Parents / Janet Seden -- People with AIDS / George S. Getzel -- People with cancer / Rachel M. Schneider -- People with mental health problems / Kathi R. Trawver -- People with problematic alcohol use / Meredith Hanson -- People with problematic alcohol use and their children / Neta Peleg-Oren -- People with problematic substance use -- Adults / Andrew Cicchetti -- People with problematic substance use -- older adults / Loretta Hartley-Bangs -- People with problematic substance use -- in crisis / Leslie Temme and Maurice Lacey -- Police officers / George T. Patterson and Grace A. Telesco -- Police officers and their spouses / Linda Openshaw -- Rape survivors / Shantih E. Clemans -- Sexual offenders / Steven Hartsock and Karen Harper-Dorton -- Siblings of children with autistic spectrum disorders / David Strauss and Daniel Aaron -- Street youth / Steve Kraft -- Trauma survivors / Carolyn Knight -- Women with advanced breast cancer / Fiona McDermott and Christine Hill -- Youth at risk / Sam Copeland -- Group Work Over the Life Course -- Children / Carolyn Knight -- Adolescents / Andrew Malekoff -- Adults / Esta Glazer-Semmel -- Older adults / Ronald W. Toseland -- Transgenerational relationships / Scott P. Anstadt -- End-of-life care / Daniel Liechty.", "Group Work and Community Context -- Coalitions / Donna McIntosh and Margo Hirsch -- Community change / Mark Chupp -- Rural regions / Michael Kim Zapf -- Social Action / Jennie Fleming -- Social capital / Paul Abels and Sonia Leib Abels -- Group Work and Organizational Context -- Interdisciplinary teams / Laura Bronstein and Julie S. Abramson -- Involuntary clients (change processes) / Michael Chovanec -- Involuntary clients (engagement process) / Kay Goler Levin -- Vicarious Traumatization / Shantih E. Clemans -- Work groups / Paul H. Ephross and Thomas V. Vassil -- Workplace coaching / Gregory J. Tully -- Group Work Leadership -- Co-leadership / Kathryn S. Collins and Marceline M. Lazzari -- Co-working / Mark Doel -- Leadership / Steven Rose -- Mentoring / Cheryl D. Lee and Eliette Montiel -- Group Work and Technology -- Online support / Andrés Arias Astray and Ana Barrón López de Roda -- Online groups / Brian E. Perron and Thomas J. Powell -- Telephone groups / Ronald W. Toseland." ],
+        "genre" : [ "Electronic books", "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of social work with groups. New York : Routledge, 2009$$QEncyclopedia of social work with groups." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "tayfeb", "aleph003873503" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997187999907871" ],
+        "recordid" : [ "alma9997187999907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)457207875" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967248E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gitterman", "Salmon" ],
+        "aufirst" : [ "Alex", "Robert" ],
+        "auinit" : [ "A", "R" ],
+        "addau" : [ "Gitterman, Alex", "Salmon, Robert" ],
+        "contributorfull" : [ "$$NGitterman, Alex$$LGitterman$$FAlex$$Rcontributor", "$$NSalmon, Robert$$Rcontributor" ],
+        "date" : [ "2009" ],
+        "isbn" : [ "9780203868850", "0203868854", "9780789036360", "0789036363" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "What do you have to know, today, to be an effective group worker and what are the different group work approaches? With 110 articles and entries, this book provides a comprehensive overview of social work with groups from its initial development to its astounding range of diverse practice today with many populations in different places." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Routledge" ],
+        "oclcid" : [ "(ocolc)457207875" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of social work with groups" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of social work with groups /" ],
+        "author" : [ "Gitterman, Alex, 1938-" ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0203868854,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hv!45ǂ e53 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "25",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "1",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "29",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 30,
-    "COMBINED_SEARCH_TIME" : 32,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "62",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "96",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "321",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 363,
+    "COMBINED_SEARCH_TIME" : 367,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Political Science Public Policy Social Services Welfare",
+      "count" : "1"
+    }, {
+      "value" : "Social Group Work",
+      "count" : "1"
+    }, {
+      "value" : "Social Group Work Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Human Services",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Gitterman Alex",
+      "count" : "1"
+    }, {
+      "value" : "Salmon Robert",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

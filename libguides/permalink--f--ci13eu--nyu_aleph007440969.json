@@ -1,15 +1,140 @@
 {
   "info" : {
-    "totalResultsLocal" : 1,
+    "totalResultsLocal" : 2,
     "totalResultsPC" : -1,
-    "total" : 1,
+    "total" : 2,
     "first" : 1,
-    "last" : 1
+    "last" : 2
   },
   "highlights" : {
     "termsUnion" : [ ]
   },
   "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996920891207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Oxford companion to theatre and performance" ],
+        "subject" : [ "Theater$$QTheater -- Encyclopedias", "Performing arts$$QPerforming arts -- Encyclopedias" ],
+        "format" : [ "1 online resource." ],
+        "identifier" : [ "$$CISBN$$V9780191727917 (online resource);$$CISBN$$V9780199574193" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "Oxford : Oxford University Press" ],
+        "description" : [ "'The Oxford Companion to Theatre and Performance' is an accessible yet authoritative A-Z with particularly strong coverage of actors, playwrights, directors, and designers, as well as the styles, organizations, and movements." ],
+        "mms" : [ "9996920891207871" ],
+        "contributor" : [ "Kennedy, Dennis, 1940-$$QKennedy, Dennis" ],
+        "addtitle" : [ "Theatre and performance", "Oxford reference online premium." ],
+        "frequency" : [ "3 no. a year" ],
+        "genre" : [ "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version" ],
+        "place" : [ "Oxford] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "oxforo", "aleph007440969" ],
+        "lds60" : [ "\"Oxford Reference Online Premium.\"", "Title from title page (viewed on Aug. 27, 2010)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996920891207871" ],
+        "recordid" : [ "alma9996920891207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(oxforo)b1902a214c3b6156" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.5424869E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Kennedy" ],
+        "aufirst" : [ "Dennis" ],
+        "auinit" : [ "D" ],
+        "addau" : [ "Kennedy, Dennis" ],
+        "contributorfull" : [ "$$NKennedy, Dennis$$LKennedy$$FDennis$$Rcontributor" ],
+        "addtitle" : [ "Theatre and performance" ],
+        "date" : [ "2010" ],
+        "isbn" : [ "9780191727917", "9780199574193" ],
+        "notes" : [ "Includes bibliographical references." ],
+        "abstract" : [ "'The Oxford Companion to Theatre and Performance' is an accessible yet authoritative A-Z with particularly strong coverage of actors, playwrights, directors, and designers, as well as the styles, organizations, and movements." ],
+        "cop" : [ "Oxford" ],
+        "pub" : [ "Oxford University Press" ],
+        "oclcid" : [ "(stdubds)edz134770" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "The Oxford companion to theatre and performance" ]
+      },
+      "sort" : {
+        "title" : [ "Oxford companion to theatre and performance" ],
+        "author" : [ "Kennedy, Dennis, 1940-" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780191727917,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1655",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  }, {
     "context" : "L",
     "adaptor" : "Local Search Engine",
     "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074409690107871",
@@ -41,7 +166,7 @@
         "originalsourceid" : [ "007440969-NYU01" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203855E-6" ],
+        "score" : [ "1.5424869E-4" ],
         "isDedup" : false
       },
       "addata" : {
@@ -155,20 +280,20 @@
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
-    "CALL_SOLR_GET_IDS_LIST" : "84",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "34",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
-    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "33",
-    "RETRIVE_FROM_DB_RELATIONS" : "29",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "64",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "55",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "6",
+    "RETRIVE_FROM_DB_RECORDS" : "69",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "49",
     "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
     "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "112",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "328",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "349",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 361,
-    "COMBINED_SEARCH_TIME" : 363,
+    "BUILD_COMBINED_RESULTS_MAP" : 378,
+    "COMBINED_SEARCH_TIME" : 380,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
@@ -176,23 +301,32 @@
     "name" : "lang",
     "values" : [ {
       "value" : "eng",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "creationdate",
     "values" : [ {
       "value" : "2010",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "rtype",
     "values" : [ {
       "value" : "books",
       "count" : "1"
+    }, {
+      "value" : "other",
+      "count" : "1"
     } ]
   }, {
     "name" : "topic",
     "values" : [ {
+      "value" : "Performing Arts Encyclopedias",
+      "count" : "2"
+    }, {
+      "value" : "Theater Encyclopedias",
+      "count" : "2"
+    }, {
       "value" : "Aktionskunst Wörterbuch",
       "count" : "1"
     }, {
@@ -217,13 +351,7 @@
       "value" : "Performing Arts",
       "count" : "1"
     }, {
-      "value" : "Performing Arts Encyclopedias",
-      "count" : "1"
-    }, {
       "value" : "Theater",
-      "count" : "1"
-    }, {
-      "value" : "Theater Encyclopedias",
       "count" : "1"
     }, {
       "value" : "Theater Wörterbuch",
@@ -236,6 +364,12 @@
     "name" : "creator",
     "values" : [ {
       "value" : "Kennedy Dennis",
+      "count" : "2"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
       "count" : "1"
     } ]
   } ]

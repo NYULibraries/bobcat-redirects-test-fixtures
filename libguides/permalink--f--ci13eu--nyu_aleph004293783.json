@@ -12,59 +12,60 @@
   "docs" : [ {
     "context" : "L",
     "adaptor" : "Local Search Engine",
-    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990042937830107871",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990085767620107871",
     "pnx" : {
       "display" : {
         "source" : [ "Alma" ],
         "type" : [ "book" ],
         "language" : [ "eng" ],
-        "title" : [ "The new encyclopedia of Southern culture " ],
-        "subject" : [ "Southern States -- Civilization$$QSouthern States -- Civilization -- Encyclopedias", "Southern States$$QSouthern States -- Encyclopedias", "États-Unis (Sud) -- Civilisation$$QÉtats-Unis (Sud) -- Civilisation -- Encyclopédies", "États-Unis (Sud)$$QÉtats-Unis (Sud) -- Encyclopédies", "Civilization", "Southern States", "Kultur", "USA -- Südstaaten", "Geschichte" ],
-        "format" : [ "1 online resource (24 volumes) : illustrations, maps" ],
-        "identifier" : [ "$$CISBN$$V9781469601670;$$CISBN$$V1469601672;$$CISBN$$V9781469602776;$$CISBN$$V1469602776;$$CISBN$$V9781469601434;$$CISBN$$V1469601435;$$CISBN$$V9781469604299;$$CISBN$$V1469604299;$$CISBN$$V9781469602615;$$CISBN$$V146960261X;$$COCLC$$V(OCoLC)607581673;$$CISBN$$V9780807830031" ],
-        "creationdate" : [ "©2006-©2013" ],
-        "publisher" : [ "Chapel Hill : University of North Carolina Press" ],
-        "description" : [ "Volume 1: Religion. In this volume of The New Encyclopedia of Southern Culture, contributors have revised entries from the original Encyclopedia on topics ranging from religious broadcasting to snake handling and added new entries on such topics as Asian religions, Latino religion, New Age religion, Islam, Native American religion, and social activism. With the contributions of more than 60 authorities in the field--including Paul Harvey, Loyal Jones, Wayne Flynt, and Samuel F. Weber--this volume is an accessibly written, up-to-date reference to religious culture in the American South.", "Volume 2: Geography. This volume addresses general topics of cultural geographic interest, such as Appalachia, exiles and expatriates, Latino and Jewish populations, migration patterns, and the profound Disneyfication of central Florida. Entries with a more concentrated focus examine major cities, such as Atlanta, New Orleans, and Memphis; the influence of black and white southern migrants on northern cities; and individual subregions, such as the Piedmont, Piney Woods, Tidewater, and Delta. Putting together the disparate pieces that make up the place called \"the South,\" this volume sets the scene for the discussions in all the other volumes of The New Encyclopedia of Southern Culture.", "Volume 3: History. this volume broadly surveys history in the American South from the Paleoindian period (approximately 8000 B.C.E.) to the present. In 118 essays, contributors cover the turbulent past of the region that has witnessed frequent racial conflict, a bloody Civil War fought and lost on its soil, massive in- and out-migration, major economic transformations, and a civil rights movement that brought fundamental change to the social order.", "Volume 4: Myth, manners, and memory. This volume addresses the cultural, social, and intellectual terrain of myth, manners, and historical memory in the American South. Evaluating how a distinct southern identity has been created, recreated, and performed through memories that blur the line between fact and fiction, this volume paints a broad, multihued picture of the region seen through the lenses of belief and cultural practice." ],
-        "mms" : [ "990042937830107871" ],
-        "contributor" : [ "Wilson, Charles Reagan.$$QWilson, Charles Reagan.", "Thomas, James G., Jr.$$QThomas, James G.", "Abadie, Ann J.$$QAbadie, Ann J.", "University of Mississippi. Center for the Study of Southern Culture.$$QUniversity of Mississippi. Center for the Study of Southern Culture." ],
-        "addtitle" : [ "Encyclopedia of Southern culture." ],
-        "contents" : [ "v. 1. Religion / vol. ed. Samuel S. Hill -- v. 2. Geography / vol. ed. Richard Pillsbury -- v. 3. History / vol. ed. Charles Reagan Wilson -- v. 4. Myth, manners, and memory / vol. ed. Charles Reagan Wilson -- v. 5 Language / vol. ed. Michael Montgomery & Ellen Johnson -- v. 6 Ethnicity. vol. ed. Celeste Ray -- v. 7. Foodways / vol. ed. John T. Edge -- v. 8. Environment / vol. ed. Martin Melosi -- v. 9. Literature / vol. ed. M. Thomas Inge -- v. 10. Law & politics / vol. ed. James W. Ely Jr. & Bradley G. Bond -- v. 11. Agriculture & industry / vol. ed. Melissa Walker & James C. Cobb -- v. 12. Music / vol. ed. Bill Malone -- v. 13. Gender / vol. ed. Nancy Bercaw & Ted Ownby -- v. 14. Folklife / vol. ed. Glenn Hinson & William Ferris -- v. 15. Urbanization / vol. ed. Wanda Rushing -- v. 16. Sports & recreation / vol. ed. Harvey H. Jackson III -- v. 17. Education / vol. ed. Clarence L. Mohr -- v. 18. Media / vol. ed. Allison Graham & Sharon Montheith -- v. 19. Violence / vol. ed. Amy Louise Wood -- v. 20. Social class / vol. ed. Larry J. Griffin & Peggy G. Hargis -- v. 21. Art and architecture / vol. ed. Judith H. Bonner & Estill Curtis Pennington -- v. 22. Science and medicine / vol. ed. James G. Thomas, Jr. & Charles Reagan Wilson -- v. 23. Folk art / vol. ed. Carol Crown & Cheryl Rivers -- v. 24. Race / vol. ed. Thomas C. Holt & Laurie B. Green." ],
-        "genre" : [ "Encyclopédies", "cookbooks", "Encyclopedias", "Cookbooks", "Reference works", "Livres de cuisine", "Ouvrages de référence" ],
-        "relation" : [ "$$Cform$$VPrint version: New encyclopedia of Southern culture. Chapel Hill : University of North Carolina Press, ©2006-©2013$$QNew encyclopedia of Southern culture." ],
+        "title" : [ "The New Encyclopedia of Southern Culture, 1 : Religion." ],
+        "subject" : [ "Popular culture -- Southern States$$QPopular culture -- Southern States -- Encyclopedias", "Southern States -- Civilization$$QSouthern States -- Civilization -- Encyclopedias", "Southern States$$QSouthern States -- Encyclopedias" ],
+        "format" : [ "1 online resource (269 pages)" ],
+        "identifier" : [ "$$CISBN$$V9780807877166;$$CISBN$$V0807877166;$$COCLC$$V(OCoLC)794715263;$$CISBN$$V9780807856741" ],
+        "creationdate" : [ "2006" ],
+        "creator" : [ "Wilson, Charles Reagan.$$QWilson, Charles Reagan." ],
+        "publisher" : [ "Chapel Hill : The University of North Carolina Press" ],
+        "description" : [ "Based on the popular Encyclopedia of Southern Culture, this book is the first of the 24-volume edition that focuses on individual topics from the original publication. Articles from the first edition have been revised and updated, and new entries have been added to reflect changes--such as globalization and immigration--that have affected southern culture in the past 20 years. New topics covered in this volume include Asian religions, Latino religion, New Age religion, Islam, Native American religion, and social activism." ],
+        "mms" : [ "990085767620107871" ],
+        "contributor" : [ "Hill, Samuel S.$$QHill, Samuel S." ],
+        "contents" : [ "General Introduction; Introduction; RELIGION; Appalachian Religion; Architecture, Church; Asian Religions; Black Religion; Broadcasting, Religious; Calvinism; Churches, Country; Civil Rights and Religion; Diversity, Religious; Ethnic Protestantism; Folk Religion; Frontier Religion; Fundamentalism; Islam; Jewish Religious Life; Latino Religion; Literature and Religion; Missionary Activities; Modernism and Religion; Native American Religion; New Age Religion; Pentecostalism; Politics and Religion; Preacher, Black Folk; Preacher, White; Protestantism; Restorationist Christianity." ],
+        "genre" : [ "Encyclopedias" ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
         "place" : [ "Chapel Hill :" ],
         "version" : [ "0" ],
-        "lds52" : [ "jstoreb", "pmusebp", "pmuseeba", "aleph008576762" ]
+        "lds52" : [ "jstoreb", "aleph004293783", "aleph008576762" ]
       },
       "control" : {
-        "sourcerecordid" : [ "990042937830107871" ],
-        "recordid" : [ "alma990042937830107871" ],
+        "sourcerecordid" : [ "990085767620107871" ],
+        "recordid" : [ "alma990085767620107871" ],
         "sourceid" : "alma",
-        "originalsourceid" : [ "004293783-NYU01" ],
+        "originalsourceid" : [ "008576762-NYU01" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203848E-6" ],
+        "score" : [ "1.2967248E-4" ],
         "isDedup" : false
       },
       "addata" : {
-        "aulast" : [ "Wilson", "Thomas", "Abadie" ],
-        "aufirst" : [ "Charles Reagan.", "James G.", "Ann J." ],
-        "auinit" : [ "C", "J", "A" ],
-        "addau" : [ "Wilson, Charles Reagan.", "Thomas, James G.", "Abadie, Ann J." ],
-        "contributorfull" : [ "$$NWilson, Charles Reagan.$$LWilson$$FCharles Reagan.$$Rcontributor", "$$NThomas, James G.$$Rcontributor", "$$NAbadie, Ann J.$$Rcontributor" ],
-        "date" : [ "2006 - 2013", "©2006-©2013" ],
-        "isbn" : [ "9781469601670", "1469601672", "9781469602776", "1469602776", "9781469601434", "1469601435", "9781469604299", "1469604299", "9781469602615", "146960261X", "9780807830031" ],
-        "notes" : [ "Includes bibliographical references and indexes." ],
-        "abstract" : [ "Volume 1: Religion. In this volume of The New Encyclopedia of Southern Culture, contributors have revised entries from the original Encyclopedia on topics ranging from religious broadcasting to snake handling and added new entries on such topics as Asian religions, Latino religion, New Age religion, Islam, Native American religion, and social activism. With the contributions of more than 60 authorities in the field--including Paul Harvey, Loyal Jones, Wayne Flynt, and Samuel F. Weber--this volume is an accessibly written, up-to-date reference to religious culture in the American South.", "Volume 2: Geography. This volume addresses general topics of cultural geographic interest, such as Appalachia, exiles and expatriates, Latino and Jewish populations, migration patterns, and the profound Disneyfication of central Florida. Entries with a more concentrated focus examine major cities, such as Atlanta, New Orleans, and Memphis; the influence of black and white southern migrants on northern cities; and individual subregions, such as the Piedmont, Piney Woods, Tidewater, and Delta. Putting together the disparate pieces that make up the place called \"the South,\" this volume sets the scene for the discussions in all the other volumes of The New Encyclopedia of Southern Culture.", "Volume 3: History. this volume broadly surveys history in the American South from the Paleoindian period (approximately 8000 B.C.E.) to the present. In 118 essays, contributors cover the turbulent past of the region that has witnessed frequent racial conflict, a bloody Civil War fought and lost on its soil, massive in- and out-migration, major economic transformations, and a civil rights movement that brought fundamental change to the social order.", "Volume 4: Myth, manners, and memory. This volume addresses the cultural, social, and intellectual terrain of myth, manners, and historical memory in the American South. Evaluating how a distinct southern identity has been created, recreated, and performed through memories that blur the line between fact and fiction, this volume paints a broad, multihued picture of the region seen through the lenses of belief and cultural practice." ],
+        "aulast" : [ "Wilson" ],
+        "aufirst" : [ "Charles Reagan." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Wilson, Charles Reagan." ],
+        "addau" : [ "Hill, Samuel S." ],
+        "creatorfull" : [ "$$NWilson, Charles Reagan.$$LWilson$$FCharles Reagan.$$Rauthor" ],
+        "contributorfull" : [ "$$NHill, Samuel S.$$LHill$$FSamuel S.$$Rcontributor" ],
+        "date" : [ "2006" ],
+        "isbn" : [ "9780807877166", "0807877166", "9780807856741" ],
+        "abstract" : [ "Based on the popular Encyclopedia of Southern Culture, this book is the first of the 24-volume edition that focuses on individual topics from the original publication. Articles from the first edition have been revised and updated, and new entries have been added to reflect changes--such as globalization and immigration--that have affected southern culture in the past 20 years. New topics covered in this volume include Asian religions, Latino religion, New Age religion, Islam, Native American religion, and social activism." ],
         "cop" : [ "Chapel Hill" ],
-        "pub" : [ "University of North Carolina Press" ],
-        "oclcid" : [ "(ocolc)607581673" ],
+        "pub" : [ "The University of North Carolina Press" ],
+        "oclcid" : [ "(ocolc)794715263" ],
         "format" : [ "book" ],
         "genre" : [ "book" ],
         "ristype" : [ "BOOK" ],
-        "btitle" : [ "The new encyclopedia of Southern culture" ]
+        "btitle" : [ "The New Encyclopedia of Southern Culture, 1 : Religion." ]
       },
       "sort" : {
-        "title" : [ "new encyclopedia of Southern culture /" ],
+        "title" : [ "New Encyclopedia of Southern Culture, 1 : Religion." ],
         "author" : [ "Wilson, Charles Reagan." ],
         "creationdate" : [ "2006" ]
       },
@@ -92,7 +93,17 @@
       "almaInstitutionsList" : [ {
         "getitLink" : [ {
           "displayText" : "Alma-E",
-          "linkRecordId" : "990042937830107871"
+          "linkRecordId" : "990085767620107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990085767620107871"
         } ],
         "instCode" : "01NYU_TNS",
         "instName" : "The New School",
@@ -102,21 +113,11 @@
       }, {
         "getitLink" : [ {
           "displayText" : "Alma-E",
-          "linkRecordId" : "990042937830107871"
+          "linkRecordId" : "990085767620107871"
         } ],
         "instCode" : "01NYU_CU",
         "instName" : "Cooper Union",
         "instId" : "7874",
-        "availabilityStatus" : "available_online",
-        "envURL" : ""
-      }, {
-        "getitLink" : [ {
-          "displayText" : "Alma-E",
-          "linkRecordId" : "990042937830107871"
-        } ],
-        "instCode" : "01NYU_INST",
-        "instName" : "New York University - New York",
-        "instId" : "7876",
         "availabilityStatus" : "available_online",
         "envURL" : ""
       } ],
@@ -145,7 +146,7 @@
       "link" : [ {
         "@id" : ":_0",
         "linkType" : "thumbnail",
-        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1469601672,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0807877166,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
         "displayLabel" : "thumbnail"
       } ],
       "hasD" : null
@@ -158,28 +159,28 @@
       },
       "bibVirtualBrowseObject" : {
         "isVirtualBrowseEnabled" : true,
-        "callNumber" : "f\"209ǂ n47 2006",
+        "callNumber" : "f\"209 n47 2006",
         "callNumberBrowseField" : "LOC_CL"
       }
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "137",
-    "CALL_SOLR_GET_IDS_LIST" : "84",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "95",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "99",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "71",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
     "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "59",
-    "RETRIVE_FROM_DB_RELATIONS" : "31",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "89",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "65",
     "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "124",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "449",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "47",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "351",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 479,
-    "COMBINED_SEARCH_TIME" : 482,
+    "BUILD_COMBINED_RESULTS_MAP" : 384,
+    "COMBINED_SEARCH_TIME" : 386,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
   "facets" : [ {
     "name" : "lang",
@@ -192,9 +193,6 @@
     "values" : [ {
       "value" : "2006",
       "count" : "1"
-    }, {
-      "value" : "2013",
-      "count" : "1"
     } ]
   }, {
     "name" : "rtype",
@@ -205,16 +203,7 @@
   }, {
     "name" : "topic",
     "values" : [ {
-      "value" : "Civilization",
-      "count" : "1"
-    }, {
-      "value" : "Geschichte",
-      "count" : "1"
-    }, {
-      "value" : "Kultur",
-      "count" : "1"
-    }, {
-      "value" : "Southern States",
+      "value" : "Popular Culture Southern States Encyclopedias",
       "count" : "1"
     }, {
       "value" : "Southern States Civilization Encyclopedias",
@@ -222,26 +211,11 @@
     }, {
       "value" : "Southern States Encyclopedias",
       "count" : "1"
-    }, {
-      "value" : "Usa Südstaaten",
-      "count" : "1"
-    }, {
-      "value" : "États Unis Sud Civilisation Encyclopédies",
-      "count" : "1"
-    }, {
-      "value" : "États Unis Sud Encyclopédies",
-      "count" : "1"
     } ]
   }, {
     "name" : "creator",
     "values" : [ {
-      "value" : "Abadie Ann J",
-      "count" : "1"
-    }, {
-      "value" : "Thomas James G",
-      "count" : "1"
-    }, {
-      "value" : "University Of Mississippi Center For The Study Of Southern Culture",
+      "value" : "Hill Samuel S",
       "count" : "1"
     }, {
       "value" : "Wilson Charles Reagan",

@@ -1,22 +1,209 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996721695007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "HELENA OPEN LANDS MANAGEMENT ADVISORY COMMITTEE SUMMA R Y March 12, 2019" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "United States of America : Helena, Montana." ],
+        "description" : [ "When the decision is made to enter into an agreement with the consultant, we will hand over the contact information to the consultant and the consultant will contact the committee members. [...] This figure also includes the 75% of the salary of the individual who manages the trail system. [...] So in question as to why we don’t open the rest of the plan, we just do not have the funding available. [...] Discussion of updating the rest of the Open Lands Management Plan Greta discussed the comment period for the Open Lands Management Plan. [...] The only thing left in the current grant is the delivery and installation of the restroom." ],
+        "mms" : [ "9996721695007871" ],
+        "contributor" : [ "Taylor Kanthack$$QTaylor Kanthack", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007493436" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996721695007871" ],
+        "recordid" : [ "alma9996721695007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)21e605abe3583068" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Taylor Kanthack" ],
+        "contributorfull" : [ "$$NTaylor Kanthack$$Rcontributor" ],
+        "date" : [ "2019" ],
+        "abstract" : [ "When the decision is made to enter into an agreement with the consultant, we will hand over the contact information to the consultant and the consultant will contact the committee members. [...] This figure also includes the 75% of the salary of the individual who manages the trail system. [...] So in question as to why we don’t open the rest of the plan, we just do not have the funding available. [...] Discussion of updating the rest of the Open Lands Management Plan Greta discussed the comment period for the Open Lands Management Plan. [...] The only thing left in the current grant is the delivery and installation of the restroom." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Helena, Montana." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/28wpt6" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "HELENA OPEN LANDS MANAGEMENT ADVISORY COMMITTEE SUMMA R Y March 12, 2019" ]
+      },
+      "sort" : {
+        "title" : [ "HELENA OPEN LANDS MANAGEMENT ADVISORY COMMITTEE SUMMA R Y March 12, 2019," ],
+        "author" : [ "Taylor Kanthack" ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996721695007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996721695007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996721695007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "31",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "39",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 42,
-    "COMBINED_SEARCH_TIME" : 45,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "117",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "86",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "94",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "385",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 414,
+    "COMBINED_SEARCH_TIME" : 417,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2019",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Taylor Kanthack",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

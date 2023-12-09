@@ -1,22 +1,208 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997186327907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "A companion to contemporary political philosophy " ],
+        "subject" : [ "PHILOSOPHY -- Political", "Political science -- Philosophy", "Politische Wissenschaft", "Politische Philosophie" ],
+        "format" : [ "1 online resource (2 volumes)" ],
+        "identifier" : [ "$$CISBN$$V9780470766071;$$CISBN$$V0470766077;$$COCLC$$V(OCoLC)182574464;$$CISBN$$V9781405136532;$$CISBN$$V1405136537" ],
+        "creationdate" : [ "©2007" ],
+        "publisher" : [ "Malden, MA : Blackwell Pub." ],
+        "description" : [ "This new edition of A Companion to Contemporary Political Philosophy has been extended significantly to include 55 chapters across two volumes written by some of today's most distinguished scholars.:; New contributors include some of today's most distinguished scholars, among them Thomas Pogge, Charles Beitz, and Michael Doyle; Provides in-depth coverage of contemporary philosophical debate in all major related disciplines, such as economics, history, law, political science, international relations and sociology; Presents analysis of key political ideologies, including new chapters on Co." ],
+        "mms" : [ "9997186327907871" ],
+        "contributor" : [ "Goodin, Robert E.$$QGoodin, Robert E.", "Pettit, Philip, 1945-$$QPettit, Philip", "Pogge, Thomas, 1953-$$QPogge, Thomas" ],
+        "edition" : [ "2nd ed." ],
+        "series" : [ "Blackwell companions to philosophy ; 5$$QBlackwell companions to philosophy ", "Blackwell companions to philosophy ; 5.$$QBlackwell companions to philosophy " ],
+        "contents" : [ "Disciplinary contributions -- Major ideologies -- Special topics." ],
+        "relation" : [ "$$Cform$$VPrint version: Companion to contemporary political philosophy. 2nd ed. Malden, MA : Blackwell Pub., ©2007$$QCompanion to contemporary political philosophy." ],
+        "place" : [ "Malden, MA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "ebcacls", "ebceb", "aleph004381778" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997186327907871" ],
+        "recordid" : [ "alma9997186327907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)182574464" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967248E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Goodin", "Pettit", "Pogge" ],
+        "aufirst" : [ "Robert E.", "Philip", "Thomas" ],
+        "auinit" : [ "R", "P", "T" ],
+        "addau" : [ "Goodin, Robert E.", "Pettit, Philip", "Pogge, Thomas" ],
+        "contributorfull" : [ "$$NGoodin, Robert E.$$LGoodin$$FRobert E.$$Rcontributor", "$$NPettit, Philip$$Rcontributor", "$$NPogge, Thomas$$Rcontributor" ],
+        "date" : [ "2007", "©2007" ],
+        "isbn" : [ "9780470766071", "0470766077", "9781405136532", "1405136537" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "This new edition of A Companion to Contemporary Political Philosophy has been extended significantly to include 55 chapters across two volumes written by some of today's most distinguished scholars.:; New contributors include some of today's most distinguished scholars, among them Thomas Pogge, Charles Beitz, and Michael Doyle; Provides in-depth coverage of contemporary philosophical debate in all major related disciplines, such as economics, history, law, political science, international relations and sociology; Presents analysis of key political ideologies, including new chapters on Co." ],
+        "cop" : [ "Malden, MA" ],
+        "pub" : [ "Blackwell Pub." ],
+        "oclcid" : [ "(ocolc)182574464" ],
+        "edition" : [ "2nd ed." ],
+        "seriestitle" : [ "Blackwell companions to philosophy ; 5" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "A companion to contemporary political philosophy" ]
+      },
+      "sort" : {
+        "title" : [ "companion to contemporary political philosophy /" ],
+        "author" : [ "Goodin, Robert E." ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0470766077,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ja!71ǂ c565 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "30",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "38",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "76",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "58",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "54",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "311",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 41,
-    "COMBINED_SEARCH_TIME" : 44,
+    "BUILD_COMBINED_RESULTS_MAP" : 350,
+    "COMBINED_SEARCH_TIME" : 353,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Philosophy Political",
+      "count" : "1"
+    }, {
+      "value" : "Political Science Philosophy",
+      "count" : "1"
+    }, {
+      "value" : "Politische Philosophie",
+      "count" : "1"
+    }, {
+      "value" : "Politische Wissenschaft",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Goodin Robert E",
+      "count" : "1"
+    }, {
+      "value" : "Pettit Philip",
+      "count" : "1"
+    }, {
+      "value" : "Pogge Thomas",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

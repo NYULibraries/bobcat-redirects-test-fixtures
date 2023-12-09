@@ -1,22 +1,211 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996753605307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "CITY OF SASKATOON NUMBER C03-027 - COUNCIL POLICY POLICY TITLE ADOPTED BY, EFFECTIVE DATE " ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Canada : Saskatoon, Saskatchewan." ],
+        "description" : [ "POLICY All capital borrowings of the City shall be the responsibility of the Investment Committee and shall be administered in accordance with this policy. [...] All decisions with respect to incurring additional internal and external debt shall be evaluated from the perspective of not adversely affecting the City of Saskatoon’s overall credit worthiness (as measured by its external credit rating) and the ongoing financing of its committed programs (as measured by the ability of the municipal mill rate and other operating revenues to accommodate the associ. [...] c) In all such cases, the projects designated for external debt financing shall be required to incorporate in their capital budgets a provision of at least 0.75% of the amount borrowed in order to finance the debt financing costs of issuing the debt. [...] a) To be eligible for productivity improvement loans, projects must satisfy all of the following criteria: i) the proposal is a capital project; and, CITY OF SASKATOON NUMBER C03-027 COUNCIL POLICY POLICY TITLE EFFECTIVE DATE UPDATED TO PAGE NUMBER Borrowing for Capital Projects March 30, 1987 November 30, 2020 6 of 8 ii) the capital expenditures shall be fully repaid by additional operating reven. [...] All debt service shall be charged directly to CITY OF SASKATOON NUMBER C03-027 COUNCIL POLICY POLICY TITLE EFFECTIVE DATE UPDATED TO PAGE NUMBER Borrowing for Capital Projects March 30, 1987 November 30, 2020 7 of 8 the appropriate operating program of the civic departments, board or commission responsible for the proposal." ],
+        "mms" : [ "9996753605307871" ],
+        "contributor" : [ "ckAnneP$$QckAnneP", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "EFFECTIVE DATE" ],
+        "relation" : [ "$$Cdata_source$$VCities: Canada POCO_POCC_CAN$$QCities: Canada", "$$Cdata_source$$VGovernment CANA_GOVT$$QGovernment", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "Canada] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007547900" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996753605307871" ],
+        "recordid" : [ "alma9996753605307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)e145edb73c044751" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "ckAnneP" ],
+        "contributorfull" : [ "$$NckAnneP$$Rcontributor" ],
+        "addtitle" : [ "EFFECTIVE DATE" ],
+        "date" : [ "2020" ],
+        "abstract" : [ "POLICY All capital borrowings of the City shall be the responsibility of the Investment Committee and shall be administered in accordance with this policy. [...] All decisions with respect to incurring additional internal and external debt shall be evaluated from the perspective of not adversely affecting the City of Saskatoon’s overall credit worthiness (as measured by its external credit rating) and the ongoing financing of its committed programs (as measured by the ability of the municipal mill rate and other operating revenues to accommodate the associ. [...] c) In all such cases, the projects designated for external debt financing shall be required to incorporate in their capital budgets a provision of at least 0.75% of the amount borrowed in order to finance the debt financing costs of issuing the debt. [...] a) To be eligible for productivity improvement loans, projects must satisfy all of the following criteria: i) the proposal is a capital project; and, CITY OF SASKATOON NUMBER C03-027 COUNCIL POLICY POLICY TITLE EFFECTIVE DATE UPDATED TO PAGE NUMBER Borrowing for Capital Projects March 30, 1987 November 30, 2020 6 of 8 ii) the capital expenditures shall be fully repaid by additional operating reven. [...] All debt service shall be charged directly to CITY OF SASKATOON NUMBER C03-027 COUNCIL POLICY POLICY TITLE EFFECTIVE DATE UPDATED TO PAGE NUMBER Borrowing for Capital Projects March 30, 1987 November 30, 2020 7 of 8 the appropriate operating program of the civic departments, board or commission responsible for the proposal." ],
+        "cop" : [ "Canada" ],
+        "pub" : [ "Saskatoon, Saskatchewan." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/5rc1t3" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "CITY OF SASKATOON NUMBER C03-027 - COUNCIL POLICY POLICY TITLE ADOPTED BY, EFFECTIVE DATE" ]
+      },
+      "sort" : {
+        "title" : [ "CITY OF SASKATOON NUMBER C03-027 - COUNCIL POLICY POLICY TITLE ADOPTED BY, EFFECTIVE DATE /" ],
+        "author" : [ "ckAnneP" ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996753605307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996753605307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996753605307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "27",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 34,
-    "COMBINED_SEARCH_TIME" : 37,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "126",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "76",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "56",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "64",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "48",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "426",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 456,
+    "COMBINED_SEARCH_TIME" : 460,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Ckannep",
+      "count" : "1"
+    }, {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,15 +1,136 @@
 {
   "info" : {
-    "totalResultsLocal" : 1,
+    "totalResultsLocal" : 2,
     "totalResultsPC" : -1,
-    "total" : 1,
+    "total" : 2,
     "first" : 1,
-    "last" : 1
+    "last" : 2
   },
   "highlights" : {
     "termsUnion" : [ ]
   },
   "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997771434607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The SAGE Handbook of Qualitative Business and Management Research Methods." ],
+        "format" : [ "1 online resource (1161 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781526415721;$$CISBN$$V1526415720;$$CISBN$$V9781526415707;$$CISBN$$V1526415704;$$COCLC$$V(OCoLC)1020028372;$$CISBN$$V9781473926622" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Cassell, Cathy.$$QCassell, Cathy." ],
+        "publisher" : [ "London : SAGE Publications" ],
+        "description" : [ "Leading researchers from across the globe provide a comprehensive overview of the history and traditions that underpin qualitative research in business and management. They cover how methods are used today as well as future challenges." ],
+        "mms" : [ "9997771434607871" ],
+        "contributor" : [ "Cunliffe, Ann L.$$QCunliffe, Ann L.", "Grandy, Gina.$$QGrandy, Gina." ],
+        "relation" : [ "$$Cform$$VPrint version: Cassell, Cathy. SAGE Handbook of Qualitative Business and Management Research Methods. London : SAGE Publications, ©2017$$QSAGE Handbook of Qualitative Business and Management Research Methods." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sagepub", "aleph007340610", "aleph008932313" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997771434607871" ],
+        "recordid" : [ "alma9997771434607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1020028372" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2339895E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cassell" ],
+        "aufirst" : [ "Cathy." ],
+        "auinit" : [ "C" ],
+        "au" : [ "Cassell, Cathy." ],
+        "addau" : [ "Cunliffe, Ann L.", "Grandy, Gina." ],
+        "creatorfull" : [ "$$NCassell, Cathy.$$LCassell$$FCathy.$$Rauthor" ],
+        "contributorfull" : [ "$$NCunliffe, Ann L.$$LCunliffe$$FAnn L.$$Rcontributor", "$$NGrandy, Gina.$$Rcontributor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781526415721", "1526415720", "9781526415707", "1526415704", "9781473926622" ],
+        "abstract" : [ "Leading researchers from across the globe provide a comprehensive overview of the history and traditions that underpin qualitative research in business and management. They cover how methods are used today as well as future challenges." ],
+        "cop" : [ "London" ],
+        "pub" : [ "SAGE Publications" ],
+        "oclcid" : [ "(ocolc)1020028372" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The SAGE Handbook of Qualitative Business and Management Research Methods." ]
+      },
+      "sort" : {
+        "title" : [ "SAGE Handbook of Qualitative Business and Management Research Methods." ],
+        "author" : [ "Cassell, Cathy." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1526415720,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!30.4 s244 2018",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  }, {
     "context" : "L",
     "adaptor" : "Local Search Engine",
     "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073406100107871",
@@ -40,7 +161,7 @@
         "originalsourceid" : [ "007340610-NYU01" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203855E-6" ],
+        "score" : [ "1.2339895E-4" ],
         "isDedup" : false
       },
       "addata" : {
@@ -151,32 +272,35 @@
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
-    "CALL_SOLR_GET_IDS_LIST" : "74",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
-    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "22",
-    "RETRIVE_FROM_DB_RELATIONS" : "18",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
-    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "259",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 284,
-    "COMBINED_SEARCH_TIME" : 287,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "80",
+    "CALL_SOLR_GET_IDS_LIST" : "151",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "18",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "5",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "86",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "367",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 407,
+    "COMBINED_SEARCH_TIME" : 410,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
   "facets" : [ {
     "name" : "lang",
     "values" : [ {
       "value" : "eng",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "creationdate",
     "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    }, {
       "value" : "2018",
       "count" : "1"
     } ]
@@ -184,7 +308,7 @@
     "name" : "rtype",
     "values" : [ {
       "value" : "books",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "topic",
@@ -225,13 +349,25 @@
   }, {
     "name" : "creator",
     "values" : [ {
+      "value" : "Cunliffe Ann L",
+      "count" : "2"
+    }, {
+      "value" : "Grandy Gina",
+      "count" : "2"
+    }, {
       "value" : "Cassell Catherine",
       "count" : "1"
     }, {
-      "value" : "Cunliffe Ann L",
+      "value" : "Cassell Cathy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
       "count" : "1"
     }, {
-      "value" : "Grandy Gina",
+      "value" : "30 days back",
       "count" : "1"
     } ]
   } ]

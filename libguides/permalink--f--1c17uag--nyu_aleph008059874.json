@@ -1,22 +1,175 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996723496107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "CMB/MBCC Health Care Task Force Meeting Subcommittee of the Committee for Quality of Education - June 28, 2012 9, 00 AM " ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2012" ],
+        "publisher" : [ "United States of America : Miami Beach, Florida." ],
+        "description" : [ "Rivo spoke of the history of the issue briefly stating that 157 schools have school health clinics through the Children’s Trust. [...] The Commission made a motion to create the Healthcare Task Force at the request of the Committee for Quality Education. [...] Dr Gorski concluded with the explanation of how the Children’s Trust will continue to coordinate the high standard of health care given, conduct trainings for healthcare staff, conduct vision screenings with schools, and coordinate to provide mental health services. [...] Commission Libbin mentioned that the quickest study would be to ask the principals of the school. [...] Commission Libbin also recommended that we would need to find the funding gap by taking each of the eight schools and determining the healthcare needed and how much it costs." ],
+        "mms" : [ "9996723496107871" ],
+        "contributor" : [ "annl$$Qannl", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "00 AM" ],
+        "relation" : [ "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008059874" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996723496107871" ],
+        "recordid" : [ "alma9996723496107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)2ea87749258d665e" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "annl" ],
+        "contributorfull" : [ "$$Nannl$$Rcontributor" ],
+        "addtitle" : [ "00 AM" ],
+        "date" : [ "2012" ],
+        "abstract" : [ "Rivo spoke of the history of the issue briefly stating that 157 schools have school health clinics through the Children’s Trust. [...] The Commission made a motion to create the Healthcare Task Force at the request of the Committee for Quality Education. [...] Dr Gorski concluded with the explanation of how the Children’s Trust will continue to coordinate the high standard of health care given, conduct trainings for healthcare staff, conduct vision screenings with schools, and coordinate to provide mental health services. [...] Commission Libbin mentioned that the quickest study would be to ask the principals of the school. [...] Commission Libbin also recommended that we would need to find the funding gap by taking each of the eight schools and determining the healthcare needed and how much it costs." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Miami Beach, Florida." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/szg2z8" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "CMB/MBCC Health Care Task Force Meeting Subcommittee of the Committee for Quality of Education - June 28, 2012 9, 00 AM" ]
+      },
+      "sort" : {
+        "title" : [ "CMB/MBCC Health Care Task Force Meeting Subcommittee of the Committee for Quality of Education - June 28, 2012 9, 00 AM /" ],
+        "author" : [ "annl" ],
+        "creationdate" : [ "2012" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "50",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "56",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 57,
-    "COMBINED_SEARCH_TIME" : 60,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "60",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "24",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "51",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "9",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 345,
+    "COMBINED_SEARCH_TIME" : 348,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2012",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Annl",
+      "count" : "1"
+    }, {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

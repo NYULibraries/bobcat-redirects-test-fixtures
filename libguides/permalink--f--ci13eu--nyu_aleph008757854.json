@@ -1,22 +1,163 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996730877207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Felipe González, “Social democracy must address the need for a competitive and innovative - economy that can generate added value, maintain social cohesion and be environmentally " ],
+        "format" : [ "1 online resource", "text file" ],
+        "publisher" : [ "Spain : Fundacion Ideas." ],
+        "description" : [ "P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Felipe González: “Social democracy must address the need for a competitive and innovative economy that can generate added value, maintain social cohesion and be environmentally sustainable.” The former prime minister affirms that Europe cannot withstand a u. [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es the market. I support the market economy, but I dislike it when society is subject to market. \" In an open and shared dialogue with Eduardo Madina, Secretary of the Socialist Group in Congress, Gonzalez accepted the challenge of offering solutions to. [...] S. is to compete for added value through innovation.” In his opinion, to improve competitiveness, \"it is essential to increase productivity in our economy. In relative terms, we are not less productive per hour worked than France or Germany, but in general Europe is not very productive and, thus, even if investors made more efforts to invest in R&D&I, we would still . [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Finally, with respect to the management of the balance between citizenship and the sense of belonging, the former Prime Minister recounted that \"the foundation of coexistence is to know the other, accept his sense of belonging without generating in. [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Norma Bernad thanked the participants for their speeches and encouraged the attendants, many of whom were students from the master course in Political Leadership to spread the values of the new social democracy in shared debates. ." ],
+        "mms" : [ "9996730877207871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "“Social democracy must address the need for a competitive and innovative - economy that can generate added value, maintain social cohesion and be environmentally" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "place" : [ "Spain] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008757854" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996730877207871" ],
+        "recordid" : [ "alma9996730877207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)540b5817912d2136" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "“Social democracy must address the need for a competitive and innovative - economy that can generate added value, maintain social cohesion and be environmentally" ],
+        "abstract" : [ "P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Felipe González: “Social democracy must address the need for a competitive and innovative economy that can generate added value, maintain social cohesion and be environmentally sustainable.” The former prime minister affirms that Europe cannot withstand a u. [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es the market. I support the market economy, but I dislike it when society is subject to market. \" In an open and shared dialogue with Eduardo Madina, Secretary of the Socialist Group in Congress, Gonzalez accepted the challenge of offering solutions to. [...] S. is to compete for added value through innovation.” In his opinion, to improve competitiveness, \"it is essential to increase productivity in our economy. In relative terms, we are not less productive per hour worked than France or Germany, but in general Europe is not very productive and, thus, even if investors made more efforts to invest in R&D&I, we would still . [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Finally, with respect to the management of the balance between citizenship and the sense of belonging, the former Prime Minister recounted that \"the foundation of coexistence is to know the other, accept his sense of belonging without generating in. [...] P. 28023 – Madrid, España (Spain) Tel. [+34]915820091 Fax [+34]915820090 comunicacion@fundacionideas.es www.fundacionideas.es Norma Bernad thanked the participants for their speeches and encouraged the attendants, many of whom were students from the master course in Political Leadership to spread the values of the new social democracy in shared debates. ." ],
+        "cop" : [ "Spain" ],
+        "pub" : [ "Fundacion Ideas." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/vxgs41" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Felipe González, “Social democracy must address the need for a competitive and innovative - economy that can generate added value, maintain social cohesion and be environmentally" ]
+      },
+      "sort" : {
+        "title" : [ "Felipe González, “Social democracy must address the need for a competitive and innovative - economy that can generate added value, maintain social cohesion and be environmentally /" ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "0000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "43",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "50",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "175",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "27",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "141",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "383",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 52,
-    "COMBINED_SEARCH_TIME" : 54,
+    "BUILD_COMBINED_RESULTS_MAP" : 410,
+    "COMBINED_SEARCH_TIME" : 413,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

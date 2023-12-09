@@ -1,22 +1,185 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995922808707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Historic American Costumes and How to Make Them " ],
+        "subject" : [ "Staging and Design", "Costume design" ],
+        "format" : [ "1 online resource (194 pages)", "data file" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1193028975" ],
+        "creationdate" : [ "2010" ],
+        "creator" : [ "(1890), Mary Evans, author.$$Q(1890), Mary Evans" ],
+        "publisher" : [ "Mineola, NY : Dover Publications" ],
+        "description" : [ "This easy-to-use handbook presents step-by-step instructions and patterns for a tremendous variety of clothes and accessories from colonial times through the Civil War. More than eighty illustrations depict Puritan, Dutch, Quaker, and Native American garb as well as military uniforms. A bonus CD features every pattern in vector files. Drawing upon authentic materials in the collections of major museums, including the American Museum of Natural History and the Metropolitan Museum of Art, the author presents accurate renditions of generations of American formal and leisure wear. Costumers of all kinds will find this book a source of inexpensive apparel for amateur theater troupes, school pageants, and casual reenactments. It will also prove an inspiration to parents and children seeking informal costumes for Halloween and other occasions." ],
+        "mms" : [ "9995922808707871" ],
+        "contributor" : [ "Brooks, Elizabeth, costume designer.$$QBrooks, Elizabeth" ],
+        "genre" : [ "General reference" ],
+        "place" : [ "Mineola, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aspleased", "aspowned", "aleph009618920" ],
+        "lds60" : [ "Title from resource description page (viewed October 11, 2017)." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995922808707871" ],
+        "recordid" : [ "alma9995922808707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009618920-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967248E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "(1890)" ],
+        "aufirst" : [ "Mary Evans" ],
+        "auinit" : [ "M" ],
+        "au" : [ "(1890), Mary Evans" ],
+        "addau" : [ "Brooks, Elizabeth" ],
+        "creatorfull" : [ "$$N(1890), Mary Evans$$L(1890)$$FMary Evans$$Rauthor" ],
+        "contributorfull" : [ "$$NBrooks, Elizabeth$$LBrooks$$FElizabeth$$Rcontributor" ],
+        "date" : [ "2010" ],
+        "abstract" : [ "This easy-to-use handbook presents step-by-step instructions and patterns for a tremendous variety of clothes and accessories from colonial times through the Civil War. More than eighty illustrations depict Puritan, Dutch, Quaker, and Native American garb as well as military uniforms. A bonus CD features every pattern in vector files. Drawing upon authentic materials in the collections of major museums, including the American Museum of Natural History and the Metropolitan Museum of Art, the author presents accurate renditions of generations of American formal and leisure wear. Costumers of all kinds will find this book a source of inexpensive apparel for amateur theater troupes, school pageants, and casual reenactments. It will also prove an inspiration to parents and children seeking informal costumes for Halloween and other occasions." ],
+        "cop" : [ "Mineola, NY" ],
+        "pub" : [ "Dover Publications" ],
+        "oclcid" : [ "(ocolc)1193028975" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Historic American Costumes and How to Make Them" ]
+      },
+      "sort" : {
+        "title" : [ "Historic American Costumes and How to Make Them /" ],
+        "author" : [ "(1890), Mary Evans, author." ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1193028975,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "22",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "26",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 27,
-    "COMBINED_SEARCH_TIME" : 29,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "86",
+    "CALL_SOLR_GET_IDS_LIST" : "149",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "33",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "358",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 394,
+    "COMBINED_SEARCH_TIME" : 397,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Costume Design",
+      "count" : "1"
+    }, {
+      "value" : "Staging And Design",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "1890 Mary Evans",
+      "count" : "1"
+    }, {
+      "value" : "Brooks Elizabeth",
+      "count" : "1"
+    } ]
+  } ]
 }

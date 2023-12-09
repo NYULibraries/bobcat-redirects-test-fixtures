@@ -1,22 +1,237 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995922990407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Witches' brew and other horrifying party foods " ],
+        "subject" : [ "Holiday cooking$$QHoliday cooking -- Juvenile literature", "Children's parties$$QChildren's parties -- Juvenile literature", "Cooking$$QCooking -- Juvenile literature", "Food craft$$QFood craft -- Juvenile literature", "Halloween cooking$$QHalloween cooking -- Juvenile literature", "Cuisine des jours de fête$$QCuisine des jours de fête -- Ouvrages pour la jeunesse", "Fêtes d'enfants$$QFêtes d'enfants -- Ouvrages pour la jeunesse", "Food art$$QFood art -- Ouvrages pour la jeunesse", "Cuisine de l'Halloween$$QCuisine de l'Halloween -- Ouvrages pour la jeunesse", "Food craft", "Halloween cooking", "Children's parties", "Holiday cooking", "Cooking" ],
+        "format" : [ "1 online resource : illustrations" ],
+        "identifier" : [ "$$CLC$$V2016021944;$$CISBN$$V9781512428087;$$CISBN$$V1512428086;$$CISBN$$V9781512437768;$$CISBN$$V151243776X;$$CISBN$$V9781512437775;$$CISBN$$V1512437778;$$COCLC$$V(OCoLC)949669718;$$CISBN$$V9781512425765" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Vega, Ali, author.$$QVega, Ali" ],
+        "publisher" : [ "Minneapolis : Lerner Publications" ],
+        "description" : [ "\"It's wiggling, it's bubbling ... it's party food! Readers will love creating the variety of yucky yet yummy party foods that are featured in this cookbook. Do you dare take a bite?\"-- Provided by publisher" ],
+        "mms" : [ "9995922990407871" ],
+        "series" : [ "Little kitchen of horrors$$QLittle kitchen of horrors", "Vega, Ali. Little kitchen of horrors.$$QLittle kitchen of horrors." ],
+        "contents" : [ "Foul party foods -- Before you get started -- Shrunken-head punch -- Stabbed eyeballs -- Weenie witch fingers -- Earwax on a stick -- Witches' brew -- Dog-pile treats -- Black Widow cheese bread -- Monster boogers -- Fried mice -- Wrapping up." ],
+        "genre" : [ "Juvenile literature", "Ouvrages pour la jeunesse", "cookbooks", "Juvenile works", "Cookbooks", "Livres de cuisine" ],
+        "relation" : [ "$$Cform$$VPrint version: Vega, Ali. Witches' brew and other horrifying party foods. Minneapolis : Lerner Publications, [2017]$$QWitches' brew and other horrifying party foods." ],
+        "place" : [ "Minneapolis :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoac", "aleph009747660" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995922990407871" ],
+        "recordid" : [ "alma9995922990407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009747660-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Vega" ],
+        "aufirst" : [ "Ali" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Vega, Ali" ],
+        "seriesau" : [ "Vega, Ali" ],
+        "creatorfull" : [ "$$NVega, Ali$$LVega$$FAli$$Rauthor" ],
+        "date" : [ "2017" ],
+        "isbn" : [ "9781512428087", "1512428086", "9781512437768", "151243776X", "9781512437775", "1512437778", "9781512425765" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"It's wiggling, it's bubbling ... it's party food! Readers will love creating the variety of yucky yet yummy party foods that are featured in this cookbook. Do you dare take a bite?\"-- Provided by publisher" ],
+        "cop" : [ "Minneapolis" ],
+        "pub" : [ "Lerner Publications" ],
+        "oclcid" : [ "(ocolc)949669718" ],
+        "lccn" : [ "2016021944" ],
+        "seriestitle" : [ "Little kitchen of horrors" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Witches' brew and other horrifying party foods" ]
+      },
+      "sort" : {
+        "title" : [ "Witches' brew and other horrifying party foods /" ],
+        "author" : [ "Vega, Ali, author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995922990407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1512428086,OCLC:,LCCN:2016021944&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "tx\"739.2 h34",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "27",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "35",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 37,
-    "COMBINED_SEARCH_TIME" : 38,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "130",
+    "CALL_SOLR_GET_IDS_LIST" : "108",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "90",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "23",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "98",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "86",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "119",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "454",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 491,
+    "COMBINED_SEARCH_TIME" : 494,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Childrens Parties",
+      "count" : "1"
+    }, {
+      "value" : "Childrens Parties Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Cooking",
+      "count" : "1"
+    }, {
+      "value" : "Cooking Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Cuisine De Lhalloween Ouvrages Pour La Jeunesse",
+      "count" : "1"
+    }, {
+      "value" : "Cuisine Des Jours De Fête Ouvrages Pour La Jeunesse",
+      "count" : "1"
+    }, {
+      "value" : "Food Art Ouvrages Pour La Jeunesse",
+      "count" : "1"
+    }, {
+      "value" : "Food Craft",
+      "count" : "1"
+    }, {
+      "value" : "Food Craft Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Fêtes Denfants Ouvrages Pour La Jeunesse",
+      "count" : "1"
+    }, {
+      "value" : "Halloween Cooking",
+      "count" : "1"
+    }, {
+      "value" : "Halloween Cooking Juvenile Literature",
+      "count" : "1"
+    }, {
+      "value" : "Holiday Cooking",
+      "count" : "1"
+    }, {
+      "value" : "Holiday Cooking Juvenile Literature",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Vega Ali",
+      "count" : "1"
+    } ]
+  } ]
 }

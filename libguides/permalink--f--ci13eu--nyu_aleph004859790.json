@@ -1,22 +1,210 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188381107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the book in Britain. Vol. 3, 1400-1557 " ],
+        "subject" : [ "Books -- Great Britain -- History -- 400-1450", "Books -- Great Britain -- History -- 1450-1600", "Livres -- Grande-Bretagne -- Histoire -- 400-1450", "Livres -- Grande-Bretagne -- Histoire -- 1450-1600", "Books", "Great Britain", "400-1600" ],
+        "format" : [ "1 online resource (745 pages) : illustrations, facsimiles" ],
+        "identifier" : [ "$$CISBN$$V1139053647;$$CISBN$$V9781139053648;$$COCLC$$V(OCoLC)316278346" ],
+        "creationdate" : [ "1999" ],
+        "publisher" : [ "Cambridge, UK ; New York : Cambridge University Press" ],
+        "description" : [ "This volume of The Cambridge History of the Book in Britain presents an overview of the century-and-a-half between the death of Chaucer in 1400 and the incorporation of the Stationers' Company in 1557. The profound changes during that time in social, political and religious conditions are reflected in the dissemination and reception of the written word. The manuscript culture of Chaucer's day was replaced by an ambience in which printed books would become the norm. The emphasis in this collection of essays is on the demand and use of books. Patterns of ownership are identified as well as patterns of where, why and how books were written, printed, bound, acquired, read and passed from hand to hand. The book trade receives special attention, with emphasis on the large part played by imports and on links with printers in other countries, which were decisive for the development of printing and publishing in Britain." ],
+        "mms" : [ "9997188381107871" ],
+        "contributor" : [ "Hellinga, Lotte.$$QHellinga, Lotte.", "Trapp, J. B. (Joseph Burney)$$QTrapp, J. B." ],
+        "contents" : [ "Introduction / Lotte Hellinga and J.B. Trapp -- Literacy, books and readers / J.B. Trapp -- TECHNIQUE AND TRADE -- Foreign illuminators and illuminated manuscripts / J.J.G. Alexander -- Printing / Lotte Hellinga -- Bookbinding 1400-1557 / M.M. Foot -- The rise of London's book-trade / C. Paul Christianson -- The customs rolls as documents for the printed-book trade in England / Paul Needham -- The book-trade under Edward VI and Mary I / John N. King -- Importation of printed books into England and Scotland / Margaret Lane Ford -- COLLECTIONS AND OWNERSHIP -- Private ownership of printed books / Margaret Lane Ford -- Monastic libraries: 1400-1557 / David N. Bell -- The early royal collections and the Royal Library to 1461 / Jenny Stratford -- The Royal Library from Edward IV to Henry VII / Janet Backhouse -- The Royal Library under Henry VIII / James P. Carley -- READING AND USE OF BOOKS -- BOOKS FOR SCHOLARS -- The humanist book / J.B. Trapp -- University libraries and book-sellers / Elisabeth Leedham-Green -- Text-books in the universities: the evidence from the books / Kristian Jensen -- Text-books: a case study -- PROFESSIONS -- The canon law / R.H. Helmholz -- The civil law / Alain Wijffels -- The books of the common law / J.H. Baker -- Medicine and science / Peter Murray Jones -- THE LAY READER -- Schools and school-books / Nicholas Orme -- Practical books for the gentleman / George R. Keiser -- Devotional literature / Mary C. Erler -- Gentlewomen's reading / Carol M. Meale and Julia Boffey -- Music / John Milsom -- Literary texts / Julia Boffey and A.S.G. Edwards -- Press, politics and religion / Pamela Neville-Sington.", "v. 2. 1100-1400 / edited by Nigel J. Morgan and Rodney M. Thomson -- v. 3. 1400-1557 / edited by Lotte Hellinga and J.B. Trapp -- v. 4. 1557-1695 / edited by John Barnard and D.F. McKenzie, with the assistance of Maureen Bell -- v. 5. 1695-1830 / edited by Michael F. Suarez and Michael L. Turner -- v. 6. 1830-1914 / edited by David McKitterick." ],
+        "genre" : [ "History" ],
+        "place" : [ "Cambridge, UK ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859790" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188381107871" ],
+        "recordid" : [ "alma9997188381107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)316278346" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Hellinga", "Trapp" ],
+        "aufirst" : [ "Lotte.", "J. B." ],
+        "auinit" : [ "L", "J" ],
+        "addau" : [ "Hellinga, Lotte.", "Trapp, J. B. (Joseph Burney)" ],
+        "contributorfull" : [ "$$NHellinga, Lotte.$$LHellinga$$FLotte.$$Rcontributor", "$$NTrapp, J. B. (Joseph Burney)$$Rcontributor" ],
+        "date" : [ "1999" ],
+        "isbn" : [ "1139053647", "9781139053648" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "This volume of The Cambridge History of the Book in Britain presents an overview of the century-and-a-half between the death of Chaucer in 1400 and the incorporation of the Stationers' Company in 1557. The profound changes during that time in social, political and religious conditions are reflected in the dissemination and reception of the written word. The manuscript culture of Chaucer's day was replaced by an ambience in which printed books would become the norm. The emphasis in this collection of essays is on the demand and use of books. Patterns of ownership are identified as well as patterns of where, why and how books were written, printed, bound, acquired, read and passed from hand to hand. The book trade receives special attention, with emphasis on the large part played by imports and on links with printers in other countries, which were decisive for the development of printing and publishing in Britain." ],
+        "cop" : [ "Cambridge, UK ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)316278346" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the book in Britain. Vol. 3, 1400-1557" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the book in Britain. Vol. 3, 1400-1557 /" ],
+        "author" : [ "Hellinga, Lotte." ],
+        "creationdate" : [ "1999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781139053648,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z 8 g7",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "24",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "66",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "17",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "23",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "46",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "233",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 34,
-    "COMBINED_SEARCH_TIME" : 36,
+    "BUILD_COMBINED_RESULTS_MAP" : 269,
+    "COMBINED_SEARCH_TIME" : 272,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1999",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "400 1600",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books Great Britain History 1450 1600",
+      "count" : "1"
+    }, {
+      "value" : "Books Great Britain History 400 1450",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Livres Grande Bretagne Histoire 1450 1600",
+      "count" : "1"
+    }, {
+      "value" : "Livres Grande Bretagne Histoire 400 1450",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Hellinga Lotte",
+      "count" : "1"
+    }, {
+      "value" : "Trapp J B",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

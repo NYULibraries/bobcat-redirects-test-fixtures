@@ -1,22 +1,197 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996677878807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Unlocking Nature-Smart Development An Approach Paper on Biodiversity and Ecosystem Services." ],
+        "subject" : [ "Biodiversity", "Climate Change", "Climate Change and Environment", "Ecosystems and Natural Habitats", "Environment", "Sustainable Land Management", "Water Resources Management" ],
+        "format" : [ "1 Online-Ressource." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1273345763" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Weltbankgruppe$$QWeltbankgruppe" ],
+        "publisher" : [ "Washington, D.C The World Bank" ],
+        "description" : [ "Unlocking Nature-Smart Development: An Approach Paper on Biodiversity and Ecosystem Services is part of a series of papers by the World Bank Group that outlines the development challenges and opportunities associated with blue and green biodiversity and ecosystem services. The paper makes the case that the rapid global decline in nature is a development issue and proposes six global response areas intended to guide governments and inform broader discussions on how to integrate nature into development agendas. As countries formulate a set of new global biodiversity targets, this paper also offers insights that could inform the design and implementation of the post-2020 global biodiversity framework, as well as the World Bank Group's ongoing support to this agenda." ],
+        "mms" : [ "9996677878807871" ],
+        "series" : [ "Other Environmental Study$$QOther Environmental Study" ],
+        "place" : [ "Washington, D.C" ],
+        "version" : [ "0" ],
+        "lds52" : [ "worbkall", "aleph006600212" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996677878807871" ],
+        "recordid" : [ "alma9996677878807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1273345763" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "Weltbankgruppe" ],
+        "date" : [ "2021" ],
+        "abstract" : [ "Unlocking Nature-Smart Development: An Approach Paper on Biodiversity and Ecosystem Services is part of a series of papers by the World Bank Group that outlines the development challenges and opportunities associated with blue and green biodiversity and ecosystem services. The paper makes the case that the rapid global decline in nature is a development issue and proposes six global response areas intended to guide governments and inform broader discussions on how to integrate nature into development agendas. As countries formulate a set of new global biodiversity targets, this paper also offers insights that could inform the design and implementation of the post-2020 global biodiversity framework, as well as the World Bank Group's ongoing support to this agenda." ],
+        "cop" : [ "Washington, D.C" ],
+        "pub" : [ "The World Bank" ],
+        "oclcid" : [ "(ocolc)1273345763" ],
+        "doi" : [ "10.1596/36047" ],
+        "seriestitle" : [ "Other Environmental Study" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Unlocking Nature-Smart Development An Approach Paper on Biodiversity and Ecosystem Services." ]
+      },
+      "sort" : {
+        "title" : [ "Unlocking Nature-Smart Development An Approach Paper on Biodiversity and Ecosystem Services." ],
+        "author" : [ "Weltbankgruppe" ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1273345763,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "21",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "26",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "37",
+    "CALL_SOLR_GET_IDS_LIST" : "57",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "22",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "63",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "235",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 29,
-    "COMBINED_SEARCH_TIME" : 31,
+    "BUILD_COMBINED_RESULTS_MAP" : 258,
+    "COMBINED_SEARCH_TIME" : 259,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Biodiversity",
+      "count" : "1"
+    }, {
+      "value" : "Climate Change",
+      "count" : "1"
+    }, {
+      "value" : "Climate Change And Environment",
+      "count" : "1"
+    }, {
+      "value" : "Ecosystems And Natural Habitats",
+      "count" : "1"
+    }, {
+      "value" : "Environment",
+      "count" : "1"
+    }, {
+      "value" : "Sustainable Land Management",
+      "count" : "1"
+    }, {
+      "value" : "Water Resources Management",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Weltbankgruppe",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

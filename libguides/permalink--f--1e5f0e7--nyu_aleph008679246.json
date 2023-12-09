@@ -1,22 +1,241 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996724596607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "How to bend the cost curve in health care " ],
+        "subject" : [ "diagnosis", "specialty (medicine)", "health policy", "prostate cancer", "medical policy", "doctor", "further education", "health", "specialist", "school", "health treatment", "health sciences", "primary care physician", "government health care", "cancer", "medical care, cost of", "health care costs", "education", "medicine", "nursing", "breast", "clinical medicine", "health care", "healthcare policy", "physician", "pay for performance", "unnecessary care", "us medicare", "secondary prevention", "fee-for-service", "therapy" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Montréal, Québec : Institute for Research on Public Policy." ],
+        "description" : [ "Whatever money is saved through short-term restraint will be lost in panicked spending down the road. That's been the lesson of the past 20 years. The challenge is to bend the cost curve permanently while making the system perform better. What health value do we achieve for what we spend? Improving value for money will require governments, organizations and practitioners to leave their comfort zone of conventional practice." ],
+        "mms" : [ "9996724596607871" ],
+        "contributor" : [ "Lewis, Steven$$QLewis, Steven", "Sullivan, Terrence$$QSullivan, Terrence", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VBooks & Documents CANA_ALL$$QBooks & Documents", "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "place" : [ "Montréal, Québec] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008679246" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996724596607871" ],
+        "recordid" : [ "alma9996724596607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)31476fc8449a0e15" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Lewis, Steven", "Sullivan, Terrence" ],
+        "contributorfull" : [ "$$NLewis, Steven$$Rcontributor", "$$NSullivan, Terrence$$Rcontributor" ],
+        "date" : [ "2013" ],
+        "abstract" : [ "Whatever money is saved through short-term restraint will be lost in panicked spending down the road. That's been the lesson of the past 20 years. The challenge is to bend the cost curve permanently while making the system perform better. What health value do we achieve for what we spend? Improving value for money will require governments, organizations and practitioners to leave their comfort zone of conventional practice." ],
+        "cop" : [ "Montréal, Québec" ],
+        "pub" : [ "Institute for Research on Public Policy." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/sz0f2v" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "How to bend the cost curve in health care" ]
+      },
+      "sort" : {
+        "title" : [ "How to bend the cost curve in health care /," ],
+        "author" : [ "Lewis, Steven" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "59",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "64",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 66,
-    "COMBINED_SEARCH_TIME" : 69,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "61",
+    "CALL_SOLR_GET_IDS_LIST" : "109",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "8",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "53",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "270",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 298,
+    "COMBINED_SEARCH_TIME" : 300,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Breast",
+      "count" : "1"
+    }, {
+      "value" : "Cancer",
+      "count" : "1"
+    }, {
+      "value" : "Clinical Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Diagnosis",
+      "count" : "1"
+    }, {
+      "value" : "Doctor",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Fee For Service",
+      "count" : "1"
+    }, {
+      "value" : "Further Education",
+      "count" : "1"
+    }, {
+      "value" : "Government Health Care",
+      "count" : "1"
+    }, {
+      "value" : "Health",
+      "count" : "1"
+    }, {
+      "value" : "Health Care",
+      "count" : "1"
+    }, {
+      "value" : "Health Care Costs",
+      "count" : "1"
+    }, {
+      "value" : "Health Policy",
+      "count" : "1"
+    }, {
+      "value" : "Health Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Health Treatment",
+      "count" : "1"
+    }, {
+      "value" : "Healthcare Policy",
+      "count" : "1"
+    }, {
+      "value" : "Medical Care Cost Of",
+      "count" : "1"
+    }, {
+      "value" : "Medical Policy",
+      "count" : "1"
+    }, {
+      "value" : "Medicine",
+      "count" : "1"
+    }, {
+      "value" : "Nursing",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Lewis Steven",
+      "count" : "1"
+    }, {
+      "value" : "Sullivan Terrence",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,22 +1,209 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996723610007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Incode Report" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "United States of America : Mission, Texas." ],
+        "description" : [ "2,659.35CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167091 GARCIA ERNESTO 135.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167092 GARCIA MATTHEW 124.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167093 GARCIA RAMIRO 108.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167094 GARCIA RICARDO 54.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167095 GARCIA, DEBRA 40.00CR CLEARED A 5/04/2015 10000 4/. [...] 6.57CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167186 STANDARD PURIFICATION 9,042.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167187 STAPLES ADVANTAGE 369.69CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167188 STATE COMPTROLLER 2,919.60CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167189 SUNTEX MECHANICAL CONTRACTORS, 150.50CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167190 TEEX-ITSI 375.00CR. [...] 52,092.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167392 ANDREWS MEAGAN RENEE 68.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167393 ANSWERONE 184.59CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167394 AT&T 3,174.32CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167395 AT&T GLOBAL SERVICES 329.54CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167396 AT&T LONG DISTANCE 198.89CR CLEARED A 5/04/2015 1. [...] 2,167.77CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167442 EL PATIO RESTAURANT 126.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167443 EMERALD BEACH HOTEL 626.75CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167444 EMMSA CO 338.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167445 ENVIROTECH CARRIERS, INC 41.50CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167446 ESCOBEDO DAVID 160.00CR CLEARED A 6. [...] 124.83CR CLEARED A 6/02/2015 10000 4/23/2015 CHECK 167465 GEXA ENERGY, LP 233,411.42CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167466 VOID CHECK 0.00 CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167467 GLAZERS DISTRIBUTORS OF TEXAS, 191.11CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167468 GLOVE WORLD 199.60CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167469 GOBA PRINTING 50.00CR CLEARED A 5/04/201." ],
+        "mms" : [ "9996723610007871" ],
+        "contributor" : [ "angiev$$Qangiev", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007539823" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996723610007871" ],
+        "recordid" : [ "alma9996723610007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)2c96c12dfbd1f809" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "angiev" ],
+        "contributorfull" : [ "$$Nangiev$$Rcontributor" ],
+        "date" : [ "2015" ],
+        "abstract" : [ "2,659.35CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167091 GARCIA ERNESTO 135.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167092 GARCIA MATTHEW 124.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167093 GARCIA RAMIRO 108.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167094 GARCIA RICARDO 54.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167095 GARCIA, DEBRA 40.00CR CLEARED A 5/04/2015 10000 4/. [...] 6.57CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167186 STANDARD PURIFICATION 9,042.00CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167187 STAPLES ADVANTAGE 369.69CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167188 STATE COMPTROLLER 2,919.60CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167189 SUNTEX MECHANICAL CONTRACTORS, 150.50CR CLEARED A 5/04/2015 10000 4/09/2015 CHECK 167190 TEEX-ITSI 375.00CR. [...] 52,092.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167392 ANDREWS MEAGAN RENEE 68.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167393 ANSWERONE 184.59CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167394 AT&T 3,174.32CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167395 AT&T GLOBAL SERVICES 329.54CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167396 AT&T LONG DISTANCE 198.89CR CLEARED A 5/04/2015 1. [...] 2,167.77CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167442 EL PATIO RESTAURANT 126.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167443 EMERALD BEACH HOTEL 626.75CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167444 EMMSA CO 338.00CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167445 ENVIROTECH CARRIERS, INC 41.50CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167446 ESCOBEDO DAVID 160.00CR CLEARED A 6. [...] 124.83CR CLEARED A 6/02/2015 10000 4/23/2015 CHECK 167465 GEXA ENERGY, LP 233,411.42CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167466 VOID CHECK 0.00 CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167467 GLAZERS DISTRIBUTORS OF TEXAS, 191.11CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167468 GLOVE WORLD 199.60CR CLEARED A 5/04/2015 10000 4/23/2015 CHECK 167469 GOBA PRINTING 50.00CR CLEARED A 5/04/201." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Mission, Texas." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/5jkk6d" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Incode Report" ]
+      },
+      "sort" : {
+        "title" : [ "Incode Report," ],
+        "author" : [ "angiev" ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996723610007871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996723610007871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996723610007871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "27",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 33,
-    "COMBINED_SEARCH_TIME" : 36,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "89",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "47",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "23",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "97",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "331",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 355,
+    "COMBINED_SEARCH_TIME" : 358,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Angiev",
+      "count" : "1"
+    }, {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

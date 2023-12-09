@@ -1,22 +1,181 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996727827507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Social Security, Raising the Retirement Age Background and Issues " ],
+        "subject" : [ "labor", "labor conditions, wages, salaries, and benefits" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2002" ],
+        "publisher" : [ "Library of Congress. Congressional Research Service." ],
+        "description" : [ "The Social Security \"full retirement age\" -- the age at which retired workers, aged spouses, or surviving aged spouses receive benefits that are not reduced for \"early\" retirement -- will gradually rise from 65 to 67 beginning with people who attain age 62 in 2000 (i.e., those born in 1938). Early retirement benefits will still be available beginning at age 62 (age 60 for aged widows and widowers), but at lower levels. To help solve Social Security's long-range financing problems, it has been proposed that these ages be raised further. Bills introduced in the last five Congresses would, among other things, accelerate the phase-in of the increase in the full retirement age to 67, raise the early retirement age to 65 or 67, and raise the full retirement age to 69 or 70. This report will be updated to reflect any legislative developments." ],
+        "mms" : [ "9996727827507871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "Raising the Retirement Age Background and Issues" ],
+        "series" : [ "94-622$$Q94-622" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008679333" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996727827507871" ],
+        "recordid" : [ "alma9996727827507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)46883e2b83ff6b6d" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Raising the Retirement Age Background and Issues" ],
+        "date" : [ "2002" ],
+        "abstract" : [ "The Social Security \"full retirement age\" -- the age at which retired workers, aged spouses, or surviving aged spouses receive benefits that are not reduced for \"early\" retirement -- will gradually rise from 65 to 67 beginning with people who attain age 62 in 2000 (i.e., those born in 1938). Early retirement benefits will still be available beginning at age 62 (age 60 for aged widows and widowers), but at lower levels. To help solve Social Security's long-range financing problems, it has been proposed that these ages be raised further. Bills introduced in the last five Congresses would, among other things, accelerate the phase-in of the increase in the full retirement age to 67, raise the early retirement age to 65 or 67, and raise the full retirement age to 69 or 70. This report will be updated to reflect any legislative developments." ],
+        "pub" : [ "Library of Congress. Congressional Research Service." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/sv42z1" ],
+        "seriestitle" : [ "94-622" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Social Security, Raising the Retirement Age Background and Issues" ]
+      },
+      "sort" : {
+        "title" : [ "Social Security, Raising the Retirement Age Background and Issues /" ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "42",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "51",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "129",
+    "CALL_SOLR_GET_IDS_LIST" : "137",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "62",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "60",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "386",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 53,
-    "COMBINED_SEARCH_TIME" : 56,
+    "BUILD_COMBINED_RESULTS_MAP" : 413,
+    "COMBINED_SEARCH_TIME" : 416,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Labor",
+      "count" : "1"
+    }, {
+      "value" : "Labor Conditions Wages Salaries And Benefits",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

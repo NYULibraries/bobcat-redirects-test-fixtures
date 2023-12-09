@@ -1,22 +1,230 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997184044407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Key Modern Architects : 50 Short Histories of Modern Architecture " ],
+        "subject" : [ "Architecture, Modern -- 20th century", "Architecture, Modern -- 21st century", "Architects$$QArchitects -- Biography", "Architecture -- 20e siècle", "Architecture -- 21e siècle", "Architectes$$QArchitectes -- Biographies", "Individual architects & architectural firms", "History of architecture", "Architecture", "Architecture -- General", "Architecture -- History -- Modern (late 19th Century to 1945)", "Architecture -- Individual Architects & Firms -- General", "Architects", "Architecture, Modern", "1900-2099" ],
+        "format" : [ "1 online resource (312 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781474265065;$$CISBN$$V1474265065;$$CISBN$$V9781474265058;$$CISBN$$V1474265057;$$COCLC$$V(OCoLC)1031513204" ],
+        "creationdate" : [ "2018" ],
+        "creator" : [ "Higgott, Andrew, author.$$QHiggott, Andrew" ],
+        "publisher" : [ "London : Bloomsbury Visual Arts" ],
+        "description" : [ "\"Combining the clarity and accessibility of a textbook with in-depth reading and a critical approach, Key Modern Architects provides an invaluable resource for both the classroom and for independent study in architectural and art history\"-- Provided by publisher." ],
+        "mms" : [ "9997184044407871" ],
+        "contents" : [ "1.Louis Sullivan -- 2.Otto Wagner -- 3.Adolf Loos -- 4.Peter Behrens -- 5.Auguste Perret -- 6.Frank Lloyd Wright -- 7.Antonio Sant'Elia/Futurism -- 8.Bruno Taut -- 9.Erich Mendelsohn -- 10.Walter Gropius -- 11.Theo Van Doesburg and De Stijl -- 12.El Lissitzky/Constructivism -- 13.Konstantin Melnikov -- 14.Hannes Meyer -- 15.Laszlo Moholy-Nagy -- 16.Grete Schutte-Lihotzky -- 17.Rudolph Schindler -- 18.Le Corbusier -- 19.Mies van der Rohe -- 20.Hans Scharoun -- 21.Eileen Gray -- 22.Gunnar Asplund -- 23.Alvar Aalto -- 24.Oscar Niemeyer -- 25.Buckminster Fuller -- 26.Charles and Ray Eames -- 27.Louis Kahn -- 28.Aldo Van Eyck -- 29.Alison and Peter Smithson -- 30.Kenzo Tange -- 31.Lina Bo Bardi -- 32.Carlo Scarpa -- 33.James Stirling -- 34.Archigram -- 35.Cedric Price -- 36.Robert Venturi and Denise Scott Brown -- 37.Aldo Rossi -- 38.Geoffrey Bawa -- 39.Balkrishna Doshi -- 40.Richard Meier -- 41.Norman Foster -- 42.Alvaro Siza -- 43.Rem Koolhaas/OMA -- 44.Daniel Libeskind -- 45.Frank Gehry -- 46.Zaha Hadid -- 47.Tadao Ando -- 48.Herzog and De Meuron -- 49.Peter Zumthor -- 50.Kengo Kuma." ],
+        "genre" : [ "Biography", "Biographies" ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomarc", "bloomsco", "ebceb", "aleph008870095" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997184044407871" ],
+        "recordid" : [ "alma9997184044407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1031513204" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967245E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Higgott" ],
+        "aufirst" : [ "Andrew" ],
+        "auinit" : [ "A" ],
+        "au" : [ "Higgott, Andrew" ],
+        "creatorfull" : [ "$$NHiggott, Andrew$$LHiggott$$FAndrew$$Rauthor" ],
+        "date" : [ "2018" ],
+        "isbn" : [ "9781474265065", "1474265065", "9781474265058", "1474265057" ],
+        "abstract" : [ "\"Combining the clarity and accessibility of a textbook with in-depth reading and a critical approach, Key Modern Architects provides an invaluable resource for both the classroom and for independent study in architectural and art history\"-- Provided by publisher." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Visual Arts" ],
+        "oclcid" : [ "(ocolc)1031513204" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Key Modern Architects : 50 Short Histories of Modern Architecture" ]
+      },
+      "sort" : {
+        "title" : [ "Key Modern Architects : 50 Short Histories of Modern Architecture /" ],
+        "author" : [ "Higgott, Andrew, author." ],
+        "creationdate" : [ "2018" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1474265065,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na\"680ǂ h425 2018eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "23",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "27",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "120",
+    "CALL_SOLR_GET_IDS_LIST" : "92",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "82",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "146",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "402",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 29,
-    "COMBINED_SEARCH_TIME" : 32,
+    "BUILD_COMBINED_RESULTS_MAP" : 429,
+    "COMBINED_SEARCH_TIME" : 432,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1900 2099",
+      "count" : "1"
+    }, {
+      "value" : "Architectes Biographies",
+      "count" : "1"
+    }, {
+      "value" : "Architects",
+      "count" : "1"
+    }, {
+      "value" : "Architects Biography",
+      "count" : "1"
+    }, {
+      "value" : "Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Architecture 20e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Architecture 21e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Architecture General",
+      "count" : "1"
+    }, {
+      "value" : "Architecture History Modern Late 19th Century To 1945",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Individual Architects Firms General",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Modern",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Modern 20th Century",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Modern 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "History Of Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Individual Architects Architectural Firms",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Higgott Andrew",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

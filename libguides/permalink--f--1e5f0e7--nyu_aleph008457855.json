@@ -1,22 +1,161 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996753869907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Regional Integration of Higher Education in SADC" ],
+        "format" : [ "1 online resource", "text file" ],
+        "publisher" : [ "Windhoek, Namibia : Namibian Economic Policy Research Unit." ],
+        "description" : [ "The virtualisation of higher education in form of internet or satellite supported learning as well as the unlimited communication and information potentials that were created by the development of the new information and communication technologies, contribute to the emergence of a global market for higher education and research and to the globalisation of higher education. [...] Methodology The methods used to approach the topic of regional integration of higher education and research in SADC mainly consisted in an internet research and in the analysis of higher education research literature (in particular on the globalisation and internationalisation of higher education) as well as policy papers, other official documents and ‘grey literature’ (e.g. [...] The Scenario of an asymmetric regional integration pattern At the moment there is one major pattern evolving in the regional integration of the higher education sector, which indicates a limited and asymmetric regional integration of the SADC sector of higher education and research. [...] The stronger linkage of the regional integration of higher education and research into the African Association of Universities activities and the sharing of experiences with the Europeanisation processes on the sector could enhance progresses in the implementation of the SADC Protocol on Education and Training. [...] Major impeding factors for an effective implementation of the Articles 7 and 8 are the heterogeneity and fragmentation of the higher education systems, the inconsistency of policies, the lack of sector coordination and integration instruments, the lack of ownership, the lack of data and information as well as a the lack of concreteness and operationalisation." ],
+        "mms" : [ "9996753869907871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "place" : [ "Windhoek, Namibia] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008457855" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996753869907871" ],
+        "recordid" : [ "alma9996753869907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)e921851e1b62840f" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "abstract" : [ "The virtualisation of higher education in form of internet or satellite supported learning as well as the unlimited communication and information potentials that were created by the development of the new information and communication technologies, contribute to the emergence of a global market for higher education and research and to the globalisation of higher education. [...] Methodology The methods used to approach the topic of regional integration of higher education and research in SADC mainly consisted in an internet research and in the analysis of higher education research literature (in particular on the globalisation and internationalisation of higher education) as well as policy papers, other official documents and ‘grey literature’ (e.g. [...] The Scenario of an asymmetric regional integration pattern At the moment there is one major pattern evolving in the regional integration of the higher education sector, which indicates a limited and asymmetric regional integration of the SADC sector of higher education and research. [...] The stronger linkage of the regional integration of higher education and research into the African Association of Universities activities and the sharing of experiences with the Europeanisation processes on the sector could enhance progresses in the implementation of the SADC Protocol on Education and Training. [...] Major impeding factors for an effective implementation of the Articles 7 and 8 are the heterogeneity and fragmentation of the higher education systems, the inconsistency of policies, the lack of sector coordination and integration instruments, the lack of ownership, the lack of data and information as well as a the lack of concreteness and operationalisation." ],
+        "cop" : [ "Windhoek, Namibia" ],
+        "pub" : [ "Namibian Economic Policy Research Unit." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/g4x91z" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Regional Integration of Higher Education in SADC" ]
+      },
+      "sort" : {
+        "title" : [ "Regional Integration of Higher Education in SADC," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "0000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "20",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "25",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 26,
-    "COMBINED_SEARCH_TIME" : 30,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "94",
+    "CALL_SOLR_GET_IDS_LIST" : "69",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "41",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "31",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "55",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "38",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "43",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "261",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 297,
+    "COMBINED_SEARCH_TIME" : 301,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

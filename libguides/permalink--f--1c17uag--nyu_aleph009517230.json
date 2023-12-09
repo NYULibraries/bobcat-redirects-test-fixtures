@@ -1,22 +1,250 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996677866507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "An Afro-Indigenous history of the United States " ],
+        "subject" : [ "African Americans -- Relations with Indians -- History", "African Americans -- Race identity -- History", "Indians of North America -- Mixed descent -- History", "Indians of North America -- Ethnic identity -- History", "Racism against Black people -- United States -- History", "Racism against Indigenous peoples -- United States -- History", "Settler colonialism -- United States -- History", "United States -- Race relations", "United States -- History", "United States -- Historiography", "Noirs américains -- Relations avec les Peuples autochtones", "Noirs américains -- Identité ethnique", "États-Unis -- Relations raciales", "États-Unis -- Histoire", "Noirs américains -- Relations avec les Peuples autochtones -- Histoire", "Noirs américains -- Identité ethnique -- Histoire", "Racisme à l'égard des personnes noires -- États-Unis -- Histoire", "Racisme à l'égard des autochtones -- États-Unis -- Histoire", "Colonialisme de peuplement -- États-Unis -- Histoire", "African Americans -- Race identity", "African Americans -- Relations with Indians", "Indians of North America -- Ethnic identity", "Indians of North America -- Mixed descent", "Race relations", "United States", "African Americans Relations with Indigenous peoples North America" ],
+        "format" : [ "1 online resource (xxv, 240 pages, 8 unnumbered pages of plates) : illustrations" ],
+        "identifier" : [ "$$CLC$$V2021020881;$$CISBN$$V9780807011713;$$CISBN$$V0807011711;$$COCLC$$V(OCoLC)1251737791;$$CISBN$$V9780807011683" ],
+        "creationdate" : [ "2021" ],
+        "creator" : [ "Mays, Kyle T., 1987- author.$$QMays, Kyle T." ],
+        "publisher" : [ "Boston, Massachusetts : Beacon Press" ],
+        "description" : [ "\"The first intersectional history of the Black and Native American struggle for freedom in our country that also reframes our understanding of who was Indigenous in early America Beginning with pre-Revolutionary America and moving into the movement for Black lives and contemporary Indigenous activism, Afro-Indigenous historian Kyle T. Mays argues that the foundations of the US are rooted in antiblackness and settler colonialism, and that these parallel oppressions continue into the present. He explores how Black and Indigenous peoples have always resisted and struggled for freedom, sometimes together, and sometimes apart. Whether to end African enslavement and Indigenous removal or eradicate capitalism and colonialism, Mays show how the fervor of Black and Indigenous peoples calls for justice have consistently sought to uproot white supremacy. Mays uses a wide-array of historical activists and pop culture icons, 'sacred' texts, and foundational texts like the Declaration of Independence and Democracy in America. He covers the civil rights movement and freedom struggles of the 1960s and 1970s, and explores current debates around the use of Native American imagery and the cultural appropriation of Black culture. Mays compels us to rethink both our history as well as contemporary debates and to imagine the powerful possibilities of Afro-Indigenous solidarity. Includes an 8-page photo insert featuring Kwame Ture with Dennis Banks and Russell Means at the Wounded Knee Trials; Angela Davis walking with Oren Lyons after he leaves Wounded Knee, SD; former South African president Nelson Mandela with Clyde Bellecourt; and more.\" -- Provided by publisher." ],
+        "mms" : [ "9996677866507871" ],
+        "series" : [ "Revisioning American history$$QRevisioning American history", "Revisioning American history.$$QRevisioning American history." ],
+        "contents" : [ "Afro-indigenous history -- Indigenous Africans and Native Americans in prerevolutionary America -- Antiblackness, settler colonialism, and the US democratic project -- Enslavement, dispossession, resistance -- Black and indigenous (inter)nationalisms during the Progressive Era -- Black Americans and Native Americans in the Civil Rights imagination -- Black Power and Red Power, freedom and sovereignty -- Black and indigenous popular cultures in the public sphere -- The matter of Black and Indigenous lives, policing, and justice -- The possibilities for Afro-Indigenous futures -- Sovereignty and citizenship: The case of the five tribes and the freedmen." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Mays, Kyle. Afro-Indigenous history of the United States Boston : Beacon Press, [2021]$$QAfro-Indigenous history of the United States" ],
+        "place" : [ "Boston, Massachusetts :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph009517230" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996677866507871" ],
+        "recordid" : [ "alma9996677866507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1251737791" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Mays" ],
+        "aufirst" : [ "Kyle T." ],
+        "auinit" : [ "K" ],
+        "au" : [ "Mays, Kyle T." ],
+        "creatorfull" : [ "$$NMays, Kyle T.$$LMays$$FKyle T.$$Rauthor" ],
+        "date" : [ "2021" ],
+        "isbn" : [ "9780807011713", "0807011711", "9780807011683" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The first intersectional history of the Black and Native American struggle for freedom in our country that also reframes our understanding of who was Indigenous in early America Beginning with pre-Revolutionary America and moving into the movement for Black lives and contemporary Indigenous activism, Afro-Indigenous historian Kyle T. Mays argues that the foundations of the US are rooted in antiblackness and settler colonialism, and that these parallel oppressions continue into the present. He explores how Black and Indigenous peoples have always resisted and struggled for freedom, sometimes together, and sometimes apart. Whether to end African enslavement and Indigenous removal or eradicate capitalism and colonialism, Mays show how the fervor of Black and Indigenous peoples calls for justice have consistently sought to uproot white supremacy. Mays uses a wide-array of historical activists and pop culture icons, 'sacred' texts, and foundational texts like the Declaration of Independence and Democracy in America. He covers the civil rights movement and freedom struggles of the 1960s and 1970s, and explores current debates around the use of Native American imagery and the cultural appropriation of Black culture. Mays compels us to rethink both our history as well as contemporary debates and to imagine the powerful possibilities of Afro-Indigenous solidarity. Includes an 8-page photo insert featuring Kwame Ture with Dennis Banks and Russell Means at the Wounded Knee Trials; Angela Davis walking with Oren Lyons after he leaves Wounded Knee, SD; former South African president Nelson Mandela with Clyde Bellecourt; and more.\" -- Provided by publisher." ],
+        "cop" : [ "Boston, Massachusetts" ],
+        "pub" : [ "Beacon Press" ],
+        "oclcid" : [ "(ocolc)1251737791" ],
+        "lccn" : [ "2021020881" ],
+        "seriestitle" : [ "Revisioning American history" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "An Afro-Indigenous history of the United States" ]
+      },
+      "sort" : {
+        "title" : [ "Afro-Indigenous history of the United States /" ],
+        "author" : [ "Mays, Kyle T., 1987- author." ],
+        "creationdate" : [ "2021" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0807011711,OCLC:,LCCN:2021020881&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e!98 r28ǂm39 2021",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "76",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "84",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "79",
+    "CALL_SOLR_GET_IDS_LIST" : "111",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "16",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "5",
+    "RETRIVE_FROM_DB_RECORDS" : "53",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "60",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "296",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 87,
-    "COMBINED_SEARCH_TIME" : 89,
+    "BUILD_COMBINED_RESULTS_MAP" : 340,
+    "COMBINED_SEARCH_TIME" : 343,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2021",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "African Americans Race Identity",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Race Identity History",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Relations With Indians",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Relations With Indians History",
+      "count" : "1"
+    }, {
+      "value" : "African Americans Relations With Indigenous Peoples North America",
+      "count" : "1"
+    }, {
+      "value" : "Colonialisme De Peuplement États Unis Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America Ethnic Identity",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America Ethnic Identity History",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America Mixed Descent",
+      "count" : "1"
+    }, {
+      "value" : "Indians Of North America Mixed Descent History",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Identité Ethnique",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Identité Ethnique Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Relations Avec Les Peuples Autochtones",
+      "count" : "1"
+    }, {
+      "value" : "Noirs Américains Relations Avec Les Peuples Autochtones Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Racism Against Black People United States History",
+      "count" : "1"
+    }, {
+      "value" : "Racism Against Indigenous Peoples United States History",
+      "count" : "1"
+    }, {
+      "value" : "Racisme À Légard Des Autochtones États Unis Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Racisme À Légard Des Personnes Noires États Unis Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Settler Colonialism United States History",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Mays Kyle T",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

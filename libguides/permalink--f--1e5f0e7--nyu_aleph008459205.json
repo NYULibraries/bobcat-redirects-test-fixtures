@@ -1,22 +1,161 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996720966307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "PROPOSITION 76’S NEW SPENDING CAP COULD REQUIRE SUBSTANTIAL SPENDING CUTS - G - budget brief JUNE 2005" ],
+        "format" : [ "1 online resource", "text file" ],
+        "publisher" : [ "United States of America : California Budget Project." ],
+        "description" : [ "In the event the state spends less than the allowable amount in any year, that lower level of actual expenditures would become the base for calculating the spending cap for the next fiscal year. [...] How Might Proposition 76 Affect State Spending Over Time? Proponents argue that the new cap is designed to “smooth” state spending by limiting the growth in spending to the average change in state revenues for the three prior years. [...] In years when available revenues, plus any amounts available in the Budget Stabilization Account (BSA), are below the spending cap, subsequent years’ caps would be based on the lower amount available during the downturn.5 While Proposition 76 would allow taxes to be increased and the resulting revenues to be spent up to the maximum allowed under the spending cap, the two-thirds vote requirement fo. [...] In years when allowable spending exceeded actual spending, the CBP assumed that the hypothetical spending level equaled actual spending, plus any available balance in the Budget Stabilization Account up to the level allowed by the spending cap. [...] 6 Amounts in the reserve could only be spent for the purposes for which the funds were originally intended in years when total spending was below the level allowed by the spending cap." ],
+        "mms" : [ "9996720966307871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008459205" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996720966307871" ],
+        "recordid" : [ "alma9996720966307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)1a9e1c8d211b84a6" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "abstract" : [ "In the event the state spends less than the allowable amount in any year, that lower level of actual expenditures would become the base for calculating the spending cap for the next fiscal year. [...] How Might Proposition 76 Affect State Spending Over Time? Proponents argue that the new cap is designed to “smooth” state spending by limiting the growth in spending to the average change in state revenues for the three prior years. [...] In years when available revenues, plus any amounts available in the Budget Stabilization Account (BSA), are below the spending cap, subsequent years’ caps would be based on the lower amount available during the downturn.5 While Proposition 76 would allow taxes to be increased and the resulting revenues to be spent up to the maximum allowed under the spending cap, the two-thirds vote requirement fo. [...] In years when allowable spending exceeded actual spending, the CBP assumed that the hypothetical spending level equaled actual spending, plus any available balance in the Budget Stabilization Account up to the level allowed by the spending cap. [...] 6 Amounts in the reserve could only be spent for the purposes for which the funds were originally intended in years when total spending was below the level allowed by the spending cap." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "California Budget Project." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/gn8gw1" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "PROPOSITION 76’S NEW SPENDING CAP COULD REQUIRE SUBSTANTIAL SPENDING CUTS - G - budget brief JUNE 2005" ]
+      },
+      "sort" : {
+        "title" : [ "PROPOSITION 76’S NEW SPENDING CAP COULD REQUIRE SUBSTANTIAL SPENDING CUTS - G - budget brief JUNE 2005," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "0000" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "36",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "48",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 55,
-    "COMBINED_SEARCH_TIME" : 58,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "83",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "57",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "33",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "5",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "58",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "298",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 325,
+    "COMBINED_SEARCH_TIME" : 328,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

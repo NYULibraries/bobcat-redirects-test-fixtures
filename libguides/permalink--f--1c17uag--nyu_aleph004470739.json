@@ -1,22 +1,224 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996705380407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ireland in the nineteenth century : a breviate of official publications " ],
+        "subject" : [ "Ireland -- History -- 19th century -- Sources$$QIreland -- History -- 19th century -- Sources -- Abstracts", "Government publications -- Great Britain$$QGovernment publications -- Great Britain -- Abstracts", "Ireland -- History -- 19th century$$QIreland -- History -- 19th century -- Sources Abstracts", "Publications officielles -- Grande-Bretagne$$QPublications officielles -- Grande-Bretagne -- Résumés analytiques", "Irlande -- Histoire -- 19e siècle$$QIrlande -- Histoire -- 19e siècle -- Sources Résumés analytiques", "Irlande -- Histoire -- 19e siècle -- Sources$$QIrlande -- Histoire -- 19e siècle -- Sources -- Résumés analytiques", "Government publications", "History -- Sources", "Great Britain", "Ireland", "1800-1899" ],
+        "format" : [ "1 online resource (xxix, 269 pages) : facsimiles" ],
+        "identifier" : [ "$$CISBN$$V9780080236889;$$CISBN$$V008023688X;$$CISBN$$V9781483145525;$$CISBN$$V1483145522;$$COCLC$$V(OCoLC)565629364" ],
+        "creationdate" : [ "1979" ],
+        "creator" : [ "Maltby, Arthur.$$QMaltby, Arthur." ],
+        "publisher" : [ "Oxford ; New York : Pergamon Press" ],
+        "description" : [ "Ireland in the Nineteenth Century: A Breviate of Official Publications offers information on the compilation of documents regarding Ireland from the 1-000 Act of Union until the 1970's, covering subjects such as education, agriculture, poverty, finance, health, and transport. The book first focuses on government documents, including the Act of Union, parliamentary privilege, peerage, public offices and public works, local government areas, and grand jury presentments. The text also looks at documents in finance, ownership and valuation of land, agriculture, and poverty and health measures. Top." ],
+        "mms" : [ "9996705380407871" ],
+        "contributor" : [ "Maltby, Jean, author.$$QMaltby, Jean" ],
+        "edition" : [ "1st ed." ],
+        "series" : [ "Guide to official publications ; v. 4.$$QGuide to official publications ", "Guides to official publications ; v. 4$$QGuides to official publications " ],
+        "contents" : [ "Front Cover ; Ireland in the Nineteenth Century: A Breviate of Official Publications; Copyright Page; Dedication; Table of Contents; ACKNOWLEDGEMENTS; INTRODUCTION; ABBREVIATIONS; CLASS I. Government; ACT OF UNION; PARLIAMENTARY PRIVILEGE; PEERAGE; PUBLIC OFFICES; PUBLIC WORKS; GRAND JURY PRESENTMENTS; LOCAL GOVERNMENT AREAS; CLASS II. Finance; CURRENCY; ANNUITIES; INSOLVENCY; LOAN SOCIETIES; CLASS III. Ownership and Valuation of Land; SURVEY AND VALUATION OF IRELAND; REGISTRY OF DEEDS; LANDLORD AND TENANT; LAND LEGISLATION; CLASS IV. Agriculture; FISHERIES; POTATO CROP; LIVESTOCK; SUGAR BEET", "AGRICULTURAL DEPRESSIONDRAINAGE AND RECLAMATION OF WASTE AREAS; CLASS V. Poverty and Relief Measures; EMPLOYMENT OF THE POOR; UNIONS AND THEIR WORKHOUSES; THE IRISH IN BRITAIN; EMIGRATION; CLASS VI. Health and Living Conditions; CHARITABLE INSTITUTIONS; HOSPITALS; OUTBREAKS OF FEVER; LUNACY; FACTORY CONDITIONS; DUBLIN STREETS AND SEWERAGE; CLASS VII. Transport and Communications; ROADS; RAILWAYS; NAVIGATION; DERRY BRIDGE; SHANNON RIVER; SHIPPING; LIGHTHOUSES, BUOYS, BEACONS AND PIERS; PORTS AND HARBOURS; COMMUNICATIONS BETWEEN BRITAIN AND IRELAND; OVERSEAS COMMUNICATIONS", "CLASS VIII. Education and CultureTHE STATE OF EDUCATION; SCHOOLS; TEACHING OF IRISH; TEACHERS' PENSIONS; UNIVERSITY EDUCATION; TECHNICAL AND VOCATIONAL EDUCATION; SCIENCE, ART AND LEARNED INSTITUTIONS; CELTIC ORNAMENTS; CLASS IX. Ecclesiastical Matters; ROMAN CATHOLIC CHURCH; ESTABLISHED CHURCH; TITHES; CLASS X. Trade, Industry and Labour; CORN TRADE; DISTILLING INDUSTRY; ILLICIT DISTILLATION; DISTILLATION OF PEAT; ARIGNA MINING COMPANY; PAWNBROKING; LINEN INDUSTRY; WOOLLEN MANUFACTURE; BLEACHING INDUSTRY; HAND LOOM WEAVERS; AGRICULTURAL LABOURERS; EMPLOYMENT OF WOMEN; MIGRATORY LABOURERS", "CLASS XI. Legal AdministrationANCIENT LAWS; ELECTION LAWS; MAGISTRATES AND JURIES; SOLICITORS; SUNDAY CLOSING; FENIAN MOVEMENT; THE ORANGE ORDER; RIBBON MEN; PRISONS; POLICE; CLASS XII. Civil Commotion; STATE OF IRELAND; INVESTIGATIONS OF UNREST AND RIOTS; ELECTION EVENTS; APPENDIX; ANCIENT LAWS AND INSTITUTES; CHARITABLE DONATIONS AND BEQUESTS; CONGESTED DISTRICTS; DRAINAGE OF LANDS AND IMPROVEMENT OF NAVIGATION AND WATER POWER; EDUCATION; EMIGRATION; ESTABLISHED CHURCH; FISHERIES; FRIENDLY SOCIETIES; HOSPITALS; LANDLORD AND TENANT; LIGHTHOUSES; LOAN FUND BOARD; LUNATIC ASYLUMS; MARRIAGES", "NATIONAL GALLERYPOOR LAW; PRISONS AND GAOLS; PUBLIC ACCOUNTS; PUBLIC INCOME AND EXPENDITURE; PUBLIC RECORDS; PUBLIC WORKS; REVENUE COLLECTION; ROADS AND BRIDGES; SHANNON RIVER NAVIGATION; INDEX OF TOPICS" ],
+        "genre" : [ "Sources", "History", "Abstracts", "Résumés analytiques" ],
+        "relation" : [ "$$Cform$$VPrint version: Maltby, Arthur. Ireland in the nineteenth century. 1st ed. Oxford ; New York : Pergamon Press, 1979$$QIreland in the nineteenth century." ],
+        "mesh" : [ "Abstracts" ],
+        "place" : [ "Oxford ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph004470739" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996705380407871" ],
+        "recordid" : [ "alma9996705380407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)565629364" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Maltby" ],
+        "aufirst" : [ "Arthur." ],
+        "auinit" : [ "A" ],
+        "au" : [ "Maltby, Arthur." ],
+        "addau" : [ "Maltby, Jean" ],
+        "creatorfull" : [ "$$NMaltby, Arthur.$$LMaltby$$FArthur.$$Rauthor" ],
+        "contributorfull" : [ "$$NMaltby, Jean$$LMaltby$$FJean$$Rcontributor" ],
+        "date" : [ "1979" ],
+        "isbn" : [ "9780080236889", "008023688X", "9781483145525", "1483145522" ],
+        "abstract" : [ "Ireland in the Nineteenth Century: A Breviate of Official Publications offers information on the compilation of documents regarding Ireland from the 1-000 Act of Union until the 1970's, covering subjects such as education, agriculture, poverty, finance, health, and transport. The book first focuses on government documents, including the Act of Union, parliamentary privilege, peerage, public offices and public works, local government areas, and grand jury presentments. The text also looks at documents in finance, ownership and valuation of land, agriculture, and poverty and health measures. Top." ],
+        "cop" : [ "Oxford ;" ],
+        "pub" : [ "Pergamon Press" ],
+        "oclcid" : [ "(ocolc)565629364" ],
+        "edition" : [ "1st ed." ],
+        "seriestitle" : [ "Guides to official publications ; v. 4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ireland in the nineteenth century : a breviate of official publications" ]
+      },
+      "sort" : {
+        "title" : [ "Ireland in the nineteenth century : a breviate of official publications /" ],
+        "author" : [ "Maltby, Arthur." ],
+        "creationdate" : [ "1979" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:008023688X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z#2035",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "48",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "57",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "210",
+    "CALL_SOLR_GET_IDS_LIST" : "83",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "49",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "49",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "152",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "93",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "448",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 59,
-    "COMBINED_SEARCH_TIME" : 61,
+    "BUILD_COMBINED_RESULTS_MAP" : 492,
+    "COMBINED_SEARCH_TIME" : 496,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1979",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "1800 1899",
+      "count" : "1"
+    }, {
+      "value" : "Government Publications",
+      "count" : "1"
+    }, {
+      "value" : "Government Publications Great Britain Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Ireland",
+      "count" : "1"
+    }, {
+      "value" : "Ireland History 19th Century Sources Abstracts",
+      "count" : "1"
+    }, {
+      "value" : "Irlande Histoire 19e Siècle Sources Résumés Analytiques",
+      "count" : "1"
+    }, {
+      "value" : "Publications Officielles Grande Bretagne Résumés Analytiques",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Maltby Arthur",
+      "count" : "1"
+    }, {
+      "value" : "Maltby Jean",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

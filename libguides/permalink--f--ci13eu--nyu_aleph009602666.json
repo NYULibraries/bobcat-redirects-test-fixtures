@@ -1,22 +1,261 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995911564207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The evolution of horror in the twenty-first century " ],
+        "subject" : [ "Horror in mass media -- History -- 21st century", "Horror films -- History and criticism", "Horror television programs -- History and criticism", "Horror tales -- History and criticism", "Horreur dans les médias -- Histoire -- 21e siècle", "Films d'horreur -- Histoire et critique", "Émissions d'horreur télévisées -- Histoire et critique", "Récits d'horreur -- Histoire et critique", "Horror films", "Horror in mass media", "Horror tales", "Horror television programs", "2000-2099" ],
+        "format" : [ "1 online resource (xi, 328 pages) : illustrations (some color)." ],
+        "identifier" : [ "$$CLC$$V2022054417;$$CISBN$$V9781793643407;$$CISBN$$V1793643407;$$COCLC$$V(OCoLC)1370249091;$$CISBN$$V9781793643391" ],
+        "creationdate" : [ "2023" ],
+        "publisher" : [ "Lanham : Lexington Books" ],
+        "description" : [ "\"The Evolution of Horror in the Twenty-First Century explores the many aspects of the horror genre across thematics and media in the 2020s. Consisting of 21 chapters by experts in the field, this book examines how horror reveals the anxieties around our current cultural moment and how that might develop in the future\"-- Provided by publisher." ],
+        "mms" : [ "9995911564207871" ],
+        "contributor" : [ "Bacon, Simon, 1965- editor.$$QBacon, Simon" ],
+        "addtitle" : [ "Evolution of horror in the 21st century" ],
+        "series" : [ "Lexington Books horror studies$$QLexington Books horror studies", "Lexington Books horror studies.$$QLexington Books horror studies." ],
+        "contents" : [ "<P><a id=\"-Hlk115291357\"><span>Part I: Frameworks and Classics of 21st Century Horror</span></a></p><p></p><p><span>Chapter 1. Horror Theory Now: Thinking About Horror</span></p><p><span style=\"font-style:italic;\">Kevin Corstophine</span></p><p><span>Chapter 2. Decadent Feasts: Aesthetics, Ethics, and Twenty-First-Century Prestige Horror Television</span></p><p><span style=\"font-style:italic;\">Jeffrey Andrew Weinstock</span></p><p><span>Chapter 3. Horror Cinema and Censorship in the Twenty-first Century</span></p><p><span style=\"font-style:italic;\">Neil Jackson</span></p><p><span>CHAPTER 4. </span><span>The Recurrence and Evolution of Universal's Classic Monsters in Twenty-first Century Horror</span></p><p><span style=\"font-style:italic;\">M. Keith Booker</span><a id=\"-Hlk115291555\"></a></p><p><span>Chapter 5.</span><span style=\"font-style:italic;\"> </span><span>The Remixing (and Ransacking) of Hill House: Surveying the Spectral Presence of Shirley Jackson in Contemporary Gothic Fiction</span></p><p><span style=\"font-style:italic;\">Joan Passey</span></p><p></p><p><span>Part II: Media and Consumption</span></p><p></p><p><span>Chapter 6. Further Notes Towards a Monster Pedagogy</span></p><p><span>John Edgar Browning</span></p><p><span>Chapter 7. So</span><span>unding Horror: Ballads, Ring Shouts, and the Power of Music in Black Horror</span></p><p><span style=\"font-style:italic;\">Erik Steinskog</span></p><p><span>Chapter 8. The Evolution of Horror on Stage</span></p><p><span style=\"font-style:italic;\">Kevin J. Wetmore Jr.</span></p><p><span>Chapter 9. Hauntify the World: New Directions in Video Game Horror</span></p><p><span style=\"font-style:italic;\">Gwyneth Peaty</span></p><p><span>Chapter 10. The Evolution of Horror and New Media</span></p><p><span style=\"font-style:italic;\">Carlos Littles</span></p><p><span style=\"font-style:italic;\"> </span></p><p><span>Frontispiece to Part III</span></p><p><span>Mother [Figure 5]</span></p><p><span>Gemma Files</span></p><p></p><p><span>Part III: Recognition and Evolution</span></p><p></p><p><span>Chapter 11. The Future of Horror: Evolution or Revolution?</span></p><p><span style=\"font-style:italic;\">Carina Bissett</span></p><p><span>Chapter 12. Black Lives Matter Horror</span></p><p><span style=\"font-style:italic;\">Maisha Wester</span></p><p><span>Chapter 13. Indigenous Horror in the Twenty-First Century</span></p><p><span style=\"font-style:italic;\">Jacob Floyd</span></p><p><span>Chapter 14. \"Stepping out of the Closet\": The Evolution of Queer Representation and Tropes in Twenty-first Century Horror TV</span></p><p><span style=\"font-style:italic;\">Natasha C. Marchini</span></p><p><span>Chapter 15. Involution, Adaptation, Mutation: Horror's Disability Dynamics</span></p><p><span style=\"font-style:italic;\">Angela M. Smith</span></p><p><span>Chapter 16. Sympathy for the Candyman: The Politics of the Past in Supernatural Horror</span></p><p><span style=\"font-style:italic;\">Brandon Grafius</span></p><p></p><p><span>Part IV: Evolving Themes</span></p><p></p><p><span>Chapter 17. The Future Promise for Folk Horror</span></p><p><span style=\"font-style:italic;\">Mikel J. Koven</span></p><p><span>Chapter 18. The Rise in Ecohorror and Ecogothic Criticism</span></p><p><span style=\"font-style:italic;\">Teresa Fitzpatrick</span></p><p><span>Chapter 19. Undying Earth: Extinction Romances in the Age of Anthropocene</span></p><p><span style=\"font-style:italic;\">Ian Fetters</span></p><p><span>Chapter 20. Fear of Infection: Negotiating between Community and Isolation in Gothic Contagion Narratives</span></p><p><span style=\"font-style:italic;\">Laura R. Kremmel</span></p><p><span>Chapter 21. The Metal and the Flesh: Techno-liminalities, Bio-subversion, and the Enhanced Super-Body as a Horror Space</span></p><p><span style=\"font-style:italic;\">Lorna Piatti-Farnell</span></p>" ],
+        "genre" : [ "Criticism, interpretation, etc", "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Evolution of horror in the twenty-first century Lanham : Lexington Books, 2023$$QEvolution of horror in the twenty-first century" ],
+        "place" : [ "Lanham :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph009602666" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995911564207871" ],
+        "recordid" : [ "alma9995911564207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009602666-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bacon" ],
+        "aufirst" : [ "Simon" ],
+        "auinit" : [ "S" ],
+        "addau" : [ "Bacon, Simon" ],
+        "contributorfull" : [ "$$NBacon, Simon$$LBacon$$FSimon$$Reditor" ],
+        "addtitle" : [ "Evolution of horror in the 21st century" ],
+        "date" : [ "2023" ],
+        "isbn" : [ "9781793643407", "1793643407", "9781793643391" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The Evolution of Horror in the Twenty-First Century explores the many aspects of the horror genre across thematics and media in the 2020s. Consisting of 21 chapters by experts in the field, this book examines how horror reveals the anxieties around our current cultural moment and how that might develop in the future\"-- Provided by publisher." ],
+        "cop" : [ "Lanham" ],
+        "pub" : [ "Lexington Books" ],
+        "oclcid" : [ "(ocolc)1370249091" ],
+        "lccn" : [ "2022054417" ],
+        "seriestitle" : [ "Lexington Books horror studies" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The evolution of horror in the twenty-first century" ]
+      },
+      "sort" : {
+        "title" : [ "evolution of horror in the twenty-first century /" ],
+        "author" : [ "Bacon, Simon, 1965- editor." ],
+        "creationdate" : [ "2023" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995911564207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995911564207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995911564207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1793643407,OCLC:,LCCN:2022054417&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "p!96 h65ǂe96 2023",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "26",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "34",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 36,
-    "COMBINED_SEARCH_TIME" : 39,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "138",
+    "CALL_SOLR_GET_IDS_LIST" : "102",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "126",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "55",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "76",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "99",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "89",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "465",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 500,
+    "COMBINED_SEARCH_TIME" : 503,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "2000 2099",
+      "count" : "1"
+    }, {
+      "value" : "Films Dhorreur Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Horreur Dans Les Médias Histoire 21e Siècle",
+      "count" : "1"
+    }, {
+      "value" : "Horror Films",
+      "count" : "1"
+    }, {
+      "value" : "Horror Films History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Horror In Mass Media",
+      "count" : "1"
+    }, {
+      "value" : "Horror In Mass Media History 21st Century",
+      "count" : "1"
+    }, {
+      "value" : "Horror Tales",
+      "count" : "1"
+    }, {
+      "value" : "Horror Tales History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Horror Television Programs",
+      "count" : "1"
+    }, {
+      "value" : "Horror Television Programs History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Récits Dhorreur Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Émissions Dhorreur Télévisées Histoire Et Critique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bacon Simon",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

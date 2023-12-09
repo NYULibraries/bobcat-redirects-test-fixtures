@@ -1,22 +1,209 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996741721107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Apples Facts" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2022" ],
+        "publisher" : [ "United States of America : Allegheny County, Pennsylvania." ],
+        "description" : [ "2,500 varieties of apples are grown in the United States. [...] The pilgrims planted the first United States apple trees in the Massachusetts Bay Colony. [...] The Lady or Api apple is one of the oldest varieties in existence. [...] In 2006, 58% of apples produced in the United States were produced in Washington, 11% in New York, 8% in Michigan, 5% in Pennsylvania, 4% in California and 2% in Virginia. [...] In 2005, the average United States consumer ate an estimated 16.9 pounds of fresh market apples Total apple production in the United States in 2005 was 234.9 million cartons valued at {dollar}1.9 billion." ],
+        "mms" : [ "9996741721107871" ],
+        "contributor" : [ "Stanley, Katrina$$QStanley, Katrina", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US Mid-Atlantic POCO_POCC_USMA$$QCities: US Mid-Atlantic", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007547519" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996741721107871" ],
+        "recordid" : [ "alma9996741721107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)9a9a7521babb379a" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Stanley, Katrina" ],
+        "contributorfull" : [ "$$NStanley, Katrina$$Rcontributor" ],
+        "date" : [ "2022" ],
+        "abstract" : [ "2,500 varieties of apples are grown in the United States. [...] The pilgrims planted the first United States apple trees in the Massachusetts Bay Colony. [...] The Lady or Api apple is one of the oldest varieties in existence. [...] In 2006, 58% of apples produced in the United States were produced in Washington, 11% in New York, 8% in Michigan, 5% in Pennsylvania, 4% in California and 2% in Virginia. [...] In 2005, the average United States consumer ate an estimated 16.9 pounds of fresh market apples Total apple production in the United States in 2005 was 234.9 million cartons valued at {dollar}1.9 billion." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Allegheny County, Pennsylvania." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/5p4tmc" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Apples Facts" ]
+      },
+      "sort" : {
+        "title" : [ "Apples Facts," ],
+        "author" : [ "Stanley, Katrina" ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996741721107871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996741721107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996741721107871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "28",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "36",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 38,
-    "COMBINED_SEARCH_TIME" : 40,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "101",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "58",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "37",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "30",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "33",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "67",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "325",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 359,
+    "COMBINED_SEARCH_TIME" : 361,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Stanley Katrina",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

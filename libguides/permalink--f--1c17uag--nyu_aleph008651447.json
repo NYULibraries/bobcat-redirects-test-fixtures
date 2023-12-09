@@ -1,22 +1,231 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996720399207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "fre" ],
+        "title" : [ "Pour la progression des Québécoises en sciences et en technologies , Plan d'action interministériel 2007-2010 : pour la progression des Québécoises en sciences et en technologie " ],
+        "subject" : [ "economic development", "economics", "economic sector", "health", "cegep", "natural environment", "school", "economy", "bachelor's degree", "centre national de la recherche scientifique", "women in science", "innovation", "agriculture", "women in technology", "science and technology", "environment", "education", "confédération des syndicats nationaux", "l’université de montréal", "military strategy", "women scientists", "formation professionnelle", "femmes scientifiques", "femmes en technologie", "femmes dans les sciences", "further education" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Canadian Electronic Library." ],
+        "mms" : [ "9996720399207871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "Plan d'action interministériel 2007-2010 : pour la progression des Québécoises en sciences et en technologie" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VBooks & Documents CANA_ALL$$QBooks & Documents", "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008651447" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996720399207871" ],
+        "recordid" : [ "alma9996720399207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)1a326275f3a5bdc0" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Plan d'action interministériel 2007-2010 : pour la progression des Québécoises en sciences et en technologie" ],
+        "date" : [ "2008" ],
+        "pub" : [ "Canadian Electronic Library." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/sbsbwq" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Pour la progression des Québécoises en sciences et en technologies , Plan d'action interministériel 2007-2010 : pour la progression des Québécoises en sciences et en technologie" ]
+      },
+      "sort" : {
+        "title" : [ "Pour la progression des Québécoises en sciences et en technologies , Plan d'action interministériel 2007-2010 : pour la progression des Québécoises en sciences et en technologie /" ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "58",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "64",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "89",
+    "CALL_SOLR_GET_IDS_LIST" : "100",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "44",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "26",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "56",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "62",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "310",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 67,
-    "COMBINED_SEARCH_TIME" : 69,
+    "BUILD_COMBINED_RESULTS_MAP" : 334,
+    "COMBINED_SEARCH_TIME" : 336,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "fre",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Agriculture",
+      "count" : "1"
+    }, {
+      "value" : "Bachelors Degree",
+      "count" : "1"
+    }, {
+      "value" : "Cegep",
+      "count" : "1"
+    }, {
+      "value" : "Centre National De La Recherche Scientifique",
+      "count" : "1"
+    }, {
+      "value" : "Confédération Des Syndicats Nationaux",
+      "count" : "1"
+    }, {
+      "value" : "Economic Development",
+      "count" : "1"
+    }, {
+      "value" : "Economic Sector",
+      "count" : "1"
+    }, {
+      "value" : "Economics",
+      "count" : "1"
+    }, {
+      "value" : "Economy",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Environment",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Dans Les Sciences",
+      "count" : "1"
+    }, {
+      "value" : "Femmes En Technologie",
+      "count" : "1"
+    }, {
+      "value" : "Femmes Scientifiques",
+      "count" : "1"
+    }, {
+      "value" : "Formation Professionnelle",
+      "count" : "1"
+    }, {
+      "value" : "Further Education",
+      "count" : "1"
+    }, {
+      "value" : "Health",
+      "count" : "1"
+    }, {
+      "value" : "Innovation",
+      "count" : "1"
+    }, {
+      "value" : "L’université De Montréal",
+      "count" : "1"
+    }, {
+      "value" : "Military Strategy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

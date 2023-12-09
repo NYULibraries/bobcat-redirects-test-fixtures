@@ -1,22 +1,207 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996726738207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "An Adventure in Learning, Hebrew for Home Residents " ],
+        "subject" : [ "teaching methods", "older people", "culture and religion", "institutional care", "language and languages", "elderly", "population and demographics", "education" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "1980" ],
+        "publisher" : [ "Jewish Communal Service Association of North America." ],
+        "description" : [ "The authors present a model for an effective Hebrew language program conducted at the Hebrew Home for the Aged in Riverdale, NY. They explore the background and profile of the students, educational considerations in teaching the very old, the location and type of classroom, materials and procedures, attributes of the teacher, response of the students, and implications for expanding educational opportunities. In Journal of Jewish Communal Service, v.56 no.4, Summer 1980." ],
+        "mms" : [ "9996726738207871" ],
+        "contributor" : [ "Rochel U. Berman$$QRochel U. Berman", "Betty W. Samuels$$QBetty W. Samuels", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "Hebrew for Home Residents" ],
+        "series" : [ "Journal of Jewish Communal Service$$QJournal of Jewish Communal Service", "Journal of Jewish Communal Service 56-4$$QJournal of Jewish Communal Service" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008562359" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996726738207871" ],
+        "recordid" : [ "alma9996726738207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)3db5b322c7898723" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Rochel U. Berman", "Betty W. Samuels" ],
+        "contributorfull" : [ "$$NRochel U. Berman$$Rcontributor", "$$NBetty W. Samuels$$Rcontributor" ],
+        "addtitle" : [ "Hebrew for Home Residents" ],
+        "date" : [ "1980" ],
+        "abstract" : [ "The authors present a model for an effective Hebrew language program conducted at the Hebrew Home for the Aged in Riverdale, NY. They explore the background and profile of the students, educational considerations in teaching the very old, the location and type of classroom, materials and procedures, attributes of the teacher, response of the students, and implications for expanding educational opportunities. In Journal of Jewish Communal Service, v.56 no.4, Summer 1980." ],
+        "pub" : [ "Jewish Communal Service Association of North America." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/mwm49c" ],
+        "seriestitle" : [ "Journal of Jewish Communal Service 56-4" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "An Adventure in Learning, Hebrew for Home Residents" ]
+      },
+      "sort" : {
+        "title" : [ "Adventure in Learning, Hebrew for Home Residents /" ],
+        "author" : [ "Rochel U. Berman" ],
+        "creationdate" : [ "1980" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "18",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "23",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
+    "CALL_SOLR_GET_IDS_LIST" : "72",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "114",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "52",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "111",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "77",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "363",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 26,
-    "COMBINED_SEARCH_TIME" : 29,
+    "BUILD_COMBINED_RESULTS_MAP" : 391,
+    "COMBINED_SEARCH_TIME" : 393,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1980",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Culture And Religion",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Elderly",
+      "count" : "1"
+    }, {
+      "value" : "Institutional Care",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages",
+      "count" : "1"
+    }, {
+      "value" : "Older People",
+      "count" : "1"
+    }, {
+      "value" : "Population And Demographics",
+      "count" : "1"
+    }, {
+      "value" : "Teaching Methods",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Betty W Samuels",
+      "count" : "1"
+    }, {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Rochel U Berman",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

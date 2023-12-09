@@ -1,22 +1,233 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996723636707871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Future tense , Adapting Canadian education systems for the 21st century " ],
+        "subject" : [ "critical thinking", "digital literacy", "assessment", "philosophy", "educational technology", "teachers", "education and state", "school", "curricula", "education policies", "economy", "education program", "cognitive science", "education, secondary", "education, primary", "science and technology", "higher education", "education", "cognition", "students", "curriculum", "creativity", "teaching and learning", "ict", "competence (human resources)", "information and communications technology", "public schools", "further education" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Canadian Electronic Library." ],
+        "description" : [ "This report takes stock of efforts by five provincial governments to adapt their respective elementary and secondary education systems to incorporate 21st century learning models. It reviews provincial education policies then presents the results of a survey commissioned as part of this report and fielded to teachers in each of the provinces under examination - all with a view to better understanding the extent to which 21st century learning is being implemented within Canada." ],
+        "mms" : [ "9996723636707871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "addtitle" : [ "Adapting Canadian education systems for the 21st century" ],
+        "ispartof" : [ "Policy Commons nnmc" ],
+        "relation" : [ "$$Cdata_source$$VBooks & Documents CANA_ALL$$QBooks & Documents", "$$Cdata_source$$VGlobal Think Tanks POCO_ALL$$QGlobal Think Tanks" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008458138" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996723636707871" ],
+        "recordid" : [ "alma9996723636707871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)29fab31f618a06ae" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addtitle" : [ "Adapting Canadian education systems for the 21st century" ],
+        "date" : [ "2013" ],
+        "abstract" : [ "This report takes stock of efforts by five provincial governments to adapt their respective elementary and secondary education systems to incorporate 21st century learning models. It reviews provincial education policies then presents the results of a survey commissioned as part of this report and fielded to teachers in each of the provinces under examination - all with a view to better understanding the extent to which 21st century learning is being implemented within Canada." ],
+        "pub" : [ "Canadian Electronic Library." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/gj9xmb" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Future tense , Adapting Canadian education systems for the 21st century" ]
+      },
+      "sort" : {
+        "title" : [ "Future tense , Adapting Canadian education systems for the 21st century /" ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "20",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "28",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 29,
-    "COMBINED_SEARCH_TIME" : 31,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "109",
+    "CALL_SOLR_GET_IDS_LIST" : "87",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "33",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "8",
+    "RETRIVE_FROM_DB_RECORDS" : "72",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "52",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "294",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 333,
+    "COMBINED_SEARCH_TIME" : 335,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Assessment",
+      "count" : "1"
+    }, {
+      "value" : "Cognition",
+      "count" : "1"
+    }, {
+      "value" : "Cognitive Science",
+      "count" : "1"
+    }, {
+      "value" : "Competence Human Resources",
+      "count" : "1"
+    }, {
+      "value" : "Creativity",
+      "count" : "1"
+    }, {
+      "value" : "Critical Thinking",
+      "count" : "1"
+    }, {
+      "value" : "Curricula",
+      "count" : "1"
+    }, {
+      "value" : "Curriculum",
+      "count" : "1"
+    }, {
+      "value" : "Digital Literacy",
+      "count" : "1"
+    }, {
+      "value" : "Economy",
+      "count" : "1"
+    }, {
+      "value" : "Education",
+      "count" : "1"
+    }, {
+      "value" : "Education And State",
+      "count" : "1"
+    }, {
+      "value" : "Education Policies",
+      "count" : "1"
+    }, {
+      "value" : "Education Primary",
+      "count" : "1"
+    }, {
+      "value" : "Education Program",
+      "count" : "1"
+    }, {
+      "value" : "Education Secondary",
+      "count" : "1"
+    }, {
+      "value" : "Educational Technology",
+      "count" : "1"
+    }, {
+      "value" : "Further Education",
+      "count" : "1"
+    }, {
+      "value" : "Higher Education",
+      "count" : "1"
+    }, {
+      "value" : "Ict",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

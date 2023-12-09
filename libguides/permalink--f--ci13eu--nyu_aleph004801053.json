@@ -1,22 +1,257 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997187692907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Survey questions : handcrafting the standardized questionnaire " ],
+        "subject" : [ "Statistics -- Methodology", "Sciences sociales -- Méthodes statistiques", "Sciences sociales -- Modèles mathématiques", "Statistique -- Méthodologie", "questionnaires", "SOCIAL SCIENCE -- Regional Studies", "SOCIAL SCIENCE -- Anthropology -- General", "Méthodologie", "Modèles mathématiques", "Social sciences -- Statistical methods", "Social sciences -- Mathematical models", "Social surveys", "Survey-onderzoek", "Vragenlijsten", "Sociale wetenschappen", "Enquêtes sociologiques", "Questionnaires", "Enquêtes sociales", "Social surveys Questionnaires Design - Manuals" ],
+        "format" : [ "1 online resource (80 pages) : illustrations", "text file" ],
+        "identifier" : [ "$$CLC$$V86061665;$$CISBN$$V0585181101;$$CISBN$$V9780585181103;$$CISBN$$V9781412986045;$$CISBN$$V1412986044;$$COCLC$$V(OCoLC)44962849;$$CISBN$$V0803927436" ],
+        "creationdate" : [ "©1986" ],
+        "creator" : [ "Converse, Jean M., 1927- author.$$QConverse, Jean M." ],
+        "publisher" : [ "Beverly Hills, Calif. : Sage Publications" ],
+        "description" : [ "In this readable guide to the principles of writing survey questions, the authors review recent research on survey questions, consider the lore of professional experience and finally present those findings which have the strongest implications on writing survey questions." ],
+        "mms" : [ "9997187692907871" ],
+        "contributor" : [ "Presser, Stanley, 1950- author.$$QPresser, Stanley" ],
+        "series" : [ "Quantitative applications in the social sciences ; 63$$QQuantitative applications in the social sciences ", "Quantitative applications in the social sciences ; no. 07-063.$$QQuantitative applications in the social sciences " ],
+        "contents" : [ "Editor's introduction -- Preface -- 1. Strategies of experience and research. The enduring counsel for simplicity -- Simple language -- Common concepts -- Manageable tasks -- Widespread information -- Some interesting complexities -- 2. The experimental evidence. Specific questions are better than general ones -- When to leave it open and when to close it -- Offer a no opinion option -- Omit the middle alternative and measure intensity -- How to measure intensity -- Use forced-choice questions, not agree-disagree statements -- The problem of question order -- Wording effects: potentially important but unpredictable -- Create split sample comparisons -- Use open follow-ups to closed questions -- Use random probes -- Ask multiple questions on a topic -- 3. The tools at hand. Exploration -- Experts and insiders -- Borrowing questions from others -- Pretesting: Strategies, purposes, and phases -- Strategies of design -- The purposes of pretests -- Phases of pretesting -- References -- About the authors." ],
+        "genre" : [ "questionnaires", "Questionnaires" ],
+        "relation" : [ "$$Cform$$VPrint version: Converse, Jean M., 1927- Survey questions. Beverly Hills, Calif. : Sage Publications, ©1986$$QSurvey questions." ],
+        "mesh" : [ "Data Collection", "Surveys and Questionnaires" ],
+        "place" : [ "Beverly Hills, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "sagepub", "aleph004801053" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997187692907871" ],
+        "recordid" : [ "alma9997187692907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)44962849" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967245E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Converse" ],
+        "aufirst" : [ "Jean M." ],
+        "auinit" : [ "J" ],
+        "au" : [ "Converse, Jean M." ],
+        "addau" : [ "Presser, Stanley" ],
+        "creatorfull" : [ "$$NConverse, Jean M.$$LConverse$$FJean M.$$Rauthor" ],
+        "contributorfull" : [ "$$NPresser, Stanley$$LPresser$$FStanley$$Rcontributor" ],
+        "date" : [ "1986", "©1986" ],
+        "isbn" : [ "0585181101", "9780585181103", "9781412986045", "1412986044", "0803927436" ],
+        "notes" : [ "Includes bibliographical references (pages 76-79)." ],
+        "abstract" : [ "In this readable guide to the principles of writing survey questions, the authors review recent research on survey questions, consider the lore of professional experience and finally present those findings which have the strongest implications on writing survey questions." ],
+        "cop" : [ "Beverly Hills, Calif" ],
+        "pub" : [ "Sage Publications" ],
+        "oclcid" : [ "(ocolc)44962849" ],
+        "lccn" : [ "86061665" ],
+        "seriestitle" : [ "Quantitative applications in the social sciences ; 63" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Survey questions : handcrafting the standardized questionnaire" ]
+      },
+      "sort" : {
+        "title" : [ "Survey questions : handcrafting the standardized questionnaire /" ],
+        "author" : [ "Converse, Jean M., 1927- author." ],
+        "creationdate" : [ "1986" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780585181103,OCLC:,LCCN:86061665&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hn!29ǂ c66 1986eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "22",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "31",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 32,
-    "COMBINED_SEARCH_TIME" : 36,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "95",
+    "CALL_SOLR_GET_IDS_LIST" : "80",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "71",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "96",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "308",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 337,
+    "COMBINED_SEARCH_TIME" : 340,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1986",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Data Collection",
+      "count" : "1"
+    }, {
+      "value" : "Enquêtes Sociales",
+      "count" : "1"
+    }, {
+      "value" : "Enquêtes Sociologiques",
+      "count" : "1"
+    }, {
+      "value" : "Modèles Mathématiques",
+      "count" : "1"
+    }, {
+      "value" : "Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Questionnaires",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Modèles Mathématiques",
+      "count" : "1"
+    }, {
+      "value" : "Sciences Sociales Méthodes Statistiques",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Anthropology General",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Regional Studies",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Mathematical Models",
+      "count" : "1"
+    }, {
+      "value" : "Social Sciences Statistical Methods",
+      "count" : "1"
+    }, {
+      "value" : "Social Surveys",
+      "count" : "1"
+    }, {
+      "value" : "Social Surveys Questionnaires Design Manuals",
+      "count" : "1"
+    }, {
+      "value" : "Sociale Wetenschappen",
+      "count" : "1"
+    }, {
+      "value" : "Statistics Methodology",
+      "count" : "1"
+    }, {
+      "value" : "Statistique Méthodologie",
+      "count" : "1"
+    }, {
+      "value" : "Survey Onderzoek",
+      "count" : "1"
+    }, {
+      "value" : "Surveys And Questionnaires",
+      "count" : "1"
+    }, {
+      "value" : "Vragenlijsten",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Converse Jean M",
+      "count" : "1"
+    }, {
+      "value" : "Presser Stanley",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

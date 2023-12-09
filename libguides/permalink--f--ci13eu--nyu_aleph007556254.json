@@ -1,22 +1,209 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996743277607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Memo on Income Limits for Ordinances Under Consideration" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "United States of America : Juneau, Alaska." ],
+        "description" : [ "Microsoft Word - Memo on Income Limits for Ordinances Under Consideration Economic Stabilization Task Force Appointed by the City & Borough of Juneau’s Mayor Email: Economic-Stabilization@juneau.org Mail: 155 S Seward Street, Juneau, AK 99801 www.beta.juneau.org/assembly/economic-stabilization Date: September 26, 2020 From: Max Mertz, Co‐Chair To: Economic Stabil. [...] S. Housing Act of 1937, as amended. These limits are based on HUD estimates of median family income, with adjustments based on family size. Please note that the 30 percent income limits for the HOME program have been calculated based on the definition of Extremely Low–Income Family (ELI) as described in Consolidated Submission for CPD Programs section of 24 CFR part 91.5. Therefore, the ELI L. [...] DEPARTMENT OF HUD STATE:ALASKA --------------------- 2020 ADJUSTED HOME INCOME LIMITS --------------------- PROGRAM 1 PERSON 2 PERSON 3 PERSON 4 PERSON 5 PERSON 6 PERSON 7 PERSON 8 PERSON Denali Borough, AK 30% LIMITS 23250 26550 29850 33150 35850 38500 41150 43800 VERY LOW INCOME 38700 44200 49750 55250 59700 64100 68550 72950 60% LIMITS 46440 53040 59700 66300 71640 76920 82260 87540 LOW INCOME." ],
+        "mms" : [ "9996743277607871" ],
+        "contributor" : [ "Brenwynne_Grigg$$QBrenwynne_Grigg", "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007556254" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996743277607871" ],
+        "recordid" : [ "alma9996743277607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)a2bc03fb87435492" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "addau" : [ "Brenwynne_Grigg" ],
+        "contributorfull" : [ "$$NBrenwynne_Grigg$$Rcontributor" ],
+        "date" : [ "2020" ],
+        "abstract" : [ "Microsoft Word - Memo on Income Limits for Ordinances Under Consideration Economic Stabilization Task Force Appointed by the City & Borough of Juneau’s Mayor Email: Economic-Stabilization@juneau.org Mail: 155 S Seward Street, Juneau, AK 99801 www.beta.juneau.org/assembly/economic-stabilization Date: September 26, 2020 From: Max Mertz, Co‐Chair To: Economic Stabil. [...] S. Housing Act of 1937, as amended. These limits are based on HUD estimates of median family income, with adjustments based on family size. Please note that the 30 percent income limits for the HOME program have been calculated based on the definition of Extremely Low–Income Family (ELI) as described in Consolidated Submission for CPD Programs section of 24 CFR part 91.5. Therefore, the ELI L. [...] DEPARTMENT OF HUD STATE:ALASKA --------------------- 2020 ADJUSTED HOME INCOME LIMITS --------------------- PROGRAM 1 PERSON 2 PERSON 3 PERSON 4 PERSON 5 PERSON 6 PERSON 7 PERSON 8 PERSON Denali Borough, AK 30% LIMITS 23250 26550 29850 33150 35850 38500 41150 43800 VERY LOW INCOME 38700 44200 49750 55250 59700 64100 68550 72950 60% LIMITS 46440 53040 59700 66300 71640 76920 82260 87540 LOW INCOME." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Juneau, Alaska." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/61zr8k" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Memo on Income Limits for Ordinances Under Consideration" ]
+      },
+      "sort" : {
+        "title" : [ "Memo on Income Limits for Ordinances Under Consideration," ],
+        "author" : [ "Brenwynne_Grigg" ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996743277607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996743277607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996743277607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "27",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "97",
+    "CALL_SOLR_GET_IDS_LIST" : "63",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "63",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "47",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "43",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "34",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "76",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "310",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 34,
-    "COMBINED_SEARCH_TIME" : 36,
+    "BUILD_COMBINED_RESULTS_MAP" : 335,
+    "COMBINED_SEARCH_TIME" : 337,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brenwynne Grigg",
+      "count" : "1"
+    }, {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

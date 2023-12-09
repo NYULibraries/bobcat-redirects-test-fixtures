@@ -1,22 +1,213 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997183648807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Entering StartUpLand : an essential guide to finding the right job " ],
+        "subject" : [ "Nouvelles entreprises", "Recherche d'emploi", "BUSINESS & ECONOMICS -- Industrial Management", "BUSINESS & ECONOMICS -- Management", "BUSINESS & ECONOMICS -- Management Science", "BUSINESS & ECONOMICS -- Organizational Behavior", "Job hunting", "New business enterprises", "Work environment" ],
+        "format" : [ "1 online resource (241 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781633693852;$$CISBN$$V1633693856;$$COCLC$$V(OCoLC)1015876919;$$CISBN$$V9781633693845" ],
+        "creationdate" : [ "2017" ],
+        "creator" : [ "Bussgang, Jeffrey, author.$$QBussgang, Jeffrey" ],
+        "publisher" : [ "Boston, Massachusetts : Harvard Business Review Press" ],
+        "description" : [ "Many professionals aspire to work for a start-up. Executives from large companies view them as models to help them adapt to today's dynamic innovation economy. Yes, start-ups look magical, but they can also be chaotic and inaccessible. Many books are written for those who aspire to be founders, but a company only has one or two of those. What's needed are hundreds of employees to do the day-to-day work required to operate a fledgling company and grow it into something of value. This practical, step-by-step guide provides an insider's analysis of various start-up roles and responsibilities, including product development, marketing, growth strategy, and sales, to help you figure out if you want to join a start-up and what to expect if you do. You'll gain insight into how successful start-ups operate and learn to assess which of them you might want to join--or emulate. Inside this book you'll find: A tour of typical start-up roles to help you determine which one might be the best fit for you Profiles of start-up executives in many different functions who share their stories and describe their responsibilities A practical approach to your job search that will help you position yourself to find the start-up opportunity that's right for you Written by an experienced venture capitalist, entrepreneur, and Harvard Business School professor, Welcome to StartUpLand will guide you as you seek your ideal entry point into this popular, cutting-edge organizational paradigm.-- Provided by publisher." ],
+        "mms" : [ "9997183648807871" ],
+        "contents" : [ "Introduction: Entering StartUpLand -- The product manager -- The business development manager -- Marketing -- The growth manager -- Sales -- Finance -- The search process." ],
+        "relation" : [ "$$Cform$$VPrint version: Bussgang, Jeffrey. Entering StartUpLand. Boston, Massachusetts : Harvard Business Review Press, [2017]$$QEntering StartUpLand." ],
+        "place" : [ "Boston, Massachusetts :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ebscohar", "aleph005929715" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997183648807871" ],
+        "recordid" : [ "alma9997183648807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1015876919" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967245E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Bussgang" ],
+        "aufirst" : [ "Jeffrey" ],
+        "auinit" : [ "J" ],
+        "au" : [ "Bussgang, Jeffrey" ],
+        "creatorfull" : [ "$$NBussgang, Jeffrey$$LBussgang$$FJeffrey$$Rauthor" ],
+        "date" : [ "2017 - 2017", "2017" ],
+        "isbn" : [ "9781633693852", "1633693856", "9781633693845" ],
+        "notes" : [ "Includes bibliographical references (pages 217-218) and index." ],
+        "abstract" : [ "Many professionals aspire to work for a start-up. Executives from large companies view them as models to help them adapt to today's dynamic innovation economy. Yes, start-ups look magical, but they can also be chaotic and inaccessible. Many books are written for those who aspire to be founders, but a company only has one or two of those. What's needed are hundreds of employees to do the day-to-day work required to operate a fledgling company and grow it into something of value. This practical, step-by-step guide provides an insider's analysis of various start-up roles and responsibilities, including product development, marketing, growth strategy, and sales, to help you figure out if you want to join a start-up and what to expect if you do. You'll gain insight into how successful start-ups operate and learn to assess which of them you might want to join--or emulate. Inside this book you'll find: A tour of typical start-up roles to help you determine which one might be the best fit for you Profiles of start-up executives in many different functions who share their stories and describe their responsibilities A practical approach to your job search that will help you position yourself to find the start-up opportunity that's right for you Written by an experienced venture capitalist, entrepreneur, and Harvard Business School professor, Welcome to StartUpLand will guide you as you seek your ideal entry point into this popular, cutting-edge organizational paradigm.-- Provided by publisher." ],
+        "cop" : [ "Boston, Massachusetts" ],
+        "pub" : [ "Harvard Business Review Press" ],
+        "oclcid" : [ "(ocolc)1015876919" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Entering StartUpLand : an essential guide to finding the right job" ]
+      },
+      "sort" : {
+        "title" : [ "Entering StartUpLand : an essential guide to finding the right job /" ],
+        "author" : [ "Bussgang, Jeffrey, author." ],
+        "creationdate" : [ "2017" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1633693856,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!62.5ǂ b877 2017eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "37",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "48",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "69",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "66",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "9",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "50",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "59",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "118",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "346",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 50,
-    "COMBINED_SEARCH_TIME" : 53,
+    "BUILD_COMBINED_RESULTS_MAP" : 370,
+    "COMBINED_SEARCH_TIME" : 373,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2017",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Economics Industrial Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Management Science",
+      "count" : "1"
+    }, {
+      "value" : "Business Economics Organizational Behavior",
+      "count" : "1"
+    }, {
+      "value" : "Job Hunting",
+      "count" : "1"
+    }, {
+      "value" : "New Business Enterprises",
+      "count" : "1"
+    }, {
+      "value" : "Nouvelles Entreprises",
+      "count" : "1"
+    }, {
+      "value" : "Recherche Demploi",
+      "count" : "1"
+    }, {
+      "value" : "Work Environment",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Bussgang Jeffrey",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

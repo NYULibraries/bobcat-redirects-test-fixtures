@@ -1,22 +1,261 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996702409407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Handbook of Creative Writing " ],
+        "subject" : [ "Literary Studies", "Création littéraire", "LITERARY CRITICISM / Reference", "Creative writing" ],
+        "format" : [ "1 online resource (560 p.)", "text file PDF" ],
+        "identifier" : [ "$$CISBN$$V9780748689774;$$CISBN$$V074868977X;$$COCLC$$V(OCoLC)1302162418;$$CISBN$$V9780748689392" ],
+        "creationdate" : [ "2022" ],
+        "creator" : [ "Earnshaw, Steven, author.$$QEarnshaw, Steven" ],
+        "publisher" : [ "Edinburgh : Edinburgh University Press" ],
+        "description" : [ "The inspirational resource for tutors, students and other creative writing professionals, now in a new edition. GBS_insertPreviewButtonPopup(['ISBN: 9780748689392','ISBN: 9780748689774']); 'An invaluable guide for anyone thinking of teaching creative writing, at any level...It's really nice to come across a book that's so thoughtfully organized, so thorough, entertaining and just plain useful'. Catherine Smith, The New Writer, on the first edition 54 chapters cover the 3 central pillars of writing creatively: theories of creativity; the craft of writing; and creative writing as a business. With contributions from over 50 experts - poets, novelists, dramatists, publishers, editors, tutors, critics and scholars - from the United Kingdom, the United States, Canada and Australia, this is the essential guide to writing, and getting published, in the English-speaking world.New for this edition: Chapters: on 'indie publishing', 'social media', 'flash fiction', 'song lyrics and poetry', 'creative critical hybrids' & 'collaboration in the theatre'Revised chapters on Making a Living as a Writer, Theories of Creativity, and Writing for the WebChapters updated to reflect changes in teaching, copyright & earning a living as a writerUpdated Glossary of TermsKey FeaturesA 3-in-1 text with outstanding breadth and depth of coverageGrounds the subject of creative writing and provides writing-related tasksFull of examples of ways to approach and improve your writing Valuable practical advice on getting published & making a living from your writingSteven Earnshaw is the published author of numerous short stories, essays on creative writing and books, ranging from Beginning Realism to The Pub in Literature (the essential work in the field). He has contributed to scholarly journals, edited collections and was a winner of the 2011 Brontë Society Literary Competition. During the day, he is Professor of English at Sheffield Hallam University. He has been involved in digital art collaborations. \"" ],
+        "mms" : [ "9996702409407871" ],
+        "contributor" : [ "Barrington, Judith, contributor.$$QBarrington, Judith", "Bassnett, Susan, contributor.$$QBassnett, Susan", "Baverstock, Alison, contributor.$$QBaverstock, Alison", "Braun, Timothy, contributor.$$QBraun, Timothy", "Brodie, Alan, contributor.$$QBrodie, Alan", "Brown, Alan, contributor.$$QBrown, Alan", "Cantrell, Mary, contributor.$$QCantrell, Mary", "Creer, Gareth, contributor.$$QCreer, Gareth", "Dale, John, contributor.$$QDale, John", "Dawson, Paul, contributor.$$QDawson, Paul", "Duncan, Stephen V, contributor.$$QDuncan, Stephen V", "Earnshaw, Steven, contributor.$$QEarnshaw, Steven", "Field, Thalia, contributor.$$QField, Thalia", "Friedmann, Julian, contributor.$$QFriedmann, Julian", "Gutkind, Lee, contributor.$$QGutkind, Lee", "Harper, Graeme, contributor.$$QHarper, Graeme", "Harris, Mike, contributor.$$QHarris, Mike", "Herbert, W. N., contributor.$$QHerbert, W. N.", "Hubbard, Susan, contributor.$$QHubbard, Susan", "Humphrey, Shay, contributor.$$QHumphrey, Shay", "Kilian, Crawford, contributor.$$QKilian, Crawford", "Kiteley, Brian, contributor.$$QKiteley, Brian", "Kunin, Aaron, contributor.$$QKunin, Aaron", "Leahy, Anna, contributor.$$QLeahy, Anna", "Markham, E. A., contributor.$$QMarkham, E. A.", "McCracken, Scott, contributor.$$QMcCracken, Scott", "Michael, Livi, contributor.$$QMichael, Livi", "Milne, John, contributor.$$QMilne, John", "Mount, Mary, contributor.$$QMount, Mary", "Mullins, Brighde, contributor.$$QMullins, Brighde", "Newbery, Linda, contributor.$$QNewbery, Linda", "Newman, Jenny, contributor.$$QNewman, Jenny", "O'Brien, Sean, contributor.$$QO'Brien, Sean", "O'Neill, Bonnie, contributor.$$QO'Neill, Bonnie", "Pattison, Pat, contributor.$$QPattison, Pat", "Penhaligan, Lee, contributor.$$QPenhaligan, Lee", "Rain, David, contributor.$$QRain, David", "Ramey, Lauri, contributor.$$QRamey, Lauri", "Rogers, Jane, contributor.$$QRogers, Jane", "Rowland, Jane, contributor.$$QRowland, Jane", "Sampson, Fiona, contributor.$$QSampson, Fiona", "Sargent, Linda, contributor.$$QSargent, Linda", "Shapcott, Thomas, contributor.$$QShapcott, Thomas", "Sheard, James, contributor.$$QSheard, James", "Smith, David, contributor.$$QSmith, David", "Smith, Hazel, contributor.$$QSmith, Hazel", "Swander, Mary, contributor.$$QSwander, Mary", "Szirtes, George, contributor.$$QSzirtes, George", "Treleaven, Lou, contributor.$$QTreleaven, Lou", "Twichell, Chase, contributor.$$QTwichell, Chase", "Vanderslice, Stephanie, contributor.$$QVanderslice, Stephanie", "Williams, Tony, contributor.$$QWilliams, Tony", "Wolff, Rebecca, contributor.$$QWolff, Rebecca" ],
+        "contents" : [ "Frontmatter -- Contents -- Acknowledgements -- Preface to Second Edition -- Introduction -- Section One Writing: Theories and Contexts -- 1 Theories of Creativity and Creative Writing Pedagogy -- 2 The Evaluation of Creative Writing at MA Level (UK) -- 3 The Creative Writing MFA -- 4 Creative Writing and Critical Theory -- 5 Literary Genres -- 6 The Writer as Artist -- 7 The Future of Creative Writing -- Section Two The Craft of Writing -- PROSE -- 8 Reading, Writing and Teaching the Short Story -- 9 Writing the Memoir -- 10 Introduction to the Novel -- 11 Crime Fiction -- 12 Writing Science Fiction and Fantasy -- 13 How Language Lives Us: Reading and Writing Historical Fiction -- 14 Writing Humorous Fiction -- 15 Writing for Children -- 16 Writing for Teenagers -- 17 The 'Everything You Ever Wanted to Know About Creative Nonfiction, But Were Too Naïve or Uninformed to Ask' Workshop Simulation -- POETRY -- 18 Introduction to Poetry -- 19 What is Form? -- 20 New Poetries -- 21 The Poet in the Theatre: Verse Drama -- 22 The Sequence and the Long Poem -- SCRIPTWRITING -- 23 Introduction to Scriptwriting -- 24 Writing for the Stage -- 25 Writing for Radio -- 26 Writing for Television -- 27 Writing for Television -- UK Differences -- 28 Writing for Film -- OTHER WRITING -- 29 Song Lyrics and Poetry -- 30 Flash Fiction -- 31 Writing as Experimental Practice -- 32 Creative-Critical Hybrids -- 33 Writing as 'Therapy' -- 34 Writing in the Community -- 35 Writing for the Web -- 36 The Role of the Critical Essay -- 37 Translation -- 38 Collaboration in the Theatre -- 39 Creative Writing Doctorates -- 40 How to Start a Literary Magazine -- Section Three The Writer's Life -- 41 How to be a Writer -- 42 How to Present Yourself as a Writer -- 43 Meet Your Public: Creative Writing and Social Media -- 44 Publishing Fiction -- 45 American PoBiz -- 46 Publishing Poetry in Britain -- 47 The Literary Agent (Novel) -- 48 The Film Agent -- 49 The Literary Agent: Television, Radio and Theatre -- 50 Copyright -- 51 Self-Publishing and the Rise of the Indie Author -- 52 Literary Life: Prizes, Anthologies, Festivals, Reviewing, Grants -- 53 The Writer as Teacher -- 54 Making a Living as a Writer -- Glossary -- Useful Websites -- Contributors -- Index" ],
+        "relation" : [ "$$Cform$$Vprint" ],
+        "place" : [ "Edinburgh :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "degreb", "aleph007960267" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996702409407871" ],
+        "recordid" : [ "alma9996702409407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1302162418" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Earnshaw" ],
+        "aufirst" : [ "Steven" ],
+        "auinit" : [ "S" ],
+        "au" : [ "Earnshaw, Steven" ],
+        "addau" : [ "Barrington, Judith", "Bassnett, Susan", "Baverstock, Alison", "Braun, Timothy", "Brodie, Alan", "Brown, Alan", "Cantrell, Mary", "Creer, Gareth", "Dale, John", "Dawson, Paul", "Duncan, Stephen V", "Earnshaw, Steven", "Field, Thalia", "Friedmann, Julian", "Gutkind, Lee", "Harper, Graeme", "Harris, Mike", "Herbert, W. N.", "Hubbard, Susan", "Humphrey, Shay", "Kilian, Crawford", "Kiteley, Brian", "Kunin, Aaron", "Leahy, Anna", "Markham, E. A.", "McCracken, Scott", "Michael, Livi", "Milne, John", "Mount, Mary", "Mullins, Brighde", "Newbery, Linda", "Newman, Jenny", "O'Brien, Sean", "O'Neill, Bonnie", "Pattison, Pat", "Penhaligan, Lee", "Rain, David", "Ramey, Lauri", "Rogers, Jane", "Rowland, Jane", "Sampson, Fiona", "Sargent, Linda", "Shapcott, Thomas", "Sheard, James", "Smith, David", "Smith, Hazel", "Swander, Mary", "Szirtes, George", "Treleaven, Lou", "Twichell, Chase", "Vanderslice, Stephanie", "Williams, Tony", "Wolff, Rebecca" ],
+        "creatorfull" : [ "$$NEarnshaw, Steven$$LEarnshaw$$FSteven$$Rauthor" ],
+        "contributorfull" : [ "$$NBarrington, Judith$$LBarrington$$FJudith$$Rcontributor", "$$NBassnett, Susan$$Rcontributor", "$$NBaverstock, Alison$$Rcontributor", "$$NBraun, Timothy$$Rcontributor", "$$NBrodie, Alan$$Rcontributor", "$$NBrown, Alan$$Rcontributor", "$$NCantrell, Mary$$Rcontributor", "$$NCreer, Gareth$$Rcontributor", "$$NDale, John$$Rcontributor", "$$NDawson, Paul$$Rcontributor", "$$NDuncan, Stephen V$$Rcontributor", "$$NEarnshaw, Steven$$Rcontributor", "$$NField, Thalia$$Rcontributor", "$$NFriedmann, Julian$$Rcontributor", "$$NGutkind, Lee$$Rcontributor", "$$NHarper, Graeme$$Rcontributor", "$$NHarris, Mike$$Rcontributor", "$$NHerbert, W. N.$$Rcontributor", "$$NHubbard, Susan$$Rcontributor", "$$NHumphrey, Shay$$Rcontributor", "$$NKilian, Crawford$$Rcontributor", "$$NKiteley, Brian$$Rcontributor", "$$NKunin, Aaron$$Rcontributor", "$$NLeahy, Anna$$Rcontributor", "$$NMarkham, E. A.$$Rcontributor", "$$NMcCracken, Scott$$Rcontributor", "$$NMichael, Livi$$Rcontributor", "$$NMilne, John$$Rcontributor", "$$NMount, Mary$$Rcontributor", "$$NMullins, Brighde$$Rcontributor", "$$NNewbery, Linda$$Rcontributor", "$$NNewman, Jenny$$Rcontributor", "$$NO'Brien, Sean$$Rcontributor", "$$NO'Neill, Bonnie$$Rcontributor", "$$NPattison, Pat$$Rcontributor", "$$NPenhaligan, Lee$$Rcontributor", "$$NRain, David$$Rcontributor", "$$NRamey, Lauri$$Rcontributor", "$$NRogers, Jane$$Rcontributor", "$$NRowland, Jane$$Rcontributor", "$$NSampson, Fiona$$Rcontributor", "$$NSargent, Linda$$Rcontributor", "$$NShapcott, Thomas$$Rcontributor", "$$NSheard, James$$Rcontributor", "$$NSmith, David$$Rcontributor", "$$NSmith, Hazel$$Rcontributor", "$$NSwander, Mary$$Rcontributor", "$$NSzirtes, George$$Rcontributor", "$$NTreleaven, Lou$$Rcontributor", "$$NTwichell, Chase$$Rcontributor", "$$NVanderslice, Stephanie$$Rcontributor", "$$NWilliams, Tony$$Rcontributor", "$$NWolff, Rebecca$$Rcontributor" ],
+        "date" : [ "2022 - 2014", "2022" ],
+        "isbn" : [ "9780748689774", "074868977X", "9780748689392" ],
+        "abstract" : [ "The inspirational resource for tutors, students and other creative writing professionals, now in a new edition. GBS_insertPreviewButtonPopup(['ISBN: 9780748689392','ISBN: 9780748689774']); 'An invaluable guide for anyone thinking of teaching creative writing, at any level...It's really nice to come across a book that's so thoughtfully organized, so thorough, entertaining and just plain useful'. Catherine Smith, The New Writer, on the first edition 54 chapters cover the 3 central pillars of writing creatively: theories of creativity; the craft of writing; and creative writing as a business. With contributions from over 50 experts - poets, novelists, dramatists, publishers, editors, tutors, critics and scholars - from the United Kingdom, the United States, Canada and Australia, this is the essential guide to writing, and getting published, in the English-speaking world.New for this edition: Chapters: on 'indie publishing', 'social media', 'flash fiction', 'song lyrics and poetry', 'creative critical hybrids' & 'collaboration in the theatre'Revised chapters on Making a Living as a Writer, Theories of Creativity, and Writing for the WebChapters updated to reflect changes in teaching, copyright & earning a living as a writerUpdated Glossary of TermsKey FeaturesA 3-in-1 text with outstanding breadth and depth of coverageGrounds the subject of creative writing and provides writing-related tasksFull of examples of ways to approach and improve your writing Valuable practical advice on getting published & making a living from your writingSteven Earnshaw is the published author of numerous short stories, essays on creative writing and books, ranging from Beginning Realism to The Pub in Literature (the essential work in the field). He has contributed to scholarly journals, edited collections and was a winner of the 2011 Brontë Society Literary Competition. During the day, he is Professor of English at Sheffield Hallam University. He has been involved in digital art collaborations. \"" ],
+        "cop" : [ "Edinburgh" ],
+        "pub" : [ "Edinburgh University Press" ],
+        "oclcid" : [ "(ocolc)1302162418" ],
+        "doi" : [ "10.1515/9780748689774" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Handbook of Creative Writing" ]
+      },
+      "sort" : {
+        "title" : [ "Handbook of Creative Writing /" ],
+        "author" : [ "Earnshaw, Steven, author." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:074868977X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn\"145ǂ h36 2014",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "42",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "50",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "140",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "27",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "97",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "24",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "206",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "466",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 52,
-    "COMBINED_SEARCH_TIME" : 54,
+    "BUILD_COMBINED_RESULTS_MAP" : 515,
+    "COMBINED_SEARCH_TIME" : 517,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2014",
+      "count" : "1"
+    }, {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Creative Writing",
+      "count" : "1"
+    }, {
+      "value" : "Création Littéraire",
+      "count" : "1"
+    }, {
+      "value" : "Literary Criticism Reference",
+      "count" : "1"
+    }, {
+      "value" : "Literary Studies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Barrington Judith",
+      "count" : "1"
+    }, {
+      "value" : "Bassnett Susan",
+      "count" : "1"
+    }, {
+      "value" : "Baverstock Alison",
+      "count" : "1"
+    }, {
+      "value" : "Braun Timothy",
+      "count" : "1"
+    }, {
+      "value" : "Brodie Alan",
+      "count" : "1"
+    }, {
+      "value" : "Brown Alan",
+      "count" : "1"
+    }, {
+      "value" : "Cantrell Mary",
+      "count" : "1"
+    }, {
+      "value" : "Creer Gareth",
+      "count" : "1"
+    }, {
+      "value" : "Dale John",
+      "count" : "1"
+    }, {
+      "value" : "Dawson Paul",
+      "count" : "1"
+    }, {
+      "value" : "Duncan Stephen V",
+      "count" : "1"
+    }, {
+      "value" : "Earnshaw Steven",
+      "count" : "1"
+    }, {
+      "value" : "Field Thalia",
+      "count" : "1"
+    }, {
+      "value" : "Friedmann Julian",
+      "count" : "1"
+    }, {
+      "value" : "Gutkind Lee",
+      "count" : "1"
+    }, {
+      "value" : "Harper Graeme",
+      "count" : "1"
+    }, {
+      "value" : "Harris Mike",
+      "count" : "1"
+    }, {
+      "value" : "Herbert W N",
+      "count" : "1"
+    }, {
+      "value" : "Hubbard Susan",
+      "count" : "1"
+    }, {
+      "value" : "Humphrey Shay",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

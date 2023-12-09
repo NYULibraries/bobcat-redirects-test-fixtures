@@ -1,22 +1,201 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996843414307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Poltergeist " ],
+        "format" : [ "1 online resource(1 video file(114 min.)) sound, color" ],
+        "creationdate" : [ "1982" ],
+        "description" : [ "A family finds that it's new home is haunted." ],
+        "mms" : [ "9996843414307871" ],
+        "contributor" : [ "Williams, JoBeth, actor$$QWilliams, JoBeth", "T. Nelson, Craig, actor$$QT. Nelson, Craig", "Straight, Beatrice, actor$$QStraight, Beatrice", "Dunne, Dominique, actor$$QDunne, Dominique", "Robins, Oliver, actor$$QRobins, Oliver", "O'Rourke, Heather, actor$$QO'Rourke, Heather", "Rubinstein, Zelda, actor$$QRubinstein, Zelda", "Casella, Marty, actor$$QCasella, Marty", "Lawson, Richard, actor$$QLawson, Richard", "McManus, Michael, actor$$QMcManus, Michael", "Hooper, Tobe, film director$$QHooper, Tobe" ],
+        "version" : [ "0" ],
+        "lds52" : [ "swankdc", "aleph009794317" ],
+        "lds60" : [ "Streaming video file." ],
+        "lds64" : [ "Directed by, Tobe Hooper" ],
+        "lds65" : [ "JoBeth Williams, Craig T. Nelson, Beatrice Straight, Dominique Dunne, Oliver Robins, Heather O'Rourke, Zelda Rubinstein, Marty Casella, Richard Lawson, Michael McManus" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996843414307871" ],
+        "recordid" : [ "alma9996843414307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(swankdc)8b8842721ebf29ba" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Williams", "T.Nelson", "Straight", "Dunne", "Robins", "O'Rourke", "Rubinstein", "Casella", "Lawson", "McManus", "Hooper" ],
+        "aufirst" : [ "JoBeth", "Craig", "Beatrice", "Dominique", "Oliver", "Heather", "Zelda", "Marty", "Richard", "Michael", "Tobe" ],
+        "auinit" : [ "J", "C", "B", "D", "O", "H", "Z", "R", "M", "T" ],
+        "addau" : [ "Williams, JoBeth", "T. Nelson, Craig", "Straight, Beatrice", "Dunne, Dominique", "Robins, Oliver", "O'Rourke, Heather", "Rubinstein, Zelda", "Casella, Marty", "Lawson, Richard", "McManus, Michael", "Hooper, Tobe" ],
+        "contributorfull" : [ "$$NWilliams, JoBeth$$LWilliams$$FJoBeth$$Rcontributor", "$$NT. Nelson, Craig$$Rcontributor", "$$NStraight, Beatrice$$Rcontributor", "$$NDunne, Dominique$$Rcontributor", "$$NRobins, Oliver$$Rcontributor", "$$NO'Rourke, Heather$$Rcontributor", "$$NRubinstein, Zelda$$Rcontributor", "$$NCasella, Marty$$Rcontributor", "$$NLawson, Richard$$Rcontributor", "$$NMcManus, Michael$$Rcontributor", "$$NHooper, Tobe$$Rcontributor" ],
+        "date" : [ "1982" ],
+        "abstract" : [ "A family finds that it's new home is haunted." ],
+        "oclcid" : [ "(smpinc)11150" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Poltergeist" ]
+      },
+      "sort" : {
+        "title" : [ "Poltergeist /" ],
+        "author" : [ "Williams, JoBeth, actor" ],
+        "creationdate" : [ "1982" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "19",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "27",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 29,
-    "COMBINED_SEARCH_TIME" : 31,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "168",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "126",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "32",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "61",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "370",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 394,
+    "COMBINED_SEARCH_TIME" : 397,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1982",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Casella Marty",
+      "count" : "1"
+    }, {
+      "value" : "Dunne Dominique",
+      "count" : "1"
+    }, {
+      "value" : "Hooper Tobe",
+      "count" : "1"
+    }, {
+      "value" : "Lawson Richard",
+      "count" : "1"
+    }, {
+      "value" : "Mcmanus Michael",
+      "count" : "1"
+    }, {
+      "value" : "Orourke Heather",
+      "count" : "1"
+    }, {
+      "value" : "Robins Oliver",
+      "count" : "1"
+    }, {
+      "value" : "Rubinstein Zelda",
+      "count" : "1"
+    }, {
+      "value" : "Straight Beatrice",
+      "count" : "1"
+    }, {
+      "value" : "T Nelson Craig",
+      "count" : "1"
+    }, {
+      "value" : "Williams Jobeth",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

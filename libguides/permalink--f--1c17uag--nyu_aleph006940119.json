@@ -1,22 +1,195 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996758952807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "other" ],
+        "language" : [ "eng" ],
+        "title" : [ "Life Stages from the Life Stage Clusters - 2018 database shown in # Families Date Type: Year; Country: USA; Socioeconomic Indicator: Nearly Senior (55-64) Single Parent Families with Children with Moderate Income" ],
+        "subject" : [ "Age", "Household Income", "Householders", "Households", "Housing Type", "Life Stages", "USA" ],
+        "format" : [ "online resource with data files" ],
+        "identifier" : [ "$$CISBN$$V9781544332840" ],
+        "creationdate" : [ "2023" ],
+        "creator" : [ "Easy Analytic Software Inc. (EASI)$$QEasy Analytic Software Inc. (EASI)" ],
+        "publisher" : [ "Thousand Oaks, CA : Sage Publications, Inc." ],
+        "description" : [ "Provides metrics associated with life stage of householder in key demographic market segments within a geographic area. Each of the 84 segments in the EASI Life Stages system uniquely combines three household characteristics: age of household head, family/household type, and household income. The dataset includes statistics on the size of the population at each of the EASI Life Stages for United States geographies, along with reference statistics." ],
+        "mms" : [ "9996758952807871" ],
+        "place" : [ "Thousand Oaks, CA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "sagedata", "aleph006940119" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996758952807871" ],
+        "recordid" : [ "alma9996758952807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(sagedata)05d4d19ef87c2b04" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aucorp" : [ "Easy Analytic Software Inc. (EASI)" ],
+        "date" : [ "2010", "2023" ],
+        "isbn" : [ "9781544332840" ],
+        "abstract" : [ "Provides metrics associated with life stage of householder in key demographic market segments within a geographic area. Each of the 84 segments in the EASI Life Stages system uniquely combines three household characteristics: age of household head, family/household type, and household income. The dataset includes statistics on the size of the population at each of the EASI Life Stages for United States geographies, along with reference statistics." ],
+        "cop" : [ "Thousand Oaks, CA" ],
+        "pub" : [ "Sage Publications, Inc." ],
+        "oclcid" : [ "(catosage)1576-050462001" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "gen" ],
+        "btitle" : [ "Life Stages from the Life Stage Clusters - 2018 database shown in # Families Date Type: Year; Country: USA; Socioeconomic Indicator: Nearly Senior (55-64) Single Parent Families with Children with Moderate Income" ]
+      },
+      "sort" : {
+        "title" : [ "Life Stages from the Life Stage Clusters - 2018 database shown in # Families Date Type: Year; Country: USA; Socioeconomic Indicator: Nearly Senior (55-64) Single Parent Families with Children with Moderate Income" ],
+        "author" : [ "Easy Analytic Software Inc. (EASI)" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781544332840,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "59",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "63",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "107",
+    "CALL_SOLR_GET_IDS_LIST" : "118",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "65",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "38",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "63",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "62",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "60",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "367",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 65,
-    "COMBINED_SEARCH_TIME" : 66,
+    "BUILD_COMBINED_RESULTS_MAP" : 393,
+    "COMBINED_SEARCH_TIME" : 396,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "other",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Age",
+      "count" : "1"
+    }, {
+      "value" : "Household Income",
+      "count" : "1"
+    }, {
+      "value" : "Householders",
+      "count" : "1"
+    }, {
+      "value" : "Households",
+      "count" : "1"
+    }, {
+      "value" : "Housing Type",
+      "count" : "1"
+    }, {
+      "value" : "Life Stages",
+      "count" : "1"
+    }, {
+      "value" : "Usa",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Easy Analytic Software Inc Easi",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

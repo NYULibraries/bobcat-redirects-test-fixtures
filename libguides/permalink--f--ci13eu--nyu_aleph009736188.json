@@ -1,22 +1,212 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995904568607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Vampire films around the world : essays on the cinematic undead of sixteen cultures " ],
+        "subject" : [ "Vampire films -- History and criticism", "Dracula films -- History and criticism", "Films de Dracula -- Histoire et critique", "Cinéma -- Aspect social", "Dracula films", "Motion pictures -- Social aspects", "Vampire films" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781476639864;$$CISBN$$V1476639868;$$COCLC$$V(OCoLC)1202620031;$$CISBN$$V9781476676739;$$CISBN$$V1476676739" ],
+        "creationdate" : [ "2020" ],
+        "publisher" : [ "Jefferson : McFarland & Company, Inc., Publishers" ],
+        "description" : [ "\"\"Vampires are arguably the most popular and most paradoxical of gothic monsters: life draining yet passionate, feared yet fascinating, dead yet immortal. Vampire content produces exquisitely suspenseful stories that, combined with motion picture filmmaking, reveal much about the cultures that enable vampire film production and the audiences they attract. This collection of essays is generously illustrated and ranges across sixteen cultures on five continents, including the films: Let the Right One In, What We Do in the Shadows, Cronos, and We Are the Night, among many others. Distinctly different kinds of European vampires have originated in Ireland, Germany, Sweden, and Serbia. North American vampires are represented by films from Mexico, Canada, and the USA. Middle Eastern locations include Tangier, Morocco, and a fictional city in Iran. South Asia has produced Bollywood vampire films, and east Asian vampires are represented by films from Korea, China, and Japan. Some of the most recent vampire movies have come from Australia and New Zealand. These essays also look at vampire films through lenses of gender, post-colonialism, camp, and otherness as well as the evolution of the vampiric character in cinema worldwide, together constituting a mosaic of the cinematic undead.\"--Provided by publisher\"-- Provided by publisher" ],
+        "mms" : [ "9995904568607871" ],
+        "contributor" : [ "Aubrey, James, 1945- editor.$$QAubrey, James" ],
+        "contents" : [ "Cover -- Table of Contents -- Introduction (James Aubrey) -- Australia-Children of the Night in a Sunburnt Country: Aristocrats and Outback Vampires (Graeme A. Wend- Walker) -- Canada-A Monstrous Showing: Movement and Deformed Discourse in Guy Maddin's Vampire Ballet Film Dracula: Pages from a Virgin's Diary (Lorna Hutchison) -- China-The Hong Kong Vampire Returns: Nostalgia, Pastiche and Politics in Rigor Mortis (Fontaine Lien) -- Germany-Nosferatu's Daughters: Radical Feminism, Lesbo-Vampirism and Fluid Identities in Dennis Gansel's Wir sind die Nacht (We Are the Night) (Kai-uwe Werbeck)", "India-Chutney Vampires: Contextualizing Bollywood's Undead Cinema (Anurag Chauhan) -- Iran-Reclaiming the Marginalized Female Body in Ana Lily Amirpour's A Girl Walks Home Alone at Night (U. Melissa Anyiwo) -- Ireland and UK-Creating an Irish Neomyth: Byzantium's Feminist Vampires (James Aubrey) -- Italy-Dario Argento's Dracula 3D: History, Genre and the Politics of Camp (Vincent Piturro) -- Japan-The Intertextuality of Moon Child: How Japanese Popular Culture Molds and Interprets Gender and the Vampire (Jade Lum)", "Korea-Blood, Dust and the Black Universe: From Asia Extreme to the Vampire World-Image in Thirst, The Wailing and the New Korean Vampire Horror Cinema (David John Boyd) -- Mexico-The Craft of Delicacy in Cronos: Rethinking Vampire Films in Latin America (Roberto Forns-Broggi) -- Morocco and USA-Only Lovers Left Alive: Expat Vampires and Post-Imperial Cosmopolitanism (Wendolyn Weber) -- New Zealand -\"Don't ... don't believe the hype!\" Vampiric Evolution and What We Do in the Shadows (Charles Hoge) -- Serbia-Vampire Privilege: Class, Gender and Sex in Serbian Metaphysical Horror (Tatjana Aleksic)", "Sweden-Unqueering Child Vampire Love in Let the Right One In (James Aubrey) -- USA-Museological Horror in Ganja and Hess and Da Sweet Blood of Jesus (Cheryl D. Edelson) -- USA-\"It's more like a disease\": Compensatory Masculinities and Intersectional \"Otherness\" in The Transfiguration (Cain Miller) -- Filmography -- Bibliography -- About the Contributors -- Index" ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Vampire films around the world. Jefferson : McFarland & Company, Inc., Publishers, 2020$$QVampire films around the world." ],
+        "place" : [ "Jefferson :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoac", "aleph009736188" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995904568607871" ],
+        "recordid" : [ "alma9995904568607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009736188-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Aubrey" ],
+        "aufirst" : [ "James" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Aubrey, James" ],
+        "contributorfull" : [ "$$NAubrey, James$$LAubrey$$FJames$$Reditor" ],
+        "date" : [ "2020 - 2020", "2020" ],
+        "isbn" : [ "9781476639864", "1476639868", "9781476676739", "1476676739" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"\"Vampires are arguably the most popular and most paradoxical of gothic monsters: life draining yet passionate, feared yet fascinating, dead yet immortal. Vampire content produces exquisitely suspenseful stories that, combined with motion picture filmmaking, reveal much about the cultures that enable vampire film production and the audiences they attract. This collection of essays is generously illustrated and ranges across sixteen cultures on five continents, including the films: Let the Right One In, What We Do in the Shadows, Cronos, and We Are the Night, among many others. Distinctly different kinds of European vampires have originated in Ireland, Germany, Sweden, and Serbia. North American vampires are represented by films from Mexico, Canada, and the USA. Middle Eastern locations include Tangier, Morocco, and a fictional city in Iran. South Asia has produced Bollywood vampire films, and east Asian vampires are represented by films from Korea, China, and Japan. Some of the most recent vampire movies have come from Australia and New Zealand. These essays also look at vampire films through lenses of gender, post-colonialism, camp, and otherness as well as the evolution of the vampiric character in cinema worldwide, together constituting a mosaic of the cinematic undead.\"--Provided by publisher\"-- Provided by publisher" ],
+        "cop" : [ "Jefferson" ],
+        "pub" : [ "McFarland & Company, Inc., Publishers" ],
+        "oclcid" : [ "(ocolc)1202620031" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Vampire films around the world : essays on the cinematic undead of sixteen cultures" ]
+      },
+      "sort" : {
+        "title" : [ "Vampire films around the world : essays on the cinematic undead of sixteen cultures /" ],
+        "author" : [ "Aubrey, James, 1945- editor." ],
+        "creationdate" : [ "2020" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995904568607871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1476639868,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1995.9 v3ǂv36 2020",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "27",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 34,
-    "COMBINED_SEARCH_TIME" : 35,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "143",
+    "CALL_SOLR_GET_IDS_LIST" : "77",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "99",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "90",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "94",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "122",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "453",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 482,
+    "COMBINED_SEARCH_TIME" : 486,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2020",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Cinéma Aspect Social",
+      "count" : "1"
+    }, {
+      "value" : "Dracula Films",
+      "count" : "1"
+    }, {
+      "value" : "Dracula Films History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Films De Dracula Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Motion Pictures Social Aspects",
+      "count" : "1"
+    }, {
+      "value" : "Vampire Films",
+      "count" : "1"
+    }, {
+      "value" : "Vampire Films History And Criticism",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aubrey James",
+      "count" : "1"
+    } ]
+  } ]
 }

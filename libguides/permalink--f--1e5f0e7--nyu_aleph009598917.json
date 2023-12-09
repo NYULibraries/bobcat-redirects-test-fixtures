@@ -1,22 +1,193 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995916486807871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Digital supply chain, disruptive environments, and the impact on retailers " ],
+        "subject" : [ "Logistique (Organisation) -- Innovations", "Business logistics -- Technological innovations", "Business planning" ],
+        "format" : [ "1 online resource (xx, 373 pages) : illustrations (chiefly color)." ],
+        "identifier" : [ "$$CLC$$V2022062314;$$CISBN$$V1668473003;$$CISBN$$V9781668473016;$$CISBN$$V1668473011;$$CISBN$$V9781668473009;$$COCLC$$V(OCoLC)1368041243;$$CISBN$$V9781668472989" ],
+        "creationdate" : [ "2023" ],
+        "publisher" : [ "Hershey, PA : Business Science Reference, an imprint of IGI Global" ],
+        "description" : [ "\"Digital Supply Chain, Disruptive Environments, and the Impact on Retailers brings together the field's latest best practices on digital supply chain enablement, giving business professionals a comprehensive framework to ensure successful supply chain business transformation programs. Covering topics such as business planning, digital transformation, and volatile demand, this premier reference source is an excellent resource for managers, directors, vice presidents, supply chain executives, IT directors, consultants, students and educators of higher education, librarians, researchers, and academicians\"-- Provided by publisher." ],
+        "mms" : [ "9995916486807871" ],
+        "contributor" : [ "Sabri, Ehap H., 1967- editor.$$QSabri, Ehap H." ],
+        "series" : [ "Advances in logistics, operations, and management science (ALOMS) book series$$QAdvances in logistics, operations, and management science (ALOMS) book series", "Advances in logistics, operations, and management science (ALOMS) book series.$$QAdvances in logistics, operations, and management science (ALOMS) book series." ],
+        "contents" : [ "Title Page -- Copyright Page -- Book Series -- Editorial Advisory Board -- Table of Contents -- Detailed Table of Contents -- Preface -- Acknowledgment -- Section 1: Key Considerations for Successful Digital Transformations -- Chapter 1: How to Master Change Management During the Supply Chain Digital Transformation Journey -- Chapter 2: A Clustering Analysis to Identify the Performance of Food and Grocery Retail Companies Before and During the COVID-19 Pandemic -- Chapter 3: Supply Chain Performance Measurement and Organizational Alignment in an Uncertain World", "Chapter 4: How to Implement the Supply Chain Digital Segmentation Strategy Successfully -- Section 2: Optimizing Supply Chain Planning Processes Leveraging Digital Technologies -- Chapter 5: Autonomous Integrated Business Planning -- Chapter 6: Value of Decision Speed in Delivering Supply Chain Benefits -- Chapter 7: Capacity Planning -- Chapter 8: Augmenting Capabilities of Advanced Planning and Scheduling Systems With Curated IIoT Data -- Chapter 9: Digital Supply Chain -- Section 3: Improving Visibility, Procurement, and Logistics Processes Leveraging Digital Technologies", "Chapter 10: Shifting Gears -- Chapter 11: Supply Chain Visibility -- Chapter 12: Rethinking Direct Materials Procurement Within Digital Ecosystems -- Chapter 13: Retail Procurement Strategies in Disruptive Environments -- Chapter 14: Reverse Logistics in the Digital Supply Chain Era -- Section 4: Key Enablers for Digital Transformations -- Chapter 15: The Role of Internet of Things and Blockchain in the Development of Agile and Sustainable Supply Chains -- Chapter 16: How the Use of 5G in Supply Chain Operations Can Prevent Future Disruptions", "Chapter 17: Day in the Life of Supply Chain Analysts in a Digital World -- Chapter 18: Impact of the Coronavirus Pandemic on the Retail Industry and Its IoT Applications' Security Vulnerabilities -- Compilation of References -- About the Contributors -- Index" ],
+        "relation" : [ "$$Cform$$VPrint version: Digital supply chain, disruptive environments, and the impact on retailers Hershey, PA : Business Science Reference, [2023]$$QDigital supply chain, disruptive environments, and the impact on retailers" ],
+        "place" : [ "Hershey, PA :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "igiglobal", "aleph009598917" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995916486807871" ],
+        "recordid" : [ "alma9995916486807871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009598917-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967245E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sabri" ],
+        "aufirst" : [ "Ehap H." ],
+        "auinit" : [ "E" ],
+        "addau" : [ "Sabri, Ehap H." ],
+        "contributorfull" : [ "$$NSabri, Ehap H.$$LSabri$$FEhap H.$$Reditor" ],
+        "date" : [ "2023" ],
+        "isbn" : [ "1668473003", "9781668473016", "1668473011", "9781668473009", "9781668472989" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"Digital Supply Chain, Disruptive Environments, and the Impact on Retailers brings together the field's latest best practices on digital supply chain enablement, giving business professionals a comprehensive framework to ensure successful supply chain business transformation programs. Covering topics such as business planning, digital transformation, and volatile demand, this premier reference source is an excellent resource for managers, directors, vice presidents, supply chain executives, IT directors, consultants, students and educators of higher education, librarians, researchers, and academicians\"-- Provided by publisher." ],
+        "cop" : [ "Hershey, PA" ],
+        "pub" : [ "Business Science Reference, an imprint of IGI Global" ],
+        "oclcid" : [ "(ocolc)1368041243" ],
+        "doi" : [ "10.4018/978-1-6684-7298-9" ],
+        "lccn" : [ "2022062314" ],
+        "seriestitle" : [ "Advances in logistics, operations, and management science (ALOMS) book series" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Digital supply chain, disruptive environments, and the impact on retailers" ]
+      },
+      "sort" : {
+        "title" : [ "Digital supply chain, disruptive environments, and the impact on retailers /" ],
+        "author" : [ "Sabri, Ehap H., 1967- editor." ],
+        "creationdate" : [ "2023" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1668473011,OCLC:,LCCN:2022062314&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "hd!38.5ǂ d543 2023",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "41",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "45",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 46,
-    "COMBINED_SEARCH_TIME" : 49,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "133",
+    "CALL_SOLR_GET_IDS_LIST" : "113",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "61",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "41",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "84",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "58",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "401",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 432,
+    "COMBINED_SEARCH_TIME" : 435,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Business Logistics Technological Innovations",
+      "count" : "1"
+    }, {
+      "value" : "Business Planning",
+      "count" : "1"
+    }, {
+      "value" : "Logistique Organisation Innovations",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Sabri Ehap H",
+      "count" : "1"
+    } ]
+  } ]
 }

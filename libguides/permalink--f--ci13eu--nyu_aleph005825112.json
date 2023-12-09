@@ -1,10 +1,10 @@
 {
   "info" : {
-    "totalResultsLocal" : 1,
+    "totalResultsLocal" : 2,
     "totalResultsPC" : -1,
-    "total" : 1,
+    "total" : 2,
     "first" : 1,
-    "last" : 1
+    "last" : 2
   },
   "highlights" : {
     "termsUnion" : [ ]
@@ -42,7 +42,7 @@
         "originalsourceid" : [ "005825112-NYU01" ],
         "sourcesystem" : [ "ILS" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203848E-6" ],
+        "score" : [ "2.467979E-4" ],
         "isDedup" : false
       },
       "addata" : {
@@ -155,74 +155,210 @@
         "callNumberBrowseField" : ""
       }
     }
+  }, {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997705787907871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "FREE CeCe!" ],
+        "subject" : [ "MacDonald, CeCe", "Transgender people -- Civil rights", "Transgender people -- Legal status, laws, etc", "Prisons -- United States" ],
+        "format" : [ "1 online resource (streaming video file) (87 min.) $b sound, color ;", "video file" ],
+        "creationdate" : [ "2016" ],
+        "publisher" : [ "Austin, Texas : Tugg Edu" ],
+        "description" : [ "\"On her way to the store with a group of friends, Chrishaun Reed “CeCe” McDonald was brutally attacked. While defending her life, a man was killed. After a coercive interrogation, CeCe was incarcerated in a men’s prison in Minnesota. An international campaign to free CeCe garnered significant support from media and activists, including actress Laverne Cox. Cox signed on as executive producer of FREE CECE!, committed to exploring the role race, class, and gender played in CeCe’s case. In the end, CeCe emerged not only as a survivor, but also as a leader. Documentarian Jac Gares pushed past the everyday narratives of victimhood surrounding the lives of transgender people, to spotlight the way CeCe and other trans people are leading a growing movement fighting for the rights of transgender people everywhere. CeCe's powerful story highlights the groundswell of voices questioning the prison industrial complex and calling for its disassembly.\"--tugg.com." ],
+        "mms" : [ "9997705787907871" ],
+        "contributor" : [ "Gares, Jacqueline (Jac), film director.$$QGares, Jacqueline", "Cox, Laverne, producer.$$QCox, Laverne", "LeSesne, Jordana, composer.$$QLeSesne, Jordana", "Satre, Erik, editor of moving image work.$$QSatre, Erik", "Tugg Inc.$$QTugg Inc." ],
+        "genre" : [ "Documentary films" ],
+        "place" : [ "Austin, Texas] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "aleph005825112" ],
+        "lds53" : [ "005825112" ],
+        "lds60" : [ "Originally released 2016." ],
+        "lds64" : [ "Director/producer, Jacqueline (Jac) Gares ; executive producer, Laverne Cox ; music, Jordana LeSesne ; editor, Erik Satre." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997705787907871" ],
+        "recordid" : [ "alma9997705787907871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "9995836276707875" ],
+        "sourcesystem" : [ "01NYU_NETWORK" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "2.467979E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gares", "Cox", "LeSesne", "Satre" ],
+        "aufirst" : [ "Jacqueline", "Laverne", "Jordana", "Erik" ],
+        "auinit" : [ "L", "J", "E" ],
+        "addau" : [ "Gares, Jacqueline (Jac)", "Cox, Laverne", "LeSesne, Jordana", "Satre, Erik" ],
+        "contributorfull" : [ "$$NGares, Jacqueline (Jac)$$LGares$$FJacqueline$$Rcontributor", "$$NCox, Laverne$$Rcontributor", "$$NLeSesne, Jordana$$Rcomposer", "$$NSatre, Erik$$Rcontributor" ],
+        "date" : [ "2022", "2016" ],
+        "abstract" : [ "\"On her way to the store with a group of friends, Chrishaun Reed “CeCe” McDonald was brutally attacked. While defending her life, a man was killed. After a coercive interrogation, CeCe was incarcerated in a men’s prison in Minnesota. An international campaign to free CeCe garnered significant support from media and activists, including actress Laverne Cox. Cox signed on as executive producer of FREE CECE!, committed to exploring the role race, class, and gender played in CeCe’s case. In the end, CeCe emerged not only as a survivor, but also as a leader. Documentarian Jac Gares pushed past the everyday narratives of victimhood surrounding the lives of transgender people, to spotlight the way CeCe and other trans people are leading a growing movement fighting for the rights of transgender people everywhere. CeCe's powerful story highlights the groundswell of voices questioning the prison industrial complex and calling for its disassembly.\"--tugg.com." ],
+        "cop" : [ "Austin, Texas" ],
+        "pub" : [ "Tugg Edu" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "FREE CeCe!" ]
+      },
+      "sort" : {
+        "title" : [ "FREE CeCe!" ],
+        "author" : [ "Gares, Jacqueline (Jac), film director." ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9997705787907871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "113",
-    "CALL_SOLR_GET_IDS_LIST" : "143",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "36",
-    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "47",
-    "RETRIVE_FROM_DB_RELATIONS" : "25",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
-    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "153",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "461",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "45",
+    "CALL_SOLR_GET_IDS_LIST" : "82",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "5",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "2",
+    "RETRIVE_FROM_DB_RECORDS" : "35",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "26",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "95",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "257",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 493,
-    "COMBINED_SEARCH_TIME" : 496,
+    "BUILD_COMBINED_RESULTS_MAP" : 293,
+    "COMBINED_SEARCH_TIME" : 295,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
   "facets" : [ {
     "name" : "lang",
     "values" : [ {
       "value" : "eng",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "creationdate",
     "values" : [ {
       "value" : "2016",
+      "count" : "2"
+    }, {
+      "value" : "2022",
       "count" : "1"
     } ]
   }, {
     "name" : "rtype",
     "values" : [ {
       "value" : "videos",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "topic",
     "values" : [ {
       "value" : "Macdonald Cece",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Prisons United States",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Transgender People Civil Rights",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Transgender People Legal Status Laws Etc",
-      "count" : "1"
+      "count" : "2"
     } ]
   }, {
     "name" : "creator",
     "values" : [ {
       "value" : "Cox Laverne",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Gares Jacqueline",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Lesesne Jordana",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Satre Erik",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Tugg Inc",
+      "count" : "2"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    }, {
+      "value" : "30 days back",
       "count" : "1"
     } ]
   }, {

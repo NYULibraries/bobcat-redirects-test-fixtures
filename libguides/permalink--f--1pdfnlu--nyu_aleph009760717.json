@@ -1,22 +1,202 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995917907107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Hauntings " ],
+        "subject" : [ "Histoires de fantômes", "FICTION -- General", "FICTION -- Horror", "Ghost stories" ],
+        "format" : [ "1 online resource" ],
+        "identifier" : [ "$$CISBN$$V9781616961442;$$CISBN$$V1616961449;$$CISBN$$V9781616961459;$$CISBN$$V1616961457;$$CISBN$$V9781616961466;$$CISBN$$V1616961465;$$COCLC$$V(OCoLC)833765388;$$CISBN$$V9781616960889" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "San Francisco, Calif. : Tachyon Publications" ],
+        "description" : [ "The spookiest of specters inhabit this spine-tingling anthology compiled by an acclaimed editor of the horror genre that collects the most chilling ghost stories from the past 25 years." ],
+        "mms" : [ "9995917907107871" ],
+        "contributor" : [ "Datlow, Ellen.$$QDatlow, Ellen." ],
+        "contents" : [ "Introduction / Ellen Datlow -- Eenie, meenie, ipsateenie / Pat Cadigan -- Hunger: a confession / Dale Bailey -- Cargo / E. Michael Lewis -- Delta Sly Honey / Lucius Shepard -- Nothing will hurt you / David Morrell -- The Ammonite violin (Murder ballad No. 4) / Caitlín R. Kiernan -- Haunted / Joyce Carol Oates -- The have-nots / Elizabeth Hand -- Closing time / Neil Gaiman -- Anna / F. Paul Wilson -- Mr. Fiddlehead / Jonathan Carroll -- The fooly / Terry Dowling -- The toll / Paul Walther -- The Pennine Tower Restaurant / Simon Kurt Unsworth -- Distress call / Connie Willis -- The horn / Stephen Gallagher -- Everybody goes / Michael Marshall Smith -- Transfigured night / Richard Bowes -- Hula Ville / James P. Blaylock -- The bedroom light / Jeffrey Ford -- Spectral evidence / Gemma Files -- Two houses / Kelly Link -- Where angels come in / Adam L.G. Nevill -- Hunger, an introduction / Peter Straub." ],
+        "genre" : [ "short stories", "ghost stories", "Short stories", "Ghost stories", "Science fiction", "Fantasy fiction", "Horror fiction", "Nouvelles", "Histoires de fantômes" ],
+        "relation" : [ "$$Cform$$VPrint version: Datlow, Ellen. Hauntings. Chicago : Tachyon Publications, ©2013$$QHauntings." ],
+        "place" : [ "San Francisco, Calif. :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoac", "aleph009760717" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995917907107871" ],
+        "recordid" : [ "alma9995917907107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009760717-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Datlow" ],
+        "aufirst" : [ "Ellen." ],
+        "auinit" : [ "E" ],
+        "addau" : [ "Datlow, Ellen." ],
+        "contributorfull" : [ "$$NDatlow, Ellen.$$LDatlow$$FEllen.$$Rcontributor" ],
+        "date" : [ "2013" ],
+        "isbn" : [ "9781616961442", "1616961449", "9781616961459", "1616961457", "9781616961466", "1616961465", "9781616960889" ],
+        "abstract" : [ "The spookiest of specters inhabit this spine-tingling anthology compiled by an acclaimed editor of the horror genre that collects the most chilling ghost stories from the past 25 years." ],
+        "cop" : [ "San Francisco, Calif" ],
+        "pub" : [ "Tachyon Publications" ],
+        "oclcid" : [ "(ocolc)833765388" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Hauntings" ]
+      },
+      "sort" : {
+        "title" : [ "Hauntings /" ],
+        "author" : [ "Datlow, Ellen." ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9995917907107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1616961449,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "ps\"648 g48ǂh38 2013eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "19",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "27",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "103",
+    "CALL_SOLR_GET_IDS_LIST" : "137",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "37",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "57",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "191",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "472",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 28,
-    "COMBINED_SEARCH_TIME" : 30,
+    "BUILD_COMBINED_RESULTS_MAP" : 511,
+    "COMBINED_SEARCH_TIME" : 513,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Fiction General",
+      "count" : "1"
+    }, {
+      "value" : "Fiction Horror",
+      "count" : "1"
+    }, {
+      "value" : "Ghost Stories",
+      "count" : "1"
+    }, {
+      "value" : "Histoires De Fantômes",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Datlow Ellen",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,22 +1,229 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996728365507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Adopted Budget FY 2010-11" ],
+        "subject" : [ "administration, management", "budget, municipal, operating", "accountability", "finance", "budget messages", "budget, municipal", "budget" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2010" ],
+        "publisher" : [ "Chula Vista, CA : Office of the City Manager." ],
+        "description" : [ "It accounts for various inter-fund transfers such as the loan repayment from the RDA to the General Fund and the loan from the Eastern Park Acquisition and Development (PAD) fund to the Western PAD fund for the purchase of the lower Sweetwater parkland. [...] The single largest increase ({dollar}11.8 million) in this expenditure category is in the South West/Towne Center II/Otay Valley Fund, which reflects the increase in the Redevelopment Agency loan repayment to the General Fund and the transfers out for the Southwest tax agreement. [...] The increase in revenue %change09-10to1-11 2.2% reflects the continued impacts of the prolonged national and local recession offset by a one-time increase in the loan repayment from the RDA to the General Fund. [...] It is the professional support office of city government for the Mayor and City Council in the legislative branch and apart from the administrative functions of the City. [...] - 57 - In addition, the Mayor has eight specific responsibilities defined in the City Charter, these are: (1) To report to the City Council annually and from time to time on the affairs of the City and to recommend for its consideration such matters as deemed expedient, and, (2) To be the official head of the City for all political and ceremonial purposes and to be recognized by the courts for the [...] Under Section 304 (4) of the City Charter, The Mayor is assigned the primary responsibility for interpreting to the community the policies, programs, needs of the City government and communicating any change in these policies and programs. [...] As part of the legislative services program, the City Clerk handles a variety of tasks from updating and maintaining the Municipal Code to recording, certifying, and preserving the actions of the City Council. [...] - 64 - CITY CLERK/ELECTIONS MISSION STATEMENT The City Clerk's Office is committed to accurately recording and preserving the actions of the City Council; safeguarding all vital, historic and permanent records of the City; providing information and support to the City Council, City staff, and the public in a timely, courteous and fiscally responsible manner; and administering open and free electio [...] As the City's general counsel, the City Attorney provides a full range of legal services to the City and is the chief legal advisor to the City Council, City Manager, Redevelopment Agency, City departments, and all appointed boards and commissions. [...] - 68 - CITY ATTORNEY MISSION STATEMENT The mission of the Chula Vista City Attorney's Office is to provide legal advice and support to the Mayor and Council, City departments, and boards and commissions in the conduct of City business, represent the City before judicial and administrative agencies in civil litigation proceedings and prosecute misdemeanor violations of the Chula Vista Municipal Cod" ],
+        "mms" : [ "9996728365507871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "Chula Vista, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007536365" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996728365507871" ],
+        "recordid" : [ "alma9996728365507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)4469037568766d63" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2010" ],
+        "abstract" : [ "It accounts for various inter-fund transfers such as the loan repayment from the RDA to the General Fund and the loan from the Eastern Park Acquisition and Development (PAD) fund to the Western PAD fund for the purchase of the lower Sweetwater parkland. [...] The single largest increase ({dollar}11.8 million) in this expenditure category is in the South West/Towne Center II/Otay Valley Fund, which reflects the increase in the Redevelopment Agency loan repayment to the General Fund and the transfers out for the Southwest tax agreement. [...] The increase in revenue %change09-10to1-11 2.2% reflects the continued impacts of the prolonged national and local recession offset by a one-time increase in the loan repayment from the RDA to the General Fund. [...] It is the professional support office of city government for the Mayor and City Council in the legislative branch and apart from the administrative functions of the City. [...] - 57 - In addition, the Mayor has eight specific responsibilities defined in the City Charter, these are: (1) To report to the City Council annually and from time to time on the affairs of the City and to recommend for its consideration such matters as deemed expedient, and, (2) To be the official head of the City for all political and ceremonial purposes and to be recognized by the courts for the [...] Under Section 304 (4) of the City Charter, The Mayor is assigned the primary responsibility for interpreting to the community the policies, programs, needs of the City government and communicating any change in these policies and programs. [...] As part of the legislative services program, the City Clerk handles a variety of tasks from updating and maintaining the Municipal Code to recording, certifying, and preserving the actions of the City Council. [...] - 64 - CITY CLERK/ELECTIONS MISSION STATEMENT The City Clerk's Office is committed to accurately recording and preserving the actions of the City Council; safeguarding all vital, historic and permanent records of the City; providing information and support to the City Council, City staff, and the public in a timely, courteous and fiscally responsible manner; and administering open and free electio [...] As the City's general counsel, the City Attorney provides a full range of legal services to the City and is the chief legal advisor to the City Council, City Manager, Redevelopment Agency, City departments, and all appointed boards and commissions. [...] - 68 - CITY ATTORNEY MISSION STATEMENT The mission of the Chula Vista City Attorney's Office is to provide legal advice and support to the Mayor and Council, City departments, and boards and commissions in the conduct of City business, represent the City before judicial and administrative agencies in civil litigation proceedings and prosecute misdemeanor violations of the Chula Vista Municipal Cod" ],
+        "cop" : [ "Chula Vista, CA" ],
+        "pub" : [ "Office of the City Manager." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/553zdr" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Adopted Budget FY 2010-11" ]
+      },
+      "sort" : {
+        "title" : [ "Adopted Budget FY 2010-11," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2010" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996728365507871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996728365507871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996728365507871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "14",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "22",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 23,
-    "COMBINED_SEARCH_TIME" : 24,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "79",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "67",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "32",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "33",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "40",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "280",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 317,
+    "COMBINED_SEARCH_TIME" : 322,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 0
+    "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2010",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Accountability",
+      "count" : "1"
+    }, {
+      "value" : "Administration Management",
+      "count" : "1"
+    }, {
+      "value" : "Budget",
+      "count" : "1"
+    }, {
+      "value" : "Budget Messages",
+      "count" : "1"
+    }, {
+      "value" : "Budget Municipal",
+      "count" : "1"
+    }, {
+      "value" : "Budget Municipal Operating",
+      "count" : "1"
+    }, {
+      "value" : "Finance",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

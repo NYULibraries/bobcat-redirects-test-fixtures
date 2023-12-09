@@ -1,22 +1,241 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990087291310107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Queer horror film and television : sexuality and masculinity at the margins " ],
+        "subject" : [ "Horror films -- History and criticism", "Films d'horreur -- Histoire et critique", "Rôle selon le sexe au cinéma", "Homosexualité au cinéma", "PERFORMING ARTS -- Reference", "Homosexuality and motion pictures", "Homosexuality in motion pictures", "Horror films", "Sex role in motion pictures" ],
+        "format" : [ "1 online resource (xi, 252 pages) : illustrations." ],
+        "identifier" : [ "$$CLC$$V2018295259;$$CISBN$$V1786731371;$$CISBN$$V9781786721372;$$CISBN$$V1786721376;$$COCLC$$V(OCoLC)963702142;$$CISBN$$V9781786731371" ],
+        "creationdate" : [ "2016" ],
+        "creator" : [ "Elliott-Smith, Darren, author.$$QElliott-Smith, Darren" ],
+        "publisher" : [ "London ; New York, NY : I.B. Tauris & Co. Ltd" ],
+        "description" : [ "In recent years, the representation of alternative sexuality in the horror film and television has \"outed\" itself from the shadows from which it once lurked, via the embrace of an outrageously queer horror aesthetic where homosexuality is often unequivocally referenced. In this book, Darren Elliott-Smith departs from the analysis of the monster as a symbol of heterosexual anxiety and fear, and moves to focus instead on queer fears and anxieties within gay male subcultures. Furthermore, he examines the works of significant queer horror film, television producers, and directors to reveal gay men's anxieties about: acceptance and assimilation into Western culture, the perpetuation of self-loathing and gay shame, and further anxieties associations shameful femininity. This book focuses mainly on representations of masculinity, and gay male spectatorship in queer horror films and television post-2000. In titling this sub-genre \"queer horror,\" Elliott-Smith designates horror that is crafted by male directors/producers who self-identify as gay, bi, queer, or transgendered and whose work features homoerotic, or explicitly homosexual, narratives with \"out\" gay characters. In terms of case studies, this book considers a variety of genres and forms from: video art horror; independently distributed exploitation films (A Far Cry from Home, Rowe Kelly, 2012); queer Gothic soap operas (Dante's Cove, 2005-7); satirical horror comedies (such as The Gay Bed and Breakfast of Terror (Thompson, 2008); low-budget slashers (Hellbent, Etheredge-Outzs, 2007); and contemporary representations of gay zombies in film and television from the pornographic LA Zombie (Bruce LaBruce, 2010)) to the melodramatic In the Flesh (BBC Three 2013-15). Moving from the margins to the mainstream, via the application of psychoanalytic theory, critical and cultural interpretation, interviews with key directors and close readings of classic, cult and modern horror, this book will be invaluable to students and researchers of gender and sexuality in horror film and television." ],
+        "mms" : [ "990087291310107871" ],
+        "series" : [ "Library of Gender and Popular Culture ; 11$$QLibrary of Gender and Popular Culture ", "Library of gender and popular culture ; 11.$$QLibrary of gender and popular culture " ],
+        "contents" : [ "Queering Carrie : Appropriations of a Horror Icon -- Indelible : Carrie and the Boyz -- The Rise of Queer Fear : DeCoteau and Gaysploitation Horror -- Shattering the Closet : Queer Horror Outs Itself -- Gay Slasher Horror : Devil Daddies and Final Boys -- Pride and Shame : Queer Horror Appropriation -- Off-cuts and Conclusions." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version:$$Z990045009540107871", "$$Cform$$VQueer horror film and television : sexuality and masculinity at the margins$$Z9995665180907871" ],
+        "place" : [ "London ; New York, NY :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsco", "bloomscr", "ebcacls", "ebceb", "ebscoac", "aleph008728457", "aleph008729131" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "990087291310107871" ],
+        "recordid" : [ "alma990087291310107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "008729131-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "9.7254335E-5" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Elliott-Smith" ],
+        "aufirst" : [ "Darren" ],
+        "auinit" : [ "D" ],
+        "au" : [ "Elliott-Smith, Darren" ],
+        "creatorfull" : [ "$$NElliott-Smith, Darren$$LElliott-Smith$$FDarren$$Rauthor" ],
+        "date" : [ "2016 - 2016", "2016" ],
+        "isbn" : [ "1786731371", "9781786721372", "1786721376", "9781786731371" ],
+        "notes" : [ "Includes bibliographical references (pages 199-231), filmography (pages 232-237) , and index." ],
+        "abstract" : [ "In recent years, the representation of alternative sexuality in the horror film and television has \"outed\" itself from the shadows from which it once lurked, via the embrace of an outrageously queer horror aesthetic where homosexuality is often unequivocally referenced. In this book, Darren Elliott-Smith departs from the analysis of the monster as a symbol of heterosexual anxiety and fear, and moves to focus instead on queer fears and anxieties within gay male subcultures. Furthermore, he examines the works of significant queer horror film, television producers, and directors to reveal gay men's anxieties about: acceptance and assimilation into Western culture, the perpetuation of self-loathing and gay shame, and further anxieties associations shameful femininity. This book focuses mainly on representations of masculinity, and gay male spectatorship in queer horror films and television post-2000. In titling this sub-genre \"queer horror,\" Elliott-Smith designates horror that is crafted by male directors/producers who self-identify as gay, bi, queer, or transgendered and whose work features homoerotic, or explicitly homosexual, narratives with \"out\" gay characters. In terms of case studies, this book considers a variety of genres and forms from: video art horror; independently distributed exploitation films (A Far Cry from Home, Rowe Kelly, 2012); queer Gothic soap operas (Dante's Cove, 2005-7); satirical horror comedies (such as The Gay Bed and Breakfast of Terror (Thompson, 2008); low-budget slashers (Hellbent, Etheredge-Outzs, 2007); and contemporary representations of gay zombies in film and television from the pornographic LA Zombie (Bruce LaBruce, 2010)) to the melodramatic In the Flesh (BBC Three 2013-15). Moving from the margins to the mainstream, via the application of psychoanalytic theory, critical and cultural interpretation, interviews with key directors and close readings of classic, cult and modern horror, this book will be invaluable to students and researchers of gender and sexuality in horror film and television." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "I.B. Tauris & Co. Ltd" ],
+        "oclcid" : [ "(ocolc)963702142" ],
+        "lccn" : [ "2018295259" ],
+        "seriestitle" : [ "Library of Gender and Popular Culture ; 11" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Queer horror film and television : sexuality and masculinity at the margins" ]
+      },
+      "sort" : {
+        "title" : [ "Queer horror film and television : sexuality and masculinity at the margins /" ],
+        "author" : [ "Elliott-Smith, Darren, author." ],
+        "creationdate" : [ "2016" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087291310107871"
+        } ],
+        "instCode" : "01NYU_TNS",
+        "instName" : "The New School",
+        "instId" : "7875",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087291310107871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "990087291310107871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1786721376,OCLC:,LCCN:2018295259&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1995.9 h6ǂe45 2016eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "61",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "67",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "282",
+    "CALL_SOLR_GET_IDS_LIST" : "78",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "37",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "22",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "91",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "6",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "145",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "552",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 72,
-    "COMBINED_SEARCH_TIME" : 74,
+    "BUILD_COMBINED_RESULTS_MAP" : 617,
+    "COMBINED_SEARCH_TIME" : 620,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2016",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Films Dhorreur Histoire Et Critique",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality And Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Homosexuality In Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Homosexualité Au Cinéma",
+      "count" : "1"
+    }, {
+      "value" : "Horror Films",
+      "count" : "1"
+    }, {
+      "value" : "Horror Films History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Reference",
+      "count" : "1"
+    }, {
+      "value" : "Rôle Selon Le Sexe Au Cinéma",
+      "count" : "1"
+    }, {
+      "value" : "Sex Role In Motion Pictures",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Elliott Smith Darren",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,22 +1,216 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9995921135207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "video" ],
+        "language" : [ "eng" ],
+        "title" : [ "Dirty Computer." ],
+        "subject" : [ "Science fiction", "Motion pictures", "Queer cinema" ],
+        "format" : [ "1 online resource (streaming video file) (62 minutes): digital, .flv file, sound", "video file MPEG-4 Flash" ],
+        "identifier" : [ "$$CPUBNUM$$V14288736" ],
+        "creationdate" : [ "2018" ],
+        "publisher" : [ "Stadium Media" ],
+        "description" : [ "A visually stunning story of a young woman named Jane 57821 (Janelle Monáe), who is living in a totalitarian near-future society where citizens are referred to as “computers.” Acclaimed actress Tessa Thompson co-stars. A timely and poignant Emotion Picture, Dirty Computer explores humanity and what truly happens to life, liberty and the pursuit of happiness when mind and machines merge, and when the government chooses fear over freedom." ],
+        "mms" : [ "9995921135207871" ],
+        "contributor" : [ "Ferguson, Alan, film director.$$QFerguson, Alan", "Honoho, Andrew, film director.$$QHonoho, Andrew", "Lightning, Chuck, film director.$$QLightning, Chuck", "Westernberg, Emma, film director.$$QWesternberg, Emma", "Duke, Lacey, film director.$$QDuke, Lacey", "Monáe, Janelle, actor.$$QMonáe, Janelle", "Aaron, Jayson, actor.$$QAaron, Jayson", "Hart, Michelle, actor.$$QHart, Michelle", "Thompson, Tessa, actor.$$QThompson, Tessa", "Stadium Media (Firm)$$QStadium Media (Firm)", "Kanopy (Firm)$$QKanopy (Firm)" ],
+        "genre" : [ "Feature films" ],
+        "place" : [ "San Francisco, California, USA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "knpyvid", "aleph009704983" ],
+        "lds60" : [ "Title from title frames.", "Film", "In Process Record." ],
+        "lds65" : [ "Janelle Monáe, Jayson Aaron, Michelle Hart, Tessa Thompson" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9995921135207871" ],
+        "recordid" : [ "alma9995921135207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "009704983-NYU01" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Ferguson", "Honoho", "Lightning", "Westernberg", "Duke", "Monáe", "Aaron", "Hart", "Thompson" ],
+        "aufirst" : [ "Alan", "Andrew", "Chuck", "Emma", "Lacey", "Janelle", "Jayson", "Michelle", "Tessa" ],
+        "auinit" : [ "A", "C", "E", "L", "J", "M", "T" ],
+        "addau" : [ "Ferguson, Alan", "Honoho, Andrew", "Lightning, Chuck", "Westernberg, Emma", "Duke, Lacey", "Monáe, Janelle", "Aaron, Jayson", "Hart, Michelle", "Thompson, Tessa" ],
+        "contributorfull" : [ "$$NFerguson, Alan$$LFerguson$$FAlan$$Rcontributor", "$$NHonoho, Andrew$$Rcontributor", "$$NLightning, Chuck$$Rcontributor", "$$NWesternberg, Emma$$Rcontributor", "$$NDuke, Lacey$$Rcontributor", "$$NMonáe, Janelle$$Rcontributor", "$$NAaron, Jayson$$Rcontributor", "$$NHart, Michelle$$Rcontributor", "$$NThompson, Tessa$$Rcontributor" ],
+        "date" : [ "2023 - 2018", "2018" ],
+        "abstract" : [ "A visually stunning story of a young woman named Jane 57821 (Janelle Monáe), who is living in a totalitarian near-future society where citizens are referred to as “computers.” Acclaimed actress Tessa Thompson co-stars. A timely and poignant Emotion Picture, Dirty Computer explores humanity and what truly happens to life, liberty and the pursuit of happiness when mind and machines merge, and when the government chooses fear over freedom." ],
+        "cop" : [ "San Francisco, California, USA" ],
+        "pub" : [ "Stadium Media" ],
+        "oclcid" : [ "(casfkan)kan14288736" ],
+        "format" : [ "book" ],
+        "genre" : [ "unknown" ],
+        "ristype" : [ "VIDEO" ],
+        "btitle" : [ "Dirty Computer." ]
+      },
+      "sort" : {
+        "title" : [ "Dirty Computer." ],
+        "author" : [ "Ferguson, Alan, film director." ],
+        "creationdate" : [ "2023" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "18",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "26",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 31,
-    "COMBINED_SEARCH_TIME" : 34,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "77",
+    "CALL_SOLR_GET_IDS_LIST" : "93",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "96",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "30",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "39",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "92",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "390",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 424,
+    "COMBINED_SEARCH_TIME" : 427,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2018",
+      "count" : "1"
+    }, {
+      "value" : "2023",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "videos",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Motion Pictures",
+      "count" : "1"
+    }, {
+      "value" : "Queer Cinema",
+      "count" : "1"
+    }, {
+      "value" : "Science Fiction",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Aaron Jayson",
+      "count" : "1"
+    }, {
+      "value" : "Duke Lacey",
+      "count" : "1"
+    }, {
+      "value" : "Ferguson Alan",
+      "count" : "1"
+    }, {
+      "value" : "Hart Michelle",
+      "count" : "1"
+    }, {
+      "value" : "Honoho Andrew",
+      "count" : "1"
+    }, {
+      "value" : "Kanopy Firm",
+      "count" : "1"
+    }, {
+      "value" : "Lightning Chuck",
+      "count" : "1"
+    }, {
+      "value" : "Monáe Janelle",
+      "count" : "1"
+    }, {
+      "value" : "Stadium Media Firm",
+      "count" : "1"
+    }, {
+      "value" : "Thompson Tessa",
+      "count" : "1"
+    }, {
+      "value" : "Westernberg Emma",
+      "count" : "1"
+    } ]
+  } ]
 }

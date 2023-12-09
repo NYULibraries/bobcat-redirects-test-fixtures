@@ -12,64 +12,50 @@
   "docs" : [ {
     "context" : "L",
     "adaptor" : "Local Search Engine",
-    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990073751970107871",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996744233707871",
     "pnx" : {
       "display" : {
         "source" : [ "Alma" ],
         "type" : [ "book" ],
         "language" : [ "eng" ],
-        "title" : [ "Purity and danger : an analysis of concept of pollution and taboo " ],
-        "subject" : [ "Tabou", "Pureté rituelle", "taboo", "SOCIAL SCIENCE -- Customs & Traditions", "Purity, Ritual", "Taboo" ],
-        "format" : [ "1 online resource (xxii, 247 pages)" ],
-        "identifier" : [ "$$CISBN$$V0203361830;$$CISBN$$V9780203361832;$$CISBN$$V9780415289955;$$CISBN$$V0415291054;$$CISBN$$V9780415291057;$$CISBN$$V9781136489273;$$CISBN$$V1136489274;$$COCLC$$V(OCoLC)53023690;$$CISBN$$V0415289955" ],
-        "creationdate" : [ "2003" ],
-        "creator" : [ "Douglas, Mary, 1921-2007.$$QDouglas, Mary" ],
-        "publisher" : [ "London ; New York : Routledge" ],
-        "description" : [ "In this classic work Mary Douglas identifies the concern for pirity as a key theme at the heart of every society. She reveals its wide-ranging impact on our attitudes tp society, values, cosmology and knowledge." ],
-        "mms" : [ "990073751970107871" ],
-        "series" : [ "Douglas, Mary, 1921-2007. Works. Selections. 2003 ; v. 2.$$QWorks.", "Routledge classics$$QRoutledge classics", "Routledge classics.$$QRoutledge classics." ],
-        "contents" : [ "Ritual uncleanness -- Secular defilement -- The abominations of Leviticus -- Magic and miracle -- Primitive worlds -- Powers and dangers -- External boundaries -- Internal lines -- The system at war with itself -- The system shattered and renewed." ],
-        "relation" : [ "$$Cform$$VPrint version: Douglas, Mary, 1921-2007. Purity and danger. London ; New York : Routledge, 2003$$QPurity and danger." ],
-        "mesh" : [ "Taboo" ],
-        "place" : [ "London ; New York :" ],
+        "title" : [ "The Calcutta Law Journal, Short Notes of Cases, articles and other Matters, September 1 & 16, 1927. Vol. 46, issue 5 (1927)" ],
+        "subject" : [ "Law" ],
+        "format" : [ "1 online resource : text file, PDF." ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "England : Taylor & Francis" ],
+        "mms" : [ "9996744233707871" ],
+        "contributor" : [ "Coherent Digital (Firm)$$QCoherent Digital (Firm)" ],
+        "contents" : [ "The Calcutta Law Journal / unknown." ],
+        "genre" : [ "Journal" ],
+        "relation" : [ "$$Cdata_source$$VSouth Asia Archive SACO_SARF$$QSouth Asia Archive" ],
+        "place" : [ "England :" ],
         "version" : [ "0" ],
-        "lds52" : [ "ebceb", "ebscoac", "tayfeb", "aleph004223885" ],
-        "lds60" : [ "Originally published: London : Routledge & Kegan Paul, 1966." ]
+        "lds52" : [ "cohcomm", "aleph007375197" ]
       },
       "control" : {
-        "sourcerecordid" : [ "990073751970107871" ],
-        "recordid" : [ "alma990073751970107871" ],
+        "sourcerecordid" : [ "9996744233707871" ],
+        "recordid" : [ "alma9996744233707871" ],
         "sourceid" : "alma",
-        "originalsourceid" : [ "007375197-NYU01" ],
+        "originalsourceid" : [ "new_(cohcomm)a8983f081e32ea1c" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203855E-6" ],
+        "score" : [ "1.620906E-4" ],
         "isDedup" : false
       },
       "addata" : {
-        "aulast" : [ "Douglas" ],
-        "aufirst" : [ "Mary" ],
-        "auinit" : [ "M" ],
-        "au" : [ "Douglas, Mary" ],
-        "seriesau" : [ "Douglas, Mary, 1921-2007" ],
-        "creatorfull" : [ "$$NDouglas, Mary$$LDouglas$$FMary$$Rauthor" ],
-        "date" : [ "2003" ],
-        "isbn" : [ "0203361830", "9780203361832", "9780415289955", "0415291054", "9780415291057", "9781136489273", "1136489274", "0415289955" ],
-        "notes" : [ "Includes bibliographical references (pages 221-226) and index." ],
-        "abstract" : [ "In this classic work Mary Douglas identifies the concern for pirity as a key theme at the heart of every society. She reveals its wide-ranging impact on our attitudes tp society, values, cosmology and knowledge." ],
-        "cop" : [ "London ;" ],
-        "pub" : [ "Routledge" ],
-        "oclcid" : [ "(ocolc)53023690" ],
-        "seriestitle" : [ "Routledge classics" ],
+        "date" : [ "2013 - 1927", "2013" ],
+        "cop" : [ "England" ],
+        "pub" : [ "Taylor & Francis" ],
+        "oclcid" : [ "(vaalcd)20.500.12592/tv7hdd" ],
         "format" : [ "book" ],
         "genre" : [ "book" ],
         "ristype" : [ "BOOK" ],
-        "btitle" : [ "Purity and danger : an analysis of concept of pollution and taboo" ]
+        "btitle" : [ "The Calcutta Law Journal, Short Notes of Cases, articles and other Matters, September 1 & 16, 1927. Vol. 46, issue 5 (1927)" ]
       },
       "sort" : {
-        "title" : [ "Purity and danger : an analysis of concept of pollution and taboo /" ],
-        "author" : [ "Douglas, Mary, 1921-2007." ],
-        "creationdate" : [ "2003" ]
+        "title" : [ "The Calcutta Law Journal, Short Notes of Cases, articles and other Matters, September 1 & 16, 1927. Vol. 46, issue 5 (1927)" ],
+        "author" : [ "Coherent Digital (Firm)" ],
+        "creationdate" : [ "2013" ]
       },
       "facets" : {
         "frbrtype" : [ "6" ]
@@ -95,21 +81,31 @@
       "almaInstitutionsList" : [ {
         "getitLink" : [ {
           "displayText" : "Alma-E",
-          "linkRecordId" : "990073751970107871"
+          "linkRecordId" : "9996744233707871"
         } ],
-        "instCode" : "01NYU_CU",
-        "instName" : "Cooper Union",
-        "instId" : "7874",
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
         "availabilityStatus" : "available_online",
         "envURL" : ""
       }, {
         "getitLink" : [ {
           "displayText" : "Alma-E",
-          "linkRecordId" : "990073751970107871"
+          "linkRecordId" : "9996744233707871"
         } ],
-        "instCode" : "01NYU_INST",
-        "instName" : "New York University - New York",
-        "instId" : "7876",
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996744233707871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
         "availabilityStatus" : "available_online",
         "envURL" : ""
       } ],
@@ -138,7 +134,7 @@
       "link" : [ {
         "@id" : ":_0",
         "linkType" : "thumbnail",
-        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780203361832,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
         "displayLabel" : "thumbnail"
       } ],
       "hasD" : null
@@ -148,31 +144,26 @@
         "isVirtualBrowseEnabled" : false,
         "callNumber" : "",
         "callNumberBrowseField" : ""
-      },
-      "bibVirtualBrowseObject" : {
-        "isVirtualBrowseEnabled" : true,
-        "callNumber" : "gn\"471.4ǂ d68 2003eb 0",
-        "callNumberBrowseField" : "LOC_CL"
       }
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "140",
-    "CALL_SOLR_GET_IDS_LIST" : "56",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "40",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "54",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "75",
+    "CALL_SOLR_GET_IDS_LIST" : "86",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "65",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "38",
     "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "61",
-    "RETRIVE_FROM_DB_RELATIONS" : "21",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "35",
-    "SET_AVAILABILTY_HOLDING_DEDUPS" : "5",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "342",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "34",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "81",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "317",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 365,
-    "COMBINED_SEARCH_TIME" : 368,
+    "BUILD_COMBINED_RESULTS_MAP" : 353,
+    "COMBINED_SEARCH_TIME" : 355,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
   "facets" : [ {
     "name" : "lang",
@@ -183,7 +174,10 @@
   }, {
     "name" : "creationdate",
     "values" : [ {
-      "value" : "2003",
+      "value" : "1927",
+      "count" : "1"
+    }, {
+      "value" : "2013",
       "count" : "1"
     } ]
   }, {
@@ -195,25 +189,25 @@
   }, {
     "name" : "topic",
     "values" : [ {
-      "value" : "Pureté Rituelle",
-      "count" : "1"
-    }, {
-      "value" : "Purity Ritual",
-      "count" : "1"
-    }, {
-      "value" : "Social Science Customs Traditions",
-      "count" : "1"
-    }, {
-      "value" : "Taboo",
-      "count" : "1"
-    }, {
-      "value" : "Tabou",
+      "value" : "Law",
       "count" : "1"
     } ]
   }, {
     "name" : "creator",
     "values" : [ {
-      "value" : "Douglas Mary",
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
       "count" : "1"
     } ]
   } ]

@@ -1,22 +1,218 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996706352507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The encyclopedia of language & linguistics " ],
+        "subject" : [ "Language and languages$$QLanguage and languages -- Encyclopedias", "Linguistics$$QLinguistics -- Encyclopedias", "Language and languages$$QLanguage and languages -- Dictionaries", "Langage et langues$$QLangage et langues -- Encyclopédies", "Linguistique$$QLinguistique -- Encyclopédies", "Language and languages", "Linguistics" ],
+        "format" : [ "1 online resource (14 volumes) : illustrations, maps (some color)" ],
+        "identifier" : [ "$$CISBN$$V9780080448541;$$CISBN$$V0080448542;$$CISBN$$V9780080547848;$$CISBN$$V0080547842;$$CISBN$$V9780080442990;$$CISBN$$V9780080443577;$$CISBN$$V0080443575;$$CISBN$$V9780080443584;$$CISBN$$V0080443583;$$CISBN$$V9780080443591;$$CISBN$$V0080443591;$$CISBN$$V9780080443607;$$CISBN$$V0080443605;$$CISBN$$V9780080443614;$$CISBN$$V0080443613;$$CISBN$$V9780080443621;$$CISBN$$V0080443621;$$CISBN$$V9780080443638;$$CISBN$$V008044363X;$$CISBN$$V9780080443645;$$CISBN$$V0080443648;$$CISBN$$V9780080443652;$$CISBN$$V0080443656;$$CISBN$$V9780080443669;$$CISBN$$V0080443664;$$CISBN$$V9780080443676;$$CISBN$$V0080443672;$$CISBN$$V9780080443683;$$CISBN$$V0080443680;$$CISBN$$V9780080443690;$$CISBN$$V0080443699;$$CISBN$$V9780080443706;$$CISBN$$V0080443702;$$COCLC$$V(OCoLC)771916896;$$CISBN$$V0080442994" ],
+        "creationdate" : [ "©2006" ],
+        "publisher" : [ "Amsterdam ; Boston : Elsevier" ],
+        "description" : [ "The first edition of ELL (1993, Ron Asher, Editor) was hailed as \"the field's standard reference work for a generation\". Now the all-new second edition matches ELL's comprehensiveness and high quality, expanded for a new generation, while being the first encyclopedia to really exploit the multimedia potential of linguistics. * The most authoritative, up-to-date, comprehensive, and international reference source in its field * An entirely new work, with new editors, new authors, new topics and newly commissioned articles with a handful of classic articles * The first Encyclopedia to exploit the multimedia potential of linguistics through the online edition * Ground-breaking and International in scope and approach * Alphabetically arranged with extensive cross-referencing * Available in print and online, priced separately. The online version will include updates as subjects develop ELL2 includes: * c. 7,500,000 words * c. 11,000 pages * c. 3,000 articles * c. 1,500 figures: 130 halftones and 150 colour * Supplementary audio, video and text files online * c. 3,500 glossary definitions * c. 39,000 references * Extensive list of commonly used abbreviations * List of languages of the world (including information on no. of speakers, language family, etc.) * Approximately 700 biographical entries (now includes contemporary linguists) * 200 language maps in print and online Also available online via ScienceDirect - featuring extensive browsing, searching, and internal cross-referencing between articles in the work, plus dynamic linking to journal articles and abstract databases, making navigation flexible and easy. For more information, pricing options and availability visit www.info.sciencedirect.com. The first Encyclopedia to exploit the multimedia potential of linguisticsGround-breaking in scope - wider than any predecessorAn invaluable resource for researchers, academics, students and professionals in the fields of: linguistics, anthropology, education, psychology, language acquisition, language pathology, cognitive science, sociology, the law, the media, medicine & computer science. The most authoritative, up-to-date, comprehensive, and international reference source in its field" ],
+        "mms" : [ "9996706352507871" ],
+        "contributor" : [ "Brown, E. K.$$QBrown, E. K.", "Anderson, Anne, 1954-$$QAnderson, Anne" ],
+        "addtitle" : [ "Encyclopedia of language and linguistics" ],
+        "edition" : [ "2nd ed." ],
+        "series" : [ "Gale virtual reference library$$QGale virtual reference library" ],
+        "contents" : [ "Animal Communication; Applied Linguistics; Biographies; Cognitive Science; Computational Linguistics; Countries & Languages; Education & Language; Foundations of Linguistics; Historical & Comparative Linguistics; History of Linguistics; Language Acquisition; Language Pathology; Languages of the World; Law & Language; Lexicography; Linguistic Anthropology; Media & Language; Medicine & Language; Morphology; Natural Language Processing & Machine Translation; Philosophy & Language; Phonetics; Phonology; Politics & Language; Pragmatics; Psycholinguistics; Religion & Language; Semantics (grammatical); Semantics (logical & lexical); Semiotics; Sign Language; Society & Language; Speech Technology; Spoken Discourse; Syntax; Text Analysis & Stylistics; Translation; Typology & Universals; Variation & Language; Writing Systems.", "v. 1. A-Bil -- v. 2. Bil-Con -- v. 3. Con-Dt -- v. 4. Du-Gen -- v. 5. Gen-Int -- v. 6. Inu-Lea -- v. 7. Leb-Mei -- v. 8. Mel-N -- v. 9. O-Pou -- v. 10. Pou-Sca -- v. 11. Sca-Spe -- v. 12. Spe-Top -- v. 13. Tor-Z -- v. 14. Appendices ; Index." ],
+        "genre" : [ "Dictionaries", "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of language & linguistics. 2nd ed. Amsterdam ; Boston : Elsevier, ©2006$$QEncyclopedia of language & linguistics." ],
+        "place" : [ "Amsterdam ; Boston :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph004478374" ],
+        "lds60" : [ "Revised edition of: The Encyclopedia of language and linguistics / R.E. Asher, editor-in-chief; J.M.Y. Simpson, coordinating editor. 1st ed. 1994." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996706352507871" ],
+        "recordid" : [ "alma9996706352507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)771916896" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brown", "Anderson" ],
+        "aufirst" : [ "E. K.", "Anne" ],
+        "auinit" : [ "E", "A" ],
+        "addau" : [ "Brown, E. K.", "Anderson, Anne" ],
+        "contributorfull" : [ "$$NBrown, E. K.$$LBrown$$FE. K.$$Rcontributor", "$$NAnderson, Anne$$Rcontributor" ],
+        "addtitle" : [ "Encyclopedia of language and linguistics" ],
+        "date" : [ "2006", "©2006" ],
+        "isbn" : [ "9780080448541", "0080448542", "9780080547848", "0080547842", "9780080442990", "9780080443577", "0080443575", "9780080443584", "0080443583", "9780080443591", "0080443591", "9780080443607", "0080443605", "9780080443614", "0080443613", "9780080443621", "0080443621", "9780080443638", "008044363X", "9780080443645", "0080443648", "9780080443652", "0080443656", "9780080443669", "0080443664", "9780080443676", "0080443672", "9780080443683", "0080443680", "9780080443690", "0080443699", "9780080443706", "0080443702", "0080442994" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "The first edition of ELL (1993, Ron Asher, Editor) was hailed as \"the field's standard reference work for a generation\". Now the all-new second edition matches ELL's comprehensiveness and high quality, expanded for a new generation, while being the first encyclopedia to really exploit the multimedia potential of linguistics. * The most authoritative, up-to-date, comprehensive, and international reference source in its field * An entirely new work, with new editors, new authors, new topics and newly commissioned articles with a handful of classic articles * The first Encyclopedia to exploit the multimedia potential of linguistics through the online edition * Ground-breaking and International in scope and approach * Alphabetically arranged with extensive cross-referencing * Available in print and online, priced separately. The online version will include updates as subjects develop ELL2 includes: * c. 7,500,000 words * c. 11,000 pages * c. 3,000 articles * c. 1,500 figures: 130 halftones and 150 colour * Supplementary audio, video and text files online * c. 3,500 glossary definitions * c. 39,000 references * Extensive list of commonly used abbreviations * List of languages of the world (including information on no. of speakers, language family, etc.) * Approximately 700 biographical entries (now includes contemporary linguists) * 200 language maps in print and online Also available online via ScienceDirect - featuring extensive browsing, searching, and internal cross-referencing between articles in the work, plus dynamic linking to journal articles and abstract databases, making navigation flexible and easy. For more information, pricing options and availability visit www.info.sciencedirect.com. The first Encyclopedia to exploit the multimedia potential of linguisticsGround-breaking in scope - wider than any predecessorAn invaluable resource for researchers, academics, students and professionals in the fields of: linguistics, anthropology, education, psychology, language acquisition, language pathology, cognitive science, sociology, the law, the media, medicine & computer science. The most authoritative, up-to-date, comprehensive, and international reference source in its field" ],
+        "cop" : [ "Amsterdam ;" ],
+        "pub" : [ "Elsevier" ],
+        "oclcid" : [ "(ocolc)771916896" ],
+        "edition" : [ "2nd ed." ],
+        "seriestitle" : [ "Gale virtual reference library" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The encyclopedia of language & linguistics" ]
+      },
+      "sort" : {
+        "title" : [ "encyclopedia of language & linguistics /" ],
+        "author" : [ "Brown, E. K." ],
+        "creationdate" : [ "2006" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0080448542,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "p!29ǂ e48 2006",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "21",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "29",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 31,
-    "COMBINED_SEARCH_TIME" : 36,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "115",
+    "CALL_SOLR_GET_IDS_LIST" : "159",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "60",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "110",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "426",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 467,
+    "COMBINED_SEARCH_TIME" : 471,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2006",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Langage Et Langues Encyclopédies",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages Dictionaries",
+      "count" : "1"
+    }, {
+      "value" : "Language And Languages Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Linguistics",
+      "count" : "1"
+    }, {
+      "value" : "Linguistics Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Linguistique Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Anderson Anne",
+      "count" : "1"
+    }, {
+      "value" : "Brown E K",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

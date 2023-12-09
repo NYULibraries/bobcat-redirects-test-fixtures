@@ -1,22 +1,254 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188464507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Ripples of hope : great American civil rights speeches " ],
+        "subject" : [ "Minorities -- Civil rights -- United States", "Civil rights movements -- United States", "Civil rights -- United States -- History$$QCivil rights -- United States -- History -- Sources", "United States -- Race relations$$QUnited States -- Race relations -- Sources", "United States -- Ethnic relations$$QUnited States -- Ethnic relations -- Sources", "United States -- Social conditions$$QUnited States -- Social conditions -- Sources", "Minorités -- Droits -- États-Unis", "Mouvements des droits de l'homme -- États-Unis", "Droits de l'homme -- États-Unis -- Histoire$$QDroits de l'homme -- États-Unis -- Histoire -- Sources", "États-Unis -- Relations raciales$$QÉtats-Unis -- Relations raciales -- Sources", "États-Unis -- Relations interethniques$$QÉtats-Unis -- Relations interethniques -- Sources", "États-Unis -- Conditions sociales$$QÉtats-Unis -- Conditions sociales -- Sources", "Discours américains", "SOCIAL SCIENCE -- Discrimination & Race Relations", "SOCIAL SCIENCE -- Minority Studies", "Civil rights", "Civil rights movements", "Ethnic relations", "Minorities -- Civil rights", "Race relations", "Social conditions", "Speeches, addresses, etc., American", "United States" ],
+        "format" : [ "1 online resource (xli, 502 pages) : illustrations", "data file" ],
+        "identifier" : [ "$$CISBN$$V9780786747658;$$CISBN$$V078674765X;$$COCLC$$V(OCoLC)436850470;$$CISBN$$V0465027520;$$CISBN$$V9780465027521" ],
+        "creationdate" : [ "2003" ],
+        "publisher" : [ "New York : Basic Civitas Books" ],
+        "description" : [ "Brings together the most influential and important voices from two hundred years of America's struggle for civil rights, including essential speeches from leaders, both famous and obscure. With voices as diverse as Cesar Chavez, Harvey Milk, Betty Friedan, Frederick Douglass, and Sojourner Truth, this anthology constitutes a unique chronicle of the nation's civil rights movements and the critical issues they've tackled, from slavery and suffrage to immigration and affirmative action." ],
+        "mms" : [ "9997188464507871" ],
+        "contributor" : [ "Gottheimer, Josh, editor.$$QGottheimer, Josh", "Clinton, Bill, 1946-$$QClinton, Bill", "Berry, Mary Frances.$$QBerry, Mary Frances." ],
+        "contents" : [ "Foreword / William Jefferson Clinton -- Introduction / Josh Gottheimer -- Early America, early dissent 1789-1865. Blood and slavery / A free Negro ; The curse of slavery / Gouverneur Morris ; This is our country / Peter Williams, Jr. ; An address at the African Masonic Hall / Maria W. Stewart ; Address to the Massachusetts Legislature / Angelina Grimké ; Loosening the bonds of prejudice / Sara T. Smith ; Defending the Amistad slaves / John Quincy Adams ; An address to the slaves of the United States of America / Henry Highland Garnet ; Address at Seneca Falls / Elizabeth Cady Stanton ; Ar'n't I a woman / Sojourner Truth ; What to the slave is the Fourth of July / Frederick Douglass ; No compromise with the evil of slavery / William Lloyd Garrison ; Leave women, then, to find their sphere / Lucy Stone ; On seizing land from Native California / Pablo de la Guerra ; A house divided / Abraham Lincoln ; No consciousness of guilt / John Brown ; A day to celebrate Emancipation / Jonathan Gibbs ; Second inaugural address / Abraham Lincoln ; In praise of labor / Booker T. Washington -- Measured Gains : two steps forward, one step backward 1866-1949. We are all bound up together / Frances Ellen Watkins Harper ; The myth of \"yellow peril\" / Frederick Douglas ; Suffrage and the working woman / Susan B. Anthony ; Half free, half slave / James T. Rapier ; Unsung heroes / Rev. L.T. Chamberlain ; The first African-American governor / P.B.S. Pinchback ; The queens of womanhood / Alexander Crummell ; Man cannot speak for her / Elizabeth Cady Stanton ; Women's political future / Frances Ellen Watkins Harper ; A call for black women / Josephine St. Pierre Ruffin ; The Atlanta Compromise / Booker T. Washington ; Training Negroes for social power / W.E.B. Du Bois ; The progress of colored women / Mary Church Terrell ; The last, hard fight / Carrie Chapman Catt ; A moral partnership legitimized / Woodrow Wilson ; A defense of Japanese Americans / John P. Irish ; Crusade for women's birth control / Margaret Sanger ; Defending Mexican Americans / Alonso S. Perales ; A last word before incarceration / Marcus Garvey ; A Negro nation within a nation / W.E.B. Du Bois ; Fighting words / James Omura ; Desegregating the military / A. Philip Randolph ; A cloud of suspicion / Carey McWilliams ; Jim Crow army / Bayard Rustin ; No compromises / Hubert Humphrey ; The Universal Declaration of Human Rights / Eleanor Roosevelt -- Civil rights era : lift every voice 1950-1969. Dismantling segregation: Brown v. Board of Education / Thurgood Marshall ; Montgomery bus boycott / Martin Luther King, Jr. ; The homosexual faces a challenge / Ken Burns ; Federal Court orders must be upheld / Dwight D. Eisenhower ; Civil rights message / John F. Kennedy ; I have a dream / Martin Luther King, Jr. ; We must free ourselves / John Lewis ; Sex discrimination in the Civil Rights Act / Howard \"Judge\" Smith ; The ballot or the bullet / Malcolm X ; A long, long way to go / Martin Luther King, Jr. ; We shall overcome ; To fulfill these rights / Lyndon B. Johnson ; Day of affirmation address / Robert F. Kennedy ; Furthering the homophile movement / Franklin Kameny ; Black power / Stokely Carmichael ; The silent people no longer / Joseph M. Montoya ; The land grant question / Reies López Tijerina ; Breaking bread for progress / César Chávez ; From expatriation to emancipation / Daniel Inouye ; The real sexual revolution / Betty Friedan ; This is no land of cynics / Henry B. González ; Chicano nationalism / Rodolfo \"Corky\" Gonzales ; Take destiny into your own hands / Karla Jay -- Current struggle : slow but steady progress 1970-1998. A Chicano defined / José Angel Gutiérrez ; Roe v. Wade: legalizing abortion / Sarah Weddington ; You can do it / Patricia Schroeder ; Recognition NOW / Phyllis Lyon ; America should admit its guilt / Robert \"Spark\" ; Tired of the silence / Harvey Milk ; That a past wrong be admitted / Clifford Ueyda ; Our time has come / Jesse Jackson ; We organized / César Chávez ; Acting up / Larry Kramer ; Creating change / Virginia Ipso ; What gay consciousness brings / Harry Hay ; Anita Hill v. Clarence Thomas / Anita Hill ; The story of self-hatred / David Miner ; Seeking a conversation on race / Lani Ginger ; The freedom to die / William J. Clinton ; We are at war / Sister Salk ; Rejecting racist hatred / Colin Powell ; The two faces of American immigration / Raul Yzaguirre ; A million men marching on / Louis Farrakhan ; Consciousness is power / Yuri Kochiyama ; Protecting same-sex marriage / Barney Frank ; A shining and powerful dream / Kweisi Mfume ; Seneca Falls: 150 years later / Hillary Rodham Clinton." ],
+        "genre" : [ "Electronic reference sources", "History", "Sources" ],
+        "relation" : [ "$$Cform$$VRipples of hope. New York : Basic Civitas Books, ©2003$$QRipples of hope." ],
+        "place" : [ "New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "credoref", "aleph005088777" ],
+        "lds60" : [ "Includes graphical cross-reference mapper." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188464507871" ],
+        "recordid" : [ "alma9997188464507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)436850470" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Gottheimer", "Clinton", "Berry" ],
+        "aufirst" : [ "Josh", "Bill", "Mary Frances." ],
+        "auinit" : [ "J", "B", "M" ],
+        "addau" : [ "Gottheimer, Josh", "Clinton, Bill", "Berry, Mary Frances." ],
+        "contributorfull" : [ "$$NGottheimer, Josh$$LGottheimer$$FJosh$$Reditor", "$$NClinton, Bill$$Rcontributor", "$$NBerry, Mary Frances.$$Rcontributor" ],
+        "date" : [ "2003" ],
+        "isbn" : [ "9780786747658", "078674765X", "0465027520", "9780465027521" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Brings together the most influential and important voices from two hundred years of America's struggle for civil rights, including essential speeches from leaders, both famous and obscure. With voices as diverse as Cesar Chavez, Harvey Milk, Betty Friedan, Frederick Douglass, and Sojourner Truth, this anthology constitutes a unique chronicle of the nation's civil rights movements and the critical issues they've tackled, from slavery and suffrage to immigration and affirmative action." ],
+        "cop" : [ "New York" ],
+        "pub" : [ "Basic Civitas Books" ],
+        "oclcid" : [ "(ocolc)436850470" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Ripples of hope : great American civil rights speeches" ]
+      },
+      "sort" : {
+        "title" : [ "Ripples of hope : great American civil rights speeches /" ],
+        "author" : [ "Gottheimer, Josh, editor." ],
+        "creationdate" : [ "2003" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:078674765X,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "e\"184 a1ǂr53 2003eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "19",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "37",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "108",
+    "CALL_SOLR_GET_IDS_LIST" : "89",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "29",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "69",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "102",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "341",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 40,
-    "COMBINED_SEARCH_TIME" : 42,
+    "BUILD_COMBINED_RESULTS_MAP" : 374,
+    "COMBINED_SEARCH_TIME" : 376,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2003",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Civil Rights",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights Movements United States",
+      "count" : "1"
+    }, {
+      "value" : "Civil Rights United States History Sources",
+      "count" : "1"
+    }, {
+      "value" : "Discours Américains",
+      "count" : "1"
+    }, {
+      "value" : "Droits De Lhomme États Unis Histoire Sources",
+      "count" : "1"
+    }, {
+      "value" : "Ethnic Relations",
+      "count" : "1"
+    }, {
+      "value" : "Minorities Civil Rights",
+      "count" : "1"
+    }, {
+      "value" : "Minorities Civil Rights United States",
+      "count" : "1"
+    }, {
+      "value" : "Minorités Droits États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Mouvements Des Droits De Lhomme États Unis",
+      "count" : "1"
+    }, {
+      "value" : "Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Social Conditions",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Discrimination Race Relations",
+      "count" : "1"
+    }, {
+      "value" : "Social Science Minority Studies",
+      "count" : "1"
+    }, {
+      "value" : "Speeches Addresses Etc American",
+      "count" : "1"
+    }, {
+      "value" : "United States",
+      "count" : "1"
+    }, {
+      "value" : "United States Ethnic Relations Sources",
+      "count" : "1"
+    }, {
+      "value" : "United States Race Relations Sources",
+      "count" : "1"
+    }, {
+      "value" : "United States Social Conditions Sources",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Berry Mary Frances",
+      "count" : "1"
+    }, {
+      "value" : "Clinton Bill",
+      "count" : "1"
+    }, {
+      "value" : "Gottheimer Josh",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

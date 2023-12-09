@@ -1,22 +1,205 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996727757307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Fiscal Year 2013-2014 Adopted Budget" ],
+        "subject" : [ "city planning", "capital improvements programs", "municipal government", "tax revenues", "demographic data", "public works", "budget, municipal, capital", "budget, municipal, operating", "municipal finance", "cities, towns", "budget messages" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "Bakersfield, CA : Mayor." ],
+        "description" : [ "The percentages shown below reflect the difference of each department’s budget by comparing the FY 2013-14 Adopted Budget to the FY 2012-13 Adopted Budget. [...] For FY 13-14, the budget includes the restoration of two positions: • Permit Technician • Inspector Additionally, the budget includes the deletion of two vacant positions resulting in no net increase in the overall Community Development personnel complement. [...] The ROPS includes obligations of the former Bakersfield Redevelopment Agency, a funding source for the payment of the obligations and projected dates and amounts of scheduled payments for each enforceable obligation. [...] The increase is generally attributable to the increase in PERS costs, the addition of one Management Assistant within the City Manager’s Office and additional IT equipment related to the citywide personnel restoration (budgeted entirely in the IT equipment management fund). [...] The increase is generally attributable to litigation matters involving the Department of Finance and the County of Kern. [...] Telecommunications Division – Due to the deferral of the purchase of the replacement phone system to an unknown date in the future, the Telecommunications Division of Public Works continues to strive at keeping the current phone system operational. [...] The City’s allocation of CDBG funds and HOME Investment Partnership funds is budgeted in the amount of {dollar}3,129,903 and {dollar}957,286 respectively, which is a 15 percent decrease for CDBG, and a 9.43 percent decrease for HOME funds compared to FY the 2012-13 Adopted Budget. [...] This includes the contract with AEG for privatization of the operations of the facilities. [...] This payment is the difference between the original CIP cost and the actual CIP cost of the treatment plant expansion. [...] Acknowledgements The FY 2013-14 Adopted Budget document is a reflection of the dedicated and resourceful team of department heads, budget managers, division managers and staff throughout the organization who are involved in the preparation of the City’s financial plan for the upcoming fiscal year." ],
+        "mms" : [ "9996727757307871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "Bakersfield, CA] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008006112" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996727757307871" ],
+        "recordid" : [ "alma9996727757307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)4775fc61142cd648" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2013" ],
+        "abstract" : [ "The percentages shown below reflect the difference of each department’s budget by comparing the FY 2013-14 Adopted Budget to the FY 2012-13 Adopted Budget. [...] For FY 13-14, the budget includes the restoration of two positions: • Permit Technician • Inspector Additionally, the budget includes the deletion of two vacant positions resulting in no net increase in the overall Community Development personnel complement. [...] The ROPS includes obligations of the former Bakersfield Redevelopment Agency, a funding source for the payment of the obligations and projected dates and amounts of scheduled payments for each enforceable obligation. [...] The increase is generally attributable to the increase in PERS costs, the addition of one Management Assistant within the City Manager’s Office and additional IT equipment related to the citywide personnel restoration (budgeted entirely in the IT equipment management fund). [...] The increase is generally attributable to litigation matters involving the Department of Finance and the County of Kern. [...] Telecommunications Division – Due to the deferral of the purchase of the replacement phone system to an unknown date in the future, the Telecommunications Division of Public Works continues to strive at keeping the current phone system operational. [...] The City’s allocation of CDBG funds and HOME Investment Partnership funds is budgeted in the amount of {dollar}3,129,903 and {dollar}957,286 respectively, which is a 15 percent decrease for CDBG, and a 9.43 percent decrease for HOME funds compared to FY the 2012-13 Adopted Budget. [...] This includes the contract with AEG for privatization of the operations of the facilities. [...] This payment is the difference between the original CIP cost and the actual CIP cost of the treatment plant expansion. [...] Acknowledgements The FY 2013-14 Adopted Budget document is a reflection of the dedicated and resourceful team of department heads, budget managers, division managers and staff throughout the organization who are involved in the preparation of the City’s financial plan for the upcoming fiscal year." ],
+        "cop" : [ "Bakersfield, CA" ],
+        "pub" : [ "Mayor." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/qkkhn0" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Fiscal Year 2013-2014 Adopted Budget" ]
+      },
+      "sort" : {
+        "title" : [ "Fiscal Year 2013-2014 Adopted Budget," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "34",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "39",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "49",
+    "CALL_SOLR_GET_IDS_LIST" : "95",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "12",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "31",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "62",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "250",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 40,
-    "COMBINED_SEARCH_TIME" : 43,
+    "BUILD_COMBINED_RESULTS_MAP" : 278,
+    "COMBINED_SEARCH_TIME" : 281,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Budget Messages",
+      "count" : "1"
+    }, {
+      "value" : "Budget Municipal Capital",
+      "count" : "1"
+    }, {
+      "value" : "Budget Municipal Operating",
+      "count" : "1"
+    }, {
+      "value" : "Capital Improvements Programs",
+      "count" : "1"
+    }, {
+      "value" : "Cities Towns",
+      "count" : "1"
+    }, {
+      "value" : "City Planning",
+      "count" : "1"
+    }, {
+      "value" : "Demographic Data",
+      "count" : "1"
+    }, {
+      "value" : "Municipal Finance",
+      "count" : "1"
+    }, {
+      "value" : "Municipal Government",
+      "count" : "1"
+    }, {
+      "value" : "Public Works",
+      "count" : "1"
+    }, {
+      "value" : "Tax Revenues",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

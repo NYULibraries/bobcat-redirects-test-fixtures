@@ -1,22 +1,207 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188381207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of Africa. Vol. 1, From the earliest times to c. 500 B.C. " ],
+        "subject" : [ "Africa -- History", "Africa -- History -- To 1498", "Afrique -- Histoire", "Afrique -- Histoire -- Jusqu'à 1498", "Africa", "To 1498" ],
+        "format" : [ "1 online resource (1089 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V1139054554;$$CISBN$$V9781139054553;$$COCLC$$V(OCoLC)316278354;$$CISBN$$V9780521222150" ],
+        "creationdate" : [ "1982" ],
+        "publisher" : [ "Cambridge ; New York : Cambridge University Press" ],
+        "description" : [ "Volume I of The Cambridge History of Africa provides the first relatively complete and authoritative survey of African prehistory from the time of the first hominids in the Plio-Pleistone up to the spread of iron technology after c.500 BC. The volume therefore sets the stage for the history of the continent contained in the subsequent volumes. The material remains of past human life recovered by excavation are described and interpreted in the light of palaeo-ecological evidence, primate studies and ethnographic observation, to provide a record of the evolving skills and adaptive behaviour of the prehistoric populations. The unique discoveries in East and South Africa of early hominid fossils, stone tools and other surviving evidence are discussed with full documentation, leading on to the coming of Modern Man and the beginning of regional patterning. The volume provides a survey of the now considerable material showing the different ways of life in the forests, savannas and arid zones during the 'Later Stone Age'." ],
+        "mms" : [ "9997188381207871" ],
+        "contributor" : [ "Clark, J. Desmond (John Desmond), 1916-2002.$$QClark, J. Desmond" ],
+        "series" : [ "The Cambridge History of Africa$$QThe Cambridge History of Africa" ],
+        "contents" : [ "The palaeo-ecology of the African continent: the physical environment of Africa from earliest geological to Later Stone Age times / Karl W. Butzer and H.B.S. Cooke -- Origins and evolution of African Hominidae / F. Clark Howell -- The earliest archaeological traces / Glynn Ll. Isaac -- The cultures of the Middle Palaeolithic/Middle Stone Age / J. Desmond Clark -- The Late Palaeolithic and Epi-Palaeolithic of northern Africa / Philip E.L. Smith -- The Later Stone Age in sub-Saharan Africa / D.W. Phillipson -- The rise of civilization in Egypt / B.G. Trigger -- Beginnings of pastoralism and cultivation in north-west Africa and the Sahara: origins of the Berbers / G. Camps -- The origins of indigenous African agriculture / Jack R. Harlan -- Old Kingdom, Middle Kingdom and Second Intermediate Period in Egypt / Barry J. Kemp -- Early food production in sub-Saharan Africa / D.W. Phillipson -- Egypt, 1552-664 BC / David O'Connor." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version:" ],
+        "place" : [ "Cambridge ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859792" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188381207871" ],
+        "recordid" : [ "alma9997188381207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)316278354" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Clark" ],
+        "aufirst" : [ "J. Desmond" ],
+        "auinit" : [ "J" ],
+        "addau" : [ "Clark, J. Desmond (John Desmond)" ],
+        "contributorfull" : [ "$$NClark, J. Desmond (John Desmond)$$LClark$$FJ. Desmond$$Rcontributor" ],
+        "date" : [ "1982" ],
+        "isbn" : [ "1139054554", "9781139054553", "9780521222150" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "Volume I of The Cambridge History of Africa provides the first relatively complete and authoritative survey of African prehistory from the time of the first hominids in the Plio-Pleistone up to the spread of iron technology after c.500 BC. The volume therefore sets the stage for the history of the continent contained in the subsequent volumes. The material remains of past human life recovered by excavation are described and interpreted in the light of palaeo-ecological evidence, primate studies and ethnographic observation, to provide a record of the evolving skills and adaptive behaviour of the prehistoric populations. The unique discoveries in East and South Africa of early hominid fossils, stone tools and other surviving evidence are discussed with full documentation, leading on to the coming of Modern Man and the beginning of regional patterning. The volume provides a survey of the now considerable material showing the different ways of life in the forests, savannas and arid zones during the 'Later Stone Age'." ],
+        "cop" : [ "Cambridge ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)316278354" ],
+        "seriestitle" : [ "The Cambridge History of Africa" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of Africa. Vol. 1, From the earliest times to c. 500 B.C." ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of Africa. Vol. 1, From the earliest times to c. 500 B.C. /" ],
+        "author" : [ "Clark, J. Desmond (John Desmond), 1916-2002." ],
+        "creationdate" : [ "1982" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781139054553,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "dt!20ǂ c28",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "24",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "30",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 33,
-    "COMBINED_SEARCH_TIME" : 35,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "76",
+    "CALL_SOLR_GET_IDS_LIST" : "81",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "30",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "13",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "66",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "262",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 301,
+    "COMBINED_SEARCH_TIME" : 304,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1982",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Africa",
+      "count" : "1"
+    }, {
+      "value" : "Africa History",
+      "count" : "1"
+    }, {
+      "value" : "Africa History To 1498",
+      "count" : "1"
+    }, {
+      "value" : "Afrique Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Afrique Histoire Jusquà 1498",
+      "count" : "1"
+    }, {
+      "value" : "To 1498",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Clark J Desmond",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

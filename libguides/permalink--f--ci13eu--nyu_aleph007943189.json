@@ -1,22 +1,211 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996744323207871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Northwest Ecological Services, LLC North Bellingham and Urban Growth Boundary Wetland, Stream" ],
+        "subject" : [ "environmental management" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2015" ],
+        "publisher" : [ "United States of America : City of Bellingham, Washington." ],
+        "description" : [ "This new inventory improves the uniformity of the wetland information within the review area and helps consolidate existing wetland data. [...] STUDY AREA The study area consists of approximately 12,800 acres in the northern portion of the City of Bellingham and the surrounding Urban Growth Area (UGA) and some limited excursions outside the UGA as shown in Attachment 1. [...] NES mapped the location and extent of potential wetland polygons based on the US Army Corps of Engineers’ Routine Determination methodology1,2 and documented the polygons in GIS using the QGIS 2.4.0 software. [...] Due to the limited scope of the project, NES did not determine the Wetland Rating or buffer width as part of the project. [...] When viewing the results of this inventory update, the presence of a polygon indicates a high probability of a critical area being present; however the absence of a polygon does not necessarily indicate a lack of critical area." ],
+        "mms" : [ "9996744323207871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007943189" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996744323207871" ],
+        "recordid" : [ "alma9996744323207871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)abac3df877379df0" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2015" ],
+        "abstract" : [ "This new inventory improves the uniformity of the wetland information within the review area and helps consolidate existing wetland data. [...] STUDY AREA The study area consists of approximately 12,800 acres in the northern portion of the City of Bellingham and the surrounding Urban Growth Area (UGA) and some limited excursions outside the UGA as shown in Attachment 1. [...] NES mapped the location and extent of potential wetland polygons based on the US Army Corps of Engineers’ Routine Determination methodology1,2 and documented the polygons in GIS using the QGIS 2.4.0 software. [...] Due to the limited scope of the project, NES did not determine the Wetland Rating or buffer width as part of the project. [...] When viewing the results of this inventory update, the presence of a polygon indicates a high probability of a critical area being present; however the absence of a polygon does not necessarily indicate a lack of critical area." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "City of Bellingham, Washington." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/kxsd1n" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Northwest Ecological Services, LLC North Bellingham and Urban Growth Boundary Wetland, Stream" ]
+      },
+      "sort" : {
+        "title" : [ "Northwest Ecological Services, LLC North Bellingham and Urban Growth Boundary Wetland, Stream,," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2015" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996744323207871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996744323207871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996744323207871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "21",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "24",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "119",
+    "CALL_SOLR_GET_IDS_LIST" : "68",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "59",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "63",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "49",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "25",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "51",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "311",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 26,
-    "COMBINED_SEARCH_TIME" : 29,
+    "BUILD_COMBINED_RESULTS_MAP" : 353,
+    "COMBINED_SEARCH_TIME" : 356,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2015",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Environmental Management",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

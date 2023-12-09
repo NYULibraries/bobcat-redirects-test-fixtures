@@ -1,22 +1,238 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997187702507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Nursing care plans & documentation : nursing diagnoses and collaborative problems " ],
+        "subject" : [ "Plans de soins", "Diagnostics infirmiers", "Soins infirmiers -- Démarche", "Soins infirmiers -- Feuilles de soins", "Nursing records", "Nursing", "Nursing assessment", "Nursing care plans", "Nursing diagnosis", "Verpleegkunde", "Diagnostiek", "Vårdplanering", "Omvårdnad" ],
+        "format" : [ "1 online resource (xviii, 814 pages) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V9781451157161;$$CISBN$$V1451157169;$$CISBN$$V1469866196;$$CISBN$$V9781469866192;$$COCLC$$V(OCoLC)319437001;$$CISBN$$V9780781770644" ],
+        "creationdate" : [ "©2009" ],
+        "creator" : [ "Carpenito, Lynda Juall.$$QCarpenito, Lynda Juall." ],
+        "publisher" : [ "Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins" ],
+        "description" : [ "\"The Fifth Edition of Nursing Care Plans and Documentation provides nurses with a comprehensive guide to creating care plans and effectively documenting care. This user-friendly resource presents the most likely diagnoses and collaborative problems with step-by-step guidance on nursing action, and rationales for interventions. Plus, details research for individuals and families undergoing diagnostic procedures or medical and surgical interventions.\"--Jacket" ],
+        "mms" : [ "9997187702507871" ],
+        "addtitle" : [ "Nursing care plans and documentation" ],
+        "edition" : [ "5th ed." ],
+        "series" : [ "LWW medical book collection.$$QLWW medical book collection." ],
+        "contents" : [ "Unit I: Introduction to care planning -- 1. The bifocal clinical practice model -- 2. Documentation of nursing care -- 3. 11 steps to care planning -- 4. The ill adult: issues and responses -- 5. Response to the surgical experience -- 6. reducing moral distress in nurses.", "Unit II: Clinical nursing care plans -- section 1. Medical conditions -- Generic medical care plan for the hospitalized adult client -- Cardiovascular and peripheral vascular disorders -- Heart failure -- Deep venous thrombosis -- Hypertension -- Acute coronary syndrome -- Peripheral arterial disease (atherosclerosis) -- Respiratory disorders -- Asthma -- chronic obstructive pulmonary disease -- Pneumonia -- Metabolic and endocrine disorders -- Cirrhosis -- Diabetes mellitus -- Hepatitis (viral) -- Hypothyroidism -- Obesity -- Pancreatitis -- Gastrointestinal disorders -- Gastroenterocolitis / Enterocolitis -- Inflammatory bowel disease -- Peptic ulcer disease -- Renal and urinary tract disorders -- Acute kidney failure -- Chronic kidney disease -- Neurologic disorders -- Cerebrovascular accident (stroke) -- Guillain-Barre syndrome -- Multiple sclerosis -- Myasthenia gravis -- Neurogenic bladder -- Parkinson disease -- Seizure disorders -- Spinal cord injury -- Hematologic disorders -- Sickle cell disease -- Integumentary disorders -- Pressure ulcers -- Thermal injuries -- Musculoskeletal and connective tissue disorders -- Fractures -- Inflammatory joint disease (rheumatoid arthritis, Infectious arthritis, or septic arthritis) -- Osteomyelitis -- Osteoporosis -- Infectious and immunodeficient disorders -- Human immunodeficiency virus / acquired immunodeficiency syndrome -- Systemic lupus erythematosus -- Neoplastic disorders -- Cancer: initial diagnosis -- Cancer: end-stage -- Leukemia -- Clinical situations -- Alcohol withdrawal syndrome -- Immobility or unconsciousness -- Sexual assault.", "Section 2. Surgical procedures -- Generic care plan for the surgical client -- Abdominal aortic aneurysm resection -- Amputation -- Arterial bypass grafting in the lower extremity -- Breast surgery (lumpectomy, mastectomy) -- Carotid endarterectomy -- Cataract extraction -- Colostomy -- Coronary artery bypass grafting -- Cranial surgery -- Enucleation -- Fractured hip and femur -- Hysterectomy -- Ileostomy -- Laminectomy -- Laryngectomy -- Neck dissection -- Nephrectomy -- radical prostatectomy -- Thoracic pulmonary surgery -- Total joint replacement (hip, knee, shoulder) -- Urostomy.", "Section 3. Diagnostic and therapeutic procedures -- Anticoagulant therapy -- Casts -- chemotherapy -- Corticosteroid therapy -- Enteral nutrition -- Hemodialysis -- Long-term venous access devices -- Mechanical ventilation -- Pacemaker insertion (permanent) -- Peritoneal dialysis -- Radiation therapy -- Total parenteral nutrition." ],
+        "relation" : [ "$$Cform$$VPrint version: Carpenito-Moyet, Lynda Juall. Nursing care plans & documentation. 5th ed. Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins, ©2009$$QNursing care plans & documentation." ],
+        "mesh" : [ "Patient Care Planning", "Nursing Diagnosis", "Nursing Assessment", "Nursing Process", "Nursing Records" ],
+        "place" : [ "Philadelphia :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "ovideb", "aleph004144913" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997187702507871" ],
+        "recordid" : [ "alma9997187702507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)319437001" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.2967248E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Carpenito" ],
+        "aufirst" : [ "Lynda Juall." ],
+        "auinit" : [ "L" ],
+        "au" : [ "Carpenito, Lynda Juall." ],
+        "creatorfull" : [ "$$NCarpenito, Lynda Juall.$$LCarpenito$$FLynda Juall.$$Rauthor" ],
+        "addtitle" : [ "Nursing care plans and documentation" ],
+        "date" : [ "2009", "©2009" ],
+        "isbn" : [ "9781451157161", "1451157169", "1469866196", "9781469866192", "9780781770644" ],
+        "notes" : [ "Includes bibliographical references (pages 764-777) and indexes." ],
+        "abstract" : [ "\"The Fifth Edition of Nursing Care Plans and Documentation provides nurses with a comprehensive guide to creating care plans and effectively documenting care. This user-friendly resource presents the most likely diagnoses and collaborative problems with step-by-step guidance on nursing action, and rationales for interventions. Plus, details research for individuals and families undergoing diagnostic procedures or medical and surgical interventions.\"--Jacket" ],
+        "cop" : [ "Philadelphia" ],
+        "pub" : [ "Wolters Kluwer Health/Lippincott Williams & Wilkins" ],
+        "oclcid" : [ "(ocolc)319437001" ],
+        "edition" : [ "5th ed." ],
+        "seriestitle" : [ "LWW medical book collection." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Nursing care plans & documentation : nursing diagnoses and collaborative problems" ]
+      },
+      "sort" : {
+        "title" : [ "Nursing care plans & documentation : nursing diagnoses and collaborative problems /" ],
+        "author" : [ "Carpenito, Lynda Juall." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1451157169,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "rt!49ǂ c38 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "41",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "48",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 51,
-    "COMBINED_SEARCH_TIME" : 53,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "130",
+    "CALL_SOLR_GET_IDS_LIST" : "186",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "48",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "35",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "86",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "45",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "172",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "551",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
+    "BUILD_COMBINED_RESULTS_MAP" : 593,
+    "COMBINED_SEARCH_TIME" : 598,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 2
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Diagnostics Infirmiers",
+      "count" : "1"
+    }, {
+      "value" : "Diagnostiek",
+      "count" : "1"
+    }, {
+      "value" : "Nursing",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Assessment",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Care Plans",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Diagnosis",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Process",
+      "count" : "1"
+    }, {
+      "value" : "Nursing Records",
+      "count" : "1"
+    }, {
+      "value" : "Omvårdnad",
+      "count" : "1"
+    }, {
+      "value" : "Patient Care Planning",
+      "count" : "1"
+    }, {
+      "value" : "Plans De Soins",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Démarche",
+      "count" : "1"
+    }, {
+      "value" : "Soins Infirmiers Feuilles De Soins",
+      "count" : "1"
+    }, {
+      "value" : "Verpleegkunde",
+      "count" : "1"
+    }, {
+      "value" : "Vårdplanering",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Carpenito Lynda Juall",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

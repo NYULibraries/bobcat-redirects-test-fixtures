@@ -1,22 +1,214 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996751816607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Report on the Interior Administration, Resources and Expenditure of the Government of Mysoor." ],
+        "subject" : [ "Government, Politics and Public Policy" ],
+        "format" : [ "1 online resource : text file, PDF." ],
+        "creationdate" : [ "2013" ],
+        "publisher" : [ "England : Taylor & Francis" ],
+        "mms" : [ "9996751816607871" ],
+        "contributor" : [ "Coherent Digital (Firm)$$QCoherent Digital (Firm)" ],
+        "contents" : [ "Frontmatter / M. Wilks -- (No.1) , Extract of a Letter from the Acting. Refident at Myfoor, to the Secretary to Government in the Secret, Foreign and Political Department. Tranfmitting the Report, dated Myfoor, 5th December, 1804 / unknown -- (No.2) Report / unknown -- (No.3) Appendix to the Report / unknown -- (No.4) Detail of Refources Applied to fixed Objects by an Allowance in Land , and Excluded in the Firft Inftance from the Grofs Revenue Becaufe they can Never Become an Available Force of Fupply / unknown -- No.5 of Appendix No.2-Statement of the Gross Revenue of Mysoor, for the Year 1799-1800 / unknown -- No.6 of Appendix No.3-Statement of the Gross Revenue of Mysoor, for the Year 1800-1 / unknown -- No.7 of Appendix No.4-Statement of the Gross Revenue of Mysoor, for the Year 1801-2 / unknown -- No.8 of Appendix.No. 5-Statement of the Gross Revenue of Mysoor, for the Year 1802-3 / unknown -- No.9 of Appendix.No.6-Comparative View of the Gross Revenues, of the Several Districts or Mysoor, in the Year 1791, According to the Amount Inserted in the Schedules of 1792; and of the Years 1799-1800, 1800-1, 1801-2, and 1802-3, Distinguishing Each District, in the Order in Which they are Inserted in the Schedules of 1792 and 1799 / unknown -- No.10 of Appendix. No. 7.-Connected Detail of the Receipts and Disbursements of the Government of Mysoor, for the First Five Years / unknown -- No.11 of Appendix No. 8.-Memorandum of the Extraordinary Expenses Incurred by the Government of Mysoor, in Consequence of the War / unknown -- Appendix A Extract from the Governor General's Minute, on the Affairs of Mysoor, dated Fort William, the 5th Octber, 1804 / unknown -- Appendix. B Letter from Major General the Honorable Arthur. Wellesley, to the Governor General, on the Affairs of Mysoor. His Excellency the Governor General / unknown -- Appendix. C Letter from the Governor General in Council to the Governor in Council at Fort St. George, Dated the 5th of October, 1804 / unknown." ],
+        "genre" : [ "Report" ],
+        "relation" : [ "$$Cdata_source$$VSouth Asia Archive SACO_SARF$$QSouth Asia Archive" ],
+        "place" : [ "England :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007363717" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996751816607871" ],
+        "recordid" : [ "alma9996751816607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)dcc83bc51f5c6d5f" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2013 - 1805", "2013" ],
+        "cop" : [ "England" ],
+        "pub" : [ "Taylor & Francis" ],
+        "oclcid" : [ "(vaalcd)20.500.12592/q8wxfx" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Report on the Interior Administration, Resources and Expenditure of the Government of Mysoor." ]
+      },
+      "sort" : {
+        "title" : [ "Report on the Interior Administration, Resources and Expenditure of the Government of Mysoor." ],
+        "author" : [ "Coherent Digital (Firm)" ],
+        "creationdate" : [ "2013" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996751816607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996751816607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996751816607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "30",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "34",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "104",
+    "CALL_SOLR_GET_IDS_LIST" : "404",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "84",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "43",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "54",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "41",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "43",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "74",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "680",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 38,
-    "COMBINED_SEARCH_TIME" : 40,
+    "BUILD_COMBINED_RESULTS_MAP" : 717,
+    "COMBINED_SEARCH_TIME" : 719,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1805",
+      "count" : "1"
+    }, {
+      "value" : "2013",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Government Politics And Public Policy",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

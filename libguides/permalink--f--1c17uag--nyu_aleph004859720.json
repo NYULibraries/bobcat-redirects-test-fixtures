@@ -1,22 +1,202 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188070107871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of Italian literature " ],
+        "subject" : [ "Italian literature -- History and criticism", "Littérature italienne -- Histoire et critique", "Italian literature" ],
+        "format" : [ "1 online resource (xxii, 699 pages) : map" ],
+        "identifier" : [ "$$CISBN$$V9780511467868;$$CISBN$$V0511467869;$$CISBN$$V1139056174;$$CISBN$$V9781139056175;$$COCLC$$V(OCoLC)264761432;$$CISBN$$V0521666228" ],
+        "creationdate" : [ "1997" ],
+        "publisher" : [ "Cambridge England ; New York : Cambridge University Press" ],
+        "description" : [ "Presents a comprehensive survey of Italian literature from its earliest origins to the present. Leading scholars describe and assess the work of writers who have contributed to the Italian literary tradition, including Dante, Petrarch and Boccaccio, the Renaissance humanists, Machiavelli, Ariosto and Tasso, pioneers and practitioners of commedia dell'arte and opera, and the contemporary novelists Calvino and Eco." ],
+        "mms" : [ "9997188070107871" ],
+        "contributor" : [ "Brand, C. P. (Charles Peter)$$QBrand, C. P.", "Pertile, Lino.$$QPertile, Lino." ],
+        "edition" : [ "Rev. ed." ],
+        "contents" : [ "Origins and duecento / Jonathan Usher: Poetry -- Prose -- Trecento: Dante / Lino Pertile -- Boccaccio / Pamela D. Stewart -- Petrarch / John Took -- Minor writers / Steven Botterill -- Quattrocento / Letizia Panizza: Humanism -- Power, patronage and literary associations -- Literature in the vernacular -- Cinquecento: Prose / Brian Richardson -- Narrative poetry / Peter Marinelli -- Lyric poetry / Anthony Oldcorn -- Theatre / Richard Andrews -- Seicento : poetry, philosophy and science / Paolo Cherchi: Baroque -- Lyric poetry -- Mock-epic poetry and satire -- Treatises -- Narrative prose and theatre / Albert N. Mancini : Narrative prose -- Theatre -- Opera -- Settecento / Franco Fido: First half of the settecento -- Theatre from Metastasio to Goldoni -- Opera / David Kimbell -- Enlightenment and Parini -- Alfieri and pre-romanticism -- Age of romanticism (1800-1870) / Giovanni Carsaniga : Romantic controversy -- Monti -- Foscolo -- Leopardi -- Manzoni and the novel -- Other novelists and poets of the risorgimento -- Opera since 1800 / David Kimbell -- Literature of united Italy (1870-1910): Writer and society in the new Italy / Robert Dombroski -- Pirandello / Felicity Firth -- Rise and fall of fascism / Robert Dombroski : Poetry and the avant-garde -- Philosophy and literature from Croce to Gramsci -- Novel -- Aftermath of the Second World War (1945-56) / John Gatt-Rutter: After the liberation -- Neo-realism -- History and the poets -- Contemporary Italy (since 1956) / Michael Caesar: Late 1950s and the 1960s -- 1970s -- 1980s." ],
+        "genre" : [ "Criticism, interpretation, etc" ],
+        "relation" : [ "$$Cform$$VPrint version: Cambridge history of Italian literature. Rev. ed. Cambridge [England] ; New York : Cambridge University Press, 1999$$QCambridge history of Italian literature." ],
+        "place" : [ "Cambridge England] ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859720" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188070107871" ],
+        "recordid" : [ "alma9997188070107871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)264761432" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brand", "Pertile" ],
+        "aufirst" : [ "C. P.", "Lino." ],
+        "auinit" : [ "C", "L" ],
+        "addau" : [ "Brand, C. P. (Charles Peter)", "Pertile, Lino." ],
+        "contributorfull" : [ "$$NBrand, C. P. (Charles Peter)$$LBrand$$FC. P.$$Rcontributor", "$$NPertile, Lino.$$Rcontributor" ],
+        "date" : [ "1997" ],
+        "isbn" : [ "9780511467868", "0511467869", "1139056174", "9781139056175", "0521666228" ],
+        "notes" : [ "Includes bibliographical references (pages 607-673) and index." ],
+        "abstract" : [ "Presents a comprehensive survey of Italian literature from its earliest origins to the present. Leading scholars describe and assess the work of writers who have contributed to the Italian literary tradition, including Dante, Petrarch and Boccaccio, the Renaissance humanists, Machiavelli, Ariosto and Tasso, pioneers and practitioners of commedia dell'arte and opera, and the contemporary novelists Calvino and Eco." ],
+        "cop" : [ "Cambridge [England] ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)264761432" ],
+        "doi" : [ "10.1017/CHOL9780521434928" ],
+        "edition" : [ "Rev. ed." ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of Italian literature" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of Italian literature /" ],
+        "author" : [ "Brand, C. P. (Charles Peter)" ],
+        "creationdate" : [ "1997" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:0511467869,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pq#4038ǂ c35 1997",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "20",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "24",
-    "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 25,
-    "COMBINED_SEARCH_TIME" : 28,
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "78",
+    "CALL_SOLR_GET_IDS_LIST" : "101",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "77",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "25",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "74",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "84",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "354",
+    "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
+    "BUILD_COMBINED_RESULTS_MAP" : 381,
+    "COMBINED_SEARCH_TIME" : 384,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1997",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Italian Literature",
+      "count" : "1"
+    }, {
+      "value" : "Italian Literature History And Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Littérature Italienne Histoire Et Critique",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brand C P",
+      "count" : "1"
+    }, {
+      "value" : "Pertile Lino",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

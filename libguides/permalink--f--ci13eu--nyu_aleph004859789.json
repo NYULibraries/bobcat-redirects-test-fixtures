@@ -1,22 +1,206 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188381007871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Cambridge history of the book in Britain. Vol. 2, 1100-1400 " ],
+        "subject" : [ "Books -- Great Britain -- History -- 400-1450", "Livres -- Grande-Bretagne -- Histoire -- 400-1450", "Books", "Great Britain", "400-1450" ],
+        "format" : [ "1 online resource (617 pages) : illustrations, facsimiles" ],
+        "identifier" : [ "$$CISBN$$V1139054201;$$CISBN$$V9781139054201;$$CISBN$$V9780511466731;$$CISBN$$V0511466730;$$COCLC$$V(OCoLC)316278303" ],
+        "creationdate" : [ "2008" ],
+        "publisher" : [ "Cambridge, UK ; New York : Cambridge University Press" ],
+        "description" : [ "26 expert contributions to this volumes discuss the manuscript book from a variety of angles: as physical object (manufacture, format, writing, and decoration), its purpose and readership, and as a vehicle for particular types of text (history, sermons, medical treatises, law and administration, music)." ],
+        "mms" : [ "9997188381007871" ],
+        "contributor" : [ "Morgan, Nigel J.$$QMorgan, Nigel J.", "Thomson, Rodney M.$$QThomson, Rodney M." ],
+        "series" : [ "Cambridge histories online$$QCambridge histories online", "Cambridge histories online.$$QCambridge histories online." ],
+        "contents" : [ "Preface / Rodney M. Thomson and Nigel Morgan -- The roles of books -- Books and society / Christopher de Hamel -- Language and literacy / Rodney M. Thomson and Nigel Morgan -- Book production -- The format of books -- Layout and presentation of the text / M.B. Parkes -- Technology of production of the manuscript book -- Parchment and paper, ruling and ink / Rodney M. Thomson -- Illumination -- Bookbindings / Michael Gullick and Nicholas Hadgraft -- Handwriting in English books / M.B. Parkes -- Monastic and cathedral book production / Rodney M. Thomson -- Urban production of manuscript books and the role of the university towns / M.A. Michael -- Readership, libraries, texts and contexts -- Library catalogues and indexes / Richard Sharpe -- University and monastic texts -- Biblical exegesis, theology, and philosophy / Jeremy Catto -- Latin learning and Latin literature / Jan Ziolkowski -- Encyclopaedias / Michael Twomey -- Law / Nigel Ramsay -- Books for the liturgy and private prayer / Nigel Morgan -- Compilations for preaching and Lollard literature -- Compilations for preaching / Alan J. Fletcher -- Lollard literature / Anne Hudson -- Spiritual writings and religious instruction / Alexandra Barratt -- Vernacular literature and its readership -- The Anglo-Norman book / Tony Hunt -- Middle English literary writings, 1150-1400 / Julia Boffey and A.S.G. Edwards -- The Welsh book / Daniel Huws -- History and history books / Geoffrey Martin and Rodney M. Thomson -- Archive books / Nigel Ramsay -- Scientific and medical writings -- The introduction of scientific texts into Britain, c. 1100-1250 / Charles Burnett -- University books and the sciences, c.1250-1400 / Peter Murray Jones -- Music / Nicolas Bell -- Illustration and ornament / Martin Kauffmann." ],
+        "genre" : [ "History" ],
+        "place" : [ "Cambridge, UK ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "camball", "aleph004859789" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188381007871" ],
+        "recordid" : [ "alma9997188381007871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)316278303" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Morgan", "Thomson" ],
+        "aufirst" : [ "Nigel J.", "Rodney M." ],
+        "auinit" : [ "N", "R" ],
+        "addau" : [ "Morgan, Nigel J.", "Thomson, Rodney M." ],
+        "contributorfull" : [ "$$NMorgan, Nigel J.$$LMorgan$$FNigel J.$$Rcontributor", "$$NThomson, Rodney M.$$Rcontributor" ],
+        "date" : [ "2008" ],
+        "isbn" : [ "1139054201", "9781139054201", "9780511466731", "0511466730" ],
+        "notes" : [ "Includes bibliographical references and indexes." ],
+        "abstract" : [ "26 expert contributions to this volumes discuss the manuscript book from a variety of angles: as physical object (manufacture, format, writing, and decoration), its purpose and readership, and as a vehicle for particular types of text (history, sermons, medical treatises, law and administration, music)." ],
+        "cop" : [ "Cambridge, UK ;" ],
+        "pub" : [ "Cambridge University Press" ],
+        "oclcid" : [ "(ocolc)316278303" ],
+        "seriestitle" : [ "Cambridge histories online" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Cambridge history of the book in Britain. Vol. 2, 1100-1400" ]
+      },
+      "sort" : {
+        "title" : [ "Cambridge history of the book in Britain. Vol. 2, 1100-1400 /" ],
+        "author" : [ "Morgan, Nigel J." ],
+        "creationdate" : [ "2008" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781139054201,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "z 8 g7",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "26",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "30",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "91",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "32",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "32",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "29",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "3",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "69",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "303",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 33,
-    "COMBINED_SEARCH_TIME" : 35,
+    "BUILD_COMBINED_RESULTS_MAP" : 331,
+    "COMBINED_SEARCH_TIME" : 334,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2008",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "400 1450",
+      "count" : "1"
+    }, {
+      "value" : "Books",
+      "count" : "1"
+    }, {
+      "value" : "Books Great Britain History 400 1450",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Livres Grande Bretagne Histoire 400 1450",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Morgan Nigel J",
+      "count" : "1"
+    }, {
+      "value" : "Thomson Rodney M",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

@@ -1,22 +1,281 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997187111607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Twenty minutes in Manhattan " ],
+        "subject" : [ "Sorkin, Michael, 1948-2020 -- Homes and haunts -- New York (State) -- New York", "Sorkin, Michael, 1948-2020", "Architecture -- New York (State) -- New York", "Urban ecology (Sociology) -- New York (State) -- New York", "Street life -- New York (State) -- New York", "Manhattan (New York, N.Y.) -- Buildings, structures, etc", "Écologie urbaine -- New York (État) -- New York", "Vie dans la rue -- New York (État) -- New York", "Architecture -- New York (État) -- New York", "ARCHITECTURE -- Regional", "ARCHITECTURE -- Criticism", "ARCHITECTURE -- History -- General", "Architecture", "Buildings", "Homes", "Street life", "Urban ecology (Sociology)", "New York (State) -- New York", "New York (State) -- New York -- Manhattan", "Architektur", "Stadtleben", "New York (N.Y.)" ],
+        "format" : [ "1 online resource (215 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781861896919;$$CISBN$$V1861896913;$$COCLC$$V(OCoLC)465191329;$$CISBN$$V9781861894281" ],
+        "creationdate" : [ "©2009" ],
+        "creator" : [ "Sorkin, Michael, 1948-2020.$$QSorkin, Michael" ],
+        "publisher" : [ "London : Reaktion Books Ltd." ],
+        "description" : [ "Twenty Minutes in Manhattan offers a testing ground for speculation about the way in which the city can be newly imagined and designed, to deal with pressing issues such as the crisis of the environment, free expression and public space, security and surveillance, the place of history, and the future of the neighbourhood." ],
+        "mms" : [ "9997187111607871" ],
+        "contents" : [ "The stairs -- The stoop -- The block -- Washington Square -- LaGuardia Place -- Soho -- Canal Street -- Tribeca -- 145 Hudson Street -- Alternative routes -- Esprit d'Escalier." ],
+        "relation" : [ "$$Cform$$VPrint version: Sorkin, Michael, 1948- Twenty minutes in Manhattan. London : Reaktion Books Ltd., 2009$$QTwenty minutes in Manhattan." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph007708531" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997187111607871" ],
+        "recordid" : [ "alma9997187111607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)465191329" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Sorkin" ],
+        "aufirst" : [ "Michael" ],
+        "auinit" : [ "M" ],
+        "au" : [ "Sorkin, Michael" ],
+        "creatorfull" : [ "$$NSorkin, Michael$$LSorkin$$FMichael$$Rauthor" ],
+        "date" : [ "2009", "©2009" ],
+        "isbn" : [ "9781861896919", "1861896913", "9781861894281" ],
+        "abstract" : [ "Twenty Minutes in Manhattan offers a testing ground for speculation about the way in which the city can be newly imagined and designed, to deal with pressing issues such as the crisis of the environment, free expression and public space, security and surveillance, the place of history, and the future of the neighbourhood." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Reaktion Books Ltd." ],
+        "oclcid" : [ "(ocolc)465191329" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Twenty minutes in Manhattan" ]
+      },
+      "sort" : {
+        "title" : [ "Twenty minutes in Manhattan /" ],
+        "author" : [ "Sorkin, Michael, 1948-2020." ],
+        "creationdate" : [ "2009" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9997187111607871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9997187111607871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9997187111607871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1861896913,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "na\"735 n5ǂs68 2009eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "45",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "51",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "99",
+    "CALL_SOLR_GET_IDS_LIST" : "67",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "79",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "44",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "46",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "28",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "51",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "92",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "351",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 52,
-    "COMBINED_SEARCH_TIME" : 55,
+    "BUILD_COMBINED_RESULTS_MAP" : 386,
+    "COMBINED_SEARCH_TIME" : 390,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2009",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Architecture",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Criticism",
+      "count" : "1"
+    }, {
+      "value" : "Architecture History General",
+      "count" : "1"
+    }, {
+      "value" : "Architecture New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "Architecture New York État New York",
+      "count" : "1"
+    }, {
+      "value" : "Architecture Regional",
+      "count" : "1"
+    }, {
+      "value" : "Architektur",
+      "count" : "1"
+    }, {
+      "value" : "Buildings",
+      "count" : "1"
+    }, {
+      "value" : "Homes",
+      "count" : "1"
+    }, {
+      "value" : "Manhattan New York N Y Buildings Structures Etc",
+      "count" : "1"
+    }, {
+      "value" : "New York N Y",
+      "count" : "1"
+    }, {
+      "value" : "New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "New York State New York Manhattan",
+      "count" : "1"
+    }, {
+      "value" : "Sorkin Michael 1948 2020",
+      "count" : "1"
+    }, {
+      "value" : "Sorkin Michael 1948 2020 Homes And Haunts New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "Stadtleben",
+      "count" : "1"
+    }, {
+      "value" : "Street Life",
+      "count" : "1"
+    }, {
+      "value" : "Street Life New York State New York",
+      "count" : "1"
+    }, {
+      "value" : "Urban Ecology Sociology",
+      "count" : "1"
+    }, {
+      "value" : "Urban Ecology Sociology New York State New York",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Sorkin Michael",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

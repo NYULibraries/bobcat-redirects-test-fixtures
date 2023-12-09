@@ -1,22 +1,217 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997188106507871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Re-viewing television history : critical issues in television historiography " ],
+        "subject" : [ "Television programs -- History", "Television programs -- Historiography", "Télévision -- Émissions -- Histoire", "Télévision -- Émissions -- Historiographie", "Émissions télévisées -- Histoire", "Émissions télévisées -- Historiographie", "PERFORMING ARTS -- Television -- Reference", "Television programs", "BBC", "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland" ],
+        "format" : [ "1 online resource (x, 245 pages)" ],
+        "identifier" : [ "$$CISBN$$V9781435691797;$$CISBN$$V1435691792;$$CISBN$$V1282750534;$$CISBN$$V9781282750531;$$CISBN$$V9780857716392;$$CISBN$$V0857716395;$$CISBN$$V9786000011581;$$CISBN$$V600001158X;$$COCLC$$V(OCoLC)300481920;$$CISBN$$V9781845111885;$$CISBN$$V1845111885" ],
+        "creationdate" : [ "2007" ],
+        "publisher" : [ "London ; New York : I.B. Tauris" ],
+        "mms" : [ "9997188106507871" ],
+        "contributor" : [ "Wheatley, Helen (Helen M.)$$QWheatley, Helen" ],
+        "addtitle" : [ "Reviewing television history" ],
+        "contents" : [ "pt. 1. Debating the canon -- pt. 2. Textual histories -- pt. 3. Production and institutions -- pt. 4. Audiences." ],
+        "genre" : [ "History" ],
+        "relation" : [ "$$Cform$$VPrint version: Re-viewing television history. London ; New York : I.B. Tauris, 2007$$QRe-viewing television history." ],
+        "place" : [ "London ; New York :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebceb", "aleph006066270" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997188106507871" ],
+        "recordid" : [ "alma9997188106507871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)300481920" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Wheatley" ],
+        "aufirst" : [ "Helen" ],
+        "auinit" : [ "H" ],
+        "addau" : [ "Wheatley, Helen (Helen M.)" ],
+        "contributorfull" : [ "$$NWheatley, Helen (Helen M.)$$LWheatley$$FHelen$$Rcontributor" ],
+        "addtitle" : [ "Reviewing television history" ],
+        "date" : [ "2007" ],
+        "isbn" : [ "9781435691797", "1435691792", "1282750534", "9781282750531", "9780857716392", "0857716395", "9786000011581", "600001158X", "9781845111885", "1845111885" ],
+        "notes" : [ "Includes bibliographical references (pages 219-234) and index." ],
+        "cop" : [ "London ;" ],
+        "pub" : [ "I.B. Tauris" ],
+        "oclcid" : [ "(ocolc)300481920" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Re-viewing television history : critical issues in television historiography" ]
+      },
+      "sort" : {
+        "title" : [ "Re-viewing television history : critical issues in television historiography /" ],
+        "author" : [ "Wheatley, Helen (Helen M.)" ],
+        "creationdate" : [ "2007" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1435691792,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#1992.2ǂ r48 2007eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "26",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "36",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "104",
+    "CALL_SOLR_GET_IDS_LIST" : "85",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "35",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "57",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "38",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "31",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "91",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "330",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 1,
-    "BUILD_COMBINED_RESULTS_MAP" : 37,
-    "COMBINED_SEARCH_TIME" : 40,
+    "BUILD_COMBINED_RESULTS_MAP" : 365,
+    "COMBINED_SEARCH_TIME" : 368,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2007",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Bbc",
+      "count" : "1"
+    }, {
+      "value" : "Performing Arts Television Reference",
+      "count" : "1"
+    }, {
+      "value" : "Television Programs",
+      "count" : "1"
+    }, {
+      "value" : "Television Programs Historiography",
+      "count" : "1"
+    }, {
+      "value" : "Television Programs History",
+      "count" : "1"
+    }, {
+      "value" : "Télévision Émissions Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Télévision Émissions Historiographie",
+      "count" : "1"
+    }, {
+      "value" : "Verenigd Koninkrijk Van Groot Brittannië En Noord Ierland",
+      "count" : "1"
+    }, {
+      "value" : "Émissions Télévisées Histoire",
+      "count" : "1"
+    }, {
+      "value" : "Émissions Télévisées Historiographie",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Wheatley Helen",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

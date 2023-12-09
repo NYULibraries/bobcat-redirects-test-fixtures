@@ -1,22 +1,168 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996745121307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "und" ],
+        "title" : [ "Board Approves Budget Priorities Based on Survey - Survey Audience - Survey Methodology" ],
+        "format" : [ "1 online resource", "text file" ],
+        "creationdate" : [ "2022" ],
+        "publisher" : [ "United States of America : Sacramento County, California." ],
+        "description" : [ "that focus on the most critical and The budget priorities were a result of urgent needs, with the following the County’s Community Engagement priority focus areas identified in a Plan to develop priorities for the budget survey of County residents: based on public input and the results of a • A Countywide focus area of survey of adult residents of Sacramento addressing homelessness and its County. [...] improving the condition of streets in proportion to the population, The recommended priorities for the use of and roads represented the County’s adult population General Fund discretionary funds in the FY demographics by age and gender, 2022-23 budget are: Survey Methodology and came from a mix of educational 1. [...] » H omelessness and Housing: {dollar}59 million (39 percent of allocation) The proposal was the result of feedback Examples of the types of investments in from residents, business and community » Health: {dollar}19.8 million (13 percent of each of the categories: organizations who provided input in a allocation) » Housing and Homelessness: Community Needs Survey regarding the » Economic Response: {dollar}19.8 million. [...] County Context: The top concern the survey child abuse prevention and reliable water Allocating the County Budget: Residents respondents want the County to address, are seen as key to quality of life. [...] The of people and comply with the Federal public will be able to continue to access the Voting Rights Act of 1965." ],
+        "mms" : [ "9996745121307871" ],
+        "contributor" : [ "Coherent Digital (firm)$$QCoherent Digital (firm)" ],
+        "relation" : [ "$$Cdata_source$$VCities: US West POCO_POCC_USWE$$QCities: US West", "$$Cdata_source$$VNorth American City Reports POCO_POCC_ALL$$QNorth American City Reports" ],
+        "place" : [ "United States of America] :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph008131023" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996745121307871" ],
+        "recordid" : [ "alma9996745121307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)b1f1d524b44ade08" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2022" ],
+        "abstract" : [ "that focus on the most critical and The budget priorities were a result of urgent needs, with the following the County’s Community Engagement priority focus areas identified in a Plan to develop priorities for the budget survey of County residents: based on public input and the results of a • A Countywide focus area of survey of adult residents of Sacramento addressing homelessness and its County. [...] improving the condition of streets in proportion to the population, The recommended priorities for the use of and roads represented the County’s adult population General Fund discretionary funds in the FY demographics by age and gender, 2022-23 budget are: Survey Methodology and came from a mix of educational 1. [...] » H omelessness and Housing: {dollar}59 million (39 percent of allocation) The proposal was the result of feedback Examples of the types of investments in from residents, business and community » Health: {dollar}19.8 million (13 percent of each of the categories: organizations who provided input in a allocation) » Housing and Homelessness: Community Needs Survey regarding the » Economic Response: {dollar}19.8 million. [...] County Context: The top concern the survey child abuse prevention and reliable water Allocating the County Budget: Residents respondents want the County to address, are seen as key to quality of life. [...] The of people and comply with the Federal public will be able to continue to access the Voting Rights Act of 1965." ],
+        "cop" : [ "United States of America" ],
+        "pub" : [ "Sacramento County, California." ],
+        "oclcid" : [ "(vaalcd)20.500.12592/x4bncr" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Board Approves Budget Priorities Based on Survey - Survey Audience - Survey Methodology" ]
+      },
+      "sort" : {
+        "title" : [ "Board Approves Budget Priorities Based on Survey - Survey Audience - Survey Methodology," ],
+        "author" : [ "Coherent Digital (firm)" ],
+        "creationdate" : [ "2022" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "37",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "46",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "97",
+    "CALL_SOLR_GET_IDS_LIST" : "75",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "26",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "40",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "51",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "25",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "1",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "46",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "255",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 49,
-    "COMBINED_SEARCH_TIME" : 51,
+    "BUILD_COMBINED_RESULTS_MAP" : 290,
+    "COMBINED_SEARCH_TIME" : 292,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "und",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2022",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

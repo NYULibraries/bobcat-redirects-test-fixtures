@@ -1,22 +1,235 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996736489307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng;rus" ],
+        "title" : [ "SOVIET UNION: Contacts with Russian Orthodox church, history of St Andrew's church, Moscow and return of ownership (FCO28-499)." ],
+        "subject" : [ "Foreign affairs", "Foreign policy", "International relations", "World politics", "Soviet Union -- Politics and government", "Soviet Union -- Foreign relations" ],
+        "format" : [ "1 online resource : colour text file, PDF" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "Abingdon, England: Taylor & Francis" ],
+        "description" : [ "A file containing documents concerning Anglo-Soviet church-state relations. The file includes a note about plans for members of a British Quaker organisation to visit the Soviet Union; a letter from the British embassy in Moscow reporting on the visit of the British Quakers; notes on a visit to Moscow and to the Theological Academy at Zagorsk by the bishop of Fulham; and the text of a statement made by the Archbishop of Canterbury on the war in Vietnam. The file also includes notes on a conversation between the Anglican chaplain of Helsinki and the bishop of Zaraisk; notes on Soviet government claims to English churches in Russia; a discussion on claims to an English church in Riga; and a discussion of reclaiming the building of the Church of Saint Andrew in Moscow, a former English church used by the Anglican community there." ],
+        "mms" : [ "9996736489307871" ],
+        "contributor" : [ "Great Britain. Foreign and Commonwealth Office. Political Departments.$$QGreat Britain. Foreign and Commonwealth Office. Political Departments.", "Coherent Digital (Firm)$$QCoherent Digital (Firm)" ],
+        "series" : [ "Cold War Eastern Europe.$$QCold War Eastern Europe.", "FCO28 : Foreign Office and Foreign and Commonwealth Office: Northern Department and East European and Soviet Department (and succeeding departments): Registered Files (N, EN and ES Series) ; FCO28-499$$QFCO28 : Foreign Office and Foreign and Commonwealth Office: Northern Department and East European and Soviet Department (and succeeding departments): Registered Files (N, EN and ES Series) ", "FCO28: Foreign Office and Foreign and Commonwealth Office: Northern Department and East European and Soviet Department (and succeeding departments): Registered Files (N, EN and ES Series) ; FCO28-499.$$QFCO28: Foreign Office and Foreign and Commonwealth Office: Northern Department and East European and Soviet Department (and succeeding departments): Registered Files (N, EN and ES Series) " ],
+        "relation" : [ "$$Cdata_source$$VCold War Eastern Europe, 1947-1982 HICO_CWEE$$QCold War Eastern Europe, 1947-1982", "$$Cdata_source$$VCold War Eastern Europe, 1967-1975: Module 3 HICO_CWM3$$QCold War Eastern Europe, 1967-1975: Module 3", "$$Cdata_source$$VHistory Commons HICO_ALL$$QHistory Commons", "$$Cform$$VPrint manuscript version: SOVIET UNION: Contacts with Russian Orthodox church, history of St Andrew's church, Moscow and return of ownership. (London : Foreign Office, 1967-1968).$$QSOVIET UNION: Contacts with Russian Orthodox church, history of St Andrew's church, Moscow and return of ownership." ],
+        "place" : [ "Abingdon, England:" ],
+        "version" : [ "0" ],
+        "lds52" : [ "cohcomm", "aleph007441747" ],
+        "lds60" : [ "File date: 1967 to 1968.", "Date document(s) were released to the public domain: 1999.", "File was closed until January 1, 1999, under the Public Records Act 1958.", "Title from Cold War Eastern Europe Module III." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996736489307871" ],
+        "recordid" : [ "alma9996736489307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(cohcomm)7d0fe3bffc166ea1" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2019" ],
+        "abstract" : [ "A file containing documents concerning Anglo-Soviet church-state relations. The file includes a note about plans for members of a British Quaker organisation to visit the Soviet Union; a letter from the British embassy in Moscow reporting on the visit of the British Quakers; notes on a visit to Moscow and to the Theological Academy at Zagorsk by the bishop of Fulham; and the text of a statement made by the Archbishop of Canterbury on the war in Vietnam. The file also includes notes on a conversation between the Anglican chaplain of Helsinki and the bishop of Zaraisk; notes on Soviet government claims to English churches in Russia; a discussion on claims to an English church in Riga; and a discussion of reclaiming the building of the Church of Saint Andrew in Moscow, a former English church used by the Anglican community there." ],
+        "cop" : [ "Abingdon, England" ],
+        "pub" : [ "Taylor & Francis" ],
+        "oclcid" : [ "(vaalcd)20.500.12592/sjxcc3" ],
+        "seriestitle" : [ "FCO28 : Foreign Office and Foreign and Commonwealth Office: Northern Department and East European and Soviet Department (and succeeding departments): Registered Files (N, EN and ES Series) ; FCO28-499" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "SOVIET UNION: Contacts with Russian Orthodox church, history of St Andrew's church, Moscow and return of ownership (FCO28-499)." ]
+      },
+      "sort" : {
+        "title" : [ "SOVIET UNION: Contacts with Russian Orthodox church, history of St Andrew's church, Moscow and return of ownership (FCO28-499)." ],
+        "author" : [ "Great Britain. Foreign and Commonwealth Office. Political Departments." ],
+        "creationdate" : [ "9999" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996736489307871"
+        } ],
+        "instCode" : "01NYU_US",
+        "instName" : "New York University Shanghai",
+        "instId" : "7877",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996736489307871"
+        } ],
+        "instCode" : "01NYU_INST",
+        "instName" : "New York University - New York",
+        "instId" : "7876",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      }, {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996736489307871"
+        } ],
+        "instCode" : "01NYU_AD",
+        "instName" : "New York University Abu Dhabi",
+        "instId" : "7879",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "25",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "32",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "93",
+    "CALL_SOLR_GET_IDS_LIST" : "79",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "70",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "39",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "47",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "48",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "22",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "111",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "363",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 34,
-    "COMBINED_SEARCH_TIME" : 37,
+    "BUILD_COMBINED_RESULTS_MAP" : 388,
+    "COMBINED_SEARCH_TIME" : 390,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    }, {
+      "value" : "rus",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1967",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Foreign Affairs",
+      "count" : "1"
+    }, {
+      "value" : "Foreign Policy",
+      "count" : "1"
+    }, {
+      "value" : "International Relations",
+      "count" : "1"
+    }, {
+      "value" : "Soviet Union Foreign Relations",
+      "count" : "1"
+    }, {
+      "value" : "Soviet Union Politics And Government",
+      "count" : "1"
+    }, {
+      "value" : "World Politics",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Coherent Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "Great Britain Foreign And Commonwealth Office Political Departments",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "tlevel",
+    "values" : [ {
+      "value" : "online_resources",
+      "count" : "1"
+    } ]
+  } ]
 }

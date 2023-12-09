@@ -1,15 +1,262 @@
 {
   "info" : {
-    "totalResultsLocal" : 1,
+    "totalResultsLocal" : 3,
     "totalResultsPC" : -1,
-    "total" : 1,
+    "total" : 3,
     "first" : 1,
-    "last" : 1
+    "last" : 3
   },
   "highlights" : {
     "termsUnion" : [ ]
   },
   "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9997225900607871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Methuen Drama handbook of theatre history and historiography " ],
+        "subject" : [ "Theater -- History", "Theatre Studies" ],
+        "format" : [ "1 online resource (392 pages) : illustrations (black and white)" ],
+        "identifier" : [ "$$CISBN$$V9781350034327;$$COCLC$$V(OCoLC)1132339507;$$CISBN$$V9781350034310;$$CISBN$$V9781350034303;$$CISBN$$V9781350034297" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "London : Bloomsbury Publishing" ],
+        "description" : [ "\"The Methuen Drama Handbook of Theatre History and Historiography is an authoritative guide to contemporary debates and practices in this field. The book covers the key themes and methods that are current in theatre history research, with a particular focus on expanding the object of study to include engagement with theatre and performance practices and the development of theatre histories around the world. Central to the book are eighteen specially commissioned essays by established and emerging scholars from a wide range of international contexts, whose discussion of individual case studies is predicated on their understanding and experience of their 'local' landscape of theatre history. These essays reveal where important work continues to be done in the field and, most valuably, draws on academic contexts beyond the Western academy to expand our knowledge of the exciting directions that such an approach opens up. Prefaced by an introduction tracing the development of the discipline of theatre history and changing historiographical approaches, the Handbook explores current issues pertaining to theatre and performance history research, as well as providing up to date and robust introductions to the methods and historiographic questions being explored by researchers in the field. Featuring a series of essential research tools, including a detailed list of resources and an annotated bibliography of key texts, this is an indispensable scholarly handbook for anyone working in theatre and performance history and historiography\"--Bloomsbury Collections." ],
+        "mms" : [ "9997225900607871" ],
+        "contributor" : [ "Cochrane, Claire, editor.$$QCochrane, Claire", "Robinson, Jo, 1967- editor.$$QRobinson, Jo" ],
+        "series" : [ "Methuen drama handbooks$$QMethuen drama handbooks" ],
+        "contents" : [ "List of Illustrations -- List of Contributors -- Acknowledgements -- How to use this book -- 1. Introduction -- 2. Research Methods and Methodologies -- 3. Current Research: Case Studies from the Field: 3.1 Seeing Differently Through Time and Space ; 3.1.1 A-foot in Time: Temporality in the Space of a Moment in Theatre History ; 3.1.2 Nuwhju and the Archive: Recuperating the History of Aboriginal Australian Performance Practice ; 3.2 Challenging Dominant Histories ; 3.2.1 Theatre History vs Theatre Canon: the Chilean Case ; 3.2.2 When Napoleon went to the Theatre: A Closer Examination of Stories and the History of the Milanese Patriotic Scene ; 3.3 Politics, Precursors and Erasure ; 3.3.1 How to Make Political Theatre? Polish Socialist Realism as a Historiographical Problem ; 3.3.2 The First Actress Party: Adunni Oluwole and the First Guerrilla Theatre in Nigeria ; 3.4 Mapping Landscapes of Theatre ; 3.4.1 Mapping London's Amateur Theatre Histories ; 3.4.2 Between Back Province and Metropolis. Actor Autobiographies as Sources to Trace Cultural Mobility ; 3.5 Place and the Performance Event ; 3.5.1. History vs Historiography. A Renaissance Case Study Revisited ; 3.5.2 Of Shrine and Stage: A Study of Huizhou Temple Theatre in Late Imperial China ; 3.6 Material Evidence and the Archive ; 3.6.1 Historiography of Yellowface: Stage Makeup, Materiality and Technology ; 3.6.2 Archived Voices: Attempting to Listen to the Theatrical Past ; 3.7 The Imperatives of Local Difference ; 3.7.1 What's in a Name? The Performance of Language in the Invention of Colonial and Postcolonial South Asian Theatre History ; 3.7.2 Korean Masked Dance Drama and a Historiography of Emotions ; 3.8 Rhizomes and Palimpsests: Theatre Histories Across Cultures ; 3.8.1 Erased Trails: Investigating Icelandic-Canadian Theatre History ; 3.8.2 Decolonizing Theatre History in the Arab World (The Case of the Maghreb) -- 4. Changing Perspectives and Current Challenges : 4.1 A Manifesto for Performance Research ; 4.2 Digital Histories, Digital Landscapes: New Possibilities of Arranging the Record ; 4.3 Historians in Dialogue: a Roundtable Discussion -- 5.1. Works Cited ; 5.2 Annotated Bibliography ; 5.3 Selected Resources -- Index." ],
+        "genre" : [ "Electronic books" ],
+        "relation" : [ "$$Cform$$VEPUB version", "$$Cform$$VHardback version", "$$Cform$$VPDF version", "$$Cform$$VPrint version: Methuen Drama handbook of theatre history and historiography. London : Methuen Drama, 2019$$QMethuen Drama handbook of theatre history and historiography." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "bloomsdo", "aleph007455715" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9997225900607871" ],
+        "recordid" : [ "alma9997225900607871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(bloomsdo)059ce0568a85a98f" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.4880268E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Cochrane", "Robinson" ],
+        "aufirst" : [ "Claire", "Jo" ],
+        "auinit" : [ "C", "J" ],
+        "addau" : [ "Cochrane, Claire", "Robinson, Jo" ],
+        "contributorfull" : [ "$$NCochrane, Claire$$LCochrane$$FClaire$$Reditor", "$$NRobinson, Jo$$Reditor" ],
+        "date" : [ "2019" ],
+        "isbn" : [ "9781350034327", "9781350034310", "9781350034303", "9781350034297" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The Methuen Drama Handbook of Theatre History and Historiography is an authoritative guide to contemporary debates and practices in this field. The book covers the key themes and methods that are current in theatre history research, with a particular focus on expanding the object of study to include engagement with theatre and performance practices and the development of theatre histories around the world. Central to the book are eighteen specially commissioned essays by established and emerging scholars from a wide range of international contexts, whose discussion of individual case studies is predicated on their understanding and experience of their 'local' landscape of theatre history. These essays reveal where important work continues to be done in the field and, most valuably, draws on academic contexts beyond the Western academy to expand our knowledge of the exciting directions that such an approach opens up. Prefaced by an introduction tracing the development of the discipline of theatre history and changing historiographical approaches, the Handbook explores current issues pertaining to theatre and performance history research, as well as providing up to date and robust introductions to the methods and historiographic questions being explored by researchers in the field. Featuring a series of essential research tools, including a detailed list of resources and an annotated bibliography of key texts, this is an indispensable scholarly handbook for anyone working in theatre and performance history and historiography\"--Bloomsbury Collections." ],
+        "cop" : [ "London" ],
+        "pub" : [ "Bloomsbury Publishing" ],
+        "oclcid" : [ "(ocolc)1132339507" ],
+        "doi" : [ "10.5040/9781350034327" ],
+        "seriestitle" : [ "Methuen drama handbooks" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Methuen Drama handbook of theatre history and historiography" ]
+      },
+      "sort" : {
+        "title" : [ "Methuen Drama handbook of theatre history and historiography /" ],
+        "author" : [ "Cochrane, Claire, editor." ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:1350034320,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2101ǂm48 2019",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  }, {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996710095407871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "The Methuen Drama Handbook to Theatre History and Historiography" ],
+        "subject" : [ "Theater -- History", "Théâtre -- Histoire", "Theater" ],
+        "format" : [ "1 online resource (448) : illustrations" ],
+        "identifier" : [ "$$CISBN$$V1350034312;$$CISBN$$V9781350034310;$$COCLC$$V(OCoLC)1127118674" ],
+        "creationdate" : [ "2019" ],
+        "publisher" : [ "London, UNITED KINGDOM : Methuen Drama" ],
+        "mms" : [ "9996710095407871" ],
+        "series" : [ "Methuen Drama Handbooks$$QMethuen Drama Handbooks", "Methuen drama handbooks.$$QMethuen drama handbooks." ],
+        "genre" : [ "History" ],
+        "place" : [ "London, UNITED KINGDOM :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "ebscoac", "aleph007455715" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996710095407871" ],
+        "recordid" : [ "alma9996710095407871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1127118674" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.4880268E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "date" : [ "2019" ],
+        "isbn" : [ "1350034312", "9781350034310" ],
+        "cop" : [ "London, UNITED KINGDOM" ],
+        "pub" : [ "Methuen Drama" ],
+        "oclcid" : [ "(ocolc)1127118674" ],
+        "seriestitle" : [ "Methuen Drama Handbooks" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "The Methuen Drama Handbook to Theatre History and Historiography" ]
+      },
+      "sort" : {
+        "title" : [ "Methuen Drama Handbook to Theatre History and Historiography" ],
+        "creationdate" : [ "2019" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : [ {
+        "getitLink" : [ {
+          "displayText" : "Alma-E",
+          "linkRecordId" : "9996710095407871"
+        } ],
+        "instCode" : "01NYU_CU",
+        "instName" : "Cooper Union",
+        "instId" : "7874",
+        "availabilityStatus" : "available_online",
+        "envURL" : ""
+      } ],
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781350034310,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "pn#2101",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  }, {
     "context" : "L",
     "adaptor" : "Local Search Engine",
     "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990074557150107871",
@@ -42,7 +289,7 @@
         "originalsourceid" : [ "007455715-NYU01" ],
         "sourcesystem" : [ "EPROD" ],
         "sourceformat" : [ "MARC21" ],
-        "score" : [ "3.5203848E-6" ],
+        "score" : [ "1.4880268E-4" ],
         "isDedup" : false
       },
       "addata" : {
@@ -145,32 +392,35 @@
     }
   } ],
   "timelog" : {
-    "BUILD_RESULTS_RETRIVE_FROM_DB" : "90",
-    "CALL_SOLR_GET_IDS_LIST" : "87",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "31",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "28",
-    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
-    "RETRIVE_FROM_DB_RECORDS" : "43",
-    "RETRIVE_FROM_DB_RELATIONS" : "12",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "27",
-    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "73",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "293",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "182",
+    "CALL_SOLR_GET_IDS_LIST" : "136",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "60",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "45",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "7",
+    "RETRIVE_FROM_DB_RECORDS" : "123",
+    "RETRIVE_FROM_DB_RELATIONS" : "2",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "53",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "7",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "205",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "595",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 319,
-    "COMBINED_SEARCH_TIME" : 322,
+    "BUILD_COMBINED_RESULTS_MAP" : 629,
+    "COMBINED_SEARCH_TIME" : 631,
     "PROCESS_COMBINED_RESULTS" : 0,
-    "FEATURED_SEARCH_TIME" : 1
+    "FEATURED_SEARCH_TIME" : 0
   },
   "facets" : [ {
     "name" : "lang",
     "values" : [ {
       "value" : "eng",
-      "count" : "1"
+      "count" : "3"
     } ]
   }, {
     "name" : "creationdate",
     "values" : [ {
+      "value" : "2019",
+      "count" : "2"
+    }, {
       "value" : "2020",
       "count" : "1"
     } ]
@@ -178,28 +428,37 @@
     "name" : "rtype",
     "values" : [ {
       "value" : "books",
-      "count" : "1"
+      "count" : "3"
     } ]
   }, {
     "name" : "topic",
     "values" : [ {
-      "value" : "Theater",
-      "count" : "1"
-    }, {
       "value" : "Theater History",
-      "count" : "1"
+      "count" : "3"
+    }, {
+      "value" : "Theater",
+      "count" : "2"
     }, {
       "value" : "Théâtre Histoire",
+      "count" : "2"
+    }, {
+      "value" : "Theatre Studies",
       "count" : "1"
     } ]
   }, {
     "name" : "creator",
     "values" : [ {
       "value" : "Cochrane Claire",
-      "count" : "1"
+      "count" : "2"
     }, {
       "value" : "Robinson Jo",
-      "count" : "1"
+      "count" : "2"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "2"
     } ]
   } ]
 }

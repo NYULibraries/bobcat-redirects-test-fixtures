@@ -1,22 +1,212 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996705899307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Encyclopedia of genetics " ],
+        "subject" : [ "Genetics$$QGenetics -- Encyclopedias", "Génétique$$QGénétique -- Encyclopédies", "Genetics", "Genetik", "Genética", "Enciclopédias" ],
+        "format" : [ "1 online resource (4 volumes (lxx, 2257 pages)) : illustrations" ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)191565705;$$CISBN$$V0122270800;$$CISBN$$V9780122270802" ],
+        "creationdate" : [ "2002" ],
+        "publisher" : [ "San Diego : Academic Press" ],
+        "description" : [ "\"The Encyclopedia of Genetics provides the most complete and authoritative coverage of genetics ever published. Dr. Sydney Brenner, the 2002 Nobel Prize winner for Physiology or Medicine, and Professor Jeffrey H. Miller of UCLA have gathered the world's top geneticists to contribute to this outstanding collection. Diverse information is compiled into a single, comprehensive source, containing a clear presentation of cutting-edge knowledge. Easy-to-use and well-organized, the Encyclopedia of Genetics is an invaluable reference work for everyone from the academic researcher to the educated layperson. The Encyclopedia provides: * Comprehensive coverage: at 4 volumes and over 1,700 entries this is the largest Genetics reference work currently available * Complete, up-to-date information * Initial online access to the online version, which includes fully searchable text and numerous hyperlinks to related sites * Cross-references to related articles within the Encyclopedia * 2800 pages; two-color printing throughout text and figures; color plate sections also included.\"--Provided by publisher" ],
+        "mms" : [ "9996705899307871" ],
+        "contributor" : [ "Brenner, Sydney.$$QBrenner, Sydney.", "Miller, Jeffrey H.$$QMiller, Jeffrey H.", "Broughton, William (William J.)$$QBroughton, William" ],
+        "contents" : [ "v. 1. A-D -- v. 2. E-L -- v. 3. M-R -- v. 4. S-Z." ],
+        "genre" : [ "encyclopedias", "Encyclopedias", "Encyclopédies" ],
+        "relation" : [ "$$Cform$$VPrint version: Encyclopedia of genetics. San Diego : Academic Press, ©2002$$QEncyclopedia of genetics." ],
+        "mesh" : [ "Genetics", "Encyclopedia" ],
+        "place" : [ "San Diego :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "elssci", "aleph004466574" ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996705899307871" ],
+        "recordid" : [ "alma9996705899307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)191565705" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.6209055E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Brenner", "Miller", "Broughton" ],
+        "aufirst" : [ "Sydney.", "Jeffrey H.", "William" ],
+        "auinit" : [ "S", "J", "W" ],
+        "addau" : [ "Brenner, Sydney.", "Miller, Jeffrey H.", "Broughton, William (William J.)" ],
+        "contributorfull" : [ "$$NBrenner, Sydney.$$LBrenner$$FSydney.$$Rcontributor", "$$NMiller, Jeffrey H.$$Rcontributor", "$$NBroughton, William (William J.)$$Rcontributor" ],
+        "date" : [ "2002 - 2002", "2002" ],
+        "isbn" : [ "0122270800", "9780122270802" ],
+        "notes" : [ "Includes bibliographical references and index." ],
+        "abstract" : [ "\"The Encyclopedia of Genetics provides the most complete and authoritative coverage of genetics ever published. Dr. Sydney Brenner, the 2002 Nobel Prize winner for Physiology or Medicine, and Professor Jeffrey H. Miller of UCLA have gathered the world's top geneticists to contribute to this outstanding collection. Diverse information is compiled into a single, comprehensive source, containing a clear presentation of cutting-edge knowledge. Easy-to-use and well-organized, the Encyclopedia of Genetics is an invaluable reference work for everyone from the academic researcher to the educated layperson. The Encyclopedia provides: * Comprehensive coverage: at 4 volumes and over 1,700 entries this is the largest Genetics reference work currently available * Complete, up-to-date information * Initial online access to the online version, which includes fully searchable text and numerous hyperlinks to related sites * Cross-references to related articles within the Encyclopedia * 2800 pages; two-color printing throughout text and figures; color plate sections also included.\"--Provided by publisher" ],
+        "cop" : [ "San Diego" ],
+        "pub" : [ "Academic Press" ],
+        "oclcid" : [ "(ocolc)191565705" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Encyclopedia of genetics" ]
+      },
+      "sort" : {
+        "title" : [ "Encyclopedia of genetics /" ],
+        "author" : [ "Brenner, Sydney." ],
+        "creationdate" : [ "2002" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9780122270819,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      },
+      "bibVirtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : true,
+        "callNumber" : "qh\"427ǂ e532 2002eb 0",
+        "callNumberBrowseField" : "LOC_CL"
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "35",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "43",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "82",
+    "CALL_SOLR_GET_IDS_LIST" : "84",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "43",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "14",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "3",
+    "RETRIVE_FROM_DB_RECORDS" : "58",
+    "RETRIVE_FROM_DB_RELATIONS" : "3",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "39",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "4",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "70",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "289",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 44,
-    "COMBINED_SEARCH_TIME" : 47,
+    "BUILD_COMBINED_RESULTS_MAP" : 327,
+    "COMBINED_SEARCH_TIME" : 329,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 0
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "2002",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Enciclopédias",
+      "count" : "1"
+    }, {
+      "value" : "Genetics",
+      "count" : "1"
+    }, {
+      "value" : "Genetics Encyclopedias",
+      "count" : "1"
+    }, {
+      "value" : "Genetik",
+      "count" : "1"
+    }, {
+      "value" : "Genética",
+      "count" : "1"
+    }, {
+      "value" : "Génétique Encyclopédies",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Brenner Sydney",
+      "count" : "1"
+    }, {
+      "value" : "Broughton William",
+      "count" : "1"
+    }, {
+      "value" : "Miller Jeffrey H",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }

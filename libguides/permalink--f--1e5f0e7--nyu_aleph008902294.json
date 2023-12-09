@@ -1,22 +1,198 @@
 {
   "info" : {
-    "totalResultsLocal" : 0,
+    "totalResultsLocal" : 1,
     "totalResultsPC" : -1,
-    "total" : 0,
+    "total" : 1,
     "first" : 1,
-    "last" : 0
+    "last" : 1
   },
-  "highlights" : { },
-  "docs" : [ ],
+  "highlights" : {
+    "termsUnion" : [ ]
+  },
+  "docs" : [ {
+    "context" : "L",
+    "adaptor" : "Local Search Engine",
+    "@id" : "https://na07.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9996702610307871",
+    "pnx" : {
+      "display" : {
+        "source" : [ "Alma" ],
+        "type" : [ "book" ],
+        "language" : [ "eng" ],
+        "title" : [ "Remarks on the injustice and immorality of slavery : in eight letters " ],
+        "subject" : [ "Slavery -- Great Britain", "Slavery", "Slavery -- Moral and ethical aspects", "Great Britain" ],
+        "format" : [ "1 online resource (iv, 42 pages.)." ],
+        "identifier" : [ "$$COCLC$$V(OCoLC)1391652116" ],
+        "creationdate" : [ "1830" ],
+        "creator" : [ "Whitefield, George, 1714-1770, author.$$QWhitefield, George" ],
+        "publisher" : [ "London : Published by John Stephens" ],
+        "mms" : [ "9996702610307871" ],
+        "contributor" : [ "British Library, owner.$$QBritish Library", "Adam Matthew Digital (Firm), digitiser.$$QAdam Matthew Digital (Firm)" ],
+        "addtitle" : [ "Imperial magazine." ],
+        "series" : [ "Slavery, abolition & social justice$$QSlavery, abolition & social justice", "Slavery, abolition & social justice.$$QSlavery, abolition & social justice." ],
+        "place" : [ "London :" ],
+        "version" : [ "0" ],
+        "lds52" : [ "adamall", "aleph008902294" ],
+        "lds60" : [ "Letters were originally printed separately in the Imperial Magazine." ]
+      },
+      "control" : {
+        "sourcerecordid" : [ "9996702610307871" ],
+        "recordid" : [ "alma9996702610307871" ],
+        "sourceid" : "alma",
+        "originalsourceid" : [ "new_(OCoLC)1391652116" ],
+        "sourcesystem" : [ "EPROD" ],
+        "sourceformat" : [ "MARC21" ],
+        "score" : [ "1.620906E-4" ],
+        "isDedup" : false
+      },
+      "addata" : {
+        "aulast" : [ "Whitefield" ],
+        "aufirst" : [ "George" ],
+        "auinit" : [ "G" ],
+        "au" : [ "Whitefield, George" ],
+        "creatorfull" : [ "$$NWhitefield, George$$LWhitefield$$FGeorge$$Rauthor" ],
+        "date" : [ "1830" ],
+        "cop" : [ "London" ],
+        "pub" : [ "Published by John Stephens" ],
+        "oclcid" : [ "(ocolc)1391652116" ],
+        "seriestitle" : [ "Slavery, abolition & social justice" ],
+        "format" : [ "book" ],
+        "genre" : [ "book" ],
+        "ristype" : [ "BOOK" ],
+        "btitle" : [ "Remarks on the injustice and immorality of slavery : in eight letters" ]
+      },
+      "sort" : {
+        "title" : [ "Remarks on the injustice and immorality of slavery : in eight letters /" ],
+        "author" : [ "Whitefield, George, 1714-1770, author." ],
+        "creationdate" : [ "1830" ]
+      },
+      "facets" : {
+        "frbrtype" : [ "6" ]
+      }
+    },
+    "delivery" : {
+      "bestlocation" : null,
+      "holding" : null,
+      "electronicServices" : null,
+      "additionalElectronicServices" : null,
+      "filteredByGroupServices" : null,
+      "quickAccessService" : null,
+      "deliveryCategory" : [ "Alma-P" ],
+      "serviceMode" : [ "howovp" ],
+      "availability" : [ "no_inventory" ],
+      "availabilityLinks" : [ "detailsgetit1" ],
+      "availabilityLinksUrl" : [ "detailsgetit1" ],
+      "displayedAvailability" : "no_inventory",
+      "displayLocation" : null,
+      "additionalLocations" : null,
+      "physicalItemTextCodes" : null,
+      "feDisplayOtherLocations" : null,
+      "almaInstitutionsList" : null,
+      "recordInstitutionCode" : null,
+      "recordOwner" : "01NYU_NETWORK",
+      "hasFilteredServices" : null,
+      "digitalAuxiliaryMode" : false,
+      "hideResourceSharing" : false,
+      "sharedDigitalCandidates" : null,
+      "consolidatedCoverage" : null,
+      "electronicContextObjectId" : null,
+      "GetIt1" : [ {
+        "category" : "Alma-P",
+        "links" : [ {
+          "isLinktoOnline" : false,
+          "getItTabText" : "service_howtogetit",
+          "adaptorid" : "ALMA_01",
+          "ilsApiId" : "",
+          "link" : "HowToGetIt",
+          "inst4opac" : "",
+          "displayText" : null,
+          "@id" : "_:0"
+        } ]
+      } ],
+      "physicalServiceId" : null,
+      "link" : [ {
+        "@id" : ":_0",
+        "linkType" : "thumbnail",
+        "linkURL" : "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:1391652116,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+        "displayLabel" : "thumbnail"
+      } ],
+      "hasD" : null
+    },
+    "enrichment" : {
+      "virtualBrowseObject" : {
+        "isVirtualBrowseEnabled" : false,
+        "callNumber" : "",
+        "callNumberBrowseField" : ""
+      }
+    }
+  } ],
   "timelog" : {
-    "CALL_SOLR_GET_IDS_LIST" : "25",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "0",
-    "PRIMA_LOCAL_SEARCH_TOTAL" : "33",
+    "BUILD_RESULTS_RETRIVE_FROM_DB" : "67",
+    "CALL_SOLR_GET_IDS_LIST" : "110",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY" : "36",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO" : "19",
+    "RETRIVE_FROM_DB_COURSE_INFO" : "4",
+    "RETRIVE_FROM_DB_RECORDS" : "40",
+    "RETRIVE_FROM_DB_RELATIONS" : "1",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS" : "34",
+    "SET_AVAILABILTY_HOLDING_DEDUPS" : "2",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS" : "106",
+    "PRIMA_LOCAL_SEARCH_TOTAL" : "332",
     "BUILD_BLEND_AND_CACHE_RESULTS" : 0,
-    "BUILD_COMBINED_RESULTS_MAP" : 35,
-    "COMBINED_SEARCH_TIME" : 38,
+    "BUILD_COMBINED_RESULTS_MAP" : 360,
+    "COMBINED_SEARCH_TIME" : 362,
     "PROCESS_COMBINED_RESULTS" : 0,
     "FEATURED_SEARCH_TIME" : 1
   },
-  "facets" : [ ]
+  "facets" : [ {
+    "name" : "lang",
+    "values" : [ {
+      "value" : "eng",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creationdate",
+    "values" : [ {
+      "value" : "1830",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "rtype",
+    "values" : [ {
+      "value" : "books",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "topic",
+    "values" : [ {
+      "value" : "Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Slavery",
+      "count" : "1"
+    }, {
+      "value" : "Slavery Great Britain",
+      "count" : "1"
+    }, {
+      "value" : "Slavery Moral And Ethical Aspects",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "creator",
+    "values" : [ {
+      "value" : "Adam Matthew Digital Firm",
+      "count" : "1"
+    }, {
+      "value" : "British Library",
+      "count" : "1"
+    }, {
+      "value" : "Whitefield George",
+      "count" : "1"
+    } ]
+  }, {
+    "name" : "newrecords",
+    "values" : [ {
+      "value" : "90 days back",
+      "count" : "1"
+    } ]
+  } ]
 }
